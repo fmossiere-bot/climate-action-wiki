@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(SRC=\"/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports\" *)",
+      "Bash(cp '__TRACKED_VAR__/FACTS about the Ocean.md' __TRACKED_VAR__/biodiversity-land/)",
+      "Bash(cp '__TRACKED_VAR__/FACTS about Water.md' __TRACKED_VAR__/biodiversity-land/)",
+      "Bash(cp '__TRACKED_VAR__/FACTS about Wetlands.md' __TRACKED_VAR__/biodiversity-land/)",
+      "Bash(cp '__TRACKED_VAR__/OCEAN - Book Notes.md' __TRACKED_VAR__/biodiversity-land/)",
+      "Bash(cp '__TRACKED_VAR__/FACTS about Glacier.md' __TRACKED_VAR__/biodiversity-land/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/COMPANIES, Frameworks, Reporting & Policies/What is  TNFD?.md' /Users/fabienmossiere/climate-action-wiki/wiki/standards-labels/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/COMPANIES, Frameworks, Reporting & Policies/What is ISSB?.md' /Users/fabienmossiere/climate-action-wiki/wiki/standards-labels/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/COMPANIES, Frameworks, Reporting & Policies/What is SDR?.md' /Users/fabienmossiere/climate-action-wiki/wiki/standards-labels/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/COMPANIES, Frameworks, Reporting & Policies/What is the EPD?.md' /Users/fabienmossiere/climate-action-wiki/wiki/standards-labels/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/COMPANIES, Frameworks, Reporting & Policies/Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024.md' /Users/fabienmossiere/climate-action-wiki/wiki/standards-labels/)",
+      "Bash(cp '__TRACKED_VAR__/How about Volcanoe'\\\\''s Sulphur impact.md' __TRACKED_VAR__/climate-science/)",
+      "Bash(cp '__TRACKED_VAR__/Wet-Bulb explained.md' __TRACKED_VAR__/climate-science/)",
+      "Bash(cp '__TRACKED_VAR__/OZONE Layer FACTS.md' __TRACKED_VAR__/climate-science/)",
+      "Bash(cp '__TRACKED_VAR__/TERRA.DO Course Material/Class 20 - Adaptation and Resilience.md' __TRACKED_VAR__/climate-adaptation/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/COMPANIES, Frameworks, Reporting & Policies/What is ESG?.md' /Users/fabienmossiere/climate-action-wiki/wiki/concepts/key-ideas/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/COMPANIES, Frameworks, Reporting & Policies/What is Materiality?.md' /Users/fabienmossiere/climate-action-wiki/wiki/concepts/key-ideas/)",
+      "Bash(cp '/Users/fabienmossiere/climate-action-wiki/raw/obsidian_imports/Carbon footprint, offset and total GHG Emissions/How are we doing?.md' /Users/fabienmossiere/climate-action-wiki/wiki/concepts/key-ideas/)",
+      "Bash(cp '__TRACKED_VAR__/FACTS about DEGROWTH.md' __TRACKED_VAR__/concepts/key-ideas/)",
+      "Bash(cp '__TRACKED_VAR__/FACTS on EVERYTHING - Under the Sky we Make.md' __TRACKED_VAR__/concepts/key-ideas/)",
+      "Bash(cp '__TRACKED_VAR__/How Countries Can Use Behavior Change to Further Reduce Emissions.md' __TRACKED_VAR__/concepts/behavior-change/)",
+      "Bash(cp '__TRACKED_VAR__/The climate Mitigation Gap research.md' __TRACKED_VAR__/concepts/behavior-change/)",
+      "Bash(cp '__TRACKED_VAR__/TERRA.DO Course Material/Class 6 - Climate Communications.md' __TRACKED_VAR__/concepts/behavior-change/)",
+      "Bash(cp '__TRACKED_VAR__/SOMETHING/ACTION GUIDES/Talking about Climate Change ACTION GUIDE.md' __TRACKED_VAR__/concepts/behavior-change/)",
+      "Bash(cp '__TRACKED_VAR__/SOMETHING/ACTION GUIDES/Meat Token ACTION GUIDE.md' __TRACKED_VAR__/concepts/behavior-change/)",
+      "Bash(cp '__TRACKED_VAR__/Carbon footprint, offset and total GHG Emissions/CALCULATOR - Carbon Footprint Calculator.md' __TRACKED_VAR__/_inbox/)",
+      "Bash(cp '__TRACKED_VAR__/COMPANIES, Frameworks, Reporting & Policies/KanakaQ new Classification.md' __TRACKED_VAR__/_inbox/)"
+    ]
+  }
+}

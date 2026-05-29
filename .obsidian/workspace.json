@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "c0256796b685510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b3432e2ab9a1a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d941865f46c22a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/articles/‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ed50e98d79dd4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "beccd836dfe9239d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ef09357c7f2fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a0cf451545537c9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e63b99840a4993a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0556e99158227c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec083fd1b00e39e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb648ab8cf32d76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/articles/‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout"
+            }
+          },
+          {
+            "id": "fa2a385471ffc39a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/articles/‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout"
+            }
+          },
+          {
+            "id": "58fa1ccb4f8434dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d24913586fbf4fee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4339e28f292fe078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/articles/‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d941865f46c22a9b",
+  "lastOpenFiles": [
+    "wiki/solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md",
+    "raw/own-research",
+    "raw/untitled folder",
+    "raw/papers",
+    "wiki/legislation-policy/Boards need to build competencies for a successful ESG strategy.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/sources/colombia-santa-marta-fossil-fuel-talks-2026.md",
+    "wiki/legislation-policy/COP30.md",
+    "raw/articles/‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout.md",
+    "wiki/sources",
+    "Clippings/‘Historic breakthrough’ Colombia climate talks end with hopes raised for fossil fuel phaseout.md",
+    "wiki/biodiversity-land/FACTS about Glacier.md",
+    "Clippings",
+    "wiki/biodiversity-land/Biodiversity for Business 101.md"
+  ]
+}
