@@ -1,2 +1,5 @@
 raw/
 raw/
+.DS_Store
+.obsidian/
+.claude/
