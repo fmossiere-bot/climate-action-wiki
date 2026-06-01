@@ -4,6 +4,7 @@ category: sectors
 tags:
   - ai
   - behaviour
+  - Digital
 created: 2026-06-01
 updated: 2026-06-01
 cover_image: https://wiki.the-uptake.com/assets/_IMAGES/JP.jpg
