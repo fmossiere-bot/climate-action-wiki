@@ -1,3 +1,11 @@
+---
+title: Ireland Land Use, Soil and Forestry
+category: ireland-hub
+tags: [ireland, forest, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
  #Forest #CarbonRemoval #Ireland 
 
 

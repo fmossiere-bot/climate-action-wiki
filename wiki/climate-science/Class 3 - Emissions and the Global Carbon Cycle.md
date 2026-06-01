@@ -1,3 +1,11 @@
+---
+title: Class 3 — Emissions and the Global Carbon Cycle
+category: climate-science
+tags: [science, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed
 
 [LINK](https://textbook.terra.do/class/m-climate-science3-1?r=https://app.terra.do/app/learning/86/my-schedule#m-climate-science3-1)

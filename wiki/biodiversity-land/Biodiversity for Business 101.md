@@ -1,3 +1,11 @@
+---
+title: Biodiversity for Business 101
+category: biodiversity-land
+tags: [biodiversity, nature, esg, ireland]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Biodiversity 
 
 

@@ -1,3 +1,10 @@
+---
+title: FACTS about Soft Pocket Tissues
+category: circularity-waste
+tags: [circularity, forest]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 Source: https://docs.google.com/document/d/1idEygqGAU1kC99aoc5D-Js1AvF773kplTuKUirIbLnE/edit?tab=t.0 
 

@@ -1,3 +1,11 @@
+---
+title: Class 8 — Valuing People and the Planet
+category: concepts
+tags: [science, finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [LINK](https://textbook.terra.do/class/m-development-1)
 
 - [x] Reviewed

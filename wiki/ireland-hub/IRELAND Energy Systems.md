@@ -1,3 +1,11 @@
+---
+title: Ireland Energy Systems
+category: ireland-hub
+tags: [ireland, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland #Energy 
 
 `INDEX:

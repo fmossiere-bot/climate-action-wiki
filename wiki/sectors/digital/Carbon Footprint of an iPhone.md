@@ -1,3 +1,11 @@
+---
+title: Carbon Footprint of an iPhone
+category: sectors
+tags: [carbon, e-waste, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonFootprint 
 
 https://8billiontrees.com/carbon-offsets-credits/carbon-footprint-of-iphone/#:~:text=Carbon%20Footprint%20of%20Charging%20Phone&text=Data%20released%20in%202021%20revealed,and%20a%20half%20billion%20people.

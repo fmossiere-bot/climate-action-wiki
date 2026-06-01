@@ -1,3 +1,11 @@
+---
+title: Avg Carbon Footprint in Ireland
+category: ireland-hub
+tags: [carbon, ireland]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonFootprint #Ireland 
 
 *Source: [AI Generated Research](https://docs.google.com/document/d/19oZNQqHETnwyI63aTYRmvKwxRPLZBx7AV3wdobyC0fc/edit?tab=t.0#heading=h.vpdluobz95hh)*

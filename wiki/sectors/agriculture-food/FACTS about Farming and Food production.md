@@ -1,3 +1,11 @@
+---
+title: FACTS about Farming and Food Production
+category: sectors
+tags: [food, methane, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #UCD #FoodSystems 
 
 [[Food Carbon FootPrint]]

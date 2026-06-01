@@ -1,3 +1,10 @@
+---
+title: COLGATE Sustainability Evaluation
+category: concepts
+tags: [esg, greenwashing]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 ## Some facts about Colgate-Palmolive
 It is a big player with a large market-share:

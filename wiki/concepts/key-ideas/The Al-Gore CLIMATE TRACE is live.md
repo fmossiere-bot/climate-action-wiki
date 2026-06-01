@@ -1,3 +1,11 @@
+---
+title: Climate TRACE — Real-time Emissions Data Goes Live
+category: concepts
+tags: [science, carbon, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [^1]==Source:  [FORBES Article](https://www.forbes.com/sites/we-dont-have-time/2025/04/21/al-gores-real-time-climate-data-just-went-live-heres-why-it-matters/)==
 
 > [!NOTE] ## Last month, something revolutionary quietly took place

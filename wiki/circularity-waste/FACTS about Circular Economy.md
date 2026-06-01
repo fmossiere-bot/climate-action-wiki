@@ -1,3 +1,11 @@
+---
+title: FACTS about Circular Economy
+category: circularity-waste
+tags: [circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Circularity 
 
 

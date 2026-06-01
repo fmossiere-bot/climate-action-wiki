@@ -1,3 +1,11 @@
+---
+title: LED Lighting - Project Drawdown 18
+category: solutions
+tags: [building-industry, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #ProjectDrawdown 
 
 Source: https://drawdown.org/solutions/led-lighting

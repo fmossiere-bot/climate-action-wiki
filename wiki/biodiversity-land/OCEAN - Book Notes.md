@@ -1,3 +1,11 @@
+---
+title: OCEAN - Book Notes
+category: biodiversity-land
+tags: [ocean, nature, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ocean #Book 
 
 ## About Whales

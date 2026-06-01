@@ -1,3 +1,10 @@
+---
+title: INDAVER — Sustainable Waste Management
+category: circularity-waste
+tags: [circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 > INDAVER is an international company which specialised in Sustainable Waste Management. 
 

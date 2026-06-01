@@ -1,3 +1,11 @@
+---
+title: The Environmental Impact of Bitcoin
+category: sectors
+tags: [ai, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Linkedin #bitcoin 
 
 Source: https://www.linkedin.com/pulse/environmental-impact-bitcoin-fabien-mossiere-voj1e/?trackingId=ux2QzaGtTZyj%2BF8L9FK7Cg%3D%3D 

@@ -1,3 +1,11 @@
+---
+title: Class 7 — Mental Models for Climate Action
+category: climate-science
+tags: [science, behaviour]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed
 https://textbook.terra.do/class/solutions-1
 

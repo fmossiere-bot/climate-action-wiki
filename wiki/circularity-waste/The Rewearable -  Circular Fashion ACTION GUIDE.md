@@ -1,3 +1,11 @@
+---
+title: The Rewearable — Circular Fashion Action Guide
+category: circularity-waste
+tags: [fashion, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Fashion #Sustainability 
 
 

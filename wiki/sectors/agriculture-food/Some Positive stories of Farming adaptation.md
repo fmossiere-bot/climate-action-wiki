@@ -1,3 +1,11 @@
+---
+title: Some Positive Stories of Farming Adaptation
+category: sectors
+tags: [food, adaptation, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Agriculture 
 
 ## Solar Power Doubled Mango Production — and Farmers’ Incomes — in Chamwino, Tanzania

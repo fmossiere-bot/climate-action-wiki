@@ -1,3 +1,11 @@
+---
+title: FACTS about Blue Energy and Hydropower
+category: solutions
+tags: [ocean, science, nature]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #RenewableEnergy 
 
 > **Blue energy are renewable energy powers emerging from new technologies in the ocean, leveraging the power of the waves, current, or temperature differences.** 

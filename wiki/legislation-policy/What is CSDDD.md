@@ -1,3 +1,11 @@
+---
+title: What is CSDDD
+category: legislation
+tags: [eu-policy, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: [https://www.irishtimes.com/business/2024/07/09/companies-perceive-data-limitations-as-curb-on-sustainability-efforts/](https://www.irishtimes.com/business/2024/07/09/companies-perceive-data-limitations-as-curb-on-sustainability-efforts/) 
 
 > A new EU directive  will require firms to disclose information on their performance across social and environmental issues

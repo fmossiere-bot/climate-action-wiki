@@ -1,3 +1,11 @@
+---
+title: Why Reporting is Important?
+category: legislation
+tags: [esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [[Employees want to take action]]
 [[Reporting matters 2023]]
 #EmployeeEngagement 

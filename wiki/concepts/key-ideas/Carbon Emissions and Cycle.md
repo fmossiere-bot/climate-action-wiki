@@ -1,3 +1,11 @@
+---
+title: Carbon Emissions and the Carbon Cycle
+category: concepts
+tags: [carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Also see [[Class 3 - Emissions and the Global Carbon Cycle]]
 
 > - Carbon is different from CO2 emissions. Carbon stock means accumulation of Carbon from the emissions of CO2. 40GT of CO2 emissions increaed the Carbon stock by around 4.9GT once we take into acccount the 55% removed thansk to our sink

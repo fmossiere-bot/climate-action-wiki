@@ -1,3 +1,11 @@
+---
+title: IMO Compromise Deal - Shipping Companies to Pay for Carbon Dioxide
+category: legislation
+tags: [shipping, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Transport 
 Sources: [Guardian]([https://www.theguardian.com/environment/2025/apr/11/shipping-companies-pay-carbon-dioxide-produced-by-vessels?CMP=Share_iOSApp_Other](https://www.theguardian.com/environment/2025/apr/11/shipping-companies-pay-carbon-dioxide-produced-by-vessels?CMP=Share_iOSApp_Other)) | [New Scientist](https://www.newscientist.com/article/2476997-does-the-shipping-industrys-plan-for-net-zero-add-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents)
 

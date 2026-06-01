@@ -1,3 +1,10 @@
+---
+title: Class 16 — Carbon Offsets
+category: concepts
+tags: [carbon-offset, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 #CarbonOffset
 

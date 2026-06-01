@@ -1,3 +1,11 @@
+---
+title: Wet-Bulb Temperature Explained
+category: climate-science
+tags: [science, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 What is a wet-bulb? 
 **Wet-bulb temperature**
 

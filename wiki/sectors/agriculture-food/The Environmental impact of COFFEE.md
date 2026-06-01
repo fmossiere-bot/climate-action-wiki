@@ -1,3 +1,11 @@
+---
+title: The Environmental Impact of Coffee
+category: sectors
+tags: [food, carbon, forest]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Sustainability 
 
 Coffee is widely popular

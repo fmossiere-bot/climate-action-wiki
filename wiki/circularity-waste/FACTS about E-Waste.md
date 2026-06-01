@@ -1,3 +1,11 @@
+---
+title: FACTS about E-Waste
+category: circularity-waste
+tags: [e-waste, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #E-Waste
 
 **Source**: Generated using all the resources in Obsidian, Digital Collage, Notebook LM etc ... see [LM Notebook](https://notebooklm.google.com/notebook/f5ab1a3e-e31f-4357-aee0-12a36ec77664?original_referer=https:%2F%2Fwww.ecosia.org%23&pli=1)

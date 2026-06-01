@@ -1,3 +1,11 @@
+---
+title: FACTS About Food Waste
+category: circularity-waste
+tags: [food, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Waste 
 
 

@@ -1,3 +1,10 @@
+---
+title: Is the Meat Industry Following the Oil Industry?
+category: sectors
+tags: [food, fossil-fuels, greenwashing]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 #Myths #FoodSystems 
 

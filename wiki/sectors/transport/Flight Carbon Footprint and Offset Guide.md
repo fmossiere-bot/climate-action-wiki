@@ -1,3 +1,11 @@
+---
+title: Flight Carbon Footprint and Offset Guide
+category: sectors
+tags: [aviation, carbon-offset, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonFootprint #CarbonOffset #Aviation 
 
 *==Source: https://www.offsetguide.org/understanding-carbon-offsets/air-travel-climate/passenger-climate-footprints/*== 

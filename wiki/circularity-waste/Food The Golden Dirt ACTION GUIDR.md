@@ -1,3 +1,10 @@
+---
+title: Food — The Golden Dirt Action Guide
+category: circularity-waste
+tags: [circularity, food]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 #Composting 
 

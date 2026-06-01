@@ -1,3 +1,11 @@
+---
+title: Ireland National Heat Study 2023
+category: ireland-hub
+tags: [ireland, adaptation, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://www.seai.ie/data-and-insights/national-heat-study/key-insights
 
 > The National Heat Study provides a rigorous and comprehensive analysis of the options to reduce CO₂ emissions associated with heating in Ireland.

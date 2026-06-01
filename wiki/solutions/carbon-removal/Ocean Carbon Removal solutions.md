@@ -1,3 +1,10 @@
+---
+title: Ocean Carbon Removal Solutions
+category: solutions
+tags: [ocean, carbon, seaweed]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 ==Source: [Assignment 4 elephant group](https://docs.google.com/document/d/107fqVxpZfCgfVwJRJ5ZSCXGFN4F2AHjGeQKhcRdBcTI/edit#heading=h.2x34ybr8t7ez)==
 

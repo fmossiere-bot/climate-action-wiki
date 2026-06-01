@@ -1,3 +1,11 @@
+---
+title: FACTS about Nuclear Energy
+category: solutions
+tags: [science, phaseout, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #RenewableEnergy #Nuclear
 
 

@@ -1,3 +1,11 @@
+---
+title: First Osmotic Power Plants
+category: solutions
+tags: [ocean, science, nature]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: [https://www.zmescience.com/ecology/japan-first-osmotic-power-plantss/](https://www.zmescience.com/ecology/japan-first-osmotic-power-plantss/) 
 
 > Japan Just Switched on Asia’s First Osmotic Power Plant, Which Runs 24/7 on Nothing But Fresh Water and Seawater

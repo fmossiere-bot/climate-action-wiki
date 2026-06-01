@@ -1,3 +1,11 @@
+---
+title: Waste to Energy (Project Drawdown #58)
+category: circularity-waste
+tags: [circularity, methane, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://drawdown.org/solutions/waste-to-energy
 
 > Despite toxic fumes, burning trash avoids GHGs by preventing methane emissions from overflowing landfills and replacing fossil fuels.

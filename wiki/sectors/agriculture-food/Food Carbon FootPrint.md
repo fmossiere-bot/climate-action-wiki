@@ -1,3 +1,11 @@
+---
+title: Food Carbon Footprint
+category: sectors
+tags: [food, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonFootprint #FoodSystems 
 
 [[Class 14 - About Food and Farming]]

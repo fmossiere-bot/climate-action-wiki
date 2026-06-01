@@ -1,3 +1,11 @@
+---
+title: FSC Standard for Forest Certification
+category: standards
+tags: [forest, nature, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ### Sustainable Forest Management Standard - FSC
 Source: https://fsc.org/ 
 

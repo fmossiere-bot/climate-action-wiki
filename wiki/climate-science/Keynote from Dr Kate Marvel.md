@@ -1,3 +1,11 @@
+---
+title: Keynote — Dr Kate Marvel
+category: climate-science
+tags: [science, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [ ] Check the book to come - https://www.amazon.com/All-We-Can-Save-Solutions/dp/0593237080/ref=sr_1_1?qid=1706114889&refinements=p_27%3AKate+Marvel&s=books&sr=1-1 
 
 https://www.marvelclimate.com/ | 

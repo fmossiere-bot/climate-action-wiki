@@ -1,3 +1,10 @@
+---
+title: STENA Ferry Sustainability Commitment
+category: concepts
+tags: [shipping, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 As a whole, the maritime industry is thriving with innovation in order to reach an ambitious goal to reduce its emission as a whole by 40% by 2030, and net-zero by 2050? 
 

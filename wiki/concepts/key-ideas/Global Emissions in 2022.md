@@ -1,3 +1,11 @@
+---
+title: Global Emissions in 2022
+category: concepts
+tags: [carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 When we look at global emissions, we often look at purely CO2 emissions, then combined with non-CO2 Greenhouse Gaz emissions (GHG) such as Methane, Notrous Oxide and Fluorinated Gases
 
 What are CO2 emissions and GHG? 

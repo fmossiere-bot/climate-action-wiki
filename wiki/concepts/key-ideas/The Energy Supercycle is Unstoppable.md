@@ -1,3 +1,11 @@
+---
+title: The Energy Supercycle is Unstoppable
+category: concepts
+tags: [science, phaseout]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Energy #RenewableEnergy 
 
 | [![](https://img-cache.net/im/1910445/04510cb73f91965ac3398c983e6351d99dedef4c1f49094954540f54caf49134.jpeg?e=S6fMiJPcWwN0dp4TX9Skv_g8uuBIXX_QVfOiTw0Ikyffxcgs2BH0yPUCDkh6C3IWokKfGVqfAr1G_FtXfrI1DSD1y_c3RDTmF-GG-f-0bjyh_veip84pVzH1rvmOrB3tRKCmfJ4fYRC-p4vMBqaAg5pF5R1h9LOuKXkcJ2IGWMWrkYsMlK1sdKtlPpMTNCpjVVgP-ZtGGvRtbGZt3Nsh3CLBs_wAutgsersk7gn0gYvexGvYlkyk)](https://r.sib.wedonthavetime.org/mk/cl/f/oeh6SiZwIXj91ctMF4zL7nnlHDeyoYVpRDx00zaT_Srl_k83foOUCU6VVfw7eoIj0qWwjych8n7izAC2CEvoVvmgUs1x_K0vpnuw2XqxhZ7SdzdX9mLEKU9otQpSWemQ1t4g7j4znJXTYUXOBevWLq2wkAvp90SGusfUMjNynx603YPrcPBKBZPP5azjky-z73chiqBDqFtDsNiSD5z_Z3xxqLA0YuqCr8J0XkxBzSGkuZUOIXd98-HAEK7sKTRx5f8ZnE3RXeJ1ERZRH_s7ICPtLA) |

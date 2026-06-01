@@ -1,3 +1,11 @@
+---
+title: Ireland Real-Time Emission Data with Climate Trace
+category: ireland-hub
+tags: [ireland, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: [[The Al-Gore CLIMATE TRACE is live]]
 
 Looking at Ireland Data on this brand new tool, it confirms that:

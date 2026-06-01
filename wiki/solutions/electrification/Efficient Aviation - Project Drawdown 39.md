@@ -1,3 +1,11 @@
+---
+title: Efficient Aviation - Project Drawdown 39
+category: solutions
+tags: [aviation, alternative-fuels, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://drawdown.org/solutions/efficient-aviation
 
 #ProjectDrawdown #Transport 

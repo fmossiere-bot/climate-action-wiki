@@ -1,3 +1,11 @@
+---
+title: FACTS About Fossil Fuel (Oil and Gas) Industry
+category: solutions
+tags: [fossil-fuels, research, phaseout]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Research #FossilFuel 
 
 Funny INtroduction Rap https://www.youtube.com/watch?v=n63Lz3SQcBk&ab_channel=BabaBrinkman-Topic

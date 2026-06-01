@@ -1,3 +1,11 @@
+---
+title: How Countries Can Use Behaviour Change to Reduce Emissions
+category: concepts
+tags: [behaviour, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://www.wri.org/insights/behavior-change-reduce-emissions-climate-plans
 
 We know that behavioural change is critical in order to achieve net-zero by 2050. But the IPCC goes further and was able to put number on it: 

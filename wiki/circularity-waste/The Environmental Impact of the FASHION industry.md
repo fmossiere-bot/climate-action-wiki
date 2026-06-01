@@ -1,3 +1,11 @@
+---
+title: The Environmental Impact of the Fashion Industry
+category: circularity-waste
+tags: [fashion, circularity, plastic]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Fashion 
 
 There are many ways the Fashion industry is hurting the planet:

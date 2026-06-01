@@ -1,3 +1,11 @@
+---
+title: Class 5 — Local Impact and Extreme Events Attribution
+category: climate-science
+tags: [science, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed
 #Water 
 

@@ -1,3 +1,11 @@
+---
+title: Ireland Biodiversity Plan
+category: ireland-hub
+tags: [ireland, biodiversity, nature]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Biodiversity #Ireland 
 
 > [!NOTE] Content: 

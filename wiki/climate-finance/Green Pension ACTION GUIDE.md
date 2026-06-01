@@ -1,3 +1,11 @@
+---
+title: Green Pension Action Guide
+category: climate-finance
+tags: [finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Finance 
 Source: SOMETHING Workshop - https://docs.google.com/document/d/1U51UVvLYPAwXyUGKP38XAKYDv0lJgUc81iyCvqf1VMI/edit#heading=h.kqsun8ekig3d 
 

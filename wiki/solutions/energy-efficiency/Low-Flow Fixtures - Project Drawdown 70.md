@@ -1,3 +1,11 @@
+---
+title: Low-Flow Fixtures - Project Drawdown 70
+category: solutions
+tags: [building-industry, nature, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://drawdown.org/explorer/use-low-flow-fixtures
 
 > Low-flow fixtures reduce GHG emissions by reducing the volume of hot water used and therefore reducing the emissions from the energy used to heat that water. Reduced water usage also leads to fewer emissions from treating and pumping water for domestic use. Low-flow fixtures are low-cost and simple to install

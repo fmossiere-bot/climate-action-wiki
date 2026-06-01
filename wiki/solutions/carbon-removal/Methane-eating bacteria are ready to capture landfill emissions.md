@@ -1,3 +1,11 @@
+---
+title: Methane-Eating Bacteria Are Ready to Capture Landfill Emissions
+category: solutions
+tags: [methane, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Methane 
 Source: [NewScientist]([https://www.newscientist.com/article/2475959-methane-eating-bacteria-are-ready-to-capture-landfill-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents](https://www.newscientist.com/article/2475959-methane-eating-bacteria-are-ready-to-capture-landfill-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents))
 

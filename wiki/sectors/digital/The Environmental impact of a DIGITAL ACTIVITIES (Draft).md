@@ -1,3 +1,11 @@
+---
+title: The Environmental Impact of Digital Activities (Draft)
+category: sectors
+tags: [ai, carbon, e-waste]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Digital 
 
 

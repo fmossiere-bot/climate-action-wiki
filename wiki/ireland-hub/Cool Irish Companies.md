@@ -1,3 +1,11 @@
+---
+title: Cool Irish Companies
+category: ireland-hub
+tags: [ireland, cool-companies]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland #Environment 
 ## Silicate: The Irish start-up with a concrete plan to save the planet
 Source: https://www.euronews.com/green/2023/10/27/can-concrete-dust-help-to-fight-climate-change-irish-startup-is-trying-it-out-in-us 

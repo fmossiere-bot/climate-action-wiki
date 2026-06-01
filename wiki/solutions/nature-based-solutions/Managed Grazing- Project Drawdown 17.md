@@ -1,3 +1,11 @@
+---
+title: Managed Grazing - Project Drawdown 17
+category: solutions
+tags: [food, carbon, nature]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 
 References: 
 

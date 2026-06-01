@@ -1,3 +1,11 @@
+---
+title: Renewable on Track to Overtake Coal
+category: solutions
+tags: [science, phaseout, fossil-fuels]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Energy #Coal 
 
 ![[IMG_7530.jpg]]

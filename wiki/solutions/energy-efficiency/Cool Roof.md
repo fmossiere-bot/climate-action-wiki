@@ -1,3 +1,11 @@
+---
+title: Cool Roof
+category: solutions
+tags: [building-industry, adaptation, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 > In 2010, a [study by Berkeley Lab](https://newscenter.lbl.gov/2010/07/19/cool-roofs-offset-carbon-dioxide-emissions/) using data from NASA estimated that using “cool roof ” techniques on the roofs and pavement of all cities in the northern hemisphere could have a one-time effect of removing more than 44 billion tons of carbon dioxide — 24 billion tons from roofs and 20 billion tons from pavements. That’s more than the total of all global carbon emissions each year
 
 *Source: [Cleantecnica](https://cleantechnica.com/2023/06/23/cool-roof-technology-could-eliminate-billions-of-tons-of-carbon-dioxide/)*

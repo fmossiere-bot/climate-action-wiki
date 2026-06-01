@@ -1,3 +1,11 @@
+---
+title: Long-Haul Shipping
+category: sectors
+tags: [shipping, carbon, alternative-fuels]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Transport 
 Source: https://textbook.terra.do/class/m-energy2-3
 

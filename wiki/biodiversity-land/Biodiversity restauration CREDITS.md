@@ -1,3 +1,11 @@
+---
+title: Biodiversity Restoration Credits
+category: biodiversity-land
+tags: [biodiversity, nature, carbon-offset, ireland]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://www.irishtimes.com/special-reports/2024/04/25/dunsany-estate-in-co-meath-agrees-landmark-irish-biodiversity-deal/
 
 #CarbonOffset #Biodiversity 

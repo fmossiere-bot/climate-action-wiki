@@ -1,3 +1,11 @@
+---
+title: Plant-Rich Diets - Project Drawdown 3
+category: solutions
+tags: [food, carbon, behaviour]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #ProjectDrawdown #FoodSystems #Meat 
 
 Source: https://drawdown.org/solutions/plant-rich-diets

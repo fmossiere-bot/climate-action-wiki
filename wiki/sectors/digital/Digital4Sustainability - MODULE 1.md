@@ -1,3 +1,11 @@
+---
+title: Digital4Sustainability - Module 1
+category: sectors
+tags: [ai, science, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 **Digital Transformation for Sustainable Development**
 
 > This is a pivotal moment for our world. We can either choose to **harness digital technologies to build a sustainable future** **OR** allow unchecked digitalization to **accelerate the drivers of the Triple Planetary Crisis: climate change, nature loss and pollution.** 

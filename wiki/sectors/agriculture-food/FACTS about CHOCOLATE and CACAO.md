@@ -1,3 +1,11 @@
+---
+title: FACTS about Chocolate and Cacao
+category: sectors
+tags: [food, forest, biodiversity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Sustainability #FoodSystems 
 
 [NotebookLM](https://notebooklm.google.com/notebook/3e1fcfa0-5ff5-4141-b27b-532241a29bea)| [Chocolate Scorecard](https://www.chocolatescorecard.com/)| 

@@ -1,3 +1,11 @@
+---
+title: Bamboo Production - Project Drawdown 31
+category: solutions
+tags: [nature, forest, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #ProjectDrawdown #Bamboo 
 
 Reference to Bamboo

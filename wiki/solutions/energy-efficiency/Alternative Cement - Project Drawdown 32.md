@@ -1,3 +1,11 @@
+---
+title: Alternative Cement - Project Drawdown 32
+category: solutions
+tags: [building-industry, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 
 References: [[The Concrete Industry, Source of emissions, Impact, Soil.canvas|The Concrete Industry, Source of emissions, Impact, Soil]] | [[The Environmental Impact of Concrete, Cement Industry]]  
 

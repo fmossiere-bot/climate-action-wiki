@@ -1,3 +1,11 @@
+---
+title: CO2 Capture
+category: solutions
+tags: [carbon, science, finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 This is another popular solution, which is seeing a lot of investment at the moment, while the amount being removed technically remain very low. 
 - The biggest removal factory in the US aim to remove 1M tonnes per year/ 
 - Oil&Gaz companies shifting to Hydrogen production through a process called "blue" hydrgoen also promote that they will capture the CO2 from teh production process (see [[FACTS about Clean & GREEN Hydrogen#Biden's administration pledge $7B to boost Hydrogen Hubs]] 

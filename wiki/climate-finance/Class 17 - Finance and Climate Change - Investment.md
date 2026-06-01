@@ -1,3 +1,11 @@
+---
+title: Class 17 — Finance and Climate Change: Investment
+category: climate-finance
+tags: [finance, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Finance #ESG 
 
 - [x] Reviewed? 

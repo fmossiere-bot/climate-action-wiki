@@ -1,3 +1,11 @@
+---
+title: Why Reporting - Investors Want Companies to Focus on ESG
+category: legislation
+tags: [esg, finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #ESG #Sustainability 
 
 

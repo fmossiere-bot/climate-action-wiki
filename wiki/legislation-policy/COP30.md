@@ -1,3 +1,11 @@
+---
+title: COP30
+category: legislation
+tags: [cop30, diplomacy, coalition, phaseout, finance, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #COP30
 
 a collection of all is relevant regarding COP30. 

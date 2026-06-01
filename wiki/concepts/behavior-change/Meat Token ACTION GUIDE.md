@@ -1,3 +1,11 @@
+---
+title: Meat Token Action Guide
+category: concepts
+tags: [behaviour, food]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Meat #FoodSystems 
 
 Source: https://docs.google.com/document/d/1Jt_yvHGBNlkgjbyjam7_gwsJJzpdpwBhkIErNbeoeo0/edit 

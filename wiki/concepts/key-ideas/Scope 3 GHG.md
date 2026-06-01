@@ -1,3 +1,11 @@
+---
+title: Scope 3 GHG Emissions
+category: concepts
+tags: [esg, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Scope 3 review Update:
 
 Between November 2022 and March 2023, GHG Protocol invited interested stakeholders to [**provide feedback**](https://engage.ghgprotocol.org/r?i=worldresourcesinstitute&e=cbs25im7jjwudggkbuabazptlabo3tecte7r6hqfdigxwmviybkfme4b5uvymwhega77z4lxtwap4txxgenjksavjqsxczntlqlaoknrfwbbep43rvyxbybb5dz5r243nxfaiqsepbmaylcc4oxea72csynkcptrfooee3abian6jdafucqkcli7a7rzreoscsjwiqi23jpesrlemuhduiy) via four surveys on the _Corporate Standard_, the _Scope 2 Guidance_, the _Scope 3 Standard_, and market-based accounting approaches.

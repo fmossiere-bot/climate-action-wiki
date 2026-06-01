@@ -1,3 +1,11 @@
+---
+title: Ireland Data Centre Dilemma
+category: ireland-hub
+tags: [ireland, ai, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland #RenewableEnergy 
 
 ## About Bitcoin and Cryptocurrency

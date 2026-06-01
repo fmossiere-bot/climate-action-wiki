@@ -1,3 +1,11 @@
+---
+title: Class 13 - Electrify Everything ++
+category: solutions
+tags: [ev, science, phaseout]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed
 
 [LINK](https://textbook.terra.do/class/m-energy2-1?r=https://app.terra.do/app/learning/86/my-schedule#m-energy2-1)

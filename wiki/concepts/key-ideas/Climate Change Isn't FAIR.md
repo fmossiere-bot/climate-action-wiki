@@ -1,3 +1,11 @@
+---
+title: Climate Change Isn't Fair
+category: concepts
+tags: [science, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 See [[FACTS on EVERYTHING - Under the Sky we Make]] Chapter 8 with full details on the unfairness of how Climate Change impact and is created
 
 #### The world's top 1% of emitters produce over 1000 times more CO2 than the bottom 1%

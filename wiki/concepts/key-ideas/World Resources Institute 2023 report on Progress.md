@@ -1,3 +1,11 @@
+---
+title: World Resources Institute 2023 — State of Climate Action
+category: concepts
+tags: [science, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 *Source: https://www.wri.org/research/state-climate-action-2023?__s=z682a788s8g6728tffsq&utm_source=drip&utm_medium=email&utm_campaign=Climate+Switch+-+Nov+30*
 
 Published ahead of the final phase of the Global Stocktake, the _State of Climate Action 2023_ offers a roadmap that the world can follow to avoid increasingly dangerous and irreversible climate impacts, while minimizing harms to biodiversity and food security. It translates the Paris Agreement’s 1.5°C temperature limit into 2030 and 2050 targets across sectors that account for roughly 85% of global GHG emissions — power, buildings, industry, transport, forests and land, food and agriculture — as well as those focused on the scale-up of technological carbon removal and climate finance. The report then assesses collective global progress and highlights where action must urgently accelerate this decade to limit warming to 1.5°C.

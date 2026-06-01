@@ -1,3 +1,11 @@
+---
+title: Greenwashing
+category: concepts
+tags: [greenwashing]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Greenwashing 
 
 ## What is Greenwashing?

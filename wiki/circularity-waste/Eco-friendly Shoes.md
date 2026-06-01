@@ -1,3 +1,11 @@
+---
+title: Eco-friendly Shoes
+category: circularity-waste
+tags: [fashion, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Fashion 
 
 Shoes require multiple layers and materials, usually coming from various places, and not always in a fair way. This is changing slowly, and more and more brands or emerging brands are putting this new card forward. 

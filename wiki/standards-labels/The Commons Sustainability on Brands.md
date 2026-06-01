@@ -1,3 +1,11 @@
+---
+title: The Commons Sustainability on Brands
+category: standards
+tags: [esg, circularity, behaviour]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ==Source: https://www.thecommons.earth/
 
 #Circularity #US 

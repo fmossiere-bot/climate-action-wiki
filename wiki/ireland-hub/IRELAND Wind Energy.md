@@ -1,3 +1,11 @@
+---
+title: Ireland Wind Energy
+category: ireland-hub
+tags: [ireland, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #WindEnergy #Ireland 
 
 Ireland Energy reduction goals by 2030 and 2050 will rely mostly on Wind energy. Although [[IRELAND Energy and Biomass]] will also play a role to substitute gas. Our goals are 

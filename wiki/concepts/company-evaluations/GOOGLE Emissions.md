@@ -1,3 +1,11 @@
+---
+title: GOOGLE Emissions Profile
+category: concepts
+tags: [esg, ai, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Google #CompaniesEmissions
 
 Things to look into for google:

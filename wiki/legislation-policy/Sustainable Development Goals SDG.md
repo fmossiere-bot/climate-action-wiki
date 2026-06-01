@@ -1,3 +1,11 @@
+---
+title: Sustainable Development Goals SDG
+category: legislation
+tags: [science, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Sustainability #SDG 
 
 *==Source: https://www.un.org/sustainabledevelopment/sustainable-development-goals/==*

@@ -1,3 +1,11 @@
+---
+title: EV Progress
+category: solutions
+tags: [ev, battery, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 *==Source: ecologie360 #10 - 2025==*
 
 > [!NOTE] Did you Know? 

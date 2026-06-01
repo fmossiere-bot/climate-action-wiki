@@ -1,3 +1,11 @@
+---
+title: CANVA Scope 3 Reduction
+category: concepts
+tags: [esg, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 *==Source: https://watershed.com/en-GB/customers/canva
 
 ###### The global design platform is using partnerships and clean power projects to drive emissions reductions and set an example for all industries

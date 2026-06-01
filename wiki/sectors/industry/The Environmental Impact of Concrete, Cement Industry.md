@@ -1,3 +1,11 @@
+---
+title: The Environmental Impact of Concrete and Cement Industry
+category: sectors
+tags: [building-industry, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonFootprint #Environment #BulidingIndustry #FACTS #Concrete 
 
 We talk a lot about Concrete and Cement together ... 

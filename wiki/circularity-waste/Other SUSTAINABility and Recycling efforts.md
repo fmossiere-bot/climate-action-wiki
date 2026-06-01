@@ -1,3 +1,10 @@
+---
+title: Other Sustainability and Recycling Efforts
+category: circularity-waste
+tags: [circularity, recycle]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 # Eco-Skis
 New generations of skis are already on the slopes. T**==his winter, Rossignol lead the way with Essential, a recyclable ski, 77% recyclable, or 10x==** more than others. 

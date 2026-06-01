@@ -1,3 +1,11 @@
+---
+title: Greenwashing Lawsuits on the Rise
+category: concepts
+tags: [greenwashing]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Greenwashing #TerraTalk #Meat 
 
 Letitia James is perhaps best known as the New York Attorney General who recently won a US$450 million fraud case against former President Donald Trump and a landmark corruption case against the National Rifle Association.  

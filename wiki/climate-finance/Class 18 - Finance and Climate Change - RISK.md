@@ -1,3 +1,11 @@
+---
+title: Class 18 — Finance and Climate Change: Risk
+category: climate-finance
+tags: [finance, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [LINK](https://textbook.terra.do/class/m-finance-2-1)
 
 #Finance 

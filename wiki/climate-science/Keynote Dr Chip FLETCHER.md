@@ -1,3 +1,11 @@
+---
+title: Keynote — Dr Chip Fletcher
+category: climate-science
+tags: [science, ocean, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 **Link Youtube:**[https://www.youtube.com/watch?v=kxAcm_zCon0&ab_channel=TerradoClimateSchool](https://www.youtube.com/watch?v=kxAcm_zCon0&ab_channel=TerradoClimateSchool)
 
 ## About

@@ -1,3 +1,11 @@
+---
+title: Landfill Methane Capture (Project Drawdown #56)
+category: circularity-waste
+tags: [methane, circularity, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Methane 
 Link to [[Methane emissions role in Global Warming]]
 Source: https://drawdown.org/solutions/landfill-methane-capture

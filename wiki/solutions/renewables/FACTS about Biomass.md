@@ -1,3 +1,11 @@
+---
+title: FACTS about Biomass
+category: solutions
+tags: [alternative-fuels, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 >#Biomass #Biofuels 
 
 ## Introduction to Biomass

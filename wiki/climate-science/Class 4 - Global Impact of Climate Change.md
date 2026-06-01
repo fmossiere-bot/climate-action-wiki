@@ -1,3 +1,11 @@
+---
+title: Class 4 — Global Impact of Climate Change
+category: climate-science
+tags: [science, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed
 
 #Permafrost 

@@ -1,3 +1,11 @@
+---
+title: Composting (Project Drawdown #57)
+category: circularity-waste
+tags: [circularity, food, recycle]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #ProjectDrawdown #Composting 
 
 Source: https://drawdown.org/solutions/composting 

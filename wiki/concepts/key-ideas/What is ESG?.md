@@ -1,3 +1,11 @@
+---
+title: What is ESG?
+category: concepts
+tags: [esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Legislation #ESG 
 ESG stands for **Environment, Social Responsibility and Governance**
 

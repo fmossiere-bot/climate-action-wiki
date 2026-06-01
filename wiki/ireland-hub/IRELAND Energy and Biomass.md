@@ -1,3 +1,10 @@
+---
+title: Ireland Energy and Biomass
+category: ireland-hub
+tags: [ireland, alternative-fuels]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 #Ireland #Biomass #Biofuels 
 With all those risks and controversies, Biomass is actually an integral part of ireland Climate Change plan in terms of Energy production. Why is that? 

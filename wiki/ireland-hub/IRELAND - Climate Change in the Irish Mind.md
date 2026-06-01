@@ -1,3 +1,11 @@
+---
+title: Ireland - Climate Change in the Irish Mind
+category: ireland-hub
+tags: [ireland, behaviour, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland #Communication #Research #ClimateChange #Behaviour 
 
 

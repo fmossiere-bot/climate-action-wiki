@@ -1,3 +1,11 @@
+---
+title: Ireland Waste Management, Recycling and Plastic
+category: ireland-hub
+tags: [ireland, circularity, plastic, recycle]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland #Recycle #Plastic #Composting 
 
 

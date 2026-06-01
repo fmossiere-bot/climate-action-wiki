@@ -1,3 +1,11 @@
+---
+title: Class 9 — The Economics of Climate Change and Carbon Pricing
+category: concepts
+tags: [science, finance, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
  #Economics 
 
 - [ ] Reviewed

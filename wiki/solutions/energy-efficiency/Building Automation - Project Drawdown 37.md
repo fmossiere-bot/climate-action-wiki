@@ -1,3 +1,11 @@
+---
+title: Building Automation - Project Drawdown 37
+category: solutions
+tags: [building-industry, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 
 
 ==Source: https://drawdown.org/solutions/building-automation-systems ==

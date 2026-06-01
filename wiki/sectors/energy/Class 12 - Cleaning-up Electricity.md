@@ -1,3 +1,11 @@
+---
+title: Class 12 - Cleaning Up Electricity
+category: sectors
+tags: [science, phaseout, fossil-fuels]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
  - [x] Reviewed
 
 - Module 1 - [Introduction](https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNjkyNTk5MzczLCJuYmYiOjE2OTI1OTkzNzMsImFjY291bnRfaWQiOiIxMjQwNTY4IiwiZGVsaXZlcnlfaWQiOiJhcHNmNjgxMTlnemJzaXRsb3ZwbCIsInVybCI6Imh0dHBzOi8vdGV4dGJvb2sudGVycmEuZG8vY2xhc3MvbS1lbmVyZ3ktMT90b2tlbj1lbmVyZ3kxJl9fcz16NjgyYTc4OHM4ZzY3Mjh0ZmZzcSZ1dG1fc291cmNlPWRyaXAmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249RnJlZStlbmVyZ3krY2xhc3MrLStlbWFpbCt3aXRoK21vZHVsZXMmdXRtX2NvbnRlbnQ9TGlua3MrdG8rYWNjZXNzK0VuZXJneStDbGFzcyJ9.Fd82m4cEJT2ixM6Y6v8zPMj8WfVNE_M2dZzFCms89jc)

@@ -1,3 +1,11 @@
+---
+title: Ecovadis
+category: standards
+tags: [esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Standard 
 
 Reference: Sustainabl-IT is a provider of Ecovadis certification, and the Saas solution too. 

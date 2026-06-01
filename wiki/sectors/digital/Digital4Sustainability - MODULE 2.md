@@ -1,3 +1,11 @@
+---
+title: Digital4Sustainability - Module 2
+category: sectors
+tags: [ai, science, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 **Digital Sustainability for Climate Action**
 
 ## Objective

@@ -1,3 +1,11 @@
+---
+title: FACTS about Forest, Land Use and Land Management
+category: solutions
+tags: [forest, carbon, nature]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Forest #CarbonRemoval 
 
 >> Also see [[Class 15 - Carbon Removal#Forests How important are forests for climate stability?]]

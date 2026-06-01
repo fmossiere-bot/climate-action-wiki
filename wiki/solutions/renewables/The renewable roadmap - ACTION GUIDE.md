@@ -1,3 +1,11 @@
+---
+title: The Renewable Roadmap - Action Guide
+category: solutions
+tags: [science, phaseout, behaviour]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 https://docs.google.com/document/d/1vuD5dpERjexvH325vMy4hEHLYJ8wjUDMDJuHMzla_iQ/edit 
 
 ### Quote/Interesting Fact

@@ -1,3 +1,11 @@
+---
+title: Class 2 — The Work of Climate Science
+category: climate-science
+tags: [science, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [LINK](https://textbook.terra.do/class/m-climate-science2-1?r=https://app.terra.do/app/learning/86/my-schedule#m-climate-science2-1)
 This foundation is important because it will enable you to make sense of scientific claims in the media, identify reliable scientific resources, and run some basic calculations yourself if you’re so inclined
 

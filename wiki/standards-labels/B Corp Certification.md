@@ -1,3 +1,11 @@
+---
+title: B Corp Certification
+category: standards
+tags: [esg, cool-companies]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Standard 
 Source: https://www.bcorporation.net/en-us/certification/
 

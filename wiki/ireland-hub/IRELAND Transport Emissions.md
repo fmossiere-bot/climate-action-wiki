@@ -1,3 +1,11 @@
+---
+title: Ireland Transport Emissions
+category: ireland-hub
+tags: [ireland, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland #Transport 
 
 Source: https://www.irishtimes.com/special-reports/2024/04/25/decarbonisation-policy-and-support-are-key-to-wider-business-buy-in/ 

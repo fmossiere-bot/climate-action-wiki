@@ -1,3 +1,11 @@
+---
+title: Recycling (Project Drawdown #42)
+category: circularity-waste
+tags: [plastic, recycle, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://solutionsthegame.com/solutions/recycling/
 
 #ProjectDrawdown #Plastic #Recycle 

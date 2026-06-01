@@ -1,3 +1,11 @@
+---
+title: The Cold Washer Action Guide
+category: solutions
+tags: [behaviour, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Household 
 ![[Screenshot 2024-10-29 at 12.49.16.png]]
 

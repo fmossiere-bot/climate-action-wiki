@@ -1,3 +1,11 @@
+---
+title: Going Beyond Renewable - Non-Renewable Dichotomy
+category: solutions
+tags: [science, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 
 A NEWLY PROPOSED CLASSIFICATION ON ENERGY SOURCE
 

@@ -1,3 +1,11 @@
+---
+title: FACTS — Climate Myth Busters and Back Pocket Stories
+category: concepts
+tags: [fossil-fuels, ev, battery, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Myths #FossilFuel #Battery #EV 
 - [ ] Need to think of a backstory re: Fossil Fuel, the importance of fighting it and what financial levers you might have
 

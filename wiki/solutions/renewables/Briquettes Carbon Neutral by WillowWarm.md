@@ -1,3 +1,11 @@
+---
+title: Briquettes Carbon Neutral by WillowWarm
+category: solutions
+tags: [ireland, alternative-fuels, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland #Biomass 
 
 Source: https://willowwarm.ie/willowwarm-our-sustainability/

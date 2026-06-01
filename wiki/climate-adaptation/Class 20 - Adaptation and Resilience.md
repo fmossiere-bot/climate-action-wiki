@@ -1,3 +1,10 @@
+---
+title: Class 20 — Adaptation and Resilience
+category: climate-adaptation
+tags: [adaptation, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 - [x] Reviewed
 

@@ -1,3 +1,11 @@
+---
+title: Coca-Cola — Green Digest Evaluation
+category: concepts
+tags: [esg, greenwashing]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://www.greendigest.co/p/cocacola-environmental-and-social-impact
 
 

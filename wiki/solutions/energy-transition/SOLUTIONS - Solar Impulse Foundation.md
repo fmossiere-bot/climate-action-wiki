@@ -1,3 +1,11 @@
+---
+title: SOLUTIONS - Solar Impulse Foundation
+category: solutions
+tags: [science, coalition, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://solarimpulse.com/#
 
 > Solar Impulse is probably better known for its leader Betrand Piccard who is flying around the world on a  hydrogen powered plane , but at its core, it is a foundation promoting more that 1000+ existing viable solutions, which they use to advocate governement and agencies as solutions. 

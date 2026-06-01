@@ -1,3 +1,11 @@
+---
+title: FACTS about the Ocean
+category: biodiversity-land
+tags: [ocean, plastic, nature, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Plastic #Ocean 
 
 > [!NOTE] Content

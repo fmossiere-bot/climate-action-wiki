@@ -1,3 +1,11 @@
+---
+title: Net-Zero Target Explained
+category: concepts
+tags: [science, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [Working Doc](https://docs.google.com/document/d/1x5RdEtMSAwSvkPTKOIoibvBZ9s8j9GXEbK30xHd_O50/edit)
 
 **Understand our Net-Zero target for 2050

@@ -1,3 +1,11 @@
+---
+title: Jet Fuel Made from CO2 and Clean Electricity
+category: solutions
+tags: [aviation, alternative-fuels, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: [https://www.newscientist.com/article/2394108-jet-fuel-made-with-captured-co2-and-clean-electricity-set-for-take-off/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents](https://www.newscientist.com/article/2394108-jet-fuel-made-with-captured-co2-and-clean-electricity-set-for-take-off/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents)
 
 > 

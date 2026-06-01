@@ -1,3 +1,11 @@
+---
+title: Green Your Bank Action Guide
+category: climate-finance
+tags: [finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Finance #Something
 
 Explore the wider role of Finance - [[Class 17 - Finance and Climate Change - Investment]] | [[Class 18 - Finance and Climate Change - RISK]]

@@ -1,3 +1,11 @@
+---
+title: FACTS about Solar Energy
+category: solutions
+tags: [science, carbon, phaseout]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #RenewableEnergy 
 ## A Solar Farm requires space
 - A solar farm require **40-50 times** the area from a Coal Central

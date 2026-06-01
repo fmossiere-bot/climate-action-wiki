@@ -1,3 +1,11 @@
+---
+title: FACTS about Glaciers
+category: climate-science
+tags: [science, adaptation, nature]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: Ecologie360 #9 
 
 > [!NOTE] Did You Know?

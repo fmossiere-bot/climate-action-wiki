@@ -1,3 +1,11 @@
+---
+title: Glass vs Plastic Containers
+category: circularity-waste
+tags: [plastic, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Plastic 
 
 https://docs.google.com/document/d/180EYIaH7gBrWPQXjeMCGbAdjRg9_MjPOI8hxEfoCyUc/edit?tab=t.0

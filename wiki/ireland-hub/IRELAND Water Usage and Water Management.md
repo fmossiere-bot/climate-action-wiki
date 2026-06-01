@@ -1,3 +1,11 @@
+---
+title: Ireland Water Usage and Water Management
+category: ireland-hub
+tags: [ireland, nature, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Water 
 ## Water Management IRELAND
 #Ireland #Water 

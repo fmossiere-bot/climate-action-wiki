@@ -1,3 +1,11 @@
+---
+title: The Importance of Grassland
+category: solutions
+tags: [nature, carbon, ireland]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonSink  #Ireland #Agriculture 
 
 # SUMMARY

@@ -1,3 +1,11 @@
+---
+title: FACTS about Glaciers
+category: biodiversity-land
+tags: [science, nature, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: Ecologie360 #9 
 
 > [!NOTE] Did You Know?

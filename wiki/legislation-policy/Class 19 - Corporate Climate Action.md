@@ -1,3 +1,11 @@
+---
+title: Class 19 - Corporate Climate Action
+category: legislation
+tags: [esg, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [LINK](https://textbook.terra.do/class/corporate-1)
 
 - [ ] Reviewed

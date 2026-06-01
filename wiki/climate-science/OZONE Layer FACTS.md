@@ -1,3 +1,11 @@
+---
+title: OZONE Layer FACTS
+category: climate-science
+tags: [science, aerosols]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #FACTS #ClimateChange
 
 # **OZONE Layer Damaging**

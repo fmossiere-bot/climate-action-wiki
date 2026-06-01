@@ -1,3 +1,11 @@
+---
+title: What is Jevons Paradox
+category: sectors
+tags: [ai, science, behaviour]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ==*Source: [WIKIPEDIA](https://en.wikipedia.org/wiki/Jevons_paradox)*==
 
 

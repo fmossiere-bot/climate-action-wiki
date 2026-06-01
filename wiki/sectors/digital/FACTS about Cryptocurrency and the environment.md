@@ -1,3 +1,11 @@
+---
+title: FACTS about Cryptocurrency and the Environment
+category: sectors
+tags: [ai, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #bitcoin #Infographic 
 
 

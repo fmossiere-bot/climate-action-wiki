@@ -1,3 +1,11 @@
+---
+title: Carbon Emission FACTS
+category: concepts
+tags: [carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonFootprint #FACTS 
 
 ==**AGRICULTURE**==

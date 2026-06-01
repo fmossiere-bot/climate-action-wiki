@@ -1,3 +1,11 @@
+---
+title: Class 1 — What is Climate Change
+category: climate-science
+tags: [science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed
 [LINK](https://textbook.terra.do/class/m-climate-science1-1?r=https://app.terra.do/app/learning/86/my-schedule#m-climate-science1-1)
 

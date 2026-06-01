@@ -1,3 +1,11 @@
+---
+title: FACTS about Air Travel
+category: sectors
+tags: [aviation, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Aviation 
 
 [NOTEBOOK LM ](https://notebooklm.google.com/notebook/8de967b3-751d-48c3-8dc6-888d6c49a68d)| [Evernote](https://share.evernote.com/note/8fa0c6ec-5983-208c-099d-275adc4f7901) 

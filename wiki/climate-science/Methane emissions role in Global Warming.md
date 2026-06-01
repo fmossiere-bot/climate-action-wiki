@@ -1,3 +1,11 @@
+---
+title: Methane Emissions and Global Warming
+category: climate-science
+tags: [methane, science, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Methane 
 
 > [!Interesting Related Articles]

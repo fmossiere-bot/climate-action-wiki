@@ -106,7 +106,10 @@ List of raw source files this page was built from.
   #carbon #methane #building-industry #cool-companies
   #eco-anxiety #e-waste #esg #fashion #fertiliser
   #plastic #ocean #wetlands #forest #seaweed #research
-  #recycle #phaseout #coalition #diplomacy
+  #recycle #phaseout #coalition #diplomacy #sport #agriculture 
+  #digital #energy #buildings #industry #transport #carbon-removal #electrification
+  #energy-efficiency #energy-transition #nature-based-solutions #renewables #company-evaluations
+  #key-ideas
 
   ## Cross-cutting
   #ireland #cop30 #fossil-fuels #greenwashing #eu-policy

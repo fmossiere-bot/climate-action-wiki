@@ -1,3 +1,11 @@
+---
+title: Energy 101 — Technical and Quantitative Basics
+category: climate-science
+tags: [science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ## Energy vs Power
 [LINK](https://textbook.terra.do/class/m-energy3-2?r=https://app.terra.do/app/learning/86/my-schedule#m-energy3-2) | [VIDEO](https://www.youtube.com/watch?v=mwnZ6CwezOc&t=414s)
 Power (W) = Energy (Wh) / Time (h)

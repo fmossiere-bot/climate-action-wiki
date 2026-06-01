@@ -1,3 +1,11 @@
+---
+title: FACTS about Plastic
+category: circularity-waste
+tags: [plastic, circularity, recycle]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #FACTS #Plastic #WasteManagement 
 
 [Notebook LM on PLASTICS](https://notebooklm.google.com/notebook/d4d67691-8506-40d0-8f81-7b6ddd852840?original_referer=https:%2F%2Fwww.ecosia.org%23&pli=1)

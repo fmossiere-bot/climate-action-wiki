@@ -1,3 +1,11 @@
+---
+title: Emission Gap Report 2024 - UNEP
+category: legislation
+tags: [science, research, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: [https://www.unep.org/resources/emissions-gap-report-2024](https://www.unep.org/resources/emissions-gap-report-2024)
 UNEP - United Nation Environment Programme
 #Research 

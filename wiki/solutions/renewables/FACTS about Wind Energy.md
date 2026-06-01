@@ -1,3 +1,11 @@
+---
+title: FACTS about Wind Energy
+category: solutions
+tags: [science, carbon, phaseout]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ***Source***: Global Wind Energy Council: https://gwec.net/global-wind-report-2022/
 
 #WindEnergy 

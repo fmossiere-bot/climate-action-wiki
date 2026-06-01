@@ -1,3 +1,11 @@
+---
+title: Climate Wins in 2025
+category: concepts
+tags: [science, coalition]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: We Don't Have Time post
 
 

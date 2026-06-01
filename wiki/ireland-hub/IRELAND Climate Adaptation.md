@@ -1,3 +1,11 @@
+---
+title: Ireland Climate Adaptation
+category: ireland-hub
+tags: [ireland, adaptation]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Ireland 
 
 

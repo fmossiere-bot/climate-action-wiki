@@ -1,3 +1,11 @@
+---
+title: Digital4Sustainability - Module 4
+category: sectors
+tags: [ai, plastic, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 **Digital Sustainability for Pollution Action
 
 

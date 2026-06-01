@@ -1,3 +1,11 @@
+---
+title: FACTS about Wetlands
+category: biodiversity-land
+tags: [wetlands, nature, methane, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Wetlands 
 We discuss feedbacks more in a later class, but for now it's worth noting a 2022 [study](https://www.nature.com/articles/s41467-022-31345-w.pdf) found that rising temperatures can help produce _more_ methane—for instance, by speeding up microbe activity in wetlands. At the same time, methane _removal_ is slowed down by increasing numbers of wildfires. In a [story](https://www.theguardian.com/environment/2022/jul/05/global-heating-causes-methane-growth-four-times-faster-than-thought-study) in the _Guardian_, one study author called the results "shocking.
 

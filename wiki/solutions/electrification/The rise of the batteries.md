@@ -1,3 +1,11 @@
+---
+title: The Rise of the Batteries
+category: solutions
+tags: [battery, ev, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ==*Source: [The Rise of Batteries in Six Charts and Not Too Many Numbers](https://substack.com/app-link/post?publication_id=1639653&post_id=139024936&utm_source=cross-post&utm_campaign=1593097&isFreemail=true&r=2u0a9d&token=eyJ1c2VyX2lkIjoxNzEzMzQxMjksInBvc3RfaWQiOjEzOTAyNDkzNiwiaWF0IjoxNzA3ODUwNTU2LCJleHAiOjE3MTA0NDI1NTYsImlzcyI6InB1Yi0xNjM5NjUzIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.3wh3XeumKAt4r_L5URxeSErVXtlvr6TBV4oZ5PDE5gI)*==
 
 #Battery 

@@ -1,3 +1,11 @@
+---
+title: Sustainable Flights with Hydrogen
+category: solutions
+tags: [aviation, alternative-fuels, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #AlternativeFuels 
 
 SAF [[About Sustainable Aviation Fuel (SAF)]] is not the only option. Hydrgen has long been considered as an option to power transportation, especially Cargo and Planes. 

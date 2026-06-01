@@ -1,3 +1,10 @@
+---
+title: Class 14 - About Food and Farming
+category: sectors
+tags: [food, science, methane]
+created: 2026-06-01
+updated: 2026-06-01
+---
 
 #FoodSystems #Subsidies 
 

@@ -1,3 +1,11 @@
+---
+title: IPCC 10 Key Findings 2023
+category: climate-science
+tags: [science, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://www.wri.org/insights/2023-ipcc-ar6-synthesis-report-climate-change-findings
 
 Here are 10 key findings you need to know:

@@ -1,3 +1,11 @@
+---
+title: About Sustainable Aviation Fuel (SAF)
+category: solutions
+tags: [aviation, alternative-fuels, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #AlternativeFuels #Biofuels #Biomass 
 > Studies on the use of SAF blended into fossil-based jet fuel have shown that PM emissions behind the aircraft at cruising altitudes are reduced by **50-97%** compared to fossil-based jet fuel
 > *Source: [European Aviation environmental report](https://www.easa.europa.eu/eco/eaer/topics/sustainable-aviation-fuels/how-sustainable-are-saf#ghg-emissions-reductions)*

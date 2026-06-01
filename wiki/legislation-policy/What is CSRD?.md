@@ -1,3 +1,11 @@
+---
+title: What is CSRD?
+category: legislation
+tags: [eu-policy, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Legislation 
 *Source:* [Agriland]([https://www.agriland.ie/farming-news/confusion-over-new-eu-anti-greenwashing-rules-in-ireland/](https://www.agriland.ie/farming-news/confusion-over-new-eu-anti-greenwashing-rules-in-ireland/))
 

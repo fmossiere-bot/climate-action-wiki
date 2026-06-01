@@ -1,3 +1,11 @@
+---
+title: Net-Zero Buildings
+category: solutions
+tags: [building-industry, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://drawdown.org/solutions/net-zero-buildings
 #ProjectDrawdown 
 

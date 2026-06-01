@@ -1,3 +1,11 @@
+---
+title: Class 15 - Carbon Removal
+category: solutions
+tags: [carbon, science, forest]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 [LINK](https://textbook.terra.do/class/m-carbon-removal-1)
 [Funny Meme's on X](https://twitter.com/CO2RemovalMemes?s=20&t=MDDH7K3uOwz4a96NIHbVWA)
 

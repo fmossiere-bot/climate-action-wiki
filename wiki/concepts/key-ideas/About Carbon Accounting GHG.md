@@ -1,3 +1,11 @@
+---
+title: About Carbon Accounting and GHG
+category: concepts
+tags: [carbon, esg, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #UCD #CarbonAccounting #CarbonAccounting 
 ![[Screenshot 2023-11-16 at 11.20.04.png]]![[Screenshot 2023-11-16 at 11.20.16.png]]
 

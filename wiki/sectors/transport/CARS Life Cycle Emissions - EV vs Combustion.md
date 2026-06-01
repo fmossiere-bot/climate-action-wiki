@@ -1,3 +1,11 @@
+---
+title: CARS Life Cycle Emissions - EV vs Combustion
+category: sectors
+tags: [ev, battery, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 *Source: **https://www.visualcapitalist.com/life-cycle-emissions-evs-vs-combustion-engine-vehicles/
 
 > According to the International Energy Agency, the transportation sector is more reliant on fossil fuels than any other sector in the economy. In 2021, it accounted for [37%](https://www.iea.org/topics/transport) of all CO2 emissions from end‐use sectors

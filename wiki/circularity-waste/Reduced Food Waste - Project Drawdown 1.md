@@ -1,3 +1,11 @@
+---
+title: Reduced Food Waste (Project Drawdown #1)
+category: circularity-waste
+tags: [food, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #ProjectDrawdown #FoodSystems #Waste 
 
 Source: https://drawdown.org/solutions/reduced-food-waste 

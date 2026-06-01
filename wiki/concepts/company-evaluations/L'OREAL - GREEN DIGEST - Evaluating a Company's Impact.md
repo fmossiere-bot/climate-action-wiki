@@ -1,3 +1,11 @@
+---
+title: L'ORÉAL — Green Digest Evaluation
+category: concepts
+tags: [esg, greenwashing]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ==*Source: [Green Digest L'Oreal](https://www.greendigest.co/p/evaluating-a-company-s-impact-the-case-of-l-or-al?_bhlid=4ee0fa80237175dc3d2539651fb8b0eb9231bd42&utm_campaign=evaluating-a-company-s-impact-the-case-of-l-oreal&utm_medium=newsletter&utm_source=www.greendigest.co)*
 
 

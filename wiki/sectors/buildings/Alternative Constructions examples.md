@@ -1,3 +1,11 @@
+---
+title: Alternative Construction Examples
+category: sectors
+tags: [building-industry, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #BulidingIndustry 
 ## House in France with Bamboo structure
 #France #AlternativeConstruction #Bamboo 

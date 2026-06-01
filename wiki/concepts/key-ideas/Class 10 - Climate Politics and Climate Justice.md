@@ -1,3 +1,11 @@
+---
+title: Class 10 — Climate Politics and Climate Justice
+category: concepts
+tags: [science, behaviour, diplomacy]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed 
 
 #Justice #Policy 

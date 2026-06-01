@@ -1,3 +1,11 @@
+---
+title: Methane Digester - Project Drawdown 28
+category: solutions
+tags: [methane, carbon, food]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Methane 
 Link to [[Methane emissions role in Global Warming]]
 Source: https://drawdown.org/solutions/methane-digesters

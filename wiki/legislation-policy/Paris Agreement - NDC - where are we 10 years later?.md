@@ -1,3 +1,11 @@
+---
+title: Paris Agreement - NDC - Where Are We 10 Years Later?
+category: legislation
+tags: [cop30, diplomacy, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ## Latest NDC Update from COP30
 [[COP30]]
 

@@ -1,3 +1,11 @@
+---
+title: TRUCKING De-carbonization Path - BEVs and FCEVs
+category: solutions
+tags: [ev, alternative-fuels, carbon]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 ## INTRO
 Source: https://textbook.terra.do/class/m-energy2-3
 

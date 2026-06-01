@@ -1,3 +1,11 @@
+---
+title: FACTS about AI, Emissions Impacts and Mitigation Potential
+category: sectors
+tags: [ai, carbon, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #AI 
 # THE GOOD
 Overall expectation is that AI might be able to mitigate around 10% 

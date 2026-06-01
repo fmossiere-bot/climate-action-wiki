@@ -1,3 +1,11 @@
+---
+title: Ecobalyse is a New Eco-Score for Food and Fashion
+category: standards
+tags: [fashion, food, esg]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Fashion #FoodSystems #CarbonFootprint 
 
 Source: ecologie360 

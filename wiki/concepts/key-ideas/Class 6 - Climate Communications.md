@@ -1,3 +1,11 @@
+---
+title: Class 6 — Climate Communications
+category: concepts
+tags: [behaviour, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed
 
 #Communication

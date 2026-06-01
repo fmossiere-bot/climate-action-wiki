@@ -1,3 +1,11 @@
+---
+title: Shift in Reporting - KPMG Report
+category: standards
+tags: [esg, research, finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Sustainability #ESG #Research 
 
 ![[Screenshot 2024-04-30 at 10.55.52.png]]

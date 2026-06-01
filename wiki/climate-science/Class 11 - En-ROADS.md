@@ -1,3 +1,11 @@
+---
+title: Class 11 — En-ROADS Climate Policy Simulator
+category: climate-science
+tags: [science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 - [x] Reviewed and add those slides: https://docs.google.com/presentation/d/1UX2CU7uw78j5GYfRMgHkdH1gHKDQhBzYG36gUPvJPlg/edit#slide=id.g1e2200fcd80_0_5
 
 ==[More on  En-Roads on Evernote](evernote:///view/1733566/s15/cf19358d-8e08-418d-8db5-0769237cd39c/53140278-a9c0-4ad7-9b6b-c9aebb8bc0e1)
