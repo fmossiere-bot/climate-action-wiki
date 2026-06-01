@@ -1,6 +1,22 @@
- #Forest #CarbonRemoval 
+ #Forest #CarbonRemoval #Ireland 
 
-[LM Notebook](https://notebooklm.google.com/notebook/745a89c9-9dd6-4d41-b015-72f00fce5ed2) with more information, podcast and Mindmaps
+
+
+---
+
+## Sitka Spruce — Greenwashing in Irish Schools (2026)
+
+*Source: [[sitka-spruce-greenwashing-ireland-2026]] — Irish Times, April 2026*
+
+A children's book titled *Sitka Spruce – the Amazing Timber Tree* was distributed to Irish primary schools in 2026. Written from the perspective of a Sitka spruce tree, the book depicts commercial plantations as thriving ecosystems filled with wildlife. It carried a foreword by Michael Healy-Rae, then minister of state for forestry.
+
+The **Irish Wildlife Trust** called for its removal, pointing out that Sitka spruce plantations are widely regarded as **ecological dead zones**: they crowd out native plants, support few animals, acidify soils and waterways, and are routinely clear-felled — not selectively harvested as the book implies. The book's claim that Sitka stores carbon is also disputed in parts of Ireland where plantations sit on **bogs that would be far more effective carbon sinks if left undrained**.
+
+The book was funded by the Society of Irish Foresters, the Irish Timber Council, and SEEFA. The Department of Education stated it had no role in approving or endorsing materials sent directly to schools — highlighting a **systemic gap**: there is no safeguard preventing industry from distributing promotional content to classrooms as "environmental education."
+
+This case is a significant Irish example of [[Greenwashing]] — commercially motivated messaging presented to children as fact.
+
+---
 
 
 # Soil Management & Biodiversity

@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-05-29
+Last updated: 2026-06-01
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -12,6 +12,8 @@ Summaries of every ingested source file.
 | Page | Description |
 |------|-------------|
 | [[colombia-santa-marta-fossil-fuel-talks-2026]] | Guardian article (Apr 2026): ~60 countries agree voluntary fossil fuel phaseout roadmaps at Santa Marta |
+| [[uk-air-conditioning-green-2026]] | Guardian article (May 2026): environmental trade-offs of home AC in the UK — types, costs, greener options |
+| [[sitka-spruce-greenwashing-ireland-2026]] | Irish Times article (Apr 2026): industry-funded children's book promoting Sitka spruce plantations distributed to Irish schools |
 
 ---
 
@@ -46,6 +48,7 @@ Adapting to unavoidable climate impacts.
 | Page | Description |
 |------|-------------|
 | Class 20 - Adaptation and Resilience | Terra.do Class 20: adaptation strategies |
+| [[home-cooling-heatwaves]] | How to keep homes cool during heatwaves — fans, AC, heat pumps, passive cooling |
 
 ---
 

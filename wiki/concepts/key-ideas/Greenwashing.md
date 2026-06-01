@@ -31,6 +31,11 @@ For example, a company says it’s reducing its carbon footprint—but fails to
 
 See the [MURAL Game](https://app.mural.co/t/smartphonefreemetns7241/m/smartphonefreemetns7241/1740669837046/537b5b1fc6dfdaf85005135ad61c4ccea7f2639e) for even more examples to choose from 
 
+#### Sitka Spruce — Greenwashing in Irish Schools (2026)
+
+> A children's book titled *Sitka Spruce – the Amazing Timber Tree*, funded by Irish commercial forestry interests and carrying a foreword by then-minister Michael Healy-Rae, was distributed to Irish primary schools. It depicted Sitka plantations as thriving ecosystems. In reality, these monoculture forests are widely regarded as ecological dead zones. The Irish Wildlife Trust called for its removal. The Department of Education said it had no responsibility for industry-distributed school materials — revealing a systemic gap.
+> *Source: [[sitka-spruce-greenwashing-ireland-2026]] — Irish Times, April 2026. See also [[IRELAND Land use, Soil and Forestry]]*
+
 #### Total Energy
 
 > A French court ruled that TotalEnergies misled consumers with claims of carbon neutrality by 2050, marking the first use of France’s greenwashing law on an energy company. The court ordered the company to remove misleading statements, fined it up to €10,000 per day for non-compliance, and required payments to the NGOs that filed the lawsuit.
