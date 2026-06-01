@@ -1,12 +1,13 @@
 ---
 title: What is Jevons Paradox
 category: sectors
-tags: [ai, science, behaviour]
+tags:
+  - ai
+  - behaviour
 created: 2026-06-01
 updated: 2026-06-01
+cover_image: https://wiki.the-uptake.com/assets/_IMAGES/JP.jpg
 ---
-
-==*Source: [WIKIPEDIA](https://en.wikipedia.org/wiki/Jevons_paradox)*==
 
 
 The Jevons Paradox, first articulated in 1865 to explain why more efficient steam engines led to _more_ coal consumption rather than less, has become the central economic framework for understanding the energy crisis of the AI era.
@@ -33,9 +34,8 @@ Data centers are the "smokestacks" of the AI revolution. The paradox creates a s
 - **Hyper-growth vs. De-carbonization:** The IEA and Goldman Sachs forecast that data center power demand could reach nearly **100 GW by 2027**. While tech giants (Microsoft, Google, Amazon) are the world's largest buyers of renewable energy, the sheer speed of AI adoption is outstripping the rate at which we can build wind and solar farms.
 - **The "Firm Power" Problem:** Because AI workloads require 24/7 power, and solar/wind are intermittent, the Jevons-driven demand is forcing a return to "firm" energy sources. We are seeing a massive revival of **Nuclear Energy** (e.g., Three Mile Island’s reopening for Microsoft) and, paradoxically, a reliance on **Natural Gas** to bridge the gap while green infrastructure catches up.
 
-### 3. Key Points for Your Article
+### 3. The Rebound Effect
 
-To make your article compelling, you might consider these three "Rebound Effects":
 
 - **The Direct Rebound:** AI becomes 20% more energy-efficient, so companies simply run 40% more AI queries because it’s cheaper.
 - **The Indirect Rebound:** A company uses AI to optimize its logistics, saving millions in fuel. It then reinvests those millions into expanding its business—leading to more warehouses, more trucks, and more total energy use.
