@@ -151,6 +151,13 @@ When asked to ingest new files:
 3. Update wiki/index.md with any new pages added
 4. Append to wiki/log.md using this exact format:
    ## [YYYY-MM-DD] ingest | [Source Title]
+   
+## Images
+When ingesting a new article, search for a relevant free 
+image on Unsplash (unsplash.com). If a clearly relevant 
+image exists, add the direct image URL to the frontmatter 
+as cover_image. If nothing relevant exists, leave 
+cover_image blank. Never force an irrelevant image.
 
 ### Query
 When I ask a question:
