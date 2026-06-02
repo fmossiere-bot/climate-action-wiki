@@ -231,7 +231,7 @@ Image Source: [BCG](https://www.bcg.com/publications/2021/next-generation-clima
 
 Rapid emissions reduction is essential in organizations, but many are “flying blind” to their energy use, especially in energy-intensive industries. Many factories in supply chains are in countries with dirty grids that have little ability to influence policy and access to renewable energy. However, they still face high energy costs, and many lack the data they need to make informed decisions about where to invest.
 
-#carbonaccounting #carbonfootprint 
+#carbon-accounting #carbon-footprint 
 Enter [Guidewheel](https://guidewheel.com/about-us), who leverages trends in AI, big data, and machine learning to measure every energy-consuming part of a factory. When energy costs become highly visible and detailed, operators are able to use this data to buy more efficient machines, move production to more efficient lines, reduce machine idle time, reduce scrap, improve processes, and train operators. This has led to 10-25 percent energy use reductions (**action**) all while also providing real “scope 3” emissions data to suppliers and enhancing transparency (**accountability**).
 
 Image Source: [Guidewheel](https://guidewheel.com/en/how-it-works)

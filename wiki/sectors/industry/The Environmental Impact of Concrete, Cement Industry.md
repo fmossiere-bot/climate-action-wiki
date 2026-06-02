@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#carbonfootprint #environment #bulidingindustry #facts #concrete 
+#carbon-footprint #environment #building-industry #facts #concrete 
 
 We talk a lot about Concrete and Cement together ... 
 
@@ -244,7 +244,7 @@ Source: https://theconversation.com/green-cement-production-is-scaling-up-and-it
 ### Project Drawdown #32
 Source: https://drawdown.org/solutions/alternative-cement | [[Alternative Cement - Project Drawdown 32]]
 
-#projectdrawdown 
+#project-drawdown 
 
 > [!ALTERNATIVE CEMENT]
 > Can provide 7.98GT Reduced CO2-e. Currently at 31% of that goal
@@ -281,7 +281,7 @@ Like other "Hard to decarbonise" industries such as the Steel production industr
 ---
 ---
 ## How about Leverage Wood construction instead of Concrete
-#timber #irishcompany
+#timber #irish-companies
 Sustainability is key for any substitution material we use
 > Climate measures need to have a positive environmental and climatic impact. This requires the sustainable sourcing of substitution materials and cement alternatives, as well as the careful consideration of their overall carbon footprint. Also indirect emissions, such as emissions from chemicals required to treat timber or energy related emissions in the production of hydrogen to replace onsite fossil fuel use need to be taken into account.
 ![[Screenshot 2023-11-19 at 15.09.27.png]]

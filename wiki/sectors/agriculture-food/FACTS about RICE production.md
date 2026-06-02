@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#carbonfootprint #howbadarebananas
+#carbon-footprint #howbadarebananas
 
 
 > [!NOTE] Rice Farming has a major impact

@@ -83,7 +83,7 @@ Its short lifetime and big impact mean that in terms of mitigation, methane is l
 Much of the methane entering the atmosphere comes from decomposition. Some of it is **natural, some of it comes from thawing permafrost and other worrisome feedback loops. Agriculture, especially beef production,** is another major contributor that must be addressed.
 
 ##### Permafrost
-#permafrost 
+#perfmafrost 
 Permafrost in particular could have a large concentration of methane to release and is a major concern. The thawing of the permafrost is one of the top 9 tipping points we are monitoring actively and bring a risk of Carbon Feedback Loop [[Class 4 - Global Impact of Climate Change#Carbon cycle feedbacks]]
 
 Source: https://www.space.com/methane-beneath-arctic-permafrost-climate-feedback-loop

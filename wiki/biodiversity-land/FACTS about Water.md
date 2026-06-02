@@ -184,7 +184,7 @@ The path forwards is very unclear
 Source: [https://www.youtube.com/watch?v=48g7ATzuBIQ](https://www.youtube.com/watch?v=48g7ATzuBIQ)
 Reference Site: [https://www.waterfootprint.org/en/resources/waterstat/](https://www.waterfootprint.org/en/resources/waterstat/) 
 
-#waterfootprint
+#water-footprint
 
 
 ![[Screenshot 2024-03-05 at 18.47.00.png]]

@@ -166,7 +166,7 @@ There is much. more that need to be done for ireland see [[IRELAND Land use, Soi
 ## EPA says we need to do more to support Waste
 *==Source: [https://www.rte.ie/news/ireland/2023/0922/1406665-epa-waste-report/](https://www.rte.ie/news/ireland/2023/0922/1406665-epa-waste-report/)==*
 
-#plastic #wastemanagement 
+#plastic #waste-management 
 According to recent report from Waste management, 2/3 of waste in general black bin needs to be separated into organic or recycle bins. 
 
 The EPA's National Municipal Waste Characterisation Project is conducted every four years

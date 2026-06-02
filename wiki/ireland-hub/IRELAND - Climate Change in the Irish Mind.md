@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ireland #communication #research #climatechange #behaviour 
+#ireland #communication #research #climate-change #behaviour 
 
 
 

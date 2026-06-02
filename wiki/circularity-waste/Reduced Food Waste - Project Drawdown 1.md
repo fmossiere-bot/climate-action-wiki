@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#projectdrawdown #foodsystems #waste 
+#project-drawdown #food-systems #waste 
 
 Source: https://drawdown.org/solutions/reduced-food-waste 
 

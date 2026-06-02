@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#climatechange #book
+#climate-change #book
 
 ![[Screenshot 2023-05-31 at 16.20.36.png]]
 *Buy:* [Amazon](https://www.amazon.co.uk/Under-Sky-We-Make-Warming/dp/B08DL3YKDT/ref=sr_1_1?crid=76MI10E5WCBM&keywords=under+the+sky+we+make&qid=1685546312&sprefix=under%2520the%2520sky%2520we%2520make%2Caps%2C63&sr=8-1)

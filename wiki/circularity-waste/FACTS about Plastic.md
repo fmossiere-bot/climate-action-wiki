@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#facts #plastic #wastemanagement 
+#facts #plastic #waste-management 
 
 [Notebook LM on PLASTICS](https://notebooklm.google.com/notebook/d4d67691-8506-40d0-8f81-7b6ddd852840?original_referer=https:%2F%2Fwww.ecosia.org%23&pli=1)
 # PLASTIC
@@ -270,7 +270,7 @@ Provides consultancy to companies, solution for their plastic waste and a range 
 ---
 ## Cool Project - Cleaning up the OCEAN: Boyan Slat
 [Portrait](https://www.google.com/search?q=boyan+slat&oq=boyan+slat&aqs=chrome.0.0i355i512j46i512j0i512l8.1775j0j7&sourceid=chrome&ie=UTF-8)
-#ocean #pastic #coolcompanies 
+#ocean #plastic #cool-companies 
 This young man (under 30) started 10 years ago with a big dream to clean-up the ocean. He has just raised 25M$ from the Airbnb. 
 
 They wanted to start with the biggest part. the [Great Pacific Garbage Patch](https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/)", 3x the size of France, located between Hawai and California
@@ -326,7 +326,7 @@ Example of a company, [enval](https://www.enval.com/), in the UK.
 ---
 ## Irish Company transform Plastic into Sustainable Fuel
 Source: [RTE News]([https://www.rte.ie/news/environment/2024/0822/1465952-trifol-resources/](https://www.rte.ie/news/environment/2024/0822/1465952-trifol-resources/))
-#ireland #plastic #biofuels #alternativefuels 
+#ireland #plastic #biofuels #alternative-fuels 
 
 > An Irish company has developed and patented a process to transform old plastic into sustainable fuel, including sustainable aviation fuel and wax
 

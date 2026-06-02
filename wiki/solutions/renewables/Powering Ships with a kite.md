@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#coolcompanies #france #tftp
+#cool-companies #france #tftp
 
 This is becoming a more and more popular solution today. Powering shipping with the power of Wind, and especially Kites, huge kites which will tract the cargo ship, and can save up to 40% in energy. 
 

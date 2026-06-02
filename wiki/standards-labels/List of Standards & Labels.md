@@ -13,14 +13,14 @@ updated: 2026-06-01
 
 ## Construction Labels
 ==*Source: [Ecologie360 ](https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n4/)p.68*==
- #standard #alternativeconstruction 
+ #standard #alternative-construction 
 
 ![[Screenshot 2024-03-27 at 07.36.38.png]]
 
 
 ## Food Labels - The Marine Stewardship Council MSC Blue
 ==URL: [https://www.msc.org/](https://www.msc.org/)==
-#standard #foodsystems 
+#standard #food-systems 
 
 Third-Party Verification Labels Can Guide Sustainable Shopping, If Consumers Know About Them
 Source: https://www.triplepundit.com/story/2024/raise-awareness-green-labels/799636

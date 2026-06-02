@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#foodsystems #subsidies 
+#food-systems #subsidies 
 
 - Other reference on those topics: [[Food Carbon FootPrint]]
 - [[FACTS about Farming and Food production]]

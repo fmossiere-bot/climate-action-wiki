@@ -149,7 +149,7 @@ GOOGLE data center energy consumption [rose 17% last year](https://mail.latitud
 
 
 ## Impact on energy consumption in the US due to new data centers
-#us 
+#united-states 
 Let's talk about the macro. There was recently a report just last month from the Lawrence Berkeley National Laboratory about the power that is currently needed to run the data centers in this country, and the power that will soon be needed as the AI boom sparks demand for more and more of these data centers. This report said that between 2018 and 2023, the power to run data centers around the US went from 1.9% of total annual electricity consumption to 4.4%, more than double.
 
 And this report estimated that the energy demands of data centers, of which AI is a major part, will continue to increase over the next few years and could by 2028 make up between 6.7% and 12% of total US electricity consumption. 

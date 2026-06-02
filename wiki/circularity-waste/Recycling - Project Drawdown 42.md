@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 Source: https://solutionsthegame.com/solutions/recycling/
 
-#projectdrawdown #plastic #recycle 
+#project-drawdown #plastic #recycle 
 
 > Recycled products use less resources and energy to make, avoid landfill emissions. Strategies for recylcling include making companies responsible for their waste and marketplaces for recycled materials
 

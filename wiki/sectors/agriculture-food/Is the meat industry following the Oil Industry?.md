@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#myths #foodsystems 
+#myths #food-systems 
 
 ### Instead of copying Big Oil's climate playbook, the animal agriculture industry should be seeking damages for it, a researcher argues.
 

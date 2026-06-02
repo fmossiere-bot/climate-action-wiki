@@ -10,7 +10,7 @@ updated: 2026-06-01
 
 > According to the International Energy Agency, the transportation sector is more reliant on fossil fuels than any other sector in the economy. In 2021, it accounted for [37%](https://www.iea.org/topics/transport) of all CO2 emissions from end‐use sectors
 
-#mckinsey #research #carbonfootprint #ev #battery 
+#mckinsey #research #carbon-footprint #ev #battery 
 
 > ==Also check [[FACTS - Climate "Myth Busters" & Back Pocket stories#**_I’ve heard EVs are worse for the environment than regular cars—the power has to come from somewhere, after all._**]]==
 

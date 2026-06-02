@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#renewableenergy #nuclear
+#renewables #nuclear
 
 
 > Interesting PODCAST I listened to about the more prominent presence of Nuclear in the discussion in COP28 for the first time, and how the view on Nucelar is changing , relalisation that it has to be part of the clean energy mix as it brings stability and reliability | [PODCAST](https://podcasts.apple.com/ie/podcast/the-energy-gang/id663379413?i=1000638168975)

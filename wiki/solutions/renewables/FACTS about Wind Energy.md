@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 ***Source***: Global Wind Energy Council: https://gwec.net/global-wind-report-2022/
 
-#windenergy 
+#wind-energy 
 
 >> ==Also see [[IRELAND Wind Energy]]== 
 
@@ -88,7 +88,7 @@ The best solution here seems to lower the demand and consider other material, so
 ## Additionally, the industry is already thinking about recycling blades
 2 interesting artiucles starting to talk about how we can recycle some of the existing blades being de-commissioned
 
-#windenergy #recycle 
+#wind-energy #recycle 
 
 ### **RWE’s largest offshore wind farm in construction - Sofia - enters agreement with Siemens Gamesa for recyclable blades** 
 Source: https://sofiawindfarm.com/latest/press-releases/rwe-s-sofia-to-use-recyclable-blades/ 
@@ -123,7 +123,7 @@ Wind turbine blades are made to deliver electricity and withstand tough weather 
 ## China Historic Break-through  with cost at 1/5 of the US
 Source: https://www.scmp.com/news/china/science/article/3257036/historic-breakthrough-chinas-installed-wind-turbine-cost-drops-one-fifth-us-green-energy-race 
 
-#china #windenergy 
+#china #wind-energy 
 
 > [!Headline]
 > 

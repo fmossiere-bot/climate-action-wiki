@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#meat #foodsystems 
+#meat #food-systems 
 
 Source: https://docs.google.com/document/d/1Jt_yvHGBNlkgjbyjam7_gwsJJzpdpwBhkIErNbeoeo0/edit 
 

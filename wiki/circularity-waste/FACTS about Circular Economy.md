@@ -47,7 +47,7 @@ Source: Lab4 [SLIDES](https://docs.google.com/presentation/d/1tHHu9sdnyM-hRBHIoA
 
 ---
 ## An Irish Waste Action Plan
-#wastemanagement #circularity #ireland 
+#waste-management #circularity #ireland 
  
 ![[86647_dcf554a4-0fb7-4d9c-9714-0b1fbe7dbc1a.pdf]]
 

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#projectdrawdown #foodsystems #meat 
+#project-drawdown #food-systems #meat 
 
 Source: https://drawdown.org/solutions/plant-rich-diets
 

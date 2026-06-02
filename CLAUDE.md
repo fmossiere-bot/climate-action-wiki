@@ -92,7 +92,7 @@ Links to related wiki pages using [[wikilinks]].
 
 ## Tagging Rules
 
-- Always use lowercase with hyphens: #fossil-fuels not #FossilFuels
+- Always use lowercase with hyphens: #fossil-fuels not #fossil-fuels
 - First choice: always pick from the standard tags list below
 - Second choice: if no standard tag fits, you may create a new one 
   but only if the topic is clearly significant and likely to appear 

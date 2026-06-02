@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#uk 
+#united-kingdom 
 
 > In the face of the financial industry's growing focus on sustainability and transparency, the UK's [Financial Conduct Authority](https://www.fca.org.uk/) (FCA) is introducing a new framework called the Sustainability Disclosure Requirements (SDR). SDR represents a pivotal change in how investment products are evaluated, managed, and disclosed in one of the most important financial jurisdictions in the world.
 

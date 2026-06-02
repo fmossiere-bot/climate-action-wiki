@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#alternativefuels #greenhydrogen 
+#alternative-fuels #green-hydrogen 
 ## What is Green Hydrogen
 ==Source: https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-hydrogen-energy?stcr=796A13E853904438839F33975EB64C26&cid=other-eml-alt-mip-mck&hlkid=3820524a23814095a66b152811bc7724&hctky=15025199&hdpid=6c0cc685-2edf-4409-9dbc-4cfbfc587b26==
 
@@ -131,7 +131,7 @@ The hope is the product of hyrdrogen could grow 10miillion tonnes per year till 
 - Environmentalist groups and some hydrogen companies argue there need to be strong safeguard to ensure that the money goes to the right investment. 
 
 ## Spain investing massively in Andalucia on Green Hydrogen
-#spain #greenhydrogen 
+#spain #green-hydrogen 
 *Source: [Cepsa](https://www.cepsa.com/en/businesses/commercial-clean-energies/green-hydrogen/andalusian-valley?utm_source=newyorktimes&utm_medium=direct_buying&utm_content=newyorktimes_cepsa-com_tra_na-segmentation_corporativo_01122023_01032024_na-sitesection_na-iab-format_na-size_na-trafficking_na-pricing_&utm_term=cep&utm_campaign=green-hydrogen-valley-nyt-mini-story_corporativo_01122023_01032024)*
 
 Cepsa, a traditional Global energy company usually involved in Oil and Gaz, is launching a massive project in Andalusia, with the goal to bring a 2GW capacity using green hydrogen. 
@@ -142,7 +142,7 @@ While this project is welcome as the takeup for more scale on Gren Hydrogen has 
 
 
 ## France hit the Jackpot with the discovery of massive reserve of Hydrogen
-#france #greenhydrogen 
+#france #green-hydrogen 
 
 ==*Source: [Sustainability Times](https://www.sustainability-times.com/energy/france-just-hit-the-jackpot-worlds-largest-hydrogen-treasure-worth-92-billion-sparks-energy-race-and-global-power-upheaval/)*
 

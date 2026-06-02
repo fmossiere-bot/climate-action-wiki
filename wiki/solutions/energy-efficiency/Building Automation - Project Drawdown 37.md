@@ -13,7 +13,7 @@ updated: 2026-06-01
 > Most large commercial buildings have centralised control system for AC, electricity and water. Automating these systems can reduce energy use by up to 40%
 
 
-#projectdrawdown 
+#project-drawdown 
 
 > [!IMPACT]
 > Because of their large share of energy consumption, residential and commercial buildings now account for one-third of global carbon dioxide emissions. Building automation systems are automated control systems that can regulate a building’s heating and cooling, lighting, appliances, and more to increase energy efficiency and/or worker productivity. This solution replaces conventional pneumatic or electric control systems

@@ -50,7 +50,7 @@ The **tragedy of the commons**. "People can't really be trusted to act in the co
 Market failure are often explained by our abuse of what is commonly available, like our planet resources. Let's take Fishing. If some fisherman stop because it is better for the fish, other might not, and there is no incentive for them to do it without everyone buying in. We are in a abusive economy, where we take as much as we can, for our own benefit - This is the **==Explotation Mindset==**  as described in [[FACTS on EVERYTHING - Under the Sky we Make]]
 
 ## Carbon Pricing: Carbon Markets and Taxes
-#carbonprice 
+#carbon-price 
 Government can use Policies, Regulatory Policies (ban) or market-based policies (piut price on Carbon) to help solve market Failures
 
 Below is the IPCC table listing a summary of policy instruments available to the governments:

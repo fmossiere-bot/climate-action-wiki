@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ucd #foodsystems 
+#ucd #food-systems 
 
 [[Food Carbon FootPrint]]
 [[Class 14 - About Food and Farming]]

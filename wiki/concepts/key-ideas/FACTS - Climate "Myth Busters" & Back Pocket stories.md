@@ -143,7 +143,7 @@ Here, Carbon Brief factchecks 21 of the most common – and persistent – myt
 
 ---
 ## I heard they’re stacking wind turbine blades, solar panels, and EV batteries in landfills. Isn’t the waste from all this “clean” tech going to be a big problem?
-#wastemanagement #renewableenergy 
+#waste-management #renewables 
 Manufacturers are racing to get more clean energy technologies built and running, which means that in a few decades many will be reaching the end of their useful lives, and we’ll need to figure out what to do with them.
 
 > Take solar panels, for example. In 2050, we could see as much as 160 million metric tons of cumulative waste from solar panels. Sounds like a lot—and it is—but there’s a bigger problem. By then we’ll have generated a total of about 1.8 billion metric tons of e-waste, and plastic waste will top 12 billion metric tons. (For other comparisons, check out [this Inside Climate News story,](https://insideclimatenews.org/news/12102023/inside-clean-energy-reality-check-solar-panel-waste/) and the [original article those numbers come from in Nature Physics.](https://www.nature.com/articles/s41567-023-02230-0.epdf?sharing_token=mYyc5NKtQENGmDPnwQ5J69RgN0jAjWel9jnR3ZoTv0M0UbHXgdKFmUfNV6tVbdrnxKmAqpO2hzNtxSIuGP0LrgRPuAjZj12WJzvdmxRy05xj9NCEtoabe-fA4j5BM3Sb_qUEKd0IhDFUJ0dz42WejpwXtHWUKLi8j7k3sMK7lPg%3D))

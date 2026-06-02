@@ -57,7 +57,7 @@ Land Use, Soil Management and Forestry are an essential part in the Irish plans 
 
 Bamboo plantations have incredible environmental properties: with their expansive underground stems, they reduce soil erosion and prevent sediments from entering streams and rivers. Fallen leaves carpet the ground, which reduces water evaporation. Their hollow stems retain water into the dry season, thus increasing environmental humidity. Dense bamboo vegetation also captures water droplets from fog. These benefits are especially important because _El Milagro_ and _La Joya_ were both used for intensive livestock production until 2004, which progressively led to eroded soils and deviation of water courses. Everything changed when its owners, a group of medium and small producers, began to plant bamboo in the area. Eventually, they created [Allpabambú](https://www.allpabambu.com/) for technical management of their plantation.
 
-#bamboo #projectdrawdown 
+#bamboo #project-drawdown 
 
 Bamboo Production is one of the solutions put forwards by Project Drawdown
 Source: https://drawdown.org/solutions/bamboo-production 

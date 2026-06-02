@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#google #companiesemissions
+#google #companies-emissions
 
 Things to look into for google:
 - 24/7 carbon-free target

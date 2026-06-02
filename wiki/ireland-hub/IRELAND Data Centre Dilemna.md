@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ireland #renewableenergy 
+#ireland #renewables 
 
 ## About Bitcoin and Cryptocurrency
 Reference: ![[The Environmental Impact of Bitcoin Transactions.canvas]] Also refer to [[FACTS about Cryptocurrency and the environment]] 

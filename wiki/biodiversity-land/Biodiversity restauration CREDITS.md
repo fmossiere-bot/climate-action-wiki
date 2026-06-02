@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 Source: https://www.irishtimes.com/special-reports/2024/04/25/dunsany-estate-in-co-meath-agrees-landmark-irish-biodiversity-deal/
 
-#carbonoffset #biodiversity 
+#carbon-offset #biodiversity 
 
 ## Dunsany estate in Co Meath agrees landmark Irish biodiversity deal
 #ireland #biodiversity 

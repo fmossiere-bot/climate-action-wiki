@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#carbonsink  #ireland #agriculture 
+#carbon-sink  #ireland #agriculture 
 
 # SUMMARY
 Here is a blog post highlighting the importance of grasslands, their role in Ireland, and how corporations can contribute to their protection:

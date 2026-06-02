@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#carbonoffset
+#carbon-offset
 
 Other Reference: [[Flight Carbon Footprint and Offset Guide]]
 ## Introduction

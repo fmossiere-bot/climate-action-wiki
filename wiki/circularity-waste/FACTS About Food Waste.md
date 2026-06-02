@@ -27,7 +27,7 @@ This has serious implication as this wasted food is:
 - sent to landfill, it generate methane
 - Incinerated, it generates CO2
 
-#us #methane 
+#united-states #methane 
 ###### In the US, 50% of the food waste end up in Landfills where it generates GHG to the equivalent of 12 million cars. ([NewScientist Article](https://www.newscientist.com/article/2399742-food-waste-in-us-landfills-produces-emissions-equal-to-12-million-cars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents))
 - Methane from US Landfills make up 15% of US Methane emission
 - US compost rate is at 38%, way below the EU (57%)

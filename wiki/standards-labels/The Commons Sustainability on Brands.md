@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 ==Source: https://www.thecommons.earth/
 
-#circularity #us 
+#circularity #united-states 
 
 The Commons is a website, and App, where you can learn about how sustainable brands are, and look for sustainable items using some different filters based on your biggest priority (i.e: Water Usage, Labour, Carbon impact, Organic etc ....)
 

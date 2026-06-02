@@ -99,7 +99,7 @@ It is official.
 
 ---
 ## The Doughnut Economics (UK)
-#economics #uk 
+#economics #united-kingdom 
 
 - [Introductory video](https://youtu.be/lkCio0tiFWE): Kate Raworth presenting on Doughnut Economics at Meaning 2017 (~27 minutes)  
 - [What on earth is the Doughnut?](https://www.kateraworth.com/doughnut)  

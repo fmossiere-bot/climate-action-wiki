@@ -130,7 +130,7 @@ To do this, we can use an integrative operational framework with the following b
 ## Food Systems and Climate Change
 [LINK](https://textbook.terra.do/class/m-adaptation-3)
 
-#foodsystems
+#food-systems
 §
 To understand how food systems are vulnerable to climate change, it’s important to first grasp that we are talking about _systems._ 
 

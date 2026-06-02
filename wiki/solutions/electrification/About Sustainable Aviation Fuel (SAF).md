@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#alternativefuels #biofuels #biomass 
+#alternative-fuels #biofuels #biomass 
 > Studies on the use of SAF blended into fossil-based jet fuel have shown that PM emissions behind the aircraft at cruising altitudes are reduced by **50-97%** compared to fossil-based jet fuel
 > *Source: [European Aviation environmental report](https://www.easa.europa.eu/eco/eaer/topics/sustainable-aviation-fuels/how-sustainable-are-saf#ghg-emissions-reductions)*
 
@@ -30,7 +30,7 @@ SAF is a biofuel used to power aircraft that has similar properties to conventio
 ##### Flying is one of the most polluting ways to travel: If global commercial aviation were a country, it would rank as the sixth biggest polluter, between Japan and Germany, by one [estimate](https://www.eesi.org/papers/view/fact-sheet-the-growth-in-greenhouse-gas-emissions-from-commercial-aviation). Aviation produces about 2.5 percent of total carbon emissions in the world, a number that experts expect to triple by 2050 
 
 
-> #us  SAFs lower carbon intensity makes it an important solution for reducing aviation GHGs, which make up 9%–12% of [U.S. transportation GHG emissions](https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions), according to the U.S. Environmental Protection Agency.
+> #united-states  SAFs lower carbon intensity makes it an important solution for reducing aviation GHGs, which make up 9%–12% of [U.S. transportation GHG emissions](https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions), according to the U.S. Environmental Protection Agency.
 
 
 ##### An estimated [1 billion dry tons of biomass](https://www.energy.gov/eere/bioenergy/2016-billion-ton-report) can be collected sustainably each year in the United States, enough to produce 50–60 billion gallons of low-carbon biofuels. These resources include:
@@ -103,7 +103,7 @@ This can also be referred to as Poweer-to-Liquid process: https://www.youtube.co
 ## Deep dive into SAF with Corn
 *Source: [NYT](https://www.nytimes.com/interactive/2023/11/30/climate/airlines-jet-fuel-ethanol-corn.html?smid=nytcore-ios-share&referringSource=articleShare)*
 
-#us 
+#united-states 
 Vast stretches of America are already dominated by Corn, 100 million acres of it. To reach the ambitious goals set by the nation's airline, it would require to double the ethanol production. 
 
 [[About Sustainable Aviation Fuel (SAF)#An estimated [1 billion dry tons of biomass](https //www.energy.gov/eere/bioenergy/2016-billion-ton-report) can be collected sustainably each year in the United States, enough to produce 50–60 billion gallons of low-carbon biofuels. These resources include]]
@@ -134,7 +134,7 @@ Bu as a reminder, Not all new biofuel demand would have to be met with corn. Alg
 
 ---
 ## UK new legislation on use of SAF for aviation
-#uk 
+#united-kingdom 
 
 Source: https://instituteofsustainabilitystudies.com/insights/news-analysis/sustainable-aviation-fuel-uk-new-mandate-takes-effect/?utm_medium=email&_hsenc=p2ANqtz--WwICioujZFvckMvsuYqW3Y4cojFUGtcuCfVG1Qxn67smLTU83qSsEweMlruOV6QHe2x6a5aTun7zKMSJhDUndKz35lQ&_hsmi=103999021&utm_content=103999021&utm_source=hs_email
 

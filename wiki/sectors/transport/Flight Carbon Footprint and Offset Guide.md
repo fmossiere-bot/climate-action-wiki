@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#carbonfootprint #carbonoffset #aviation 
+#carbon-footprint #carbon-offset #aviation 
 
 *==Source: https://www.offsetguide.org/understanding-carbon-offsets/air-travel-climate/passenger-climate-footprints/*== 
 

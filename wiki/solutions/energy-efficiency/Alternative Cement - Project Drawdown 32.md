@@ -11,7 +11,7 @@ References: [[The Concrete Industry, Source of emissions, Impact, Soil.canvas|Th
 
 ==Source: https://drawdown.org/solutions/alternative-cement==
 
-#projectdrawdown 
+#project-drawdown 
 Cement is the 2nd most used substance in the world, after water. Additives like fly ash, ground bottle glass, and industrial waste can make it stronger and lower emissions by 15% in average. 
 
 > [!IMPACT]

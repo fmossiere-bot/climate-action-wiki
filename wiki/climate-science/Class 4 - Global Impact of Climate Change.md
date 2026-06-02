@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 - [x] Reviewed
 
-#permafrost 
+#perfmafrost 
 ## Introduction
 [LINK](https://textbook.terra.do/class/m-global-impacts-1?r=https://app.terra.do/app/learning/86/my-schedule#m-global-impacts-1)
 VIDEO
@@ -365,7 +365,7 @@ That's all to say that we've definitely now passed that central 1.2 degrees temp
 ---
 ### Carbon cycle feedbacks
 
-#permafrost 
+#perfmafrost 
 Our chances of exceeding tipping points are connected to carbon cycle feedbacks. The carbon cycle, as you know, is comprised of the exchanges of carbon between the atmosphere, land, ocean, and the organisms they contain. “Feedbacks” refer to the changes that could occur in these exchanges themselves as a result of warming temperatures and increasing CO2 levels.
 
 ![[Screenshot 2024-02-08 at 13.23.49.png]]

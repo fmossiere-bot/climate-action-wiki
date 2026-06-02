@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#carbonaccounting 
+#carbon-accounting 
 
 ![[Sketch 15-9-2023 1700.png]]
 
