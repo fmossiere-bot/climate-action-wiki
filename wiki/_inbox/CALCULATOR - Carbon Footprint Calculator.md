@@ -1,3 +1,11 @@
+---
+title: CALCULATOR - Carbon Footprint Calculator
+category: concepts
+tags: [carbon, behaviour, science]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #CarbonFootprint #Holidays #Transport
 There are various calculator out there. Let's compare them
 

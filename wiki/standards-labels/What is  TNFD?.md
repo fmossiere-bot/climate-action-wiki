@@ -1,3 +1,11 @@
+---
+title: What is TNFD?
+category: standards
+tags: [esg, nature, finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 Source: https://tnfd.global/
 
 TNFD = Taskforce on Nature-related Financial Disclosure

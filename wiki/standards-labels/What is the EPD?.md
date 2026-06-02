@@ -1,3 +1,11 @@
+---
+title: What is the EPD?
+category: standards
+tags: [esg, building-industry]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 
 Chief among these is the company’s attainment of **Environmental Product Declarations** (EPDs) for a cross-section of its product range.
 

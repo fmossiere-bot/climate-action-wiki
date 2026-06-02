@@ -1,3 +1,11 @@
+---
+title: Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024
+category: standards
+tags: [esg, research]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #ESG #Sustainability 
 
 ![[Screenshot 2024-04-29 at 16.24.12.png]]

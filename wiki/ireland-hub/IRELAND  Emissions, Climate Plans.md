@@ -1,6 +1,3 @@
-
-
-
 ---
 title: Ireland Emissions and Climate Plans
 category: ireland-hub
@@ -8,8 +5,6 @@ tags: [ireland, science, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
 ---
-
-
 
 Check this cool website with all information on [Climate Ireland by Sector](https://www.climateireland.ie/) (Agriculture, Forest, Fishery, Water etc...)
 ![[Screenshot 2023-06-05 at 15.57.01.png]]

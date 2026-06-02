@@ -49,9 +49,11 @@ wiki/                   → Everything here is written and maintained by you.
 2. Wiki is yours. You create and maintain everything in wiki/.
 3. Audience first. Every page should be understandable to a curious 
    non-expert. Avoid jargon. When technical terms are needed, explain them.
-4. Always cite sources. Every claim should reference a source file 
-   using [[wikilinks]] so answers are traceable.
-5. Use Obsidian wikilink format for all internal links: [[page-name]]
+4. Always cite sources. Every claim should reference a source using 
+   relative markdown links to other wiki pages. Never link to raw/ files.
+5. Use relative markdown links for all internal links, not Obsidian 
+   wikilinks. Format: [Page Title](../category/page-name.md)
+   Example: [COP30](../concepts/cop30.md)
 6. Before creating a new wiki page, always check if a relevant page 
    already exists. If it does, update and enrich it rather than 
    creating a duplicate.
@@ -86,7 +88,7 @@ Bullet points with the most important data or facts, each cited.
 Links to related wiki pages using [[wikilinks]].
 
 ## Sources
-List of raw source files this page was built from.
+[Original publication name, author, date, and URL if available — not the raw file path]
 
 ## Tagging Rules
 
@@ -137,6 +139,41 @@ If a file clearly does not fit any existing category, do not force it
 and do not create a new folder automatically. Flag it in the ingest 
 report with a suggested new category name and wait for user approval 
 before creating any new folder.
+
+
+## Linking Rules
+
+### Internal links (to other wiki pages)
+Always use relative markdown links, not Obsidian [[wikilinks]].
+This ensures links work on GitHub and in the web wiki.
+
+Format: [Page Title](../category/page-name.md)
+Examples:
+- [COP30](../concepts/cop30.md)
+- [Paris Agreement](../legislation/paris-agreement.md)
+- [Ireland Emissions](../ireland-hub/ireland-emissions.md)
+
+To build the correct relative path:
+1. Start from the current page's folder
+2. Go up one level with ../
+3. Then into the target category folder
+4. Then the filename
+
+### Links in Key facts
+Only link to other wiki pages. Never add [[wikilinks]] or links 
+pointing to raw/ source files inside the Key facts section.
+
+### Sources section (bottom of page)
+List the original publication details here, not the raw file path.
+Format: - Publication name, Author, Date — URL (if available)
+Example: - The Guardian, Fiona Harvey, 30 April 2026 — https://...
+
+### Sources field (frontmatter)
+Same as above. Use the original publication name and URL, not the 
+raw file path.
+Format: ["Publication name — URL"]
+
+
 
 ## Operations
 

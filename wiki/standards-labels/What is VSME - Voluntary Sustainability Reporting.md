@@ -1,3 +1,11 @@
+---
+title: What is VSME - Voluntary Sustainability Reporting
+category: standards
+tags: [esg, eu-policy]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Reporting #Legislation 
 
 [NOTEBOOKLM](https://notebooklm.google.com/notebook/f2a0ba9c-ae9b-49c8-b404-04edb495cf66) | 

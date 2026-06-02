@@ -1,3 +1,11 @@
+---
+title: How We Decorate and Furnish Our House Matters
+category: concepts
+tags: [building-industry, carbon, circularity]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 #Household #France 
 
 ###### 6.6% of the household Carbon Footprint is linked to the furtinture, painting and so on that we use inside our houses

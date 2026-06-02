@@ -1,3 +1,11 @@
+---
+title: What is ISSB?
+category: standards
+tags: [esg, finance]
+created: 2026-06-01
+updated: 2026-06-01
+---
+
 
 https://www.youtube.com/watch?v=yZLCCVbC4jw 
 ### **ISSB — International Sustainability Standards Board**
