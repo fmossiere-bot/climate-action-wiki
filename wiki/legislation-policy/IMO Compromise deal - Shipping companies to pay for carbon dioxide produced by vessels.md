@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Transport 
+#transport 
 Sources: [Guardian]([https://www.theguardian.com/environment/2025/apr/11/shipping-companies-pay-carbon-dioxide-produced-by-vessels?CMP=Share_iOSApp_Other](https://www.theguardian.com/environment/2025/apr/11/shipping-companies-pay-carbon-dioxide-produced-by-vessels?CMP=Share_iOSApp_Other)) | [New Scientist](https://www.newscientist.com/article/2476997-does-the-shipping-industrys-plan-for-net-zero-add-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents)
 
 Saudi Arabia, Russia, [United Arab Emirates](https://www.theguardian.com/world/united-arab-emirates) and several other petrostates opposed the rules, but a majority of countries meeting at the International Maritime Organisation (IMO) in London approved a compromise deal that will mean all ships must pay for the CO2 they emit from 2028

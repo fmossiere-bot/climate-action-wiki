@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Sustainability #SDG 
+#sustainability #sdg 
 
 *==Source: https://www.un.org/sustainabledevelopment/sustainable-development-goals/==*
 
@@ -68,7 +68,7 @@ Extended report: https://unstats.un.org/sdgs/report/2024/extended-report/
 
 ---
 ## Ireland SDGs goals and progress
-#Ireland #SDG 
+#ireland #sdg 
 
 Source: https://unstats.un.org/UNSDWebsite/undatacommons/goals?p=Y291bnRyeS9JUkwmJg== 
 

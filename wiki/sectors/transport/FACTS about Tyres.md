@@ -9,7 +9,7 @@ updated: 2026-06-01
 ## How about the impact of your tyres
 
 *==Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n3/ | Page 103==*
-#France 
+#france 
 
 > Michelin is the leading in the industry. The french tyre producer, based in CLermont-Ferrand, has a clear goal of 100% sustainable production of tyres by 2050. 
 

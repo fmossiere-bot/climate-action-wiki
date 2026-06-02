@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Circularity 
+#circularity 
 
 
 ## How much more do we consume than earth can provide? 
@@ -47,7 +47,7 @@ Source: Lab4 [SLIDES](https://docs.google.com/presentation/d/1tHHu9sdnyM-hRBHIoA
 
 ---
 ## An Irish Waste Action Plan
-#WasteManagement #Circularity #Ireland 
+#wastemanagement #circularity #ireland 
  
 ![[86647_dcf554a4-0fb7-4d9c-9714-0b1fbe7dbc1a.pdf]]
 
@@ -81,7 +81,7 @@ Source: https://www.interregnorthsea.eu/digital-kiosks/european-market-study
 ### New EU rule targeting Textile and Food Waste
 Source: https://theprogressplaybook.com/2025/03/18/inside-the-eus-new-rules-targeting-textile-and-food-waste/ 
 
-#Circularity #Waste #Fashion 
+#circularity #waste #fashion 
 
 This is a provisional proposal only, it needs to be voted by all countries. 
 
@@ -101,7 +101,7 @@ To smooth the way forward, all companies in the sector, including smaller ones, 
 
 
 ### EU Targets don't properly reflect e0waste recycling efforts
-#E-Waste 
+#e-waste 
 
 ==*Source: [The Independant](https://m.independent.ie/irish-news/eu-targets-dont-properly-reflect-e-waste-recycling-efforts/a627907177.html)*
 

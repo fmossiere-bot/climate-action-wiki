@@ -9,7 +9,7 @@ updated: 2026-06-01
 ### Sustainable Forest Management Standard - FSC
 Source: https://fsc.org/ 
 
-#Standard #Bamboo #Sustainability 
+#standard #bamboo #sustainability 
 
 - Came across the FSC as I was buying Bamboo Socks on https://www.pollyandandy.com/
 - They offer many certification, but are widely recognise in terms of Forest Management following 10 clear principles:

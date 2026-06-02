@@ -18,7 +18,7 @@ More about [Green Digest Impact Score](https://www.greendigest.co/c/impactmethod
 
 
 ## A deep dive into Glencore's environmental and social impact
-#ESG 
+#esg 
 Company: [Glencore](https://www.glencore.com/)
 
 **Glencore** is one of the world’s largest globally diversified natural resource companies, with a strong presence in the mining, metals, energy, and agricultural secto

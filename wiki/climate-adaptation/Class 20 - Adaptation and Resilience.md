@@ -130,7 +130,7 @@ To do this, we can use an integrative operational framework with the following b
 ## Food Systems and Climate Change
 [LINK](https://textbook.terra.do/class/m-adaptation-3)
 
-#FoodSystems
+#foodsystems
 §
 To understand how food systems are vulnerable to climate change, it’s important to first grasp that we are talking about _systems._ 
 
@@ -277,7 +277,7 @@ If you know of a relevant case study, please share via the slides feedback butto
 
 
 ## First Assessment of Australia Risk Assessment
-#Australia #Adaptation
+#australia #adaptation
 Source: https://www.dcceew.gov.au/climate-change/publications/ncra-first-pass-risk-assessment
 
 ![[national-climate-risk-assessment-first-pass-assessment-report-2024.pdf]]

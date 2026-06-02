@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#E-Waste
+#e-waste
 
 **Source**: Generated using all the resources in Obsidian, Digital Collage, Notebook LM etc ... see [LM Notebook](https://notebooklm.google.com/notebook/f5ab1a3e-e31f-4357-aee0-12a36ec77664?original_referer=https:%2F%2Fwww.ecosia.org%23&pli=1)
 **Source**: [Globalwaste.org](http://Globalwaste.org) | [PDF - api.globalewaste.org](evernote:///view/1733566/s15/7254a11f-b5dc-47a1-8ef6-2d9f2523b9e1/53140278-a9c0-4ad7-9b6b-c9aebb8bc0e1) 
@@ -83,7 +83,7 @@ A lot of the E-waste generated is uncontrolled, and it increase considerably the
 
 
 ## An EU e-waste target?
-#Ireland #E-Waste 
+#ireland #e-waste 
 Source: [Independant](https://m.independent.ie/irish-news/eu-targets-dont-properly-reflect-e-waste-recycling-efforts/a627907177.html)
 
 An organisation that facilitates the collection of electronic waste has expressed concern that EU recycling targets ignore the impact of a growing circular economy in Ireland.
@@ -113,7 +113,7 @@ Other valuable metals such as aluminium, copper and iron are also extracted.
 
 ---
 ## COMPANIES 
-#Ireland #E-Waste 
+#ireland #e-waste 
 - [Recycleit](https://recycleit.ie/) In Clondalkin is colecting E-waste and is used by Padriaci for all the E-waste he collects onsite.
 
 ![[Screenshot 2025-04-21 at 14.18.48.png]]

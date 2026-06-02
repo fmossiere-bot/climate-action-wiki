@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#UCD #CarbonAccounting #CarbonAccounting 
+#ucd #carbonaccounting #carbonaccounting 
 ![[Screenshot 2023-11-16 at 11.20.04.png]]![[Screenshot 2023-11-16 at 11.20.16.png]]
 
 ## From UCD course on Carbon accounting

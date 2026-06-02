@@ -144,5 +144,5 @@ Week two is all about putting your learning into practice and expanding your hor
 - "Happy City: Transforming Our Cities for People and Planet" by Charles Montgomery
 - "The Life-Changing Magic of Not Giving a Damn" by Sarah Knight
 - Social Media:
-- Follow #HumanPowered on social media platforms like Instagram and Twitter to connect with others who are passionate about active travel.
+- Follow #humanpowered on social media platforms like Instagram and Twitter to connect with others who are passionate about active travel.
 - Not Just Bikes podcast on  youtube

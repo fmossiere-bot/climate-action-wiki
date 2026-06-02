@@ -1,7 +1,7 @@
 ---
 title: Santa Marta Conference — Building a Coalition to Phase Out Fossil Fuels (2026)
 category: solutions
-tags: [fossil-fuels, phaseout, international-diplomacy, coalition, roadmaps, Colombia, COP31, Tuvalu, Ireland]
+tags: [fossil-fuels, phaseout, international-diplomacy, coalition, roadmaps, colombia, cop31, tuvalu, ireland]
 sources: ["raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md"]
 created: 2026-05-29
 updated: 2026-05-29

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ESG #Sustainability 
+#esg #sustainability 
 
 ![[Screenshot 2024-04-29 at 16.24.12.png]]
 

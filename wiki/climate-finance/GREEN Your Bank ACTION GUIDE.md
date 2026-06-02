@@ -6,9 +6,9 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Finance #Something
+#finance #something
 
-Explore the wider role of Finance - [[Class 17 - Finance and Climate Change - Investment]] | [[Class 18 - Finance and Climate Change - RISK]]
+Explore the wider role of Finance - [[Class 17 - Finance and Climate Change - Investment]] | [[Finance and Climate Change - RISK]]
 
 Also check [[Class 17 - Finance and Climate Change - Investment#Your Personal Finance]] 
 
@@ -51,7 +51,7 @@ Through their lending and investing power, banks play a tremendous role in deter
 
 
 ## More on Banks financing Fossil Fuel
-[[Class 18 - Finance and Climate Change - RISK#Bank financing the Fossil Fuel]]
+[[Finance and Climate Change - RISK#Bank financing the Fossil Fuel]]
 https://www.fossilbanks.org/fossil-banks
 https://www.bankingonclimatechaos.org/?bank=JPMorgan%20Chase#fulldata-panel
 

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#AlternativeFuels #Biofuels #Biomass 
+#alternativefuels #biofuels #biomass 
 
 *==Source: [https://www.newscientist.com/article/2388177-first-cargo-ship-powered-by-green-methanol-has-begun-maiden-voyage/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents](https://www.newscientist.com/article/2388177-first-cargo-ship-powered-by-green-methanol-has-begun-maiden-voyage/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents)==*
 

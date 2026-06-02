@@ -6,9 +6,9 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Water 
+#water 
 ## Water Management IRELAND
-#Ireland #Water 
+#ireland #water 
 
 https://www.climateireland.ie/#!/tools/sectors/waterManagement
 

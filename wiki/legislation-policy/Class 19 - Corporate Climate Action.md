@@ -133,7 +133,7 @@ The TCFD may be familiar from some of our modules on finance, along with these t
 So the trend of regulations is clear. Would it not be an advantage to get ahead of it?
 
 ### Technology Risks: Cement Case Study
-#Concrete 
+#concrete 
 Technology risks to an organization come from competition of lower emissions options replacing demand for your product/service. A great example of technology risk is happening right now in the cement industry. A major focus turned on cement emissions after the IEA reported that cement produces more emissions than all the trucks on roads. Since then, the major cement producers have all set emissions reductions targets, including:  
 - CEMEX (40 percent less by 2030 from 1990 baseline)
 - Heidelburg (33 percent less by 2030 from 1990 baseline) 
@@ -144,7 +144,7 @@ Technology risks to an organization come from competition of lower emissions opt
 At the same time, new entrants are claiming abilities to reduce the embedded emissions of cement by 85 percent ([Material Evolution](https://www.materialevolution.com/)), 70-90 percent ([Ultra High Materials)](https://www.ultrahighmaterials.com/), 30-40 percent ([Solidia](https://www.solidiatech.com/)), and 100 percent carbon neutral ([Brimstone](https://www.brimstone.energy/)). Each of these companies is both (a) accelerating our path toward 1.5 C, (b) threatening the bottom line of these incumbents, and (c) making their net-zero pledges look weak.
 
 ### Market Risk: Changing Customer Demands
-#Research #IndividualSentiment
+#research #individualsentiment
 Market risks include changes in the demand or supply of goods and services driven by climate impacts. Consider the following consumer sentiments research:  
  
 - In 2020, [57 percent of consumers](https://www.mckinsey.com/industries/retail/our-insights/survey-consumer-sentiment-on-sustainability-in-fashion) in Germany and the UK made significant changes to their lifestyles to lessen their environmental impact. (McKinsey)
@@ -231,7 +231,7 @@ Image Source: [BCG](https://www.bcg.com/publications/2021/next-generation-clima
 
 Rapid emissions reduction is essential in organizations, but many are “flying blind” to their energy use, especially in energy-intensive industries. Many factories in supply chains are in countries with dirty grids that have little ability to influence policy and access to renewable energy. However, they still face high energy costs, and many lack the data they need to make informed decisions about where to invest.
 
-#CarbonAccounting #CarbonFootprint 
+#carbonaccounting #carbonfootprint 
 Enter [Guidewheel](https://guidewheel.com/about-us), who leverages trends in AI, big data, and machine learning to measure every energy-consuming part of a factory. When energy costs become highly visible and detailed, operators are able to use this data to buy more efficient machines, move production to more efficient lines, reduce machine idle time, reduce scrap, improve processes, and train operators. This has led to 10-25 percent energy use reductions (**action**) all while also providing real “scope 3” emissions data to suppliers and enhancing transparency (**accountability**).
 
 Image Source: [Guidewheel](https://guidewheel.com/en/how-it-works)
@@ -251,7 +251,7 @@ To more and more business leaders and entrepreneurs, these business models are o
 [LINK](https://textbook.terra.do/class/corporate-4)
 
 ### Corporations and Climate: A History
-#FossilFuel 
+#fossilfuel 
 
 From one lens, corporations have been involved in climate change since day one, and so have we as members of the global economy. There's a lot out there on corporate lobbying, culpability, and accountability. A [2017 report](https://cdn.cdp.net/cdp-production/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1501833772) by the Carbon Disclosure Project named 100 investor- and state-owned fossil fuel companies to be responsible for 70 percent of all human emissions.
 ![[Screenshot 2023-11-21 at 15.08.59.png]]
@@ -412,7 +412,7 @@ Fortunately, measurement is getting easier and easier. There is a large and grow
 **Bonus:**
 
 - [This SBTi guidance document](http://sciencebasedtargets.org/resources/files/SBT_Value_Chain_Report-1.pdf) on best practices.
-- [This #TerraTalk](https://youtu.be/p13k4dqc7HE) with Austin Whitman, the CEO of nonprofit measurement company [Climate Neutral](https://www.climateneutral.org/why-go-neutral?gclid=Cj0KCQjwxtSSBhDYARIsAEn0thSdYZir22furNDaOkoVkLfCfSCrOLF7EX4ur6NXy8WcegiET-CwpTgaAvDJEALw_wcB).  
+- [This #terratalk](https://youtu.be/p13k4dqc7HE) with Austin Whitman, the CEO of nonprofit measurement company [Climate Neutral](https://www.climateneutral.org/why-go-neutral?gclid=Cj0KCQjwxtSSBhDYARIsAEn0thSdYZir22furNDaOkoVkLfCfSCrOLF7EX4ur6NXy8WcegiET-CwpTgaAvDJEALw_wcB).  
 - [This December 2021 MCJ podcast](http://mcjcollective.com/my-climate-journey-podcast/kentaro-kawamori) with Kentaro Kawamori, Co-founder and CEO of measurement startup Persefoni. 
 - [This Carbon Accounting Market Map](https://medium.com/@kellylabuff/a-carbon-accounting-market-map-c0485bb9bb77) and blog post on Medium.
 ![[Screenshot 2023-11-21 at 15.34.45.png]]

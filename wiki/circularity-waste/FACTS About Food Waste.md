@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Waste 
+#waste 
 
 
 ## Global Food System are responsible for 34% of Global Total GHG
@@ -27,7 +27,7 @@ This has serious implication as this wasted food is:
 - sent to landfill, it generate methane
 - Incinerated, it generates CO2
 
-#US #Methane 
+#us #methane 
 ###### In the US, 50% of the food waste end up in Landfills where it generates GHG to the equivalent of 12 million cars. ([NewScientist Article](https://www.newscientist.com/article/2399742-food-waste-in-us-landfills-produces-emissions-equal-to-12-million-cars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents))
 - Methane from US Landfills make up 15% of US Methane emission
 - US compost rate is at 38%, way below the EU (57%)
@@ -35,7 +35,7 @@ This has serious implication as this wasted food is:
 
 > Reducing Food Waste is a major bet. Actually, it is the top solution according to [[Reduced Food Waste - Project Drawdown 1]] which could multisolve both our challenge to feed humans on the planet and reduce emissions by more than 80GT by 2050. Combined with more plant-based diet [[Plant-Rich Diets  - Project Drawdown  3]] and using the remaining waste to produce energy [[Waste to Energy - Project Drawdown 58]], the argument could be made that no food should go to Waste anymore
 
-#Ireland 
+#ireland 
 ###### The EPA estimates that Ireland generated 753,000 tonnes of food waste in 2021, and the government has agreed to reduce food waste by 50% by 2030 (https://www.epa.ie/our-services/monitoring--assessment/waste/national-waste-statistics/food/)
 
 > [!Is it possible? ]
@@ -60,7 +60,7 @@ It is already quite high in most developed nations like the EU (57%).
 This is mostly achieved thanks to community composters, and better waste separation at industry, company and individual levels. 
 
 ### Composting in Ireland
-#Ireland #Composting 
+#ireland #composting 
 > But ireland still has some way to go - [[IRELAND  Emissions, Climate Plans#EPA says we need to do more to support Waste]] 
 
 Ireland is far from that. It is disheartening to see that we apparently still don't recycle and separate organic food. 
@@ -81,7 +81,7 @@ More resources:
 ### Composting at Home
 Use of compost bin is a good solution, you still have to pay for it though, while some home composting could also be a good solution. Composting at home has been made more accessible, and is definitely worth exploring. 
 
-In #France #Composting  , this is now becoming more common to push people to make their own compost at home, with some option which are quite Odorless.
+In #france #composting  , this is now becoming more common to push people to make their own compost at home, with some option which are quite Odorless.
 
 ![[Compost-France.png]]
 

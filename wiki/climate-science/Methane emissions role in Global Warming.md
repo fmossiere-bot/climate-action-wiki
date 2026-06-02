@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Methane 
+#methane 
 
 > [!Interesting Related Articles]
 > [[Class 3 - Emissions and the Global Carbon Cycle#So... what should we be doing about methane leakage and emissions?]]  about the fact that Methane Emissions are up the roof
@@ -20,7 +20,7 @@ Methane is a hydrocarbon which is primiarly part of natrual gaz. Merthane is als
  
  - Methane emissions cause 25% of global heating today
  - Methane traps 80 times more heat thatC Co2 over 20 years
- - About 40% of methane emissions come from natural sources such as wetlands, while 60% come from anthropogenic sources such as cattle farming, fossil fuel extraction and landfill sites. #Wetlands 
+ - About 40% of methane emissions come from natural sources such as wetlands, while 60% come from anthropogenic sources such as cattle farming, fossil fuel extraction and landfill sites. #wetlands 
 
 ![[Pasted image 20230602211600.png]]
 
@@ -83,7 +83,7 @@ Its short lifetime and big impact mean that in terms of mitigation, methane is l
 Much of the methane entering the atmosphere comes from decomposition. Some of it is **natural, some of it comes from thawing permafrost and other worrisome feedback loops. Agriculture, especially beef production,** is another major contributor that must be addressed.
 
 ##### Permafrost
-#Permafrost 
+#permafrost 
 Permafrost in particular could have a large concentration of methane to release and is a major concern. The thawing of the permafrost is one of the top 9 tipping points we are monitoring actively and bring a risk of Carbon Feedback Loop [[Class 4 - Global Impact of Climate Change#Carbon cycle feedbacks]]
 
 Source: https://www.space.com/methane-beneath-arctic-permafrost-climate-feedback-loop
@@ -197,7 +197,7 @@ From Climate Adam
 ---
 ## AN unknown source of Methane: Hydropowers
 *==Source: https://www.bbc.com/future/article/20240326-how-hydroelectric-dams-are-a-hidden-source-of-carbon-emissions==*
-#Methane 
+#methane 
 
 ###### # Hydroelectricity is a hidden source of methane emissions but some people are trying to solve this
 

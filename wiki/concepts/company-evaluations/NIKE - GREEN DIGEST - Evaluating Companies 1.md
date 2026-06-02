@@ -18,7 +18,7 @@ More about [Green Digest Impact Score](https://www.greendigest.co/c/impactmethod
 
 
 ## Why does NIKE has a positive Impact Score
-#ESG 
+#esg 
 Source: https://www.greendigest.co/p/nike-environmental-and-social-impact 
 
 **Nike** is a leading global designer, marketer, and distributor of athletic footwear, apparel, equipment, and accessories.

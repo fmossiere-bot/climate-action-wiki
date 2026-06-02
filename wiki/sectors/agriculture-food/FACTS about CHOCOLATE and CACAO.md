@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Sustainability #FoodSystems 
+#sustainability #foodsystems 
 
 [NotebookLM](https://notebooklm.google.com/notebook/3e1fcfa0-5ff5-4141-b27b-532241a29bea)| [Chocolate Scorecard](https://www.chocolatescorecard.com/)| 
 

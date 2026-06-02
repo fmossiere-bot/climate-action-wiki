@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#RenewableEnergy #Nuclear
+#renewableenergy #nuclear
 
 
 > Interesting PODCAST I listened to about the more prominent presence of Nuclear in the discussion in COP28 for the first time, and how the view on Nucelar is changing , relalisation that it has to be part of the clean energy mix as it brings stability and reliability | [PODCAST](https://podcasts.apple.com/ie/podcast/the-energy-gang/id663379413?i=1000638168975)
@@ -43,7 +43,7 @@ For the EPR, the bigger mass production nuclear reactor, it requires rigor, proc
 ![[Nuclear_Worldwide Stats.png]]
 
 ![[Nuclear_France-STATS.png]]
-#France #Nuclear 
+#france #nuclear 
 > 
 >**Reference:** https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/le-nucleaire-en-chiffres
 

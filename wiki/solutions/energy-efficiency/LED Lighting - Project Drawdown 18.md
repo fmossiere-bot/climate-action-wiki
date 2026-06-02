@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ProjectDrawdown 
+#projectdrawdown 
 
 Source: https://drawdown.org/solutions/led-lighting
 
@@ -55,7 +55,7 @@ Recently developed LED lights are becoming increasingly energy-efficient, and th
 
 ---
 ## Re-Lighting your Household to save energy, what do you need to know?
-#France #Household 
+#france #household 
 Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n3/ p148
 
 - Lighting can represent 12% of the energy bill

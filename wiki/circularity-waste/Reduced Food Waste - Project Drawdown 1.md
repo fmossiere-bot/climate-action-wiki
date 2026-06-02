@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ProjectDrawdown #FoodSystems #Waste 
+#projectdrawdown #foodsystems #waste 
 
 Source: https://drawdown.org/solutions/reduced-food-waste 
 
@@ -14,7 +14,7 @@ Source: https://drawdown.org/solutions/reduced-food-waste
 
 > Low-Income regions must improve storage, processing, and transport. High-Income regions meed major retails & consumer interventions. This reduces methane emissions from decomposing food and deforestation for new farmland
 
-#Methane 
+#methane 
 
 Roughly one-third of all food produced worldwide is wasted. Where income is low, waste is generally unintentional and occurs on farms or during storage or distribution. In regions of higher income, food waste dominates further along the supply chain. Retailers and consumers reject food based on bumps, bruises, and coloring, or simply order, buy, and serve too much.
 

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
->#Biomass #Biofuels 
+>#biomass #biofuels 
 
 ## Introduction to Biomass
 
@@ -85,7 +85,7 @@ While large-scale use of biofuels has fallen out of favour, biomass energy based
 
 > [!Ecologie360 -  A positive story of running vehicles with Cows'poo]
 > Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n2/
-> > #France #Biofuels A good exemple is a story featured in Ecologie360 (p21) of a farmer running all his vehicles on Cows poos in Dordogne, using all animal wasts  to ferment where it produce Biomethane. Transforming it into fuel is much better for the environment. Other farmer choose to stock the effluents to aliment their reservoir, resulting in emissions of methane
+> > #france #biofuels A good exemple is a story featured in Ecologie360 (p21) of a farmer running all his vehicles on Cows poos in Dordogne, using all animal wasts  to ferment where it produce Biomethane. Transforming it into fuel is much better for the environment. Other farmer choose to stock the effluents to aliment their reservoir, resulting in emissions of methane
 ![[Screenshot 2024-06-17 at 14.19.47.png]]
 
 

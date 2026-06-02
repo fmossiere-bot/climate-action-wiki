@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Agriculture 
+#agriculture 
 
 ## Solar Power Doubled Mango Production — and Farmers’ Incomes — in Chamwino, Tanzania
 *==Source: https://www.wri.org/insights/solar-pumps-mango-production-chamwino-tanzania?apcid=0065aea19f4a6d4198ca0d00&utm_campaign=wridigest&utm_medium=email&utm_source=wridigest-2025-03-12==*

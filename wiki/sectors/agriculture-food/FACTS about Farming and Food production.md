@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#UCD #FoodSystems 
+#ucd #foodsystems 
 
 [[Food Carbon FootPrint]]
 [[Class 14 - About Food and Farming]]
@@ -68,7 +68,7 @@ Source: https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/
 See [[Plant-Rich Diets  - Project Drawdown  3]]
 
 ## We need to reduce WASTE
-#Waste 
+#waste 
 
 > An estimated **25 percent of the world’s food calories and up to 50 percent of total food weight are lost or wasted before they can be consumed.** In rich countries most of that waste occurs in homes, restaurants, or supermarkets. In poor countries food is often lost between the farmer and the market, due to unreliable storage and transportation. Consumers in the developed world could reduce waste by taking such simple steps as serving smaller portions, eating leftovers, and encouraging cafeterias, restaurants, and supermarkets to develop waste-reducing measures. Of all of the options for boosting food availability, tackling waste would be one of the most effective.
 
@@ -88,7 +88,7 @@ See [[Reduced Food Waste - Project Drawdown 1]]
 
 ---
 ## What about fish farming
-#Overfishing
+#overfishing
 *==Source: [https://www.newscientist.com/article/2452261-why-farming-fish-is-more-unsustainable-than-catching-them-in-the-wild/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents](https://www.newscientist.com/article/2452261-why-farming-fish-is-more-unsustainable-than-catching-them-in-the-wild/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents)==*
 Hayek and his colleagues have shown that the amount of wild [fish](https://www.newscientist.com/article-topic/fish/) killed in order to feed farmed fish is between 27 and 307 per cent higher than previous estimates
 

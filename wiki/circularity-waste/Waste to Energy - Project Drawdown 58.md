@@ -34,7 +34,7 @@ Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numer
 ## Another Example of waste-energy in Ireland
 Source: https://indaver.com/
 
-#Ireland  #WasteManagement 
+#ireland  #wastemanagement 
 
 
 > Celebrating over 30 years in business in Ireland, Indaver is an established European waste management company, with a proven track record.  

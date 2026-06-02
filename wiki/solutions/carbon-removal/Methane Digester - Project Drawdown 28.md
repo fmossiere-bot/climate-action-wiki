@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Methane 
+#methane 
 Link to [[Methane emissions role in Global Warming]]
 Source: https://drawdown.org/solutions/methane-digesters
 
@@ -46,5 +46,5 @@ Feedstock for electricity-generating biogas plants is available in adequate quan
 ---
 # Methane Digester potential for power illustrated
 Source: [ecologie | Mars Avril Mai 2024 | page 50](https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n5/)
-#Methane 
+#methane 
 ![[Screenshot 2024-05-26 at 11.16.16.png]]![[Screenshot 2024-05-26 at 11.16.27.png]]

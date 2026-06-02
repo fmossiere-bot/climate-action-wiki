@@ -1,17 +1,13 @@
 ---
-title: Class 17 — Finance and Climate Change: Investment
+title: Finance and Climate Change Investment
 category: climate-finance
-tags: [finance, esg]
-created: 2026-06-01
-updated: 2026-06-01
+tags:
+  - finance
+  - esg
+created: 2023-11-01
+updated:
 ---
-
-#Finance #ESG 
-
-- [x] Reviewed? 
-
 ## Introduction
-[LINK](https://textbook.terra.do/class/m-finance-1-1)
 
 > Is finance the Problem, the Solution, Both of Neither ???
 
@@ -99,7 +95,7 @@ Right now, there is about as much public as private finance supporting climate c
 Image Source: [CPI](https://www.climatepolicyinitiative.org/publication/global-landscape-of-climate-finance-a-decade-of-data/)
 
 ### Global context: Fossil fuel finance is still booming.
-#FossilFuel  [[FACTS About Fossil Fuel (Oil and Gaz) Industry]]
+#fossilfuel  [[FACTS About Fossil Fuel (Oil and Gaz) Industry]]
 
 In the years since the Paris Agreement, the world’s 60 biggest banks have financed fossil fuels to the tune of $3.8 trillion. The nonprofit group [Influence Map](https://influencemap.org/report/Finance-and-Climate-Change-17639) reports that the 30 largest publicly listed financial institutions in the world have collectively enabled more than $740 billion in primary financing to the fossil fuel industry in 2020 and 2021 alone, all are members of industry associations lobbying against climate policy, and, _29 of the 30 have committed to net-zero._ Advocacy group Rainforest Action Network [details](https://www.ran.org/campaign/stop-banks-funding-climate-chaos/) which banks around the world have provided the most financing to the fossil fuel industry, as well as which have committed to phasing out fossil fuel financing. 
 
@@ -213,7 +209,7 @@ There are many ways that private financial actors participate in climate finance
 - **Venture capital: the climate tech boom** 
 
 ### ESG investing
-#ESG 
+#esg 
 Environmental, Social, and Governance (ESG) investing is, according to [NerdWallet](https://www.nerdwallet.com/article/investing/esg-investing/), a form of investing "that considers environmental, social and governance factors to judge an investment’s financial returns and its overall impact."
 
 ESG investing often relies on ESG scoring by third-party research groups, who have developed sophisticated rubrics and scoring systems to aggregate company performance on a wide range of topics, from the use of recycled materials in products to board diversity to GHG emissions and labor rights in the supply chain. 
@@ -293,7 +289,7 @@ Image Source : [HolonIQ](https://www.holoniq.com/notes/2022-climate-tech-vc-fu
 As with all finance, venture investing too has its issues. 
 
 #### BitCoin
-#Tech #bitcoin 
+#tech #bitcoin 
 Also see  [[Class 17 - Finance and Climate Change - Investment#BitCoin]] &   ![[The Environmental Impact of Bitcoin Transactions.canvas]] 
  
 2022 was marked by the rush—and crash—of cryptocurrency. Bitcoin-mining operations use staggering amounts of energy—one single bitcoin transaction uses [the same amount of power](https://digiconomist.net/bitcoin-energy-consumption) that the average American household consumes in three weeks, and puts out roughly 800,000 times more carbon emissions than a single Visa transaction. To put this in context, as per climate scientist [Dr. Robert Rohde](https://twitter.com/RARohde/status/1375029948952539140?s=20), "buying a Tesla with bitcoin would generate ~0.4 tonnes of CO2, which is roughly the same as driving a gasoline car 1000 miles (1600 km)."
@@ -373,7 +369,7 @@ What can you do at home? THere are a few areas where you can make intentional, c
 
 
 **Greening your personal finances: are your banks funding fossil fuels? 
-#FossilFuel #Finance 
+#fossilfuel #finance 
 
 Check out [Fossilbanks.org](https://www.fossilbanks.org/fossil-banks) and the [report](https://www.ran.org/wp-content/uploads/2022/03/BOCC_2022_vSPREAD-1.pdf) from RAN and discuss what (if any) alternatives in exist in your contexts. You might find some [here](https://bank.green/sustainable-eco-banks).**
 
@@ -410,7 +406,7 @@ The International Energy Agency estimates that of about $2.8 trillion that will 
 - $1.7 trillion (60%) is going into clean energy solutions like renewables, electric vehicles, grids, storage, low-emissions fuels, efficiency improvements and heat pumps.  
 - $1.1 trillion is going into fossil fuel investment.
 
-#FossilFuel
+#fossilfuel
 ##### Still too much investment going to Fossil Fuel
 
 

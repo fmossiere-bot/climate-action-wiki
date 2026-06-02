@@ -6,11 +6,11 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Ireland #Environment 
+#ireland #environment 
 ## Silicate: The Irish start-up with a concrete plan to save the planet
 Source: https://www.euronews.com/green/2023/10/27/can-concrete-dust-help-to-fight-climate-change-irish-startup-is-trying-it-out-in-us 
 
-#CarbonRemoval #Concrete #Ireland 
+#carbonremoval #concrete #ireland 
 
 This company in Sligo, , is testing the impact of spreading Concrete Dust on farm fields, with the hope it has 3 ipmacts:
 1. Carbon absorbtion: Cement has a high power to absorb CO2 from the atmosphere. But htey also break down othr material fomr the rock part of the cement (such as limestone) which also have CO2 absorbption properties. 

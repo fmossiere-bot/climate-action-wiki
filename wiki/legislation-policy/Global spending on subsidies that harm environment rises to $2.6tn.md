@@ -7,7 +7,7 @@ updated: 2026-06-01
 ---
 
 Source: [Guardian](https://www.theguardian.com/environment/2024/sep/18/spending-subsidies-environment-deforestation-pollution-fossil-fuels-aoe?CMP=Share_iOSApp_Other)
-#Subsidies 
+#subsidies 
 
 unfortunately, when we want to see Subsdidies which incentivise bad impact reduce, we are seeing the opposite at the moment 
 

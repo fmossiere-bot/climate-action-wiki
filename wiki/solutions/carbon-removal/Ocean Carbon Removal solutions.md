@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 ==Source: [Assignment 4 elephant group](https://docs.google.com/document/d/107fqVxpZfCgfVwJRJ5ZSCXGFN4F2AHjGeQKhcRdBcTI/edit#heading=h.2x34ybr8t7ez)==
 
-#Ocean #CarbonRemoval #Seaweed 
+#ocean #carbonremoval #seaweed 
 
 Also refer to [[Class 15 - Carbon Removal#Ocean and Coastal Solutions]] 
 ### Overview: Marine Algae as a Solution to Climate

@@ -68,7 +68,7 @@ The [GCOS](https://gcos.wmo.int/en/essential-climate-variables/) defines ECV, or
 
 
 #### About Aerosols
-#Aerosols
+#aerosols
 As [this chart we mentioned in the hint](https://cbhighcharts.s3.eu-west-1.amazonaws.com/100%25+Human/berkeley_global_all.html) shows, aerosols have reduced global warming by 0.4 C or more since 1850. This is because they reflect incoming solar radiation.
 
 Most of these aerosols come from the burning of fossil fuels. Unfortunately, that means that if we reduce our use of fossil fuels, we will also reduce the cooling effect of the emitted aerosols.
@@ -208,7 +208,7 @@ https://www.ipcc.ch/about/
 
 The [IPCC](https://www.ipcc.ch/about/), or Intergovernmental Panel on Climate Change, is the United Nations body for assessing the science related to climate change. It involves the work of thousands of scientists from around the world, and provides regular assessments of the scientific basis of climate change, its impacts and future risks, and options for adaptation and mitigation.
 
-The IPCC periodically publishes hefty, collaborative Assessment Reports. The sixth and most recent of these is often just referred to as [AR6](http://www.ipcc.ch/report/ar6/wg1/#SPM), which we'll detail more on the next slide. These reports are _the_ definitive source on international climate research and policy implications.
+The IPCC periodically publishes hefty, collaborative Assessment Reports. The sixth and most recent of these is often just referred to as [AR6](http://www.ipcc.ch/report/ar6/wg1/#spm), which we'll detail more on the next slide. These reports are _the_ definitive source on international climate research and policy implications.
 
 ### UNFCCC (& its COP)
 Another body of the United Nations called the United Nations Framework Convention on Climate Change, or UNFCCC, hosts the annual "[Conference of the Parties](https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop)" or COP. This body, which brings national leaders together to forge agreements on climate policy, does not produce any science, but rather, uses the scientific reports of the IPCC to guide their decision-making.

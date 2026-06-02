@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Digital 
+#digital 
 
 
 ## We live in a DIGITAL World
@@ -110,11 +110,11 @@ https://salience.co.uk/insight/magazine/the-carbon-footprint-of-search/
 
 
 ## Cool Companies trying to address that problem
-- **elow** - https://elow.energy/ | #TFTP  Company that provide a digital solution for B2C and B2B app which reduce emissions automatically and provides you data on the impact on Digital Footprint
+- **elow** - https://elow.energy/ | #tftp  Company that provide a digital solution for B2C and B2B app which reduce emissions automatically and provides you data on the impact on Digital Footprint
 
 - [ ] May be add an infographic about "A year in digital world"
 - [ ] Add part about putting this in perspective
-#TFTP 
+#tftp 
 ![[ImpactCO2.png]]
 
 

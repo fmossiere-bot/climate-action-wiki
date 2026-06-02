@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 Source: [https://www.unep.org/resources/emissions-gap-report-2024](https://www.unep.org/resources/emissions-gap-report-2024)
 UNEP - United Nation Environment Programme
-#Research 
+#research 
 
 > As climate impacts intensify globally, the _Emissions Gap Report 2024: No more hot air … please!_ finds that nations must deliver dramatically stronger ambition and action in the next round of Nationally Determined Contributions or the Paris Agreement’s 1.5°C goal will be gone within a few years. The report is the 15th edition in a series that brings together many of the world’s top climate scientists to look at future trends in greenhouse gas emissions and provide potential solutions to the challenge of global warming.
 

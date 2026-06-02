@@ -84,7 +84,7 @@ Fossil fuel operations are among the [most significant sources](https://twitter
 
 Technologies like infrared cameras help us “see” these leaks. Check out the work of [Kairos Aerospace](https://kairosaerospace.com/methane-detection/) for another example of innovation in detecting methane leaks. The IEA has also published a [guide](https://www.iea.org/reports/curtailing-methane-emissions-from-fossil-fuel-operations) on curtailing methane emissions from fossil fuel operations.
  ![[Screenshot 2024-01-25 at 13.15.46.png]]
- #Wetlands #Methane 
+ #wetlands #methane 
 
 Current methane concentrations in the atmosphere are at [record-high levels](https://phys.org/news/2022-01-methane-atmosphere-all-time-high-climate.html). While it’s critical to address direct emissions from fossil fuel and agricultural systems, it's also worth noting climate feedbacks are contributing to this rise. We discuss feedbacks more in a later class, but for now it's worth noting a 2022 [study](https://www.nature.com/articles/s41467-022-31345-w.pdf) found that rising temperatures can help produce _more_ methane—for instance, by speeding up microbe activity in wetlands. At the same time, methane _removal_ is slowed down by increasing numbers of wildfires. In a [story](https://www.theguardian.com/environment/2022/jul/05/global-heating-causes-methane-growth-four-times-faster-than-thought-study) in the _Guardian_, one study author called the results "shocking."
 

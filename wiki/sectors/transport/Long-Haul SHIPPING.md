@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Transport 
+#transport 
 Source: https://textbook.terra.do/class/m-energy2-3
 
 Rapidly declining battery costs have made the electrification of ships plying routes of less than 1,500 km [the most economical option](https://www.nature.com/articles/s41560-022-01065-y). A company in [Norway](http://electrek.co/2021/08/25/worlds-first-autonomous-7mwh-electric-cargo-ship-to-make-voyage-with-zero-crew-onboard/) launched an autonomous electric ship in 2021. And as of 2023, [China](https://www.electrive.com/2023/07/31/china-launches-battery-electric-container-ship/#:~:text=China%20has%20launched%20its%20first,can%20be%20exchanged%20en%20route.) has launched a ship with room for 700 shipping containers that runs on batteries that can be swapped out as it travels hundreds of miles up the Yangtze River. 
@@ -18,7 +18,7 @@ Shipping emissions on the whole remain a “hard-to-decarbonize” challenge. Pe
 ##### Incredibly, [40 percent](http://cleantechnica.com/2021/12/22/peak-oil-coal-demand-means-peak-shipping-demand-too/) [of tonnage shipped globally is fossil fuels](http://cleantechnica.com/2021/12/22/peak-oil-coal-demand-means-peak-shipping-demand-too/) and petrochemicals.
 
 ## What about Capture for Cargo ships? 
-#CarbonRemoval #Transport 
+#carbonremoval #transport 
 
 [Seabound](https://www.seabound.co/) is planning to use on-board Carbon Capture in order to make Shipping  more sustainable. They claim to capture up to 95% of emitted CO2 per ship. 
 

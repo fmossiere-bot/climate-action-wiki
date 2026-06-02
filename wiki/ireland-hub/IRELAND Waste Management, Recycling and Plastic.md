@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Ireland #Recycle #Plastic #Composting 
+#ireland #recycle #plastic #composting 
 
 
 Also see source: http://mywaste.ie 

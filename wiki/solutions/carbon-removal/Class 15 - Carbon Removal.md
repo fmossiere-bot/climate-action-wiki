@@ -11,7 +11,7 @@ updated: 2026-06-01
 
 - [x] Reviewed\
 
-#CarbonRemoval 
+#carbonremoval 
 ## Introduction
 - Do we even need carbon dioxide removal or is it a dangerous distraction?
 - Can forests save us? How best can we conserve them?
@@ -125,7 +125,7 @@ The above risks, when taken together, mean that the climate impacts of nature-ba
 
 
 ### Forests: How important are forests for climate stability?
-#Forest 
+#forest 
 
 Also see [[FACTS about Forest, Land Use and Land management]]
 
@@ -210,7 +210,7 @@ If you're interested in digging deeper into the role of forests and trees as a c
 
 ---
 ### Peatlands
-#Peatland
+#peatland
 
 Peatlands are [a type of wetland. They include](http://www.nytimes.com/interactive/2022/02/21/headway/peat-carbon-climate-change.html?referringSource=articleShare) bogs, fens, pocosins, palsa, blanket bogs, and tropical peat swamp forests.
 
@@ -232,7 +232,7 @@ Some additional resources if you're interested:
 • [Peat deposits store more carbon than trees in forested peatlands of the boreal biome](https://www.nature.com/articles/s41598-021-82004-x)
 
 ### Sequestering soil carbon on farms
-#Soil 
+#soil 
 
 We covered this topic in the modules on food systems and farming. Please refer to those modules for a deeper dive into this topic. 
 
@@ -241,7 +241,7 @@ One resource that relates specifically to carbon removal in soil is CarbonPlan's
 At the same time, as Dr. Laney Seigner discusses in the food systems and farming modules, there are many beneficial reasons to practice regenerative agriculture and conserve soil health extending well beyond climate impacts.
 
 ### Ocean and Coastal Solutions
-#Ocean #CarbonRemoval #Seaweed 
+#ocean #carbonremoval #seaweed 
 
 The oceans are a highly effective carbon sink. They have removed about [one-third of anthropogenic CO2 emissions since the industrial revolution](https://bg.copernicus.org/articles/10/2169/2013/).  Oceans also provide tremendous economic benefits and other environmental services. WWF estimates economic activities such as fishing, transport, conservation and tourism to be valued at [over $24 trillion in combined assets.](http://awsassets.panda.org/downloads/wwf_marine_briefing_principles_blue_economy.pdf) 
 

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Plastic 
+#plastic 
 
 https://docs.google.com/document/d/180EYIaH7gBrWPQXjeMCGbAdjRg9_MjPOI8hxEfoCyUc/edit?tab=t.0
 

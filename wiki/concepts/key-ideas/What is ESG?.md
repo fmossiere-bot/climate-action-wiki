@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Legislation #ESG 
+#legislation #esg 
 ESG stands for **Environment, Social Responsibility and Governance**
 
 See https://corpgov.law.harvard.edu/2023/01/30/eu-finalizes-esg-reporting-rules-with-international-impacts/
@@ -138,7 +138,7 @@ https://www.deloitte.com/uk/en/services/consulting/research/green-skills-for-gre
 
 ---
 # About ESG Reporting
-#ESG 
+#esg 
 Source: [https://www.crowe.com/ie/services/environmental-social-and-governance](https://www.crowe.com/ie/services/environmental-social-and-governance)
 
 There are many considerations to be worked through when developing an ESG strategy, including standards, customer expectations, investor concerns, and funder/investor requirements.

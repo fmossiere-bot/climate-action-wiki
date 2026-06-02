@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#FoodSystems #Subsidies 
+#foodsystems #subsidies 
 
 - Other reference on those topics: [[Food Carbon FootPrint]]
 - [[FACTS about Farming and Food production]]
@@ -333,7 +333,7 @@ Changes we need to see related to Regenerative farming : from the Farms to the F
 **Individual habits have impact**
 ![[Screenshot 2023-11-03 at 09.13.55.png]]
 
-#Waste #Composting 
+#waste #composting 
 ![[Screenshot 2023-11-03 at 09.15.42.png]]
 
 - Is it possible to eliminate food waste through composting and recycling? South Korea says yes. They’ve virtually eliminated [food waste](https://katharinehayhoe.us14.list-manage.com/track/click?u=fa37a090438ee00d891b2a776&id=14b07a1f6b&e=9ea8d6ef4b) thanks to a compulsory curbside composting program.

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#WindEnergy #Ireland 
+#windenergy #ireland 
 
 Ireland Energy reduction goals by 2030 and 2050 will rely mostly on Wind energy. Although [[IRELAND Energy and Biomass]] will also play a role to substitute gas. Our goals are 
 - reduce energy industry emission by 60% and have 80% of energy from renewable sources by 2030
@@ -35,7 +35,7 @@ Path to multiply from 10TWh output to more than 77TWh in 2050, representing majo
 ![[Wind_Energy_Roadmap_2011-2050.pdf]]
 
 ### IRELAND Renewable Offshore Wind efforts
-#WindEnergy #Ireland 
+#windenergy #ireland 
 #### EDF partnership with Simply Blue on Floating Wind energy
 Source: [https://www.breakingnews.ie/business/french-energy-giant-edf-enters-partnership-to-develop-two-irish-floating-wind-projects-1482951.html](https://www.breakingnews.ie/business/french-energy-giant-edf-enters-partnership-to-develop-two-irish-floating-wind-projects-1482951.html)
 

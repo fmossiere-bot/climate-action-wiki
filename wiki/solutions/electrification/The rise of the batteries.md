@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 ==*Source: [The Rise of Batteries in Six Charts and Not Too Many Numbers](https://substack.com/app-link/post?publication_id=1639653&post_id=139024936&utm_source=cross-post&utm_campaign=1593097&isFreemail=true&r=2u0a9d&token=eyJ1c2VyX2lkIjoxNzEzMzQxMjksInBvc3RfaWQiOjEzOTAyNDkzNiwiaWF0IjoxNzA3ODUwNTU2LCJleHAiOjE3MTA0NDI1NTYsImlzcyI6InB1Yi0xNjM5NjUzIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.3wh3XeumKAt4r_L5URxeSErVXtlvr6TBV4oZ5PDE5gI)*==
 
-#Battery 
+#battery 
 
 The world is moving inexorably towards renewable energy. Over the past decade, solar prices dropped 90% and we are now poised for batteries to make a similar price decline. This should enable us to replace natural gas as the dispatchable power of choice and move ever closer to a truly clean energy future. Of course, the fossil fuel companies will not stand around and do nothing. Expect them to fire up the disinformation machine to try to push back on this legitimately good news.
 ### The unstoppable rise of batteries is leading to a domino effect that puts half of global fossil fuel demand at risk
@@ -101,7 +101,7 @@ Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numer
 
 Also see [[FACTS - Climate "Myth Busters" & Back Pocket stories#**Myth 2 All that mining will be worse for the climate and environment than fossil fuels.**]]
 
-#Myths #Battery 
+#myths #battery 
 ![[Screenshot 2024-06-05 at 16.32.05.png]]
 ![[Screenshot 2024-06-05 at 16.34.25.png]]
 

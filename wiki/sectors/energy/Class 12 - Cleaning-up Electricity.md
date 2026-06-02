@@ -106,7 +106,7 @@ See [[FACTS about Wind Energy]] for more details
 ---
 ## Source of Clean Energy
 ### Biomass
-#Biomass #Biofuels
+#biomass #biofuels
 > Biomass energy is energy from organic matter—both plant materials and animal waste. Plant-based biomass energy is considered a "sustainable" source of energy because plants absorb carbon dioxide from the atmosphere, and when burned, emit the same amount of carbon dioxide back into the air. So in theory, biomass energy is carbon "neutral." But the reality is quite different
 
 About 10% of global primary energy comes from biomass. Many rural people around the developing world rely on wood, charcoal, animal dung, and other biomass to provide energy for household cooking and heating, and small-scale rural industrial processes, like brick-making and food processing.
@@ -174,7 +174,7 @@ Please note that as with all clean energy solutions, the economics and technolog
 
 
 ### Hydrogen as a Storage solution
-#GreenHydrogen 
+#greenhydrogen 
 
 Ref: [[FACTS about Clean & GREEN Hydrogen]]
 
@@ -203,7 +203,7 @@ Read More on Electricity Market in the EU: https://fsr.eui.eu/electricity-market
 
 
 ## Stop Subsidising Fossil Fuel
-#Subsidies 
+#subsidies 
 The IMF reports that subsidies to Fossil Fuel companies added up to **==$5.9tn 2020==**
 Similar to the Subsidies for unsustainable agriculture described in [[FACTS on EVERYTHING - Under the Sky we Make]], we need to direct those to renewable energies instead
 

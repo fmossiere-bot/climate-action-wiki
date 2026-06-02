@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Reporting #Legislation 
+#reporting #legislation 
 
 [NOTEBOOKLM](https://notebooklm.google.com/notebook/f2a0ba9c-ae9b-49c8-b404-04edb495cf66) | 
 

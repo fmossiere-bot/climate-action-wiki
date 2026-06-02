@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#CarbonFootprint #Holidays #Transport
+#carbonfootprint #holidays #transport
 There are various calculator out there. Let's compare them
 
 

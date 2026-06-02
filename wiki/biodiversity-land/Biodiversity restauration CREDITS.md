@@ -8,10 +8,10 @@ updated: 2026-06-01
 
 Source: https://www.irishtimes.com/special-reports/2024/04/25/dunsany-estate-in-co-meath-agrees-landmark-irish-biodiversity-deal/
 
-#CarbonOffset #Biodiversity 
+#carbonoffset #biodiversity 
 
 ## Dunsany estate in Co Meath agrees landmark Irish biodiversity deal
-#Ireland #Biodiversity 
+#ireland #biodiversity 
 ##### Coffeeangel to invest 5% of its profits in biodiversity credits from rewilded nature reserve
 
 > Restoring biodiversity can bring a double dividend, helping to bring ecosystems back to a healthy state and countering many of the consequences of global warming. It has a critical role in making a sustainable world.
@@ -32,7 +32,7 @@ This is a new type of credits:
 
 ---
 ## Is biodiversity being considered in Sustainability Reporting ?
-#Ireland #Biodiversity 
+#ireland #biodiversity 
 
 ==Source: [KPMG Survey of Sustainability Reporting 2022](evernote:///view/1733566/s15/3f3087ad-7544-4cb0-a39c-f2b60d4c4249/53140278-a9c0-4ad7-9b6b-c9aebb8bc0e1)==
 

@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 - [x] Reviewed
 
-#Permafrost 
+#permafrost 
 ## Introduction
 [LINK](https://textbook.terra.do/class/m-global-impacts-1?r=https://app.terra.do/app/learning/86/my-schedule#m-global-impacts-1)
 VIDEO
@@ -133,7 +133,7 @@ this is what we call ARTIC AMPLIFICATION - The Arctic is heating up, and "has wa
 
 ![[Screenshot 2024-02-08 at 11.48.33.png]]
 
-#Ocean  
+#ocean  
 #### Summer 2023 temperatures 
 This chart from October 2023 shows how far [out of the ordinary](http://www.cnn.com/2023/08/04/world/ocean-heat-temperature-record-climate/index.html) ocean temperatures were compared to anything seen in decades.
 
@@ -365,7 +365,7 @@ That's all to say that we've definitely now passed that central 1.2 degrees temp
 ---
 ### Carbon cycle feedbacks
 
-#Permafrost 
+#permafrost 
 Our chances of exceeding tipping points are connected to carbon cycle feedbacks. The carbon cycle, as you know, is comprised of the exchanges of carbon between the atmosphere, land, ocean, and the organisms they contain. “Feedbacks” refer to the changes that could occur in these exchanges themselves as a result of warming temperatures and increasing CO2 levels.
 
 ![[Screenshot 2024-02-08 at 13.23.49.png]]

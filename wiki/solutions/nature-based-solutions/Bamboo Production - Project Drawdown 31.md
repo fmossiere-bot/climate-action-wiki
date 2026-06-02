@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ProjectDrawdown #Bamboo 
+#projectdrawdown #bamboo 
 
 Reference to Bamboo
 [[FSC Standard for Forest Certification]] | [[Alternative Constructions examples#House in France with Bamboo structure]] |  

@@ -6,14 +6,14 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Google #CompaniesEmissions
+#google #companiesemissions
 
 Things to look into for google:
 - 24/7 carbon-free target
 - Listen to podcast 
 ## Google Emissions go up 50% due to AI demand
 Source: [https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions](https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions)
-#Google #Energy #Digital 
+#google #energy #digital 
 ##### ... and with it Tech giant’s goal of reducing climate footprint at risk as it grows increasingly reliant on energy-hungry data centres
 
 ![[Screenshot 2025-05-12 at 09.43.33.png]]

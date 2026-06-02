@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Legislation 
+#legislation 
 *Source:* [Agriland]([https://www.agriland.ie/farming-news/confusion-over-new-eu-anti-greenwashing-rules-in-ireland/](https://www.agriland.ie/farming-news/confusion-over-new-eu-anti-greenwashing-rules-in-ireland/))
 
 > **CSRD stand for Corporate Sustainability Reporting Directive**, and is an new EU rule, coming into force at the start of this year
@@ -46,7 +46,7 @@ The first companies will have to apply the new rules for the first time in the 2
 Companies subject to the CSRD will have to report according to European Sustainability Reporting Standards (ESRS). The draft standards are developed by the [EFRAG, previously known as the European Financial Reporting Advisory Group](https://efrag.org/), an independent body bringing together various different stakeholders. The standards will be tailored to EU policies, while building on and contributing to international standardisation initiatives. The Commission should adopt the first set of standards by mid-2023, based on the [draft standards published by EFRAG](https://finance.ec.europa.eu/publications/reports-development-eu-sustainability-reporting-standards_en)[_EN_**•••**](https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en#modal) in November 2022.
 
 
-> #Update #ESG Review this update from Harvard Business regarding the finalization of ESG rules: https://corpgov.law.harvard.edu/2023/01/30/eu-finalizes-esg-reporting-rules-with-international-impacts/
+> #update #esg Review this update from Harvard Business regarding the finalization of ESG rules: https://corpgov.law.harvard.edu/2023/01/30/eu-finalizes-esg-reporting-rules-with-international-impacts/
 
 
 ---

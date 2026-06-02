@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Ireland #RenewableEnergy 
+#ireland #renewableenergy 
 
 ## About Bitcoin and Cryptocurrency
 Reference: ![[The Environmental Impact of Bitcoin Transactions.canvas]] Also refer to [[FACTS about Cryptocurrency and the environment]] 
@@ -78,7 +78,7 @@ As my colleague Marine mentioned in her post, Ai
 ## What about ICELAND as the new Eldorado for Data CEnters
 Iceland has indeed become an increasingly popular location for data center operations, and there are several compelling reasons why companies are considering Iceland as an attractive option:
 
-#Iceland 
+#iceland 
 ### Renewable Energy
 
 Iceland's electricity is generated almost entirely from renewable sources—approximately 75% from hydropower and 25% from geothermal power. This abundance of renewable energy is a significant attraction for data centers, which are intensive energy users and are increasingly seeking to reduce their carbon footprint in response to global climate change concerns.

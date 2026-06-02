@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#FossilFuel #France 
+#fossilfuel #france 
 
 Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n4/
 

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ClimateChange #Book
+#climatechange #book
 
 ![[Screenshot 2023-05-31 at 16.20.36.png]]
 *Buy:* [Amazon](https://www.amazon.co.uk/Under-Sky-We-Make-Warming/dp/B08DL3YKDT/ref=sr_1_1?crid=76MI10E5WCBM&keywords=under+the+sky+we+make&qid=1685546312&sprefix=under%2520the%2520sky%2520we%2520make%2Caps%2C63&sr=8-1)
@@ -114,7 +114,7 @@ It will take millions of years to recover our Biodiversity.
 
 Humans are destroying nature to overextract Crops,Timber and other materials, stressing and overwhelming nature's ability to sustain that production. 
 
-> 85% of wetlands (which filter water and provide flood protection) and 50% of Coral reef  (which buffer stroms and are nureseries for life in ocean) are gone #Wetlands 
+> 85% of wetlands (which filter water and provide flood protection) and 50% of Coral reef  (which buffer stroms and are nureseries for life in ocean) are gone #wetlands 
 
 
 > Please also refer to [[Keynote Dr Chip FLETCHER]] where he also talks a lot about the impact Human had, Agriculture had, aNd the biodiversity conSequences. 
@@ -148,7 +148,7 @@ Fortunately, we already have the tech we need. A 2018 study in Science concluded
 
 # Part 2 - We're sure it's bad
 ## 4. Sink into your grief
-#Eco-Anxiety 
+#eco-anxiety 
 For Scientist, they had years of understanding what is happening and prepare for it. We already lost,, and that loss creates grief. We need to make peace with it, the same way we would process other loss. Covid also tought us that, things are not as beofre, there are more infection, more wild fires, more heat, less snow, most of us can physically and visually clearly picture it, and we need to grieve. In that sense, Scientist can be the Stewart of Grief
 
 [See this article on GRIEF](**obsidian://open?vault=Mental%20Health&file=Grief**)
@@ -287,7 +287,7 @@ The carbon elite need to change, and I believe people are willing to change. I d
 The research is clear: Both individual and collective actions, in both private and professional life, are needed to reduce emissions toward zero fast.
 
 ### Make Change Happen - you only need 25%
-#Social 
+#social 
 Research shows this is how social and cultural change actually happens and scales up, from person to person until it reaches a critical mass where the whole culture is affected. Starting with myself, with what I could take responsibility for, also expanded how I saw myself.
 
 > A research estimate that it takes **25% of the population** to reach critical mass to be able to change norms. https://www.scientificamerican.com/article/the-25-revolution-how-big-does-a-minority-have-to-be-to-reshape-society/
@@ -401,7 +401,7 @@ Swithch Coew milk for Almond milk
 
 
 ### Stop to Subsidies Agriculture
-#Subsidies 
+#subsidies 
 To start growing a sustainable food system, we’ll have to redirect the agricultural subsidies supporting today’s unsustainable one, which currently total $1 million every minute globally. 
 
 #### A small, powerful group benefits from the current system; in the European Union, more than 80 percent of farm subsidies go to just 20 percent of farmers. 

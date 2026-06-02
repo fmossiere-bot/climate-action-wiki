@@ -6,12 +6,12 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#FACTS #Plastic #WasteManagement 
+#facts #plastic #wastemanagement 
 
 [Notebook LM on PLASTICS](https://notebooklm.google.com/notebook/d4d67691-8506-40d0-8f81-7b6ddd852840?original_referer=https:%2F%2Fwww.ecosia.org%23&pli=1)
 # PLASTIC
 
-#Ocean 
+#ocean 
 As an analogy, 10-12 million tonnes of plastic waste end up in the ocean each year. This is the equivalent of 700 billion plastic bottle.. 
 
 If everyone collected 2 bottles of plastic per week and recycled it, we would stop polluting our oceans. 
@@ -123,7 +123,7 @@ See [[IRELAND  Emissions, Climate Plans#EPA says we need to do more to support W
 # In the NEWS... 
 
 ## REUTERS: Plastics to outpace coal's GHG emissions by 2030
-#Plastic #Research 
+#plastic #research 
 *Source: https://www.reuters.com/business/cop/plastics-outpace-coals-greenhouse-gas-emissions-by-2030-report-2021-10-21/*
 
 ![[Screenshot 2023-11-07 at 16.33.43.png]]
@@ -270,7 +270,7 @@ Provides consultancy to companies, solution for their plastic waste and a range 
 ---
 ## Cool Project - Cleaning up the OCEAN: Boyan Slat
 [Portrait](https://www.google.com/search?q=boyan+slat&oq=boyan+slat&aqs=chrome.0.0i355i512j46i512j0i512l8.1775j0j7&sourceid=chrome&ie=UTF-8)
-#Ocean #Pastic #CoolCompanies 
+#ocean #pastic #coolcompanies 
 This young man (under 30) started 10 years ago with a big dream to clean-up the ocean. He has just raised 25M$ from the Airbnb. 
 
 They wanted to start with the biggest part. the [Great Pacific Garbage Patch](https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/)", 3x the size of France, located between Hawai and California
@@ -292,7 +292,7 @@ See [[FACTS about the Ocean]]
 ---
 
 ## Seaqual to remove plastic from the Ocean and turn it into fashion
-#Ocean #Plastic #TFTP 
+#ocean #plastic #tftp 
 ==*Source: www.seaqual.org* ==
 
 ![[Screenshot 2024-01-27 at 13.29.10.png]]
@@ -326,7 +326,7 @@ Example of a company, [enval](https://www.enval.com/), in the UK.
 ---
 ## Irish Company transform Plastic into Sustainable Fuel
 Source: [RTE News]([https://www.rte.ie/news/environment/2024/0822/1465952-trifol-resources/](https://www.rte.ie/news/environment/2024/0822/1465952-trifol-resources/))
-#Ireland #Plastic #Biofuels #AlternativeFuels 
+#ireland #plastic #biofuels #alternativefuels 
 
 > An Irish company has developed and patented a process to transform old plastic into sustainable fuel, including sustainable aviation fuel and wax
 
@@ -368,7 +368,7 @@ Asked if an aeroplane could operate on recycled waste plastic, Dr Quintero said:
 
 ---
 ## MONOMERIS - A new way to break down plastic
-#TFTP #France #Plastic 
+#tftp #france #plastic 
 
 *Source: https://monomeris-chemicals.com/*
 

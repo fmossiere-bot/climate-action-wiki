@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 Source: https://drawdown.org/solutions/efficient-aviation
 
-#ProjectDrawdown #Transport 
+#projectdrawdown #transport 
 
 > The number of flights may double between 2020 and 2040. Better winglets and engines, fuel-saving practices and new sustainable jet fuels can improve fuel efficiency
 

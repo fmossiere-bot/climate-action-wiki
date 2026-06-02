@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Research #LifestyleChoices
+#research #lifestylechoices
 
 Current anthropogenic climate change is the result of greenhouse gas accumulation in the atmosphere, which records the aggregation of billions of individual decisions. Here we consider a broad range of individual lifestyle choices and calculate their potential to reduce greenhouse gas emissions in developed countries, based on 148 scenarios from 39 sources. We recommend four widely applicable high-impact (i.e. low emissions) actions with the potential to contribute to systemic change and substantially reduce annual personal emissions: 
 - having one fewer child (an average for developed countries of **58.6 tonnes CO2-equivalent (tCO2e) emission reductions per year),

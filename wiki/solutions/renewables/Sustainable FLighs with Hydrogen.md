@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#AlternativeFuels 
+#alternativefuels 
 
 SAF [[About Sustainable Aviation Fuel (SAF)]] is not the only option. Hydrgen has long been considered as an option to power transportation, especially Cargo and Planes. 
 
@@ -26,7 +26,7 @@ Carbon-free flights promised 'within two years'
 
 ## Zero Emission Hydrogen Plan in Germany
 Source: ecologie360 - Winter 2024-2025
-#Aviation #Germany 
+#aviation #germany 
 
 
 

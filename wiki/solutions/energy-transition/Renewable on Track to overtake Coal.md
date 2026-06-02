@@ -6,13 +6,13 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Energy #Coal 
+#energy #coal 
 
 ![[IMG_7530.jpg]]
 
 - **Renewable energy is set to overtake Coal by 2025** accroding to the AIE (Agency International Elecrtricyt). 
 - Between 2022 and 2027, It is planned to increase by **2400GW**  (equivalent of Chinese total renewable capacity today) and  **==reach 38% of the energy mix==**
-#RenewableEnergy #GoodNews
+#renewableenergy #goodnews
 
 ##### China and India together are responsible for two-thirds of the world’s coal power generation today, so much of the success of global coal phase-out hinges on them
 

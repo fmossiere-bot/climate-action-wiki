@@ -6,9 +6,9 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#BulidingIndustry 
+#bulidingindustry 
 ## House in France with Bamboo structure
-#France #AlternativeConstruction #Bamboo 
+#france #alternativeconstruction #bamboo 
 
 *==Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n4/ p.71==*
 
@@ -17,7 +17,7 @@ updated: 2026-06-01
 
 
 ## House made of Wood Structure
-#France #AlternativeConstruction 
+#france #alternativeconstruction 
 Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n4/ p.72
 
 ###### " Only 6% of new accommodations use a wood structure, vs 20% in Sweden "

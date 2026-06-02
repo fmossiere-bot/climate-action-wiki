@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#ESG #Sustainability 
+#esg #sustainability 
 
 ##### The majority of organisations are exposed to a range of ESG issues. With this in mind, it is essential to determine which are the most material and to comprehend how exactly they affect your enterprise.
 

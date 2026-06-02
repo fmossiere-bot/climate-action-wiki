@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Digital 
+#digital 
 
 
 Also check [[The Environmental impact of a DIGITAL ACTIVITIES (Draft)]]

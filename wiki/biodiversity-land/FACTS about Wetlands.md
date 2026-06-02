@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Wetlands 
+#wetlands 
 We discuss feedbacks more in a later class, but for now it's worth noting a 2022 [study](https://www.nature.com/articles/s41467-022-31345-w.pdf) found that rising temperatures can help produce _more_ methane—for instance, by speeding up microbe activity in wetlands. At the same time, methane _removal_ is slowed down by increasing numbers of wildfires. In a [story](https://www.theguardian.com/environment/2022/jul/05/global-heating-causes-methane-growth-four-times-faster-than-thought-study) in the _Guardian_, one study author called the results "shocking.
 
 85% of wetlands (which filter water and provide flood protection) 
@@ -26,7 +26,7 @@ Globally, wetlands can be categorized into several types, including:
 - **Floodplains**: Associated with rivers and streams, found worldwide.
 ![[Screenshot 2024-02-10 at 08.40.59.png]]
 ## Wetlands and Ireland
-#Ireland 
+#ireland 
 Ireland has a variety of wetland habitats, including bogs (both raised and blanket bogs), fens, marshes, and swamps. These ecosystems cover a significant portion of the country, with **==peatlands==** (bogs and fens) being especially prominent. The exact percentage of Ireland's land area covered by wetlands has varied over time due to peat extraction, land-use change, and conservation efforts. To provide a precise current percentage, I would need to look up the latest data.
 
 ## Wetlands made more salty from rising Sea-Level
@@ -65,7 +65,7 @@ Vegetation management occurs on a continuum from the vegetation of bare peat, to
 ## About Marshland in England to protect from Floods
 *==Source: [https://www.nytimes.com/2024/10/22/world/europe/uk-steart-marshes-carbon-climate-change-flooding.html?smid=nytcore-ios-share&referringSource=articleShare](https://www.nytimes.com/2024/10/22/world/europe/uk-steart-marshes-carbon-climate-change-flooding.html?smid=nytcore-ios-share&referringSource=articleShare)==*
 
-#Wetlands #UK 
+#wetlands #uk 
 
 > In England, a 10 year experiment is starting to tell us more about the potential to rehabilitate marshland as a way a natural protection from floods while boosting biodiversity and carbon capture as a side effect. 
 

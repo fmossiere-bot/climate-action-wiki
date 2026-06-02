@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Research 
+#research 
 
 *==Source: [https://eeb.org/wp-content/uploads/2021/04/coc_report_EN_FINAL-002.pdf](https://eeb.org/wp-content/uploads/2021/04/coc_report_EN_FINAL-002.pdf)==*
 

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Ireland #Biomass 
+#ireland #biomass 
 
 Source: https://willowwarm.ie/willowwarm-our-sustainability/
 ![[Screenshot 2025-05-10 at 09.25.18.png]]

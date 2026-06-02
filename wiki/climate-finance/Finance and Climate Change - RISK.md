@@ -1,29 +1,24 @@
 ---
-title: Class 18 — Finance and Climate Change: Risk
+title: Finance and Climate Change - Risk
 category: climate-finance
-tags: [finance, esg]
-created: 2026-06-01
-updated: 2026-06-01
+tags:
+  - finance
+  - esg
+created: 2023-11-01
+updated:
 ---
 
-[LINK](https://textbook.terra.do/class/m-finance-2-1)
-
-#Finance 
-
-We can;t talk about Climate Change without talking about the associated Financial Risks. 
+We can't talk about Climate Change without talking about the associated Financial Risks. 
 
 [VIDEO](https://www.youtube.com/watch?v=n63Lz3SQcBk&ab_channel=BabaBrinkman-Topic)
 
 ## Context and Types of Climate Risk
-[LINK](https://textbook.terra.do/class/m-finance-2-2)
 
-Top risk for the next 10 years accroding to the World Economic Forum  ([Global Risk Report 2023](https://www.weforum.org/publications/global-risks-report-2023/)): 
+Top risk for the next 10 years according to the World Economic Forum are: 
 1. Failure to mitigate Climate Change
 2. Failure to adapt to Climate Change
 3. Natural disasters and extreme weather events
 4. Biodiversity loss and Ecosystem Collapse
-
-![[Screenshot 2023-11-16 at 08.12.58.png]]
 
 There are various types of Climate Risks:
 1. Physical risk - destroys hours, affect infrastructures. 

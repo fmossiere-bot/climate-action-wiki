@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Fashion 
+#fashion 
 
 There are many ways the Fashion industry is hurting the planet:
 - Pesticides used to grow the natural fabrics like Cotton - reducing biodiversity

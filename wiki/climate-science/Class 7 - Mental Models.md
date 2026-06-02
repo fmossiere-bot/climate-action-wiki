@@ -82,7 +82,7 @@ A marginal abatement cost (MAC) curve is another useful tool for assessing how d
 
 ---
 ## MM2: Growth vs Degrowth
-#Degrowth 
+#degrowth 
 Many debates in teh commmunity comes from this argnument, on whether you are a growther or a degrowther
 
 _Mental Model 2:  Growth vs. Degrowth._ The green growth model believes we can achieve rapid decarbonization without hurting economic growth.  The degrowth model argues that to truly address our various environmental and socioeconomic problems, western economies have to shrink, not grow. This debate elicits strong feelings for people one way or the other, and both sides make compelling arguments but also have blind spots. 

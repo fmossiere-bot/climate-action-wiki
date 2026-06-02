@@ -6,6 +6,6 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Meat #FoodSystems #Infographic #US 
+#meat #foodsystems #infographic #us 
 
 ![[20240314-power-of-meat-2024_infographic.pdf]]

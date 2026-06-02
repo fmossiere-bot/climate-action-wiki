@@ -6,10 +6,10 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Greenwashing 
+#greenwashing 
 
 ## What is Greenwashing?
-#Greenwashing 
+#greenwashing 
 
 > Greenwashing is a term used to describe **a false, misleading or untrue action or set of claims made by an organization about the positive impact that a company, product or service has on the environment**.
 > *Source*: [Investopedia](https://www.investopedia.com/terms/g/greenwashing.asp)

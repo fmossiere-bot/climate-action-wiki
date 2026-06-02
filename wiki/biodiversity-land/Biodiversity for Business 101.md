@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Biodiversity 
+#biodiversity 
 
 
 ## 15 Key Biodiversity Objectives for Business
@@ -17,7 +17,7 @@ Source: https://www.bcg.com/publications/2021/biodiversity-loss-business-implica
 
 ## Business for Biodiversity
 *Source: https://businessforbiodiversity.ie/*
-#Ireland #Biodiversity 
+#ireland #biodiversity 
 
 - Interesting Website, focused on Biodiversity
 - For companies, help to assess their impact on Biodiverstiy
@@ -34,7 +34,7 @@ Source: https://www.bcg.com/publications/2021/biodiversity-loss-business-implica
 - [ UN - Biodiversity Conference (Montreal, Dec 2022)](https://www.unep.org/events/conference/un-biodiversity-conference-cop-15)
 - [UN - Convention on Biological Diversity](https://www.un.org/en/observances/biological-diversity-day/convention)\
 
-#Ireland #Biodiversity 
+#ireland #biodiversity 
 - ►  [National Biodiversity Data Centre](https://biodiversityireland.ie/)
 - ►  Ireland’s Biodiversity Impact Plan
 - ►  EPA - Biodiversity Reports

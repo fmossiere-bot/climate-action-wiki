@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#RenewableEnergy 
+#renewableenergy 
 
 > **Blue energy are renewable energy powers emerging from new technologies in the ocean, leveraging the power of the waves, current, or temperature differences.** 
 

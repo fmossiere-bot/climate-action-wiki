@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Methane 
+#methane 
 Source: [NewScientist]([https://www.newscientist.com/article/2475959-methane-eating-bacteria-are-ready-to-capture-landfill-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents](https://www.newscientist.com/article/2475959-methane-eating-bacteria-are-ready-to-capture-landfill-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents))
 
 We know that waste plays an important role in Methane emissions, a gaz 80 more potent than CO2. When waste is thrown into landfills, it de-compose itself, a process during which CH4 is emitted. 

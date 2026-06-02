@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Methane #Agriculture 
+#methane #agriculture 
 
 ## From Better Breeding to Cow-Burp Vaccines, Emerging Solutions Could Curb Agricultural Emission
 Source: https://www.wri.org/insights/reducing-agricultural-methane-new-solutions?apcid=0065aea19f4a6d4198ca0d00&utm_campaign=wridigest&utm_medium=email&utm_source=wridigest-2025-03-12 
@@ -79,7 +79,7 @@ Some promising R&D efforts on vaccines are [currently targeting a 30% methane r
 ---
 ##  The breakthrough technology reducing greenhouse gas emissions
 
-#Ireland #Agriculture 
+#ireland #agriculture 
 Source: https://www.rte.ie/news/environment/2025/0311/1501355-farms-environment/ 
 
 > GasAbate, a product developed by a Galway-based company called Glasport Bio. has developed a non-invasive new breakthrough technology capable of slashing greenhouse gas emissions from manure by **more than 80%**.
@@ -109,7 +109,7 @@ About 11% of agricultural emissions come directly from manure
 Source: [Nscientist article](https://www.newscientist.com/article/2522081-are-manure-digesters-a-real-solution-to-dairy-farm-emissions/)
 
 
-#Ireland #Agriculture 
+#ireland #agriculture 
 
 > in the US, Anaerobic digesters converting manure to biogas reduce methane emissions from livestock, but incentives for them have encouraged factory farms get bigger. 
 

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Methane 
+#methane 
 Link to [[Methane emissions role in Global Warming]]
 Source: https://drawdown.org/solutions/landfill-methane-capture
 

@@ -94,7 +94,7 @@ Excited for your part in revolutionizing the future of energy? Terra.do can help
 
 ---
 ## Geothermal Energy in Ireland
-#Ireland #RenewableEnergy 
+#ireland #renewableenergy 
 
 Source: https://www.gsi.ie/en-ie/geoscience-topics/energy/Pages/Geothermal-Energy.aspx
 

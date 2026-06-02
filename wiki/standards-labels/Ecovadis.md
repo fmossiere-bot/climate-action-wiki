@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Standard 
+#standard 
 
 Reference: Sustainabl-IT is a provider of Ecovadis certification, and the Saas solution too. 
 

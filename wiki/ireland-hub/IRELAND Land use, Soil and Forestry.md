@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
- #Forest #CarbonRemoval #Ireland 
+ #forest #carbonremoval #ireland 
 
 
 
@@ -149,7 +149,7 @@ Provides consulting and Guidance on establishing a new Forest or Woodland, as we
 ![[The-potential-availability-of-land-for-afforestation-Farrelly-Gallagher-2015.pdf]]
 
 ## Peatlands as part of the 2050 strategy
-#Wetlands #Ireland 
+#wetlands #ireland 
 
 
 *==Source:[ Irish Peatland Conservation Council 2030](https://www.ipcc.ie/a-to-z-peatlands/irelands-peatland-conservation-action-plan/peatlands-climate-change-action-plan-2030/)==*
@@ -171,7 +171,7 @@ For protected raised bogs, the National Parks and Wildlife Service has significa
 ## Miyawaki method shows dense Irish forest can grow rapidly
 ==*Source: https://www.rte.ie/news/2024/0308/1436684-trees-climate/*== 
 
-#Ireland #Forest 
+#ireland #forest 
 
 > A small forestry experiment by a community group in Co Galway has shown that dense forestry can be grown very rapidly in Ireland, without the need for digging, provided the ground is primed with manure and nutrients a year ahead of planting
 
@@ -204,7 +204,7 @@ The first Miyawaki forest plot, the one where the soil was dug up and enhanced b
 
 ---
 ## Thinking about the Amazon
-#Amazon
+#amazon
 When we think about Forest, the Amazon always comes to mind. This article fro the Guardian on 7 steps to save the amazon is pretty insightful: [https://www.theguardian.com/environment/2023/jun/05/rethink-reform-rebuild-7-steps-to-save-the-amazon?CMP=Share_iOSApp_Other](https://www.theguardian.com/environment/2023/jun/05/rethink-reform-rebuild-7-steps-to-save-the-amazon?CMP=Share_iOSApp_Other) 
 
 Among those solutions, holiding meat consumers accountableis one that I particularly like Other are more around policy changes

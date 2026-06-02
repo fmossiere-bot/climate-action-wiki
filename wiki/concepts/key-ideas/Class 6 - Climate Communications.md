@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 - [x] Reviewed
 
-#Communication
+#communication
 
 > [!Action Guide - Social Chatter]
 > One of the many things you can do and have control over is to talk about Climate Change, and in particular about the Climate Actions that you are taking. Communicating about Climate Change is not easy (see all information below) and so @Something put a small [GUIDE](https://docs.google.com/document/d/18vnm7bpMGe58tcp4yhg8EmRq1E5sfPO7v8Ub8UlFkjs/edit#heading=h.yxhhiwx5388q) together to reference to. 
@@ -170,7 +170,7 @@ Source: https://www.climatechangecommunication.org/wp-content/uploads/2019/10/Am
 - We'd be remiss to overlook the importance of communicating about climate change in "decision-relevant" terms for people like [farmers in Uganda—where an integrated weather data system backed by the United Nations Development Programme](https://undp-climate.exposure.co/power-to-the-farmers) has saved lives in recent years. ([You can check out a three-minute video on it here](https://www.youtube.com/watch?v=Xz_tqOf1yGw).)
 ---
 ## TAKE PERSONAL ACTIONS
-#Social #Behaviour 
+#social #behaviour 
 
 More details on [[Talking about Climate Change ACTION GUIDE]]
 
@@ -253,7 +253,7 @@ https://grandgather.files.wordpress.com/2018/10/copy-of-so-youre-ready-to-take-a
 
 
 #### Climate Communication White Paper
-#Communication #Behaviour #Greenwashing #FossilFuel #Research 
+#communication #behaviour #greenwashing #fossilfuel #research 
 Source: https://www.climatecommunications.earth/whitepaper and Search directly online
 Extensive paper going through a lot of CLimate related content, from the science, to how we got there and solutions. 
 ![[Screenshot 2024-03-27 at 13.14.33.png]]
@@ -265,7 +265,7 @@ Extensive paper going through a lot of CLimate related content, from the science
 
 #### Peretia Research 
 Source: https://www.kcl.ac.uk/policy-institute/assets/peritia-climate-change%E2%80%8B.pdf 
-#UCD #Communication 
+#ucd #communication 
 
 Conducted by Peretia and Kings college, focus on the truth and what people Believe. 
 
@@ -276,7 +276,7 @@ Conducted by Peretia and Kings college, focus on the truth and what people Belie
 
 #### How brain biases prevent climate action
 Source: https://www.bbc.com/future/article/20190304-human-evolution-means-we-can-tackle-climate-change
-#Behaviour #UCD 
+#behaviour #ucd 
 
 - Human Brain don't understand long term statistical data
 - “We have evolved to pay attention to immediate threats. We overestimate threats that are less likely but easier to remember, like terrorism, and underestimate more complex threats, like climate change"
@@ -305,7 +305,7 @@ Humans are more likely to change behaviour when challenges are framed positively
 #### Little Book of Green Nudges
 Source: https://www.evernote.com/shard/s299/client/snv?isnewsnv=true&noteGuid=c9b4beb8-2cb7-383c-4b0f-e4a8f8244a66&noteKey=w5yQ3RPMgncUDgo71U5F12tqx61lvpYAMRE9ex8hx2R5LaFXeIzj1DIJcw&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs299%2Fsh%2Fc9b4beb8-2cb7-383c-4b0f-e4a8f8244a66%2Fw5yQ3RPMgncUDgo71U5F12tqx61lvpYAMRE9ex8hx2R5LaFXeIzj1DIJcw&title=The%2BLittle%2BBook%2Bof%2B40%2BNudges%2Bto%2BSpark%2BSustainable%2BBehaviour%2Bon%2BCampus%2BGreen%2BNudges
 
-#Behaviour #UCD 
+#behaviour #ucd 
 Good Basis for Behaviour Economics and Easy to implement ideas
 ![[Little-Book-of-Green-Nudges-(2) (1).pdf]]
 

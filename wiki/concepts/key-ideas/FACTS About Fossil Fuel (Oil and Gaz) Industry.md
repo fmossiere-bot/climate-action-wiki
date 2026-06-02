@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Research #FossilFuel 
+#research #fossilfuel 
 
 Funny INtroduction Rap https://www.youtube.com/watch?v=n63Lz3SQcBk&ab_channel=BabaBrinkman-Topic
 
@@ -171,7 +171,7 @@ Some other relevant analysis:
 - Subsidies 11m $ per minute from the government, artificially cheap for consumers.
 - Policies
 
-#Myths
+#myths
 
 ![[Screenshot 2023-11-16 at 12.07.45.png]]
 

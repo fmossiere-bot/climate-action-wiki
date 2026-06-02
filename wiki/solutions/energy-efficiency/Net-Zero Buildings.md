@@ -7,7 +7,7 @@ updated: 2026-06-01
 ---
 
 Source: https://drawdown.org/solutions/net-zero-buildings
-#ProjectDrawdown 
+#projectdrawdown 
 
 
 > Buildings with zero net energy consumption employ efficiency measures and onsite renewables to produce as much energy as they use, with low or no emissions.

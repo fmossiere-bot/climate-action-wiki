@@ -10,7 +10,7 @@ updated: 2026-06-01
 
 > According to the International Energy Agency, the transportation sector is more reliant on fossil fuels than any other sector in the economy. In 2021, it accounted for [37%](https://www.iea.org/topics/transport) of all CO2 emissions from end‐use sectors
 
-#McKinsey #Research #CarbonFootprint #EV #Battery 
+#mckinsey #research #carbonfootprint #ev #battery 
 
 > ==Also check [[FACTS - Climate "Myth Busters" & Back Pocket stories#**_I’ve heard EVs are worse for the environment than regular cars—the power has to come from somewhere, after all._**]]==
 
@@ -92,7 +92,7 @@ Source: Ecologie 360 - #11 - p41
 ## How about the impact of your tyres
 
 *==Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n3/ | Page 103==*
-#France 
+#france 
 
 > Michelin is the leading in the industry. The french tyre producer, based in CLermont-Ferrand, has a clear goal of 100% sustainable production of tyres by 2050. 
 

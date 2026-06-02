@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#RenewableEnergy 
+#renewableenergy 
 ## A Solar Farm requires space
 - A solar farm require **40-50 times** the area from a Coal Central
 - this is why we see more and more Solar farm built on water. It also make them more performant as the light is reflected by the water

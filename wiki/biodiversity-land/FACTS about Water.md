@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Water
+#water
 
 
 Also see [[IRELAND Water Usage and Water Management]]
@@ -27,10 +27,10 @@ We have known for a long time that freshwater is a scarce and limited resource â
 
 Consumption per day per inhabitants in France
 
-#France #Water 
+#france #water 
 
 ### Individual Consumption example
-#France 
+#france 
 ![[Screenshot 2025-10-30 at 11.04.37.png]]
 
 
@@ -184,7 +184,7 @@ The path forwards is very unclear
 Source: [https://www.youtube.com/watch?v=48g7ATzuBIQ](https://www.youtube.com/watch?v=48g7ATzuBIQ)
 Reference Site: [https://www.waterfootprint.org/en/resources/waterstat/](https://www.waterfootprint.org/en/resources/waterstat/) 
 
-#WaterFootprint
+#waterfootprint
 
 
 ![[Screenshot 2024-03-05 at 18.47.00.png]]
@@ -234,7 +234,7 @@ Use of Water in Food Product - Ecologie360
 # REFERENCES
 
 ## The role of the EPA in IRELAND
-#Ireland 
+#ireland 
 
 *==Source: https://docs.google.com/presentation/d/12aAxign6C-epRN1wUqpjCrKOhPO_blh6YzOanPEgo88/edit#slide=id.g2ba78611b68_10_10==*
 ![[Screenshot 2024-03-05 at 17.47.06.png]]
@@ -254,7 +254,7 @@ Use of Water in Food Product - Ecologie360
 ---
 ---
 ## Course Material Water Footprint
-#Sustainability #UCD 
+#sustainability #ucd 
 
 ![[Carbon Accounting Course MATERIAL/_MATERIAL/Environment 23_24 Session 4 C3V1.pptx.pdf]]
 
@@ -264,7 +264,7 @@ Use of Water in Food Product - Ecologie360
 
 ## Watertech emerging in France
 
-#Water #France #Tech 
+#water #france #tech 
 
 
 > According to the UN, 700 millions people in 43 countries already face Water Shortage
@@ -316,7 +316,7 @@ Source: https://texep.ch/aquaviva-solar-powered-seawater-desalination-station/?l
 
 
 ## True wealth is Water - could it replace "Capitalism"? 
-#Book 
+#book 
 
 *==Source: ecologie360 - p18==* 
 Book Reference: Planet Aqua - Author: [Jeremy Rifkin](https://en.wikipedia.org/wiki/Jeremy_Rifkin)

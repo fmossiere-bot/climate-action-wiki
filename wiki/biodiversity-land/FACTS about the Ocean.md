@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Plastic #Ocean 
+#plastic #ocean 
 
 > [!NOTE] Content
 > 1. FACTS
@@ -77,7 +77,7 @@ In march, an historic agreement to protect the ocean and increased the **==prote
 ---
 ## 3. OCEAN - Book Notes
 
-#Ocean #Book 
+#ocean #book 
 
 ### About Whales
 

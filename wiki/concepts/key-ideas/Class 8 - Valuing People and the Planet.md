@@ -56,7 +56,7 @@ It has been central to what Biden has passed, unfortunately it has major flows/c
 
 ---
 ## Sustainable Development Model (Costa Rica)
-#CostaRica #Forest 
+#costarica #forest 
 
 - [Introductory video](https://www.youtube.com/watch?v=LiPw6UJ_iro)[: Costa Rica's Last Green Mile](http://www.youtube.com/watch?v=LiPw6UJ_iro) (Climate Reality Project, ~5 minutes)  
 - [Costa Rica modernized without wrecking the environment. Here’s how](https://grist.org/food/costa-rica-modernized-without-wrecking-the-environment-heres-how) (_Grist_)  
@@ -99,7 +99,7 @@ It is official.
 
 ---
 ## The Doughnut Economics (UK)
-#Economics #UK 
+#economics #uk 
 
 - [Introductory video](https://youtu.be/lkCio0tiFWE): Kate Raworth presenting on Doughnut Economics at Meaning 2017 (~27 minutes)  
 - [What on earth is the Doughnut?](https://www.kateraworth.com/doughnut)  
@@ -175,7 +175,7 @@ Can we improve wellbeing in the absence of economic growth? answer is Yes.
 
 ---
 ## Planet Boundaries
-#UCD 
+#ucd 
 
 
 ![[Screenshot 2024-03-11 at 12.05.52.png]]

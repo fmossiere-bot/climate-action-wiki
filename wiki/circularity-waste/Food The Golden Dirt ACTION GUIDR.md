@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Composting 
+#composting 
 
 
 # Divert your food waste from landfill by implementing a home compost system.

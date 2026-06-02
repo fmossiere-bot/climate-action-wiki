@@ -102,7 +102,7 @@ Broadly, the typology of decarbonization solutions across industries are: 
 Please refer to [[The Environmental Impact of Concrete, Cement Industry]]
 
 ### About Fertilizers
-#Fertilizer
+#fertilizer
 
 The chemical industry is very diverse, with 100,000 different products. yet  80% of its ghg com from 20 products. 
 
@@ -126,7 +126,7 @@ See [[CO2 Capture through minerals, or Soil enhancements#Le Biochar]]
 
 ### About Plastic
 Also See [[FACTS about Plastic]]
-#Plastic 
+#plastic 
 
 Plastics are made from fossil fuel feedstock and are tremendously dirty—plastics will [outpace coal emissions](https://www.reuters.com/business/cop/plastics-outpace-coals-greenhouse-gas-emissions-by-2030-report-2021-10-21/) by 2030. For all the hype about recycling over the last few decades, only a fraction of plastics are _collected_ for recycling, and only a fraction of _that_ is actually recycled, as illustrated here. The recycling process itself also downgrades the plastic, yielding poorer quality materials.
 
@@ -154,7 +154,7 @@ Finally, while it's a good idea to minimize single-use plastics, keep in mind al
 https://ourworldindata.org/grapher/grocery-bag-comparisons-ghg
 
 ### Other Industry
-#Fashion 
+#fashion 
 The fashion industry alone accounts for some [10 percent](https://www.zurich.com/en/media/magazine/2021/fast-fashion-5-practical-ways-to-cut-the-carbon-from-your-closet) of global CO2 emissions.
 
 McKinsey’s [report on climate and fashion](https://www.mckinsey.com/industries/retail/our-insights/fashion-on-climate) is a good starting point for investigation. In the spirit of staying ever vigilant for greenwashing, it's worth noting that ["fast fashion" giants like H&M have come under fire](https://qz.com/2180075/hm-showed-bogus-environmental-higg-index-scores-for-its-clothing/) for [misrepresenting their environmental street cred](https://www.nytimes.com/2022/06/12/climate/vegan-leather-synthetics-fashion-industry.html#:~:text=Recasting%20Plastic%3A%20The%20fashion%20industry,invest%20in%20more%20sustainable%20fashion.).

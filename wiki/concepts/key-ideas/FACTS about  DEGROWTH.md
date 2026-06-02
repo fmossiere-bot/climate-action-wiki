@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Degrowth #GDP
+#degrowth #gdp
 
 
 > The green growth model believes we can achieve rapid decarbonization without hurting economic growth.  The degrowth model argues that to truly address our various environmental and socioeconomic problems, western economies have to shrink, not grow. This debate elicits strong feelings for people one way or the other, and both sides make compelling arguments but also have blind spots.
@@ -119,7 +119,7 @@ Another well-known proponent of degrowth is George Monbiot, an environmental res
 
 ---
 ## Less is More - Book Review
-#Book #Degrowth 
+#book #degrowth 
 
 Author: Jason Kickel
 
@@ -143,7 +143,7 @@ That doesn't mean stop producing, it means to choose which part of the economy, 
 
 
 ### About GDP
-#GDP 
+#gdp 
 
 > Gross Domestic Product (GDP) is a measure of the total market value of goods and services produced in a country over a period. It was institutionalized after World War II (and via structures born around the Depression era) as a convenient aggregate indicator of economic activity and recovery. Over time, governments and Western policymakers elevated GDP growth to the central benchmark of success.
 

@@ -8,7 +8,7 @@ updated: 2026-06-01
 
 - [x] Reviewed 
 
-#Justice #Policy 
+#justice #policy 
 
 ## Introduction
 [LINK](https://textbook.terra.do/class/m-politics-and-justice-1?r=https://app.terra.do/app/learning/86/my-schedule#m-politics-and-justice-1)
@@ -78,7 +78,7 @@ The outcome of COP 28 at the end of 2023 might politely be described as a mixed 
 Source: https://www.wri.org/insights/climate-action-progress-1-5-degrees-c#:~:text=Boosting%20climate%20finance%2C%20however 
 
 ### Context and caveats
-#FossilFuel 
+#fossilfuel 
 Even as countries need to vastly reduce their reliance on fossil fuels, they're on track to produce "around  110% more fossil fuels in 2030 than would be consistent with limiting warming to 1.5°C, and 69% more than would be consistent with 2°C," according to a [2023 report](https://www.unep.org/resources/production-gap-report-2023) from the U.N. Environment Programme.
 
 This is a major concern because, ideally, we'd already be [_reducing_ emissions by 7 to 8 percent percent a year](https://www.unep.org/news-and-stories/press-release/cut-global-emissions-76-percent-every-year-next-decade-meet-15degc). This rate increases each year we don’t move in this direction. 
@@ -236,7 +236,7 @@ With the 2022 passage of the Inflation Reduction Act, we’ve focused our sugges
 ---
 ## Citizen Power and Climate Justice Movement
 What can regular people do, and what are they already doing to drive ambitious climate action?
-#Social 
+#social 
 #### Act through activism, protest
 >  There is evidence that political action (meaning: taking to the streets, strikes, protests, and the like) by just [3.5% of a population](http://www.reuters.com/article/us-climate-change-accord-social-trfn/with-climate-discontent-rising-scientists-warn-of-social-tipping-point-idUSKBN1YA273) [is enough to force governmental change](http://www.reuters.com/article/us-climate-change-accord-social-trfn/with-climate-discontent-rising-scientists-warn-of-social-tipping-point-idUSKBN1YA273) to take place. And there is [research that finds that social movements have an actual impact](http://www.sciencedirect.com/science/article/pii/S0921800922000180) on reducing greenhouse gas emissions.
 
@@ -310,7 +310,7 @@ Research:
 [SLIDES](https://docs.google.com/presentation/d/1UX2CU7uw78j5GYfRMgHkdH1gHKDQhBzYG36gUPvJPlg/edit#slide=id.g28b6560ae7f_0_652)
 ![[Screenshot 2023-10-19 at 15.59.04.png]]![[Screenshot 2023-10-19 at 15.59.19.png]]![[Screenshot 2023-10-19 at 15.59.29.png]]![[Screenshot 2023-10-19 at 15.59.39.png]]
 ### Citizen power and Social Tipping 
-#Communication #Social 
+#communication #social 
 ![[Screenshot 2023-10-21 at 15.12.18.png]]
 
 ###### The 25% Revolution: Between 10% and 30% of committed individuals are requires to set new social norm
@@ -328,7 +328,7 @@ Source:  https://www.pnas.org/doi/10.1073/pnas.1900577117
 ## Example of Policies
 
 ### Green Standard for Historic Buildings
-#France #Policy
+#france #policy
 
 Source: https://www.irishtimes.com/world/europe/2024/01/01/its-a-nightmare-landlords-in-a-bind-as-france-imposes-tough-new-emissions-rules/
 

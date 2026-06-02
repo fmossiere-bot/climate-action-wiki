@@ -11,7 +11,7 @@ References:
 
 Source: https://drawdown.org/solutions/managed-grazing
 
-#ProjectDrawdown
+#projectdrawdown
 
 ##### Managed grazing involves carefully controlling livestock density and timing and intensity of grazing. Compared with conventional pasture practices, it can improve the health of grassland soils, sequestering carbon.
 

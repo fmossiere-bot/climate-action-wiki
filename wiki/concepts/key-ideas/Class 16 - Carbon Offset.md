@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#CarbonOffset
+#carbonoffset
 
 Other Reference: [[Flight Carbon Footprint and Offset Guide]]
 ## Introduction
@@ -353,7 +353,7 @@ Different approach as it is first an APP that enable you to track your footprint
 ---
 ## Other Relevant Articles on the topic
 ### Carbon-Offsetting schemes might not actually prevent deforestation
-#Forest 
+#forest 
 *Source: [NewScientist](https://www.newscientist.com/article/2388848-carbon-offsetting-schemes-may-not-actually-prevent-deforestation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents )*
 
 > An analysis of 18 large carbon-offsetting projects has found that most don't significantly reduce deforestation compared with areas not covered by the schemes

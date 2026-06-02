@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#CarbonFootprint #FoodSystems 
+#carbonfootprint #foodsystems 
 
 [[Class 14 - About Food and Farming]]
 [[FACTS about Farming and Food production]]

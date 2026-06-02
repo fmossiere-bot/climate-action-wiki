@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Sustainability #Research #ESG 
+#sustainability #research #esg 
 
 
 Source: [https://www.wbcsd.org/contentwbc/download/17372/244023/1](https://www.wbcsd.org/contentwbc/download/17372/244023/1)

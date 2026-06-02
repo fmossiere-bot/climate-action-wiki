@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#CarbonSink  #Ireland #Agriculture 
+#carbonsink  #ireland #agriculture 
 
 # SUMMARY
 Here is a blog post highlighting the importance of grasslands, their role in Ireland, and how corporations can contribute to their protection:
@@ -76,7 +76,7 @@ But they also support communities and livelihoods:
 
 
 ## What does that mean in the context of Ireland? 
-#Ireland 
+#ireland 
 
 Source: https://docs.google.com/document/d/1KsCSQs_ADYS6DKY4Evrwe3_6iSCQUEv5rZhmAccWpGo/edit?tab=t.0 
 Source: 
@@ -156,7 +156,7 @@ In summary, planting hedgerows and trees in Irish grasslands supports carbon cap
 
 
 ## Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches
-#CoporateAction
+#coporateaction
 
 
 Go beyond the usual initiatives planting trees, there are other way you and your employees can contribute and we can explore it together. 

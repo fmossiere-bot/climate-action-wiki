@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#COP30
+#cop30
 
 a collection of all is relevant regarding COP30. 
 
@@ -212,7 +212,7 @@ Source: [WeDontHaveTime](https://r.sib.wedonthavetime.org/mk/mr/sh/7nVTPdZCTJDXP
 
 - An oil-producing nation demanding more ambition than Europe
 - Frontline voices refusing to be silenced
-- Hundreds of delegates — and the COP President — wearing #MakeScienceGreatAgain caps
+- Hundreds of delegates — and the COP President — wearing #makesciencegreatagain caps
 - A COP President speaking the truth the text forbade
 - The largest emitters exposing the myth of unanimity
 - The moment the world saw clearly which reality is real

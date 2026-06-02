@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Myths #FossilFuel #Battery #EV 
+#myths #fossilfuel #battery #ev 
 - [ ] Need to think of a backstory re: Fossil Fuel, the importance of fighting it and what financial levers you might have
 
 Source: https://www.un.org/en/climatechange/science/mythbusters
@@ -53,7 +53,7 @@ In a [2021 report](https://www.iea.org/reports/the-role-of-critical-minerals-in
 
 > _“Solar photovoltaic (PV) plants, wind farms and electric vehicles (EVs) generally require more minerals to build than their fossil fuel-based counterparts. A typical electric car requires six times the mineral inputs of a conventional car and an onshore wind plant requires nine times more mineral resources than a gas-fired plant. Since 2010 the average amount of minerals needed for a new unit of power generation capacity has increased by 50% as the share of renewables in new investment has risen.”_
 
-#Mining
+#mining
 
 ### **Myth #1: We don’t have enough materials to build what we need to fight climate change.**
 [Yes, we have enough materials to power the world with renewable energy](https://www.technologyreview.com/2023/01/31/1067444/we-have-enough-materials-to-power-world-with-renewables/)
@@ -94,7 +94,7 @@ Yes mining will be required and renewable energy is not completey clean, but it 
 
 ---
 ## I’ve heard EVs are worse for the environment than regular cars—the power has to come from somewhere, after all 
-#Myths #Transport #EV 
+#myths #transport #ev 
 
 Also see [[CARS Life Cycle Emissions - EV vs Combustion]]
 
@@ -115,7 +115,7 @@ _Electric SUVs and trucks might convince more drivers to go electric, but their 
 ### 21 Myths about EV
 ==*Source: https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/* ==
 
-#EV #Battery 
+#ev #battery 
 
 Here, Carbon Brief factchecks 21 of the most common – and persistent – myths about EVs.
 
@@ -143,7 +143,7 @@ Here, Carbon Brief factchecks 21 of the most common – and persistent – myt
 
 ---
 ## I heard they’re stacking wind turbine blades, solar panels, and EV batteries in landfills. Isn’t the waste from all this “clean” tech going to be a big problem?
-#WasteManagement #RenewableEnergy 
+#wastemanagement #renewableenergy 
 Manufacturers are racing to get more clean energy technologies built and running, which means that in a few decades many will be reaching the end of their useful lives, and we’ll need to figure out what to do with them.
 
 > Take solar panels, for example. In 2050, we could see as much as 160 million metric tons of cumulative waste from solar panels. Sounds like a lot—and it is—but there’s a bigger problem. By then we’ll have generated a total of about 1.8 billion metric tons of e-waste, and plastic waste will top 12 billion metric tons. (For other comparisons, check out [this Inside Climate News story,](https://insideclimatenews.org/news/12102023/inside-clean-energy-reality-check-solar-panel-waste/) and the [original article those numbers come from in Nature Physics.](https://www.nature.com/articles/s41567-023-02230-0.epdf?sharing_token=mYyc5NKtQENGmDPnwQ5J69RgN0jAjWel9jnR3ZoTv0M0UbHXgdKFmUfNV6tVbdrnxKmAqpO2hzNtxSIuGP0LrgRPuAjZj12WJzvdmxRy05xj9NCEtoabe-fA4j5BM3Sb_qUEKd0IhDFUJ0dz42WejpwXtHWUKLi8j7k3sMK7lPg%3D))
@@ -152,7 +152,7 @@ Manufacturers are racing to get more clean energy technologies built and running
 **Overall, waste from climate tech is likely to be a facet of a much more substantial problem.** Even so, there are still plenty of good reasons not to just throw old technology into the landfill. Many of the materials needed to make these items are expensive and could be reused to alleviate the need for more mining. 
 
 ### Battery Recycling is on its way
-#Battery #Recycle
+#battery #recycle
 [How old batteries will help power tomorrow’s EVs](https://www.technologyreview.com/2023/01/17/1065026/evs-recycling-batteries-10-breakthrough-technologies-2023/)
 
 Recycling lithium-ion batteries is taking off thanks to companies like Redwood Materials and could help the transition to renewable energy.

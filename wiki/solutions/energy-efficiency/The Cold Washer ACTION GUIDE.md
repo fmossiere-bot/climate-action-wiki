@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Household 
+#household 
 ![[Screenshot 2024-10-29 at 12.49.16.png]]
 
 > Make the easy switch to washing on tap cold to benefit the environment, your wallet, and your closet

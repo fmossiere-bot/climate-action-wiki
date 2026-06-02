@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Ireland #Biomass #Biofuels 
+#ireland #biomass #biofuels 
 With all those risks and controversies, Biomass is actually an integral part of ireland Climate Change plan in terms of Energy production. Why is that? 
 
 also see [[FACTS about Biomass]]

@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Ireland #Energy 
+#ireland #energy 
 
 `INDEX:
 1. Summary Electricity Capacity
@@ -70,7 +70,7 @@ IRELAND historically relied mostly on import for Oil, Gas and  Coal
 4. 
 ##### Oil account for 45% of overall energy
 
-#Biomass 
+#biomass 
 4. **Biomass:** Biomass, such as wood pellets and organic waste, was used for both electricity generation and heating.
 
 5. **Imported Electricity:** Ireland was interconnected with the electricity grids of the United Kingdom and, to a lesser extent, continental Europe. This allowed the import of electricity from neighboring regions.

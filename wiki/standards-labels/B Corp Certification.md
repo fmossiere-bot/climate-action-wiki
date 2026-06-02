@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Standard 
+#standard 
 Source: https://www.bcorporation.net/en-us/certification/
 
 
@@ -66,7 +66,7 @@ This section evaluates a company’s stewardship of its customers through the qu
 ---
 ---
 ## Its use is growing fast in France
-#France 
+#france 
 ![[Screenshot 2024-05-21 at 15.24.39.png]]
 
 
@@ -80,7 +80,7 @@ This section evaluates a company’s stewardship of its customers through the qu
 
 
 ## B Corp IRELAND 
-#Ireland #Standard 
+#ireland #standard 
 
 Source: https://www.tickettailor.com/events/blabireland/1336474
 Email invite: https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGnzKtRLzjBlgcRxfTssGKMP

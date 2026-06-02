@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#AI 
+#ai 
 # THE GOOD
 Overall expectation is that AI might be able to mitigate around 10% 
 ######  **AI has the potential to help mitigate 5-10% of global greenhouse gas (GHG) emissions by 2030**
@@ -39,7 +39,7 @@ Find it [here ](https://drive.google.com/drive/folders/1_L59ET5SJBeGgeTyjue1B3yd
 ---
 ## Collect cool examples of AI application for Climate Mitigation
 ### Satellite detection of Methane leaks
-#Methane 
+#methane 
 
 ==Source: https://www.newscientist.com/article/2419765-satellite-launched-to-track-down-leaks-of-potent-greenhouse-gas/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=currents ==
 
@@ -55,7 +55,7 @@ Assessing progress towards those pledges is difficult. Current methane emissions
 
 
 ### AI and Flying
-#Aviation 
+#aviation 
 #### Contrails
 Contrails have a complex effect on climate, one that is being studied and without a clear answer. You can see more details about Contrails on [[Flight Carbon Footprint and Offset Guide#What about Contrails?]]
 - Google is one of the only Flight carbon calculator which integrate contrails in its emissions. But as we saw, this could be tricky. 
@@ -149,7 +149,7 @@ GOOGLE data center energy consumption [rose 17% last year](https://mail.latitud
 
 
 ## Impact on energy consumption in the US due to new data centers
-#US 
+#us 
 Let's talk about the macro. There was recently a report just last month from the Lawrence Berkeley National Laboratory about the power that is currently needed to run the data centers in this country, and the power that will soon be needed as the AI boom sparks demand for more and more of these data centers. This report said that between 2018 and 2023, the power to run data centers around the US went from 1.9% of total annual electricity consumption to 4.4%, more than double.
 
 And this report estimated that the energy demands of data centers, of which AI is a major part, will continue to increase over the next few years and could by 2028 make up between 6.7% and 12% of total US electricity consumption. 
@@ -202,7 +202,7 @@ Like Cryptocurrencies, there are already players who can show dramatic savings i
 
 
 ## France is investing in AI
-#France 
+#france 
 
 Source: https://world.businessfrance.fr/nordic/ai-race-how-france-is-positioning-itself-as-a-leader/ 
 
@@ -214,7 +214,7 @@ One company that everyone is talking about is the french
 
 
 ## REFERENCE
-#AI #Digital 
+#ai #digital 
 [100 Google searches is equivalent to about 20 grams of CO2.](https://searchengineland.com/calculating-the-carbon-footprint-of-a-google-search-16105)
 [One hour of streaming video is approximately 36g CO2.](https://www.wired.com/story/youtube-digital-waste-interaction-design/)
 [Generating 1,000 images with an advanced AI model equates to the carbon footprint of driving an average car for 4.1 miles.](https://www.technologyreview.com/2023/12/01/1084189/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/)

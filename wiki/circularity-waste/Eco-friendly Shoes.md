@@ -6,12 +6,12 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Fashion 
+#fashion 
 
 Shoes require multiple layers and materials, usually coming from various places, and not always in a fair way. This is changing slowly, and more and more brands or emerging brands are putting this new card forward. 
 
 ## Eco- Sneakers with no Plastic
-#France 
+#france 
 Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n3/ p.24
 URL: https://ubac-store.com/en/ 
 Made in: Portugal

@@ -166,7 +166,7 @@ There is much. more that need to be done for ireland see [[IRELAND Land use, Soi
 ## EPA says we need to do more to support Waste
 *==Source: [https://www.rte.ie/news/ireland/2023/0922/1406665-epa-waste-report/](https://www.rte.ie/news/ireland/2023/0922/1406665-epa-waste-report/)==*
 
-#Plastic #WasteManagement 
+#plastic #wastemanagement 
 According to recent report from Waste management, 2/3 of waste in general black bin needs to be separated into organic or recycle bins. 
 
 The EPA's National Municipal Waste Characterisation Project is conducted every four years
@@ -240,7 +240,7 @@ The main reduction is attributed to heating system, which were heavy in Oil heat
 
 #### Incentive for Farmers to protect nature
 	*Source: [RTE]([https://www.rte.ie/news/environment/2023/0620/1390095-farmers-biodiversity-carbon/](https://www.rte.ie/news/environment/2023/0620/1390095-farmers-biodiversity-carbon/))*
-#GoodNews 
+#goodnews 
 
 A new scheme on the **Wild Atalntic Nature Shceme** has started which incentivise farmers to protect nature. It is based on the quality of the land, the biodiversity present in it, the positive impact it has in capturing Carbon and filtering water, so bogs and peatland are exspecially targeted. 
 

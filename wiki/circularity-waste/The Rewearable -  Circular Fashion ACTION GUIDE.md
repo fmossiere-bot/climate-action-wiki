@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#Fashion #Sustainability 
+#fashion #sustainability 
 
 
 Go fully circular with your fashion decisions (shop only pre-loved), minimizing the negative impacts of your self-expression.

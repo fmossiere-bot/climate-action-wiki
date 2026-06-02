@@ -7,7 +7,7 @@ updated: 2026-06-01
 ---
 
 - [x] Reviewed
-#Water 
+#water 
 
 ## Introduction
 [LINK](https://textbook.terra.do/class/m-local-impacts-1?r=https://app.terra.do/app/learning/86/my-schedule#m-local-impacts-1)
