@@ -6,7 +6,6 @@ tags:
   - carbon-footprint
 created: 2025-06-01
 updated: 2026-06-03
-cover_image: https://wiki.the-uptake.com/assets/_IMAGES/Carbon-Footprint.jpg
 ---
 
 _What they are, why they exist — and how to use them well_
