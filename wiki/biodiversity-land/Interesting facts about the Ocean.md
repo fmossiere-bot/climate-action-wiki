@@ -1,12 +1,14 @@
 ---
-title: OCEAN - Book Notes
+title: Facts about the Ocean
 category: biodiversity-land
-tags: [ocean, nature, research]
-created: 2026-06-01
+tags:
+  - ocean
+  - nature
+  - research
+created: 2025-06-01
 updated: 2026-06-01
 ---
 
-#ocean #book 
 
 ## About Whales
 
@@ -64,10 +66,6 @@ Used as food for Blue Whales, responsible of the biggest vetical migration as fi
 > The restoration has produced significant benefits: it's a **win for both nature and local communities**. The restored mangroves provide vital habitat for marine life, including the locally important **piangua** (mud cockle), a key food source and income stream. The project also created an alternative, **sustainable income** source for communities, who were paid for the restoration work, reducing the pressure on overharvested resources like the piangua. This approach proved to be both **ecologically and economically viable**, with potential for expansion.
 >
 > 
-
-![[Screenshot 2025-09-04 at 16.33.54.png]]
-
-![[Screenshot 2025-09-04 at 16.34.26.png]]
 
 Mangrove forests are remarkable coastal ecosystems that thrive in environments where the land meets the sea.1 They possess a host of unique adaptations that allow them to survive in conditions that would be lethal to most other plants.2 Here are some interesting facts about mangroves:
 
@@ -194,3 +192,6 @@ This 30x30 goal is massive and could be a game changer. . One of the challenge i
 > Ocean Acidification is probably under considered by most commons. But it plays a crucial role, and we should be very concerned about it. More than 90% of the heat from Global Warming gets absorded by the ocean. Oceans are like a buffer, protecting us from the worst effects. But they are suffering as a result. As ocean heat up, nutrient cycles are disrupted, food chain broken. At the same time, carbon emissions are causing oceans to be more acidic and acidification has driven mass extinction events a number of times in the past:
 > - 66 million years ago, an drop in ph of 0.25 wiped out 75% of marine species. 
 > - On our present emission trajectory, ocean ph could drop 0.4 by the end of the century. 
+
+# SOURCE
+Ocean - a book by David Attenborough
