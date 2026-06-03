@@ -10,8 +10,6 @@ created: 2025-06-01
 updated: 2026-06-01
 ---
 
-
-
 > 6.6% of the household Carbon Footprint is linked to the furniture, painting and so on that we use inside our houses
 
 ### What is it
