@@ -4,6 +4,7 @@ category: legislation
 tags: [shipping, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Let's avoid the easy way to biofuels, There are many options out there for ships to start retrofitting some solutions"
 ---
 
 #transport 

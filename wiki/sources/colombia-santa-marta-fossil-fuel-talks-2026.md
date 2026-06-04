@@ -8,6 +8,7 @@ metadata:
   authors: Fiona Harvey, Jonathan Watts
   published: 2026-04-30
   ingested: 2026-05-29
+summary: "What the source covers, Key facts reported, Context provided, Wiki pages created or updated from this source, Original file, Published, Authors, ~60 countries, more than 50% of global GDP, Absentees, Almost half, roadmaps, Colombia, France, new scientific panel, Second conference, Tuvalu, Ireland"
 ---
 
 # Source Summary: 'Historic breakthrough' — Colombia Climate Talks, April 2026

@@ -4,6 +4,7 @@ category: solutions
 tags: [building-industry, nature, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Worthwhile"
 ---
 
 Source: https://drawdown.org/explorer/use-low-flow-fixtures

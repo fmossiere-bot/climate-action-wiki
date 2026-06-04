@@ -4,6 +4,7 @@ category: sectors
 tags: [shipping, carbon, alternative-fuels]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What about Capture for Cargo ships, Reviewing Other SOLUTIONS, Worlds largest sailing cargo ship"
 ---
 
 #transport 

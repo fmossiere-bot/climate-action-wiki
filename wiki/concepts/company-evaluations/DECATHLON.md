@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, fashion]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Decarbonising Company Operations, Scope 1, 2 and 3, what are they, Get into the detail of which levers will enable us to reduce our carbon footprint, Raw materials, Reduce energy consumption in production and the carbon impact of our suppliers' energy mix, Products transport, DECATHLON sites, Experimenting with a new business model, Influencing our system, Towards a more Circular Model, Durability, Progress made on repairability, Improving product recyclability, Circular business models, SBTi Targets, Using the GHG Protocol, AFNOR Certification, Key questions for an ESG investor or stakeholder, Overall Net-Zero Target, Near-Term Targets, Long-Term Targets, Scope 1, Scope 2, Scope 3, In 2024, 166 people were trained on these subjects, Supplier engagement, Absolute vs intensity, Circular business scale-up, Material transitions, Offset vs reduction balance, Transparency & reporting, Business model growth risk"
 ---
 
 Source: [Decathlon NotebookLM](https://notebooklm.google.com/notebook/d70d9bbe-990b-4bfd-8427-4d9340e9e89b)| [Video](https://www.youtube.com/watch?v=Rk8Am83O5WM) | [Post on The-Uptake](https://the-uptake.com/what-decathlons-sustainability-report-actually-shows/) | [Post on WDHT](https://app.wedonthavetime.org/posts/afc09467-c8e4-4ba6-90ac-ade96da00d6f)

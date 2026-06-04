@@ -1,9 +1,14 @@
 ---
 title: FACTS about the Ocean
 category: biodiversity-land
-tags: [ocean, plastic, nature, science]
+tags:
+  - ocean
+  - plastic
+  - nature
+  - science
 created: 2026-06-01
-updated: 2026-06-01
+updated:
+summary: "1.  FACTS, 2. OCEAN Protection, Controlliong fishing is also a big part of this agreement, limiting fishing in an unsustainable way, What is the Unoc, 3. OCEAN - Book Notes, About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, About KELP Forest, Kelp forest in Ireland, protected areas to 30%, Marine areas improve Carbon Absorbtion, Blue whales"
 ---
 
 #plastic #ocean 

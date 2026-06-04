@@ -4,6 +4,7 @@ category: concepts
 tags: [behaviour, food]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Animal Agriculture depletes natural resources, The Detrimental Effects of Animal Agriculture on Land, Animal Farming and Its Role in Pollution and CO2 Emissions, Biodiversity and Ecological Loss Due to Animal Farming, Tips, Plant Based diets improve health and finances, Enhancing Health through Plant-Based Diets, Week 1: The Big Switch, Week 2: Expanding your repertoire, Week 3: Discover New Flavours, Week 4: Solidify Your Habits, Guardian article on Meat consumption in the US, Meat consumption in the US is increasing, Power of Meat Infographics 2024, So who is this 12% consuming all that beef"
 ---
 
 #meat #food-systems 

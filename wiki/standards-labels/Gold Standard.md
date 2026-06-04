@@ -4,6 +4,7 @@ category: standards
 tags: [carbon-offset, esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Update 2023, Margaret Kim"
 ---
 
 #carbon-offset  #standard 

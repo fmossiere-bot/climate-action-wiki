@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Climate Observation and Measurements, What is causing the warming, Understanding global warming is a multifaceted scientific endeavor, Observations in Climate Science, How do we measure carbon dioxide and global average temperatures, How we measure CO2 and Temperature, Statistics in Climate Science, Correlation ≠ Causation, How Climate Models work, Integrated assessment models (IAMs), Climate Sensitivity: Connecting Carbon Dioxide Increase to Temperature Increase, What is CMIP, Climate Science Organisations, The IPCC, UNFCCC (& its COP), A Few of the Organizations and Scientists We Follow, Other Groups Doing Climate Science, About the IPCC AR6, Global Climate Observing System (GCOS), CO2 levels, Avg temperature, Optional resources on IAMs, Organizations, People, Optional reading"
 ---
 
 [LINK](https://textbook.terra.do/class/m-climate-science2-1?r=https://app.terra.do/app/learning/86/my-schedule#m-climate-science2-1)

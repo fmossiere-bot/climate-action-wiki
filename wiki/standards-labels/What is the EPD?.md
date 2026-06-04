@@ -4,6 +4,7 @@ category: standards
 tags: [esg, building-industry]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Environmental Product Declarations"
 ---
 
 

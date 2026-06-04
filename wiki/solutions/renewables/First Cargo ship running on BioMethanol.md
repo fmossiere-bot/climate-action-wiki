@@ -4,6 +4,7 @@ category: solutions
 tags: [shipping, alternative-fuels, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "The type of Methanol, Most traditional one is methanol made from fossil fuel, Biomethanol is also made from Biomass - can see more about Biomass product on irena.org & bioenergy.eu )PDF), E-methanol is made using hydrogen produced with renewable energy and captured CO2, Ammonia made with renewable energy is potentially a carbon-neutral alternative shipping fuel, methanol made from fossil fuel"
 ---
 
 #alternative-fuels #biofuels #biomass 

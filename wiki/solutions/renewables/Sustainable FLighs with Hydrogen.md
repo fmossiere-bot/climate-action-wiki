@@ -4,6 +4,7 @@ category: solutions
 tags: [aviation, alternative-fuels, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Zero Emission Hydrogen Plan in Germany"
 ---
 
 #alternative-fuels 

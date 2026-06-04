@@ -4,6 +4,7 @@ category: sectors
 tags: [building-industry, carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Concrete, Demand and Production of Concrete is increasing, Summary of the Most important FACTS, Cement manufacturing, Its main component, is responsible for most of those emissions, How does cement produce CO2, Goal: A greener industry with 20% reduction, Mitigation: There are ways to cut down on those emissions, Companies in the Space taking action, What is Carbon - Negative Concrete | NewScientist, In General, usage of Green Cement is increasing, Project Drawdown 32, Climate Capitalism Book passage on the Cement Industry, How about Leverage Wood construction instead of Concrete, Other Indirect impact of the Cement Industry, The deadly Sand War: Extract from Class 13 of TERRA.DO, Respiratory problems, The 'Urban Island' effect that concrete exacerbates, majority comes from the Cement, 3-8%, Cement, QUOTES FROM ARTICLE, Promising developments, Carbon Capture, Reference1"
 ---
 
 #carbon-footprint #environment #building-industry #facts #concrete 

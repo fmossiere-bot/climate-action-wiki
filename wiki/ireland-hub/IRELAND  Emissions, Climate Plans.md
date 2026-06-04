@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, science, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Per Capita in EU - Ireland is 3, Ireland evolution by Gas, Ireland Nitrous Oxide deeper dive, Ireland Methane deeper Dive, Reduction of emissions in 2023 - UPDATED, Our goal is to reach 51% reduction. At the current pace, we might reach only 29%, Land Restoration in Dublin Mountains, EPA says we need to do more to support Waste, Impact of Climate change on Ireland, The 'cold blob', Weather Extremes, Ireland Farming responsible for almost 40% of emissions in 2020, Does Ireland really cares about Climate Change - 180 degrees, Ireland Climate Change Assessment, Ireland Climate Action Plan 2023 CAP23, IRELAND BIODIVERSITY PLAN, Ireland CLimate Change Impact Assessment, Ireland's Environment: An Integrated Assessment 2020- Key Messages Booklet, DLR Climate Action Plan, Dun Laoghare Biodiversity Action Plan 2021-2030, 12pc in late 2022, Ireland is on course to miss its 2030 climate targets, 51% reduction, Agriculture emissions, Transport, Energy, Land use, Agriculture is the highest emitting sector, Wild Atalntic Nature Shceme, Source, Summary"
 ---
 
 Check this cool website with all information on [Climate Ireland by Sector](https://www.climateireland.ie/) (Agriculture, Forest, Fishery, Water etc...)

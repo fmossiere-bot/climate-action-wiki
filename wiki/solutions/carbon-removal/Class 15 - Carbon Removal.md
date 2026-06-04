@@ -4,6 +4,7 @@ category: solutions
 tags: [carbon, science, forest]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Carbon Dioxide removal and Why we need it, CAVEATS interesting people and articles, SCALE = Unrealistic Expectations, Fast Moving space, Nature-Base Solutions: Land and Ocean Sinks, Risk Facing Nature-Based solutions, Forests: How important are forests for climate stability, Peatlands, Sequestering soil carbon on farms, Ocean and Coastal Solutions, Seaweed Farming, Technological, Geological and Hybrid removal solutions, Industrial-point-source carbon capture and storage (CCS) or carbon capture and utilisation (GCU), Technological solutions face their own challenges: , Direct Air Capture (DAC), BECCS (Hybrid), A Contested Space, Agenda, ==PRICE DIFFERENCE, SCALE, Additionality, Leakage, Permanence, Additional social and environmental harm, 15 percent of the world’s peatlands, Cost remains high"
 ---
 
 [LINK](https://textbook.terra.do/class/m-carbon-removal-1)

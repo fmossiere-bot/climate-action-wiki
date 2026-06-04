@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, greenwashing, fossil-fuels]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "A deep dive into Glencore's environmental and social impact, What is the company IMPACT, ESG vs Impact Score, Impact Scores by SDG, Glencore, Glencore’s, provide critical inputs for industries, 2nd largest mining company globally, employs 150,000 people, above, gender parity, found guilty of bribery and corruption, 433 million tonnes of CO2, 111 coal-fired power plants, 558 million m, of water, 2.31 billion tonnes of waste, 93,000 hectares (about 71%), However, Positively, weight, +2.75, +2.45, Negatively, here"
 ---
 
 Source: https://www.greendigest.co/ 

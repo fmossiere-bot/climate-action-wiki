@@ -4,6 +4,7 @@ category: concepts
 tags: [greenwashing]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Greenwashing, What's the legal definition of Greenwashing, Examples of GREENWASHING, The EU anti-Greenwashing rule"
 ---
 
 #greenwashing 

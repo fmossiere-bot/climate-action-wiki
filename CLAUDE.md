@@ -71,6 +71,11 @@ tags: [relevant tags]
 sources: [list of source files this page draws from]
 created: [YYYY-MM-DD]
 updated: [YYYY-MM-DD]
+summary: [10–20 comma-separated keywords and topics covered in this page,
+          including specific subjects, species, places, technologies, or
+          concepts mentioned in the content — even if not in the title.
+          Example: coral reefs, bleaching, ocean acidification, mangroves,
+          marine biodiversity, sea temperature, plastic pollution, whales]
 ---
 
 # [Page Title]
@@ -188,6 +193,13 @@ When asked to ingest new files:
      create a summary page in wiki/sources/, identify which existing 
      wiki pages are affected and update them, create new wiki pages 
      if the topic is genuinely new
+   - For every wiki page created or updated: populate the summary 
+     frontmatter field with 10–20 keywords covering ALL specific topics, 
+     species, places, technologies, and concepts in that page — not just 
+     the main theme. This field is used by the AI Companion to find 
+     pages via semantic search, so be thorough: a page about the ocean 
+     should list coral reefs, mangroves, whales, bleaching, acidification, 
+     etc. even if they are mentioned only in passing.
 3. Update wiki/index.md with any new pages added
 4. Append to wiki/log.md using this exact format:
    ## [YYYY-MM-DD] ingest | [Source Title]

@@ -9,6 +9,7 @@ authors:
 published: 2026-04-22
 ingested: 2026-06-01
 raw-file: "raw/articles/Wildlife experts call for 'misleading' timber industry book to be removed from schools.md"
+summary: "What this source covers, Main arguments, Wiki pages informed by this source, Morgan Sindall Construction, Society of Irish Foresters, Irish Timber Council, SEEFA, Michael Healy-Rae, ecological dead zones, bogs that would store far more carbon if left intact, Department of Education, greenwashing in education, commercial Sitka plantations, biodiversity/native woodland"
 ---
 
 # Source Summary: Sitka Spruce Industry Book — Greenwashing in Irish Schools

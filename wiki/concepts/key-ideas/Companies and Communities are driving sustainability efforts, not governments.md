@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, behaviour]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What should we remember from this interview"
 ---
 
 Source: Ecologie360 - Winter 2024

@@ -4,6 +4,7 @@ category: concepts
 tags: [carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "AGRICULTURE, Agriculture remains the 3rd largest contributor, 14.5% of the total greenhouse, This article, >> ARTICLE WORLDWATCH <<, FOOD MILEAGE IMPORTANCE IN FIGHTING CLIMATE CHANGE, TRANSPORT, Almost 1/2 of that is from private car use, Flying, Did you know"
 ---
 
 #carbon-footprint #facts 

@@ -4,6 +4,7 @@ category: concepts
 tags: [science, coalition]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "01 - January, 02 - February, 03 - March, 04 - April, 05 - May, 06 - June, 07 - July, 08 - August, 09 - September, 10 - October, 11 - November, 12 - December, China's clean energy grew to 10% of GDP in 2024, Emissions from global construction sector stop rising, EU 2040 CO2 target likely to settle at 90%, Ireland exits coal, Europe’s 6th country to do so, UN report finds global deforestation is declining, China: CO2 emissions flat or falling for 18 months, US: Texas solar overtakes coal"
 ---
 
 Source: We Don't Have Time post

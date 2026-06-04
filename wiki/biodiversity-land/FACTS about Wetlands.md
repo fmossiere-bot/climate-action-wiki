@@ -1,9 +1,14 @@
 ---
 title: FACTS about Wetlands
 category: biodiversity-land
-tags: [wetlands, nature, methane, science]
+tags:
+  - wetlands
+  - nature
+  - methane
+  - science
 created: 2026-06-01
-updated: 2026-06-01
+updated:
+summary: "Wetlands and Ireland, Wetlands made more salty from rising Sea-Level, About Peatland, About Marshland in England to protect from Floods, Mangroves, Peatlands, Marshes, Swamps, Floodplains"
 ---
 
 #wetlands 

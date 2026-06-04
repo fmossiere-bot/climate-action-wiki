@@ -4,6 +4,7 @@ category: concepts
 tags: [science, alternative-fuels]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Introduction to Biomass, Modern Bioenergy, SAF, Risks & Controversies, Emissions impact of Biomass Power Station in the UK, Small Scale, Sustainable Feedstock: A solution for Chemical industry, Energy Strategy and Biomass: An IRISH lens, About Biomethanol, Learn more about Biomethanol production, Biomethanol as a Fuel, The drive for sustainability"
 ---
 
 >#biomass #biofuels 

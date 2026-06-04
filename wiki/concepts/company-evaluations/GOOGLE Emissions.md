@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, ai, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Google Emissions go up 50% due to AI demand, Transforming Landfill Waste to Biochar for Carbon Capture"
 ---
 
 #google #companies-emissions

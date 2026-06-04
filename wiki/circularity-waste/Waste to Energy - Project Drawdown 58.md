@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [circularity, methane, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Example in application - Copenhill community building, Another Example of waste-energy in Ireland"
 ---
 
 Source: https://drawdown.org/solutions/waste-to-energy

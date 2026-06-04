@@ -4,6 +4,7 @@ category: climate-science
 tags: [methane, science, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Raising emissions due to super-emitting leaks, Who are the biggest methane emitters, Today the US could be emitting 3x time more Methane through Oil and Gas LEAKS that initially thought, TERRA.DO newsletter: The Other Carbon, Report on Methane Leaks - Paris, 14th march 2024, New tools to track will bring better transparency, Emissions continue to rise, What happened with COP28, Learn More - Dig Deeper, AN unknown source of Methane: Hydropowers, What is the Solution, more carbon in 2022 as the entire UK"
 ---
 
 #methane 

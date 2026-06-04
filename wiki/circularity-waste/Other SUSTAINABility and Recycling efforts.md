@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [circularity, recycle]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "1500 tonnes"
 ---
 
 # Eco-Skis

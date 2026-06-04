@@ -9,6 +9,7 @@ authors:
 published: 2026-05-28
 ingested: 2026-06-01
 raw-file: "raw/articles/Should I get air conditioning in the UK – and can it be green?.md"
+summary: "What this source covers, Key facts and figures, Main arguments, Wiki pages informed by this source, 4 million UK homes, 22% of British homes, 4.87kg CO2, £5/day, 15–31p/day, 3 units of cooling for every 1 unit of electricity, £2,500 grant"
 ---
 
 # Source Summary: Air Conditioning in the UK — Green or Not?

@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [circularity, food]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Carbon 'PawPrint' of having a pet, Food, Is Vegetarian Food a good option for Pets, What is the impact of Meat in Pet Food overall Carbon Footprint, The Circular Economy and Blue Waste Upcycling - HARLEY & MARLEY, Renewable Infrastructure and Biodiversity Reserves: Go Native, Conclusions and Recommendations"
 ---
 
 #food-systems 

@@ -4,6 +4,7 @@ category: solutions
 tags: [ev, behaviour, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "A Cleaner form of Locomotion, Reducing Emissions and Oil Consumption, Connecting with Community and Environment, Tips, Big Savings for you and your community, The Cost of Car infrastructure, Saving your wallet and Health, Week 1: Learning and Preparing, Week 2: Taking Action and Exploring Further, Week 3: Building Habits and Embracing the Benefits, Week 4: Maintaining Momentum and Celebrating Success"
 ---
 
 

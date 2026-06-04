@@ -4,6 +4,7 @@ category: climate-science
 tags: [science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Helpful websites, SLIDES from the Lab session"
 ---
 
 - [x] Reviewed and add those slides: https://docs.google.com/presentation/d/1UX2CU7uw78j5GYfRMgHkdH1gHKDQhBzYG36gUPvJPlg/edit#slide=id.g1e2200fcd80_0_5

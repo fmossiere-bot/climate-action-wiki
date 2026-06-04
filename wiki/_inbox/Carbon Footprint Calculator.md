@@ -6,6 +6,7 @@ tags:
   - carbon-footprint
 created: 2025-06-01
 updated: 2026-06-03
+summary: "Benchmarks by country, Production vs consumption: an important distinction, Where do individual emissions actually come from, The main carbon footprint calculators, ⭐ ClimateHero _(recommended)_, Carbon Footprint Ltd, WWF Footprint Calculator, SEAI — Sustainable Energy Authority of Ireland, 🎬 Watch: What is a Carbon Footprint? (Illustrated), Data Sources, tonnes of CO₂ equivalent (CO₂e), A word of warning on origins, 2004 by BP, underestimate the impact of flying, The target, 2 tonnes per person per year, production-based, Consumption-based figures, transport, Food, Flying, climatehero.me, carbonfootprint.com/individuals.html, footprint.wwf.org.uk, seai.ie, Our World in Data, Eurostat, SEAI, CSO Ireland"
 ---
 
 _What they are, why they exist — and how to use them well_

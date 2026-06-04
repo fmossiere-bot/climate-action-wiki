@@ -4,6 +4,7 @@ category: legislation
 tags: [science, esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Reports, 2024 Reports, Targets, Ireland SDGs goals and progress, _The Sustainable Development Goals Report 2024_"
 ---
 
 #sustainability #sdg 

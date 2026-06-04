@@ -4,6 +4,7 @@ category: legislation
 tags: [cop30, diplomacy, coalition, phaseout, finance, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Why COP30 matters, What is at stake, 1) Shift our financial system, 2) Step up climate resilience, 3) Countries must deliver and act on ambitious national climate plans, 4) Protect and restore nature and transform food systems, What is the TFFF, 1. Multilateralism survived … just, 2. Adaptation funding tripled – but critics say it isn’t enough, 3. Plan for a just transition welcomed, 4. No mention of fossil fuels in final text, 5. Roadmap for transition away from fossil fuels survives – but it is voluntary, ✅ Update: Santa Marta Conference (April 2026), 6. Rainforest conference fails to create deforestation roadmap …, 7. … but new fund launched to help keep trees standing, What will COP30 actually be remembered for, South-Korea pledge to move away from Coal by 2040, USD $1.3 trillion per year by 2035, New Collective Quantified Goal (NCQG), at least USD 300 billion/year by 2035, Baku-to-Belém Roadmap, USD 1.3 trillion/year by 2035, NDCs, Yet collective ambition, still falls short, EU member states, reached, Indigenous Peoples’ and local communities, Sustainable Ocean Plans, roadmaps, Tuvalu, Ireland, The fossil fuel era is ending, Why is it important, Why is Australia taking note"
 ---
 
 #cop30

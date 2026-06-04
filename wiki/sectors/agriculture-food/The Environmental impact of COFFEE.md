@@ -4,6 +4,7 @@ category: sectors
 tags: [food, carbon, forest]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Coffee production is becoming more difficult as a result of Climate Change, Impact on Water resources, Impact on GHG, What do I drink, What was used for the study, What about Moka Pot coffee, The Nestle LCA for Nespresso Capsules, Key differences with the study above, Other Research"
 ---
 
 #sustainability 

@@ -6,6 +6,7 @@ tags:
   - esg
 created: 2023-11-01
 updated:
+summary: "Finance Basics and Global Context, Global context: Public and private finance is trending upward, Global context: Fossil fuel finance is still booming, Global context: Debt and equity climate finance are both growing, Global context: What about grants, Grants can come from both public and private (philanthrophic) sources, A review: Climate Finance Flows, Public Finance Case Studies, INDIA, Debt for Climate Swap, The Green Climate Fund (GCF), Criticisms of global (aid-based) climate finance, The Role of PRIVATE Finance, Green finance initiatives: Private finance, ESG investing, ESG investing challenges: ESG for whom? , Additional ESG investing challenges, Greenwashing, Green and sustainability-linked bonds, Green bonds: Challenges, Venture capital: the climate tech boom, Climate tech venture capital: challenges, Should nations try to ban bitcoin because of its environmental impact, The Role of BLENDED Finance, Your Personal Finance, Project Drawdown report, LAB - Deep Dive Finance, Other Resources, What is Finance, Why Finance for Climate, quick, $5.9 trillion, Optional further reading, ESG in public equities, Sustainability-linked bonds, To Do"
 ---
 ## Introduction
 

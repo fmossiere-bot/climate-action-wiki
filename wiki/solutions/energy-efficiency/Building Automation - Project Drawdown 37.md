@@ -4,6 +4,7 @@ category: solutions
 tags: [building-industry, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "How are the scenarios calculated"
 ---
 
 

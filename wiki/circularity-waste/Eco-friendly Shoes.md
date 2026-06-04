@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [fashion, circularity]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Eco- Sneakers with no Plastic, Ethical and Eco-Friendly runners are in demand, How Eco-Friendly are Flip flops"
 ---
 
 #fashion 

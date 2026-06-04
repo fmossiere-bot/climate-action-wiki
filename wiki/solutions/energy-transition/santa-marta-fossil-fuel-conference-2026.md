@@ -5,6 +5,7 @@ tags: [fossil-fuels, phaseout, international-diplomacy, coalition, roadmaps, col
 sources: ["raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md"]
 created: 2026-05-29
 updated: 2026-05-29
+summary: "roadmap, ~60 countries, more than 50% of global GDP, Almost half, Major absentees, France, Colombia, second conference, Tuvalu, co-hosted by Ireland"
 ---
 
 # Santa Marta Conference — Building a Coalition to Phase Out Fossil Fuels (2026)

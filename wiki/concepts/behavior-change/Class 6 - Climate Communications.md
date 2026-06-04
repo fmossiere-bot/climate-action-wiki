@@ -4,6 +4,7 @@ category: concepts
 tags: [behaviour, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Knowing your Audience, First: Why do you want to communicate about climate change, Who are you trying to reach—and why might they care, Speak your audience's language, Dismissives, Deniers, Doubters, Making your case for Solutions, What about in corporate contexts, What about if I need to communicate about climate change with a journalist, KEEP IT SIMPLE, Further reading and case studies, TAKE PERSONAL ACTIONS, Talking about climate change can lead to real change. Here's how to make those conversations count, You want people to do something about it, But in small groups, it’s a different story"
 ---
 
 - [x] Reviewed

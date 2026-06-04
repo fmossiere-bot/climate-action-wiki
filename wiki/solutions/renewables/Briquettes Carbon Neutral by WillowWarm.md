@@ -4,6 +4,7 @@ category: solutions
 tags: [ireland, alternative-fuels, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Sustainability Commitment, ACCREDITATIONS, SOCIAL Search Perplexity, How does it compare to others, without additives or binders"
 ---
 
 #ireland #biomass 

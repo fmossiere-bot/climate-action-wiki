@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, circularity, plastic, recycle]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Where does the waste of your bins ends up, About the Brown bin, About recycling bins, Are we separating waste well enough, UPDATE 2022, Environmental Protection Agency, compostable packaging, clean, dry and loose, can’t be recycled, can be recycled, clean and rolled up into a ball, can’t, are recyclable, really recyclable, not recyclable"
 ---
 
 #ireland #recycle #plastic #composting 

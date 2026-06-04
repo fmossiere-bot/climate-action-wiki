@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [plastic, circularity]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Health Impacts, Environmental Impacts, Environmental Impact: A Closer Look, Glass: Recyclable but Resource-Intensive, Plastic: Lightweight but Persistent, Key Environmental Considerations, Microplastic Contamination: The Invisible Threat, Recyclability and Reusability: Closing the Loop, Glass: A Champion of Circularity, Plastic: A Recycling Maze, Reusability: Extending the Life Cycle, Health Implications: A Tale of Two Chemistries, Glass: Inert and Safe, Plastic: A Chemical Cocktail, Key Health Considerations, Energy Consumption and Carbon Footprint: A Life Cycle Perspective, Glass: High Energy Demands, Plastic: Fossil Fuel Reliance, Conclusion: Making Informed Choices, Glass, Plastic, Pros, Cons, Conclusion"
 ---
 
 #plastic 

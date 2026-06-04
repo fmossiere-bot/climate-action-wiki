@@ -4,6 +4,7 @@ category: standards
 tags: [esg, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "[UPDATE] Towards a more Harmonised landscape? May be, harmonizing, the sustainability reporting landscape, The TNFD and EFRAG have also jointly published a, mapping"
 ---
 
 #esg #sustainability 

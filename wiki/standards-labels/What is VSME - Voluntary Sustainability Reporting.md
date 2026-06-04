@@ -4,6 +4,7 @@ category: standards
 tags: [esg, eu-policy]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is VSME, Who Does It Apply To, What About Smaller Businesses (Micro-Undertakings), Why Should an SME Voluntarily Adopt It, What Does the Framework Entail, Timelines, REFERENCE, VSME Standard, EFRAG, micro-, small-, and medium-sized enterprises, investors, banks, and larger corporate clients, Basic Module, Comprehensive Module, environmental factors, social factors, governance factors, proportionate yet consistent, guidance and technical definitions, not admitted to trading on a regulated market, Category, Balance Sheet Total, Net Turnover, Avg. Number of Employees, Micro, Small, Medium, Target Approach, only the Basic Module, Omission Flexibility, no direct legal authority, Supply Chain Pressures, Access to Capital, Competitive Growth, General Information (B1–B2), Environmental Metrics (B3–B7), Social Metrics (B8–B10), Governance Metrics (B11), Value Chain Carbon, Climate Risks (C4), Human Rights (C6–C7), Sector Exclusions & Diversity (C8–C9), Standard Publication, December 2024, The Second Year of Reporting, Gender Pay Gap Threshold adjustment, 100 employees starting on June 7, 2031, Final Draft Submission, Official Recommendation (July 2025), official Commission Recommendation, Delegated Act Process (2026), voluntary"
 ---
 
 #reporting #legislation 

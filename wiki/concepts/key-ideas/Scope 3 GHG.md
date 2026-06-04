@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "provide feedback, Draft Summary Report and Proposal Summary, Scope 3 Survey Draft Summary Report, Proposal Summary, Draft Summary Report, this form"
 ---
 
 Scope 3 review Update:

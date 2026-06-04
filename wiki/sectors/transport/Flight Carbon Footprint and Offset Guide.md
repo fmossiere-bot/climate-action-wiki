@@ -4,6 +4,7 @@ category: sectors
 tags: [aviation, carbon-offset, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "How is the Carbon Footprint of a flight is calculated, Results, Comparing Results from various sources, What about Contrails, As a response, a lot of companies do offer the ability to buy Carbon Offset when you book your flight, Flight distance, Aircraft and engine type, Cargo versus passengers, considerable amounts of cargo, Seat occupancy rate, Seat class"
 ---
 
 #carbon-footprint #carbon-offset #aviation 

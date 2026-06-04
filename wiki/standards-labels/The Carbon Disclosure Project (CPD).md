@@ -4,6 +4,7 @@ category: standards
 tags: [esg, carbon, finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Climat, Forests and Water"
 ---
 
 CPD is a worldwide non-profit organization which goal is to provide data. Today, 15000 companies answers the annual survey, with a classification across 3 main areas: **Climat, Forests and Water**. 

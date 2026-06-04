@@ -4,6 +4,7 @@ category: solutions
 tags: [nature, forest, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Note: 1 hectare = 100x100=10,000m2 = 2.47 acres"
 ---
 
 #project-drawdown #bamboo 

@@ -4,6 +4,7 @@ category: concepts
 tags: [science, finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Degrowth, Public Support for Degrowth, As a Mental Model:  Growth vs Degrowth, The green growth mm, The degrowth mm, Less is More - Book Review, Welcome to Anthropocene, Capitalism, About GDP, Rise of the Juggernaut, Tech will 'not' save us, The Secret of a Good Life, Joan Martinez-Alier, degrowth, Ecological Limits, Social Justice, Reduced Throughput, Redefining Well-being, Support for 'Post-Growth' Ideas, Prioritizing Well-being over Wealth, Environmental Protection over Economic Growth, Favorable Opinion of the Term Itself, Simon Kuznets, Meat consumption, Plastic consumption, Material footprint per income, Consumption Overshot, Climate change is not fair (p116), Climate change, Planetary Boundaries(123)/, Energy consumption, MATERIAL FOOTPRINT, The Jevons Paradox"
 ---
 
 #degrowth #gdp

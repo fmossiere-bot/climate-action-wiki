@@ -4,6 +4,7 @@ category: concepts
 tags: [science, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Country contributions and pledge, Individuals inequality by income groups, Inequality goes even a step beyond, Individual emissions vary greatly per country, Individual emissions now also vary greatly within a country, How about Millionaires, How about Billionaires, About Billionaires Philanthropy, 55 tonnes of CO2"
 ---
 
 See [[FACTS on EVERYTHING - Under the Sky we Make]] Chapter 8 with full details on the unfairness of how Climate Change impact and is created

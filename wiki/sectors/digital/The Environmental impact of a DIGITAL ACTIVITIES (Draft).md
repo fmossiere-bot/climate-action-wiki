@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, carbon, e-waste]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "We live in a DIGITAL World, Digital Transformation for Sustainability, Cool Companies trying to address that problem, You have the power to create a tremendous impact, elow"
 ---
 
 #digital 

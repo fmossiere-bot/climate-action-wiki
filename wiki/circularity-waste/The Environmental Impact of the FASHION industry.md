@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [fashion, circularity, plastic]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Sustainable Fashion innovations and Companies taking actions, 3 Bright Ideas that could fix fashion's environmental problem, Eco-friendly Shoes are in demand - See  [[Eco-friendly Shoes]], Circular Fashion is key - See  [[The Rewearable -  Circular Fashion ACTION GUIDE]], Fashion Materials and Tissues are evolving, _Source:_"
 ---
 
 #fashion 

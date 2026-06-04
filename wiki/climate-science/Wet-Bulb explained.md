@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Wet-bulb temperature"
 ---
 
 What is a wet-bulb? 

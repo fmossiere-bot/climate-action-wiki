@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, behaviour]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Intro, Why mental models, Isn’t climate impact enough, MM1: Climate Impact and Costs, Project Drawdown, Marginal Abatment Cost Curve, MM2: Growth vs Degrowth, The green growth mm, The degrowth mm, MM3: A systems lens, MM4: Masculine vs Feminine framing, TERRA.DO approach, Mitigation, Removal, Systems thinking, Global outlook, global lens, Masculine and feminine, Skills-based"
 ---
 
 - [x] Reviewed

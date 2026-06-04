@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, science, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Contextualising Digital Transformation, Aligning Digital Transformation and Sustainable Development, What is CODES, Mitigating Negative impacts, 1. Energy use and Emissions, 2. Waste Generation, 3. Addressing Consumption Drivers, 4. Tacking Misinformation, 5. Guarding against Digital Divide, 6. Preventing Rights Violations, Accelerating Innovation, Catalyzing a Sustainable Circular Economy, Empowering Sustainable Consumption, The Sustainable development Goals report 2022, DIGITAL WITH PURPOSE, Prebunking Information to fight misinformation - Harvard Research, Digital Passeport Research, Digital Transformation for Sustainable Development, Digital transformation, Digitization, Digitalization, The Changing face of Technology, debunking, prebunking, Three important domains, Digital Product Passport"
 ---
 
 **Digital Transformation for Sustainable Development**

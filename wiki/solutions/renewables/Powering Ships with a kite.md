@@ -4,6 +4,7 @@ category: solutions
 tags: [shipping, alternative-fuels, cool-companies]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Companies, Airseas, Pyxis Ocean, Seakite"
 ---
 
 #cool-companies #france #tftp

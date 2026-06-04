@@ -1,9 +1,14 @@
 ---
 title: FACTS about Forest, Land Use and Land Management
 category: biodiversity-land
-tags: [forest, nature, carbon, science]
+tags:
+  - forest
+  - nature
+  - carbon
+  - science
 created: 2026-06-01
-updated: 2026-06-01
+updated:
+summary: "Why Forest and Land are important, Forest coverage, More in the news about Forests, Alternative to Cement for the Building Industry, Bamboo has great potential for forests, Diverse is better, Forest getting decimated by Fire in 2024, World’s Forest Carbon Sink Shrank to its Lowest Point in at Least 2 Decades, Due to Fires and Persistent Deforestation, Stage of growth, Species, Size, Soil type, What happens when the tree dies, grow higher (+5.4%), wider (+6.8%), more carbon (+25%)"
 ---
 
 #forest #carbonremoval 

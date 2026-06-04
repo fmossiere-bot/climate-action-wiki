@@ -4,6 +4,7 @@ category: solutions
 tags: [alternative-fuels, science, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Green Hydrogen, Green hydrogen in the context of Storage of energy, Green Hydrogen at hand, Getting more  Hydrogen from Plastic Waste, Getting Geologic Hydrogen from the ground, Biden's administration pledge $7B to boost Hydrogen Hubs, Spain investing massively in Andalucia on Green Hydrogen, France hit the Jackpot with the discovery of massive reserve of Hydrogen, Why, Hydrogen, Clean hydrogen, Green hydrogen, Blue Hydrogen, natural hydrogen, white hydrogen, hydrogen production, energy markets"
 ---
 
 #alternative-fuels #green-hydrogen 

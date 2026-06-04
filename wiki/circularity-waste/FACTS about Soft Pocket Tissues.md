@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [circularity, forest]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Global Tissue Paper Market Overview, Soft Pocket Tissues: Production and Consumption, Factors Driving Demand for Soft Pocket Tissues, Market Share and Competitive Landscape, Sustainability and Environmental Impact, Historical Growth and Future Projections"
 ---
 
 Source: https://docs.google.com/document/d/1idEygqGAU1kC99aoc5D-Js1AvF773kplTuKUirIbLnE/edit?tab=t.0 

@@ -4,6 +4,7 @@ category: legislation
 tags: [eu-policy, esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Why was CSRD introduced to replace NFRD, October 2025, The EU Green Deal has three key targets, Read more about CSRD here on the Europa site, Fewer companies, fewer requirements, Separately, the EU, agreed, on new waste reduction measures for textiles and food"
 ---
 
 #legislation 

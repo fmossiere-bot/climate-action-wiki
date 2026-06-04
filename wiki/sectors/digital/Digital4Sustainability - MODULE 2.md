@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, science, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Objective, 1. Enabling Climate Change MITIGATION through Digital Transformation, Who need to reduce? a country view, Are we doing enough? Short answer is NO, Where are the Key Opportunities for Digital Transformation, 2. Digital Transformation poses challenges too, 3. Enable Climate change ADAPTATION through Digital Transformation, Early Warning system are essential technology which save lives, and protect some of the most vulnerable areas, Climate Information and Data Management, Remote Sensing and mapping, Climate Resilient Infrastructures, Virtual and Augmented Reality, Community Engagement, Digital Sustainability for Climate Action, eight times higher disaster mortality, revolutionize the visualization of climate impacts"
 ---
 
 **Digital Sustainability for Climate Action**

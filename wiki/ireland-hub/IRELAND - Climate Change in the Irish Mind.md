@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, behaviour, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Peretia Research, RedC Survey on Irish Commuters, perceived agency might still be lacking"
 ---
 
 #ireland #communication #research #climate-change #behaviour 

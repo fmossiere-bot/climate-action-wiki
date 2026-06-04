@@ -4,6 +4,7 @@ category: solutions
 tags: [science, phaseout, fossil-fuels]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Watch the UK, Top 10 countries phasing out coal the fastest, So, how are we doing in terms of reducing our reliance on Coal, 2 Countries Achieving Success in Coal Phase-Out, Renewable energy is set to overtake Coal by 2025, 2400GW, reach 38% of the energy mix"
 ---
 
 #energy #coal 

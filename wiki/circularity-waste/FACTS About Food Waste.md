@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [food, circularity]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Global Food System are responsible for 34% of Global Total GHG, Agriculture and associated Land -Use is responsible for 24% of Global Total GHG, 1/3 of all Food produced goes to Waste, Composting as a solution, Composting in Ireland, Composting at Home, CO2-e impact of HouseHold food Waste, 1) How much food waste to assume, 2) Climate impact of the wasted food itself (production → retail → home), 3) Extra impact from _not composting_ (i.e., putting it in the residual bin), Bottom line per average household (Ireland), Quick “per-kg” rules of thumb, How to tailor to _your_ home, ~162 kg of food waste per person per year (2023), ~2.74 people, ~444 kg food waste per household per year, ~3.07 kg CO₂e per kg of food, Annual embodied impact, 1.36 t CO₂e per household, 1.11–1.73 t CO₂e/yr, energy-from-waste (incineration) or landfill, worst-case, Landfill (food+garden), ~592 kg CO₂e per tonne, Composting (food+garden), ~54 kg CO₂e per tonne, Annual penalty for not composting, 0.24 t CO₂e per household, smaller, Total climate opportunity, ~1.6 t CO₂e per year per household, Prevent 1 kg of food waste, ~3.07 kg CO₂e, If you still waste it, but compost instead of landfill, ~0.54 kg CO₂e per kg, Embodied impact, Not-composting penalty"
 ---
 
 #waste 

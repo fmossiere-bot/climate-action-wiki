@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Research published by ICEF, Collect cool examples of AI application for Climate Mitigation, Satellite detection of Methane leaks, AI and Flying, Impact on energy consumption in the US due to new data centers, Opinions, Podcast Hard Fork, AI needs to become much more efficient and its use more calculated, France is investing in AI, REFERENCE, Key findings, Microsoft's emissions rose nearly 30% since 2020, Concerns, Podcast"
 ---
 
 #ai 

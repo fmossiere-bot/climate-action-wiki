@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Ireland Future energy systems, Path to 90% of energy supplied by Wind energy, IRELAND Renewable Offshore Wind efforts, To achieve this, we will also need storage, 1.3GW, 1.35GW"
 ---
 
 #wind-energy #ireland 

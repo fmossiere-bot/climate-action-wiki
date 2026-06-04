@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, adaptation, nature]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, An interview with Heidi Sevestre"
 ---
 
 Source: Ecologie360 #9 

@@ -4,6 +4,7 @@ category: solutions
 tags: [ev, alternative-fuels, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "INTRO, Why is it important, About EV, Barriers to EV, Geography Differences, Towards better Battery Solutions, medium and heavy duty trucks, Medium and heavy-duty trucks, Battery Technology and Range, Cost of Acquisition, Graphene Battery Companies, Nanotech Energy, ZapGo, Academic and Research Institutions, diesel"
 ---
 
 ## INTRO

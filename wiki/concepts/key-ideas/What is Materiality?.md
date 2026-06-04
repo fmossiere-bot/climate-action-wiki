@@ -4,6 +4,7 @@ category: concepts
 tags: [esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Double Materiality, Benefits of an ESG materiality assessment , How to conduct a materiality assessment, Materiality Assessment, Double Materiality - What do you need to know, Benefits of an ESG materiality assessment"
 ---
 
 #esg #sustainability 

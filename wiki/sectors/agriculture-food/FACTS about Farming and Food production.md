@@ -4,6 +4,7 @@ category: sectors
 tags: [food, methane, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Intro - Climate Change and Farming, GHG Emissions of the Food Supply Chain, Most of what we produce is for Animal feeds, We need to reduce WASTE, We need to go Plant-Based Diet, What about fish farming"
 ---
 
 #ucd #food-systems 

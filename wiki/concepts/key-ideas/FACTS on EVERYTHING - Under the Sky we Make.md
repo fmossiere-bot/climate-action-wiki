@@ -4,6 +4,7 @@ category: concepts
 tags: [science, carbon, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "1. It's us, 2. We're the Asteroid, Earth Dominant life-form, HUMAN HAVE MADE EARTH HALF ALIVE AS IT USED TO BE, 3. Uprouting Exploitation, Sowing Regeneration, We have the tech, 4. Sink into your grief, Coral Reef nearly gone, 5. Making meaning in a Warming world, 6. Face Your Fears, 1 foot in front of the other, 7. Get Angry, We're SURE, Big Oil lie to us, 8. Climate Change isn't Fair, The Cruelty of Carbon, Calculate your Carbon impact, You can do something about it, Make Change Happen - you only need 25%, 9. Slowing down and staying grounded, Stop Flying, Stop Driving, Tech will not fix everything, Electrify everything, 10. Food shouldn't come from a Factory, Industrial Agriculture is killing the planet, How about Water, Industrial AGRICULTURE  makes us sick, Stop to Subsidies Agriculture, 11. Values and Costs, 12. The Personal Is Political, cut global carbon pollution at least in half by 2030, CO2 represent 75% of heat-trapping emissions, International politics, Unfortunately, we are already passed the safe space, 1/2 all species had to move, At 1.5Degrees vs 2 degrees, ONly 10-30% of the Coral reef will remain, At 2degrees, 2% of animal biomass is US, 40% of forests, obsidian://open?vault=Mental%20Health&file=Grief, ==3 billions animals killed in 2019 Australia bushfire, 25% of the population, Stay on the ground, Go car-free, zero-carbon energy, that heats and cools, 'SUV are a big concern', 80 percent"
 ---
 
 #climate-change #book

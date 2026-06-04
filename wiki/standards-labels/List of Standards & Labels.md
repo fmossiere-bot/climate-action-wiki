@@ -4,6 +4,7 @@ category: standards
 tags: [esg, ireland]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Standards in Ireland, Construction Labels, Food Labels - The Marine Stewardship Council MSC Blue"
 ---
 
 

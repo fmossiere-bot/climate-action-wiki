@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, adaptation, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Some of the Key Findings, Energy Used for Heating Buildings in Ireland, District heating potential, Prominence of heat pumps, Electricity, Natural Gas, Coal and Peat, Renewables"
 ---
 
 Source: https://www.seai.ie/data-and-insights/national-heat-study/key-insights

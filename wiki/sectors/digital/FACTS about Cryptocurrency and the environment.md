@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Why is Kazaksthan 18% of the mining industry, 1. Abundant and Cheap Energy Supply, 2. Favorable Regulatory Environment, 3. Geographical and Climatic Conditions, 4. Political Stability and Strategic Location, 5. Growing Infrastructure for Mining, Challenges and Considerations, Other Sources, Bitcoin Infographic, Abundant and Cheap Energy Supply, Favorable Regulatory Environment, Geographical and Climatic Conditions, Political Stability and Strategic Location, Growing Infrastructure for Mining"
 ---
 
 #bitcoin #infographic 

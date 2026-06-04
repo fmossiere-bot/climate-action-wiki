@@ -4,6 +4,7 @@ category: solutions
 tags: [science, carbon, nature]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Geothermal Energy, Where is it stored, What can Geothermal energy be used for, How can geothermal energy be used, Geothermal energy: So hot right now, Geothermal Energy in Ireland, Trinity College just refurbished its housing with geothermal heating, about 0.4%, EGS: enhanced geothermal systems"
 ---
 
 

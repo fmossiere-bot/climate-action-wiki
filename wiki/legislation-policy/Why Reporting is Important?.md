@@ -4,6 +4,7 @@ category: legislation
 tags: [esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Reporting is Evolutionary. It took a decade for AnPost to be where they are today, It is important to your stakeholders, especially investors, It is important to your employee, More and More companies in Ireland are reporting, Companies in N100 Ireland are taking Carbon Reduction targets and considering Biodiversity goals more and more"
 ---
 
 [[Employees want to take action]]

@@ -4,6 +4,7 @@ category: solutions
 tags: [science, phaseout, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Nuclear Capacity, Is it still an option? The French Point of View, FACTS about Nuclear, Nuclear Micro-Reactor with Radiant, Is it still an option, The French Point of View, 50% of our electric mix, 10 to 300MW, 70% of the totlal electricity, Reference, zero-emission clean energy source, Ecologie360 n3 - page 108, 2.3g CO@eq"
 ---
 
 #renewables #nuclear

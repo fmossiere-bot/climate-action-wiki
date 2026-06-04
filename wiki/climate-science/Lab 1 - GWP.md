@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, methane, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "WAVELENGTH absorption, MODTRAN, SLUGULATOR, Links for simulators, About GWP, budget, radiative forcing"
 ---
 
 [SLIDES](https://docs.google.com/presentation/d/1WqTCGV23NIcLg47OLKNyHw6K0-1WN9O7FYM9gxDWm7A/edit#slide=id.g2474272fa40_0_5)

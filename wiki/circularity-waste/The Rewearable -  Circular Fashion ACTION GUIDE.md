@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [fashion, circularity]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "“Fast fashion isn’t free. Someone, somewhere is paying.” – Lucy Siegle, A Primer on Circular Fashion, Actions to Make Your Fashion More Circular, Circular Fashion Resources, Information, Repair Resources, Online Shopping, Clothing Rental, Brands, Dive Deeper"
 ---
 
 #fashion #sustainability 

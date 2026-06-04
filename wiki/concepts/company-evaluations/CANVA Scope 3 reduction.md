@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "About CANVA, Where do their Scope 3 emissions come from, 📦 The energy used by Canva’s global print suppliers, What Canva is doing with Watershed, They are co-funding new solar projects together with their print suppliers, What suppliers get in return, Do they have any recognised certification, They are financing the actual build-out of new solar capacity, in partnership with suppliers, It is a financial hedge, not a physical power delivery, The company receives RECs, Why companies enter VPPAs, Short answer: No. VPPAs are not automatically additional, Why additionality is uncertain, Market standards, hundreds of third-party facilities worldwide, Scope 3 upstream emissions, supply-chain VPPA, build new community solar farms in Illinois, Reduced Scope 3 emissions, New solar farms, clean electricity + RECs, suppliers reduce Scope 2, Canva reduces Scope 3, Achieving widespread positive impact, Leading by example and reducing its own footprint, Virtual Power Purchase Agreement (VPPA), Renewable Energy Certificates (RECs), market-based Scope 2 reductions, only if, before the project is financed or built, material to enabling the project’s construction, It does not create additional renewable capacity, GHGP (Greenhouse Gas Protocol), SBTi, CDP & investor expectations"
 ---
 
 *==Source: https://watershed.com/en-GB/customers/canva

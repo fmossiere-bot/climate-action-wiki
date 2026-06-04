@@ -4,6 +4,7 @@ category: concepts
 tags: [greenwashing]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Methane , Land-Use change"
 ---
 
 #greenwashing #terratalk #meat 

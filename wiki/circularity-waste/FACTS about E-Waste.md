@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [e-waste, circularity]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What are E-Waste, How much E-Waste do we generate, What is driving that increase, What about Recycling, The Global Flow of Uncontrolled E-Waste, An EU e-waste target, COMPANIES, Source"
 ---
 
 #e-waste

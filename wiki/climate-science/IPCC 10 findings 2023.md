@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "1. Human-induced global warming of 1.1 degrees C has spurred changes to the Earth’s climate that are unprecedented in recent human history, 2. Climate impacts on people and ecosystems are more widespread and severe than expected, and future risks will escalate rapidly with every fraction of a degree of warming.![[Screenshot 2023-10-16 at 18.16.44.png]], 3. Adaptation measures can effectively build resilience, but more finance is needed to scale solutions, 4. Some climate impacts are already so severe they cannot be adapted to, leading to losses and damages, 5. Global GHG emissions peak before 2025 in 1.5 degrees C-aligned pathways, 6. The world must rapidly shift away from burning fossil fuels — the number one cause of the climate crisis, 7. We also need urgent, systemwide transformations to secure a net-zero, climate-resilient future, 8. Carbon removal is now essential to limit global temperature rise to 1.5 degrees C, 9. Climate finance for both mitigation and adaptation must increase dramatically this decade, 10. Climate change — as well as our collective efforts to adapt to and mitigate it — will exacerbate inequity should we fail to ensure a just transition.  "
 ---
 
 Source: https://www.wri.org/insights/2023-ipcc-ar6-synthesis-report-climate-change-findings

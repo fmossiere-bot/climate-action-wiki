@@ -8,6 +8,7 @@ tags:
 created: 2026-06-01
 updated: 2026-06-01
 cover_image: https://images.unsplash.com/photo-1609692814858-f7cd2f0afa4f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+summary: "Are Cell Phones Bad for the Environment, Carbon Footprint of iPhone, Why Is the Carbon Footprint Announced in the iPhone 13 “Product Environmental Report” Underestimated, What About the iPhone 14, Carbon Footprint of Making a Phone, Carbon Footprint of Charging Phone, How about a more 'FairPhone', Manufacturing Dominance, Macro Comparison, The Breakdown of Impact, Storage Scales Emissions, The Cloud Network Underestimation, Aggregated Charging Demands, Corporate Recycling Disparities, Corporate Climate Goals, The Longevity Advantage, 8 Billion Trees Carbon Offset Program, Fairphone Official Documentation"
 ---
 
 

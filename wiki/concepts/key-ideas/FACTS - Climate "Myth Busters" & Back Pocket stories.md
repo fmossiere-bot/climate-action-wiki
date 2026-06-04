@@ -4,6 +4,7 @@ category: concepts
 tags: [fossil-fuels, ev, battery, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "FACT: Clean energy technologies produce far less carbon pollution than fossil fuels, The 'Pause' vs the 'Surge', Transitioning will create more unemployment, Renewable energy creates jobs, PV, Wind farm and EV batteries will drain our minerals resources, Myth 1: We don’t have enough materials to build what we need to fight climate change, Myth 2: All that mining will be worse for the climate and environment than fossil fuels. , We need to Electrify EVERYTHING, I’ve heard EVs are worse for the environment than regular cars—the power has to come from somewhere, after all , 21 Myths about EV, I heard they’re stacking wind turbine blades, solar panels, and EV batteries in landfills. Isn’t the waste from all this “clean” tech going to be a big problem, Battery Recycling is on its way, This battery recycling company is now cleaning up AI data centers, See more on Myth2 of MIT Technology, Regional differences can be significant, Vehicle size matters here too"
 ---
 
 #myths #fossilfuel #battery #ev 

@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, science, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "INTRO, Objectives, Course contents, Digital4Sustainability Learning Path, (AVAILABLE), Module 2: Digital Sustainability for Climate Action, Module 4: Digital Sustainability for Pollution Action"
 ---
 
 *==Source: https://www.unssc.org/courses/digital4sustainability-learning-path==* 

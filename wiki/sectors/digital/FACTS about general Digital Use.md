@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, carbon, e-waste]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Here is the carbon footprint of an average day of emails, WhatsApps and more, Listening to a podcast, Watching Netflix, Online shopping, WhatsApp text message, WhatsApp voice call, WhatsApp video call, Average pre-AI Google search, Average post-AI Google search, Sending an email, Sending an email with photo attachment, Downloading an album on Spotify, Playing a game of Fortnite"
 ---
 
 #digital 

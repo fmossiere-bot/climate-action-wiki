@@ -4,6 +4,7 @@ category: legislation
 tags: [cop30, diplomacy, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Latest NDC Update from COP30, A Timeline View, Where are we, States contribution to the Paris Agreement - A Classification, Ireland scores particularly bad on Adaptation, It's Time to Renew your NDCs, Missed Deadline, 10 February, 95% of countries missed that deadline, Progress at COP30, 22 new NDCs, some 122 countries, Key Emitters, world’s biggest annual emitter, China, India, “by December”, US NDC was effectively void, Final Call, “global mutirão”, “urges”, “as soon as possible”, “grossly inadequate”, Emissions Shortfall, 10% by 2035, “drastically short”, 60% cut needed to keep 1.5°C in sight, Required Action, align with 1.5°C, AOSIS Proposal, “dedicated space” on the COP agenda, “The 1.5C target is our north star”, Opposition, Like-Minded Developing Countries (LMDCs), Failed NDC Discussion, “global mutirão,”, annual NDC discussions, opposed by the LMDCs and the African group, Implementation Focus, “implementation and investment plans”, Agriculture and Food Systems, 93% of new NDCs, agriculture or food systems, Brazil and New Zealand as “weak”, “very strong”, Ocean and Water, ocean-based climate actions, “blue NDC challenge”, COP30, submit a new set of NDCs, Nationally Determined Contributions, well below 2°C, ideally 1.5°C, ambitious climate targets"
 ---
 
 ## Latest NDC Update from COP30

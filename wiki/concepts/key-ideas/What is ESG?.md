@@ -4,6 +4,7 @@ category: concepts
 tags: [esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "For companies, For Investors, PLATFORMS, ACTIONS, Time is running out for Business leaders who don't have a 'net zero' strategy, Class-Action Wave Is Coming for ESG Claims: Green Insight - Bloomberg, Environment, Social Responsibility and Governance, environmental, social and governance, SAMPLE ESG REPORT: AnPost, CSRD, Reporting under the CSRD, 2023 Annual Litigation Trends Survey"
 ---
 
 #legislation #esg 

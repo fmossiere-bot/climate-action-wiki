@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [circularity, food, recycle]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "South-Korea compost close to 100% of its food waste"
 ---
 
 #project-drawdown #composting 

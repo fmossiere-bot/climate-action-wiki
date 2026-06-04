@@ -4,6 +4,7 @@ category: concepts
 tags: [science, finance, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Economics, Environmental Economics 101, Carbon Pricing: Carbon Markets and Taxes, How does Pricing on Carbon works, Case Study: EU ETS (Emission Trading System), Challenges with Carbon Pricing, The Social Cost of CARBON, Lab 6 - market failure, Market Failure, tragedy of the commons, Explotation Mindset, $135 to $5,500 (USD), $690 to $31,100, BASIC ECONOMY THEORY, POLICY RAMIFICATIONS"
 ---
 
  #economics 

@@ -4,6 +4,7 @@ category: sectors
 tags: [food, carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Transport in relation to Food Mileage is also an important factor, Food transport impact  is a complex topic, and one where the answer is not so simple. I found different numbers, So how important is Food Mileage, 75 x more emission heavy than sea freight, Field to Fork, 20% of the total CO2 emissions"
 ---
 
 #carbon-footprint #food-systems 

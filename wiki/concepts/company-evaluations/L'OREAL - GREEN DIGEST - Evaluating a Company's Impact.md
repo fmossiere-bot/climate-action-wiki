@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, greenwashing]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Why does L'Oreal has a Negative Impact Score, ESG vs Impact Score, Impact Score by SDG, L’Oréal, However, In the socio-economic sphere, No.1 beauty brand worldwide, 150 countries, provides around 7 billion products, 1 billion customers, employs over 94,600 people globally, 50,000 suppliers, supporting local economies, use of harmful chemicals, 700 million customers, toxic substances, Environmentally, equivalent, 2.4 million homes, 93,500 tonnes of operational waste, 88,000 tonnes at industrial sites, 97% of this industrial waste is recovered, 170,800 tonnes of plastic, packaging, 44% being recyclable, reusable, and/or compostable, 56% of its packaging remains non-recyclable, 1 million m, of water, 33% being drawn from water-stress regions, Positively, _weight_, +3.01, +2.88, Negatively, SDG 3 – Good Health and Wellbeing, impacts it negatively"
 ---
 
 ==*Source: [Green Digest L'Oreal](https://www.greendigest.co/p/evaluating-a-company-s-impact-the-case-of-l-or-al?_bhlid=4ee0fa80237175dc3d2539651fb8b0eb9231bd42&utm_campaign=evaluating-a-company-s-impact-the-case-of-l-oreal&utm_medium=newsletter&utm_source=www.greendigest.co)*

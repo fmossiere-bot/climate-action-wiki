@@ -4,6 +4,7 @@ category: solutions
 tags: [ocean, science, nature]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Hydropower, production powers are massive, 4x our actual needs, THE BIGGER IS NOT THE BETTER - from an ecological pov"
 ---
 
 #renewables 

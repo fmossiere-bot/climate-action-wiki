@@ -4,6 +4,7 @@ category: standards
 tags: [esg, nature, finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Disclosure recommendations, Update on Adoption - 29th October 2024 - Green Digest Newsletter, Framework, Example, TNFD also, released, announced, The TNFD also, published,  increase , Despite positive developments, nations at COP16 are, struggling"
 ---
 
 Source: https://tnfd.global/

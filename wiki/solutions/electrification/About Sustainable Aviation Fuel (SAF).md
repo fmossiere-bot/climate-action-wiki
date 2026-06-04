@@ -4,6 +4,7 @@ category: solutions
 tags: [aviation, alternative-fuels, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is SAF, How Sustainable is SAF, Can we produce enough, Financial Incentives, SAF and Synthetic Fuels, Deep dive into SAF with Corn, UK new legislation on use of SAF for aviation, Solar SAF, 50-97%, 1 gallon = 3.7l, are comparable to fossil-based jet fuels, 50-97% compared to fossil-based jet fuel, EU Emissions Trading Scheme (ETS), SAF Allowances, pv magazine"
 ---
 
 #alternative-fuels #biofuels #biomass 

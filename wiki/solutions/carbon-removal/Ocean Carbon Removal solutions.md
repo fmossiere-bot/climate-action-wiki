@@ -4,6 +4,7 @@ category: solutions
 tags: [ocean, carbon, seaweed]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Overview: Marine Algae as a Solution to Climate, Question 1: Impact Estimate, Question 2: Major Challenges, Question 3: Impactful Solutions, Question 4: Equity and Justice, Question 5: Specific Organizations in this Field, Question 6: Surprised We Learned"
 ---
 
 ==Source: [Assignment 4 elephant group](https://docs.google.com/document/d/107fqVxpZfCgfVwJRJ5ZSCXGFN4F2AHjGeQKhcRdBcTI/edit#heading=h.2x34ybr8t7ez)==

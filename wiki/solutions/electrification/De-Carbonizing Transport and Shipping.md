@@ -4,6 +4,7 @@ category: solutions
 tags: [shipping, aviation, ev]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "2 percent of energy-related, FURTHER READ PER TRANSPORT"
 ---
 
 In last week’s Climate Switch, we covered how the need to rethink urban transportation poses an opportunity not just to reduce emissions but also to make cities more liveable. This week, we’ll turn to two other parts of the transportation sector in need of an overhaul: aviation and shipping.

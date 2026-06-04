@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Carbon Footprint of Bitcoin, Why is this a potential issue, What is the solution, What about renewable energy, Etherum, 50% of bitcoin mining happens in the US and Kazakstan, compared to 17 per cent in 2022"
 ---
 
 #linkedin #bitcoin 

@@ -4,6 +4,7 @@ category: concepts
 tags: [science, behaviour, diplomacy]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "The Paris Agreement and Beyond, What is the Paris Agreement, What about COP 27, What about COP 28, Context and caveats, Defining Politics, Policies, and Justice: A Primer, Politics, Policy, Countries Climate Responsibilities and Net-Zero Plans, Emissions Today, Cumulative emissions since the Industrial revolution in 1751, Emissions per Capita, What is fair, Our commitment so far, Dig more into each Country, Corporate Responsibility and Action, Fossil Fuel companies, Citizen Power and Climate Justice Movement, Lab 6, Citizen power and Social Tipping, Example of Policies, Green Standard for Historic Buildings, UNFCCC, 2 wins, Loss, The good, The bad, The ugly, Further reading from _Carbon Brief –_, JUSTICE, central role of power, CBDR-RC, India, European Union"
 ---
 
 - [x] Reviewed 

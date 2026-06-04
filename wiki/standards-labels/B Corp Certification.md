@@ -4,6 +4,7 @@ category: standards
 tags: [esg, cool-companies]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "PATHWAY TO CERTIFICATION, How to become B Corp Certified, What we measure as part of the B Impact Assessment, Your company's governance, How your company treats its workers, Your impact on the community, Your company's impact on the environment, Your company's customers, Its use is growing fast in France, B Corp IRELAND, high, social and environmental, performance, legal commitment, transparency, Meet the, legal accountability requirement, for B Corp Certification, Complete and submit a prospective B Impact Assessment, B the Change"
 ---
 
 #standard 

@@ -6,6 +6,7 @@ tags:
   - esg
 created: 2023-11-01
 updated:
+summary: "Context and Types of Climate Risk, Physical Climate Risk, How bad it the problem, Transition Risks and Stranded Assets, Beyond What Is Counted—the Human Impacts, Bank financing the Fossil Fuel, Companies, non-profit organisations helping Climate Risks, Financial Stability Board, Task Force on Climate-Related Financial Disclosures, Climate Disclosures Standards Board, Carbon Disclosure Project, Sustainability Accounting Standards Board, Science Based Targets initiative (SBTi)"
 ---
 
 We can't talk about Climate Change without talking about the associated Financial Risks. 

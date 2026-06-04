@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Powerscourt need to replace 80% of its hedges"
 ---
 
 #ireland 

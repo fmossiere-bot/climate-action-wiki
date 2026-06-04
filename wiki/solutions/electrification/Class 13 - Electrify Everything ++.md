@@ -4,6 +4,7 @@ category: solutions
 tags: [ev, science, phaseout]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "The case to Electrify Everything, Mobility and Transport, Cleaning up Buildings, Climat Solutions for industry, About the CEment industry, About Fertilizers, About Plastic, Other Industry, QUIZZ, 17% of, “Operational carbon emissions,”, “Embodied carbon,”"
 ---
 
 - [x] Reviewed

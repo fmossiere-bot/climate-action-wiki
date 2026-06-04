@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, ocean, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "About, The Greenhouse Effect, Link Youtube, There are more concerns, Heat Humidity extremes, Water and Food impact: There is a fresh water impact, The predominent role of Agriculture"
 ---
 
 **Link Youtube:**[https://www.youtube.com/watch?v=kxAcm_zCon0&ab_channel=TerradoClimateSchool](https://www.youtube.com/watch?v=kxAcm_zCon0&ab_channel=TerradoClimateSchool)

@@ -4,6 +4,7 @@ category: concepts
 tags: [carbon-offset, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What are Carbon Offsets, Carbon Offset Projects, Carbon Offset Programs, RECs, PPAs, Allowances and EECs, Challenges with Carbon Offsets, 1. The Atmosphere, 2. Additionality, 3. Permanence, 4. Double Counting, 5 and 6: Leakage and Overestimation, 7. Social and Environmental Harm, Carbon offset projects = development projects, Investigations into carbon Offset shortfalls, Best Practices and Alternatives, The Oxford Offsetting Principles, Better 'offsetting' in practice: Microsoft and Stripe, Alternatives for Smaller companies (not with the resources of Mivrosoft), A new approach for nature-based offsets: REDD+, LAB, About Insetting, Key takeaways, Other Relevant Articles on the topic, Carbon-Offsetting schemes might not actually prevent deforestation, About Gold Standard Certification, 'The terms, carbon offset, carbon offset credit, convey, 6. Overestimation of credits, Australia, Brazil, California, United States, Colombia, Republic of Congo, Peru, Borneo, Cambodia, And a few more, for good measure, Shift to carbon removal offsetting, Shift to long-lived storage, Support the development of net-zero aligned offsetting, What is REDD+, Ecologi.com"
 ---
 
 #carbon-offset

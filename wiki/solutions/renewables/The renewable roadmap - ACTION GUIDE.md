@@ -4,6 +4,7 @@ category: solutions
 tags: [science, phaseout, behaviour]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Quote/Interesting Fact, Section 1: Energy Savings Audit , Understanding Your Energy Bill, Understanding Electricity Needs, How much could you save, Energy Efficiency Calculator, Energy Efficiency Tips, Upgrades, and Incentives, Section 2: Exploring Renewable Energy Options, Renewable Energy Options, The Right Solution For You, Solar Panels, Wind Turbines, Find Certified Installers, Renewable Energy Incentives, Finding the Right Contractors, Section 3: Weekly Action Plan, Week 1: Energy Audit and Efficiency, Week 2: Research Renewable Energy Options, Week 3: Financial Planning for Renewable Transition, Week 4: Finalizing Your Renewable Energy Plan, Additional Resources, Government Schemes and Incentives, Trust and Quality Marks, Green Deal Information, Financing and Funding Options, Renewable Energy Information and Guides, Energy Saving Trust Advice and Tools"
 ---
 
 https://docs.google.com/document/d/1vuD5dpERjexvH325vMy4hEHLYJ8wjUDMDJuHMzla_iQ/edit 

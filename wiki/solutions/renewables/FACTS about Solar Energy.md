@@ -4,6 +4,7 @@ category: solutions
 tags: [science, carbon, phaseout]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "A Solar Farm requires space, Interesting set-up to increase productivity and manage space, 40-50 times, Silicon Solar Cells, Thin-Film solar Cells, III-V Solar Cells"
 ---
 
 #renewables 

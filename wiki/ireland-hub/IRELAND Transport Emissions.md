@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "6.7 per cent in 2022"
 ---
 
 #ireland #transport 

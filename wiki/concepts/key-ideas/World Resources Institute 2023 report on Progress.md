@@ -4,6 +4,7 @@ category: concepts
 tags: [science, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Key Findings"
 ---
 
 *Source: https://www.wri.org/research/state-climate-action-2023?__s=z682a788s8g6728tffsq&utm_source=drip&utm_medium=email&utm_campaign=Climate+Switch+-+Nov+30*

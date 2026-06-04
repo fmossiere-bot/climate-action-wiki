@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, cool-companies]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Silicate: The Irish start-up with a concrete plan to save the planet, What is Enhanced Weathering, Concrete Waste"
 ---
 
 #ireland #environment 

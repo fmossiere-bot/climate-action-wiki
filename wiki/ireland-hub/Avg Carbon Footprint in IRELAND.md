@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [carbon, ireland]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Comparison with EU Neighbors, Consumption-Based Data, Deep Dive into the Categories, Data Consumption separating WASTE "
 ---
 
 #carbon-footprint #ireland 

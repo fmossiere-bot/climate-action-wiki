@@ -4,6 +4,7 @@ category: solutions
 tags: [carbon, nature, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "L'olivine, Le Biochar, Irish Company SILICATE"
 ---
 
 

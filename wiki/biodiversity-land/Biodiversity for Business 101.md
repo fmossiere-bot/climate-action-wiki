@@ -1,9 +1,14 @@
 ---
 title: Biodiversity for Business 101
 category: biodiversity-land
-tags: [biodiversity, nature, esg, ireland]
+tags:
+  - biodiversity
+  - nature
+  - esg
+  - ireland
 created: 2026-06-01
-updated: 2026-06-01
+updated:
+summary: "15 Key Biodiversity Objectives for Business, Business for Biodiversity"
 ---
 
 #biodiversity 

@@ -4,6 +4,7 @@ category: concepts
 tags: [shipping, esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "The IMO Target, What are Stena stated Goals, From Gemini, From the Website, Progress, What does external research say, Sustainability reports, The Context: An Industry in Transition, What Stena Line Is Doing, The Problem: Communication Chaos, My Concerns, The Greenwashing Question, Questions for the Community, Carbon intensity reduction, 40% CO₂ emissions per transport work, Uptake of zero or near-zero GHG fuels/technologies, Indicative checkpoints for total annual GHG reductions, Net-zero by around 2050, Fuel Transition, New Vessel Concepts, Renewable Energy, Fleet Efficiency, Reducing Ocean Harm, Waste Reduction, Human Rights and Workforce, Supplier Responsibility, Certifications, Net-Zero Ambition, Intermodal Solutions, 40% reduction, 20-30% reduction, 30% reduction in total CO₂ emissions, 11% reduction in carbon emissions per tonne of cargo, 1. The 'Everything Everywhere All at Once' Approach, 2. Questionable Impact of Some Initiatives, 3. Verification Challenges, 4. Information Accessibility, I don't think Stena Line is greenwashing, Does listing every initiative, What would better communication look like, Am I being too harsh, For those in maritime/logistics"
 ---
 
 As a whole, the maritime industry is thriving with innovation in order to reach an ambitious goal to reduce its emission as a whole by 40% by 2030, and net-zero by 2050? 

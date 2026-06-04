@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, alternative-fuels]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "End of Peat-Fired Era, Comes Bioenergy, Ireland Future energy systems, Biomethane has the potential to replace 1/4 of Natural Gaz in Ireland, Gaz Network ireland is working on a plan to buy Irish Biomethane, Ireland Draft Biomethane strategy"
 ---
 
 #ireland #biomass #biofuels 

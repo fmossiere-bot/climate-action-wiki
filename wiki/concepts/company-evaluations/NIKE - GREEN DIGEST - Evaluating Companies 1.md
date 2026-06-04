@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, greenwashing, fashion]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Why does NIKE has a positive Impact Score, What is the company IMPACT, ESG vs Impact Score, Impact Scores by SDGs, Nike, +0.58, 38.7% market share, 900 million products, Nike has consistently addressed physical inactivity, promotes inclusivity, through various initiatives, more than 20 million kids, engage in physical activity and play, 83,700 people, above, achieved gender parity at all levels, 1.3 million workers in its supply chain, violating OECD guidelines in its treatment of, 450,000 garment supply chain workers, 16.7 million, tonnes of CO, 18.5 million m, of water, 200,000 tonnes of waste, linked to Amazon rainforest deforestation, sources over 500,000 tonnes of raw materials, However, Positively, weight, +3.33, +3.19, +2.18, Negatively, [[Pasted image 20240913112401.png]], Nike’s key social and environmental impact lies in …"
 ---
 
 Source: https://www.greendigest.co/ 

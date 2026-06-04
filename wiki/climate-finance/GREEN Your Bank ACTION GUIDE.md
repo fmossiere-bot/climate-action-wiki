@@ -4,6 +4,7 @@ category: climate-finance
 tags: [finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "ACTION Move your Money, Dig Deeper, Project Drawdown Report, More on Banks financing Fossil Fuel, It's not just Fossil Fuel - Bank invest in other environmentally damaging projects, Make My Money Matter report"
 ---
 
 #finance #something

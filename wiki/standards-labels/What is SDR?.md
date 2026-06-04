@@ -4,6 +4,7 @@ category: standards
 tags: [esg, finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What does the new SDR require asset managers to do?  , The SDR can be simplified into 3 primary components:  , 2. Voluntary labelling system , 3. Sustainable entity reports for larger asset managers , Who does SDR apply to?  , When does SDR come into effect?  , How do asset managers ensure SDR compliance, Fair, Clear, Not misleading, Sustainability focus, Sustainability improvers, Sustainability impact, Mixed goals, Sustainability risk management, Sustainability opportunities, Anti-greenwashing rule, Voluntary labelling, Sustainable entity reports, Product naming and marketing, Ongoing disclosures, Define your sustainability strategy, Opting out? Consider the impact, Building an ESG team (if applicable), Taking action"
 ---
 
 #united-kingdom 

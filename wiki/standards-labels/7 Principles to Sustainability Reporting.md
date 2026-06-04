@@ -4,6 +4,7 @@ category: standards
 tags: [esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Principles: Stakeholder Engagement, Principles: COMPLETENESS, Principles: OPERATING CONTEXT, Principles: MATERIALITY, Principles: ALIGNMENT, Principles: BALANCE, Principles: EXTERNBAL ASSURANCE"
 ---
 
 §#esg #sustainability 

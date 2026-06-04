@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "1. Comparing Emissions, Comparing different types of Emissions, So... what should we be doing about methane leakage and emissions, _Any_ amount of CO2 emissions adds to global warming, 2. The Global Carbon Cycle, Key Take-Away, Worries about reliability of our Carbon Sinks, 3. Emissions Accounting, Why does this matter, Methane, stocks, Ocean acidification, Permafrost"
 ---
 
 - [x] Reviewed

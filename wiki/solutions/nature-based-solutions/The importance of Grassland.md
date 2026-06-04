@@ -4,6 +4,7 @@ category: solutions
 tags: [nature, carbon, ireland]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "The Unsung Heroes: Why Grasslands Matter (Globally and in Ireland), An Underrated Ecosystem, What does that mean in the context of Ireland, What are the potential benefits of planting hedgerows and trees in Irish grasslands, Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches, up to 34% of the world's terrestrial carbon, ninety percent stored underground, third of Key Biodiversity Areas, 90 plant species per square meter, 1 billion people worldwide depend on grasslands, US$20.8 trillion in economic value annually, biodiversity strategies, Raising awareness, biodiversity-friendly practices, 1. Carbon Sequestration and Climate Mitigation, 2. Biodiversity Enhancement, 3. Soil and Water Quality Improvement, 4. Agricultural Benefits, 5. Cultural and Landscape Value, 6. Human Wellbeing, 3. Partnering with Farmers and Conservation Groups, 4. Raising Awareness and Building Capacity, 6. Supporting Pollinator-Friendly Actions"
 ---
 
 #carbon-sink  #ireland #agriculture 

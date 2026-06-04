@@ -4,6 +4,7 @@ category: concepts
 tags: [science, phaseout]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "A revolutionary change is underway"
 ---
 
 #energy #renewables 

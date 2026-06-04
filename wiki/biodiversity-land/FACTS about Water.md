@@ -1,9 +1,13 @@
 ---
 title: FACTS about Water
 category: biodiversity-land
-tags: [nature, science, adaptation]
+tags:
+  - nature
+  - science
+  - adaptation
 created: 2026-06-01
-updated: 2026-06-01
+updated:
+summary: "Supply of water is no infinite, Consumption on the rise, and planned to grow 55% by 2050, Individual Consumption example, Freshwater Boundary, See [[Keynote Dr Chip FLETCHER]] on important fact about Water usage, From [[FACTS on EVERYTHING - Under the Sky we Make]], Access to Water is more and more Inequitable, The Water CYCLE, What is a Water Footprint, The role of the EPA in IRELAND, Investor guide on water risks in agricultural supply chains, Course Material Water Footprint, Watertech emerging in France, La Vendee is trialing the Re-use of USED water, Aquaviva - De-Salting sea water, How in some southern regions like Sicily, authorities need to make a choice between agriculture and tourism in rationing water use, Catalunya 5 solutions to deal with the lack of water, True wealth is Water - could it replace 'Capitalism', First Water shortage of the year in Co.Cavan, The BLUE Gold - has a price, Blue water, Green water, already outside, Why it matters, Caveats and things to keep in mind, Water and Food impact: There is a fresh water impact"
 ---
 
 #water

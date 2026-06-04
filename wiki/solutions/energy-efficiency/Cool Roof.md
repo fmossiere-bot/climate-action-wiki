@@ -4,6 +4,7 @@ category: solutions
 tags: [building-industry, adaptation, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Cool Roof made in France - TFTP, Extract from TERRA.DO Course on buildings, Cooler outside air, Fewer power plant emissions, Better air quality, Slowed climate change, Energy and cost savings, Reduced electrical grid strain, Improved indoor comfort, Application, Impact, Further reading"
 ---
 
 > In 2010, a [study by Berkeley Lab](https://newscenter.lbl.gov/2010/07/19/cool-roofs-offset-carbon-dioxide-emissions/) using data from NASA estimated that using “cool roof ” techniques on the roofs and pavement of all cities in the northern hemisphere could have a one-time effect of removing more than 44 billion tons of carbon dioxide — 24 billion tons from roofs and 20 billion tons from pavements. That’s more than the total of all global carbon emissions each year

@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, ai, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "About Bitcoin and Cryptocurrency, Ireland & Data Centres, Podcast from SEIA - 180 Degrees Podcast, What is it in the context of limiting emissions, What about ICELAND as the new Eldorado for Data CEnters, Renewable Energy, Natural Cooling, Stability, Connectivity, Competitive Costs, Government Support, Market Response, Article on WDHT, Quantitative Forecasts (Goldman Sachs), 165% increase in data center power demand by 2030, Short-term, 50% by 2027, 7,000 of the world’s 8,808, 14% of total emissions by 2040, 165% by 2030, 300% more power, 27% by 2027, 18% of our national electricity, data centres are eating our renewable energy progress, 5,800 MW of power, nearly 7,000 of the world's 8,808 data centres, four years or more, Direct use, Indirect use"
 ---
 
 #ireland #renewables 

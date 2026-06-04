@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Extreme Events Attribution, What does AR6 tells us, List of Tools available to track what might be going on at home or in your community, Unpacking Climate Disasters, Implication of the Local Impact of Climate Change, Risk of Mass Death as heatwaves start to pass Survivability threshold, We are starting to see places where we go over that threshold, After Losing Crops to Drought, Sicily Fears Losing Tourism, Too, 5 Solutions in Catalunya to deal with water shortages"
 ---
 
 - [x] Reviewed

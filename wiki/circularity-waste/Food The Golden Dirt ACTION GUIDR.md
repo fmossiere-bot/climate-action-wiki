@@ -4,6 +4,7 @@ category: circularity-waste
 tags: [circularity, food]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Diverts harmful methane emissions from landfills, Stores carbon in soil, Reduces the Need for Fertilizers, Improves Soil Health and Resilience, Finding your Spot and Sizing it Up, Compost Bin Options, Compost Supplies and Setup , Watch the Magic Happen, Filling Your Compost, Time to Compost, Composting Top Tips & Tricks, Enhance your own garden, Share it with others, Week 1: Decide your approach, Week 2: Get building, Week 3: Start using your compost, Week 4: Make your first turn of the compost, Ready to get started? Grab a bin, gather your scraps, and join the composting movement"
 ---
 
 #composting 

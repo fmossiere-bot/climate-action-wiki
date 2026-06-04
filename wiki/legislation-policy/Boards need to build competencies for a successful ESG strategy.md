@@ -4,6 +4,7 @@ category: legislation
 tags: [esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Annual C Suite survey from Competent Board"
 ---
 
 Source: [Source: **Annual C Suite survey from Competent Board**](https://www.conference-board.org/pdfdownload.cfm?masterProductID=46419)

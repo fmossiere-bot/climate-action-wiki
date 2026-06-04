@@ -4,6 +4,7 @@ category: sectors
 tags: [food, fossil-fuels, greenwashing]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Instead of copying Big Oil's climate playbook, the animal agriculture industry should be seeking damages for it, a researcher argues"
 ---
 
 #myths #food-systems 

@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, nature, adaptation]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Water Management IRELAND, Challenges of Climate Change on Water Resources, Environmental Crisis at Lough Neagh, FACTS about Water, See [[Keynote Dr Chip FLETCHER]] on important fact about Water usage, Also, from [[FACTS on EVERYTHING - Under the Sky we Make]], exacerbate existing pressures, reductions in available water resources, increased algal/plant growth with detrimental impacts, low river flows are likely to increase, already depleted water supply under pressure, areas already prone to flooding at increased risk, Water and Food impact: There is a fresh water impact"
 ---
 
 #water 

@@ -4,6 +4,7 @@ category: solutions
 tags: [building-industry, carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Total Addressable Market, Change to European LED rating after banning Incandescent (2009) and Halogen (2018) bulbs, The New Rating, Re-Lighting your Household to save energy, what do you need to know, EU 2019/2020 Single Lighting Regulation (SLR), EU 2019/2015 Energy Label Regulation (ELR)"
 ---
 
 #project-drawdown 

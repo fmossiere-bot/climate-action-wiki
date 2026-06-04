@@ -4,6 +4,7 @@ category: standards
 tags: [forest, nature, esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Sustainable Forest Management Standard - FSC"
 ---
 
 ### Sustainable Forest Management Standard - FSC

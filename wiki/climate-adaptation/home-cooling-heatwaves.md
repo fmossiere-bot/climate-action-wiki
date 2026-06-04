@@ -6,6 +6,7 @@ sources:
   - raw/articles/Should I get air conditioning in the UK – and can it be green?.md
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Types of cooling — from greenest to most energy-intensive, Can AC be green, 22% of British homes, 4 million UK homes, 4.87kg CO2 over a summer, 15–31p/day, £5/day, as effective as AC, 3 units of cooling per unit of electricity, £2,500 grant, Passive cooling, Electric fans, Air-to-air heat pumps, Fixed split-system AC, Portable plug-in AC, Pair with solar panels, Use a home battery, Check grid carbon intensity, Pre-cool rooms"
 ---
 
 # Home Cooling During Heatwaves

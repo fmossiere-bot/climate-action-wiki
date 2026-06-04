@@ -4,6 +4,7 @@ category: concepts
 tags: [science, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "How is Electrification overall progressing"
 ---
 
 ==Source: Ecologie360 #10 & #11==

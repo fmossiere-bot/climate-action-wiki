@@ -4,6 +4,7 @@ category: solutions
 tags: [science, carbon, phaseout]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "How much energy do wind turbines produce, Wind energy, not at all Cost, Additionally, the industry is already thinking about recycling blades, RWE’s largest offshore wind farm in construction - Sofia - enters agreement with Siemens Gamesa for recyclable blades, Parking building is made using decommissioned wind turbines, China Historic Break-through  with cost at 1/5 of the US, Wind Energy in France, Recycling Blades, Source"
 ---
 
 ***Source***: Global Wind Energy Council: https://gwec.net/global-wind-report-2022/

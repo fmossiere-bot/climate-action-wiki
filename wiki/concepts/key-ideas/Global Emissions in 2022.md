@@ -4,6 +4,7 @@ category: concepts
 tags: [carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Land-based emissions, Looking at energy-related CO2 emissions only, Transport (16,2%), Agriculture, Forestry and Land Use (18.4%), Source, Sources"
 ---
 
 When we look at global emissions, we often look at purely CO2 emissions, then combined with non-CO2 Greenhouse Gaz emissions (GHG) such as Methane, Notrous Oxide and Fluorinated Gases

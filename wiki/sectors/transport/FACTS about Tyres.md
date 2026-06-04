@@ -4,6 +4,7 @@ category: sectors
 tags: [carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "How about the impact of your tyres, Environmental Impact, CO2-e Impact, Update on Michelin Sustainability Goals, Resource Consumption, Energy Use and Emissions, Pollution, Waste and Disposal Issues, Tire Burning, Microplastics and Particulate Emissions, Water Runoff, Innovation and Sustainability Efforts, Manufacturing Emissions, Raw Material Extraction, Transport Emissions, End-of-Life Emissions, Lifecycle Emissions, Innovations to Reduce CO2"
 ---
 
 ## How about the impact of your tyres

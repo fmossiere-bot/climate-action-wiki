@@ -4,6 +4,7 @@ category: concepts
 tags: [science, finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Sarvodaya (Sri Lanka), The Green Deal (US), Sustainable Development Model (Costa Rica), In the News, Costa Rica has recovered its forest coverage from early XX's, The Doughnut Economics (UK), Updated Version September 2025, Planet Boundaries, value people and the planet"
 ---
 
 [LINK](https://textbook.terra.do/class/m-development-1)

@@ -4,6 +4,7 @@ category: solutions
 tags: [behaviour, carbon, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Washing Cold Saves Money Short and Long Term, The hidden environmental costs of washing on hot, Contents Page"
 ---
 
 #household 

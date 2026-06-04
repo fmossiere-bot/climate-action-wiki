@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Summary Electricity Capacity, 🌐 Converting to GWh, Share of Energy consumption, Imports, What is today STATUS Quo in terms of main energy sources, What are the Opportunities and Challenges, IRELAND Energy pathway to net-zero, UPDATES on Progress, installed electricity capacity, ~13.3 GW total, 7.36 GW is fully dispatchable, intermittent renewables, ~4.8 GW wind, Solar PV, energy storage, 0.72 GWh, Capacity (GW), potential energy output, continuously for an hour, 13.3 GWh, 319 GWh/day, 116,500 GWh/year, Renewable Energy, Natural Gas, Biomass, Imported Electricity, Peat"
 ---
 
 #ireland #energy 

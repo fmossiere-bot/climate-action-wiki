@@ -4,6 +4,7 @@ category: sectors
 tags: [methane, food, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "From Better Breeding to Cow-Burp Vaccines, Emerging Solutions Could Curb Agricultural Emission, Making Livestock More Efficient, Stopping Methane Before it Escapes: Methane Inhibitors, Breeding Low-Methane Cows, Anti-Methane Vaccines, Alternatives to Manure Digesters, Curbing Methane from Rice, The breakthrough technology reducing greenhouse gas emissions, The impact of Digester for manure - a real solution to livestock emissions, “enteric fermentation.”, Manure, Rice farming, Burning crop “residues”, methane-inhibiting feed additives, 3-nitroxypropanol (3-NOP), low-methane cows, methane vaccines, more than 80%, What is Manure, slurry, Why manure creates methane, without oxygen, In Ireland: manure vs cows themselves, much bigger methane source is the cow’s digestion, Enteric fermentation, Manure management, about 5 times larger, Cut manure methane emissions, digestate, The catch in Ireland, wet and relatively low-energy, co-digestion"
 ---
 
 #methane #agriculture 

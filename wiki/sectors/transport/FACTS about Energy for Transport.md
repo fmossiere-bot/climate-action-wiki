@@ -4,6 +4,7 @@ category: sectors
 tags: [ev, alternative-fuels, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "is outweighed by the rising popularity of heavier"
 ---
 
 Source: https://www.ren21.net/gsr-2022/pages/keymessages/keymessages/#key-power:~:text=RENEWABLE%20ENERGY%20IN%20TOTAL%20FINAL%20ENERGY%20CONSUMPTION%2C%20BY%20FINAL%20ENERGY%20USE%2C%202019

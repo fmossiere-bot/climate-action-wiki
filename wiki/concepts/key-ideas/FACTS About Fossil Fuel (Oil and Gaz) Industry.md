@@ -4,6 +4,7 @@ category: concepts
 tags: [fossil-fuels, research, phaseout]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "The misleading of the Fossil Industry, Reality check of Big Oil commitment to Climate, Challenges: SUBSIDIES, Join the fight, put pressure, About Equity and Climate Justice in transitioning off Fossil Fuel, Global Contest - Fossil fuel finance is still booming, The TRANSITION Risk of the Fossil Fuel Industry, SLIDES from Lab talk in TERRA with Dr Zach Brown, denial, deflection, doomsaying, Morocco, $5.9 trillion, Optional further reading"
 ---
 
 #research #fossilfuel 

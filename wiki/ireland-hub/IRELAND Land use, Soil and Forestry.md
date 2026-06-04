@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, forest, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Sitka Spruce — Greenwashing in Irish Schools (2026), The Irish Soil Information System project has developed a national association soil map for Ireland at a scale of 1:250,000, together with an associated digital soil information system, providing both spatial and quantitative information on soil types and properties across the country, Climate change is impacting Forest Management, and foresters need to adapt, Interesting Update on Promoting Forestry Scheme, Infographic on Forest Strategy, Video Summary, Interesting Irish Company providing Forestry Consultancy, Potential land available for afforestation in ireland, Peatlands as part of the 2050 strategy, Enhanced Decommissioning, Rehabilitation and Restoration Scheme, National Parks and Wildlife Service Peatlands Restoration Programme, Miyawaki method shows dense Irish forest can grow rapidly, Thinking about the Amazon, Irish Wildlife Trust, ecological dead zones, systemic gap, 10% of the land-cover of ireland, Avg European number is 39.8%, Carbon reservoir, 312 million tonnes of carbon in 2017, 37-58% by 2030, Forestry Programme in 2023, 65,000 ha of peatlands, 8,000 ha/year, INTERESTING LINKS"
 ---
 
  #forest #carbonremoval #ireland 

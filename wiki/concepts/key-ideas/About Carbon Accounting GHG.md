@@ -4,6 +4,7 @@ category: concepts
 tags: [carbon, esg, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "From UCD course on Carbon accounting"
 ---
 
 #ucd #carbon-accounting #carbon-accounting 

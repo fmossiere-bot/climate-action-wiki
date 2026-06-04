@@ -4,6 +4,7 @@ category: climate-finance
 tags: [finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Fossil Fuel Investment relies on your money, Project Drawdown Takeaways, Divesting Money Decreases Emissions, Making the Switch: A Step-by-Step Guide, Week1: Research and Explore, Week 2: Initiate the transfer (if applicable) , Week 3 & 4: Patience, Funds to Look Into"
 ---
 
 #finance 

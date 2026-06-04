@@ -4,6 +4,7 @@ category: concepts
 tags: [behaviour, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "2) Impactful Sectors Like Air Travel and Food Are Often Overlooked, 3) Climate Plans Should Rely on More Tools to Drive Behavior Change, Enhanced information, Incentives and disincentives, Improving the decision-making context"
 ---
 
 Source: https://www.wri.org/insights/behavior-change-reduce-emissions-climate-plans

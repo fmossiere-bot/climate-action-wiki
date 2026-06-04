@@ -4,6 +4,7 @@ category: standards
 tags: [esg]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "What is Ecovadis, Ecovadis certifications, The Process, Medals, The Subscriptions, EcoVadis methodology"
 ---
 
 #standard 

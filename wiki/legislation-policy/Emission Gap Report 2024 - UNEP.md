@@ -4,6 +4,7 @@ category: legislation
 tags: [science, research, carbon]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "2023 emissions, Current Policies, NDCs unconditional and conditional are not enough, Immediate ACTION Matters"
 ---
 
 Source: [https://www.unep.org/resources/emissions-gap-report-2024](https://www.unep.org/resources/emissions-gap-report-2024)

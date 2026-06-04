@@ -4,6 +4,7 @@ category: sectors
 tags: [building-industry, circularity]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "House in France with Bamboo structure, House made of Wood Structure"
 ---
 
 #building-industry 

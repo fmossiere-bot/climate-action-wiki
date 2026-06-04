@@ -4,6 +4,7 @@ category: climate-science
 tags: [science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "1. Climate modelling - Understanding the Energy Balance, What's a Model, Energy IN, Energy OUT, Practice, Other factors that affect the Earth's climate include, 2. Radiative Forcing and Human Impact on Climate, Temperatures are up, too, Temperatures are rising because we are increasing radiative forcing, Scientists have attempted to quantify how different factors “force” the climate system one way or another, Yes, we are the culprits, Here's a more detailed look at emissions and their sources, Is your answer to the first question 255 K, 3 million years ago, Radiative forcing = Incoming Energy – Outgoing Energy, _Optional further reading:_"
 ---
 
 - [x] Reviewed

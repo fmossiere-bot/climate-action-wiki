@@ -4,6 +4,7 @@ category: sectors
 tags: [ai, biodiversity, nature]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Objective, What is the difference between ecosystems and Biodiversity, Decline due to Human Action, Timeline of Biodiversity Action, Global Biodiversity Framework, Harness Digital Transformation for Biodiversity Action, Conservation of Biodiversity, LAND AND FRESHWATER, OCEANS, FOOD SYSTEMS, CITIES AND INFRASTRUCTURE, Ecosystem Restoration, CITIES AND INFRASCTRUCTURE, Sustainable use of Biodiversity, Biodiversity Outlook, WWF extracted Forest report, a world living in harmony with nature by 2050, 12 million hectares lost annually"
 ---
 
 **Digital Sustainability for Biodiversity Action

@@ -4,6 +4,7 @@ category: sectors
 tags: [food, adaptation, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Solar Power Doubled Mango Production — and Farmers’ Incomes — in Chamwino, Tanzania, Chemical Free farming brings life back to rural France, irrigation and intercropping, heavy pesticide use, massive monocultures, agroecology, soil conservation, pollinators, high yield and profit, public health and nature"
 ---
 
 #agriculture 

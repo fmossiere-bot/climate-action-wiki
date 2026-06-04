@@ -4,6 +4,7 @@ category: solutions
 tags: [methane, carbon, food]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "SCENARIOS, Interest for farmers - new revenue stream"
 ---
 
 #methane 

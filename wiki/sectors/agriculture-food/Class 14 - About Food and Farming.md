@@ -4,6 +4,7 @@ category: sectors
 tags: [food, science, methane]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Key Challenges of the Global Food System, Challenge 1: Food and Farm workers are exploited by the current system, Challenge 2: Healthy and nutritious food is inequitably distributed, Challenge 3: it's not just the climate and emissions, Challenge 4: challenging for food producers anywhere to make a living, Regenerative Agriculture 101 and Soil Health Principles, The centre of everything is SOIL, Principle 1 - Keep the soil covered, Principle 2 - Minimize Disturbance, Principle 3 - Maximise diversity, Principle 4 - Keep living roots in the ground, Principle 5 - Integrate animals, Decarbonizing our Food System : The HOW, Alternatives to direct payments for soil carbon storage, What activities in the food system should we focus on, Group LAB, DEEP DIVE LAB with Dr Laney Siegner, Perennial Systems, Today’s conversations about food and farming systems, chemical fertilizers, perticides and herbicides, Individual habits have impact, Climate farm academy, Food Waste"
 ---
 
 #food-systems #subsidies 

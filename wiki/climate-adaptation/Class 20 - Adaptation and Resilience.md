@@ -4,6 +4,7 @@ category: climate-adaptation
 tags: [adaptation, science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Definitions, Contexts and Framing quesitons, Remember, Resilience: The Common Threads, The IPCC 's working group II Report, Resilience of what, Resilience over what timeframe, Resilience for whom, Resilience to what, A Framing Cycle, Different people make different system boundary judgements, Integrated Operational Framework, Food Systems and Climate Change, How Climate Change Affects Food Systems, Extreme Weather and Food Security, Adaptation and Resilience in the Food System: A Framework, Mitigation and Adaptation, Food, Migration, and Climate Change, Case Studies, First Assessment of Australia Risk Assessment, The Planetary Boundaries, The origine of Resilence"
 ---
 
 - [x] Reviewed

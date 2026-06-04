@@ -4,6 +4,7 @@ category: climate-science
 tags: [science]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Energy vs Power, Efficiency and Capacity Factor, Load Curve & Load Duration Curve, Quantitative Analysis for Solar and Wind Energy, Economics: The cost of producing electricity, Energy, Energy content of fuels, Carbon intensity of fuels, Power, unit conversions, Global Energy Mix projection, Load curve, Load Duration Curve(LDC), Some influential studies include, Europe, Columbia University's, Philippines, India, Australia, Capital costs, _Fixed_ operation and management costs, _Variable_ operation and management costs, Fuel costs, Transmission costs, levelized cost of energy, levelized cost of electricity (LCOE)"
 ---
 
 ## Energy vs Power

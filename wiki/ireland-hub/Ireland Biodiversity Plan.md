@@ -4,6 +4,7 @@ category: ireland-hub
 tags: [ireland, biodiversity, nature]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Why does it exist, What does the plan include, What makes it different from previous plans, Some of the Key Actions, How Ireland's industrial estates can help save our bees, Ponds put under microscope as new study probes their role in supporting pollinators, National Plan, The two main official sources are, gov.ie, npws.ie, In short, 1. Restore and rewet peatlands (bogs), 2. Create Marine Protected Areas, 3. Tackle invasive species more aggressively, 4. Make farming more nature-friendly, 5. Expand and protect National Parks"
 ---
 
 #biodiversity #ireland 

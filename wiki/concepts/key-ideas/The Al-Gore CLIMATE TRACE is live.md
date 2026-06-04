@@ -4,6 +4,7 @@ category: concepts
 tags: [science, carbon, research]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "deeply flawed, based on data provided by the polluters themselves, years later, Climate TRACE, Al Gore"
 ---
 
 [^1]==Source:  [FORBES Article](https://www.forbes.com/sites/we-dont-have-time/2025/04/21/al-gores-real-time-climate-data-just-went-live-heres-why-it-matters/)==

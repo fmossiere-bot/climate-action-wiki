@@ -4,6 +4,7 @@ category: climate-science
 tags: [science, aerosols]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "On a Positive Note, OZONE Layer Damaging, China"
 ---
 
 #facts #climate-change

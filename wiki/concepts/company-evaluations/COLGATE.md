@@ -4,6 +4,7 @@ category: concepts
 tags: [esg, greenwashing]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Some facts about Colgate-Palmolive, Greenwashing, Podcast - interview of CSO - Colgate Circularity journey, Talking Trash - not performing, Sustainability Report and Main Targets, Ambiguity around “recyclable tube”, what fraction, Product innovation, monomaterial HDPE toothpaste tube, Legal / industry challenge"
 ---
 
 ## Some facts about Colgate-Palmolive

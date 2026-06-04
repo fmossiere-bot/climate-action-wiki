@@ -4,6 +4,7 @@ category: sectors
 tags: [science, phaseout, fossil-fuels]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "The specific of INDIA, What about the USA, A quick word on CHINA, Electricity Efficiency, Solar Panels, Wind Turbine, Source of Clean Energy, Biomass, Nuclear, Hydropower, Storage, Hydrogen as a Storage solution, Energy Access isn’t equal, Stop Subsidising Fossil Fuel, Renewable energy creates jobs, The Global Power sector has nearly reached Peak GHG Emissions, Wind farms and Solar, consumes 11x, 39% of electricity, Source, $5.9tn 2020, fallen nearly 3%"
 ---
 
  - [x] Reviewed

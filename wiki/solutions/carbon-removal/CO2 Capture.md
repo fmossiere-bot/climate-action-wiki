@@ -4,6 +4,7 @@ category: solutions
 tags: [carbon, science, finance]
 created: 2026-06-01
 updated: 2026-06-01
+summary: "Technologie - Capture from Power plants, California Start-up to 'sponge ' CO2 from the atmosphere - Heirloom Carbon"
 ---
 
 This is another popular solution, which is seeing a lot of investment at the moment, while the amount being removed technically remain very low. 
