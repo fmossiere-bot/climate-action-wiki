@@ -1560,6 +1560,20 @@
     ]
   },
   {
+    "slug": "agriculture-planetary-footprint",
+    "filename": "sectors/agriculture-food/agriculture-planetary-footprint.md",
+    "label": "Agriculture's Planetary Footprint",
+    "summary": "agriculture land use, food systems, deforestation, biodiversity loss, species extinction, water use, irrigation, freshwater depletion, nitrogen pollution, fertiliser runoff, dead zones, Gulf of Mexico, Aral Sea, methane from cattle, nitrous oxide, greenhouse gas emissions, animal feed, meat and dairy, Green Revolution, cerrado, Amazon, oil palm, soy, food and climate change, Project Drawdown",
+    "category": "sectors",
+    "tags": [
+      "agriculture",
+      "food",
+      "biodiversity",
+      "carbon",
+      "nature"
+    ]
+  },
+  {
     "slug": "alternative-constructions-examples",
     "filename": "sectors/buildings/Alternative Constructions examples.md",
     "label": "Alternative Construction Examples",
@@ -1568,6 +1582,20 @@
     "tags": [
       "building-industry",
       "circularity"
+    ]
+  },
+  {
+    "slug": "ai-emissions-and-corporate-responsibility",
+    "filename": "sectors/digital/AI Emissions and Corporate Responsibility.md",
+    "label": "AI Emissions and Corporate Responsibility",
+    "summary": "AI emissions, LLM carbon footprint, GPU electricity, inference vs training, data centers, Jevons paradox, AI procurement, vendor evaluation, renewable energy, PPA, REC, scope 2, carbon intensity, grid decarbonization, AI and sustainability, measuring AI emissions, token count, model ID, corporate sustainability, AI efficiency, right-sizing models, context stuffing, sustainability AI tools",
+    "category": "sectors",
+    "tags": [
+      "ai",
+      "digital",
+      "energy",
+      "esg",
+      "carbon"
     ]
   },
   {
@@ -2413,6 +2441,33 @@
     "tags": []
   },
   {
+    "slug": "data-centers-environmental-footprint-us-2021",
+    "filename": "sources/data-centers-environmental-footprint-us-2021.md",
+    "label": "The Environmental Footprint of Data Centers in the United States",
+    "summary": "data centers, water footprint, carbon footprint, US data centers, water scarcity, water stress, GHG emissions, PUE, power usage effectiveness, hyperscale data centers, geographic location, energy mix, watersheds, cooling towers, wastewater, electricity grid, carbon intensity, water-energy nexus, environmental footprint",
+    "category": "sources",
+    "tags": [
+      "digital",
+      "energy",
+      "carbon",
+      "research"
+    ]
+  },
+  {
+    "slug": "foley-food-farming-fate-earth-2024",
+    "filename": "sources/foley-food-farming-fate-earth-2024.md",
+    "label": "How Food and Farming Will Determine the Fate of Planet Earth",
+    "summary": "agriculture planetary footprint, food systems, land use, deforestation, biodiversity loss, water use, irrigation, nitrogen pollution, fertiliser runoff, methane, greenhouse gas emissions, food and climate, Green Revolution, meat and dairy, animal feed, dead zones, Gulf of Mexico, Aral Sea, Project Drawdown",
+    "category": "sources",
+    "tags": [
+      "agriculture",
+      "food",
+      "biodiversity",
+      "carbon",
+      "nature"
+    ]
+  },
+  {
     "slug": "sitka-spruce-greenwashing-ireland-2026",
     "filename": "sources/sitka-spruce-greenwashing-ireland-2026.md",
     "label": "Wildlife experts call for 'misleading' timber industry book to be removed from schools",
@@ -2427,6 +2482,20 @@
     "summary": "What this source covers, Key facts and figures, Main arguments, Wiki pages informed by this source, 4 million UK homes, 22% of British homes, 4.87kg CO2, £5/day, 15–31p/day, 3 units of cooling for every 1 unit of electricity, £2,500 grant",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "watershed-ai-emissions-guide-2025",
+    "filename": "sources/watershed-ai-emissions-guide-2025.md",
+    "label": "AI Emissions: A Practical Guide for Corporate Sustainability Leaders",
+    "summary": "AI emissions, LLM emissions, GPU electricity, inference vs training, data centers, carbon footprint of AI, Jevons paradox, responsible AI procurement, AI vendor evaluation, measuring AI emissions, grid decarbonization, renewable energy, PPA, REC, carbon intensity, scope 2, corporate sustainability, AI and climate",
+    "category": "sources",
+    "tags": [
+      "ai",
+      "digital",
+      "energy",
+      "esg",
+      "carbon"
+    ]
   },
   {
     "slug": "7-principles-to-sustainability-reporting",
