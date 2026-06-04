@@ -49,18 +49,28 @@ wiki/                   → Everything here is written and maintained by you.
 2. Wiki is yours. You create and maintain everything in wiki/.
 3. Audience first. Every page should be understandable to a curious 
    non-expert. Avoid jargon. When technical terms are needed, explain them.
-4. Always cite sources. Every claim should reference a source using 
+   Write for a European audience: use British/European spelling and phrasing,
+   avoid American idioms (e.g. use "rubbish" not "trash", "autumn" not "fall",
+   "lorry" not "truck"). Keep the tone accessible and conversational, not 
+   corporate or formal.
+4. No em-dashes. Never use — in body text. Use a comma, full stop, or 
+   restructure the sentence instead.
+5. Always cite sources. Every claim should reference a source using 
    relative markdown links to other wiki pages. Never link to raw/ files.
-5. Use relative markdown links for all internal links, not Obsidian 
+6. Use relative markdown links for all internal links, not Obsidian 
    wikilinks. Format: [Page Title](../category/page-name.md)
    Example: [COP30](../concepts/cop30.md)
-6. Before creating a new wiki page, always check if a relevant page 
+7. Before creating a new wiki page, always check if a relevant page 
    already exists. If it does, update and enrich it rather than 
    creating a duplicate.
 
 ## Wiki Page Format
 
-Every wiki page must follow this structure:
+Use the **Article template** for short web articles and blog posts.
+Use the **Paper template** for PDFs, research reports, and documents 
+longer than ~10 pages.
+
+Both templates share the same frontmatter block:
 
 ---
 title: [Page Title]
@@ -78,26 +88,72 @@ summary: [10–20 comma-separated keywords and topics covered in this page,
           marine biodiversity, sea temperature, plastic pollution, whales]
 ---
 
+### Article template
+
+Use for web articles, news pieces, and short reports (under ~10 pages).
+
 # [Page Title]
 
 ## What is it
-Plain explanation in 2-3 paragraphs. No jargon.
+Plain explanation in 2-3 paragraphs. No jargon. **Bold** the most 
+important term or concept on first use.
 
 ## Why it matters
 Why should a non-expert care about this topic.
 
 ## Key facts
 Bullet points with the most important data or facts, each cited.
+Maximum 7 bullets.
 
 ## Connected topics
-Links to related wiki pages using [[wikilinks]].
+Links to related wiki pages.
+
+## Sources
+[Original publication name, author, date, and URL if available — not the raw file path]
+
+---
+
+### Paper template
+
+Use for PDFs, research reports, and documents longer than ~10 pages.
+
+# [Page Title]
+
+## What it is
+One short paragraph: what this paper is, who wrote it, and its central 
+argument. **Bold** the single most important claim.
+
+## Why it matters
+2-3 sentences on why a non-expert should care.
+
+## [Thematic section title — e.g. "Methane Leakage from Livestock"]
+3-5 sentences on this theme. **Bold** the 1-2 most important terms or 
+findings. Repeat this section up to 4 more times for distinct themes.
+
+**Guardrails:**
+- Maximum 5 thematic sections total. Pick the 5 most distinct and 
+  important themes — do not create one section per chapter.
+- A theme earns its own section only if someone searching for that 
+  topic would expect to find it here. Minor mentions belong in the 
+  `summary` frontmatter field instead.
+- Each section: 3-5 sentences max.
+- Total body target: 600-800 words.
+
+## Summary findings
+Up to 7 bullet points with the most citable, specific data points, 
+each cited.
+
+## Connected topics
+Links to related wiki pages.
 
 ## Sources
 [Original publication name, author, date, and URL if available — not the raw file path]
 
 ## Tagging Rules
 
-- Always use lowercase with hyphens: #fossil-fuels not #fossil-fuels
+- Always use lowercase with hyphens: #fossil-fuels not #Fossil-Fuels
+- In YAML frontmatter, always quote tags to avoid the # being parsed as a comment:
+  tags: ["#fossil-fuels", "#energy"] — not tags: [#fossil-fuels, #energy]
 - First choice: always pick from the standard tags list below
 - Second choice: if no standard tag fits, you may create a new one 
   but only if the topic is clearly significant and likely to appear 
@@ -164,9 +220,9 @@ To build the correct relative path:
 3. Then into the target category folder
 4. Then the filename
 
-### Links in Key facts
+### Links in Key facts / Summary findings
 Only link to other wiki pages. Never add [[wikilinks]] or links 
-pointing to raw/ source files inside the Key facts section.
+pointing to raw/ source files inside the Key facts or Summary findings sections.
 
 ### Sources section (bottom of page)
 List the original publication details here, not the raw file path.

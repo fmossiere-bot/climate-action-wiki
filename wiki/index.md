@@ -14,6 +14,9 @@ Summaries of every ingested source file.
 | [[colombia-santa-marta-fossil-fuel-talks-2026]] | Guardian article (Apr 2026): ~60 countries agree voluntary fossil fuel phaseout roadmaps at Santa Marta |
 | [[uk-air-conditioning-green-2026]] | Guardian article (May 2026): environmental trade-offs of home AC in the UK — types, costs, greener options |
 | [[sitka-spruce-greenwashing-ireland-2026]] | Irish Times article (Apr 2026): industry-funded children's book promoting Sitka spruce plantations distributed to Irish schools |
+| [[foley-food-farming-fate-earth-2024]] | Project Drawdown, Foley (Mar 2024): agriculture as the planet's biggest environmental disruptor — land, water, biodiversity, climate |
+| [[watershed-ai-emissions-guide-2025]] | Watershed (2025): practical guide to understanding, measuring, and reducing corporate AI emissions |
+| [[data-centers-environmental-footprint-us-2021]] | Siddik et al., Env. Res. Letters (2021): first sub-national study of US data centre water and carbon footprints |
 
 ---
 
@@ -145,6 +148,7 @@ Funding the transition — investment, risk, green banking.
 | Class 14 - About Food and Farming | Terra.do Class 14: food systems |
 | FACTS about CHOCOLATE and CACAO | Environmental impact of chocolate |
 | FACTS about Farming and Food production | Farming's climate footprint |
+| [[agriculture-planetary-footprint]] | **NEW** — Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
 | FACTS about RICE production | Rice emissions and impact |
 | Food Carbon FootPrint | Food's overall carbon footprint |
 | Is the meat industry following the Oil Industry? | Parallels between meat and fossil fuels |
@@ -166,6 +170,8 @@ Funding the transition — investment, risk, green banking.
 | Carbon Footprint of an iPhone | Lifecycle emissions of smartphones |
 | Digital4Sustainability - INTRO / MODULE 1–4 | Digital sustainability course notes |
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
+| [[AI Emissions and Corporate Responsibility]] | **NEW** — AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
+| [[Data Centre environmental footprint]] | **NEW** — US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
 | FACTS about general Digital Use | Digital activity emissions |
 | The Environmental Impact of Bitcoin | Bitcoin energy use |
