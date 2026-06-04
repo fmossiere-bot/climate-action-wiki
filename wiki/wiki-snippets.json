@@ -1607,6 +1607,14 @@
     "tags": []
   },
   {
+    "slug": "cryptocurrency-and-the-environment",
+    "filename": "sectors/digital/Cryptocurrency and the environment.md",
+    "label": "Cryptocurrency and the Environment",
+    "summary": "Why is Kazaksthan 18% of the mining industry, 1. Abundant and Cheap Energy Supply, 2. Favorable Regulatory Environment, 3. Geographical and Climatic Conditions, 4. Political Stability and Strategic Location, 5. Growing Infrastructure for Mining, Challenges and Considerations, Other Sources, Bitcoin Infographic, Abundant and Cheap Energy Supply, Favorable Regulatory Environment, Geographical and Climatic Conditions, Political Stability and Strategic Location, Growing Infrastructure for Mining, bitcoin, the impact of cryptocurrencies on the environment, where crypto mining happens, the water footprint of mining crypto",
+    "category": "sectors",
+    "tags": []
+  },
+  {
     "slug": "digital4sustainability-intro",
     "filename": "sectors/digital/Digital4Sustainability - INTRO.md",
     "label": "Digital4Sustainability - Intro",
@@ -1671,18 +1679,6 @@
     "filename": "sectors/digital/FACTS about AI, Emissions impacts and mitigation potential.md",
     "label": "FACTS about AI, Emissions Impacts and Mitigation Potential",
     "summary": "Research published by ICEF, Collect cool examples of AI application for Climate Mitigation, Satellite detection of Methane leaks, AI and Flying, Impact on energy consumption in the US due to new data centers, Opinions, Podcast Hard Fork, AI needs to become much more efficient and its use more calculated, France is investing in AI, REFERENCE, Key findings, Microsoft's emissions rose nearly 30% since 2020, Concerns, Podcast",
-    "category": "sectors",
-    "tags": [
-      "ai",
-      "carbon",
-      "science"
-    ]
-  },
-  {
-    "slug": "facts-about-cryptocurrency-and-the-environment",
-    "filename": "sectors/digital/FACTS about Cryptocurrency and the environment.md",
-    "label": "FACTS about Cryptocurrency and the Environment",
-    "summary": "Why is Kazaksthan 18% of the mining industry, 1. Abundant and Cheap Energy Supply, 2. Favorable Regulatory Environment, 3. Geographical and Climatic Conditions, 4. Political Stability and Strategic Location, 5. Growing Infrastructure for Mining, Challenges and Considerations, Other Sources, Bitcoin Infographic, Abundant and Cheap Energy Supply, Favorable Regulatory Environment, Geographical and Climatic Conditions, Political Stability and Strategic Location, Growing Infrastructure for Mining",
     "category": "sectors",
     "tags": [
       "ai",
