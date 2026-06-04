@@ -7,8 +7,6 @@ updated: 2026-06-01
 summary: "The Unsung Heroes: Why Grasslands Matter (Globally and in Ireland), An Underrated Ecosystem, What does that mean in the context of Ireland, What are the potential benefits of planting hedgerows and trees in Irish grasslands, Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches, up to 34% of the world's terrestrial carbon, ninety percent stored underground, third of Key Biodiversity Areas, 90 plant species per square meter, 1 billion people worldwide depend on grasslands, US$20.8 trillion in economic value annually, biodiversity strategies, Raising awareness, biodiversity-friendly practices, 1. Carbon Sequestration and Climate Mitigation, 2. Biodiversity Enhancement, 3. Soil and Water Quality Improvement, 4. Agricultural Benefits, 5. Cultural and Landscape Value, 6. Human Wellbeing, 3. Partnering with Farmers and Conservation Groups, 4. Raising Awareness and Building Capacity, 6. Supporting Pollinator-Friendly Actions"
 ---
 
-#carbon-sink  #ireland #agriculture 
-
 # SUMMARY
 Here is a blog post highlighting the importance of grasslands, their role in Ireland, and how corporations can contribute to their protection:
 
@@ -53,9 +51,6 @@ But they also support communities and livelihoods:
 - Grasslands hold significant cultural, historical, and spiritual importance for many communities, especially Indigenous Peoples, with traditions and practices deeply connected to these ecosystems13.... These communities often play a crucial role in grassland protection
 
 
-![[Screenshot 2025-05-08 at 11.27.12.png]]
-
-
 > [!NOTE] The article mentions several key figures related to the benefits and status of grasslands:
 >  
 > - Grasslands account for up to 34% of the world's terrestrial carbon4.
@@ -73,14 +68,7 @@ But they also support communities and livelihoods:
 > - Grassland conversion could cause up to 4.25 gigatons of emissions globally by 205016.
 > - Native American Nations, together with ranching and farming families, own and oversee 85% of the remaining intact Northern Great Plains grassland3.
 
-![[Screenshot 2025-05-08 at 11.27.30.png]]
-
-
 ## What does that mean in the context of Ireland? 
-#ireland 
-
-Source: https://docs.google.com/document/d/1KsCSQs_ADYS6DKY4Evrwe3_6iSCQUEv5rZhmAccWpGo/edit?tab=t.0 
-Source: 
 
 We talk a lot about forest management, afforestation, restoration of wetlands, but much less of the role grasslands play, or can play, in Carbon capture. 
 
@@ -101,7 +89,7 @@ This grassland is essentially Permanent grassland characterized by agricultural 
 > The Climate Action Plan integrates grassland management into Irelandʼs broader climate goals by improving grassland soil carbon sequestration, reducing emissions from peat soils, promoting afforestation and hedgerows, reducing fertilizer use, and supporting organic and biodiversityfriendly farming. These combined measures aim to reduce net emissions from grasslands and LULUCF by 2030, contributing to Irelandʼs overall climate targets.
 > 
 > To achieve these economy-wide targets, legally binding five-year carbon budgets and sectoral emissions ceilings have been established. The agriculture sector has a specific emissions reduction target, which was stated as 25% by 2030 in some analyses, though the precise figure within the latest CAP should be verified against the most current official documentation. The Land Use, Land-Use Change, and Forestry (LULUCF) sector has a distinct objective: to reduce net emissions by 0.626 Mt $CO_2$eq by the year 2030, relative to an average baseline from the years 2016, 2017, and 2018.15
-> More details can be find on this [summary from Gemini](https://docs.google.com/document/d/1KsCSQs_ADYS6DKY4Evrwe3_6iSCQUEv5rZhmAccWpGo/edit?tab=t.0)
+>
 
 
 
@@ -117,74 +105,72 @@ Planting hedgerows and trees in Irish grasslands offers multiple environmental, 
 
 **1. Carbon Sequestration and Climate Mitigation**
 
-- Hedgerows can sequester 50% more carbon than forestry, making them highly effective natural carbon sinks on farms[3](https://www.agriland.ie/farming-news/could-our-hedgerows-be-a-greater-sink-than-source-of-greenhouse-gases/).
-- Trees absorb CO2, helping to mitigate climate change by storing carbon in biomass and soils[2](https://www.cloudforests.ie/blog/revitalising-irelands-ecosystems-through-tree-planting).
-
-![[Screenshot 2025-05-08 at 11.53.05.png]]
+- Hedgerows can sequester 50% more carbon than forestry, making them highly effective natural carbon sinks on farms
+- Trees absorb CO2, helping to mitigate climate change by storing carbon in biomass and soils
 
 
 **2. Biodiversity Enhancement**
 
-- Hedgerows provide vital habitats, food, shelter, nesting, and hibernation sites for many native flora and fauna, including birds, bats, insects, and small mammals[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[4](https://connectingtonature.ie/blogs/news/benefits-of-planting-trees-and-hedging).
-- They act as wildlife corridors, allowing movement and genetic exchange between habitats[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[4](https://connectingtonature.ie/blogs/news/benefits-of-planting-trees-and-hedging).
-- A single mature tree can support hundreds of species, significantly boosting local biodiversity[4](https://connectingtonature.ie/blogs/news/benefits-of-planting-trees-and-hedging).
+- Hedgerows provide vital habitats, food, shelter, nesting, and hibernation sites for many native flora and fauna, including birds, bats, insects, and small mammals
+- They act as wildlife corridors, allowing movement and genetic exchange between habitats
+- A single mature tree can support hundreds of species, significantly boosting local biodiversity
 
 **3. Soil and Water Quality Improvement**
 
-- The root systems of hedgerows and trees stabilize soils, reducing erosion and preventing sediment runoff into watercourses[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[2](https://www.cloudforests.ie/blog/revitalising-irelands-ecosystems-through-tree-planting)[5](https://www.nationalruralnetwork.ie/wp-content/uploads/2019/04/Hedgerow-CasestudyASPaul21-Send-for-New-Website.pdf).
-- They help filter pollutants and nutrients, improving water quality in adjacent rivers and aquifers[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[2](https://www.cloudforests.ie/blog/revitalising-irelands-ecosystems-through-tree-planting).
-- Hedgerows intercept water flow, helping to control flooding[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/).
+- The root systems of hedgerows and trees stabilize soils, reducing erosion and preventing sediment runoff into watercourses
+- They help filter pollutants and nutrients, improving water quality in adjacent rivers and aquifers
+- Hedgerows intercept water flow, helping to control flooding
 
 **4. Agricultural Benefits**
 
-- Hedgerows provide shelter and protection for livestock and crops, reducing wind speed by up to 50%, which helps prevent heat stress in animals and crop damage[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[5](https://www.nationalruralnetwork.ie/wp-content/uploads/2019/04/Hedgerow-CasestudyASPaul21-Send-for-New-Website.pdf).
-- They serve as cost-effective, long-term stock-proof barriers if well managed[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[5](https://www.nationalruralnetwork.ie/wp-content/uploads/2019/04/Hedgerow-CasestudyASPaul21-Send-for-New-Website.pdf).
-- Shelter from hedgerows can improve animal welfare, especially during harsh weather and lambing seasons[5](https://www.nationalruralnetwork.ie/wp-content/uploads/2019/04/Hedgerow-CasestudyASPaul21-Send-for-New-Website.pdf).
+- Hedgerows provide shelter and protection for livestock and crops, reducing wind speed by up to 50%, which helps prevent heat stress in animals and crop damage
+- They serve as cost-effective, long-term stock-proof barriers if well managed
+- Shelter from hedgerows can improve animal welfare, especially during harsh weather and lambing seasons
 
 **5. Cultural and Landscape Value**
 
-- Hedgerows are part of Ireland’s cultural and historical heritage, often marking ancient boundaries and contributing to the distinct character of rural landscapes[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[5](https://www.nationalruralnetwork.ie/wp-content/uploads/2019/04/Hedgerow-CasestudyASPaul21-Send-for-New-Website.pdf).
-- They enhance scenic appearance and provide natural screening and privacy[1](https://www.teagasc.ie/environment/biodiversity--countryside/farmland-habitats/value-of-hedgerows/)[4](https://connectingtonature.ie/blogs/news/benefits-of-planting-trees-and-hedging).
+- Hedgerows are part of Ireland’s cultural and historical heritage, often marking ancient boundaries and contributing to the distinct character of rural landscapes
+- They enhance scenic appearance and provide natural screening and privacy
 
 **6. Human Wellbeing**
 
-- Exposure to trees and hedgerows reduces stress levels and promotes psychological wellbeing[4](https://connectingtonature.ie/blogs/news/benefits-of-planting-trees-and-hedging).
-- Trees and hedgerows can increase property values and improve the aesthetic appeal of rural and urban areas[4](https://connectingtonature.ie/blogs/news/benefits-of-planting-trees-and-hedging)
+- Exposure to trees and hedgerows reduces stress levels and promotes psychological wellbeing.
+- Trees and hedgerows can increase property values and improve the aesthetic appeal of rural and urban areas
 
 In summary, planting hedgerows and trees in Irish grasslands supports carbon capture, biodiversity, soil and water health, agricultural productivity, cultural heritage, and human wellbeing, making them a key nature-based solution for environmental and climate resilience in Ireland.
 
-![[Screenshot 2025-05-08 at 11.52.46.png]]
+
 
 
 ## Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches
-#coporateaction
+
 
 
 Go beyond the usual initiatives planting trees, there are other way you and your employees can contribute and we can explore it together. 
 
 **1. Funding and Supporting Nature-Positive Farming Initiatives**
 
-- Businesses can provide financial support to projects like the ReFarm initiative, which channels private funding into creating and managing wildlife ponds, hedgerows, woodlands, and species-rich grasslands on farms. This collaboration helps farmers implement biodiversity-friendly practices while allowing companies to meet sustainability reporting requirements under EU directives[2](https://www.tcd.ie/e3/news/businesses-to-support-wildlife-ponds-hedgerows-and-woodlands-through-refarm-initiative/).
+- Businesses can provide financial support to projects like the ReFarm initiative, which channels private funding into creating and managing wildlife ponds, hedgerows, woodlands, and species-rich grasslands on farms. This collaboration helps farmers implement biodiversity-friendly practices while allowing companies to meet sustainability reporting requirements under EU directives.
 
 **2. Developing Corporate Biodiversity Strategies and Action Plans**
 
-- Companies can integrate biodiversity into their corporate social responsibility (CSR) frameworks by adopting biodiversity action plans that align with national biodiversity objectives. This includes investing in ecosystem services, biodiversity offsets, and natural capital accounting to measure and improve their biodiversity impact[1](https://www.npws.ie/sites/default/files/publications/pdf/A-Review-of-Options-to-Enhance-Business-Contribution-to-Irelan's-National-Biodiversity-Objectives.pdf)[4](https://www.tcd.ie/news_events/articles/government-funding-supports-new-platform-that-will-help-businesses-act-for-biodiversity/).
+- Companies can integrate biodiversity into their corporate social responsibility (CSR) frameworks by adopting biodiversity action plans that align with national biodiversity objectives. This includes investing in ecosystem services, biodiversity offsets, and natural capital accounting to measure and improve their biodiversity impact.
 
 **3. Partnering with Farmers and Conservation Groups**
 
-- Corporations can collaborate directly with farmers and environmental organizations (e.g., Burrenbeo Trust, National Biodiversity Data Centre) to support habitat restoration, pollinator-friendly practices, and hedgerow planting. Such partnerships provide farmers with expert advice and resources while delivering measurable biodiversity outcomes[2](https://www.tcd.ie/e3/news/businesses-to-support-wildlife-ponds-hedgerows-and-woodlands-through-refarm-initiative/)[4](https://www.tcd.ie/news_events/articles/government-funding-supports-new-platform-that-will-help-businesses-act-for-biodiversity/)[5](https://www.tirlaningredients.com/biodiversity-and-the-irish-landscape).
+- Corporations can collaborate directly with farmers and environmental organizations (e.g., Burrenbeo Trust, National Biodiversity Data Centre) to support habitat restoration, pollinator-friendly practices, and hedgerow planting. Such partnerships provide farmers with expert advice and resources while delivering measurable biodiversity outcomes.
 
 **4. Raising Awareness and Building Capacity**
 
-- Businesses can participate in platforms like the Irish Business and Biodiversity Platform and the Business for Biodiversity Ireland initiative to increase awareness of biodiversity risks and opportunities. This helps companies understand how their operations affect biodiversity and how they can contribute positively, including through supply chain engagement[1](https://www.npws.ie/sites/default/files/publications/pdf/A-Review-of-Options-to-Enhance-Business-Contribution-to-Irelan's-National-Biodiversity-Objectives.pdf)[3](https://horticultureconnected.ie/featured/growing-for-nature-theres-no-better-time-to-align-your-business-to-biodiversity-and-heres-how/)[4](https://www.tcd.ie/news_events/articles/government-funding-supports-new-platform-that-will-help-businesses-act-for-biodiversity/).
+- Businesses can participate in platforms like the Irish Business and Biodiversity Platform and the Business for Biodiversity Ireland initiative to increase awareness of biodiversity risks and opportunities. This helps companies understand how their operations affect biodiversity and how they can contribute positively, including through supply chain engagement
 
 **5. Implementing Biodiversity-Friendly Land Management Practices**
 
-- Corporations owning or managing land can adopt or promote regenerative farming practices that enhance soil health and habitat diversity, such as maintaining hedgerows, field margins, and species-rich grasslands. These practices support ecosystem connectivity and provide shelter and food for wildlife, benefiting both biodiversity and agricultural productivity[5](https://www.tirlaningredients.com/biodiversity-and-the-irish-landscape).
+- Corporations owning or managing land can adopt or promote regenerative farming practices that enhance soil health and habitat diversity, such as maintaining hedgerows, field margins, and species-rich grasslands. These practices support ecosystem connectivity and provide shelter and food for wildlife, benefiting both biodiversity and agricultural productivity
 
 **6. Supporting Pollinator-Friendly Actions**
 
-- Companies can engage with the All-Ireland Pollinator Plan by sponsoring pollinator habitats on farms and business sites, helping to reverse pollinator declines critical to grassland ecosystem health[3](https://horticultureconnected.ie/featured/growing-for-nature-theres-no-better-time-to-align-your-business-to-biodiversity-and-heres-how/)[4](https://www.tcd.ie/news_events/articles/government-funding-supports-new-platform-that-will-help-businesses-act-for-biodiversity/).
+- Companies can engage with the All-Ireland Pollinator Plan by sponsoring pollinator habitats on farms and business sites, helping to reverse pollinator declines critical to grassland ecosystem health
 
 In summary, corporations contribute by funding and partnering on biodiversity projects, embedding biodiversity in business strategies, supporting farmers with expertise and resources, and raising awareness. These actions help restore and protect grassland biodiversity while aligning business goals with Ireland’s national biodiversity and climate objectives
 
@@ -199,12 +185,6 @@ In summary, corporations contribute by funding and partnering on biodiversity pr
 
 ---
 ---
-# REFERENCES
-
-Gemini - https://docs.google.com/document/d/1KsCSQs_ADYS6DKY4Evrwe3_6iSCQUEv5rZhmAccWpGo/edit?tab=t.0
-Perplexity 
-
-![[Grasslands-Ireland.pdf]]
-
-Notebook LM -  https://notebooklm.google.com/notebook/927f7397-9b44-41ce-9273-299d4231f005?original_referer=https:%2F%2Fwww.ecosia.org%23&pli=1 
-
+## SOURCES
+- https://www.tcd.ie/news_events/articles/government-funding-supports-new-platform-that-will-help-businesses-act-for-biodiversity
+- https://www.tcd.ie/e3/news/businesses-to-support-wildlife-ponds-hedgerows-and-woodlands-through-refarm-initiative/
