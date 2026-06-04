@@ -1,0 +1,44 @@
+name: Build wiki-snippets.json
+
+# Runs whenever wiki content is pushed, then commits the updated
+# wiki-snippets.json back to the repo so api-proxy.php always has
+# a fresh index with real content summaries for LLM retrieval.
+
+on:
+  push:
+    paths:
+      - 'wiki/**/*.md'          # any wiki page added or edited
+      - '.github/scripts/build_snippets.py'  # or the script itself
+
+  workflow_dispatch:            # allow manual trigger from GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write           # needed to push the generated file back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate wiki-snippets.json
+        run: python3 .github/scripts/build_snippets.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add wiki/wiki-snippets.json
+          # Only commit if the file actually changed
+          if git diff --staged --quiet; then
+            echo "No changes to wiki-snippets.json — skipping commit."
+          else
+            git commit -m "chore: regenerate wiki-snippets.json [skip ci]"
+            git push
+          fi
