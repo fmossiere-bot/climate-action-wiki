@@ -1,23 +1,21 @@
 ---
 title: GOOGLE Emissions Profile
 category: concepts
-tags: [esg, ai, carbon]
-created: 2026-06-01
+tags:
+  - ai
+  - water-footprint
+  - carbon-footprint
+  - esg
+  - digital
+created: 2025-01-01
 updated: 2026-06-01
-summary: "Google Emissions go up 50% due to AI demand, Transforming Landfill Waste to Biochar for Carbon Capture"
+summary: Google Emissions go up 50% due to AI demand, Transforming Landfill Waste to Biochar for Carbon Capture, datacentre, datacenter, implication in the increasing need to build new datacentre,, nuclear power for datacentres
 ---
 
-#google #companies-emissions
-
-Things to look into for google:
-- 24/7 carbon-free target
-- Listen to podcast 
 ## Google Emissions go up 50% due to AI demand
 Source: [https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions](https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions)
-#google #energy #digital 
-##### ... and with it Tech giant’s goal of reducing climate footprint at risk as it grows increasingly reliant on energy-hungry data centres
 
-![[Screenshot 2025-05-12 at 09.43.33.png]]
+##### ... and with it Tech giant’s goal of reducing climate footprint at risk as it grows increasingly reliant on energy-hungry data centres
 
 > Google’s goal of reducing its climate footprint is in jeopardy as it relies on more and more energy-hungry data centres to power its new [artificial intelligence](https://www.theguardian.com/technology/artificialintelligenceai) products. The tech giant revealed Tuesday that its greenhouse gas emissions have climbed 48% over the past five years.
 
@@ -50,8 +48,3 @@ Source: https://app.wedonthavetime.org/posts/e4989d8d-9c22-4fcd-a63b-ee133d5f73d
 
 It sounds like it is hoping to capture 200k tonnes of Carbon. Biochar is a powerful carbon capture option, that can be sprayed over agriculture fields. 
 
-
----
-# Google Report
-
-![[google-2024-environmental-report.pdf]]
