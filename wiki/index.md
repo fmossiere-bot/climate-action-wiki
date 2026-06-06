@@ -180,7 +180,7 @@ Funding the transition — investment, risk, green banking.
 | [[AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
 | [[ai-data-centre-energy-crisis]] | **NEW** — UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs |
-| [[underwater-data-centre-china-2026]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
+| [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
 | FACTS about general Digital Use | Digital activity emissions |
 | The Environmental Impact of Bitcoin | Bitcoin energy use |

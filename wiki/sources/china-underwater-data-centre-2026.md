@@ -27,4 +27,4 @@ China has switched on the world's first commercial underwater data centre (UDC),
 - Open questions: ecological effects of releasing heat into local marine environments at commercial scale
 
 ## Wiki pages updated
-- Created new page: [Underwater Data Centre — China 2026](../sectors/digital/underwater-data-centre-china-2026.md)
+- Created new page: [Underwater Data Centre — China 2026](Underwater%20Data%20Centres%20powered%20by%20offshore%20winds%20%20in%20China.md)

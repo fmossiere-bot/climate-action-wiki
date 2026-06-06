@@ -1,31 +1,25 @@
 ---
-title: FACTS about Pet Ownership Environmental Impact
+title: Our Pets environmental impact and how to mitigate it
 category: circularity-waste
-tags: [circularity, food]
-created: 2026-06-01
-updated: 2026-06-01
+tags:
+  - circularity
+  - food
+  - carbon-footprint
+created: 2025-11-01
+updated: 2026-06-06
 summary: "Carbon 'PawPrint' of having a pet, Food, Is Vegetarian Food a good option for Pets, What is the impact of Meat in Pet Food overall Carbon Footprint, The Circular Economy and Blue Waste Upcycling - HARLEY & MARLEY, Renewable Infrastructure and Biodiversity Reserves: Go Native, Conclusions and Recommendations"
 ---
 
-#food-systems 
 
 The environmental footprint of pet ownership, particularly the carbon "pawprint," represents a significant and growing concern that extends far beyond general perception. While the social and health benefits of companion animals are widely celebrated, their collective impact, driven by a global surge in ownership and a trend toward "pet humanization," presents a substantial and systemic challenge. This report demonstrates that the environmental footprint of a single pet can be equivalent to a significant portion of the average Irish citizen's annual carbon emissions. The primary driver of this footprint is diet, with the pet food supply chain deeply embedded in the complexities and controversies of global agriculture and fisheries. A sustainable path forward requires a multi-stakeholder approach. For consumers, this involves conscious choices in diet, product selection, and waste management. For the pet industry, it demands innovation in alternative proteins and a commitment to ethical, transparent sourcing. For policymakers, it necessitates the development of a coherent regulatory framework to support sustainable alternatives and to integrate pet-related waste streams into national circular economy programs.
 
->> [SEE NOTEBOOKLM](https://notebooklm.google.com/notebook/a79e341d-690f-44f3-bcad-bbbcc8978cd3) <<
-
-
-![[unnamed (2) 1.png]]
-
-![[DOG Impact on the ENVIRONMENT.canvas]]
 
 ## Carbon "PawPrint" of having a pet
 
 - Average for a medium size pet is 330-770kg co2e per year. 
 - For a large breed, could be as much as 2500kg a year
 
-When you compare that with the avg footprint of irish citizen (~10t/year) and the fact that we need to get down to a footprint of 2.5t a year, it is not unsignificant. 
-
-![[Screenshot 2025-09-05 at 13.39.38.png]]
+When you compare that with the average footprint of Irish citizen (~10t/year) and the fact that we need to get down to a footprint of 2.5t a year, it is not insignificant. 
 
 > [!NOTE] UK Numbers
 > In the UK alone, Dog Food account for 1% of the GHG
@@ -34,13 +28,12 @@ When you compare that with the avg footprint of irish citizen (~10t/year) and th
 
 ## Food
 ### Is Vegetarian Food a good option for Pets? 
-Source: [NS](https://www.newscientist.com/article/2494878-plant-based-dog-foods-provide-almost-all-the-nutrients-pets-need/)
 
-According to this article in NW, options are close:
+According research, we are close to being able to offer vegetarian options to our pet:
 
 > Vegetarian and vegan dog foods just need a few tweaks to make them nutritionally complete diets
 
-Analyses reveal that meat-free dry kibbles meet dogs’ protein and fat requirements, lacking only sufficient iodine and B vitamins. With supplements or – better yet – improved commercial preparation, plant-based dog food could keep the animals healthy while reducing the environmental impact of the pet food industry, says [Rebecca Brociek](https://www.nottingham.ac.uk/vet/people/rebecca.brociek) at the University of Nottingham, UK.
+Analyses reveal that meat-free dry kibbles meet dogs’ protein and fat requirements, lacking only sufficient iodine and B vitamins. With supplements or – better yet – improved commercial preparation, plant-based dog food could keep the animals healthy while reducing the environmental impact of the pet food industry.
 
 > Many vegans and vegetarians who own dogs struggle with the ethics of feeding meat to their omnivore pets
 
@@ -56,24 +49,18 @@ The production of pet food is the single largest contributor to the carbon pawpr
 > - Uses 49 million hectares of land annually (twice the size of the UK)
 > - Emits 106 Million tonnes of Carbon *
 
-Those numbers come from a Gemini search*
 
-> The prevailing narrative has long been that the pet food industry provides a valuable service by utilizing meat byproducts that would otherwise be wasted. However, a closer examination reveals a more complicated reality. These byproducts are not simply waste; they are valuable commodities that generate significant income for harmful farming industries, making intensive agriculture more profitable. This means they are more accurately viewed as "coproducts," since their market value directly contributes to the economic viability of the entire system. For example, the use of animal byproducts in pet food requires more animal carcasses per pound of food than using human-grade meat
 
-Further complicating the issue is the growing trend of "pet humanization," where pets are increasingly viewed as family members. This has led to a surge in demand for premium pet foods containing "human-grade" meat—cuts of meat suitable for human consumption. This trend directly contradicts the byproduct utilization argument, as it adds new, high-quality demand to the animal agriculture sector, rather than simply absorbing waste. This means that a consumer’s desire to provide their pet with the highest quality food may, paradoxically, be contributing to a greater environmental impact by increasing the overall demand for meat production
+> The prevailing narrative has long been that the pet food industry provides a valuable service by utilising meat byproducts that would otherwise be wasted. However, a closer examination reveals a more complicated reality. These byproducts are not simply waste; they are valuable commodities that generate significant income for harmful farming industries, making intensive agriculture more profitable. This means they are more accurately viewed as "coproducts," since their market value directly contributes to the economic viability of the entire system. For example, the use of animal byproducts in pet food requires more animal carcasses per pound of food than using human-grade meat
 
-![[Screenshot 2025-09-05 at 13.47.29.png]]
-
+Further complicating the issue is the growing trend of "pet humanisation," where pets are increasingly viewed as family members. This has led to a surge in demand for premium pet foods containing "human-grade" meat—cuts of meat suitable for human consumption. This trend directly contradicts the byproduct utilization argument, as it adds new, high-quality demand to the animal agriculture sector, rather than simply absorbing waste. This means that a consumer’s desire to provide their pet with the highest quality food may, paradoxically, be contributing to a greater environmental impact by increasing the overall demand for meat production
 
 ---
 ---
 # Review of Pet Foods
 
-See AI Generated Food Comparaison [here](https://docs.google.com/document/d/1pJCMRdQ9KtSvzf5vLRbspvGzpFXLFqk3LG_SO-HRDF4/edit?tab=t.0)
-![[Dog Food Dilemma Three Ethical Philosophies.mp3]]
 
-
-The contemporary global pet food industry is undergoing a paradigm shift characterized by the dual pressures of "pet humanization" and an increasingly urgent mandate for environmental sustainability. Within the Irish market, this transition is particularly visible as consumers move beyond basic caloric requirements toward "functional nutrition" that aligns with their ethical and ecological values. This report provides an exhaustive comparative analysis of three prominent dog food brands available in Ireland: Harley and Marley, Go Native (Connolly’s Red Mills), and Specific (Dechra Veterinary Products). By examining their origins, manufacturing processes, sustainability claims, ingredient integrity, and owner reception, this analysis elucidates how these firms navigate the complex intersection of canine health and ecological stewardship.
+The contemporary global pet food industry is undergoing a paradigm shift characterised by the dual pressures of "pet humanisation" and an increasingly urgent mandate for environmental sustainability. Within the Irish market, this transition is particularly visible as consumers move beyond basic caloric requirements toward "functional nutrition" that aligns with their ethical and ecological values. This report provides an exhaustive comparative analysis of three prominent dog food brands available in Ireland: **Harley and Marley, Go Native (Connolly’s Red Mills), and Specific (Dechra Veterinary Products)**. By examining their origins, manufacturing processes, sustainability claims, ingredient integrity, and owner reception, this analysis elucidates how these firms navigate the complex intersection of canine health and ecological stewardship.
 
 > [!NOTE] Some of the questions to ask
 > About the food used:
@@ -113,17 +100,11 @@ While the website does not detail anything, here is what they claim on the side 
 - Fish and Fowl trusted sustainable and ethical farms and fishery (organic Salmon)
 - Laboratory slect the best ingredients only 
 - Farm fresh fruits and veggies
-![[GoNative.jpg]]
-
 
 Connolly’s Red Mills approaches sustainability through industrial innovation and land management. Their primary manufacturing facility in Goresbridge, Ireland, is certified as a 100% renewable energy facility.6 This energy is used for the critical processes of steam generation, cooking, and drying, which are the most carbon-intensive stages of kibble production.16
 
 Beyond the factory walls, Red Mills has invested in a dedicated wetlands reserve located directly behind their Kilkenny facility.16 This area acts as a natural digestor for potential waste water and grain runoff from the plant, while providing a protected habitat for local biodiversity and wildfowl.16 Additionally, the brand employs "NFMS packaging" (Nutritional Freshness Management System), which is designed to facilitate bulk ordering and reduce the carbon emissions associated with frequent logistical transport.16 Their use of electrically operated forklifts in warehousing further minimizes the consumption of fossil fuels within their domestic operations.16
 
-
-> [!NOTE] Some Outstanding Questions:
-> - Organic chicken?
-> - 
 
  ## The "Circle of Good" and International Standards: Specific
 
@@ -131,8 +112,6 @@ Specific’s sustainability strategy, termed the "Circle of Good," focuses on al
 
 > Specific was an early adopter of sustainable packaging in the veterinary sector, having launched its organic dry diets in recyclable bags in 2020.11 The brand has achieved an 18-ton annual reduction in plastic usage through packaging redesigns and has committed to a fully recyclable range.11 At their European manufacturing sites, the installation of 2,500 square meters of solar panels saves approximately 25 tons of CO2 per year.18 Furthermore, the brand sources its krill—a key source of omega-3—from Marine Stewardship Council (MSC) certified fisheries, ensuring rigorous environmental management of Antarctic stocks.18
 
-
-![[Screenshot 2025-12-20 at 11.55.48.png]]
 
 
 ## Conclusions and Recommendations
