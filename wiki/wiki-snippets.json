@@ -72,6 +72,33 @@
     "tags": []
   },
   {
+    "slug": "mangrove-forests-recovery",
+    "filename": "biodiversity-land/mangrove-forests-recovery.md",
+    "label": "Mangrove Forests Recovery",
+    "summary": "mangroves, mangrove forests, coastal ecosystems, carbon storage, blue carbon, coastal protection, storm surge, tsunami, Indonesia, Myanmar, Niger Delta, Africa, deforestation, fish farms, aquaculture, habitat restoration, natural regeneration, Landsat satellite, closed canopy, net gain, oil pollution, tropical cyclones, biodiversity, marine nursery, carbon sink",
+    "category": "biodiversity-land",
+    "tags": [
+      "ocean",
+      "biodiversity",
+      "nature",
+      "carbon",
+      "adaptation"
+    ]
+  },
+  {
+    "slug": "why-bees-matter",
+    "filename": "biodiversity-land/why-bees-matter.md",
+    "label": "Why Everyone Keeps Talking About Bees",
+    "summary": "bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss",
+    "category": "biodiversity-land",
+    "tags": [
+      "biodiversity",
+      "food",
+      "nature",
+      "science"
+    ]
+  },
+  {
     "slug": "composting-project-drawdown-57",
     "filename": "circularity-waste/Composting - Project Drawdown 57.md",
     "label": "Composting (Project Drawdown #57)",
@@ -1477,18 +1504,6 @@
     ]
   },
   {
-    "slug": "facts-about-rice-production",
-    "filename": "sectors/agriculture-food/FACTS about RICE production.md",
-    "label": "FACTS about Rice Production",
-    "summary": "Carbon Footprint impact, Other Impact  about Rice Farming, There are ways to reduce Methane Production in Rice farming, Rice farming, Methane (CH₄), Nitrous Oxide (N₂O), Water Consumption, Soil and Air Quality, Soil Degradation, Air Pollution, Alternate Wetting and Drying (AWD), Integrated Rice-Fish Farming, Improved Fertilizer Management, Straw Management",
-    "category": "sectors",
-    "tags": [
-      "food",
-      "methane",
-      "science"
-    ]
-  },
-  {
     "slug": "food-carbon-footprint",
     "filename": "sectors/agriculture-food/Food Carbon FootPrint.md",
     "label": "Food Carbon Footprint",
@@ -1511,6 +1526,14 @@
       "fossil-fuels",
       "greenwashing"
     ]
+  },
+  {
+    "slug": "rice-farming-a-major-methane-emitter-but-with-clear-mitigating-solutions",
+    "filename": "sectors/agriculture-food/Rice farming, a major Methane emitter, but with clear mitigating solutions.md",
+    "label": "FACTS about Rice Production",
+    "summary": "Carbon Footprint impact, Other Impact  about Rice Farming, There are ways to reduce Methane Production in Rice farming, Rice farming, Methane (CH₄), Nitrous Oxide (N₂O), Water Consumption, Soil and Air Quality, Soil Degradation, Air Pollution, Alternate Wetting and Drying (AWD), Integrated Rice-Fish Farming, Improved Fertilizer Management, Straw Management",
+    "category": "sectors",
+    "tags": []
   },
   {
     "slug": "some-positive-stories-of-farming-adaptation",
@@ -1537,18 +1560,6 @@
     ]
   },
   {
-    "slug": "the-power-of-meat-2024",
-    "filename": "sectors/agriculture-food/The Power of Meat 2024.md",
-    "label": "The Power of Meat 2024",
-    "summary": "",
-    "category": "sectors",
-    "tags": [
-      "food",
-      "carbon",
-      "research"
-    ]
-  },
-  {
     "slug": "agriculture-planetary-footprint",
     "filename": "sectors/agriculture-food/agriculture-planetary-footprint.md",
     "label": "Agriculture's Planetary Footprint",
@@ -1560,6 +1571,20 @@
       "biodiversity",
       "carbon",
       "nature"
+    ]
+  },
+  {
+    "slug": "lab-grown-meat",
+    "filename": "sectors/agriculture-food/lab-grown-meat.md",
+    "label": "Lab-Grown Meat - Revolution or Distant Promise?",
+    "summary": "lab-grown meat, cultured meat, in vitro meat, plant-based meat, bioreactor, cellular agriculture, meat emissions, livestock emissions, agricultural land use, water footprint, antimicrobial resistance, food innovation, meat alternatives, investment decline, food security, Singapore, UK, US, Israel, Mark Post, energy-intensive production, food system transformation",
+    "category": "sectors",
+    "tags": [
+      "food",
+      "methane",
+      "carbon",
+      "science",
+      "research"
     ]
   },
   {
@@ -1710,6 +1735,22 @@
       "carbon",
       "e-waste"
     ]
+  },
+  {
+    "slug": "ai-data-centre-energy-crisis",
+    "filename": "sectors/digital/ai-data-centre-energy-crisis.md",
+    "label": "AI Data Centres and the Energy Crisis",
+    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand",
+    "category": "sectors",
+    "tags": []
+  },
+  {
+    "slug": "underwater-data-centre-china-2026",
+    "filename": "sectors/digital/underwater-data-centre-china-2026.md",
+    "label": "Underwater Data Centre — China 2026",
+    "summary": "underwater data centre, UDC, China, offshore wind, seawater cooling, freshwater, land use, Shanghai, Lin-gang, China Communications Construction, Tsinghua University, 192 server racks, 24 MW capacity, heat exchange, data centre innovation, AI infrastructure, marine environment, ecological impact, copper pipe cooling, energy efficiency",
+    "category": "sectors",
+    "tags": []
   },
   {
     "slug": "class-12-cleaning-up-electricity",
@@ -2226,16 +2267,12 @@
     ]
   },
   {
-    "slug": "plant-rich-diets-project-drawdown-3",
-    "filename": "solutions/nature-based-solutions/Plant-Rich Diets  - Project Drawdown  3.md",
-    "label": "Plant-Rich Diets - Project Drawdown 3",
-    "summary": "",
+    "slug": "plant-rich-diets-one-of-the-top-solutions-according-to-project-drawdown",
+    "filename": "solutions/nature-based-solutions/Plant-Rich Diets  - One of the top solutions according to Project Drawdown.md",
+    "label": "Plant-Rich Diets  - One of the top solutions according to Project Drawdown",
+    "summary": "|-",
     "category": "solutions",
-    "tags": [
-      "food",
-      "carbon",
-      "behaviour"
-    ]
+    "tags": []
   },
   {
     "slug": "the-importance-of-grassland",
@@ -2418,6 +2455,19 @@
     ]
   },
   {
+    "slug": "china-underwater-data-centre-2026",
+    "filename": "sources/china-underwater-data-centre-2026.md",
+    "label": "Source: World's first underwater data center powered by wind is now online",
+    "summary": "",
+    "category": "sources",
+    "tags": [
+      "ai",
+      "ocean",
+      "science",
+      "cool-companies"
+    ]
+  },
+  {
     "slug": "colombia-santa-marta-fossil-fuel-talks-2026",
     "filename": "sources/colombia-santa-marta-fossil-fuel-talks-2026.md",
     "label": "colombia-santa-marta-fossil-fuel-talks-2026",
@@ -2439,6 +2489,20 @@
     ]
   },
   {
+    "slug": "fao-global-meat-supply-2026",
+    "filename": "sources/fao-global-meat-supply-2026.md",
+    "label": "Source: Average person eats six times more chicken than in 1961, UN report finds",
+    "summary": "",
+    "category": "sources",
+    "tags": [
+      "food",
+      "methane",
+      "carbon",
+      "science",
+      "research"
+    ]
+  },
+  {
     "slug": "foley-food-farming-fate-earth-2024",
     "filename": "sources/foley-food-farming-fate-earth-2024.md",
     "label": "How Food and Farming Will Determine the Fate of Planet Earth",
@@ -2450,6 +2514,34 @@
       "biodiversity",
       "carbon",
       "nature"
+    ]
+  },
+  {
+    "slug": "ireland-datacentre-hidden-tax-2026",
+    "filename": "sources/ireland-datacentre-hidden-tax-2026.md",
+    "label": "Source: 'Hidden datacentre tax' costing Irish households millions, report says",
+    "summary": "",
+    "category": "sources",
+    "tags": [
+      "ireland",
+      "ai",
+      "fossil-fuels",
+      "carbon",
+      "finance"
+    ]
+  },
+  {
+    "slug": "mangrove-recovery-2026",
+    "filename": "sources/mangrove-recovery-2026.md",
+    "label": "Source: Mangrove forests are healing after decades of human destruction",
+    "summary": "",
+    "category": "sources",
+    "tags": [
+      "ocean",
+      "biodiversity",
+      "nature",
+      "carbon",
+      "adaptation"
     ]
   },
   {
@@ -2467,6 +2559,32 @@
     "summary": "What this source covers, Key facts and figures, Main arguments, Wiki pages informed by this source, 4 million UK homes, 22% of British homes, 4.87kg CO2, £5/day, 15–31p/day, 3 units of cooling for every 1 unit of electricity, £2,500 grant",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "uk-datacentres-gas-2026",
+    "filename": "sources/uk-datacentres-gas-2026.md",
+    "label": "Source: More than 100 UK datacentres plan to burn gas to generate electricity",
+    "summary": "",
+    "category": "sources",
+    "tags": [
+      "ai",
+      "fossil-fuels",
+      "carbon",
+      "science"
+    ]
+  },
+  {
+    "slug": "uk-datacentres-underestimated-emissions-2026",
+    "filename": "sources/uk-datacentres-underestimated-emissions-2026.md",
+    "label": "Source: Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
+    "summary": "",
+    "category": "sources",
+    "tags": [
+      "ai",
+      "carbon",
+      "science",
+      "fossil-fuels"
+    ]
   },
   {
     "slug": "watershed-ai-emissions-guide-2025",
