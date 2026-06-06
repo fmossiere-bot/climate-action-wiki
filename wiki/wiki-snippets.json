@@ -154,17 +154,6 @@
     ]
   },
   {
-    "slug": "facts-about-pet-environmental-impact",
-    "filename": "circularity-waste/FACTS about PET Environmental impact.md",
-    "label": "FACTS about Pet Ownership Environmental Impact",
-    "summary": "Carbon 'PawPrint' of having a pet, Food, Is Vegetarian Food a good option for Pets, What is the impact of Meat in Pet Food overall Carbon Footprint, The Circular Economy and Blue Waste Upcycling - HARLEY & MARLEY, Renewable Infrastructure and Biodiversity Reserves: Go Native, Conclusions and Recommendations",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity",
-      "food"
-    ]
-  },
-  {
     "slug": "facts-about-plastic",
     "filename": "circularity-waste/FACTS about Plastic.md",
     "label": "FACTS about Plastic",
@@ -249,6 +238,14 @@
       "circularity",
       "recycle"
     ]
+  },
+  {
+    "slug": "our-best-friends-environmental-impact-and-how-to-mitigate-it",
+    "filename": "circularity-waste/Our best friends environmental impact and how to mitigate it.md",
+    "label": "Our Pets environmental impact and how to mitigate it",
+    "summary": "Carbon 'PawPrint' of having a pet, Food, Is Vegetarian Food a good option for Pets, What is the impact of Meat in Pet Food overall Carbon Footprint, The Circular Economy and Blue Waste Upcycling - HARLEY & MARLEY, Renewable Infrastructure and Biodiversity Reserves: Go Native, Conclusions and Recommendations",
+    "category": "circularity-waste",
+    "tags": []
   },
   {
     "slug": "recycling-project-drawdown-42",
@@ -1737,18 +1734,18 @@
     ]
   },
   {
-    "slug": "ai-data-centre-energy-crisis",
-    "filename": "sectors/digital/ai-data-centre-energy-crisis.md",
-    "label": "AI Data Centres and the Energy Crisis",
-    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand",
+    "slug": "underwater-data-centres-powered-by-offshore-winds-in-china",
+    "filename": "sectors/digital/Underwater Data Centres powered by offshore winds  in China.md",
+    "label": "Underwater Data Centres powered by offshore winds  in China",
+    "summary": "underwater data centre powered by offshore wind energy, UDC, China, offshore wind, seawater cooling, freshwater, land use, Shanghai, Lin-gang, China Communications Construction, Tsinghua University, 192 server racks, 24 MW capacity, heat exchange, data centre innovation, AI infrastructure, marine environment, ecological impact, copper pipe cooling, energy efficiency",
     "category": "sectors",
     "tags": []
   },
   {
-    "slug": "underwater-data-centre-china-2026",
-    "filename": "sectors/digital/underwater-data-centre-china-2026.md",
-    "label": "Underwater Data Centre — China 2026",
-    "summary": "underwater data centre, UDC, China, offshore wind, seawater cooling, freshwater, land use, Shanghai, Lin-gang, China Communications Construction, Tsinghua University, 192 server racks, 24 MW capacity, heat exchange, data centre innovation, AI infrastructure, marine environment, ecological impact, copper pipe cooling, energy efficiency",
+    "slug": "ai-data-centre-energy-crisis",
+    "filename": "sectors/digital/ai-data-centre-energy-crisis.md",
+    "label": "AI Data Centres and the Energy Crisis",
+    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand",
     "category": "sectors",
     "tags": []
   },
