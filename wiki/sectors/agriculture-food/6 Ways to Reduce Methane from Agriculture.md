@@ -10,7 +10,7 @@ summary: "From Better Breeding to Cow-Burp Vaccines, Emerging Solutions Could Cu
 #methane #agriculture 
 
 ## From Better Breeding to Cow-Burp Vaccines, Emerging Solutions Could Curb Agricultural Emission
-Source: https://www.wri.org/insights/reducing-agricultural-methane-new-solutions?apcid=0065aea19f4a6d4198ca0d00&utm_campaign=wridigest&utm_medium=email&utm_source=wridigest-2025-03-12 
+
 
 ######  [Nearly half](https://www.ccacoalition.org/sites/default/files/resources/2021_Global-Methane_Assessment_full_0.pdf) of global methane emissions come from agricultural activities such as livestock production, rice cultivation and burning crop waste. 
 
@@ -143,3 +143,7 @@ A digester captures methane from slurry/manure that would otherwise escape from 
 
 **The catch in Ireland**
 Ireland’s cattle slurry is **wet and relatively low-energy**, so slurry alone often gives poor economics. Teagasc notes that **co-digestion** (mixing slurry with grass silage, food waste, or residues) improves gas yield and viability.
+
+
+# Further Reading
+[WRI article on 6 ways to reduce methane in farming](https://www.wri.org/insights/reducing-agricultural-methane-new-solutions?apcid=0065aea19f4a6d4198ca0d00&utm_campaign=wridigest&utm_medium=email&utm_source=wridigest-2025-03-12 )

@@ -111,3 +111,19 @@ As AI drives energy demand up, it drives water withdrawals up at power plants. A
 We are building those data centres in water strain regions, and little transparency is required. In the UK, where you would think that water is widely available, there is growing concern about summer access to water. Without data centre having to report on their water usage (like other industries), it means that we are flying blind ... and concerns are that there could be serious water shortage as soon as 2030
 
 The same as for energy, there should be a pre-requisite to examine water supply in the area, and put some limitation on its consumption (as for other industries). Farming should of course be prioritised. `But more importantly, I don't think we can say that Water and AI is a non-issue, because it is not.
+
+---
+
+## ✅ Update: The 'Hidden Data Centre Tax' (May 2026)
+
+A report commissioned by Friends of the Earth Ireland and Beyond Fossil Fuels quantified what many suspected: Ireland's data centre boom has been directly raising household electricity bills.
+
+> Data centres used **22% of Ireland's electricity in 2025** — more than all urban homes combined (Central Statistics Office).
+
+The key mechanism: data centres have high, inflexible demand that increases the number of hours when gas plants set the electricity market price. This raised household bills by a cumulative average of **€360 per household between 2015 and 2023**, and drained an estimated **€715 million from the Irish economy**.
+
+Looking ahead: households face a further **€295–€644 cumulative increase from 2025 to 2034**, for a national total of €633m–€1.43bn.
+
+The industry disputed the findings, pointing to €18 billion in investment and the fact that new data centres must source 80% of their energy from additional renewables — the strictest rule in Europe. Beyond Fossil Fuels argues Ireland's experience is *"a warning for Europe: letting big tech expand datacentres unchecked will have massive ripple effects on the economy and European households."*
+
+*Source: [ireland-datacentre-hidden-tax-2026](../sources/ireland-datacentre-hidden-tax-2026.md) — The Guardian, Rory Carroll, 28 May 2026*

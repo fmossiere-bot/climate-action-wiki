@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-01
+Last updated: 2026-06-06
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -17,6 +17,12 @@ Summaries of every ingested source file.
 | [[foley-food-farming-fate-earth-2024]] | Project Drawdown, Foley (Mar 2024): agriculture as the planet's biggest environmental disruptor — land, water, biodiversity, climate |
 | [[watershed-ai-emissions-guide-2025]] | Watershed (2025): practical guide to understanding, measuring, and reducing corporate AI emissions |
 | [[data-centers-environmental-footprint-us-2021]] | Siddik et al., Env. Res. Letters (2021): first sub-national study of US data centre water and carbon footprints |
+| [[fao-global-meat-supply-2026]] | Guardian/FAO (Jun 2026): global meat supply has risen fourfold since 1961; livestock responsible for 80% of projected agricultural emissions growth |
+| [[mangrove-recovery-2026]] | BBC (Jun 2026): mangrove forests staging a comeback — world now gains more than it loses since 2010 |
+| [[uk-datacentres-gas-2026]] | Guardian (May 2026): 100+ UK data centres requesting permanent gas connections due to grid congestion |
+| [[uk-datacentres-underestimated-emissions-2026]] | Guardian (Apr 2026): UK government revised AI data centre emissions estimate upward by 100× |
+| [[ireland-datacentre-hidden-tax-2026]] | Guardian (May 2026): Ireland's data centres added €360 cumulative to each household's electricity bill 2015–2023 |
+| [[china-underwater-data-centre-2026]] | New Atlas (Jun 2026): world's first underwater data centre, powered by offshore wind, now online off Shanghai |
 
 ---
 
@@ -148,7 +154,8 @@ Funding the transition — investment, risk, green banking.
 | Class 14 - About Food and Farming | Terra.do Class 14: food systems |
 | FACTS about CHOCOLATE and CACAO | Environmental impact of chocolate |
 | FACTS about Farming and Food production | Farming's climate footprint |
-| [[agriculture-planetary-footprint]] | **NEW** — Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
+| [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
+| [[lab-grown-meat]] | **NEW** — Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
 | FACTS about RICE production | Rice emissions and impact |
 | Food Carbon FootPrint | Food's overall carbon footprint |
 | Is the meat industry following the Oil Industry? | Parallels between meat and fossil fuels |
@@ -170,8 +177,10 @@ Funding the transition — investment, risk, green banking.
 | Carbon Footprint of an iPhone | Lifecycle emissions of smartphones |
 | Digital4Sustainability - INTRO / MODULE 1–4 | Digital sustainability course notes |
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
-| [[AI Emissions and Corporate Responsibility]] | **NEW** — AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
-| [[Data Centre environmental footprint]] | **NEW** — US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
+| [[AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
+| [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
+| [[ai-data-centre-energy-crisis]] | **NEW** — UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs |
+| [[underwater-data-centre-china-2026]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
 | FACTS about general Digital Use | Digital activity emissions |
 | The Environmental Impact of Bitcoin | Bitcoin energy use |
@@ -299,7 +308,9 @@ Funding the transition — investment, risk, green banking.
 | FACTS about Water | Global water facts |
 | FACTS about Wetlands | Wetland ecosystems and climate |
 | FACTS about the Ocean | Ocean health data |
+| [[mangrove-forests-recovery]] | **NEW** — Mangrove forests staging a comeback: world gains more than it loses since 2010 |
 | OCEAN - Book Notes | Book notes on ocean ecosystems |
+| [[why-bees-matter]] | **NEW** — Why bees matter: pollinators, food system dependence, rooftop hive myths, what actually helps |
 
 ---
 

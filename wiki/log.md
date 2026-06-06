@@ -4,6 +4,158 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-06 ingest | Lab-Grown Meat — Revolution or Distant Promise?
+
+**Source file:** `raw/own-research/Lab-Grown Meat -  Revolution or Distant Promise.md`
+**Original source:** Own research by Fabien Mossière
+
+**What was done:**
+- Filed directly (own-research — no summarising): `wiki/sectors/agriculture-food/lab-grown-meat.md`
+- Added standard frontmatter and linked to related wiki pages
+- Updated `wiki/index.md` — added new page entry
+
+**Key content:**
+- Lab-grown meat science: bioreactor process, no slaughter required
+- Livestock = 12% of global GHG, 75% of agricultural land, 500–700 L water per kg of beef
+- 2023 University of California study: industrial cultured meat could emit 4–25× more than conventional beef due to energy-intensive purification
+- Cost still ~€90/kg vs a future floor of €4–20/kg; investment fell 78% in 2023
+- Only 4 territories have approved cultured meat: Singapore, US, Israel, UK (pet food only)
+- Plant-based market now worth ~€10bn/year globally and more immediately scalable
+
+---
+
+## 2026-06-06 ingest | Why Everyone Keeps Talking About Bees
+
+**Source file:** `raw/own-research/Why Everyone Keeps Talking About Bees.md`
+**Original source:** Own research by Fabien Mossière
+
+**What was done:**
+- Filed directly (own-research — no summarising): `wiki/biodiversity-land/why-bees-matter.md`
+- Added standard frontmatter and linked to related wiki pages
+- Updated `wiki/index.md` — added new page entry
+
+**Key content:**
+- 1 in 3 bites of food depends on pollinators; bees are the most important
+- 20,000+ bee species; 90%+ are solitary — not the managed honeybee at risk
+- Corporate rooftop hives often harm wild bees by outcompeting them for scarce forage
+- Focus on habitat (wildflower patches, bee hotels, reduced pesticide) rather than honey production
+- EU Pollinators Initiative and Nature Restoration Regulation set legally binding 2030 targets
+
+---
+
+## 2026-06-06 ingest | Average person eats six times more chicken than in 1961, UN report finds
+
+**Source file:** `raw/articles/Average person eats six times more chicken than in 1961, UN report finds.md`
+**Original source:** The Guardian, Ajit Niranjan, 5 June 2026 — https://www.theguardian.com/environment/2026/jun/05/global-meat-supply-chicken-pork-fao-report
+
+**What was done:**
+- Created source summary: `wiki/sources/fao-global-meat-supply-2026.md`
+- Updated existing page: `wiki/sectors/agriculture-food/agriculture-planetary-footprint.md` — added FAO 2026 data on global meat supply trends and expert criticism of FAO's failure to recommend reduction
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Global meat supply rose from 25 kg/person (1961) to 47 kg (2022) — a fourfold increase
+- Poultry: 3 kg → 17 kg per person (6× increase); pork doubled; beef held steady at 9 kg
+- Agricultural emissions forecast to rise 7.6% in the next decade; livestock = 80% of that increase
+- ~14% of meat and milk is lost or wasted before consumption
+- Scientists criticised FAO for not recommending meat reduction in wealthy countries
+
+---
+
+## 2026-06-06 ingest | Mangrove forests are healing after decades of human destruction
+
+**Source file:** `raw/articles/Mangrove forests are healing after decades of human destruction.md`
+**Original source:** BBC News, Matt McGrath and Esme Stallard, 5 June 2026 — https://www.bbc.com/news/articles/cn4pk07npvvo
+
+**What was done:**
+- Created source summary: `wiki/sources/mangrove-recovery-2026.md`
+- Created new wiki page: `wiki/biodiversity-land/mangrove-forests-recovery.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Since 2010, the world gains more mangroves than it loses — net historical loss reduced to ~849 sq km
+- 1980s–2010: over 12,000 sq km cleared across Asia, Africa, the Americas (area of Jamaica)
+- Natural regeneration — not active planting — is the main driver once clearing stops
+- Closed-canopy (most carbon-dense) mangroves up 20% since 1980s
+- Mangroves store 5× more carbon per hectare than land forests; protect coasts from storms
+- Niger Delta a hotspot of ongoing destruction via oil pipeline pollution
+- Indonesia and Myanmar leading recovery following tsunami/cyclone attitude shifts
+
+---
+
+## 2026-06-06 ingest | More than 100 UK datacentres plan to burn gas to generate electricity
+
+**Source file:** `raw/articles/More than 100 UK datacentres plan to burn gas to generate electricity.md`
+**Original source:** The Guardian, Aisha Down, 18 May 2026 — https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity
+
+**What was done:**
+- Created source summary: `wiki/sources/uk-datacentres-gas-2026.md`
+- Created new wiki page: `wiki/sectors/digital/ai-data-centre-energy-crisis.md` (covers this article plus the 24 Apr and 28 May articles below)
+- Updated `wiki/index.md`
+
+**Key content added:**
+- 100 GW of data centre projects queued for UK National Grid
+- 100+ gas connection requests; total >15 TWh/year (power London for 4.5 months)
+- Some operators requesting 100 MW+ of gas on permanent basis
+- Threatens UK Clean Power 2030 target (< 5% unabated gas in electricity system)
+
+---
+
+## 2026-06-06 ingest | Officials hugely underestimated impact of AI datacentres on UK carbon emissions
+
+**Source file:** `raw/articles/Officials hugely underestimated impact of AI datacentres on UK carbon emissions.md`
+**Original source:** The Guardian, Damien Gayle, 24 April 2026 — https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions
+
+**What was done:**
+- Created source summary: `wiki/sources/uk-datacentres-underestimated-emissions-2026.md`
+- Incorporated into wiki page: `wiki/sectors/digital/ai-data-centre-energy-crisis.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- UK government revised AI data centre emissions estimate from 0.142m to 34–123m tonnes CO₂ over 2025–35 (100× increase)
+- Previous figure quietly deleted after Foxglove/Carbon Brief investigation
+- Buildout "could double the electricity consumption of the entire country" if unchecked
+
+---
+
+## 2026-06-06 ingest | 'Hidden datacentre tax' costing Irish households millions, report says
+
+**Source file:** `raw/articles/'Hidden datacentre tax' costing Irish households millions, report says.md`
+**Original source:** The Guardian, Rory Carroll, 28 May 2026 — https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity
+
+**What was done:**
+- Created source summary: `wiki/sources/ireland-datacentre-hidden-tax-2026.md`
+- Incorporated Ireland section into wiki page: `wiki/sectors/digital/ai-data-centre-energy-crisis.md`
+- Updated existing page: `wiki/ireland-hub/IRELAND Datacentre Dilemna.md` — added hidden tax section with 2026 findings
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Ireland data centres used 22% of national electricity in 2025 — more than all urban homes
+- Cumulative household cost: €360/household (2015–2023); projected €295–644 (2025–2034)
+- €715m drained from Irish economy; mechanism: gas-set electricity prices pushed up by inflexible DC demand
+- Ireland has strictest data centre energy rule in Europe: 80% from additional renewables
+
+---
+
+## 2026-06-06 ingest | World's first underwater data center powered by wind is now online
+
+**Source file:** `raw/articles/World's first underwater data center powered by wind is now online.md`
+**Original source:** New Atlas, Bronwyn Thompson, 1 June 2026 — https://newatlas.com/energy/china-underwater-data-center-opens/
+
+**What was done:**
+- Created source summary: `wiki/sources/china-underwater-data-centre-2026.md`
+- Created new wiki page: `wiki/sectors/digital/underwater-data-centre-china-2026.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- World's first commercial underwater data centre, off Shanghai, operational May 2026
+- Offshore wind provides 95% of electricity; seawater replaces freshwater cooling
+- Land use reduced 90%+; cooling electricity reduced 22.8%
+- Planned capacity 24 MW; potential 50 billion kWh/year saving if scaled
+- Open questions on marine heat impact and long-term maintenance
+
+---
+
 ## 2026-05-29 ingest | 'Historic breakthrough': Colombia climate talks end with hopes raised for fossil fuel phaseout
 
 **Source file:** `raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md`

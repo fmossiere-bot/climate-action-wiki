@@ -59,7 +59,7 @@ The evolution towards plant-based diets and industries offers more than just hea
 
 Employment within the plant-based sector not only contributes to a growing and vital part of the economy but also offers tangible financial benefits for workers. On average, individuals employed in the plant-based industry earn approximately $59,300 annually. This figure is notably $12,500 more than the average American income [8]
 
-[[Plant-Rich Diets  - Project Drawdown  3]]
+[[wiki/solutions/nature-based-solutions/Plant-Rich Diets  - One of the top solutions according to Project Drawdown]]
 
 ### Enhancing Health through Plant-Based Diets
 

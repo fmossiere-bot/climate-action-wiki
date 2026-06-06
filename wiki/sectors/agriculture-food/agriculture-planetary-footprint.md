@@ -58,6 +58,11 @@ The biggest single driver is **deforestation**, primarily to create pasture and 
 - [Managed Grazing](../../solutions/nature-based-solutions/managed-grazing.md)
 - [Reduced Food Waste](../../solutions/circularity/reduced-food-waste.md)
 
+## ✅ Update: Global Meat Supply Trends (June 2026)
+
+A new FAO report (The Guardian, June 2026) confirms the upward trajectory. The average person now eats **six times more chicken** than in 1961 (3 kg → 17 kg) and twice as much pork (15 kg). Overall meat supply rose from 25 kg per person in 1961 to 47 kg in 2022. Agricultural emissions are forecast to rise 7.6% over the next decade, with livestock responsible for 80% of that increase. The report was criticised by scientists for failing to recommend reducing consumption in wealthy nations. Source: [fao-global-meat-supply-2026](../../sources/fao-global-meat-supply-2026.md)
+
 ## Sources
 
 - Project Drawdown, Jonathan Foley PhD, 30 March 2024 — https://drawdown.org/insights/how-food-and-farming-will-determine-the-fate-of-planet-earth
+- The Guardian, Ajit Niranjan, 5 June 2026 — https://www.theguardian.com/environment/2026/jun/05/global-meat-supply-chicken-pork-fao-report
