@@ -3,13 +3,22 @@ title: FACTS about Air Travel
 category: sectors
 tags: [aviation, carbon, science]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "Progress According to the ClimateActionTracker for the Aviation sector, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%"
+updated: 2026-06-11
+summary: "Progress According to the ClimateActionTracker for the Aviation sector, IATA 2026 net zero admission, SAF production gap, CORSIA undermined, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%"
 ---
 
-#aviation 
+## 2026 Update: The Industry Admits the 2050 Target is Slipping
 
-[NOTEBOOK LM ](https://notebooklm.google.com/notebook/8de967b3-751d-48c3-8dc6-888d6c49a68d)| [Evernote](https://share.evernote.com/note/8fa0c6ec-5983-208c-099d-275adc4f7901) 
+In June 2026, IATA director general Willie Walsh publicly admitted at the annual IATA summit in Rio de Janeiro that aviation's landmark net zero 2050 pledge will "probably not now be achieved." He called for a "realistic timeline" and blamed three failures: fuel suppliers not delivering on SAF commitments, governments undermining CORSIA through inaction, and aircraft manufacturers delaying next-generation efficient planes.
+
+The numbers tell the story. **SAF production in 2026 will reach only 2.4 million tonnes, just 0.8% of airline fuel needs.** The 2050 target requires 500 million tonnes (65% of fuel supply). Walsh was blunt: "There is no path to meet that outcome" for the 5% reduction by 2030. IATA's own sustainability vice-president called EU and UK e-SAF targets for 2030 "utterly detached from reality."
+
+Environmental campaigners, who have long argued that aviation's net zero pledges were greenwashing and a cover for continued expansion, are unsurprised. The admission puts pressure on the UK government, which tied further Heathrow expansion to climate tests being met.
+
+Source: [The Guardian, Gwyn Topham, 8 June 2026](../../sources/iata-netzero-unlikely-2026.md)
+
+---
+
 # Aviation has a target ... 
 ##### In October 2022, nations agreed to [aim to reach net-zero emissions from flying by 2050](https://theicct.org/icao-climate-goal-oct22/).
 

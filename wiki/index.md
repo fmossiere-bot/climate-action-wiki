@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-06
+Last updated: 2026-06-11
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -23,6 +23,13 @@ Summaries of every ingested source file.
 | [[uk-datacentres-underestimated-emissions-2026]] | Guardian (Apr 2026): UK government revised AI data centre emissions estimate upward by 100× |
 | [[ireland-datacentre-hidden-tax-2026]] | Guardian (May 2026): Ireland's data centres added €360 cumulative to each household's electricity bill 2015–2023 |
 | [[china-underwater-data-centre-2026]] | New Atlas (Jun 2026): world's first underwater data centre, powered by offshore wind, now online off Shanghai |
+| [[iata-netzero-unlikely-2026]] | Guardian (Jun 2026): IATA boss Willie Walsh admits aviation 2050 net zero pledge will "probably not be achieved" — SAF at 0.8% of target |
+| [[world-cup-heat-outrage-optimism-2026]] | Outrage+Optimism podcast (Jun 2026): mandatory heat breaks at the World Cup as live climate adaptation for a global audience |
+| [[world-cup-heat-reuters-2026]] | Reuters (Jun 2026): climate change doubled heat risk vs 1994 World Cup; 97 of 104 matches affected — wet-bulb analysis |
+| [[un-world-ocean-assessment-2026]] | Guardian/UN (Jun 2026): UN World Ocean Assessment III — sea level rise doubled, 16% of all ocean heat since 1955 happened after 2018 |
+| [[drawdown-ocean-climate-solutions-2026]] | Project Drawdown (Jun 2026): ranking ocean climate solutions — offshore wind top, coastal wetlands strong, novel mCDR uncertain |
+| [[wealthy-biggest-emitters-newscientist]] | New Scientist (Alec Luhn): high-income environmentalists have larger footprints than peers — mainly frequent flying; policy beats attitude change |
+| [[amoc-collapse-carbon-newscientist-2026]] | New Scientist (Apr 2026): AMOC collapse could release 640 billion tonnes of CO₂ from Southern Ocean, adding 0.2°C — Potsdam Institute |
 
 ---
 
@@ -48,6 +55,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | Methane emissions role in Global Warming | Methane as a climate driver |
 | OZONE Layer FACTS | Ozone layer science |
 | Wet-Bulb explained | Wet-bulb temperature and human survivability |
+| [[amoc-collapse-carbon]] | **NEW** — AMOC collapse could release 640 billion tonnes of CO₂; already past the irreversibility threshold at 430 ppm CO₂ |
 
 ---
 
@@ -127,6 +135,7 @@ Funding the transition — investment, risk, green banking.
 | Meat Token ACTION GUIDE | Reducing meat consumption |
 | Talking about Climate Change ACTION GUIDE | Conversation guide for climate |
 | The climate Mitigation Gap research | Research on individual vs systemic action |
+| [[high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
 
 ### Company Evaluations (`wiki/concepts/company-evaluations/`)
 
@@ -199,6 +208,13 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | The Environmental Impact of Concrete, Cement Industry | Cement's climate footprint |
+
+### Sport (`wiki/sectors/`)
+
+| Page | Description |
+|------|-------------|
+| [[Environmental Impact of football world cups]] | Carbon footprint of World Cups 2018–2026; updated with 2026 heat risk data — twice the 1994 risk, mandatory heat breaks as climate adaptation |
+| Environmental Impact of the Paris Olympics | Paris 2024 Olympics environmental assessment |
 
 ### Transport (`wiki/sectors/transport/`)
 
@@ -309,6 +325,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about Wetlands | Wetland ecosystems and climate |
 | FACTS about the Ocean | Ocean health data |
 | [[mangrove-forests-recovery]] | **NEW** — Mangrove forests staging a comeback: world gains more than it loses since 2010 |
+| [[ocean-based-climate-solutions]] | **NEW** — Ocean climate solutions ranked: offshore wind top, coastal wetland protection strong, novel mCDR uncertain, some not recommended |
 | OCEAN - Book Notes | Book notes on ocean ecosystems |
 | [[why-bees-matter]] | **NEW** — Why bees matter: pollinators, food system dependence, rooftop hive myths, what actually helps |
 

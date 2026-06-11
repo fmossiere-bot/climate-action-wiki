@@ -7,7 +7,7 @@ tags:
   - nature
   - science
 created: 2026-06-01
-updated:
+updated: 2026-06-11
 summary: "1.  FACTS, 2. OCEAN Protection, Controlliong fishing is also a big part of this agreement, limiting fishing in an unsustainable way, What is the Unoc, 3. OCEAN - Book Notes, About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, About KELP Forest, Kelp forest in Ireland, protected areas to 30%, Marine areas improve Carbon Absorbtion, Blue whales"
 ---
 
@@ -139,6 +139,31 @@ Used as food for Blue Whales, responsible of the biggest vetical migration as fi
 
 More about KELP Forest types in Ireland
 [https://cleancoasts.org/marine-biodiversity-in-ireland/marine-coastal-habitats-marine-water-body/marine-biodiversity-forest-kelp/](https://cleancoasts.org/marine-biodiversity-in-ireland/marine-coastal-habitats-marine-water-body/marine-biodiversity-forest-kelp/)
+
+---
+
+## 2026 Update: UN World Ocean Assessment III
+
+The UN's third World Ocean Assessment, published on World Oceans Day 2026 and drawing on nearly 600 scientists from 86 countries, found the oceans under "severe and accelerating" pressure. The findings are stark:
+
+- **Sea level rise has doubled in rate** — from 2mm per year before 2015 to 4.3mm per year by 2023.
+- **16% of all ocean heat absorbed since 1955 occurred after 2018 alone** — the pace of warming is accelerating sharply.
+- The ocean has now absorbed 90% of the excess heat and 30% of the CO₂ released by human activity since industrialisation.
+- 52.1 million tonnes of plastic enter the ocean every year, contributing to 24.4 trillion microplastic particles that affect more than 4,000 marine species.
+- Ocean currents, including the AMOC (Atlantic Meridional Overturning Circulation, which includes the Gulf Stream), are changing — their future impacts are described as "poorly understood" but potentially severe. See [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md).
+- Only 27% of the ocean floor has been mapped as of 2025. Deep-sea ecosystems remain largely unknown.
+- The high seas treaty came into force in 2026, giving legal protection to the two-thirds of ocean outside any country's jurisdiction.
+- Ocean governance remains "fragmented" across sectors and regions; strengthening coordination is described as critical.
+
+More than a third of the world's population lives within 100km of coastlines. Eleven per cent live on land less than 10 metres above sea level — directly exposed to rising seas.
+
+Source: [The Guardian, Karen McVeigh, 8 June 2026](../sources/un-world-ocean-assessment-2026.md)
+
+## Connected topics
+
+- [Ocean-Based Climate Solutions](ocean-based-climate-solutions.md)
+- [Mangrove Forests Recovery](mangrove-forests-recovery.md)
+- [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md)
 
 ---
 

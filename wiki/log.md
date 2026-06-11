@@ -4,6 +4,140 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-11 ingest | Airline industry chiefs say 2050 net zero goal now unlikely
+
+**Source file:** `raw/articles/Airline industry chiefs say 2050 net zero goal now unlikely.md`
+**Original source:** The Guardian, Gwyn Topham, 8 June 2026 — https://www.theguardian.com/environment/2026/jun/08/airline-industry-chiefs-willie-walsh-2050-net-zero-unlikely
+
+**What was done:**
+- Created source summary: `wiki/sources/iata-netzero-unlikely-2026.md`
+- Updated existing page: `wiki/sectors/transport/FACTS about Air Travel.md` — added 2026 Update section with IATA summit admission
+- Updated `wiki/index.md`
+
+**Key content added:**
+- IATA boss Willie Walsh: 2050 net zero pledge "probably not now be achieved"
+- SAF at 0.8% of airline fuel needs in 2026; target is 65% by 2050
+- ICAO 5% reduction by 2030 via SAF: "no path to meet that outcome"
+- CORSIA being "undermined" by government inaction
+- UK just met 2% SAF minimum in 2025, mostly imported recycled cooking oil — no e-SAF at scale
+
+---
+
+## 2026-06-11 ingest | World Cup heat (two articles + podcast)
+
+**Source files:**
+- `raw/articles/Extreme Heat Breaks - The Climate story behind the 2026 World Cup.md`
+- `raw/articles/Volatile summer weather threatens to turn World Cup into test of heat.md`
+
+**Original sources:**
+- Outrage+Optimism podcast, June 2026
+- Reuters, Angelica Medina and Janina Rios, 10 June 2026 — https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/
+
+**What was done:**
+- Created source summary: `wiki/sources/world-cup-heat-outrage-optimism-2026.md`
+- Created source summary: `wiki/sources/world-cup-heat-reuters-2026.md`
+- Updated and completed existing draft: `wiki/sectors/Environmental Impact of football world cups.md` — fixed frontmatter, added heat impacts section
+- Updated `wiki/index.md` — added Sport section and page entry
+
+**Key content added:**
+- Mandatory three-minute hydration breaks in every half: first time in football history
+- Climate Central: climate change increased performance-impairing heat risk at 97 of 104 matches
+- Heat risk at 2026 World Cup is twice that of the 1994 World Cup in the same country
+- A quarter of matches projected in conditions exceeding recommended safety limits
+- WBGT above 28°C linked to declines in sprinting, distance, and recovery
+- NJ Transit surge-priced return tickets to MetLife Stadium to $150 (from under $15)
+- "Climate change is now outpacing athletes' ability to adapt" — Christiana Figueres
+
+---
+
+## 2026-06-11 ingest | 'Severe' stress on oceans as rate of sea level rise doubles, UN warns
+
+**Source file:** `raw/articles/'Severe' stress on oceans as rate of sea level rise doubles in 10 years, UN warns.md`
+**Original source:** The Guardian, Karen McVeigh, 8 June 2026 — https://www.theguardian.com/environment/2026/jun/08/un-world-ocean-assessment-severe-stress-sea-level-rise-doubles-pollution-fishing-climate
+
+**What was done:**
+- Created source summary: `wiki/sources/un-world-ocean-assessment-2026.md`
+- Updated existing page: `wiki/biodiversity-land/FACTS about the Ocean.md` — added 2026 Update section
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Sea level rise rate doubled: 2mm/year (pre-2015) to 4.3mm/year (2023)
+- 16% of all ocean heat absorbed since 1955 happened after 2018
+- 52.1 million tonnes of plastic enter the ocean annually; 24.4 trillion microplastic particles
+- Only 27% of ocean floor mapped by 2025
+- High seas treaty came into force 2026 — protection for two-thirds of global ocean
+- Ocean governance described as "fragmented"
+
+---
+
+## 2026-06-11 ingest | What floats and what sinks — ocean-based climate solutions
+
+**Source file:** `raw/articles/What floats and what sinks when it comes to ocean-based climate solutions?.md`
+**Original source:** Project Drawdown, Christina Richardson PhD, 2 June 2026 — https://drawdown.org/insights/what-floats-and-what-sinks-when-it-comes-to-ocean-based-climate-solutions
+
+**What was done:**
+- Created source summary: `wiki/sources/drawdown-ocean-climate-solutions-2026.md`
+- Created new wiki page: `wiki/biodiversity-land/ocean-based-climate-solutions.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Offshore wind: 1.90–3.04 Gt CO₂-eq/year — top ocean climate solution
+- Coastal wetlands + seaweed protection: 0.21–0.30 Gt CO₂-eq/year combined
+- All other ocean actions: under 0.1 Gt CO₂-eq/year each
+- Ocean biomass sinking, artificial upwelling, ocean fertilisation: not recommended
+- Ocean protection funding: ~$1.2bn/year vs ~$16bn/year needed for 30x30
+- Highest-impact climate actions are still mostly on land (solar, wind, diet, forests)
+
+---
+
+## 2026-06-11 ingest | Wealthy people with environmental ideals are the biggest emitters
+
+**Source file:** `raw/papers/Wealthy people with environmental ideals are the biggest emitters.pdf`
+**Original source:** New Scientist, Alec Luhn — research by Malte Dewies and Micha Kaiser, University of Cambridge
+
+**What was done:**
+- Created source summary: `wiki/sources/wealthy-biggest-emitters-newscientist.md`
+- Created new wiki page: `wiki/concepts/behavior-change/high-income-carbon-paradox.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Top 30% by socioeconomic status: high-income environmentalists emit more than high-income peers
+- Main driver: frequent flying by people with international social networks
+- BP popularised the term "carbon footprint" to shift responsibility from producers to consumers
+- Conclusion: policy intervention beats attitude campaigns for reducing emissions
+
+---
+
+## 2026-06-11 ingest | Collapse of key ocean current may release billions of tonnes of carbon (New Scientist.pdf)
+
+**Source file:** `raw/papers/New Scientist.pdf`
+**Original source:** New Scientist, Alec Luhn, 13 April 2026 — Nature Communications Earth & Environment, DOI: 10.1038/s43247-026-03427-w
+
+**What was done:**
+- Created source summary: `wiki/sources/amoc-collapse-carbon-newscientist-2026.md`
+- Created new wiki page: `wiki/climate-science/amoc-collapse-carbon.md`
+- Updated `wiki/index.md`
+- Note: New Scientist.pdf also contained the "Wealthy people" article (see entry above); that article was ingested from its standalone PDF.
+
+**Key content added:**
+- AMOC (includes Gulf Stream) has already declined ~15% due to Greenland meltwater
+- Modelling: AMOC collapse would trigger Southern Ocean convection, releasing up to 640 billion tonnes of CO₂
+- Additional warming from this carbon release: 0.2°C, over 1,000+ years
+- AMOC collapse irreversible above 350 ppm CO₂ — current level is 430 ppm
+- AMOC collapse would cool Arctic by 7°C and warm Antarctica by 6°C simultaneously
+- East Antarctic Ice Sheet at risk, threatening metres of sea level rise
+- Rockström: "The commitment time may be within the next 25 to 50 years. It's literally now."
+
+---
+
+## 2026-06-11 skip | Can you please translate the following in engllis....md
+
+**Source file:** `raw/articles/Can you please translate the following in engllis....md`
+
+**Decision:** Skipped. File contains only a Google Docs iframe with no substantive content. Not an article.
+
+---
+
 ## 2026-06-06 ingest | Lab-Grown Meat — Revolution or Distant Promise?
 
 **Source file:** `raw/own-research/Lab-Grown Meat -  Revolution or Distant Promise.md`

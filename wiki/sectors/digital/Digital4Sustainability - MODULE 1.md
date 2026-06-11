@@ -76,7 +76,7 @@ Here are some example of the negative, often unintended, negative effect of a di
 
 ### 1. Energy use and Emissions
 
-Computers, mobile phones, internet servers and crypto farms require enormous amounts of energy. Data center in particular use vast amount of energy and use large quantities of water, which can impact local water supply- See [[IRELAND Datacentre Dilemna]] for more on Data Center in Ireland for instance 
+Computers, mobile phones, internet servers and crypto farms require enormous amounts of energy. Data center in particular use vast amount of energy and use large quantities of water, which can impact local water supply- See [[wiki/ireland-hub/IRELAND Data Centre Dilemna]] for more on Data Center in Ireland for instance 
 ###### According to an estimate by the ITU, ICT’s share of global electricity consumption was projected to reach 3.2% in 2020
 
 It is also forecasted to increase. This is specially important for Data centers and the recent AI boom, which is straining the US with access to power, and slowing down reneable energy transition for others like Ireland. 
