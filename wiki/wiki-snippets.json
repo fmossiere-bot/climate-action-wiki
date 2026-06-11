@@ -86,6 +86,20 @@
     ]
   },
   {
+    "slug": "ocean-based-climate-solutions",
+    "filename": "biodiversity-land/ocean-based-climate-solutions.md",
+    "label": "Ocean-Based Climate Solutions",
+    "summary": "ocean climate solutions, offshore wind, coastal wetlands, salt marshes, seagrasses, mangroves, seaweed, marine carbon removal, mCDR, ocean alkalinity enhancement, ocean fertilisation, artificial upwelling, overfishing, seafloor protection, aquaculture, Project Drawdown, 30x30, ocean funding, carbon sequestration, blue carbon, nature-based solutions",
+    "category": "biodiversity-land",
+    "tags": [
+      "ocean",
+      "renewables",
+      "nature-based-solutions",
+      "carbon-removal",
+      "seaweed"
+    ]
+  },
+  {
     "slug": "why-bees-matter",
     "filename": "biodiversity-land/why-bees-matter.md",
     "label": "Why Everyone Keeps Talking About Bees",
@@ -555,6 +569,14 @@
     ]
   },
   {
+    "slug": "amoc-collapse-carbon",
+    "filename": "climate-science/amoc-collapse-carbon.md",
+    "label": "AMOC Collapse and Carbon Release",
+    "summary": "AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon",
+    "category": "climate-science",
+    "tags": []
+  },
+  {
     "slug": "class-6-climate-communications",
     "filename": "concepts/behavior-change/Class 6 - Climate Communications.md",
     "label": "Class 6 — Climate Communications",
@@ -607,6 +629,19 @@
       "behaviour",
       "research",
       "science"
+    ]
+  },
+  {
+    "slug": "high-income-carbon-paradox",
+    "filename": "concepts/behavior-change/high-income-carbon-paradox.md",
+    "label": "The High-Income Carbon Paradox",
+    "summary": "carbon footprint, high income, environmental values, frequent flying, ecological footprint, behaviour change, policy vs attitude, Cambridge study, socioeconomic status, individual responsibility, aviation tax, degrowth, BP carbon footprint, environmentalists, emissions inequality, individual action vs system change",
+    "category": "concepts",
+    "tags": [
+      "behaviour",
+      "aviation",
+      "research",
+      "carbon"
     ]
   },
   {
@@ -1184,8 +1219,8 @@
     ]
   },
   {
-    "slug": "ireland-datacentre-dilemna",
-    "filename": "ireland-hub/IRELAND Datacentre Dilemna.md",
+    "slug": "ireland-data-centre-dilemna",
+    "filename": "ireland-hub/IRELAND Data Centre Dilemna.md",
     "label": "Ireland Data Centre Dilemma",
     "summary": "Ireland & Data Centres, Ireland is one of the hot spot for new data centres, how much is AI responsible for the current rush in building new datacentres What is it in the context of limiting emissions, What about ICELAND as the new Eldorado for Data CEnters, Renewable Energy, Natural Cooling, Stability, Connectivity, Competitive Costs, Government Support, Market Response, Article on WDHT, Quantitative Forecasts (Goldman Sachs), 165% increase in data center power demand by 2030, Short-term, 50% by 2027, 7,000 of the world’s 8,808, 14% of total emissions by 2040, 165% by 2030, 300% more power, 27% by 2027, 18% of our national electricity, data centres are eating our renewable energy progress, 5,800 MW of power, nearly 7,000 of the world's 8,808 data centres, four years or more, Direct use, Indirect use, datacentres, datacenters, datacenter, datacentre, data centre.",
     "category": "ireland-hub",
@@ -1445,10 +1480,23 @@
     ]
   },
   {
+    "slug": "environmental-impact-of-football-world-cups",
+    "filename": "sectors/Environmental Impact of football world cups.md",
+    "label": "Environmental Impact of Football World Cups",
+    "summary": "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport",
+    "category": "sectors",
+    "tags": [
+      "sport",
+      "carbon",
+      "aviation",
+      "adaptation"
+    ]
+  },
+  {
     "slug": "environmental-impact-of-the-paris-olympics",
     "filename": "sectors/Environmental Impact of the Paris Olympics.md",
     "label": "Environmental Impact of the Paris Olympics",
-    "summary": "Carbon Footprint Slashed, Per-Visitor Impact, The Reuse Strategy, Sources of Emissions, Renewable Energy Grid, Low-Impact Dining, Context vs. Other Sports",
+    "summary": "Carbon Footprint Slashed, Per-Visitor Impact, The Reuse Strategy, Sources of Emissions, Renewable Energy Grid, Low-Impact Dining, Context vs. Other Sports - Paris Olympics Carbon footprint",
     "category": "sectors",
     "tags": []
   },
@@ -1797,7 +1845,7 @@
     "slug": "facts-about-air-travel",
     "filename": "sectors/transport/FACTS about Air Travel.md",
     "label": "FACTS about Air Travel",
-    "summary": "Progress According to the ClimateActionTracker for the Aviation sector, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%",
+    "summary": "Progress According to the ClimateActionTracker for the Aviation sector, IATA 2026 net zero admission, SAF production gap, CORSIA undermined, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%",
     "category": "sectors",
     "tags": [
       "aviation",
@@ -2452,6 +2500,14 @@
     ]
   },
   {
+    "slug": "amoc-collapse-carbon-newscientist-2026",
+    "filename": "sources/amoc-collapse-carbon-newscientist-2026.md",
+    "label": "Collapse of key ocean current may release billions of tonnes of carbon",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "china-underwater-data-centre-2026",
     "filename": "sources/china-underwater-data-centre-2026.md",
     "label": "Source: World's first underwater data center powered by wind is now online",
@@ -2486,6 +2542,14 @@
     ]
   },
   {
+    "slug": "drawdown-ocean-climate-solutions-2026",
+    "filename": "sources/drawdown-ocean-climate-solutions-2026.md",
+    "label": "What floats and what sinks when it comes to ocean-based climate solutions?",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "fao-global-meat-supply-2026",
     "filename": "sources/fao-global-meat-supply-2026.md",
     "label": "Source: Average person eats six times more chicken than in 1961, UN report finds",
@@ -2512,6 +2576,14 @@
       "carbon",
       "nature"
     ]
+  },
+  {
+    "slug": "iata-netzero-unlikely-2026",
+    "filename": "sources/iata-netzero-unlikely-2026.md",
+    "label": "Airline industry chiefs say 2050 net zero goal now unlikely",
+    "summary": "",
+    "category": "",
+    "tags": []
   },
   {
     "slug": "ireland-datacentre-hidden-tax-2026",
@@ -2584,6 +2656,14 @@
     ]
   },
   {
+    "slug": "un-world-ocean-assessment-2026",
+    "filename": "sources/un-world-ocean-assessment-2026.md",
+    "label": "Severe' stress on oceans as rate of sea level rise doubles in 10 years, UN warns",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "watershed-ai-emissions-guide-2025",
     "filename": "sources/watershed-ai-emissions-guide-2025.md",
     "label": "AI Emissions: A Practical Guide for Corporate Sustainability Leaders",
@@ -2596,6 +2676,30 @@
       "esg",
       "carbon"
     ]
+  },
+  {
+    "slug": "wealthy-biggest-emitters-newscientist",
+    "filename": "sources/wealthy-biggest-emitters-newscientist.md",
+    "label": "Wealthy people with environmental ideals are the biggest emitters",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "world-cup-heat-outrage-optimism-2026",
+    "filename": "sources/world-cup-heat-outrage-optimism-2026.md",
+    "label": "Extreme Heat Breaks — The Climate Story Behind the 2026 World Cup",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "world-cup-heat-reuters-2026",
+    "filename": "sources/world-cup-heat-reuters-2026.md",
+    "label": "Volatile summer weather threatens to turn World Cup into test of heat",
+    "summary": "",
+    "category": "",
+    "tags": []
   },
   {
     "slug": "7-principles-to-sustainability-reporting",
