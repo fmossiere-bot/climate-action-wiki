@@ -89,9 +89,9 @@ France launched its part of this decade at the UN Ocean Conference in Nice, with
 
 Public support is strong. According to a Eurobarometer survey, **85% of Europeans** want their politicians to take action on the climate. Some countries are already moving: Portugal has a largely renewable electricity mix, the United Kingdom has closed its coal power stations, and China may have reached its peak in emissions.
 
-```
-A note on perspective The glaciologist Heïdi Sevestre, whose interview is the main source for this article, argues that climate action should be seen less as a burden and more as a set of co-benefits. Better insulated buildings, for example, are good for the climate but also for health, household budgets, and comfort. Her view is that progress is real even if it is slow, and that broad, imperfect action by many people will matter more than perfect action by a few.
-```
+
+> A note on perspective The glaciologist Heïdi Sevestre, whose interview is the main source for this article, argues that climate action should be seen less as a burden and more as a set of co-benefits. Better insulated buildings, for example, are good for the climate but also for health, household budgets, and comfort. Her view is that progress is real even if it is slow, and that broad, imperfect action by many people will matter more than perfect action by a few.
+
 
 ## Sources
 
