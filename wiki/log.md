@@ -4,6 +4,26 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-12 ingest | A Patagonia Story
+
+**Source file:** `raw/own-research/a Patagonia story.md`
+**Original source:** Own research by Fabien Mossière
+
+**What was done:**
+- Filed directly (own-research — no summarising): `wiki/concepts/company-evaluations/patagonia-story.md`
+- Added standard frontmatter, editorial summary, and relative markdown links
+- Updated `wiki/index.md`
+
+**Key content:**
+- Yvon Chouinard's journey from Californian climbing obsession to global outdoor brand
+- 1972: stopped making pitons (his best-selling product) to protect rock faces — first act of putting planet before profit
+- One Percent for the Planet (founded 1986); switch to organic cotton 1994; repair culture; "Don't Buy This Jacket" 2011
+- 2017: Patagonia sued Trump over shrinking of Utah national monuments; protections restored in 2021
+- 2022: gave entire company to an environmental trust — ~$100m/year in profit now goes to environmental causes
+- Honest acknowledgement of contradictions: still manufactures in low-cost countries, faces greenwashing criticism
+
+---
+
 ## 2026-06-12 ingest | Greenwashing, illegality and false claims: 13 climate litigation wins in 2025
 
 **Source file:** `raw/articles/Greenwashing, illegality and false claims 13 climate litigation wins in 2025.md`

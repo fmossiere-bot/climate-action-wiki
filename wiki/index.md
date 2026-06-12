@@ -156,6 +156,7 @@ Funding the transition — investment, risk, green banking.
 | L'OREAL - GREEN DIGEST | L'Oréal sustainability evaluation |
 | NIKE - GREEN DIGEST | Nike sustainability evaluation |
 | STENA Ferry Sustainability Commitment | Stena Line sustainability |
+| [[patagonia-story]] | **NEW** — Yvon Chouinard and Patagonia: from piton-forger to suing the US president, to giving the company to the planet in 2022 |
 
 ---
 
