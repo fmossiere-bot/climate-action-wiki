@@ -47,9 +47,9 @@ The study of ice is called glaciology. It looks at how glaciers, sea ice, and th
 
 **Safety.** Watching glaciers closely can save lives. In the Swiss canton of Valais, scientists working with local authorities tracked an unstable glacier above the village of Blatten and called for an evacuation before it failed.
 
-```
-The Blatten collapse, May 2025 On 28 May 2025, the Birch glacier above Blatten in the Lötschental valley collapsed, sending an estimated 20 million tonnes of rock and ice into the valley and burying about 90% of the village. Because geologists had been monitoring the danger, the roughly 300 residents and their livestock had already been evacuated between 17 and 19 May. One man, who was outside the evacuation zone, died. The early warning prevented a much larger loss of life.
-```
+
+> The Blatten collapse, May 2025 On 28 May 2025, the Birch glacier above Blatten in the Lötschental valley collapsed, sending an estimated 20 million tonnes of rock and ice into the valley and burying about 90% of the village. Because geologists had been monitoring the danger, the roughly 300 residents and their livestock had already been evacuated between 17 and 19 May. One man, who was outside the evacuation zone, died. The early warning prevented a much larger loss of life.
+
 
 ## The risks
 
