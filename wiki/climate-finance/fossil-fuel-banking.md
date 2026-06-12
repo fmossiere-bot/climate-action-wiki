@@ -1,12 +1,16 @@
 ---
-title: "Fossil Fuel Banking"
+title: Fossil Fuel Banking
 category: climate-finance
-tags: ["#fossil-fuels", "#finance", "#esg", "#greenwashing"]
-sources: ["The Guardian, Oliver Milman, 9 June 2026 — https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025"]
+tags:
+  - "#fossil-fuels"
+  - "#finance"
+  - "#esg"
+  - "#greenwashing"
+sources:
+  - The Guardian, Oliver Milman, 9 June 2026 — https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025
 created: 2026-06-12
 updated: 2026-06-12
-cover_image: "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200"
-summary: "fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of America, MUFG, Barclays, Citigroup, net zero banking alliance, fossil fuel financing, $906 billion, dirty dozen, Paris Agreement, oil and gas lending, coal financing, Net-Zero Banking Alliance, voluntary commitments, financial regulation, Venture Global, Enbridge, climate chaos, stranded assets, fossil fuel subsidies"
+summary: fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of America, MUFG, Barclays, Citigroup, net zero banking alliance, fossil fuel financing, $906 billion, dirty dozen, Paris Agreement, oil and gas lending, coal financing, Net-Zero Banking Alliance, voluntary commitments, financial regulation, Venture Global, Enbridge, climate chaos, stranded assets, fossil fuel subsidies
 ---
 
 # Fossil Fuel Banking
