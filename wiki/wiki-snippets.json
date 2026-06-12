@@ -11,15 +11,15 @@
     "slug": "biodiversity-for-business-101",
     "filename": "biodiversity-land/Biodiversity for Business 101.md",
     "label": "Biodiversity for Business 101",
-    "summary": "15 Key Biodiversity Objectives for Business, Business for Biodiversity",
+    "summary": " Biodiversity Objectives for Business, Business for Biodiversity, why biodiversity matters to businesses, supply chain, impact of businesses on biodiversity",
     "category": "biodiversity-land",
     "tags": []
   },
   {
-    "slug": "biodiversity-restauration-credits",
-    "filename": "biodiversity-land/Biodiversity restauration CREDITS.md",
+    "slug": "coffeeangel-an-example-of-biodiversity-restauration-credits-use",
+    "filename": "biodiversity-land/Coffeeangel - an example of Biodiversity restauration credits use.md",
     "label": "Biodiversity Restoration Credits",
-    "summary": "Dunsany estate in Co Meath agrees landmark Irish biodiversity deal, How is it verified, Is biodiversity being considered in Sustainability Reporting",
+    "summary": "Irish speciality coffee group Coffeeangel is joining forces with the Dunsany Estate in Co Meath and cleantech company Bionua in an initiative that will see it commit 5 per cent of profits over the next five years to buying biodiversity credits. This was the first time such a deal has been completed in Ireland and only the second time across Europe.",
     "category": "biodiversity-land",
     "tags": []
   },
@@ -32,26 +32,10 @@
     "tags": []
   },
   {
-    "slug": "facts-about-glacier",
-    "filename": "biodiversity-land/FACTS about Glacier.md",
-    "label": "FACTS about Glaciers",
-    "summary": "Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, An interview with Heidi Sevestre",
-    "category": "biodiversity-land",
-    "tags": []
-  },
-  {
     "slug": "facts-about-water",
     "filename": "biodiversity-land/FACTS about Water.md",
     "label": "FACTS about Water",
     "summary": "Supply of water is no infinite, Consumption on the rise, and planned to grow 55% by 2050, Individual Consumption example, Freshwater Boundary, See [[Keynote Dr Chip FLETCHER]] on important fact about Water usage, From [[FACTS on EVERYTHING - Under the Sky we Make]], Access to Water is more and more Inequitable, The Water CYCLE, What is a Water Footprint, The role of the EPA in IRELAND, Investor guide on water risks in agricultural supply chains, Course Material Water Footprint, Watertech emerging in France, La Vendee is trialing the Re-use of USED water, Aquaviva - De-Salting sea water, How in some southern regions like Sicily, authorities need to make a choice between agriculture and tourism in rationing water use, Catalunya 5 solutions to deal with the lack of water, True wealth is Water - could it replace 'Capitalism', First Water shortage of the year in Co.Cavan, The BLUE Gold - has a price, Blue water, Green water, already outside, Why it matters, Caveats and things to keep in mind, Water and Food impact: There is a fresh water impact",
-    "category": "biodiversity-land",
-    "tags": []
-  },
-  {
-    "slug": "facts-about-wetlands",
-    "filename": "biodiversity-land/FACTS about Wetlands.md",
-    "label": "FACTS about Wetlands",
-    "summary": "Wetlands and Ireland, Wetlands made more salty from rising Sea-Level, About Peatland, About Marshland in England to protect from Floods, Mangroves, Peatlands, Marshes, Swamps, Floodplains",
     "category": "biodiversity-land",
     "tags": []
   },
@@ -64,10 +48,26 @@
     "tags": []
   },
   {
-    "slug": "interesting-facts-about-the-ocean",
-    "filename": "biodiversity-land/Interesting facts about the Ocean.md",
-    "label": "Facts about the Ocean",
+    "slug": "glaciers-in-retreat-facts-risks-and-what-can-be-done",
+    "filename": "biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md",
+    "label": "Glaciers in Retreat: Facts, Risks, and What Can Be Done",
+    "summary": "|-",
+    "category": "biodiversity-land",
+    "tags": []
+  },
+  {
+    "slug": "interesting-facts-we-learnt-in-ocean-a-book-by-david-attenborough",
+    "filename": "biodiversity-land/Interesting facts we learnt in Ocean - a book by David Attenborough.md",
+    "label": "Interesting facts we learnt in Ocean - a book by David Attenborough",
     "summary": "About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, Mangroves, Incredible Adaptations, Vital Ecosystem Services, Oceanic Island and Seamounts, Southern Ocean, Krills, 2030 goal - protect 30% of the ocean, Blue whales, win for both nature and local communities, piangua, sustainable income, ecologically and economically viable, Saltwater Specialists, 'Breathing' Roots, Sturdy Support Systems, Unique Reproduction, Coastal Protection, Biodiversity Hotspots, Natural Water Filters, Carbon Sinks, Importance for Biodiversity, High Endemism, endemic, Apex Predator Dominance, apex predators, Critical Habitat, Coral Reefs, How it is Protected, Marine National Monument, Co-Management, No-Take Policy, National Marine Sanctuary, Cultural Heritage, Scientific Reference Site, Global Conservation Model, How many seamounts are there, over 100,000, Why are they important, Habitat for Deep-Sea Life, Nutrient Upwelling, 'Oases in the Desert', Can they be protected, Marine Protected Areas (MPAs), International Efforts, New Treaties",
+    "category": "biodiversity-land",
+    "tags": []
+  },
+  {
+    "slug": "the-importance-of-wetlands",
+    "filename": "biodiversity-land/The importance of Wetlands.md",
+    "label": "The importance of Wetlands",
+    "summary": "Wetlands and Ireland, Wetlands made more salty from rising Sea-Level, About Peatland, About Marshland in England to protect from Floods, Mangroves, Peatlands, Marshes, Swamps, Floodplains and the EU nature low, biodiversity plan and wetland restoration plan",
     "category": "biodiversity-land",
     "tags": []
   },
@@ -77,13 +77,7 @@
     "label": "Mangrove Forests Recovery",
     "summary": "mangroves, mangrove forests, coastal ecosystems, carbon storage, blue carbon, coastal protection, storm surge, tsunami, Indonesia, Myanmar, Niger Delta, Africa, deforestation, fish farms, aquaculture, habitat restoration, natural regeneration, Landsat satellite, closed canopy, net gain, oil pollution, tropical cyclones, biodiversity, marine nursery, carbon sink",
     "category": "biodiversity-land",
-    "tags": [
-      "ocean",
-      "biodiversity",
-      "nature",
-      "carbon",
-      "adaptation"
-    ]
+    "tags": []
   },
   {
     "slug": "ocean-based-climate-solutions",
@@ -91,13 +85,7 @@
     "label": "Ocean-Based Climate Solutions",
     "summary": "ocean climate solutions, offshore wind, coastal wetlands, salt marshes, seagrasses, mangroves, seaweed, marine carbon removal, mCDR, ocean alkalinity enhancement, ocean fertilisation, artificial upwelling, overfishing, seafloor protection, aquaculture, Project Drawdown, 30x30, ocean funding, carbon sequestration, blue carbon, nature-based solutions",
     "category": "biodiversity-land",
-    "tags": [
-      "ocean",
-      "renewables",
-      "nature-based-solutions",
-      "carbon-removal",
-      "seaweed"
-    ]
+    "tags": []
   },
   {
     "slug": "why-bees-matter",
