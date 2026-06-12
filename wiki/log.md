@@ -4,6 +4,105 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-12 ingest | Greenwashing, illegality and false claims: 13 climate litigation wins in 2025
+
+**Source file:** `raw/articles/Greenwashing, illegality and false claims 13 climate litigation wins in 2025.md`
+**Original source:** The Guardian, Isabella Kaminski, 31 December 2025 — https://www.theguardian.com/environment/2025/dec/31/greenwashing-illegality-false-claims-climate-litigation-wins-2025
+
+**What was done:**
+- Created source summary: `wiki/sources/climate-litigation-wins-2025.md`
+- Updated existing page: `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md` — added 2025 litigation section with 13 key wins; updated frontmatter tags and summary
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Rosebank and Jackdaw North Sea fields ruled illegal in the UK (scope 3 emissions not assessed)
+- TotalEnergies convicted of greenwashing in France
+- Apple Watch "carbon neutral" claim banned in Germany; dropped worldwide
+- JBS ($1.1m settlement) and Tyson (dropped net zero claims) in the US
+- EnergyAustralia settled — acknowledged offsets do not undo GHG damage
+- Three Norwegian oilfields declared unlawful
+- NSW coalmine expansion blocked on scope 3 grounds
+- ICJ advisory opinion: states must prevent harm to the climate system
+- UK forced to publish stronger climate delivery plan
+
+---
+
+## 2026-06-12 ingest | World's largest banks pledged $906bn to fossil fuel companies in 2025
+
+**Source file:** `raw/articles/World's largest banks pledged $906bn to fossil fuel companies in 'unfathomable' increase in 2025, report finds.md`
+**Original source:** The Guardian, Oliver Milman, 9 June 2026 — https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025
+
+**What was done:**
+- Created source summary: `wiki/sources/banking-on-climate-chaos-2025.md`
+- Created new wiki page: `wiki/climate-finance/fossil-fuel-banking.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- $906bn committed by 65 largest banks to fossil fuels in 2025, up 8% on 2024
+- $8.7 trillion total since the Paris Agreement (2015–2025)
+- JPMorgan Chase leads at $58bn; Bank of America, MUFG, Mizuho, Citigroup follow
+- $508bn for fossil fuel expansion specifically, up 27%
+- "Dirty dozen" banks responsible for 40% of all industry fossil fuel funding
+- Net-Zero Banking Alliance (UN-backed) disbanded in 2025 after mass departures
+- 26 of 65 banks reduced fossil fuel financing; BNP Paribas, UBS, La Caixa led reductions
+
+---
+
+## 2026-06-12 ingest | Seaqual removes plastic from the Ocean and turns it into fashion
+
+**Source file:** `raw/own-research/Seaqual removes plastic from the Ocean and turn it into fashion.md`
+**Original source:** Own research by Fabien Mossière
+
+**What was done:**
+- Filed directly (own-research — no summarising): `wiki/circularity-waste/seaqual-ocean-plastic-fashion.md`
+- Added standard frontmatter, editorial summary, and relative markdown links
+- Updated `wiki/index.md`
+
+**Key content:**
+- Seaqual Initiative: industrial-scale marine plastic upcycling founded 2016 in Spain (Antex, Textil Santanderina, Ecoalf)
+- SEAQUAL® YARN = 10% upcycled marine plastic + 90% land-based rPET (engineering constraint due to degraded marine polymer)
+- LCA: 37% reduction in GWP vs virgin PET; identical to standard post-consumer rPET
+- Sourcing from Spain/Mediterranean (PA6 fishing nets), North Africa, Latin America, Vietnam (PET bottles)
+- Traceability via DNA tracers + AWARE blockchain system; certified GRS + Oeko-Tex
+- SEAQUAL® YARN T2T: next-gen textile-to-textile chemical recycling
+- Brand take-back programmes: Isomi, Duvaltex, Burlington Restora, Wetheknot
+
+---
+
+## 2026-06-12 ingest | Extreme weather in 2025 drove record wildfire emissions in Europe + Arctic fires releasing ancient carbon
+
+**Source files:**
+- `raw/papers/New Scientist 2.pdf` (contains both articles)
+- `raw/papers/Artic-Fires.pdf` (companion file for the Arctic fires article)
+
+**Original sources:**
+- New Scientist, Alec Luhn, 29 April 2026 (updated 15 May 2026): Europe wildfires
+- New Scientist, Michael Le Page, 13 May 2026 (updated 30 May 2026): Arctic fires
+
+**What was done:**
+- Created source summary: `wiki/sources/europe-wildfires-2025-newscientist.md`
+- Created source summary: `wiki/sources/arctic-fires-ancient-carbon-2026.md`
+- Created new wiki page: `wiki/climate-science/wildfires-climate-feedback.md` (covers both articles)
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Europe: fastest-warming continent, warming 2× global average; 2025 hottest year on record in UK, Iceland, Norway
+- 3-week Arctic heatwave reaching 30°C inside the Arctic circle (typically 0–2 heat-stress days per year)
+- European wildfires emitted 47 million tonnes of carbon in 2025 — a record
+- Portugal and Spain fires made at least 40× more likely by climate change; 10,000+ sq km burned
+- Arctic/boreal fires burning peat carbon up to 5,000 years old — not captured by climate models
+- Smouldering of ancient soil organic matter releases CO₂ and black carbon (soot)
+- Black carbon darkens ice/snow, accelerating melt
+- Climate models systematically underestimate wildfire emissions
+
+## 2026-06-12 skip | _TEMPLATE.md
+
+**Source file:** `raw/articles/_TEMPLATE.md`
+
+**Decision:** Skipped. File is an article clipping template, not content to ingest.
+
+---
+
 ## 2026-06-11 ingest | Airline industry chiefs say 2050 net zero goal now unlikely
 
 **Source file:** `raw/articles/Airline industry chiefs say 2050 net zero goal now unlikely.md`

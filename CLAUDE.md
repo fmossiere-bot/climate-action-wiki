@@ -244,7 +244,12 @@ When asked to ingest new files:
    files not yet listed in wiki/log.md
 2. For each new file:
    - If it is in raw/own-research/: file directly into the right wiki 
-     category, add frontmatter, tags and wikilinks, do not summarise
+     category, add frontmatter, tags and wikilinks. Add a short 
+     editorial summary (2–3 sentences) immediately after the frontmatter 
+     and before the original content, introduced with a `> ` blockquote 
+     and the label **Editorial summary:**. This gives readers a quick 
+     orientation without altering the original text. Do not summarise 
+     or rewrite anything in the body.
    - If it is an external article or PDF: read and understand it fully, 
      create a summary page in wiki/sources/, identify which existing 
      wiki pages are affected and update them, create new wiki pages 

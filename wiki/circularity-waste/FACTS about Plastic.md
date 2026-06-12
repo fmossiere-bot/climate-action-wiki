@@ -292,16 +292,6 @@ See [[FACTS about the Ocean]]
 
 ---
 
-## Seaqual to remove plastic from the Ocean and turn it into fashion
-#ocean #plastic #tftp 
-==*Source: www.seaqual.org* ==
-
-![[Screenshot 2024-01-27 at 13.29.10.png]]
-
-Seaqual is from Girona, submitted fundings from TFTP. It recovers plastic and other waste, and turns them into material
-
-Find more about their approach [here](evernote:///view/1733566/s15/18cdec55-8164-4987-860e-facc88450246/53140278-a9c0-4ad7-9b6b-c9aebb8bc0e1) 
-From teh question, seems that their material today uses only 10% of plastic from the ocean, 90% from teh land. Still good though
 
 
 ---

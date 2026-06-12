@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-11
+Last updated: 2026-06-12
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -30,6 +30,10 @@ Summaries of every ingested source file.
 | [[drawdown-ocean-climate-solutions-2026]] | Project Drawdown (Jun 2026): ranking ocean climate solutions — offshore wind top, coastal wetlands strong, novel mCDR uncertain |
 | [[wealthy-biggest-emitters-newscientist]] | New Scientist (Alec Luhn): high-income environmentalists have larger footprints than peers — mainly frequent flying; policy beats attitude change |
 | [[amoc-collapse-carbon-newscientist-2026]] | New Scientist (Apr 2026): AMOC collapse could release 640 billion tonnes of CO₂ from Southern Ocean, adding 0.2°C — Potsdam Institute |
+| [[climate-litigation-wins-2025]] | Guardian (Dec 2025): 13 climate litigation wins in 2025 — Rosebank illegal, TotalEnergies convicted, JBS and Tyson settled, ICJ advisory opinion |
+| [[banking-on-climate-chaos-2025]] | Guardian (Jun 2026): world's 65 largest banks committed $906bn to fossil fuels in 2025, up 8%; JPMorgan leads at $58bn; Net-Zero Banking Alliance disbanded |
+| [[europe-wildfires-2025-newscientist]] | New Scientist (Apr 2026): Europe's record 2025 wildfires — 47m tonnes carbon emitted; Iberian fires 40× more likely due to climate change |
+| [[arctic-fires-ancient-carbon-2026]] | New Scientist (May 2026): Arctic fires burning carbon up to 5,000 years old — climate models underestimate wildfire emissions |
 
 ---
 
@@ -56,6 +60,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | OZONE Layer FACTS | Ozone layer science |
 | Wet-Bulb explained | Wet-bulb temperature and human survivability |
 | [[amoc-collapse-carbon]] | **NEW** — AMOC collapse could release 640 billion tonnes of CO₂; already past the irreversibility threshold at 430 ppm CO₂ |
+| [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
 
 ---
 
@@ -75,6 +80,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Class 17 - Finance and Climate Change - Investment | Terra.do Class 17: climate investment |
+| [[fossil-fuel-banking]] | **NEW** — $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
 | Class 18 - Finance and Climate Change - RISK | Terra.do Class 18: climate financial risk |
 | GREEN Your Bank ACTION GUIDE | How to switch to a green bank |
 | Green Pension ACTION GUIDE | How to green your pension |
@@ -351,6 +357,7 @@ Funding the transition — investment, risk, green banking.
 | Recycling - Project Drawdown 42 | Recycling as climate solution |
 | Reduced Food Waste - Project Drawdown 1 | Food waste reduction |
 | The Environmental Impact of the FASHION industry | Fashion's climate footprint |
+| [[seaqual-ocean-plastic-fashion]] | **NEW** — Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |
 | Waste to Energy - Project Drawdown 58 | Waste-to-energy systems |
 
