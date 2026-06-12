@@ -1,10 +1,14 @@
 ---
 title: Mangrove Forests Recovery
 category: biodiversity-land
-tags: [ocean, biodiversity, nature, carbon, adaptation]
+tags:
+  - ocean
+  - biodiversity
+  - nature
+  - carbon
+  - adaptation
 created: 2026-06-06
 updated: 2026-06-06
-cover_image: https://images.unsplash.com/photo-1589308078059-be1415eab4c3?q=80&w=1170&auto=format&fit=crop
 summary: mangroves, mangrove forests, coastal ecosystems, carbon storage, blue carbon, coastal protection, storm surge, tsunami, Indonesia, Myanmar, Niger Delta, Africa, deforestation, fish farms, aquaculture, habitat restoration, natural regeneration, Landsat satellite, closed canopy, net gain, oil pollution, tropical cyclones, biodiversity, marine nursery, carbon sink
 ---
 

@@ -1,12 +1,17 @@
 ---
-title: "Ocean-Based Climate Solutions"
+title: Ocean-Based Climate Solutions
 category: biodiversity-land
-tags: ["#ocean", "#renewables", "#nature-based-solutions", "#carbon-removal", "#seaweed"]
-sources: ["Project Drawdown, Christina Richardson PhD, 2 June 2026 — https://drawdown.org/insights/what-floats-and-what-sinks-when-it-comes-to-ocean-based-climate-solutions"]
+tags:
+  - "#ocean"
+  - "#renewables"
+  - "#nature-based-solutions"
+  - "#carbon-removal"
+  - "#seaweed"
+sources:
+  - Project Drawdown, Christina Richardson PhD, 2 June 2026 — https://drawdown.org/insights/what-floats-and-what-sinks-when-it-comes-to-ocean-based-climate-solutions
 created: 2026-06-11
 updated: 2026-06-11
-cover_image: "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=1200"
-summary: "ocean climate solutions, offshore wind, coastal wetlands, salt marshes, seagrasses, mangroves, seaweed, marine carbon removal, mCDR, ocean alkalinity enhancement, ocean fertilisation, artificial upwelling, overfishing, seafloor protection, aquaculture, Project Drawdown, 30x30, ocean funding, carbon sequestration, blue carbon, nature-based solutions"
+summary: ocean climate solutions, offshore wind, coastal wetlands, salt marshes, seagrasses, mangroves, seaweed, marine carbon removal, mCDR, ocean alkalinity enhancement, ocean fertilisation, artificial upwelling, overfishing, seafloor protection, aquaculture, Project Drawdown, 30x30, ocean funding, carbon sequestration, blue carbon, nature-based solutions
 ---
 
 # Ocean-Based Climate Solutions
@@ -59,7 +64,7 @@ One warning from Project Drawdown: mCDR funding should not divert money from pro
 
 - [Mangrove Forests Recovery](mangrove-forests-recovery.md)
 - [FACTS about the Ocean](FACTS%20about%20the%20Ocean.md)
-- [FACTS about Wetlands](FACTS%20about%20Wetlands.md)
+- [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
 - [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md)
 
 ## Sources

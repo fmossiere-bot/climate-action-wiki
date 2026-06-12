@@ -32,4 +32,4 @@ Arctic and boreal wildfires are far more dangerous to the climate than current m
 
 - [Wildfires and Climate Feedback](../climate-science/wildfires-climate-feedback.md)
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [FACTS about Wetlands](../biodiversity-land/FACTS%20about%20Wetlands.md)
+- [The importance of Wetlands](The%20importance%20of%20Wetlands.md)

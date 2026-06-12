@@ -63,7 +63,7 @@ Wildfires also release **black carbon** — fine soot particles. Black carbon ha
 
 - [FACTS about Glacier](FACTS%20about%20Glacier.md)
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [FACTS about Wetlands](../biodiversity-land/FACTS%20about%20Wetlands.md)
+- [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
 - [AMOC Collapse and Carbon Release](amoc-collapse-carbon.md)
 - [Class 5 - Local Impact and Extreme Events Attribution](Class%205%20-%20Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
 

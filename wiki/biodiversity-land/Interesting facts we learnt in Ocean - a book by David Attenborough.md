@@ -1,5 +1,5 @@
 ---
-title: Facts about the Ocean
+title: Interesting facts we learnt in Ocean - a book by David Attenborough
 category: biodiversity-land
 tags:
   - ocean
@@ -7,7 +7,7 @@ tags:
   - research
 created: 2025-06-01
 updated: 2026-06-01
-summary: "About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, Mangroves, Incredible Adaptations, Vital Ecosystem Services, Oceanic Island and Seamounts, Southern Ocean, Krills, 2030 goal - protect 30% of the ocean, Blue whales, win for both nature and local communities, piangua, sustainable income, ecologically and economically viable, Saltwater Specialists, 'Breathing' Roots, Sturdy Support Systems, Unique Reproduction, Coastal Protection, Biodiversity Hotspots, Natural Water Filters, Carbon Sinks, Importance for Biodiversity, High Endemism, endemic, Apex Predator Dominance, apex predators, Critical Habitat, Coral Reefs, How it is Protected, Marine National Monument, Co-Management, No-Take Policy, National Marine Sanctuary, Cultural Heritage, Scientific Reference Site, Global Conservation Model, How many seamounts are there, over 100,000, Why are they important, Habitat for Deep-Sea Life, Nutrient Upwelling, 'Oases in the Desert', Can they be protected, Marine Protected Areas (MPAs), International Efforts, New Treaties"
+summary: About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, Mangroves, Incredible Adaptations, Vital Ecosystem Services, Oceanic Island and Seamounts, Southern Ocean, Krills, 2030 goal - protect 30% of the ocean, Blue whales, win for both nature and local communities, piangua, sustainable income, ecologically and economically viable, Saltwater Specialists, 'Breathing' Roots, Sturdy Support Systems, Unique Reproduction, Coastal Protection, Biodiversity Hotspots, Natural Water Filters, Carbon Sinks, Importance for Biodiversity, High Endemism, endemic, Apex Predator Dominance, apex predators, Critical Habitat, Coral Reefs, How it is Protected, Marine National Monument, Co-Management, No-Take Policy, National Marine Sanctuary, Cultural Heritage, Scientific Reference Site, Global Conservation Model, How many seamounts are there, over 100,000, Why are they important, Habitat for Deep-Sea Life, Nutrient Upwelling, 'Oases in the Desert', Can they be protected, Marine Protected Areas (MPAs), International Efforts, New Treaties
 ---
 
 
