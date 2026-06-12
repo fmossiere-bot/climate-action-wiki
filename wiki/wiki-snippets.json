@@ -320,6 +320,14 @@
     ]
   },
   {
+    "slug": "seaqual-ocean-plastic-fashion",
+    "filename": "circularity-waste/seaqual-ocean-plastic-fashion.md",
+    "label": "Seaqual — Turning Ocean Plastic into Fashion",
+    "summary": "Seaqual, marine plastic, upcycled plastic, ocean plastic, recycled polyester, rPET, fishing nets, polyamide, circular fashion, LCA, life cycle assessment, Spain, Mediterranean, Antex, Textil Santanderina, Ecoalf, supply chain, DNA tracer, GRS, Oeko-Tex, textile-to-textile, chemical recycling, microplastics, blue economy, seabed, fishermen, take-back, circular economy, fashion industry",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
     "slug": "class-20-adaptation-and-resilience",
     "filename": "climate-adaptation/Class 20 - Adaptation and Resilience.md",
     "label": "Class 20 — Adaptation and Resilience",
@@ -378,6 +386,19 @@
     "category": "climate-finance",
     "tags": [
       "finance"
+    ]
+  },
+  {
+    "slug": "fossil-fuel-banking",
+    "filename": "climate-finance/fossil-fuel-banking.md",
+    "label": "Fossil Fuel Banking",
+    "summary": "fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of America, MUFG, Barclays, Citigroup, net zero banking alliance, fossil fuel financing, $906 billion, dirty dozen, Paris Agreement, oil and gas lending, coal financing, Net-Zero Banking Alliance, voluntary commitments, financial regulation, Venture Global, Enbridge, climate chaos, stranded assets, fossil fuel subsidies",
+    "category": "climate-finance",
+    "tags": [
+      "fossil-fuels",
+      "finance",
+      "esg",
+      "greenwashing"
     ]
   },
   {
@@ -575,6 +596,19 @@
     "summary": "AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon",
     "category": "climate-science",
     "tags": []
+  },
+  {
+    "slug": "wildfires-climate-feedback",
+    "filename": "climate-science/wildfires-climate-feedback.md",
+    "label": "Wildfires as a Climate Feedback",
+    "summary": "wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record",
+    "category": "climate-science",
+    "tags": [
+      "science",
+      "carbon",
+      "adaptation",
+      "biodiversity"
+    ]
   },
   {
     "slug": "class-6-climate-communications",
@@ -970,10 +1004,12 @@
     "slug": "greenwashing-lawsuits-on-the-rise",
     "filename": "concepts/key-ideas/Greenwashing lawsuits on the rise.md",
     "label": "Greenwashing Lawsuits on the Rise",
-    "summary": "Methane , Land-Use change",
+    "summary": "greenwashing lawsuits, climate litigation, JBS, TotalEnergies, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal",
     "category": "concepts",
     "tags": [
-      "greenwashing"
+      "greenwashing",
+      "fossil-fuels",
+      "esg"
     ]
   },
   {
@@ -2508,6 +2544,22 @@
     "tags": []
   },
   {
+    "slug": "arctic-fires-ancient-carbon-2026",
+    "filename": "sources/arctic-fires-ancient-carbon-2026.md",
+    "label": "Arctic fires are releasing carbon stored for thousands of years",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "banking-on-climate-chaos-2025",
+    "filename": "sources/banking-on-climate-chaos-2025.md",
+    "label": "World's largest banks pledged $906bn to fossil fuel companies in 'unfathomable' increase in 2025",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "china-underwater-data-centre-2026",
     "filename": "sources/china-underwater-data-centre-2026.md",
     "label": "Source: World's first underwater data center powered by wind is now online",
@@ -2519,6 +2571,14 @@
       "science",
       "cool-companies"
     ]
+  },
+  {
+    "slug": "climate-litigation-wins-2025",
+    "filename": "sources/climate-litigation-wins-2025.md",
+    "label": "Greenwashing, illegality and false claims: 13 climate litigation wins in 2025",
+    "summary": "",
+    "category": "",
+    "tags": []
   },
   {
     "slug": "colombia-santa-marta-fossil-fuel-talks-2026",
@@ -2545,6 +2605,14 @@
     "slug": "drawdown-ocean-climate-solutions-2026",
     "filename": "sources/drawdown-ocean-climate-solutions-2026.md",
     "label": "What floats and what sinks when it comes to ocean-based climate solutions?",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "europe-wildfires-2025-newscientist",
+    "filename": "sources/europe-wildfires-2025-newscientist.md",
+    "label": "Extreme weather in 2025 drove record wildfire emissions in Europe",
     "summary": "",
     "category": "",
     "tags": []
