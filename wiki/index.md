@@ -34,6 +34,7 @@ Summaries of every ingested source file.
 | [[banking-on-climate-chaos-2025]] | Guardian (Jun 2026): world's 65 largest banks committed $906bn to fossil fuels in 2025, up 8%; JPMorgan leads at $58bn; Net-Zero Banking Alliance disbanded |
 | [[europe-wildfires-2025-newscientist]] | New Scientist (Apr 2026): Europe's record 2025 wildfires — 47m tonnes carbon emitted; Iberian fires 40× more likely due to climate change |
 | [[arctic-fires-ancient-carbon-2026]] | New Scientist (May 2026): Arctic fires burning carbon up to 5,000 years old — climate models underestimate wildfire emissions |
+| [[coffeeangel-biodiversity-credits]] | Coffeeangel website: 5% of profits to Nature Capital Credits at Dunsany Nature Reserve — ISO-verified, AI-monitored, Ireland biodiversity context |
 
 ---
 
@@ -325,14 +326,14 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Biodiversity for Business 101 | Biodiversity basics for companies |
-| Biodiversity restauration CREDITS | Biodiversity credits and markets |
+| Biodiversity Restoration Credits — Coffeeangel | Coffeeangel's Nature Capital Credits deal with Dunsany Nature Reserve; biodiversity crisis in Ireland; ISO-verified carbon monitoring |
 | FACTS about Forest, Land Use and Land management | Forest and land use facts |
 | FACTS about Glacier | Glacier retreat and freshwater |
 | FACTS about Water | Global water facts |
 | FACTS about Wetlands | Wetland ecosystems and climate |
 | FACTS about the Ocean | Ocean health data |
 | [[mangrove-forests-recovery]] | **NEW** — Mangrove forests staging a comeback: world gains more than it loses since 2010 |
-| [[ocean-based-climate-solutions]] | **NEW** — Ocean climate solutions ranked: offshore wind top, coastal wetland protection strong, novel mCDR uncertain, some not recommended |
+| [[Ocean Based Climate Solutions]] | **NEW** — Ocean climate solutions ranked: offshore wind top, coastal wetland protection strong, novel mCDR uncertain, some not recommended |
 | OCEAN - Book Notes | Book notes on ocean ecosystems |
 | [[why-bees-matter]] | **NEW** — Why bees matter: pollinators, food system dependence, rooftop hive myths, what actually helps |
 

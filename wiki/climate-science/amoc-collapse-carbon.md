@@ -58,7 +58,7 @@ Beyond the carbon feedback, AMOC collapse would:
 ## Connected topics
 
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [Ocean-Based Climate Solutions](../biodiversity-land/ocean-based-climate-solutions.md)
+- [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)
 - [FACTS about Glacier](FACTS%20about%20Glacier.md)
 - [Class 4 - Global Impact of Climate Change](Class%204%20-%20Global%20Impact%20of%20Climate%20Change.md)
 

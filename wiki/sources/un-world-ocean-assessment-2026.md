@@ -30,5 +30,5 @@ The UN's third World Ocean Assessment, drawing on nearly 600 scientists from 86 
 ## Related wiki pages
 
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [Ocean-Based Climate Solutions](../biodiversity-land/ocean-based-climate-solutions.md)
+- [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)
 - [FACTS about the Wetlands](The%20importance%20of%20Wetlands.md)

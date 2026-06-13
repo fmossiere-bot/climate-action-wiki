@@ -529,3 +529,10 @@ Chronological record of all ingest, update, and maintenance operations.
 - Carbon intensity varies 50-fold by location (0.02–1 tonne CO₂-eq/MWh)
 - Smart geographic placement could reduce water scarcity footprint by 90% and carbon by 55%
 - Hyperscale data centres are ~6× more water-efficient per workload than internal centres
+
+## 2026-06-13 ingest | Coffeeangel: Brewing a Better Future with Biodiversity
+
+- Source: `raw/articles/Coffeeangel Brewing a Better Future with Biodiversity.md`
+- Source summary created: `wiki/sources/coffeeangel-biodiversity-credits.md`
+- Existing wiki page updated: `wiki/biodiversity-land/Coffeeangel - an example of Biodiversity restauration credits use.md` — frontmatter corrected (quoted tags, proper keyword summary, added sources and cover_image fields, updated title)
+- `wiki/index.md` updated (sources section + biodiversity-land section)

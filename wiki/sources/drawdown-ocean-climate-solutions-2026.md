@@ -27,6 +27,6 @@ A Project Drawdown research fellow reviewed 14+ ocean-based climate solutions an
 
 ## Related wiki pages
 
-- [Ocean-Based Climate Solutions](../biodiversity-land/ocean-based-climate-solutions.md)
+- [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)
 - [Mangrove Forests Recovery](../biodiversity-land/mangrove-forests-recovery.md)
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)

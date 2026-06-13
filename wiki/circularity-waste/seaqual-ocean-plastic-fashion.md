@@ -19,7 +19,7 @@ summary: Seaqual, marine plastic, upcycled plastic, ocean plastic, recycled poly
 
 ## Seaqual to remove plastic from the Ocean and turn it into fashion
 ==*Source: www.seaqual.org* ==
-
+ 
 
 ---
 # The Problem
@@ -173,4 +173,4 @@ See also: [Antex LCA](../../wiki/sources/Antex_LCA_EN.pdf)
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
 - [FACTS about Plastic](FACTS%20about%20Plastic.md)
 - [The Environmental Impact of the FASHION industry](The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
-- [Ocean-Based Climate Solutions](../biodiversity-land/ocean-based-climate-solutions.md)
+- [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)

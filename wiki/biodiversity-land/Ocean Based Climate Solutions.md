@@ -1,5 +1,5 @@
 ---
-title: Ocean-Based Climate Solutions
+title: Ocean Based Climate Solutions
 category: biodiversity-land
 tags:
   - "#ocean"
