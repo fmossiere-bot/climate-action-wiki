@@ -18,10 +18,17 @@
   {
     "slug": "coffeeangel-an-example-of-biodiversity-restauration-credits-use",
     "filename": "biodiversity-land/Coffeeangel - an example of Biodiversity restauration credits use.md",
-    "label": "Biodiversity Restoration Credits",
-    "summary": "Irish speciality coffee group Coffeeangel is joining forces with the Dunsany Estate in Co Meath and cleantech company Bionua in an initiative that will see it commit 5 per cent of profits over the next five years to buying biodiversity credits. This was the first time such a deal has been completed in Ireland and only the second time across Europe.",
+    "label": "Biodiversity Restoration Credits — Coffeeangel",
+    "summary": "Coffeeangel, Dunsany Nature Reserve, Bionua, biodiversity credits, Nature Capital Credits, biodiversity restoration, carbon sequestration, Ireland biodiversity crisis, farmland birds, bee species, semi-natural grasslands, ISO 14064, satellite imaging, ground sensors, AI monitoring, reusable cups, YourCupOurFuture, Environmental Coupon, nature capital, ReCup, EarthCoating, carbon offsetting, Ireland, Co. Meath, 30x30, protected habitats",
     "category": "biodiversity-land",
-    "tags": []
+    "tags": [
+      "biodiversity",
+      "nature",
+      "carbon-offset",
+      "ireland",
+      "cool-companies",
+      "finance"
+    ]
   },
   {
     "slug": "facts-about-forest-land-use-and-land-management",
@@ -40,14 +47,6 @@
     "tags": []
   },
   {
-    "slug": "facts-about-the-ocean",
-    "filename": "biodiversity-land/FACTS about the Ocean.md",
-    "label": "FACTS about the Ocean",
-    "summary": "1.  FACTS, 2. OCEAN Protection, Controlliong fishing is also a big part of this agreement, limiting fishing in an unsustainable way, What is the Unoc, 3. OCEAN - Book Notes, About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, About KELP Forest, Kelp forest in Ireland, protected areas to 30%, Marine areas improve Carbon Absorbtion, Blue whales",
-    "category": "biodiversity-land",
-    "tags": []
-  },
-  {
     "slug": "glaciers-in-retreat-facts-risks-and-what-can-be-done",
     "filename": "biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md",
     "label": "Glaciers in Retreat: Facts, Risks, and What Can Be Done",
@@ -56,9 +55,17 @@
     "tags": []
   },
   {
-    "slug": "interesting-facts-we-learnt-in-ocean-a-book-by-david-attenborough",
-    "filename": "biodiversity-land/Interesting facts we learnt in Ocean - a book by David Attenborough.md",
-    "label": "Interesting facts we learnt in Ocean - a book by David Attenborough",
+    "slug": "ocean-based-climate-solutions",
+    "filename": "biodiversity-land/Ocean Based Climate Solutions.md",
+    "label": "Ocean Based Climate Solutions",
+    "summary": "ocean climate solutions, offshore wind, coastal wetlands, salt marshes, seagrasses, mangroves, seaweed, marine carbon removal, mCDR, ocean alkalinity enhancement, ocean fertilisation, artificial upwelling, overfishing, seafloor protection, aquaculture, Project Drawdown, 30x30, ocean funding, carbon sequestration, blue carbon, nature-based solutions",
+    "category": "biodiversity-land",
+    "tags": []
+  },
+  {
+    "slug": "the-ocean-a-key-climate-ally",
+    "filename": "biodiversity-land/The Ocean - a key climate ally.md",
+    "label": "The Ocean - A key Climate ally",
     "summary": "About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, Mangroves, Incredible Adaptations, Vital Ecosystem Services, Oceanic Island and Seamounts, Southern Ocean, Krills, 2030 goal - protect 30% of the ocean, Blue whales, win for both nature and local communities, piangua, sustainable income, ecologically and economically viable, Saltwater Specialists, 'Breathing' Roots, Sturdy Support Systems, Unique Reproduction, Coastal Protection, Biodiversity Hotspots, Natural Water Filters, Carbon Sinks, Importance for Biodiversity, High Endemism, endemic, Apex Predator Dominance, apex predators, Critical Habitat, Coral Reefs, How it is Protected, Marine National Monument, Co-Management, No-Take Policy, National Marine Sanctuary, Cultural Heritage, Scientific Reference Site, Global Conservation Model, How many seamounts are there, over 100,000, Why are they important, Habitat for Deep-Sea Life, Nutrient Upwelling, 'Oases in the Desert', Can they be protected, Marine Protected Areas (MPAs), International Efforts, New Treaties",
     "category": "biodiversity-land",
     "tags": []
@@ -76,14 +83,6 @@
     "filename": "biodiversity-land/mangrove-forests-recovery.md",
     "label": "Mangrove Forests Recovery",
     "summary": "mangroves, mangrove forests, coastal ecosystems, carbon storage, blue carbon, coastal protection, storm surge, tsunami, Indonesia, Myanmar, Niger Delta, Africa, deforestation, fish farms, aquaculture, habitat restoration, natural regeneration, Landsat satellite, closed canopy, net gain, oil pollution, tropical cyclones, biodiversity, marine nursery, carbon sink",
-    "category": "biodiversity-land",
-    "tags": []
-  },
-  {
-    "slug": "ocean-based-climate-solutions",
-    "filename": "biodiversity-land/ocean-based-climate-solutions.md",
-    "label": "Ocean-Based Climate Solutions",
-    "summary": "ocean climate solutions, offshore wind, coastal wetlands, salt marshes, seagrasses, mangroves, seaweed, marine carbon removal, mCDR, ocean alkalinity enhancement, ocean fertilisation, artificial upwelling, overfishing, seafloor protection, aquaculture, Project Drawdown, 30x30, ocean funding, carbon sequestration, blue carbon, nature-based solutions",
     "category": "biodiversity-land",
     "tags": []
   },
@@ -2568,6 +2567,14 @@
     "slug": "climate-litigation-wins-2025",
     "filename": "sources/climate-litigation-wins-2025.md",
     "label": "Greenwashing, illegality and false claims: 13 climate litigation wins in 2025",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "coffeeangel-biodiversity-credits",
+    "filename": "sources/coffeeangel-biodiversity-credits.md",
+    "label": "Coffeeangel: Brewing a Better Future with Biodiversity",
     "summary": "",
     "category": "",
     "tags": []
