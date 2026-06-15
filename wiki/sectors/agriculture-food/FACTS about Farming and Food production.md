@@ -66,7 +66,7 @@ Source: https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/
 
 ![[Screenshot 2024-03-29 at 13.33.35.png]]
 
-See [[wiki/solutions/nature-based-solutions/Plant-Rich Diets  - One of the top solutions according to Project Drawdown]]
+See [[Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate]]
 
 ## We need to reduce WASTE
 #waste 
@@ -80,7 +80,7 @@ See [[Reduced Food Waste - Project Drawdown 1]]
 
 ## We need to go Plant-Based Diet
 [[Meat Token ACTION GUIDE]]
-[[wiki/solutions/nature-based-solutions/Plant-Rich Diets  - One of the top solutions according to Project Drawdown]]
+[[Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate]]
 
 
 

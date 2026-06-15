@@ -5,16 +5,15 @@ tags:
   - forest
   - nature
   - carbon
-  - science
-created: 2026-06-01
+  - carbon-storage
+created: 2025-06-11
 updated:
-summary: "Why Forest and Land are important, Forest coverage, More in the news about Forests, Alternative to Cement for the Building Industry, Bamboo has great potential for forests, Diverse is better, Forest getting decimated by Fire in 2024, World’s Forest Carbon Sink Shrank to its Lowest Point in at Least 2 Decades, Due to Fires and Persistent Deforestation, Stage of growth, Species, Size, Soil type, What happens when the tree dies, grow higher (+5.4%), wider (+6.8%), more carbon (+25%)"
+summary: Why Forest and Land are important, Forest coverage, More in the news about Forests, Alternative to Cement for the Building Industry, Bamboo has great potential for forests, Diverse is better, Forest getting decimated by Fire in 2024, World’s Forest Carbon Sink Shrank to its Lowest Point in at Least 2 Decades, Due to Fires and Persistent Deforestation, Stage of growth, Species, Size, Soil type, What happens when the tree dies, grow higher (+5.4%), wider (+6.8%), more carbon (+25%)
 ---
 
 #forest #carbonremoval 
 
->> Also see [[Class 15 - Carbon Removal#Forests How important are forests for climate stability?]]
-
+>> 
 In order to reach our 2050 Net-Zero goal, moving to renewable is not gonna be enough, and the only way to stop the temperature from going up is by ensuring that we do not add more Carbon that what our Carbon limit in the atmosphere, also know as concentration, doesn;t go above xx ppm. 
 
 The only way to do taht is not only to stop emitting, but leave our nature ecoystem, and in particle the Carbon Cycle, to help then reduce the carbon concentration over time which will finally lead to temperatures going down. This will take 100's of years. 
@@ -112,24 +111,19 @@ At the Cop26 climate conference in Glasgow, more than [140 world leaders pledged
 Source: [WRI](**https://www.wri.org/insights/forest-carbon-sink-shrinking-fires-deforestation?apcid=0065aea19f4a6d4198ca0d00&utm_campaign=wridigest&utm_medium=email&utm_source=wridigest-2025-07-24**)
 
 
-> [!NOTE] Did you know? 
+> Did you know? 
 >  In a typical year, forests and other vegetation absorb roughly 30% of the carbon that humans emit from burning fossil fuels
 
 But that is slowly changing. Forests have been quietly cooling the planet for decades, but their role is increasingly under threat.
 
-> New analysis of [data](https://gfw.global/3UmWSzQ) from WRI’s Global Forest Watch (GFW) and Land & Carbon Lab reveals that **extreme fires caused forests to absorb far less carbon than usual in 2023 and 2024, weakening their cooling effect. During those years, forests absorbed only a quarter of the carbon dioxide they do in an average year**.
+> In recent years, new analysis of [data](https://gfw.global/3UmWSzQ) from WRI’s Global Forest Watch (GFW) and Land & Carbon Lab reveals that **extreme fires caused forests to absorb far less carbon than usual in 2023 and 2024, weakening their cooling effect. During those years, forests absorbed only a quarter of the carbon dioxide they do in an average year**.
 
-This recent sharp drop is also part of a longer-term decline, where the margin between forest emissions and carbon removals appears to be narrowing. With emissions from [deforestation and other forest disturbances](https://www.wri.org/insights/forest-loss-drivers-data-trends) rising, the world’s forests risk shifting from a carbon sink to a carbon source.
-
-
-![[Screenshot 2025-07-25 at 11.02.34.png]]
+This recent sharp drop is also part of a longer-term decline, where the margin between forest emissions and carbon removals appears to be narrowing. With emissions from deforestation and other forest disturbances rising, the world’s forests risk shifting from a carbon sink to a carbon source.
 
 
-###### Most important is to protect what we have first [[Class 15 - Carbon Removal#Preserving what we have is best]]
 
 
-Some forest are turning into net-emitters 
+# Related articles
+- [[Class 15 - Carbon Removal#Forests How important are forests for climate stability?]]
 
-![[Screenshot 2025-07-25 at 11.08.32.png]]
-
-
+# Sources

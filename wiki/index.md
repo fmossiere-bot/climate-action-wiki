@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-12
+Last updated: 2026-06-15
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -35,6 +35,11 @@ Summaries of every ingested source file.
 | [[europe-wildfires-2025-newscientist]] | New Scientist (Apr 2026): Europe's record 2025 wildfires — 47m tonnes carbon emitted; Iberian fires 40× more likely due to climate change |
 | [[arctic-fires-ancient-carbon-2026]] | New Scientist (May 2026): Arctic fires burning carbon up to 5,000 years old — climate models underestimate wildfire emissions |
 | [[coffeeangel-biodiversity-credits]] | Coffeeangel website: 5% of profits to Nature Capital Credits at Dunsany Nature Reserve — ISO-verified, AI-monitored, Ireland biodiversity context |
+| [[amoc-monitoring-guardian-2026]] | Guardian commentary (Jun 2026): oceanographers warn AMOC monitoring is being defunded by Trump cuts — collapse could change Europe's climate 10× faster |
+| [[climate-nobel-prize-ecosia-2025]] | Good Good Good (Dec 2025): Ecosia commits €1m to create a Nobel Prize for Climate and Planetary Health — merged into the Ecosia page |
+| [[sbti-net-zero-rules-2026]] | WSJ (Jun 2026): SBTi's 2026 corporate net-zero update — environmental credits and carbon removals now allowed; "best-efforts" framework replaces strict rulebook |
+| [[world-cup-most-polluting-wdht-2026]] | We Don't Have Time (Jun 2026): FIFA's Aramco sponsorship, SGR research on 30M extra tonnes, University of Manchester on most-polluting-ever tournament |
+| [[manure-digesters-newscientist-2026]] | New Scientist (Apr 2026): manure digesters cut emissions but leaks, herd-size incentives, and ammonia pollution complicate the picture — California study of 98 dairies |
 
 ---
 
@@ -60,7 +65,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | Methane emissions role in Global Warming | Methane as a climate driver |
 | OZONE Layer FACTS | Ozone layer science |
 | Wet-Bulb explained | Wet-bulb temperature and human survivability |
-| [[amoc-collapse-carbon]] | **NEW** — AMOC collapse could release 640 billion tonnes of CO₂; already past the irreversibility threshold at 430 ppm CO₂ |
+| [[amoc-collapse-carbon]] | AMOC collapse could release 640 billion tonnes of CO₂; already past the 350 ppm irreversibility threshold — **updated** with monitoring defunding crisis and 10× faster Europe scenario |
 | [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
 
 ---
@@ -198,6 +203,7 @@ Funding the transition — investment, risk, green banking.
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
 | [[ai-data-centre-energy-crisis]] | **NEW** — UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
+| [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
 | FACTS about general Digital Use | Digital activity emissions |
 | The Environmental Impact of Bitcoin | Bitcoin energy use |
@@ -221,7 +227,7 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| [[Environmental Impact of football world cups]] | Carbon footprint of World Cups 2018–2026; updated with 2026 heat risk data — twice the 1994 risk, mandatory heat breaks as climate adaptation |
+| [[Environmental Impact of football world cups]] | Carbon footprint of World Cups 2018–2026; heat risk (2× 1994), mandatory heat breaks; **updated** with FIFA-Aramco sportswashing, SGR 30M-tonne finding, 2034 Saudi hosting |
 | Environmental Impact of the Paris Olympics | Paris 2024 Olympics environmental assessment |
 
 ### Transport (`wiki/sectors/transport/`)
@@ -248,7 +254,7 @@ Funding the transition — investment, risk, green banking.
 | Class 15 - Carbon Removal | Terra.do Class 15: removal methods |
 | FACTS about Forest, Land Use and Land management | Forests as carbon sinks |
 | Jet fuel made from CO2 and clean electricity | Synthetic aviation fuel |
-| Methane Digester - Project Drawdown 28 | Anaerobic digestion solution |
+| Methane Digester - Project Drawdown 28 | Anaerobic digestion solution — **updated** with 2026 California study on leaks, perverse herd-size incentives, and ammonia pollution swapping |
 | Methane-eating bacteria are ready to capture landfill emissions | Biological methane capture |
 | Ocean Carbon Removal solutions | Ocean-based carbon removal |
 
@@ -406,6 +412,7 @@ Funding the transition — investment, risk, green banking.
 | What is VSME - Voluntary Sustainability Reporting | Voluntary SME reporting |
 | What is the EPD? | Environmental Product Declaration |
 | Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024 | Reporting standard comparison |
+| [[sbti-science-based-targets]] | **NEW** — SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
 
 ---
 

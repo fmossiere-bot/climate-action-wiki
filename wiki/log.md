@@ -4,6 +4,105 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-15 ingest | AMOC Monitoring Under Threat
+
+**Source file:** `raw/articles/Amoc collapse could change Europe's climate 10x faster than expected. We aren't ready.md`
+**Original source:** The Guardian, Penny Holliday, Femke de Jong, Sjoerd Groeskamp, 14 June 2026 — https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate
+
+**What was done:**
+- Created source summary: `wiki/sources/amoc-monitoring-guardian-2026.md`
+- Updated existing page: `wiki/climate-science/amoc-collapse-carbon.md` — added new section "AMOC Monitoring Under Threat"; updated summary keywords and sources
+- Updated `wiki/index.md`
+
+**Key content added:**
+- AMOC collapse could change Europe's climate 10× faster than the current rate
+- Trump administration cuts to NASA, NOAA, NSF = ~50% of total AMOC monitoring budget
+- US descoped Ocean Observatories Initiative (June 2026)
+- EU OceanEye initiative: €50m committed but not yet operational
+- Total AMOC monitoring cost: ~€25m/year (5 cents per EU citizen)
+- Authors urge EU, UK, and international partners to fund long-term monitoring before continuity is broken
+
+---
+
+## 2026-06-15 ingest | Activists Push to Create a Climate Nobel Prize
+
+**Source file:** `raw/articles/Activists push to create first-ever Climate Nobel Prize '$1M is ready to go if the Nobel Committee agrees'.md`
+**Original source:** Good Good Good, Kamrin Baker, 11 December 2025 — https://www.goodgoodgood.co/articles/nobel-prize-in-climate-and-planetary-health-ecosia
+
+**What was done:**
+- Created source summary: `wiki/sources/climate-nobel-prize-ecosia-2025.md`
+- Created new wiki page: `wiki/concepts/climate-nobel-prize.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Ecosia CEO Christian Kroll notarised €1m commitment for the first prize endowment
+- Proposal: 7th Nobel category — Climate and Planetary Health
+- Three recognition areas: Pragmatic Governance, Scaling Prosperity and Markets, Building Common Ground
+- Backed by Luisa Neubauer and Dr Claudia Kemfert
+- Ecosia would have no influence over nominations or laureates
+
+---
+
+## 2026-06-15 ingest | SBTi Sets New Rules for Corporate Net Zero
+
+**Source file:** `raw/articles/Climate Standard Setter SBTi Sets New Rules for Companies Seeking Net Zero.md`
+**Original source:** Wall Street Journal, Yusuf Khan, 11 June 2026 — https://www.wsj.com/pro/sustainable-business/climate-standard-setter-sbti-sets-new-rules-for-companies-seeking-net-zero-43a38733
+
+**What was done:**
+- Created source summary: `wiki/sources/sbti-net-zero-rules-2026.md`
+- Created new wiki page: `wiki/standards-labels/sbti-science-based-targets.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- SBTi 2026 update allows market-based environmental credits (SAF credits, RECs) for target-setting
+- Carbon removals (DAC, reforestation credits) allowed from 2035 for hard-to-abate residual emissions
+- PPAs now count; local preferred, cross-regional allowed if structural barriers exist
+- Hourly electricity matching preferable but not mandated; tech companies must report hourly share
+- Framed as "best-efforts framework" — recognising companies don't control everything
+
+---
+
+## 2026-06-15 ingest | Welcome to the Most Polluting Games Ever
+
+**Source file:** `raw/articles/Welcome to the most polluting games ever.md`
+**Original source:** We Don't Have Time, Markus Lutteman, June 2026 — https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95
+
+**What was done:**
+- Created source summary: `wiki/sources/world-cup-most-polluting-wdht-2026.md`
+- Updated existing page: `wiki/sectors/Environmental Impact of football world cups.md` — added FIFA sportswashing section; updated frontmatter summary and sources
+- Updated `wiki/index.md`
+
+**Key content added:**
+- University of Manchester: 2026 World Cup could be most polluting ever
+- Queen's University Belfast: 14 of 16 venues exceed safety thresholds (heat, flooding, rain)
+- FIFA signed 4-year deal with Saudi Aramco in 2024; Aramco CEO called phasing out oil "a fantasy"
+- SGR research: Aramco sponsorship could induce additional 30 million tonnes CO₂e in 2026
+- Dr Oscar Berglund (Bristol): "FIFA has made elite men's football the primary target of petrostate sportswashing"
+- 2034 World Cup awarded to Saudi Arabia
+- UK: matches increasingly cancelled due to flooding; winters projected 30% wetter by 2070
+
+---
+
+## 2026-06-15 ingest | Are Manure Digesters a Real Solution to Dairy Farm Emissions?
+
+**Source file:** `raw/papers/New Scientist 3.pdf`
+**Original source:** New Scientist, Alec Luhn, 7 April 2026 (updated 20 May 2026) — Environmental Research Letters, DOI: 10.1088/1748-9326/ae4fe4
+
+**What was done:**
+- Created source summary: `wiki/sources/manure-digesters-newscientist-2026.md`
+- Updated existing page: `wiki/solutions/carbon-removal/Methane Digester - Project Drawdown 28.md` — added "2026 Update: The Limits of Digesters" section; updated frontmatter (title, tags, summary, sources)
+- Updated `wiki/index.md`
+
+**Key content added:**
+- California study of 98 dairies: digesters cut point-source methane 91→68 kg/h at 2/3 of farms
+- Some leaks exceeded 1,000 kg/h — turning those digesters into net emitters
+- California Low Carbon Fuel Standard incentives increased dairy herd size by 860 cows on average
+- Digesters accelerate ammonia formation — "pollution swapping" concern
+- Overall bulk of research: well-run digesters can cut manure emissions by roughly half
+- Brent Kim (Johns Hopkins): "taxpayer dollars are being used to inflate the value of manure"
+
+---
+
 ## 2026-06-12 ingest | A Patagonia Story
 
 **Source file:** `raw/own-research/a Patagonia story.md`

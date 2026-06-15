@@ -36,7 +36,7 @@ The finding also reframes a common critique of environmentalists as hypocrites. 
 ## Connected topics
 
 - [The Climate Mitigation Gap](The%20climate%20Mitigation%20Gap%20research.md)
-- [FACTS about Air Travel](../../sectors/transport/FACTS%20about%20Air%20Travel.md)
+- [FACTS about Air Travel](FACTS%20about%20Air%20Travel.md)
 - [How Countries Can Use Behaviour Change to Further Reduce Emissions](How%20Countries%20Can%20Use%20Behavior%20Change%20to%20Further%20Reduce%20Emissions.md)
 
 ## Sources

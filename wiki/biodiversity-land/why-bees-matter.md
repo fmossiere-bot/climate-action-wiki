@@ -1,10 +1,14 @@
 ---
 title: Why Everyone Keeps Talking About Bees
 category: biodiversity-land
-tags: [biodiversity, food, nature, science]
+tags:
+  - biodiversity
+  - food
+  - nature
+  - science
 created: 2026-06-06
 updated: 2026-06-06
-summary: bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss
+summary: bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss. What about Ireland Pollinator plan, what is ireland implmeenting to support pollinators, and what is dun laoghaire plan
 ---
 
 
@@ -96,6 +100,74 @@ The good news is that small actions add up. A patch of native wildflowers in a g
 At a policy level, the EU is taking this seriously. The EU Pollinators Initiative and the Nature Restoration Regulation set legally binding targets for reversing the decline of wild bees and butterflies by 2030. That pressure is pushing changes in how public land is managed and how farms are designed.
 
 Bees matter because the food system and the natural world both depend on them. But protecting them is less about hives and honey jars, and more about giving wild species back the space they need to survive.
+
+---
+# What is Ireland Pollinator plan? 
+
+It's a plan that brings together different groups across the whole island of Ireland to create a landscape where pollinators — bees, butterflies, hoverflies — can survive and thrive. It's coordinated by the National Biodiversity Data Centre.
+
+**Why does it exist?**
+Pollinators are in decline, mainly because of the loss of natural habitats. This is serious — it affects food production, the agricultural economy, and the health of the environment. 
+
+> In Ireland, it is estimated that 1/3 of wild bees species are at risk of extinction due to loss of food and nesting sites
+
+**How did it start?**
+Ireland was one of the first countries in Europe to tackle pollinator decline. The first plan ran from 2015 to 2020, and all 81 actions were completed — with input from beekeepers, gardeners, students, farmers, businesses, and many other groups. 
+
+**The current plan (2021–2025)**
+The second plan is more ambitious — 186 actions across six objectives, developed by a 16-member steering group. It's voluntary, and the organisations involved agree to fund their own actions themselves. 
+
+The six objectives cover: farmland, public land (parks, roadsides, etc.), private land (gardens, businesses), education, research, and policy.
+
+**What's happening now?**
+Pollinating insects are still in decline across Ireland overall, but local populations are increasing where actions have been taken. This shows the approach is working. 
+
+A new All-Ireland Pollinator Plan for 2026–2030 is expected to be launched in spring 2026. 
+
+**SPECIFIC ON POLLINATORS PLAN**
+Here is some more detailed information regarding both the national **All-Ireland Pollinator Plan (AIPP)** and how **Dún Laoghaire-Rathdown (DLR)** is specifically implementing it.
+
+### **1. The National Context: All-Ireland Pollinator Plan (AIPP)**
+
+The AIPP is a framework coordinated by the National Biodiversity Data Centre to address a critical crisis: **one-third of Ireland's wild bee species are threatened with extinction**. This decline is primarily due to the reduction of food (flowers) and safe nesting sites.
+
+The plan emphasizes specific "best practices" that contradict some common assumptions:
+
+- **"Don't Mow, Let it Grow":** The plan discourages planting generic wildflower seed mixes, noting they can sometimes do more harm than good. Instead, the strategy is to allow common wildflowers to grow naturally by reducing mowing frequency.
+- **Cross-Sector Action:** It organizes actions across farms, councils, businesses, and local communities to create a landscape where pollinators can survive.
+    
+
+### **2. DLR’s Specific Implementation**
+
+Dún Laoghaire-Rathdown County Council has integrated the AIPP directly into its _Biodiversity Action Plan 2021–2025_ (specifically **Action 3.9**), committing to completing actions outlined in the national plan.
+
+Here are the specific measures DLR is taking:
+
+#### **A. The "Slow to Mow" Campaign**
+
+DLR has moved away from "manicured" landscapes toward nature-friendly management.
+
+- **Utilizing Soil Seed Banks:** Rather than buying commercial seeds, DLR aims to encourage seeds already lying dormant in the soil to germinate. This has resulted in native orchids (like Pyramidal and Bee Orchids) reappearing on roadside verges where they had not been seen for years.
+- **Managed Meadows:** The council has designated areas in parks and roadside verges as "Slow to Mow" zones to allow dandelions, clover, and other native plants to flower, providing essential food for insects.
+
+#### **B. Native Seed Harvesting (Fernhill Park)**
+
+DLR is actively reducing reliance on commercial seeds to ensure genetic diversity remains local.
+- **Fernhill Park & Gardens:** This park is managed as "chemical-free" and grazed by rare-breed Droimeann cattle during winter. In summer, staff harvest native seeds (after removing ragwort) to dry, store, and plant in other appropriate locations across the county.
+
+#### **C. "Gardening for Biodiversity" (Community Action)**
+
+DLR recognizes that private gardens, balconies, and patios are vital for connecting wildlife corridors.
+
+- **Volunteer Project:** In 2020, DLR partnered with the Volunteer Centre to launch "Gardening for Biodiversity." This initiative encourages residents to take small steps, such as creating log piles, drilling holes in walls for hedgehogs, or leaving grass uncut.
+- **Success Stories:** The plan highlights local success stories, such as a resident named Mark who created a pond and log pile, noting that "piles of earth... are being used by the birds as a dust bath" and potential nesting sites for solitary bees.
+
+#### **D. Infrastructure and Planning**
+
+- **Pollinator Areas:** DLR is establishing pollinator zones not just in parks, but in urban environments like shopping centers and on "brown roofs" (biodiversity roofs) on new developments.
+
+# Sources
+[Pollinators](https://pollinators.ie/all-ireland-pollinator-plan-business-supporters-annual-review-2025/)
 
 ## Connected topics
 - [Biodiversity for Business 101](../biodiversity-land/Biodiversity for Business 101.md)

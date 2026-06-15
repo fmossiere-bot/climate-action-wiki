@@ -8,9 +8,10 @@ tags:
   - "#adaptation"
 sources:
   - "New Scientist, Alec Luhn, 13 April 2026 — Nature Communications Earth & Environment, DOI: 10.1038/s43247-026-03427-w"
+  - "The Guardian, Holliday, de Jong, Groeskamp, 14 June 2026 — https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate"
 created: 2026-06-11
-updated: 2026-06-11
-summary: AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon
+updated: 2026-06-15
+summary: AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon, AMOC monitoring, defunding, NASA, NOAA, NSF, OceanEye, Trump budget cuts, 10x faster, Ocean Observatories Initiative, Penny Holliday, Femke de Jong, Sjoerd Groeskamp
 ---
 
 # AMOC Collapse and Carbon Release
@@ -55,6 +56,16 @@ Beyond the carbon feedback, AMOC collapse would:
 - Potential domino effect: East Antarctic Ice Sheet destabilised, causing metres of sea level rise.
 - Rockström: "The commitment time may be within the next 25 to 50 years. It's literally now."
 
+## AMOC Monitoring Under Threat
+
+A 2026 Guardian commentary by oceanographers Penny Holliday, Femke de Jong, and Sjoerd Groeskamp warns that the world's ability to track AMOC could be lost just as the stakes are rising. In a collapse scenario, Europe could experience climate change **up to 10 times faster** than the current rate of change.
+
+Systematic AMOC monitoring only began around two decades ago, stitched together from individually funded national research projects. That fragile foundation is now under acute pressure. The Trump administration has proposed budget cuts to NASA, NOAA, and the National Science Foundation — agencies that together provide around 50% of total AMOC monitoring funding. The US also moved to descope the Ocean Observatories Initiative, which formed part of the tracking network.
+
+The European Commission launched the **OceanEye** initiative in 2026, committing €50 million to ocean observation. But OceanEye is not yet operational, and the research vessels servicing current monitoring need bridging funding right now.
+
+The total cost of all AMOC monitoring globally is roughly **€25 million per year** — about five cents per EU citizen. The authors urge the EU, the UK, and international partners to treat AMOC monitoring as an urgent global priority before continuity is broken and the data record is permanently lost.
+
 ## Connected topics
 
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
@@ -65,3 +76,4 @@ Beyond the carbon feedback, AMOC collapse would:
 ## Sources
 
 - New Scientist, Alec Luhn, 13 April 2026, updated 20 May 2026 — Nature Communications Earth & Environment, DOI: 10.1038/s43247-026-03427-w
+- The Guardian, Penny Holliday, Femke de Jong, Sjoerd Groeskamp, 14 June 2026 — https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate

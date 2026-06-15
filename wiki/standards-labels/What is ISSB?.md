@@ -7,8 +7,6 @@ updated: 2026-06-01
 summary: "ISSB — International Sustainability Standards Board, What the ISSB does, Why the ISSB matters for investors, 1. ISSB = Standards, 2. ESG = Conceptual umbrella, 3. How they relate, Early adopters / moving toward adoption, International Sustainability Standards Board (ISSB), IFRS Foundation, global baseline of sustainability disclosure standards, climate-first, financial reporting, comparability, into financial statements, decision-usefulness, How does ISSB compare to “ESG”, mandatory or semi-mandatory reporting requirements, investor materiality, broad investment framework, formalized, consistent rulebook, information infrastructure for ESG, interpret, 🌍 Who is using ISSB standards, Large multinational companies, Global investors and asset managers, mandatory TCFD-aligned disclosures"
 ---
 
-
-https://www.youtube.com/watch?v=yZLCCVbC4jw 
 ### **ISSB — International Sustainability Standards Board**
   
 
@@ -67,7 +65,7 @@ For a responsible investor:
 
 
 ---
-# **🌍 Who is using ISSB standards?**
+# **Who is using ISSB standards?**
 
 
 Because ISSB is very new, adoption is happening rapidly but at different speeds around the world.

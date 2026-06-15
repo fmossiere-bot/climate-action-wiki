@@ -1,10 +1,11 @@
 ---
-title: Methane Digester - Project Drawdown 28
+title: Methane Digesters — Promise and Limits
 category: solutions
-tags: [methane, carbon, food]
+tags: ["#methane", "#carbon", "#food", "#agriculture"]
+sources: ["Project Drawdown — https://drawdown.org/solutions/methane-digesters", "New Scientist, Alec Luhn, 7 April 2026 — Environmental Research Letters, DOI: 10.1088/1748-9326/ae4fe4"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "SCENARIOS, Interest for farmers - new revenue stream"
+updated: 2026-06-15
+summary: methane digester, anaerobic digester, biogas, dairy farming, manure, methane emissions, agricultural emissions, California, Low Carbon Fuel Standard, perverse incentives, ammonia, pollution swapping, leaks, herd size, Project Drawdown, Rebecca Larson, Brent Kim, EU digesters, biogas fuel, fertiliser, digestate, electricity generation, livestock emissions
 ---
 
 #methane 
@@ -43,6 +44,37 @@ We calculated impacts of increased adoption of methane digesters from 2020 to 20
 > The conversion of waste material in biodigesters into biogas has positive financial and environmental impacts for farmers, industries, municipalities, and governments alike. Biodigesters enable the capture and use of methane while also addressing waste management and nutrient recovery needs. They can also realize several revenue streams and cost savings for owners.
 
 Feedstock for electricity-generating biogas plants is available in adequate quantities across the world, from sewage sludge and agriculture systems. However, there is significant uncertainty associated with the future adoption of this technology
+
+---
+
+## 2026 Update: The Limits of Digesters
+
+A 2026 analysis by New Scientist (citing a study of 98 California dairies published in *Environmental Research Letters*) complicates the straightforward picture above. The headline figure — digesters cut methane from manure storage by 91% — holds up in controlled conditions. The real-world picture is messier.
+
+**What the study found:**
+
+Installing a digester reduced point-source methane emissions from 91 kg per hour to 68 kg per hour on average, at two-thirds of dairies in the study. But the remaining third saw no improvement, and at some sites leaks exceeded **1,000 kg per hour** — making those digesters net emitters rather than net savers. Emissions also briefly spiked during construction, when manure slurry had to be rerouted and agitated.
+
+**The perverse incentive problem:**
+
+California's Low Carbon Fuel Standard (LCFS) awards sellable carbon credits for biogas produced from digesters. A study found that farms receiving these incentives increased their dairy **herd size by 860 cows on average**. In other words, financial support for digesters has been encouraging factory farms to get bigger. As Brent Kim (Johns Hopkins) put it: "Taxpayer dollars are being used to inflate the value of manure so it begins to compete with the value of milk, and that creates a perverse incentive structure."
+
+**Pollution swapping:**
+
+Digesters accelerate the formation of **ammonia** from manure, raising concerns that they swap one pollutant for another. And if biogas cannot be sold and is burned off, the combustion can in some cases produce sulphur dioxide — a respiratory hazard.
+
+**The overall verdict:**
+
+The bulk of the research suggests that well-run digesters, with proper leak monitoring and repair, can cut manure methane emissions by roughly **half**. California's notification programme found that 20% of leaking farms fixed their digesters after being alerted. Researchers like Rebecca Larson (University of Wisconsin-Madison) call digesters "one of the highest performing mitigation measures we have" for livestock — but the key word is "well-run."
+
+The bigger question is whether public money spent on digesters is more effective than comparable investment in solar panels or livestock reduction programmes. That comparison has not been adequately studied.
+
+---
+
+## Sources
+
+- Project Drawdown — https://drawdown.org/solutions/methane-digesters
+- New Scientist, Alec Luhn, 7 April 2026 (updated 20 May 2026) — Environmental Research Letters, DOI: 10.1088/1748-9326/ae4fe4
 
 ---
 # Methane Digester potential for power illustrated
