@@ -90,14 +90,9 @@
     "slug": "why-bees-matter",
     "filename": "biodiversity-land/why-bees-matter.md",
     "label": "Why Everyone Keeps Talking About Bees",
-    "summary": "bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss",
+    "summary": "bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss. What about Ireland Pollinator plan, what is ireland implmeenting to support pollinators, and what is dun laoghaire plan",
     "category": "biodiversity-land",
-    "tags": [
-      "biodiversity",
-      "food",
-      "nature",
-      "science"
-    ]
+    "tags": []
   },
   {
     "slug": "composting-project-drawdown-57",
@@ -575,7 +570,7 @@
     "slug": "amoc-collapse-carbon",
     "filename": "climate-science/amoc-collapse-carbon.md",
     "label": "AMOC Collapse and Carbon Release",
-    "summary": "AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon",
+    "summary": "AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon, AMOC monitoring, defunding, NASA, NOAA, NSF, OceanEye, Trump budget cuts, 10x faster, Ocean Observatories Initiative, Penny Holliday, Femke de Jong, Sjoerd Groeskamp",
     "category": "climate-science",
     "tags": []
   },
@@ -612,17 +607,6 @@
     "tags": [
       "behaviour",
       "science"
-    ]
-  },
-  {
-    "slug": "meat-token-action-guide",
-    "filename": "concepts/behavior-change/Meat Token ACTION GUIDE.md",
-    "label": "Meat Token Action Guide",
-    "summary": "Animal Agriculture depletes natural resources, The Detrimental Effects of Animal Agriculture on Land, Animal Farming and Its Role in Pollution and CO2 Emissions, Biodiversity and Ecological Loss Due to Animal Farming, Tips, Plant Based diets improve health and finances, Enhancing Health through Plant-Based Diets, Week 1: The Big Switch, Week 2: Expanding your repertoire, Week 3: Discover New Flavours, Week 4: Solidify Your Habits, Guardian article on Meat consumption in the US, Meat consumption in the US is increasing, Power of Meat Infographics 2024, So who is this 12% consuming all that beef",
-    "category": "concepts",
-    "tags": [
-      "behaviour",
-      "food"
     ]
   },
   {
@@ -1507,10 +1491,81 @@
     ]
   },
   {
+    "slug": "cars-life-cycle-emissions-ev-vs-combustion",
+    "filename": "legislation-policy/transport/CARS Life Cycle Emissions - EV vs Combustion.md",
+    "label": "CARS Life Cycle Emissions - EV vs Combustion",
+    "summary": "How do different vehicles impact that, Should I keep my old car or buy an EV, From [[Class 13 - Electrify Everything ++]], Challenges, From Ecologie 360, How about the impact of your tyres, Environmental Impact, CO2-e Impact, 40% higher, Resource Consumption, Energy Use and Emissions, Pollution, Waste and Disposal Issues, Tire Burning, Microplastics and Particulate Emissions, Water Runoff, Innovation and Sustainability Efforts, Manufacturing Emissions, Raw Material Extraction, Transport Emissions, End-of-Life Emissions, Lifecycle Emissions, Innovations to Reduce CO2",
+    "category": "sectors",
+    "tags": [
+      "ev",
+      "battery",
+      "carbon"
+    ]
+  },
+  {
+    "slug": "facts-about-air-travel",
+    "filename": "legislation-policy/transport/FACTS about Air Travel.md",
+    "label": "FACTS about Air Travel",
+    "summary": "Progress According to the ClimateActionTracker for the Aviation sector, IATA 2026 net zero admission, SAF production gap, CORSIA undermined, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%",
+    "category": "sectors",
+    "tags": [
+      "aviation",
+      "carbon",
+      "science"
+    ]
+  },
+  {
+    "slug": "facts-about-energy-for-transport",
+    "filename": "legislation-policy/transport/FACTS about Energy for Transport.md",
+    "label": "FACTS about Energy for Transport",
+    "summary": "is outweighed by the rising popularity of heavier",
+    "category": "sectors",
+    "tags": [
+      "ev",
+      "alternative-fuels",
+      "science"
+    ]
+  },
+  {
+    "slug": "facts-about-tyres",
+    "filename": "legislation-policy/transport/FACTS about Tyres.md",
+    "label": "FACTS about Tyres",
+    "summary": "How about the impact of your tyres, Environmental Impact, CO2-e Impact, Update on Michelin Sustainability Goals, Resource Consumption, Energy Use and Emissions, Pollution, Waste and Disposal Issues, Tire Burning, Microplastics and Particulate Emissions, Water Runoff, Innovation and Sustainability Efforts, Manufacturing Emissions, Raw Material Extraction, Transport Emissions, End-of-Life Emissions, Lifecycle Emissions, Innovations to Reduce CO2",
+    "category": "sectors",
+    "tags": [
+      "carbon",
+      "science"
+    ]
+  },
+  {
+    "slug": "flight-carbon-footprint-and-offset-guide",
+    "filename": "legislation-policy/transport/Flight Carbon Footprint and Offset Guide.md",
+    "label": "Flight Carbon Footprint and Offset Guide",
+    "summary": "How is the Carbon Footprint of a flight is calculated, Results, Comparing Results from various sources, What about Contrails, As a response, a lot of companies do offer the ability to buy Carbon Offset when you book your flight, Flight distance, Aircraft and engine type, Cargo versus passengers, considerable amounts of cargo, Seat occupancy rate, Seat class",
+    "category": "sectors",
+    "tags": [
+      "aviation",
+      "carbon-offset",
+      "carbon"
+    ]
+  },
+  {
+    "slug": "long-haul-shipping",
+    "filename": "legislation-policy/transport/Long-Haul SHIPPING.md",
+    "label": "Long-Haul Shipping",
+    "summary": "What about Capture for Cargo ships, Reviewing Other SOLUTIONS, Worlds largest sailing cargo ship",
+    "category": "sectors",
+    "tags": [
+      "shipping",
+      "carbon",
+      "alternative-fuels"
+    ]
+  },
+  {
     "slug": "environmental-impact-of-football-world-cups",
     "filename": "sectors/Environmental Impact of football world cups.md",
     "label": "Environmental Impact of Football World Cups",
-    "summary": "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport",
+    "summary": "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034",
     "category": "sectors",
     "tags": [
       "sport",
@@ -1646,20 +1701,6 @@
     ]
   },
   {
-    "slug": "lab-grown-meat",
-    "filename": "sectors/agriculture-food/lab-grown-meat.md",
-    "label": "Lab-Grown Meat - Revolution or Distant Promise?",
-    "summary": "lab-grown meat, cultured meat, in vitro meat, plant-based meat, bioreactor, cellular agriculture, meat emissions, livestock emissions, agricultural land use, water footprint, antimicrobial resistance, food innovation, meat alternatives, investment decline, food security, Singapore, UK, US, Israel, Mark Post, energy-intensive production, food system transformation",
-    "category": "sectors",
-    "tags": [
-      "food",
-      "methane",
-      "carbon",
-      "science",
-      "research"
-    ]
-  },
-  {
     "slug": "alternative-constructions-examples",
     "filename": "sectors/buildings/Alternative Constructions examples.md",
     "label": "Alternative Construction Examples",
@@ -1761,6 +1802,19 @@
     ]
   },
   {
+    "slug": "ecosia-the-search-engine-that-plants-trees",
+    "filename": "sectors/digital/Ecosia- The Search Engine That Plants Trees.md",
+    "label": "Ecosia — The Search Engine That Plants Trees",
+    "summary": "Ecosia, search engine, Christian Kroll, tree planting, reforestation, renewable energy, Berlin, privacy, carbon negative, Microsoft Bing, native trees, Madagascar, Brazil, Togo, Uganda, Mali, 250 million trees, climate action, Nobel Prize, Climate Nobel Prize, Climate and Planetary Health Nobel, Nobel Foundation, endowment, Luisa Neubauer, Claudia Kemfert, climate recognition, climatenobelprize.org",
+    "category": "sectors",
+    "tags": [
+      "digital",
+      "cool-companies",
+      "nature-based-solutions",
+      "coalition"
+    ]
+  },
+  {
     "slug": "facts-about-ai-emissions-impacts-and-mitigation-potential",
     "filename": "sectors/digital/FACTS about AI, Emissions impacts and mitigation potential.md",
     "label": "FACTS about AI, Emissions Impacts and Mitigation Potential",
@@ -1857,77 +1911,6 @@
     ]
   },
   {
-    "slug": "cars-life-cycle-emissions-ev-vs-combustion",
-    "filename": "sectors/transport/CARS Life Cycle Emissions - EV vs Combustion.md",
-    "label": "CARS Life Cycle Emissions - EV vs Combustion",
-    "summary": "How do different vehicles impact that, Should I keep my old car or buy an EV, From [[Class 13 - Electrify Everything ++]], Challenges, From Ecologie 360, How about the impact of your tyres, Environmental Impact, CO2-e Impact, 40% higher, Resource Consumption, Energy Use and Emissions, Pollution, Waste and Disposal Issues, Tire Burning, Microplastics and Particulate Emissions, Water Runoff, Innovation and Sustainability Efforts, Manufacturing Emissions, Raw Material Extraction, Transport Emissions, End-of-Life Emissions, Lifecycle Emissions, Innovations to Reduce CO2",
-    "category": "sectors",
-    "tags": [
-      "ev",
-      "battery",
-      "carbon"
-    ]
-  },
-  {
-    "slug": "facts-about-air-travel",
-    "filename": "sectors/transport/FACTS about Air Travel.md",
-    "label": "FACTS about Air Travel",
-    "summary": "Progress According to the ClimateActionTracker for the Aviation sector, IATA 2026 net zero admission, SAF production gap, CORSIA undermined, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%",
-    "category": "sectors",
-    "tags": [
-      "aviation",
-      "carbon",
-      "science"
-    ]
-  },
-  {
-    "slug": "facts-about-energy-for-transport",
-    "filename": "sectors/transport/FACTS about Energy for Transport.md",
-    "label": "FACTS about Energy for Transport",
-    "summary": "is outweighed by the rising popularity of heavier",
-    "category": "sectors",
-    "tags": [
-      "ev",
-      "alternative-fuels",
-      "science"
-    ]
-  },
-  {
-    "slug": "facts-about-tyres",
-    "filename": "sectors/transport/FACTS about Tyres.md",
-    "label": "FACTS about Tyres",
-    "summary": "How about the impact of your tyres, Environmental Impact, CO2-e Impact, Update on Michelin Sustainability Goals, Resource Consumption, Energy Use and Emissions, Pollution, Waste and Disposal Issues, Tire Burning, Microplastics and Particulate Emissions, Water Runoff, Innovation and Sustainability Efforts, Manufacturing Emissions, Raw Material Extraction, Transport Emissions, End-of-Life Emissions, Lifecycle Emissions, Innovations to Reduce CO2",
-    "category": "sectors",
-    "tags": [
-      "carbon",
-      "science"
-    ]
-  },
-  {
-    "slug": "flight-carbon-footprint-and-offset-guide",
-    "filename": "sectors/transport/Flight Carbon Footprint and Offset Guide.md",
-    "label": "Flight Carbon Footprint and Offset Guide",
-    "summary": "How is the Carbon Footprint of a flight is calculated, Results, Comparing Results from various sources, What about Contrails, As a response, a lot of companies do offer the ability to buy Carbon Offset when you book your flight, Flight distance, Aircraft and engine type, Cargo versus passengers, considerable amounts of cargo, Seat occupancy rate, Seat class",
-    "category": "sectors",
-    "tags": [
-      "aviation",
-      "carbon-offset",
-      "carbon"
-    ]
-  },
-  {
-    "slug": "long-haul-shipping",
-    "filename": "sectors/transport/Long-Haul SHIPPING.md",
-    "label": "Long-Haul Shipping",
-    "summary": "What about Capture for Cargo ships, Reviewing Other SOLUTIONS, Worlds largest sailing cargo ship",
-    "category": "sectors",
-    "tags": [
-      "shipping",
-      "carbon",
-      "alternative-fuels"
-    ]
-  },
-  {
     "slug": "co2-capture-through-minerals-or-soil-enhancements",
     "filename": "solutions/carbon-removal/CO2 Capture through minerals, or Soil enhancements.md",
     "label": "CO2 Capture Through Minerals or Soil Enhancements",
@@ -1990,13 +1973,14 @@
   {
     "slug": "methane-digester-project-drawdown-28",
     "filename": "solutions/carbon-removal/Methane Digester - Project Drawdown 28.md",
-    "label": "Methane Digester - Project Drawdown 28",
-    "summary": "SCENARIOS, Interest for farmers - new revenue stream",
+    "label": "Methane Digesters — Promise and Limits",
+    "summary": "methane digester, anaerobic digester, biogas, dairy farming, manure, methane emissions, agricultural emissions, California, Low Carbon Fuel Standard, perverse incentives, ammonia, pollution swapping, leaks, herd size, Project Drawdown, Rebecca Larson, Brent Kim, EU digesters, biogas fuel, fertiliser, digestate, electricity generation, livestock emissions",
     "category": "solutions",
     "tags": [
       "methane",
       "carbon",
-      "food"
+      "food",
+      "agriculture"
     ]
   },
   {
@@ -2315,34 +2299,32 @@
     ]
   },
   {
-    "slug": "bamboo-production-project-drawdown-31",
-    "filename": "solutions/nature-based-solutions/Bamboo Production - Project Drawdown 31.md",
-    "label": "Bamboo Production - Project Drawdown 31",
-    "summary": "Note: 1 hectare = 100x100=10,000m2 = 2.47 acres",
-    "category": "solutions",
-    "tags": [
-      "nature",
-      "forest",
-      "carbon"
-    ]
-  },
-  {
-    "slug": "managed-grazing-project-drawdown-17",
-    "filename": "solutions/nature-based-solutions/Managed Grazing- Project Drawdown 17.md",
-    "label": "Managed Grazing - Project Drawdown 17",
-    "summary": "",
-    "category": "solutions",
+    "slug": "lab-grown-meat",
+    "filename": "solutions/lab-grown-meat.md",
+    "label": "Lab-Grown Meat - Revolution or Distant Promise?",
+    "summary": "lab-grown meat, cultured meat, in vitro meat, plant-based meat, bioreactor, cellular agriculture, meat emissions, livestock emissions, agricultural land use, water footprint, antimicrobial resistance, food innovation, meat alternatives, investment decline, food security, Singapore, UK, US, Israel, Mark Post, energy-intensive production, food system transformation",
+    "category": "sectors",
     "tags": [
       "food",
+      "methane",
       "carbon",
-      "nature"
+      "science",
+      "research"
     ]
   },
   {
-    "slug": "plant-rich-diets-one-of-the-top-solutions-according-to-project-drawdown",
-    "filename": "solutions/nature-based-solutions/Plant-Rich Diets  - One of the top solutions according to Project Drawdown.md",
-    "label": "Plant-Rich Diets  - One of the top solutions according to Project Drawdown",
-    "summary": "|-",
+    "slug": "corporations-can-contribute-significantly-to-ireland-s-and-irish-farmers-efforts-to-enhance-biodiversity-in-grasslands-through-several-impactful-approaches",
+    "filename": "solutions/nature-based-solutions/Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches.md",
+    "label": "Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches",
+    "summary": "Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in through several impactful approaches like funding nature-positive farming, corporate biodiversity strategy, partnering with farmers and conservative groups, educating and advocating, Implementing Biodiversity-Friendly Land Management Practices and supporting Pollinator-Friendly Actions",
+    "category": "solutions",
+    "tags": []
+  },
+  {
+    "slug": "grazing-management-as-a-nature-based-climate-solution-what-the-science-really-says",
+    "filename": "solutions/nature-based-solutions/Grazing Management as a Nature-Based Climate Solution -  What the Science Really Says.md",
+    "label": "Grazing Management as a Nature-Based Climate Solution: What the Science Really Says",
+    "summary": "Managed grazing covers approaches like rotational grazing and reduced stocking density that aim to improve soil health and store more carbon in grassland soils. Because livestock grazing covers roughly 25% of all land on Earth, better management of that land has real climate potential. Project Drawdown recognises this, but currently places both alternative grazing and reduced grazing intensity in a \"Keep Watching\" category. Evidence of consistent soil carbon gains is limited, results vary significantly by climate and soil type, and methane from livestock remains an unresolved issue. Managed grazing is a useful tool, but not a standalone climate solution.",
     "category": "solutions",
     "tags": []
   },
@@ -2352,11 +2334,31 @@
     "label": "The Importance of Grassland",
     "summary": "The Unsung Heroes: Why Grasslands Matter (Globally and in Ireland), An Underrated Ecosystem, What does that mean in the context of Ireland, What are the potential benefits of planting hedgerows and trees in Irish grasslands, Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches, up to 34% of the world's terrestrial carbon, ninety percent stored underground, third of Key Biodiversity Areas, 90 plant species per square meter, 1 billion people worldwide depend on grasslands, US$20.8 trillion in economic value annually, biodiversity strategies, Raising awareness, biodiversity-friendly practices, 1. Carbon Sequestration and Climate Mitigation, 2. Biodiversity Enhancement, 3. Soil and Water Quality Improvement, 4. Agricultural Benefits, 5. Cultural and Landscape Value, 6. Human Wellbeing, 3. Partnering with Farmers and Conservation Groups, 4. Raising Awareness and Building Capacity, 6. Supporting Pollinator-Friendly Actions",
     "category": "solutions",
-    "tags": [
-      "nature",
-      "carbon",
-      "ireland"
-    ]
+    "tags": []
+  },
+  {
+    "slug": "the-importance-of-hedgerows",
+    "filename": "solutions/nature-based-solutions/The importance of Hedgerows.md",
+    "label": "The Importance of Hedgerows",
+    "summary": "Hedgerows are a powerful nature-based solution, storing carbon, supporting biodiversity, improving water quality, and protecting farmland. The EU Biodiversity Strategy and CAP 2023–27 target at least 10% of agricultural land under landscape features including hedgerows, as part of broader climate goals. In Ireland, around 689,000 km of hedgerows exist but are declining, with the Climate Action Plan 2024 targeting 40,000 km of new planting. France faces similar pressure, having lost over 40% of its hedgerows since the 1970s. Its 2023 Hedgerow Pact aims for a net gain of 50,000 km by 2030.",
+    "category": "solutions",
+    "tags": []
+  },
+  {
+    "slug": "the-incredible-environmental-properties-of-bamboo",
+    "filename": "solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md",
+    "label": "The incredible environmental properties of Bamboo",
+    "summary": "Bamboo plantations have incredible environmental properties: with their expansive underground stems, they reduce soil erosion and prevent sediments from entering streams and rivers. Fallen leaves carpet the ground, which reduces water evaporation. Their hollow stems retain water into the dry season, thus increasing environmental humidity. Dense bamboo vegetation also captures water droplets from fog. It is one of the top 100 solutions proposed by Project Drawdown in order to stay under 1.5C",
+    "category": "solutions",
+    "tags": []
+  },
+  {
+    "slug": "why-eating-less-meat-is-one-of-the-most-powerful-things-you-can-do-for-the-climate",
+    "filename": "solutions/nature-based-solutions/Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate.md",
+    "label": "Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate",
+    "summary": "|-",
+    "category": "solutions",
+    "tags": []
   },
   {
     "slug": "briquettes-carbon-neutral-by-willowwarm",
@@ -2535,6 +2537,14 @@
     "tags": []
   },
   {
+    "slug": "amoc-monitoring-guardian-2026",
+    "filename": "sources/amoc-monitoring-guardian-2026.md",
+    "label": "amoc-monitoring-guardian-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "arctic-fires-ancient-carbon-2026",
     "filename": "sources/arctic-fires-ancient-carbon-2026.md",
     "label": "Arctic fires are releasing carbon stored for thousands of years",
@@ -2567,6 +2577,14 @@
     "slug": "climate-litigation-wins-2025",
     "filename": "sources/climate-litigation-wins-2025.md",
     "label": "Greenwashing, illegality and false claims: 13 climate litigation wins in 2025",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "climate-nobel-prize-ecosia-2025",
+    "filename": "sources/climate-nobel-prize-ecosia-2025.md",
+    "label": "climate-nobel-prize-ecosia-2025",
     "summary": "",
     "category": "",
     "tags": []
@@ -2681,6 +2699,22 @@
     ]
   },
   {
+    "slug": "manure-digesters-newscientist-2026",
+    "filename": "sources/manure-digesters-newscientist-2026.md",
+    "label": "manure-digesters-newscientist-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "sbti-net-zero-rules-2026",
+    "filename": "sources/sbti-net-zero-rules-2026.md",
+    "label": "sbti-net-zero-rules-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "sitka-spruce-greenwashing-ireland-2026",
     "filename": "sources/sitka-spruce-greenwashing-ireland-2026.md",
     "label": "Wildlife experts call for 'misleading' timber industry book to be removed from schools",
@@ -2769,6 +2803,14 @@
     "tags": []
   },
   {
+    "slug": "world-cup-most-polluting-wdht-2026",
+    "filename": "sources/world-cup-most-polluting-wdht-2026.md",
+    "label": "world-cup-most-polluting-wdht-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "7-principles-to-sustainability-reporting",
     "filename": "standards-labels/7 Principles to Sustainability Reporting.md",
     "label": "7 Principles to Sustainability Reporting",
@@ -2787,6 +2829,18 @@
     "tags": [
       "esg",
       "cool-companies"
+    ]
+  },
+  {
+    "slug": "draft-what-is-tnfd",
+    "filename": "standards-labels/DRAFT - What is  TNFD?.md",
+    "label": "What is TNFD?",
+    "summary": "Disclosure recommendations, Update on Adoption - 29th October 2024 - Green Digest Newsletter, Framework, Example, TNFD also, released, announced, The TNFD also, published,  increase , Despite positive developments, nations at COP16 are, struggling",
+    "category": "standards",
+    "tags": [
+      "esg",
+      "nature",
+      "finance"
     ]
   },
   {
@@ -2903,18 +2957,6 @@
     ]
   },
   {
-    "slug": "what-is-tnfd",
-    "filename": "standards-labels/What is  TNFD?.md",
-    "label": "What is TNFD?",
-    "summary": "Disclosure recommendations, Update on Adoption - 29th October 2024 - Green Digest Newsletter, Framework, Example, TNFD also, released, announced, The TNFD also, published,  increase , Despite positive developments, nations at COP16 are, struggling",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "nature",
-      "finance"
-    ]
-  },
-  {
     "slug": "what-is-issb",
     "filename": "standards-labels/What is ISSB?.md",
     "label": "What is ISSB?",
@@ -2931,10 +2973,7 @@
     "label": "What is SDR?",
     "summary": "What does the new SDR require asset managers to do?",
     "category": "standards",
-    "tags": [
-      "esg",
-      "finance"
-    ]
+    "tags": []
   },
   {
     "slug": "what-is-vsme-voluntary-sustainability-reporting",
@@ -2967,6 +3006,19 @@
     "tags": [
       "esg",
       "research"
+    ]
+  },
+  {
+    "slug": "sbti-science-based-targets",
+    "filename": "standards-labels/sbti-science-based-targets.md",
+    "label": "SBTi — Science Based Targets initiative",
+    "summary": "SBTi, Science Based Targets initiative, corporate net zero, decarbonisation, environmental credits, SAF credits, carbon removal, direct air capture, reforestation, PPA, power purchase agreement, hourly matching, annual matching, hard-to-abate emissions, best-efforts framework, David Kennedy, corporate climate targets, scope 1 scope 2 scope 3, supply chain, net zero standard 2026",
+    "category": "standards",
+    "tags": [
+      "esg",
+      "carbon",
+      "greenwashing",
+      "company-evaluations"
     ]
   }
 ]
