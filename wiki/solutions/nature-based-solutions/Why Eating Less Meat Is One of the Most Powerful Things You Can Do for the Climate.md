@@ -51,7 +51,7 @@ Ruminants make up 30% of food-related emissions but generate only 5% of global d
 The EAT-Lancet Commission, an international team of scientists, estimated that red meat, beef, lamb, and pork, should ideally be limited to around 14 grams per day per person, or roughly 5 kg per person per year. Most people in high-income countries eat far more than that.
 
 
-![[FoodEnvironmentalImpact.png]]
+![[[FoodEnvironmentalImpact.png](https://github.com/fmossiere-bot/climate-action-wiki/blob/main/wiki/sources/FoodEnvironmentalImpact.png)]]
 
 ---
 
