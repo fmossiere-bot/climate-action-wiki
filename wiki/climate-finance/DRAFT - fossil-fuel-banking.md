@@ -57,7 +57,7 @@ Many banks had previously announced net zero lending targets and joined voluntar
 
 - [Finance and Climate Change — Risk](DRAFT%20-%20Finance%20and%20Climate%20Change%20-%20RISK.md)
 - [Greenwashing Lawsuits on the Rise](../concepts/key-ideas/Greenwashing%20lawsuits%20on%20the%20rise.md)
-- [Fossil Fuel Phaseout — Santa Marta Conference 2026](DRAFT%20-%20santa-marta-fossil-fuel-conference-2026.md)
+- [Fossil Fuel Phaseout — Santa Marta Conference 2026](santa-marta-fossil-fuel-conference-2026.md)
 
 ## Sources
 

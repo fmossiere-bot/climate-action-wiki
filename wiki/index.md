@@ -295,7 +295,7 @@ Funding the transition — investment, risk, green banking.
 | Space necessary for the various Energy Sources | Land use per energy source |
 | The Energy Supercycle is Unstoppable | The macro energy transition |
 | Where does the Oil goes to? Data | End-use breakdown of oil |
-| [[DRAFT - santa-marta-fossil-fuel-conference-2026]] | **NEW** — ~60 nations agree voluntary fossil fuel phaseout roadmaps (Apr 2026) |
+| [[santa-marta-fossil-fuel-conference-2026]] | **NEW** — ~60 nations agree voluntary fossil fuel phaseout roadmaps (Apr 2026) |
 
 ### Nature-Based Solutions (`wiki/solutions/nature-based-solutions/`)
 

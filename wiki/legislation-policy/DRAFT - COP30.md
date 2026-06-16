@@ -192,7 +192,7 @@ The Cop30 president and Brazilian diplomat, André Corrêa do Lago, said the pla
 > “Those governments committed to tackling the climate crisis at its source are uniting to move forward outside the UN, under the leadership of Colombia and Pacific Island states, to phase out fossil fuels rapidly, equitably, and in line with 1.5C,” said Nikki Reisch, at the Center for International Environmental Law. “The international conference next April is the first stop on the path to a livable future.”
 
 ### ✅ Update: Santa Marta Conference (April 2026)
-The promised April summit took place in Santa Marta, Colombia (April 28–30, 2026). Nearly 60 countries agreed to develop national **roadmaps** to phase out fossil fuel production and use. France published the first national roadmap by a developed country. Colombia published a draft during the conference. A second conference will be held in **Tuvalu** in early 2027, co-hosted by **Ireland**. See [[DRAFT - santa-marta-fossil-fuel-conference-2026]] for full details.
+The promised April summit took place in Santa Marta, Colombia (April 28–30, 2026). Nearly 60 countries agreed to develop national **roadmaps** to phase out fossil fuel production and use. France published the first national roadmap by a developed country. Colombia published a draft during the conference. A second conference will be held in **Tuvalu** in early 2027, co-hosted by **Ireland**. See [[santa-marta-fossil-fuel-conference-2026]] for full details.
 
 ## 6. Rainforest conference fails to create deforestation roadmap …
 Cop30 was deliberately sited in the Amazon to put focus on the vital role in climate of forests. Brazil’s environment minister, Marina Silva, tried to include a roadmap on ending deforestation in the core agreement at Belém.

@@ -49,4 +49,3 @@ For the roughly 60 participating countries — who together represent more than 
 
 ## Sources
 
-- `raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md` — The Guardian, 30 April 2026, Fiona Harvey and Jonathan Watts

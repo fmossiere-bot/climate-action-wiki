@@ -12,11 +12,6 @@ summary: Sustainability Commitment, ACCREDITATIONS, SOCIAL Search Perplexity, Ho
 ---
 
 
-# Source
-- [Willowwarm website](Source: https://willowwarm.ie/willowwarm-our-sustainability/)
-- [Video TV report](https://www.youtube.com/watch?v=Em8Izmsfi18)
-
-
 
 Outdoor firepits have become a popular addition to Irish gardens, offering a way to extend time outside during the cooler months without committing to full patio heating. But for anyone trying to make more considered choices, sourcing the fuel raises an immediate question: how credible are the sustainability claims on the packaging?
 
@@ -61,3 +56,10 @@ Within its category, however, which is domestic solid fuel heating, the sustaina
 Carbon neutral claims on packaging often turn out to be thin when examined closely. In this case, they hold up. WillowWarm is what it says it is: a renewable, Irish-grown biomass fuel with a credible carbon neutral cycle, proper certifications and consistently positive feedback on performance.
 
 It is not a perfect solution. Burning any solid fuel produces particulates, and the most sustainable heating system is one that does not rely on combustion at all. But for occasional outdoor use, WillowWarm briquettes are a considerably more defensible choice than imported logs of unknown origin or traditional solid fuel. For anyone looking for a cleaner, locally sourced option, the credentials are genuine.
+
+
+---
+# Source
+- [Willowwarm website](Source: https://willowwarm.ie/willowwarm-our-sustainability/)
+- [Video TV report](https://www.youtube.com/watch?v=Em8Izmsfi18)
+
