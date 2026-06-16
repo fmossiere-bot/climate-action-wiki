@@ -102,7 +102,7 @@ Perhaps the most useful thing to take away from all of this is that there is no 
 The mammoth meatball was a clever way to get people talking. But the real work is happening in much less dramatic places.
 
 ## Connected topics
-- [Agriculture and the Planetary Footprint](agriculture-planetary-footprint.md)
+- [Agriculture and the Planetary Footprint](DRAFT%20-%20agriculture-planetary-footprint.md)
 - [FACTS about Farming and Food Production](../agriculture-food/FACTS about Farming and Food production.md)
 - [Plant-Rich Diets - Project Drawdown 3](../../solutions/nature-based-solutions/Plant-Rich Diets  - Project Drawdown  3.md)
 - [The Power of Meat 2024](../agriculture-food/The Power of Meat 2024.md)

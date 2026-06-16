@@ -25,4 +25,4 @@ A report from the UN Food and Agriculture Organization (FAO) documenting a fourf
 - The IPCC identifies a shift to plant-rich diets as one of the most effective demand-side climate actions
 
 ## Wiki pages updated
-- [Agriculture and the Planetary Footprint](../sectors/agriculture-food/agriculture-planetary-footprint.md) — added FAO 2026 data on global meat supply trends
+- [Agriculture and the Planetary Footprint](DRAFT%20-%20agriculture-planetary-footprint.md) — added FAO 2026 data on global meat supply trends

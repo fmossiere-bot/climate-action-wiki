@@ -20,4 +20,4 @@ The podcast also covers the transport failures at US venues (NJ Transit surge-pr
 ## Related wiki pages
 
 - [Environmental Impact of Football World Cups](../sectors/Environmental%20Impact%20of%20football%20world%20cups.md)
-- [Wet-Bulb explained](../climate-science/Wet-Bulb%20explained.md)
+- [DRAFT - Wet-Bulb explained](DRAFT%20-%20Wet-Bulb%20explained.md)

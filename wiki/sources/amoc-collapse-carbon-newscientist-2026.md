@@ -34,4 +34,4 @@ The AMOC has already declined by about 15% and current CO₂ concentrations (430
 
 - [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md)
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [FACTS about Glacier](../climate-science/FACTS%20about%20Glacier.md)
+- [DRAFT - FACTS about Glacier](DRAFT%20-%20FACTS%20about%20Glacier.md)

@@ -34,7 +34,7 @@ Here are some of the key points:
 ![[America_Misled.pdf]]
 
 
-Also refer to the report on Oil Companies [[_Big Oil reality Check report]] and [[Class 10 - Climate Politics and Climate Justice]] or finally just check this link for direct information - https://textbook.terra.do/class/m-politics-and-justice-5
+Also refer to the report on Oil Companies [[_Big Oil reality Check report]] and [[DRAFT - Class 10 - Climate Politics and Climate Justice]] or finally just check this link for direct information - https://textbook.terra.do/class/m-politics-and-justice-5
 
 Additionally, there is a mountain of evidence now that fossil fuel companies were the first to know about climate change—Exxon was [actively researching](https://www.theguardian.com/commentisfree/2019/oct/23/exxon-climate-change-fossil-fuels-disinformation) this topic back in the 1980s—and chose not only to hide the evidence but to spend millions funding misinformation campaigns in the U.S. designed to spread doubts about the very thing their own scientists were telling them: that burning fossil fuels is dangerous for the planet. 
 

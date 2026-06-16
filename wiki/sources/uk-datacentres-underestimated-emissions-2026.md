@@ -24,4 +24,4 @@ The UK government revised its estimate of AI data centre carbon emissions upward
 - The government declined to comment on record
 
 ## Wiki pages updated
-- Updated page: [AI Data Centres and the Energy Crisis](../sectors/digital/ai-data-centre-energy-crisis.md)
+- Updated page: [AI Data Centres and the Energy Crisis](DRAFT%20-%20ai-data-centre-energy-crisis.md)

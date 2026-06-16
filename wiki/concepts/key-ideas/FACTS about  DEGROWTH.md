@@ -71,7 +71,7 @@ Despite this, the movement still faces criticism, particularly concerning how a 
 
 ---
 ## As a Mental Model:  Growth vs Degrowth
-Source: [[Class 7 - Mental Models#MM2 Growth vs Degrowth]]
+Source: [[DRAFT - Class 7 - Mental Models#MM2 Growth vs Degrowth]]
 
 Many debates in the community comes from this argument, on whether you are a growther or a degrowther
 

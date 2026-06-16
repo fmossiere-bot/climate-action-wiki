@@ -1,12 +1,17 @@
 ---
-title: "Wildfires as a Climate Feedback"
+title: Wildfires as a Climate Feedback
 category: climate-science
-tags: ["#science", "#carbon", "#adaptation", "#biodiversity"]
-sources: ["New Scientist, Alec Luhn, 29 April 2026 — from raw/papers/New Scientist 2.pdf", "New Scientist, Michael Le Page, 13 May 2026 — from raw/papers/New Scientist 2.pdf and raw/papers/Artic-Fires.pdf"]
+tags:
+  - "#science"
+  - "#carbon"
+  - "#adaptation"
+  - "#biodiversity"
+sources:
+  - New Scientist, Alec Luhn, 29 April 2026 — from raw/papers/New Scientist 2.pdf
+  - New Scientist, Michael Le Page, 13 May 2026 — from raw/papers/New Scientist 2.pdf and raw/papers/Artic-Fires.pdf
 created: 2026-06-12
 updated: 2026-06-12
-cover_image: "https://images.unsplash.com/photo-1602491676043-ddb9ef9e7a4d?w=1200"
-summary: "wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record"
+summary: wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record
 ---
 
 # Wildfires as a Climate Feedback
@@ -61,11 +66,11 @@ Wildfires also release **black carbon** — fine soot particles. Black carbon ha
 
 ## Connected topics
 
-- [FACTS about Glacier](FACTS%20about%20Glacier.md)
+- [DRAFT - FACTS about Glacier](DRAFT%20-%20FACTS%20about%20Glacier.md)
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
 - [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
 - [AMOC Collapse and Carbon Release](amoc-collapse-carbon.md)
-- [Class 5 - Local Impact and Extreme Events Attribution](Class%205%20-%20Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
+- [DRAFT - Class 5 - Local Impact and Extreme Events Attribution](DRAFT%20-%20Class%205%20-%20Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
 
 ## Sources
 

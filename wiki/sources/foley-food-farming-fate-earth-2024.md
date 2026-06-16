@@ -28,4 +28,4 @@ A long-form essay by Jonathan Foley, Executive Director of Project Drawdown, arg
 
 ## Wiki pages created or updated
 
-- Created: [Agriculture's Planetary Footprint](../sectors/agriculture-food/agriculture-planetary-footprint.md)
+- Created: [Agriculture's Planetary Footprint](DRAFT%20-%20agriculture-planetary-footprint.md)

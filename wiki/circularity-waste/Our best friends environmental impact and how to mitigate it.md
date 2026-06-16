@@ -21,7 +21,7 @@ The environmental footprint of pet ownership, particularly the carbon "pawprint,
 
 When you compare that with the average footprint of Irish citizen (~10t/year) and the fact that we need to get down to a footprint of 2.5t a year, it is not insignificant. 
 
-> [!NOTE] UK Numbers
+> **UK Numbers**
 > In the UK alone, Dog Food account for 1% of the GHG
 > *Source: [The Guardian]([https://www.theguardian.com/lifeandstyle/2026/jan/08/dog-food-accounts-for-1-of-uk-greenhouse-gas-emissions-study-finds](https://www.theguardian.com/lifeandstyle/2026/jan/08/dog-food-accounts-for-1-of-uk-greenhouse-gas-emissions-study-finds)*)
 > 
@@ -43,7 +43,7 @@ Some of those today seem to be low on Iodine and Vitamin B, but this could proba
 ### What is the impact of Meat in Pet Food overall Carbon Footprint?
 The production of pet food is the single largest contributor to the carbon pawprint. The industry's reliance on animal-based ingredients has a substantial environmental impact, consuming approximately a fifth of the world's meat and fish. A global survey found that the pet food industry uses 49 million hectares of land annually to produce dry food for dogs and cats—an area twice the size of the UK—and emits 106 million tonnes of carbon dioxide each year. To understand this impact, it is essential to first understand the composition of pet food.
 
-> [!NOTE] Did You Know? 
+> **Did You Know?** 
 > 
 > - 1/5 of the World's meat and fish is used for Pet Food
 > - Uses 49 million hectares of land annually (twice the size of the UK)
@@ -62,7 +62,7 @@ Further complicating the issue is the growing trend of "pet humanisation," where
 
 The contemporary global pet food industry is undergoing a paradigm shift characterised by the dual pressures of "pet humanisation" and an increasingly urgent mandate for environmental sustainability. Within the Irish market, this transition is particularly visible as consumers move beyond basic caloric requirements toward "functional nutrition" that aligns with their ethical and ecological values. This report provides an exhaustive comparative analysis of three prominent dog food brands available in Ireland: **Harley and Marley, Go Native (Connolly’s Red Mills), and Specific (Dechra Veterinary Products)**. By examining their origins, manufacturing processes, sustainability claims, ingredient integrity, and owner reception, this analysis elucidates how these firms navigate the complex intersection of canine health and ecological stewardship.
 
-> [!NOTE] Some of the questions to ask
+> **Some of the questions to ask**
 > About the food used:
 > 1. Does it use a byproduct or human-grade food
 > 2. where does taht food come from? single source? multiple sources? it is traceable?
@@ -84,8 +84,7 @@ The core sustainability claim of Harley and Marley is rooted in the "circular ec
 
 > This mechanism results in a 95% reduction in fish waste that would otherwise be destined for landfill or lower-value rendering.1 By utilizing the "entire fish from head to tail," Harley and Marley reduces the pressure on wild fish stocks, as they are not harvesting additional fish solely for pet food but rather maximizing the utility of existing catches.1 This localized, circular model contributes directly to Ireland’s climate action goals by minimizing the environmental footprint of the seafood supply chain.2
 
-> [!NOTE] Some Outstanding Questions
-> - How good is the fishing practice where the waste fish is coming from? certifications? mid traling? deep trawling? Seems this is coming from the Origin green Sustainability program, so it is good enough? 
+
    
 
 ## Renewable Infrastructure and Biodiversity Reserves: Go Native

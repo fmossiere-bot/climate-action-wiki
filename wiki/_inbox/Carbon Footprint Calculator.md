@@ -122,6 +122,6 @@ Not a full personal calculator, but the best Irish source for understanding your
 
 
 
-For Flight specifics, see [[Flight Carbon Footprint and Offset Guide]]
+For Flight specifics, see [[DRAFT - Flight Carbon Footprint and Offset Guide]]
 
 

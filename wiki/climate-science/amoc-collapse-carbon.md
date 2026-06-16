@@ -70,8 +70,8 @@ The total cost of all AMOC monitoring globally is roughly **€25 million per ye
 
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
 - [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)
-- [FACTS about Glacier](FACTS%20about%20Glacier.md)
-- [Class 4 - Global Impact of Climate Change](Class%204%20-%20Global%20Impact%20of%20Climate%20Change.md)
+- [DRAFT - FACTS about Glacier](DRAFT%20-%20FACTS%20about%20Glacier.md)
+- [DRAFT - Class 4 - Global Impact of Climate Change](DRAFT%20-%20Class%204%20-%20Global%20Impact%20of%20Climate%20Change.md)
 
 ## Sources
 

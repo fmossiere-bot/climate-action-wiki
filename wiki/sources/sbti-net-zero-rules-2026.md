@@ -26,4 +26,4 @@ The Science Based Targets initiative published its long-awaited update to the co
 
 ## Wiki pages created
 
-- [SBTi Science Based Targets](../standards-labels/sbti-science-based-targets.md) — new page
+- [SBTi Science Based Targets](DRAFT%20-%20sbti-science-based-targets.md) — new page

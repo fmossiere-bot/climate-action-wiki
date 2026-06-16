@@ -31,4 +31,4 @@ A reported analysis of the research evidence on anaerobic digesters for dairy ma
 
 ## Wiki pages updated
 
-- [Methane Digesters](../solutions/carbon-removal/Methane%20Digester%20-%20Project%20Drawdown%2028.md) — added 2026 findings on limits and risks
+- [Methane Digesters](Methane%20Digesters%20-%20Turning%20Farm%20Waste%20into%20Energy%20and%20Fertiliser.md) — added 2026 findings on limits and risks

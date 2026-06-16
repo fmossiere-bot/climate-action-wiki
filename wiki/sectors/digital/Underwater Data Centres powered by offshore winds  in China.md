@@ -53,7 +53,7 @@ The UDC concept has not yet been tested at full commercial scale. Two key questi
 - Open questions remain on marine ecological effects. ([New Atlas, 2026](https://newatlas.com/energy/china-underwater-data-center-opens/))
 
 ## Connected topics
-- [AI Data Centres and the Energy Crisis](../digital/ai-data-centre-energy-crisis.md)
+- [AI Data Centres and the Energy Crisis](DRAFT%20-%20ai-data-centre-energy-crisis.md)
 - [AI Emissions and Corporate Responsibility](../digital/AI Emissions and Corporate Responsibility.md)
 - [IRELAND Datacentre Dilemma](../../ireland-hub/IRELAND Datacentre Dilemna.md)
 - [FACTS about the Ocean](../../biodiversity-land/FACTS about the Ocean.md)

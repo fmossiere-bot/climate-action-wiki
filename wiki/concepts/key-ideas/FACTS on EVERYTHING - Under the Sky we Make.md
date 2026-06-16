@@ -118,7 +118,7 @@ Humans are destroying nature to overextract Crops,Timber and other materials, st
 > 85% of wetlands (which filter water and provide flood protection) and 50% of Coral reef  (which buffer stroms and are nureseries for life in ocean) are gone #wetlands 
 
 
-> Please also refer to [[Keynote Dr Chip FLETCHER]] where he also talks a lot about the impact Human had, Agriculture had, aNd the biodiversity conSequences. 
+> Please also refer to [[DRAFT - Keynote Dr Chip FLETCHER]] where he also talks a lot about the impact Human had, Agriculture had, aNd the biodiversity conSequences. 
 
 
 ## 3. Uprouting Exploitation, Sowing Regeneration
@@ -328,7 +328,7 @@ Similarly, while tourism cause about 8% og Global Climate pollution, for wealthy
 > **In Europe, Ryanair joined the top 10 climate polluters in the EU, alongside 9 coal-fired power plants.** 
 
 
-See [[De-Carbonizing Transport and Shipping]]
+See [[DRAFT - De-Carbonizing Transport and Shipping]]
 ### Stop Driving
 > Transportation is the largest source of GHG in the USA, and private car the largest among that. 
 
@@ -340,7 +340,7 @@ See [[De-Carbonizing Transport and Shipping]]
 ==**Electric cars are not perfect and reducing cars is still necessary**== 
 While electric vehicles today do reduce life-cycle emissions compared with gasoline ones, they’re not a panacea. Our 2017 research showed that, taking into account the full life-cycle impact of vehicle production and electricity use, electric cars still caused about half as much climate pollution as typical gasoline cars.
 
-See [[CARS Life Cycle Emissions - EV vs Combustion]]
+See [[DRAFT - CARS Life Cycle Emissions - EV vs Combustion]]
 
 ### Tech will not fix everything
 Further, there is sometimes a mistaken tendency to think that more tech must mean greater efficiency, but the data often tell a different story. For example, a UC Davis report showed that ride-hailing services like Uber and Lyft have led to increased car use and traffic, more trips being taken overall, and fewer trips taken by walking, biking, or public transport. Similarly, the longer-range dream of self-driving cars might free up the one human they transport to do something else while commuting, but cars enable more sprawl, traffic, local air pollution, and greenhouse gases, whether a human is at the wheel or not. Tech is not always the answer; we have to look at behavior change too, by rethinking how to meet our needs in sustainable ways.
@@ -348,7 +348,7 @@ Further, there is sometimes a mistaken tendency to think that more tech must mea
 ### Electrify everything
 Decarbonizing electricity and heat production is the first necessary step of decarbonizing the whole economy;
 
-See [[Class 12 - Cleaning-up Electricity]] 
+See [[Clean Electricity - Why It Has to Come First]] 
 
 What has proven effective at decarbonizing electricity is regulation and standards to provide incentives and targets for clean energy supply and demand-side efficiency. The most effective policies to date for reducing greenhouse gas emissions in Europe have been regulations establishing targets and policies for renewable energy (setting dates for an increasing percentage of energy coming from clean sources) and establishing efficiency standards for energy generation, transmission, distribution, and consumption in appliances and buildings.
 
@@ -386,7 +386,7 @@ It keeps going:
 Fresh water is an incredibly limited resource. The US Geological Survey visualizes what it would look like if you collected all the Earth’s surface fresh water from lakes and rivers: 
 #### a bubble only thirty-five miles in diameter.This is the amount of fresh water we have left. 
 
-> See [[IRELAND Water Usage and Water Management]]
+> See [[DRAFT - IRELAND Water Usage and Water Management]]
 
 ### Industrial AGRICULTURE  makes us sick
 Note that industrial agriculture is also klling us. Unhealthy diets are responsible for mroe than 11million death in 2017 (Largest mortality risk). Agriculute use strong anitbioitics on cows to make them grow faster and protect them. This can lead to anitbioitic resistance. 

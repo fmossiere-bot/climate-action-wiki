@@ -97,7 +97,7 @@ Yes mining will be required and renewable energy is not completey clean, but it 
 ## I’ve heard EVs are worse for the environment than regular cars—the power has to come from somewhere, after all 
 #myths #transport #ev 
 
-Also see [[CARS Life Cycle Emissions - EV vs Combustion]]
+Also see [[DRAFT - CARS Life Cycle Emissions - EV vs Combustion]]
 
 **In almost every case today, battery-powered vehicles produce fewer emissions than those with internal-combustion engines.** The exact size of those differences does depend on where you are in the world, what is powering the electrical grid, and what sort of vehicle you’re driving in the first place. 
 

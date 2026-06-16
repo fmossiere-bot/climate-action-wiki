@@ -25,5 +25,5 @@ A report commissioned by Friends of the Earth Ireland and Beyond Fossil Fuels qu
 - Beyond Fossil Fuels says the Irish case is "a warning for Europe"
 
 ## Wiki pages updated
-- Updated page: [AI Data Centres and the Energy Crisis](../sectors/digital/ai-data-centre-energy-crisis.md) — Ireland section
+- Updated page: [AI Data Centres and the Energy Crisis](DRAFT%20-%20ai-data-centre-energy-crisis.md) — Ireland section
 - Updated page: [IRELAND Datacentre Dilemma](../ireland-hub/IRELAND Datacentre Dilemna.md) — added hidden tax findings

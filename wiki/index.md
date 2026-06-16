@@ -76,7 +76,7 @@ Adapting to unavoidable climate impacts.
 | Page | Description |
 |------|-------------|
 | Class 20 - Adaptation and Resilience | Terra.do Class 20: adaptation strategies |
-| [[home-cooling-heatwaves]] | How to keep homes cool during heatwaves — fans, AC, heat pumps, passive cooling |
+| [[DRAFT - home-cooling-heatwaves]] | How to keep homes cool during heatwaves — fans, AC, heat pumps, passive cooling |
 
 ---
 
@@ -86,7 +86,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Class 17 - Finance and Climate Change - Investment | Terra.do Class 17: climate investment |
-| [[fossil-fuel-banking]] | **NEW** — $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
+| [[DRAFT - fossil-fuel-banking]] | **NEW** — $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
 | Class 18 - Finance and Climate Change - RISK | Terra.do Class 18: climate financial risk |
 | GREEN Your Bank ACTION GUIDE | How to switch to a green bank |
 | Green Pension ACTION GUIDE | How to green your pension |
@@ -147,7 +147,7 @@ Funding the transition — investment, risk, green banking.
 | Meat Token ACTION GUIDE | Reducing meat consumption |
 | Talking about Climate Change ACTION GUIDE | Conversation guide for climate |
 | The climate Mitigation Gap research | Research on individual vs systemic action |
-| [[high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
+| [[DRAFT - high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
 
 ### Company Evaluations (`wiki/concepts/company-evaluations/`)
 
@@ -162,7 +162,7 @@ Funding the transition — investment, risk, green banking.
 | L'OREAL - GREEN DIGEST | L'Oréal sustainability evaluation |
 | NIKE - GREEN DIGEST | Nike sustainability evaluation |
 | STENA Ferry Sustainability Commitment | Stena Line sustainability |
-| [[patagonia-story]] | **NEW** — Yvon Chouinard and Patagonia: from piton-forger to suing the US president, to giving the company to the planet in 2022 |
+| [[DRAFT - patagonia-story]] | **NEW** — Yvon Chouinard and Patagonia: from piton-forger to suing the US president, to giving the company to the planet in 2022 |
 
 ---
 
@@ -176,7 +176,7 @@ Funding the transition — investment, risk, green banking.
 | Class 14 - About Food and Farming | Terra.do Class 14: food systems |
 | FACTS about CHOCOLATE and CACAO | Environmental impact of chocolate |
 | FACTS about Farming and Food production | Farming's climate footprint |
-| [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
+| [[DRAFT - agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
 | [[lab-grown-meat]] | **NEW** — Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
 | FACTS about RICE production | Rice emissions and impact |
 | Food Carbon FootPrint | Food's overall carbon footprint |
@@ -199,9 +199,9 @@ Funding the transition — investment, risk, green banking.
 | Carbon Footprint of an iPhone | Lifecycle emissions of smartphones |
 | Digital4Sustainability - INTRO / MODULE 1–4 | Digital sustainability course notes |
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
-| [[AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
+| [[DRAFT - AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
-| [[ai-data-centre-energy-crisis]] | **NEW** — UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs |
+| [[DRAFT - ai-data-centre-energy-crisis]] | **NEW** — UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
@@ -295,7 +295,7 @@ Funding the transition — investment, risk, green banking.
 | Space necessary for the various Energy Sources | Land use per energy source |
 | The Energy Supercycle is Unstoppable | The macro energy transition |
 | Where does the Oil goes to? Data | End-use breakdown of oil |
-| [[santa-marta-fossil-fuel-conference-2026]] | **NEW** — ~60 nations agree voluntary fossil fuel phaseout roadmaps (Apr 2026) |
+| [[DRAFT - santa-marta-fossil-fuel-conference-2026]] | **NEW** — ~60 nations agree voluntary fossil fuel phaseout roadmaps (Apr 2026) |
 
 ### Nature-Based Solutions (`wiki/solutions/nature-based-solutions/`)
 
@@ -365,7 +365,7 @@ Funding the transition — investment, risk, green banking.
 | Recycling - Project Drawdown 42 | Recycling as climate solution |
 | Reduced Food Waste - Project Drawdown 1 | Food waste reduction |
 | The Environmental Impact of the FASHION industry | Fashion's climate footprint |
-| [[seaqual-ocean-plastic-fashion]] | **NEW** — Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
+| [[DRAFT - seaqual-ocean-plastic-fashion]] | **NEW** — Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |
 | Waste to Energy - Project Drawdown 58 | Waste-to-energy systems |
 
@@ -376,7 +376,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Boards need to build competencies for a successful ESG strategy | ESG governance for boards |
-| [[COP30]] | COP30 Belém outcomes (November 2025) — **updated with Santa Marta follow-up** |
+| [[DRAFT - COP30]] | COP30 Belém outcomes (November 2025) — **updated with Santa Marta follow-up** |
 | Class 19 - Corporate Climate Action | Terra.do Class 19: corporate action |
 | Emission Gap Report 2024 - UNEP | UNEP emissions gap report |
 | Global spending on subsidies that harm environment rises to $2.6tn | Fossil fuel subsidy data |
@@ -412,7 +412,7 @@ Funding the transition — investment, risk, green banking.
 | What is VSME - Voluntary Sustainability Reporting | Voluntary SME reporting |
 | What is the EPD? | Environmental Product Declaration |
 | Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024 | Reporting standard comparison |
-| [[sbti-science-based-targets]] | **NEW** — SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
+| [[DRAFT - sbti-science-based-targets]] | **NEW** — SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
 
 ---
 

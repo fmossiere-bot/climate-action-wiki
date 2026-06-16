@@ -10,7 +10,7 @@ summary: "Here is the carbon footprint of an average day of emails, WhatsApps an
 #digital 
 
 
-Also check [[The Environmental impact of a DIGITAL ACTIVITIES (Draft)]]
+Also check [[DRAFT - The Environmental impact of a DIGITAL ACTIVITIES (Draft)]]
 
 What is your digital Footprint? [https://digitalfootprint.earth/](https://digitalfootprint.earth/)
 

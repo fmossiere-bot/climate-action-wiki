@@ -10,8 +10,8 @@ summary: "Land-based emissions, Looking at energy-related CO2 emissions only, Tr
 When we look at global emissions, we often look at purely CO2 emissions, then combined with non-CO2 Greenhouse Gaz emissions (GHG) such as Methane, Notrous Oxide and Fluorinated Gases
 
 What are CO2 emissions and GHG? 
-[[OZONE Layer FACTS]]
-[[Methane emissions role in Global Warming]]
+[[DRAFT - OZONE Layer FACTS]]
+[[DRAFT - Methane emissions role in Global Warming]]
 
 There are different ways to look at emissions: 
 - By country: top 10 countries accout for 
@@ -57,7 +57,7 @@ Source: https://ourworldindata.org/ghg-emissions-by-sector
 ![[CO2Emissionsin2022.pdf]]
 
 
-Also see [[Class 12 - Cleaning-up Electricity#The Global Power sector has nearly reached Peak GHG Emissions]]
+Also see [[Clean Electricity - Why It Has to Come First#The Global Power sector has nearly reached Peak GHG Emissions]]
 ### Land-based emissions
 
 The examination of land-based emissions in particular underscores the urgency of halting deforestation and implementing strategies to restore and conserve both forested and oceanic ecosystems. For countries like Brazil and Indonesia, the situation is nuanced. Though they have relatively low fossil fuel emissions, extensive deforestation within their rich, biodiverse rainforests has led to the massive release of CO2 into the atmosphere.
@@ -76,7 +76,7 @@ This pattern emphasizes that climate change isn't solely a product of industrial
 
 In [2021](https://www.iea.org/commentaries/the-world-s-top-1-of-emitters-produce-over-1000-times-more-co2-than-the-bottom-1), nearly half of the global energy-related CO2 emissions were attributed to the top 10% of emitters, while the bottom 10% were responsible for only 0.2% of global emissions.
 
-See [[Class 10 - Climate Politics and Climate Justice]] for some interesting grpahs on past data for countreis and a nice global view. 
+See [[DRAFT - Class 10 - Climate Politics and Climate Justice]] for some interesting grpahs on past data for countreis and a nice global view. 
 # Per Capita
 Check this[ Country/Capita explorer](https://ourworldindata.org/co2/country/ireland) 
 
@@ -107,7 +107,7 @@ Here we look at production-based emissions – that is, emissions produced withi
 
 you can make a difference. Most of us are in the top 1-10%, the ones responsible for most emissions 
 
-> See [[Climate Change Isn't FAIR]] for additional information about the injustice of the emissions impact
+> See [[DRAFT - Climate Change Isn't FAIR]] for additional information about the injustice of the emissions impact
 
 We've already covered the "per capita" contribution in different countries. But focus on Countries obscure other differences ... for instance, in Saudi Arabia, it is heavily skewed by the fact that the country is a producer of oil, which increase the numbers drastically. 
 

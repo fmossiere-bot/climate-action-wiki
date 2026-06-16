@@ -24,4 +24,4 @@ More than 100 new UK data centres have requested gas network connections, in som
 - US parallel: 11 data centres built for Meta, OpenAI, Microsoft and xAI will reportedly emit more CO₂ than Morocco
 
 ## Wiki pages updated
-- Created new page: [AI Data Centres and the Energy Crisis](../sectors/digital/ai-data-centre-energy-crisis.md)
+- Created new page: [AI Data Centres and the Energy Crisis](DRAFT%20-%20ai-data-centre-energy-crisis.md)

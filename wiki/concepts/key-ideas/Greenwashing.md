@@ -43,7 +43,7 @@ See the [MURAL Game](https://app.mural.co/t/smartphonefreemetns7241/m/smartphone
 #### Sitka Spruce — Greenwashing in Irish Schools (2026)
 
 > A children's book titled *Sitka Spruce – the Amazing Timber Tree*, funded by Irish commercial forestry interests and carrying a foreword by then-minister Michael Healy-Rae, was distributed to Irish primary schools. It depicted Sitka plantations as thriving ecosystems. In reality, these monoculture forests are widely regarded as ecological dead zones. The Irish Wildlife Trust called for its removal. The Department of Education said it had no responsibility for industry-distributed school materials — revealing a systemic gap.
-> *Source: [[sitka-spruce-greenwashing-ireland-2026]] — Irish Times, April 2026. See also [[IRELAND Land use, Soil and Forestry]]*
+> *Source: [[sitka-spruce-greenwashing-ireland-2026]] — Irish Times, April 2026. See also [[DRAFT - IRELAND Land use, Soil and Forestry]]*
 
 #### Total Energy
 

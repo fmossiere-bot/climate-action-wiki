@@ -6,7 +6,6 @@ tags:
   - behaviour
 created: 2026-06-01
 updated: 2026-06-01
-cover_image: https://wiki.the-uptake.com/assets/_IMAGES/JP.jpg
 summary: "1. The Core Tension: Efficiency vs. Scale, 2. The Data Center 'Land Grab', 3. The Rebound Effect, 4. Expert Quotes & Context, GPU and model efficiency, The Hardware Loop, The Software Loop, DeepSeek, omnipresent, Hyper-growth vs. De-carbonization, 100 GW by 2027, The 'Firm Power' Problem, Nuclear Energy, Natural Gas, The Direct Rebound, The Indirect Rebound, The Green Transition Irony, Satya Nadella (Microsoft CEO), Jensen Huang (Nvidia CEO)"
 ---
 

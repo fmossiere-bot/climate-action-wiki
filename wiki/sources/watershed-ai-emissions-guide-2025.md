@@ -30,4 +30,4 @@ A 42-slide practical guide from Watershed aimed at corporate sustainability lead
 
 ## Wiki pages created or updated
 
-- Created: [AI Emissions and Corporate Responsibility](AI%20Emissions%20and%20Corporate%20Responsibility.md)
+- Created: [DRAFT - AI Emissions and Corporate Responsibility](DRAFT%20-%20AI%20Emissions%20and%20Corporate%20Responsibility.md)
