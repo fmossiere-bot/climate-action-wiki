@@ -55,7 +55,7 @@ Not fully — until the electricity grid runs entirely on renewables. But you ca
 - [[DRAFT - IRELAND Climate Adaptation]]
 - [[DRAFT - IRELAND National Heat Study 2023]]
 - [[DRAFT - Net-Zero Buildings]]
-- [[DRAFT - Cool Roof]]
+- [[Cool Roofs - A Simple Idea with a Surprisingly Large Impact]]
 - [[DRAFT - Wet-Bulb explained]]
 
 ## Sources

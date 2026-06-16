@@ -9,7 +9,7 @@ summary: "Zero Emission Hydrogen Plan in Germany"
 
 #alternative-fuels 
 
-SAF [[DRAFT - About Sustainable Aviation Fuel (SAF)]] is not the only option. Hydrgen has long been considered as an option to power transportation, especially Cargo and Planes. 
+SAF [[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]] is not the only option. Hydrgen has long been considered as an option to power transportation, especially Cargo and Planes. 
 
 But could we see sustainable flights within 2 years already? 
 This seems that for smaller aircraft, some companies are confident this can be done. This is what Zeovia seems to be promessing;

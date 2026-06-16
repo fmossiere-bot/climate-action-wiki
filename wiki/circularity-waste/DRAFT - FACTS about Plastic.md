@@ -331,7 +331,7 @@ So-called reactors, which are massive recycling machines, are already installed 
 
 Now what does Carbon Neutral sustainable fuel exactly mean in this case? Seems that there is large interest anyway as oil company have already signed to buy most part of their prodiuction for SAF
 
-See [[DRAFT - About Sustainable Aviation Fuel (SAF)]]
+See [[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]]
 
 ###### "We will be able to independently certify the destruction of that plastic and its conversion into a useful product without subsidy," Mr Alley added
 

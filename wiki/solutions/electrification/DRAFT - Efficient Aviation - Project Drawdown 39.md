@@ -13,7 +13,7 @@ Source: https://drawdown.org/solutions/efficient-aviation
 > The number of flights may double between 2020 and 2040. Better winglets and engines, fuel-saving practices and new sustainable jet fuels can improve fuel efficiency
 
 
-See [[The environmental Impact of AIR TRAVEL]] | [[DRAFT - About Sustainable Aviation Fuel (SAF)]] | [[DRAFT - FACTS about Air Travel]]
+See [[The environmental Impact of AIR TRAVEL]] | [[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]] | [[DRAFT - FACTS about Air Travel]]
 
 > [!IMPACT]
 > This analysis focuses on adoption of the latest and most fuel-efficient aircraft; retrofitting existing aircraft with winglets, newer engines, and lighter interiors; and retiring older aircraft early. Over 30 years, and for a net first cost of US$3.47–3.79 trillion, we could avoid 5.29–5.82 gigatons of carbon dioxide equivalent emissions and save $1.59–2.24 trillion in lifetime jet-fuel and operating costs. Other efficiency measures could further reduce emissions and increase savings as over 80 percent of aircraft are converted.**

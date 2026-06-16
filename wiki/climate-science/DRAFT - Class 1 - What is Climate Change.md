@@ -47,7 +47,7 @@ Energy living the earth every second
 - Radiant Energy output = Stefan-Boltzmann law dictates the energy being emitted by an object. Sigma is a constant number
 	- For the purpose of this simple model, we will say that the earth radiatiance is the same as a black object
 
-==This reminds me the article about [[DRAFT - Cool Roof]]==
+==This reminds me the article about [[Cool Roofs - A Simple Idea with a Surprisingly Large Impact]]==
 
 ![[Screenshot 2023-09-05 at 15.03.35.png]]
 
@@ -167,7 +167,7 @@ Before you proceed to the final quiz, take some time to study this interactive d
 Source:[ World Resource Institute](https://www.wri.org/insights/4-charts-explain-greenhouse-gas-emissions-countries-and-sectors)
 
 ---
-Refer to [[DRAFT - Cool Roof]] as it is related to this … talks about Radiance Forcing, reflection, etc… 
+Refer to [[Cool Roofs - A Simple Idea with a Surprisingly Large Impact]] as it is related to this … talks about Radiance Forcing, reflection, etc… 
 
 ![[Summary.png]]
 

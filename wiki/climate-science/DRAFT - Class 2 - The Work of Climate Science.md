@@ -24,7 +24,7 @@ In this class, we’ll unpack questions like:  
 ## Climate Observation and Measurements
 The Earth Temperature is very important in assessing teh statte of the world's climate. as seen in [[DRAFT - Class 1 - What is Climate Change]], it i controlled by:
 - Incoming energy from the sun
-- Earth's[ albedo](https://www.pnas.org/doi/10.1073/pnas.1918770116) (mount of reflection vs absorbtion of sun's energy) (also refer to [[DRAFT - Cool Roof]])
+- Earth's[ albedo](https://www.pnas.org/doi/10.1073/pnas.1918770116) (mount of reflection vs absorbtion of sun's energy) (also refer to [[Cool Roofs - A Simple Idea with a Surprisingly Large Impact]])
 - The amount of energy retained by earth's atmosphere (The greenhouse effect)
 
 

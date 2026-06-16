@@ -70,7 +70,7 @@ Producing cement is based on fusing limestone and other raw materials into clink
 is released from the limestone and minerals. These emissions are independent from the fuel combustion used for heat and represent “process emissions” – emissions that are integral to the making of cement.
 ![[Screenshot 2023-11-19 at 12.37.39.png]]
 
-> 3%=7% comes from this process alone. This is not counting the energy used to produce it, neither the warming effect those concrete have ([urban heat island](https://heatisland.lbl.gov/coolscience/urban-heat-islands)) . See [[DRAFT - Cool Roof]] as a way to mitigate that effect. 
+> 3%=7% comes from this process alone. This is not counting the energy used to produce it, neither the warming effect those concrete have ([urban heat island](https://heatisland.lbl.gov/coolscience/urban-heat-islands)) . See [[Cool Roofs - A Simple Idea with a Surprisingly Large Impact]] as a way to mitigate that effect. 
 
 > But cement is particularly difficult to decarbonize, because it directly releases CO2 in chemical processes during its production.2 Novel decarbonization solutions are emerging, from new applications of carbon capture, utilization, and storage (CCUS) in clinker production to innovative materials and other cementitious solutions
 
@@ -331,7 +331,7 @@ Reference#2: https://textbook.terra.do/class/m-energy2-4
 
 Another issue of our Concrete buildings is the heat that they are able to absorb. 
 
-The idea behind [[DRAFT - Cool Roof]] os to try to limit at leas some of that absorption on flat roofs, and promoting more albedo reflection by painting those roof in a clear color. 
+The idea behind [[Cool Roofs - A Simple Idea with a Surprisingly Large Impact]] os to try to limit at leas some of that absorption on flat roofs, and promoting more albedo reflection by painting those roof in a clear color. 
 
 This particularly matters in cities because of the [urban heat island effect](https://e360.yale.edu/features/urban-heat-can-white-roofs-help-cool-the-worlds-warming-cities#:~:text=The%20materials%20that%20comprise%20most%20city%20buildings%20and%20roads%20reflect%20much%20less%20solar%20radiation%20%E2%80%93%20and%20absorb%20more%20%E2%80%93%20than%20the%20vegetation%20they%20have%20replaced.%20They%20radiate%20some%20of%20that%20energy%20in%20the%20form%20of%20heat%20into%20the%20surrounding%20air.): Many building materials tend to absorb solar energy and radiate it back out as heat, even well after the sun has set, so cities can be [several degrees hotter](https://www.epa.gov/heatislands) than the surrounding countryside.
 

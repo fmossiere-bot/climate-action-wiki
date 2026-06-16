@@ -320,7 +320,7 @@ Corporate action is highly effective, as a small group of frequent flyers and la
 
 ##### The industry does plan does aim to reach net-zero by 2050. On that path, it has a target of having SAF provide 10% of all flight fuel by 2030, today it is around 0.5% in the US, 2% in Europe by 2025 of fuel should be SAF, with a target of 6% by 2030 and 70% by 2050.
   
-There is a lot to unpack about SAF, and you can read much more details about it [[DRAFT - About Sustainable Aviation Fuel (SAF)]]
+There is a lot to unpack about SAF, and you can read much more details about it [[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]]
 
 
 
@@ -345,7 +345,7 @@ When it comes to personal offseting, the landscape becomes much more complicated
 ---
 # REFERENCE
 
-[[DRAFT - About Sustainable Aviation Fuel (SAF)]]
+[[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]]
 [[Jet Fuel from Captured CO2]]
 [[DRAFT - Sustainable FLighs with Hydrogen]]
 [[DRAFT - Efficient Aviation - Project Drawdown 39]] 

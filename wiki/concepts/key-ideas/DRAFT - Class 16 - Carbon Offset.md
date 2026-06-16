@@ -14,7 +14,7 @@ Other Reference: [[DRAFT - Flight Carbon Footprint and Offset Guide]]
 [LINK](https://textbook.terra.do/class/m-carbon-offsets-1)
 
 You probably heard of Carbon Offset in the context of Flying. 
-The aviation industry is one of the most complex to de-carbonize, with a lot of test on [[Alternative Fuels.canvas|Alternative Fuels]] | [[DRAFT - About Sustainable Aviation Fuel (SAF)]] , and [[DRAFT - Sustainable FLighs with Hydrogen]] Hydrogen being one as well. But today, it is pretty far from a solution and Carbon Offset remains 
+The aviation industry is one of the most complex to de-carbonize, with a lot of test on [[Alternative Fuels.canvas|Alternative Fuels]] | [[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]] , and [[DRAFT - Sustainable FLighs with Hydrogen]] Hydrogen being one as well. But today, it is pretty far from a solution and Carbon Offset remains 
 
 [VIDEO](https://www.youtube.com/watch?v=QIdGrDodSDE&ab_channel=SouthwestAirlines) (from Southwest Airlines)
 

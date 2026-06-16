@@ -41,7 +41,7 @@ _Modern_ bioenergy sources include:
 
 
 ## SAF
-Modern Bioenergy is also a intergral part of aviation bet on Sutainable Fuels (See [[DRAFT - About Sustainable Aviation Fuel (SAF)]] ). It is not without controversy
+Modern Bioenergy is also a intergral part of aviation bet on Sutainable Fuels (See [[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]] ). It is not without controversy
 
 ## Risks & Controversies
 in 2022, a [five-year study](https://civileats.com/2022/02/14/how-corn-ethanol-for-biofuel-fueled-climate-change/) of the impact of corn ethanol—a widely used fuel additive in the U.S.— found that it has led to increased fertilizer use, water pollution, and likely _at least 24 percent more emissions than gasoline._
