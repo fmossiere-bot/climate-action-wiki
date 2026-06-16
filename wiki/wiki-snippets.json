@@ -1933,18 +1933,6 @@
     "tags": []
   },
   {
-    "slug": "draft-about-sustainable-aviation-fuel-saf",
-    "filename": "solutions/electrification/DRAFT - About Sustainable Aviation Fuel (SAF).md",
-    "label": "About Sustainable Aviation Fuel (SAF)",
-    "summary": "What is SAF, How Sustainable is SAF, Can we produce enough, Financial Incentives, SAF and Synthetic Fuels, Deep dive into SAF with Corn, UK new legislation on use of SAF for aviation, Solar SAF, 50-97%, 1 gallon = 3.7l, are comparable to fossil-based jet fuels, 50-97% compared to fossil-based jet fuel, EU Emissions Trading Scheme (ETS), SAF Allowances, pv magazine",
-    "category": "solutions",
-    "tags": [
-      "aviation",
-      "alternative-fuels",
-      "carbon"
-    ]
-  },
-  {
     "slug": "draft-class-13-electrify-everything",
     "filename": "solutions/electrification/DRAFT - Class 13 - Electrify Everything ++.md",
     "label": "Class 13 - Electrify Everything ++",
@@ -2041,6 +2029,22 @@
     ]
   },
   {
+    "slug": "sustainable-aviation-fuel-a-necessary-but-complicated-solution",
+    "filename": "solutions/electrification/Sustainable Aviation Fuel -  A Necessary but Complicated Solution.md",
+    "label": "Sustainable Aviation Fuel: A Necessary but Complicated Solution",
+    "summary": "|-",
+    "category": "solutions",
+    "tags": []
+  },
+  {
+    "slug": "cool-roofs-a-simple-idea-with-a-surprisingly-large-impact",
+    "filename": "solutions/energy-efficiency/Cool Roofs - A Simple Idea with a Surprisingly Large Impact.md",
+    "label": "Cool Roofs: A Simple Idea with a Surprisingly Large Impact",
+    "summary": "|-",
+    "category": "solutions",
+    "tags": []
+  },
+  {
     "slug": "draft-alternative-cement-project-drawdown-32",
     "filename": "solutions/energy-efficiency/DRAFT - Alternative Cement - Project Drawdown 32.md",
     "label": "Alternative Cement - Project Drawdown 32",
@@ -2061,18 +2065,6 @@
     "tags": [
       "building-industry",
       "science"
-    ]
-  },
-  {
-    "slug": "draft-cool-roof",
-    "filename": "solutions/energy-efficiency/DRAFT - Cool Roof.md",
-    "label": "Cool Roof",
-    "summary": "Cool Roof made in France - TFTP, Extract from TERRA.DO Course on buildings, Cooler outside air, Fewer power plant emissions, Better air quality, Slowed climate change, Energy and cost savings, Reduced electrical grid strain, Improved indoor comfort, Application, Impact, Further reading",
-    "category": "solutions",
-    "tags": [
-      "building-industry",
-      "adaptation",
-      "carbon"
     ]
   },
   {
@@ -2133,17 +2125,6 @@
       "fossil-fuels",
       "research",
       "phaseout"
-    ]
-  },
-  {
-    "slug": "draft-going-beyond-renewable-non-renewable-dichotomy",
-    "filename": "solutions/energy-transition/DRAFT - Going beyond renewable - non-renewable dichotomy.md",
-    "label": "Going Beyond Renewable - Non-Renewable Dichotomy",
-    "summary": "pv magazine",
-    "category": "solutions",
-    "tags": [
-      "science",
-      "research"
     ]
   },
   {
@@ -2284,18 +2265,6 @@
     "summary": "|-",
     "category": "solutions",
     "tags": []
-  },
-  {
-    "slug": "draft-briquettes-carbon-neutral-by-willowwarm",
-    "filename": "solutions/renewables/DRAFT - Briquettes Carbon Neutral by WillowWarm.md",
-    "label": "Briquettes Carbon Neutral by WillowWarm",
-    "summary": "Sustainability Commitment, ACCREDITATIONS, SOCIAL Search Perplexity, How does it compare to others, without additives or binders",
-    "category": "solutions",
-    "tags": [
-      "ireland",
-      "alternative-fuels",
-      "carbon"
-    ]
   },
   {
     "slug": "draft-facts-about-blue-energy-and-hydropower",
@@ -2452,6 +2421,14 @@
       "phaseout",
       "behaviour"
     ]
+  },
+  {
+    "slug": "willowwarm-briquettes-carbon-neutral-alternative",
+    "filename": "solutions/renewables/WillowWarm Briquettes - Carbon neutral alternative?.md",
+    "label": "WillowWarm Briquettes - Carbon neutral alternative for your firepits?",
+    "summary": "Sustainability Commitment, ACCREDITATIONS, SOCIAL Search Perplexity, How does it compare to others, without additives or binders. WillowWarm is an Irish company selling biomass briquettes made from willow grown and processed in Ireland. Available in local shops around the country, the product markets itself as carbon neutral. It is worth looking at what that actually means in practice, and whether the claims hold up.",
+    "category": "solutions",
+    "tags": []
   },
   {
     "slug": "amoc-collapse-carbon-newscientist-2026",
@@ -2736,14 +2713,12 @@
     "tags": []
   },
   {
-    "slug": "draft-7-principles-to-sustainability-reporting",
-    "filename": "standards-labels/DRAFT - 7 Principles to Sustainability Reporting.md",
+    "slug": "7-principles-to-sustainability-reporting",
+    "filename": "standards-labels/7 Principles to Sustainability Reporting.md",
     "label": "7 Principles to Sustainability Reporting",
-    "summary": "Principles: Stakeholder Engagement, Principles: COMPLETENESS, Principles: OPERATING CONTEXT, Principles: MATERIALITY, Principles: ALIGNMENT, Principles: BALANCE, Principles: EXTERNBAL ASSURANCE",
+    "summary": "|-",
     "category": "standards",
-    "tags": [
-      "esg"
-    ]
+    "tags": []
   },
   {
     "slug": "draft-b-corp-certification",
