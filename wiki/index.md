@@ -176,7 +176,7 @@ Funding the transition — investment, risk, green banking.
 | Class 14 - About Food and Farming | Terra.do Class 14: food systems |
 | FACTS about CHOCOLATE and CACAO | Environmental impact of chocolate |
 | FACTS about Farming and Food production | Farming's climate footprint |
-| [[DRAFT - agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
+| [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
 | [[lab-grown-meat]] | **NEW** — Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
 | FACTS about RICE production | Rice emissions and impact |
 | Food Carbon FootPrint | Food's overall carbon footprint |

@@ -30,7 +30,7 @@ Bitcoin alone consumed approximately 121 terawatt-hours (TWh) of electricity in 
 
 The IMF has warned that by 2027, crypto mining could account for 0.7% of total global CO2 emissions — a seemingly small share that would still exceed the entire annual emissions of many countries.
 
-**STAT:** 139 million tonnes CO₂-equivalent — the estimated annual GHG footprint of the global cryptocurrency mining industry, according to recent research
+> 139 million tonnes CO₂-equivalent — the estimated annual GHG footprint of the global cryptocurrency mining industry, according to recent research
 
 
 The growth is not linear. A 400% rise in Bitcoin's price between 2020 and 2021 was followed by a 140% surge in the network's electricity use. The pattern repeats: higher prices attract more miners, which drives up energy demand, which drives up emissions. The environmental impact of crypto is tightly tied to its market value and the market has been climbing.
@@ -49,7 +49,7 @@ When China shut its doors, mining operations relocated fast. **Kazakhstan became
 
 The environmental consequence was a rise in the carbon intensity of the global network, since Kazakhstan's grid runs heavily on fossil fuels. The influx also strained the country's electricity infrastructure, leading to power shortages and prompting authorities to restrict mining activity. Kazakhstan's story illustrates a pattern: mining gravitates toward cheap energy, and cheap energy is usually fossil fuel energy.
 
-**QUOTE:** "Because countries use different sources of energy to generate electricity, their electricity production impacts on climate, water, and land are not the same." — United Nations University research, 2023
+> _"Because countries use different sources of energy to generate electricity, their electricity production impacts on climate, water, and land are not the same." — United Nations University research, 2023
 
 ---
 
@@ -76,7 +76,7 @@ The timing is significant. In early 2025, the US Department of Justice disbanded
 
 The result, in the words of financial compliance analysts, has been "a more permissive environment for illicit actors."
 
-**STAT:** $158 billion — estimated global illicit crypto-linked financial flows in 2025, an all-time high (Kroll, 2026)
+> $158 billion — estimated global illicit crypto-linked financial flows in 2025, an all-time high (Kroll, 2026)
 
 
 This matters for businesses and sustainability professionals for a reason that is not always obvious. Supply chain due diligence, Scope 3 reporting, and anti-corruption compliance are all areas where exposure to crypto assets — whether through payments, investments, or treasury holdings — may create undisclosed risks. If your pension fund holds Bitcoin ETFs, or if a supplier accepts crypto payments, the financial and reputational exposure exists whether or not it shows up in a standard risk register.
@@ -92,11 +92,9 @@ Bitcoin remains committed to proof-of-work. Its community has consistently resis
 
 **Ethereum, the second-largest cryptocurrency by market value, made a different choice**. In September 2022, it switched from proof-of-work to proof-of-stake — a system where validators stake existing coins rather than compete through computing power. The result was immediate: Ethereum's energy consumption dropped by approximately 99.84% overnight. It is now possible to validate Ethereum transactions on a standard laptop.
 
-**STAT:** **99.84% — reduction in Ethereum's energy consumption after switching to proof-of-stake in 2022 (Ethereum Foundation)**
+>  **99.84% — reduction in Ethereum's energy consumption after switching to proof-of-stake in 2022 (Ethereum Foundation)**
 
-**BODY:**
-
-Other cryptocurrencies, including Solana, Cardano, and Avalanche, were built on proof-of-stake from the start. The technology to make this transition exists and has been proven at scale. Bitcoin's refusal to change is not a technical limitation — it is a deliberate choice.
+> Other cryptocurrencies, including Solana, Cardano, and Avalanche, were built on proof-of-stake from the start. The technology to make this transition exists and has been proven at scale. Bitcoin's refusal to change is not a technical limitation — it is a deliberate choice.
 
 Early correspondence between Bitcoin's pseudonymous creator Satoshi Nakamoto, now in the public domain, suggests that concerns about Bitcoin's environmental impact were raised as early as 2009 and dismissed. Whether that makes Bitcoin's footprint more or less acceptable is a question each person will answer differently. But it does make the "we didn't know" argument harder to sustain.
 
