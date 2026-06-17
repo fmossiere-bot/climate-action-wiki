@@ -8,11 +8,7 @@ tags:
 created: 2024-06-01
 updated: 2026-06-17
 summary: |-
-  Carbon Footprint of Bitcoin, Why is this a potential issue, What is the solution, What about renewable energy, Etherum, 50% of bitcoin mining happens in the US and Kazakstan, compared to 17 per cent in 2022. Bitcoin mining uses vast amounts of energy and water. A single transaction consumes enough water to fill a swimming pool and has a carbon footprint equivalent to 700,000 Visa transactions. Global electricity consumption from Bitcoin is growing at 27% per year.
-
-  Banning mining in one country does not help, it just moves the problem somewhere with dirtier energy, as China's ban demonstrated. The renewable energy argument is only partly valid, as most mining still happens in fossil fuel-dependent countries.
-
-  Other cryptocurrencies have shown that 99% energy reductions are technically possible. Bitcoin has chosen not to follow that path. Without stronger regulation, carbon pricing, or consumer pressure, its environmental footprint will keep growing.
+  Carbon Footprint of Bitcoin, Why is this a potential issue, What is the solution, What about renewable energy, Etherum, 50% of bitcoin mining happens in the US and Kazakstan, compared to 17 per cent in 2022. Bitcoin mining uses vast amounts of energy and water. A single transaction consumes enough water to fill a swimming pool and has a carbon footprint equivalent to 700,000 Visa transactions. Global electricity consumption from Bitcoin is growing at 27% per year.Banning mining in one country does not help, it just moves the problem somewhere with dirtier energy, as China's ban demonstrated. The renewable energy argument is only partly valid, as most mining still happens in fossil fuel-dependent countries.Other cryptocurrencies have shown that 99% energy reductions are technically possible. Bitcoin has chosen not to follow that path. Without stronger regulation, carbon pricing, or consumer pressure, its environmental footprint will keep growing.
 ---
 Bitcoin mining uses vast amounts of energy and water. A single transaction consumes enough water to fill a swimming pool and has a carbon footprint equivalent to 700,000 Visa transactions. Global electricity consumption from Bitcoin is growing at 27% per year.
 
