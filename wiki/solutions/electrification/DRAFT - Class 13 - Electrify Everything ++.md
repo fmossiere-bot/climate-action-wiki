@@ -100,7 +100,7 @@ Broadly, the typology of decarbonization solutions across industries are: 
 - Bioenergy—this will always be niche at best as we simply do not have enough sustainable biomass.
 
 ### About the CEment industry
-Please refer to [[DRAFT - The Environmental Impact of Concrete, Cement Industry]]
+Please refer to [[Cement and Concrete - A Hidden Climate Problem]]
 
 ### About Fertilizers
 #fertilizer

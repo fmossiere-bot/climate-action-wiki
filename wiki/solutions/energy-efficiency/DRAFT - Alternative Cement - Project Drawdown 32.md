@@ -7,7 +7,7 @@ updated: 2026-06-01
 ---
 
 
-References: [[The Concrete Industry, Source of emissions, Impact, Soil.canvas|The Concrete Industry, Source of emissions, Impact, Soil]] | [[DRAFT - The Environmental Impact of Concrete, Cement Industry]]  
+References: [[The Concrete Industry, Source of emissions, Impact, Soil.canvas|The Concrete Industry, Source of emissions, Impact, Soil]] | [[Cement and Concrete - A Hidden Climate Problem]]  
 
 ==Source: https://drawdown.org/solutions/alternative-cement==
 

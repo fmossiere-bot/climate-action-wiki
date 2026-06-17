@@ -14,7 +14,6 @@ updated: 2026-06-06
 summary: underwater data centre powered by offshore wind energy, UDC, China, offshore wind, seawater cooling, freshwater, land use, Shanghai, Lin-gang, China Communications Construction, Tsinghua University, 192 server racks, 24 MW capacity, heat exchange, data centre innovation, AI infrastructure, marine environment, ecological impact, copper pipe cooling, energy efficiency
 ---
 
-# Underwater Data Centre — China 2026
 
 ## What is it
 

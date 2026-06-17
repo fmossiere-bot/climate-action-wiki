@@ -23,7 +23,7 @@ This company in Sligo, , is testing the impact of spreading Concrete Dust on far
 
 > For reference, The Concrete industry is responsible for 8% of the total GHG, with an huge participation of China building in recent years. 
 
-See [[DRAFT - The Environmental Impact of Concrete, Cement Industry]] 
+See [[Cement and Concrete - A Hidden Climate Problem]] 
 
 They are only at a trial basis. You can read about them on [silicon republic](https://www.siliconrepublic.com/start-ups/silicate-carbon-removal-irish-startup-climate-tech) as well. 
 

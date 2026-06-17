@@ -71,7 +71,7 @@ Learn all of this in live instruction in our live online [Digital Product Decarb
 	- And in fact, we spend an avg mor than 3h on our phone everyday, checking it in avg 58 times (Source: https://explodingtopics.com/blog/smartphone-usage-stats#top-smartphone-stats)
 	- This is only one of the many usage of technology we do in a Day. Same as streaming, Social Media or  other Digital activities. Those all rely on Stfware and processing power, data centers, in order to run. 
 
-While Digital Software GHG might be small today, it is growing fast. See [[DRAFT - The Environmental Impact of Bitcoin]] showing Bitcoin transaction growing 27% YoY, or Data Centers multiplication pushing some countries to take a breath to make sure this will not impact their timeline to renewable transition (See [[DRAFT - IRELAND Data Centre Dilemna]] )
+While Digital Software GHG might be small today, it is growing fast. See [[The Environmental Impact of Bitcoin]] showing Bitcoin transaction growing 27% YoY, or Data Centers multiplication pushing some countries to take a breath to make sure this will not impact their timeline to renewable transition (See [[DRAFT - IRELAND Data Centre Dilemna]] )
 
 We are obsessed with out connectivity, and our new need for instant information, entertainment and gratification. So this is gonna grow.
 
