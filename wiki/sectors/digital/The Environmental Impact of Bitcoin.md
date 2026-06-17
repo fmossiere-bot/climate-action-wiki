@@ -85,7 +85,7 @@ There is no simple fix, but several things could make a meaningful difference:
 Cryptocurrency is unlikely to disappear. But like any other energy-intensive sector, it will need to become more efficient if it is to have a credible place in a lower-carbon economy.
 
 
-![[Bitcoin-Info.png]]
+![Bitcoin Inforgraphic](https://raw.githubusercontent.com/fmossiere-bot/climate-action-wiki/refs/heads/main/wiki/sources/Bitcoin-Info.png)
 
 
 ---
