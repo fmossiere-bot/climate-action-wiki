@@ -1582,20 +1582,16 @@
     ]
   },
   {
-    "slug": "draft-the-environmental-impact-of-coffee",
-    "filename": "sectors/agriculture-food/DRAFT - The Environmental impact of COFFEE.md",
-    "label": "The Environmental Impact of Coffee",
-    "summary": "Coffee production is becoming more difficult as a result of Climate Change, Impact on Water resources, Impact on GHG, What do I drink, What was used for the study, What about Moka Pot coffee, The Nestle LCA for Nespresso Capsules, Key differences with the study above, Other Research",
+    "slug": "the-environmental-cost-of-coffee",
+    "filename": "sectors/agriculture-food/The Environmental Cost of Coffee.md",
+    "label": "The Environmental Cost of Coffee",
+    "summary": "Coffee is one of the most consumed drinks in the world, and its environmental footprint is larger than most people realise. Global coffee consumption **has been increasing steadily for almost 30 years**. With a daily average consumption of 2.7 cups of coffee per person, coffee is now Canada’s most popular drink. It is estimated that **around two billion cups of coffee are consumed daily worldwide**.The problems run from the farm to the cup: water use, greenhouse gas emissions, deforestation, and now a growing vulnerability to climate change that threatens production in key regions. The good news is that small changes in how you brew and consume coffee can make a real difference.Coffee production is becoming more difficult as a result of Climate Change, Impact on Water resources, Impact on GHG, What do I drink, What was used for the study, What about Moka Pot coffee, The Nestle LCA for Nespresso Capsules, Key differences with the study above, Other Research",
     "category": "sectors",
-    "tags": [
-      "food",
-      "carbon",
-      "forest"
-    ]
+    "tags": []
   },
   {
-    "slug": "draft-agriculture-planetary-footprint",
-    "filename": "sectors/agriculture-food/DRAFT - agriculture-planetary-footprint.md",
+    "slug": "agriculture-planetary-footprint",
+    "filename": "sectors/agriculture-food/agriculture-planetary-footprint.md",
     "label": "Agriculture's Planetary Footprint",
     "summary": "agriculture land use, food systems, deforestation, biodiversity loss, species extinction, water use, irrigation, freshwater depletion, nitrogen pollution, fertiliser runoff, dead zones, Gulf of Mexico, Aral Sea, methane from cattle, nitrous oxide, greenhouse gas emissions, animal feed, meat and dairy, Green Revolution, cerrado, Amazon, oil palm, soy, food and climate change, Project Drawdown",
     "category": "sectors",
@@ -1608,15 +1604,12 @@
     ]
   },
   {
-    "slug": "draft-alternative-constructions-examples",
-    "filename": "sectors/buildings/DRAFT - Alternative Constructions examples.md",
-    "label": "Alternative Construction Examples",
-    "summary": "House in France with Bamboo structure, House made of Wood Structure",
+    "slug": "cryptocurrency-and-the-environment",
+    "filename": "sectors/digital/Cryptocurrency and the environment.md",
+    "label": "Cryptocurrency and the Environment",
+    "summary": "Why is Kazaksthan 18% of the mining industry, 1. Abundant and Cheap Energy Supply, 2. Favorable Regulatory Environment, 3. Geographical and Climatic Conditions, 4. Political Stability and Strategic Location, 5. Growing Infrastructure for Mining, Challenges and Considerations, Other Sources, Bitcoin Infographic, Abundant and Cheap Energy Supply, Favorable Regulatory Environment, Geographical and Climatic Conditions, Political Stability and Strategic Location, Growing Infrastructure for Mining, bitcoin, the impact of cryptocurrencies on the environment, where crypto mining happens, the water footprint of mining crypto",
     "category": "sectors",
-    "tags": [
-      "building-industry",
-      "circularity"
-    ]
+    "tags": []
   },
   {
     "slug": "draft-ai-emissions-and-corporate-responsibility",
@@ -1637,14 +1630,6 @@
     "filename": "sectors/digital/DRAFT - Carbon Footprint of an iPhone.md",
     "label": "Carbon Footprint of an iPhone",
     "summary": "Are Cell Phones Bad for the Environment, Carbon Footprint of iPhone, Why Is the Carbon Footprint Announced in the iPhone 13 “Product Environmental Report” Underestimated, What About the iPhone 14, Carbon Footprint of Making a Phone, Carbon Footprint of Charging Phone, How about a more 'FairPhone', Manufacturing Dominance, Macro Comparison, The Breakdown of Impact, Storage Scales Emissions, The Cloud Network Underestimation, Aggregated Charging Demands, Corporate Recycling Disparities, Corporate Climate Goals, The Longevity Advantage, 8 Billion Trees Carbon Offset Program, Fairphone Official Documentation",
-    "category": "sectors",
-    "tags": []
-  },
-  {
-    "slug": "draft-cryptocurrency-and-the-environment",
-    "filename": "sectors/digital/DRAFT - Cryptocurrency and the environment.md",
-    "label": "Cryptocurrency and the Environment",
-    "summary": "Why is Kazaksthan 18% of the mining industry, 1. Abundant and Cheap Energy Supply, 2. Favorable Regulatory Environment, 3. Geographical and Climatic Conditions, 4. Political Stability and Strategic Location, 5. Growing Infrastructure for Mining, Challenges and Considerations, Other Sources, Bitcoin Infographic, Abundant and Cheap Energy Supply, Favorable Regulatory Environment, Geographical and Climatic Conditions, Political Stability and Strategic Location, Growing Infrastructure for Mining, bitcoin, the impact of cryptocurrencies on the environment, where crypto mining happens, the water footprint of mining crypto",
     "category": "sectors",
     "tags": []
   },
