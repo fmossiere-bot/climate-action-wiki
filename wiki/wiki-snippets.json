@@ -434,28 +434,6 @@
     ]
   },
   {
-    "slug": "draft-how-about-volcanoe-s-sulphur-impact",
-    "filename": "climate-science/DRAFT - How about Volcanoe's Sulphur impact.md",
-    "label": "How Volcanic Sulphur Impacts Climate",
-    "summary": "",
-    "category": "climate-science",
-    "tags": [
-      "science",
-      "aerosols"
-    ]
-  },
-  {
-    "slug": "draft-ipcc-10-findings-2023",
-    "filename": "climate-science/DRAFT - IPCC 10 findings 2023.md",
-    "label": "IPCC 10 Key Findings 2023",
-    "summary": "1. Human-induced global warming of 1.1 degrees C has spurred changes to the Earth’s climate that are unprecedented in recent human history, 2. Climate impacts on people and ecosystems are more widespread and severe than expected, and future risks will escalate rapidly with every fraction of a degree of warming.![[Screenshot 2023-10-16 at 18.16.44.png]], 3. Adaptation measures can effectively build resilience, but more finance is needed to scale solutions, 4. Some climate impacts are already so severe they cannot be adapted to, leading to losses and damages, 5. Global GHG emissions peak before 2025 in 1.5 degrees C-aligned pathways, 6. The world must rapidly shift away from burning fossil fuels — the number one cause of the climate crisis, 7. We also need urgent, systemwide transformations to secure a net-zero, climate-resilient future, 8. Carbon removal is now essential to limit global temperature rise to 1.5 degrees C, 9. Climate finance for both mitigation and adaptation must increase dramatically this decade, 10. Climate change — as well as our collective efforts to adapt to and mitigate it — will exacerbate inequity should we fail to ensure a just transition.  ",
-    "category": "climate-science",
-    "tags": [
-      "science",
-      "research"
-    ]
-  },
-  {
     "slug": "draft-keynote-dr-chip-fletcher",
     "filename": "climate-science/DRAFT - Keynote Dr Chip FLETCHER.md",
     "label": "Keynote — Dr Chip Fletcher",
@@ -523,6 +501,14 @@
       "science",
       "adaptation"
     ]
+  },
+  {
+    "slug": "ipcc-10-findings-2023",
+    "filename": "climate-science/IPCC 10 findings 2023.md",
+    "label": "What the Latest IPCC Report Tells Us: Ten Findings That Matter",
+    "summary": "n March 2023, the Intergovernmental Panel on Climate Change published the final part of its Sixth Assessment Report, the most authoritative scientific review of climate change ever produced. Drawing on the work of more than 780 scientists, its conclusions are unambiguous: the situation is worse than previously assessed, and the window for meaningful action is closing fast. The planet has already warmed by 1.1 degrees Celsius, and the impacts on people and ecosystems are more severe and widespread than earlier models predicted. Staying within 1.5 degrees of warming requires global emissions to peak before 2025 and fall by 43% by 2030. That means a rapid phase-out of fossil fuels, deep cuts across all sectors of the economy, and significant deployment of carbon removal. It also requires a dramatic increase in climate finance, particularly for adaptation in developing countries, which currently receive a fraction of what they need. And it requires recognising that without deliberate action, climate change will deepen existing inequalities, hitting the poorest communities hardest despite their having contributed least to the problem.",
+    "category": "climate-science",
+    "tags": []
   },
   {
     "slug": "amoc-collapse-carbon",
