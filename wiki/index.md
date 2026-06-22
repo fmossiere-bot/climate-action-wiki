@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-15
+Last updated: 2026-06-22
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -40,6 +40,11 @@ Summaries of every ingested source file.
 | [[sbti-net-zero-rules-2026]] | WSJ (Jun 2026): SBTi's 2026 corporate net-zero update — environmental credits and carbon removals now allowed; "best-efforts" framework replaces strict rulebook |
 | [[world-cup-most-polluting-wdht-2026]] | We Don't Have Time (Jun 2026): FIFA's Aramco sponsorship, SGR research on 30M extra tonnes, University of Manchester on most-polluting-ever tournament |
 | [[manure-digesters-newscientist-2026]] | New Scientist (Apr 2026): manure digesters cut emissions but leaks, herd-size incentives, and ammonia pollution complicate the picture — California study of 98 dairies |
+| [[f1-sustainability-bbc-2026]] | BBC Sport (Jun 2026): Formula 1 down 35% from 2018 baseline; SAF mandate, sea freight, calendar rationalisation; on track for net zero by 2030 |
+| [[ireland-transport-ccac-2026]] | RTÉ (Jun 2026): CCAC 2026 Annual Review — fossil fuel dependence exposes Ireland to price shocks; calls for public transport investment and fair EV transition |
+| [[ireland-water-quality-epa-2026]] | RTÉ (Jun 2026): EPA 2025 water quality indicators — no improvement; 43% rivers excess nitrates, 30%+ lakes excess phosphorous |
+| [[europe-forested-countries-2026]] | Visual Capitalist (Jun 2026): Europe's forest cover ranked — Finland leads at ~73%; Ireland and Iceland lowest; area expanding but resilience under pressure |
+| [[indirect-greenhouse-gases-newscientist-2026]] | New Scientist (Jun 2026): CO, VOCs and black carbon — "forgotten" indirect GHGs — have caused 15% of warming; absent from Paris Agreement action plans |
 
 ---
 
@@ -67,6 +72,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | Wet-Bulb explained | Wet-bulb temperature and human survivability |
 | [[amoc-collapse-carbon]] | AMOC collapse could release 640 billion tonnes of CO₂; already past the 350 ppm irreversibility threshold — **updated** with monitoring defunding crisis and 10× faster Europe scenario |
 | [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
+| [[indirect-greenhouse-gases]] | **NEW** — Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
 
 ---
 
@@ -229,6 +235,7 @@ Funding the transition — investment, risk, green banking.
 |------|-------------|
 | [[Environmental Impact of football world cups]] | Carbon footprint of World Cups 2018–2026; heat risk (2× 1994), mandatory heat breaks; **updated** with FIFA-Aramco sportswashing, SGR 30M-tonne finding, 2034 Saudi hosting |
 | Environmental Impact of the Paris Olympics | Paris 2024 Olympics environmental assessment |
+| [[formula-1-sustainability-2026]] | **NEW** — Formula 1 down 35% on 2018 carbon baseline; SAF mandatory from 2026; net zero by 2030 target on track |
 
 ### Transport (`wiki/sectors/transport/`)
 

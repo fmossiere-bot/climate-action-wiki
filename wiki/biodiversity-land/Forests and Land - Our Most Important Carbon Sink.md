@@ -66,10 +66,19 @@ Forests also have a role to play in reducing emissions from the construction sec
 
 ---
 
+### Forest Cover Across Europe
+
+While the global picture is one of loss, Europe is an exception. According to the State of Europe's Forests 2025 report and World Bank data, European forest area has generally expanded over the last three decades, driven by sustainable forestry policies, reforestation programmes, and natural regrowth on abandoned agricultural land.
+
+Finland leads Europe by a wide margin, with roughly 73% of its land area covered by forests. Sweden is close behind. Montenegro and Slovenia also rank near the top. At the other end, Iceland, Ireland, and the UK have some of the lowest forest shares on the continent. Ireland's historically low forest cover reflects centuries of intensive agricultural land use and the absence of a major reforestation tradition until recent decades.
+
+That said, more forest area does not automatically mean healthier forests. The European Environment Agency notes that forest resilience is becoming a policy concern as temperatures rise and extreme weather becomes more frequent. Logging, insect outbreaks, drought, and storm damage are all increasing. Europe's forests are growing in total area, but they are doing so under growing pressure.
+
+---
+
 The bottom line is straightforward: forests are doing essential work for the climate, and that work is being undermined faster than most people realise. Land management is not a side issue in climate policy. It is central to it.
 # Sources
--  [WRI](**https://www.wri.org/insights/forest-carbon-sink-shrinking-fires-deforestation?apcid=0065aea19f4a6d4198ca0d00&utm_campaign=wridigest&utm_medium=email&utm_source=wridigest-2025-07-24**)
-- [Guardian]([https://www.theguardian.com/environment/2025/may/21/fires-record-loss-forests-global-heating-agriculture-logging-brazil-bolivia-aoe](https://www.theguardian.com/environment/2025/may/21/fires-record-loss-forests-global-heating-agriculture-logging-brazil-bolivia-aoe))
-- https://research.wri.org/gfr/global-forest-review
-- https://www.globalforestwatch.org/map/
-- https://www.inrae.fr/en
+- WRI — https://www.wri.org/insights/forest-carbon-sink-shrinking-fires-deforestation
+- The Guardian, 21 May 2025 — https://www.theguardian.com/environment/2025/may/21/fires-record-loss-forests-global-heating-agriculture-logging-brazil-bolivia-aoe
+- Global Forest Watch — https://research.wri.org/gfr/global-forest-review
+- Visual Capitalist, Srijaa Chatterjee, 10 June 2026 — https://www.visualcapitalist.com/cp/europes-most-forested-countries/

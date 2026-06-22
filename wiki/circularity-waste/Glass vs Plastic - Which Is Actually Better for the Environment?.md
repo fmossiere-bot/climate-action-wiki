@@ -1,5 +1,5 @@
 ---
-title: "Glass vs Plastic: Which Is Actually Better for the Environment?"
+title: "Glass vs Plastic: Which Is Actually Better?"
 category: circularity-waste
 tags:
   - plastic

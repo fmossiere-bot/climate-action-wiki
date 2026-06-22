@@ -4,6 +4,105 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-22 ingest | Formula 1 Sustainability — On Track for Net Zero by 2030
+
+**Source file:** `raw/articles/Formula 1 Sustainability changes put sport on track for net zero emissions by 2030.md`
+**Original source:** BBC Sport, Andrew Benson, 17 June 2026 — https://www.bbc.com/sport/formula1/articles/cvgjp4rj2p5o
+
+**What was done:**
+- Created source summary: `wiki/sources/f1-sustainability-bbc-2026.md`
+- Created new wiki page: `wiki/sectors/formula-1-sustainability-2026.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Total CO₂ emissions: 228,793 tonnes (2018) → 148,805 tonnes (2025) — 35% reduction; 12% year on year
+- Factory and facilities emissions down 64% vs 2018
+- Logistics emissions down 21% year on year, 29% since 2018
+- From 2026: sustainable fuels mandatory in races (80% fewer GHG vs fossil-fuel comparator)
+- Calendar geographic clustering (e.g. Japan/Australia/China in spring) cuts freight and travel
+- Net Zero by 2030 commitment = minimum 50% absolute reduction; remaining emissions offset
+
+---
+
+## 2026-06-22 ingest | Ireland 'Exposed' Over Fossil Fuels for Transport
+
+**Source file:** `raw/articles/Ireland 'exposed' over use of fossil fuels for transport.md`
+**Original source:** RTÉ News, Aaron McElroy, 17 June 2026 — https://www.rte.ie/news/ireland/2026/0617/1578833-climate-change-review/
+
+**What was done:**
+- Created source summary: `wiki/sources/ireland-transport-ccac-2026.md`
+- Updated existing page: `wiki/ireland-hub/DRAFT - IRELAND Transport Emissions.md` — added 2026 CCAC Annual Review section; updated frontmatter tags and summary
+- Updated `wiki/index.md`
+
+**Key content added:**
+- CCAC 2026 Annual Review: fossil fuel transport dependence leaves Ireland exposed to repeated price shocks
+- TFI journeys +6%, Local Link +19% in 2025; but total public transport journeys largely unchanged (capacity constraints)
+- Projects needed: DART+ South West, Luas Finglas, NTA Park and Ride
+- CCAC calls for targeted support for lower-income, car-dependent households
+- EV scrappage scheme welcomed; real-time charging maps needed
+
+---
+
+## 2026-06-22 ingest | No Improvement to Water Quality Standards in 2025
+
+**Source file:** `raw/articles/No improvement to water quality standards in 2025.md`
+**Original source:** RTÉ News, Pat McGrath, 17 June 2026 — https://www.rte.ie/news/environment/2026/0617/1578808-water-quality-report/
+
+**What was done:**
+- Created source summary: `wiki/sources/ireland-water-quality-epa-2026.md`
+- Updated existing page: `wiki/ireland-hub/DRAFT - IRELAND Water Usage and Water Management.md` — added 2026 EPA water quality section; updated frontmatter tags and summary
+- Updated `wiki/index.md`
+
+**Key content added:**
+- EPA 2025 water quality indicators: no major improvement achieved
+- 43% of rivers have excess nitrates (east and south-east worst affected)
+- Over 30% of lakes have excess phosphorous (border region worst)
+- Just over half of rivers and lakes in good or better biological quality
+- More rivers declined in quality class than improved in 2025
+- Local success: six of 16 rivers in Ballyteigue Bannow, Co Wexford, improved in 2025
+
+---
+
+## 2026-06-22 ingest | Ranked: Europe's Most Forested Countries
+
+**Source file:** `raw/articles/Ranked Europe's Most Forested Countries.md`
+**Original source:** Visual Capitalist, Srijaa Chatterjee, 10 June 2026 — https://www.visualcapitalist.com/cp/europes-most-forested-countries/
+
+**What was done:**
+- Created source summary: `wiki/sources/europe-forested-countries-2026.md`
+- Updated existing page: `wiki/biodiversity-land/Forests and Land - Our Most Important Carbon Sink.md` — added "Forest Cover Across Europe" section with State of Europe's Forests 2025 findings; updated sources
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Finland leads Europe at ~73% forest cover; Sweden close behind; Montenegro and Slovenia in top tier
+- Iceland, Ireland, and UK have some of the lowest forest shares in Europe
+- State of Europe's Forests 2025: European forest area expanding overall, but growth rates slowing
+- EEA: forest resilience becoming critical policy issue as temperatures rise
+
+---
+
+## 2026-06-22 ingest | 'Forgotten' Pollutants Cause 15% of Global Warming
+
+**Source file:** `raw/articles/'Forgotten' pollutants cause 15 per cent of global warming.md`
+**Original source:** New Scientist, Alec Luhn, 11 June 2026 — https://appuk.newscientist.com/2026/06/11/2530049/content.html
+**Peer-reviewed study:** Science, DOI: 10.1126/science.aee5790
+
+**What was done:**
+- Created source summary: `wiki/sources/indirect-greenhouse-gases-newscientist-2026.md`
+- Created new wiki page: `wiki/climate-science/indirect-greenhouse-gases.md`
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Carbon monoxide, VOCs, and black carbon have caused ~15% of all warming since pre-industrial times — double the contribution of N₂O
+- Together they have caused ~0.3°C of warming
+- Mechanism: form low-level ozone + consume hydroxyl radicals that would otherwise break down methane
+- Break down within hours to years — cutting them would quickly slow the rate of warming
+- Almost no country includes them in Paris Agreement action plans
+- Hydrogen transition risk: leakage could add 0.1°C by 2100 if combustion replaces batteries at scale
+- Key researchers: Ilissa Ocko (Spark Climate Solutions), Alex Archibald (Cambridge), Alastair Lewis (York)
+
+---
+
 ## 2026-06-15 ingest | AMOC Monitoring Under Threat
 
 **Source file:** `raw/articles/Amoc collapse could change Europe's climate 10x faster than expected. We aren't ready.md`

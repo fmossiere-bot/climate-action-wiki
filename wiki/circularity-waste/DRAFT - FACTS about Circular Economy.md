@@ -6,7 +6,7 @@ created: 2026-06-01
 updated: 2026-06-01
 summary: "How much more do we consume than earth can provide, EU transition to Circular economy is behind schedule, There is a long way to go with Circular Economy, Strategic Foresight Board Report, An Irish Waste Action Plan, Sharing is on the rise - the Library of Things, UPDATES, New Law 'right to repair' passed by European Parlement, New EU rule targeting Textile and Food Waste, EU Targets don't properly reflect e0waste recycling efforts, sharing is expanding at an unprecedented pace, increased by 70%, 1.325 stations, 350,000 users, What’s next"
 ---
-
+á
 #circularity 
 
 

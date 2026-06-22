@@ -1,10 +1,10 @@
 ---
 title: Ireland Water Usage and Water Management
 category: ireland-hub
-tags: [ireland, nature, adaptation]
+tags: ["#ireland", "#nature", "#adaptation", "#agriculture"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "Water Management IRELAND, Challenges of Climate Change on Water Resources, Environmental Crisis at Lough Neagh, FACTS about Water, See [[Keynote Dr Chip FLETCHER]] on important fact about Water usage, Also, from [[FACTS on EVERYTHING - Under the Sky we Make]], exacerbate existing pressures, reductions in available water resources, increased algal/plant growth with detrimental impacts, low river flows are likely to increase, already depleted water supply under pressure, areas already prone to flooding at increased risk, Water and Food impact: There is a fresh water impact"
+updated: 2026-06-22
+summary: "Ireland water quality, EPA water report, nitrates, phosphorous, rivers, lakes, nutrient pollution, agriculture runoff, wastewater, Lough Neagh, algae bloom, zebra mussels, climate change water, freshwater, flooding, water supply, biological quality, Ballyteigue Bannow, water management, water scarcity"
 ---
 
 #water 
@@ -44,6 +44,25 @@ This is not a recent problem, and one that will need decades fix thanks, hopeful
 
 
 ---
+
+## 2026 Update: No Improvement to Water Quality
+
+Source: RTÉ News, Pat McGrath, 17 June 2026 — https://www.rte.ie/news/environment/2026/0617/1578808-water-quality-report/
+
+The Environmental Protection Agency's annual water quality indicators report for 2025 made sobering reading: no major improvements were achieved and standards remain unsatisfactory in many parts of the country.
+
+**The headline numbers:**
+- Just over half of Ireland's rivers and lakes are rated in good or better biological quality
+- More rivers declined in quality class than improved during 2025
+- 43% of rivers have nitrate concentrations that are too high, worst in the east and south-east
+- Over 30% of lakes have excess phosphorous, particularly in the border region
+
+**The root causes are well understood:** excess nutrients from agricultural runoff and underperforming wastewater infrastructure are the biggest drivers. Phosphorous and nitrate levels remain higher than recommended limits, and any partial improvements from year to year are not being sustained.
+
+**One local bright spot:** in the Ballyteigue Bannow catchment in Co Wexford, six of the 16 rivers surveyed improved in biological quality in 2025. The EPA says understanding what worked there could help inform action elsewhere.
+
+The EPA's Dr Jenny Deakin has called for actions to be tailored specifically to individual water bodies, not just national-level targets. The scale of measures currently under way does not yet match the scale of the problem.
+
 ---
 
 ## FACTS about Water

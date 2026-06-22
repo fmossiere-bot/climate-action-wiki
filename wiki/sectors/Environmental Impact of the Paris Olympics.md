@@ -23,9 +23,9 @@ summary: Carbon Footprint Slashed, Per-Visitor Impact, The Reuse Strategy, Sourc
 
 ## What is it
 
-The Paris 2024 Olympic Games served as a massive test case for reducing the environmental damage caused by mega-sporting events. Historically, hosting the Olympics meant building massive new stadiums, flying in millions of people, and consuming enormous amounts of electricity, all of which left a massive scar on the planet's atmosphere. For the Paris Games, organizers committed to a strict "carbon budget" before anything was ever built or scheduled.
+The Paris 2024 Olympic Games served as a massive test case for reducing the environmental damage caused by mega-sporting events. Historically, hosting the Olympics meant building massive new stadiums, flying in millions of people, and consuming enormous amounts of electricity, all of which left a massive scar on the planet's atmosphere. For the Paris Games, organisers committed to a strict "carbon budget" before anything was ever built or scheduled.
 
-The primary goal was to prove that international sports can align with global climate targets. By tracking every single ounce of greenhouse gas emissions—from the concrete used in the athletes' housing to the ingredients in the sandwiches sold at the venues—the event organizers designed a blueprint for future host cities.
+The primary goal was to prove that international sports can align with global climate targets. By tracking every single ounce of greenhouse gas emissions—from the concrete used in the athletes' housing to the ingredients in the sandwiches sold at the venues—the event organisers designed a blueprint for future host cities.
 
 ## Why it matters
 
