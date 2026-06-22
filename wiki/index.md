@@ -92,7 +92,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Class 17 - Finance and Climate Change - Investment | Terra.do Class 17: climate investment |
-| [[DRAFT - fossil-fuel-banking]] | **NEW** — $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
+| [[fossil-fuel-banking]] | **NEW** — $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
 | Class 18 - Finance and Climate Change - RISK | Terra.do Class 18: climate financial risk |
 | GREEN Your Bank ACTION GUIDE | How to switch to a green bank |
 | Green Pension ACTION GUIDE | How to green your pension |

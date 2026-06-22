@@ -30,5 +30,5 @@ The annual Banking on Climate Chaos report (a coalition of environmental groups)
 
 ## Related wiki pages
 
-- [Fossil Fuel Banking](DRAFT%20-%20fossil-fuel-banking.md)
+- [Fossil Fuel Banking](fossil-fuel-banking.md)
 - [Global Spending on Subsidies that Harm Environment](../legislation-policy/Global%20spending%20on%20subsidies%20that%20harm%20environment%20rises%20to%20%242.6tn.md)

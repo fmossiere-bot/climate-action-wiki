@@ -1,5 +1,5 @@
 ---
-title: Fossil Fuel Banking
+title: Fossil Fuel Banking continues
 category: climate-finance
 tags:
   - "#fossil-fuels"
@@ -19,13 +19,15 @@ summary: fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of 
 
 Every year since the Paris Agreement, the world's largest banks have been tracked by the **Banking on Climate Chaos** report, a coalition of environmental groups. The picture is consistently alarming: rather than cutting fossil fuel lending in line with climate commitments, the world's 65 largest banks have collectively increased their financing year after year.
 
-In 2025, those banks committed **$906 billion** to fossil fuel companies. That is an increase of $64 billion, nearly 8%, on 2024. Since 2015, the total has reached **$8.7 trillion** in new fossil fuel financing, even as the same institutions made voluntary pledges to align their lending with net zero by 2050.
+> In 2025, those banks committed **$906 billion** to fossil fuel companies. That is an increase of $64 billion, nearly 8%, on 2024. Since 2015, the total has reached **$8.7 trillion** in new fossil fuel financing, even as the same institutions made voluntary pledges to align their lending with net zero by 2050.
 
 ## Why it matters
 
 Banks do not drill for oil or burn coal themselves, but the money they lend and the bonds they underwrite make new fossil fuel projects viable. Without access to cheap capital, expansion of coal mines, gas fields, and LNG terminals would stall. The scale of fossil fuel financing is therefore a direct measure of how seriously the financial system is treating the climate emergency.
 
 The 2025 report found that the world's largest banks are "making decisions incompatible with international agreements to restrain rising global temperatures." The UN's own Net-Zero Banking Alliance, designed to change this, effectively collapsed in 2025 after a wave of departures, many driven by political pressure in the United States under the Trump administration.
+
+Changing to a greener bank is one of the biggest impact you, as an individual, a company, a pension fund, can have. Did you know that 
 
 ## Who is lending what
 
@@ -55,7 +57,7 @@ Many banks had previously announced net zero lending targets and joined voluntar
 
 ## Connected topics
 
-- [Finance and Climate Change — Risk](DRAFT%20-%20Finance%20and%20Climate%20Change%20-%20RISK.md)
+- [Finance and Climate Change — Risk](wiki/climate-finance/#%20Climate%20Change%20and%20Financial%20Risk%20-%20What%20Is%20at%20Stake.md)
 - [Greenwashing Lawsuits on the Rise](../concepts/key-ideas/Greenwashing%20lawsuits%20on%20the%20rise.md)
 - [Fossil Fuel Phaseout — Santa Marta Conference 2026](santa-marta-fossil-fuel-conference-2026.md)
 
