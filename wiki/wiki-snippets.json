@@ -289,29 +289,20 @@
     "tags": []
   },
   {
-    "slug": "draft-class-20-adaptation-and-resilience",
-    "filename": "climate-adaptation/DRAFT - Class 20 - Adaptation and Resilience.md",
-    "label": "Class 20 — Adaptation and Resilience",
-    "summary": "Definitions, Contexts and Framing quesitons, Remember, Resilience: The Common Threads, The IPCC 's working group II Report, Resilience of what, Resilience over what timeframe, Resilience for whom, Resilience to what, A Framing Cycle, Different people make different system boundary judgements, Integrated Operational Framework, Food Systems and Climate Change, How Climate Change Affects Food Systems, Extreme Weather and Food Security, Adaptation and Resilience in the Food System: A Framework, Mitigation and Adaptation, Food, Migration, and Climate Change, Case Studies, First Assessment of Australia Risk Assessment, The Planetary Boundaries, The origine of Resilence",
+    "slug": "adaptation-and-resilience",
+    "filename": "climate-adaptation/Adaptation and Resilience.md",
+    "label": "Climate Adaptation and Resilience: Why It Matters and What Is at Stake",
+    "summary": "Climate change is already reshaping the world we live in, and reducing emissions alone is not enough. Alongside mitigation, societies must adapt to impacts that are now unavoidable. This article explores two key concepts: adaptation, which refers to the concrete actions taken in response to climate risks, and resilience, which describes the capacity of a system to absorb and recover from shocks. Resilience is never universal. It depends on who is affected, what type of stress is involved, and over what timeframe. Building resilience for today's risks can sometimes create new vulnerabilities tomorrow. Food systems illustrate this challenge particularly well. Responsible for up to 37% of global greenhouse gas emissions, and increasingly threatened by drought, heat, and extreme weather, food systems sit at the heart of the climate adaptation challenge. Crop yields are already falling, hunger is rising again after decades of progress, and the most exposed regions, particularly in South and Southeast Asia and Sub-Saharan Africa, have the fewest resources to respond.",
     "category": "climate-adaptation",
-    "tags": [
-      "adaptation",
-      "science"
-    ]
+    "tags": []
   },
   {
-    "slug": "draft-home-cooling-heatwaves",
-    "filename": "climate-adaptation/DRAFT - home-cooling-heatwaves.md",
+    "slug": "home-cooling-heatwaves",
+    "filename": "climate-adaptation/home-cooling-heatwaves.md",
     "label": "Home Cooling During Heatwaves",
     "summary": "Types of cooling — from greenest to most energy-intensive, Can AC be green, 22% of British homes, 4 million UK homes, 4.87kg CO2 over a summer, 15–31p/day, £5/day, as effective as AC, 3 units of cooling per unit of electricity, £2,500 grant, Passive cooling, Electric fans, Air-to-air heat pumps, Fixed split-system AC, Portable plug-in AC, Pair with solar panels, Use a home battery, Check grid carbon intensity, Pre-cool rooms",
     "category": "climate-adaptation",
-    "tags": [
-      "adaptation",
-      "building-industry",
-      "science",
-      "behaviour",
-      "ireland"
-    ]
+    "tags": []
   },
   {
     "slug": "draft-class-17-finance-and-climate-change-investment",
