@@ -6,6 +6,8 @@ tags:
   - food
   - composting
   - waste
+  - france
+  - Korea
 created: 2024-06-01
 updated: 2026-06-22
 summary: |-
@@ -66,6 +68,8 @@ Composting can range from backyard bins to industrial-scale operations. Regardle
 > - When used for gardening or farming, compost reduce the need of fertilizers and pesticides in soils and helps improve soil health and thereby increase agricultural yields.
 > - Compost retains water, prevents erosion, reduces runoff, establishes vegetation, and improves downstream water quality by retaining pollutants like heavy metals, nitrogen, phosphorus, oil, grease, fuels, herbicides, and pesticides.
 
+
+---
 ## Some countries are well ahead
 
 #### South-Korea compost close to 100% of its food waste
@@ -80,7 +84,41 @@ Composting can range from backyard bins to industrial-scale operations. Regardle
 > **What about Ireland?** 
 > We still have room to improve. About 800,000 householders throughout Ireland have a compostable waste bin (usually a brown bin) from a total of 1.3 million householders availing of kerbside waste collection services. 
 
-  
+Here is the article rewritten in English, following your standard format.
+
+#### From Kitchen Waste to Farmland: How Lyon Is Closing the Loop on Food Waste
+
+The Greater Lyon metropolitan area has built one of France's most ambitious food waste composting programmes, turning organic household waste into agricultural compost used by local farmers within a 30-kilometre radius. Since launching in 2021, the scheme has cut incinerated waste by 16% per person and produced over 16,000 tonnes of compost in four years.
+
+**A Political Bet That Paid Off**
+Isabelle Petiot, vice-president of the Greater Lyon metropolitan authority responsible for waste reduction, did not wait for the French regulatory deadline of January 2024 to make food waste sorting mandatory across the territory. Covering 58 municipalities and 1.4 million inhabitants, the programme was already up and running years before it was legally required.
+
+The idea was not without scepticism. "People told me I was crazy," Petiot recalls. "They said residents would throw anything in the bins. Mayors were doubtful: they did not want something that would smell."
+
+The pilot launched in 2021 in Lyon's 7th arrondissement, a dense urban area of over 80,000 residents. Every household received a free kitchen waste bucket and paper kraft bags, accompanied by an active public awareness campaign running through town halls, markets, and local shops. The message was kept simple and positive: all food waste was accepted, including meal leftovers, vegetable peelings, coffee grounds, eggshells, chicken bones, bruised fruit, stale bread, and expired products. The only firm rule was no plastic.
+
+The response exceeded expectations. "The first collections were incredible," Petiot says. "People really got behind it."
+
+ **Scale and Results**
+The programme was progressively extended from the initial pilot district to all Lyon arrondissements, then to the surrounding inner suburbs, and finally across the entire metropolitan area.
+
+> **Key figures:**
+> - Over 1,000 collective composting sites installed across the territory
+> - 2,700 public compost drop-off points accessible to residents
+> - 33,500 individual composters distributed to households
+> - **16% reduction in incinerated waste per person between 2021 and 2025**, equivalent to 40 kg less waste per resident per year
+
+Between 2021 and 2024, the programme produced **16,700 tonnes of compost**.
+
+**Compost Back to the Land**
+What makes Lyon's approach distinctive is not only the scale of collection, but what happens to the waste once it is collected. Unlike some other schemes in France where food waste is partly converted into biogas through anaerobic digestion, all of Lyon's collected food waste goes to composting.
+
+The destination of that compost is equally notable. According to research by the Rhône Chamber of Agriculture, the compost produced can supply agricultural land within a 30-kilometre radius of the city. Roughly 80% of the output goes directly to farms, with the remaining 20% used for urban green spaces and landscaping projects.
+
+The compost is sold through short supply chains at a symbolic price of 15 euros per tonne and is certified compatible with organic farming. Demand among local farmers is strong. "We have no problem finding buyers," Petiot confirms. "On the contrary, farmers really appreciate it." The metropolitan authority is now exploring official certification for the product.
+
+_Source: Écologie 360, n°14. Original reporting by Sandra Moisson._
+
 ---
 # Getting started with composting at home
 
