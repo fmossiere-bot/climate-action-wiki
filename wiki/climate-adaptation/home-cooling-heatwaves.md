@@ -1,12 +1,13 @@
 ---
 title: Home Cooling During Heatwaves
 category: climate-adaptation
-tags: [adaptation, building-industry, science, behaviour, #ireland]
-sources:
-  - raw/articles/Should I get air conditioning in the UK – and can it be green?.md
+tags:
+  - household
+  - energy
+  - adaptation
 created: 2026-06-01
 updated: 2026-06-01
-summary: "Types of cooling — from greenest to most energy-intensive, Can AC be green, 22% of British homes, 4 million UK homes, 4.87kg CO2 over a summer, 15–31p/day, £5/day, as effective as AC, 3 units of cooling per unit of electricity, £2,500 grant, Passive cooling, Electric fans, Air-to-air heat pumps, Fixed split-system AC, Portable plug-in AC, Pair with solar panels, Use a home battery, Check grid carbon intensity, Pre-cool rooms"
+summary: Types of cooling — from greenest to most energy-intensive, Can AC be green, 22% of British homes, 4 million UK homes, 4.87kg CO2 over a summer, 15–31p/day, £5/day, as effective as AC, 3 units of cooling per unit of electricity, £2,500 grant, Passive cooling, Electric fans, Air-to-air heat pumps, Fixed split-system AC, Portable plug-in AC, Pair with solar panels, Use a home battery, Check grid carbon intensity, Pre-cool rooms
 ---
 
 # Home Cooling During Heatwaves
@@ -49,14 +50,6 @@ Not fully — until the electricity grid runs entirely on renewables. But you ca
 - **Check grid carbon intensity**: sites like [mygridgb.co.uk](https://www.mygridgb.co.uk/) show when the grid is cleanest. Run AC during those windows.
 - **Pre-cool rooms** before the evening peak in electricity demand, when the grid is often dirtier.
 
-## Connected topics
-
-- [[DRAFT - Class 20 - Adaptation and Resilience]]
-- [[DRAFT - IRELAND Climate Adaptation]]
-- [[Heating Ireland - A Sector Behind on Climate Targets]]
-- [[DRAFT - Net-Zero Buildings]]
-- [[Cool Roofs - A Simple Idea with a Surprisingly Large Impact]]
-- [[DRAFT - Wet-Bulb explained]]
 
 ## Sources
 

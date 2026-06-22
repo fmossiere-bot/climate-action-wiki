@@ -39,4 +39,4 @@ A Guardian explainer published during a UK heatwave in May 2026, examining the e
 
 ## Wiki pages informed by this source
 
-- [[DRAFT - home-cooling-heatwaves]] (new page created)
+- [[home-cooling-heatwaves]] (new page created)

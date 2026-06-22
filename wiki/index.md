@@ -82,7 +82,7 @@ Adapting to unavoidable climate impacts.
 | Page | Description |
 |------|-------------|
 | Class 20 - Adaptation and Resilience | Terra.do Class 20: adaptation strategies |
-| [[DRAFT - home-cooling-heatwaves]] | How to keep homes cool during heatwaves — fans, AC, heat pumps, passive cooling |
+| [[home-cooling-heatwaves]] | How to keep homes cool during heatwaves — fans, AC, heat pumps, passive cooling |
 
 ---
 

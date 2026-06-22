@@ -85,7 +85,7 @@ Meanwhile, back on local pitches, the consequences of climate change are already
 
 ## Connected topics
 
-- [Home Cooling and Heatwaves](DRAFT%20-%20home-cooling-heatwaves.md)
+- [Home Cooling and Heatwaves](home-cooling-heatwaves.md)
 - [DRAFT - Wet-Bulb explained](DRAFT%20-%20Wet-Bulb%20explained.md)
 - [DRAFT - FACTS about Air Travel](DRAFT%20-%20FACTS%20about%20Air%20Travel.md)
 
