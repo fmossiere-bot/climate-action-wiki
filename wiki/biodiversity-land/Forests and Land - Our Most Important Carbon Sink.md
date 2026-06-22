@@ -72,7 +72,7 @@ While the global picture is one of loss, Europe is an exception. According to th
 
 Finland leads Europe by a wide margin, with roughly 73% of its land area covered by forests. Sweden is close behind. Montenegro and Slovenia also rank near the top. At the other end, Iceland, Ireland, and the UK have some of the lowest forest shares on the continent. Ireland's historically low forest cover reflects centuries of intensive agricultural land use and the absence of a major reforestation tradition until recent decades.
 
-![[https://raw.githubusercontent.com/fmossiere-bot/climate-action-wiki/refs/heads/main/wiki/sources/Forest.webp]]
+![Forest.webp](https://raw.githubusercontent.com/fmossiere-bot/climate-action-wiki/refs/heads/main/wiki/sources/Forest.webp)
 
 That said, more forest area does not automatically mean healthier forests. The European Environment Agency notes that forest resilience is becoming a policy concern as temperatures rise and extreme weather becomes more frequent. Logging, insect outbreaks, drought, and storm damage are all increasing. Europe's forests are growing in total area, but they are doing so under growing pressure.
 
