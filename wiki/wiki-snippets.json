@@ -305,45 +305,33 @@
     "tags": []
   },
   {
-    "slug": "draft-class-17-finance-and-climate-change-investment",
-    "filename": "climate-finance/DRAFT - Class 17 - Finance and Climate Change - Investment.md",
-    "label": "Finance and Climate Change Investment",
-    "summary": "Finance Basics and Global Context, Global context: Public and private finance is trending upward, Global context: Fossil fuel finance is still booming, Global context: Debt and equity climate finance are both growing, Global context: What about grants, Grants can come from both public and private (philanthrophic) sources, A review: Climate Finance Flows, Public Finance Case Studies, INDIA, Debt for Climate Swap, The Green Climate Fund (GCF), Criticisms of global (aid-based) climate finance, The Role of PRIVATE Finance, Green finance initiatives: Private finance, ESG investing, ESG investing challenges: ESG for whom? , Additional ESG investing challenges, Greenwashing, Green and sustainability-linked bonds, Green bonds: Challenges, Venture capital: the climate tech boom, Climate tech venture capital: challenges, Should nations try to ban bitcoin because of its environmental impact, The Role of BLENDED Finance, Your Personal Finance, Project Drawdown report, LAB - Deep Dive Finance, Other Resources, What is Finance, Why Finance for Climate, quick, $5.9 trillion, Optional further reading, ESG in public equities, Sustainability-linked bonds, To Do",
+    "slug": "climate-change-and-financial-risk-what-is-at-stake",
+    "filename": "climate-finance/Climate Change and Financial Risk - What Is at Stake.md",
+    "label": "Climate Change and Financial Risk: What Is at Stake",
+    "summary": "Climate change is not only an environmental crisis. It is a financial one. The World Economic Forum ranks climate-related failures among the top global risks of the next decade, and the numbers back that up. The Swiss Re Institute estimates the global economy could lose up to 18% of GDP by 2050 if warming continues unchecked. Climate risk takes two main forms: physical risk, from the direct damage caused by floods, droughts, and extreme weather, and transition risk, from the financial disruption that occurs as economies move away from fossil fuels. Both are already materialising. Insured losses from natural disasters reached 115 billion dollars in 2022, well above the ten-year average. Meanwhile, trillions of dollars in fossil fuel assets face the prospect of losing their value as clean energy becomes cheaper and climate policy tightens. Despite this, the world's 60 largest banks provided 673 billion dollars in fossil fuel financing in 2022 alone. This article examines both types of risk, the sectors most exposed, and the organisations working to bring greater transparency and accountability to climate risk in finance.",
     "category": "climate-finance",
     "tags": []
   },
   {
-    "slug": "draft-finance-and-climate-change-risk",
-    "filename": "climate-finance/DRAFT - Finance and Climate Change - RISK.md",
-    "label": "Finance and Climate Change - Risk",
-    "summary": "Context and Types of Climate Risk, Physical Climate Risk, How bad it the problem, Transition Risks and Stranded Assets, Beyond What Is Counted—the Human Impacts, Bank financing the Fossil Fuel, Companies, non-profit organisations helping Climate Risks, Financial Stability Board, Task Force on Climate-Related Financial Disclosures, Climate Disclosures Standards Board, Carbon Disclosure Project, Sustainability Accounting Standards Board, Science Based Targets initiative (SBTi)",
+    "slug": "climate-and-finance-why-money-is-at-the-heart-of-the-climate-crisis",
+    "filename": "climate-finance/Climate and Finance - Why Money Is at the Heart of the Climate Crisis.md",
+    "label": "Climate and Finance: Why Money Is at the Heart of the Climate Crisis",
+    "summary": "Finance sits at the heart of the climate crisis, yet it rarely gets the attention it deserves in public debate. Addressing climate change at the scale required will cost trillions of dollars every year, and neither governments nor private investors are currently deploying capital fast enough. At the same time, the world's largest banks and financial institutions continue to direct enormous sums toward fossil fuels, often while publicly committing to net zero. This article explores the full landscape of climate finance: how public and private money flows today, where the gaps are, and where progress is being made. It covers key instruments including green bonds, ESG investing, debt-for-climate swaps, and venture capital, alongside their limitations and the persistent problem of greenwashing. It also looks at what individuals can do, because personal banking and investment choices have a more direct climate impact than most people realise. Finance can be a powerful lever for climate action. Whether it becomes one depends on the choices made by governments, institutions, and ordinary people alike.",
     "category": "climate-finance",
     "tags": []
   },
   {
-    "slug": "draft-green-your-bank-action-guide",
-    "filename": "climate-finance/DRAFT - GREEN Your Bank ACTION GUIDE.md",
-    "label": "Green Your Bank Action Guide",
-    "summary": "ACTION Move your Money, Dig Deeper, Project Drawdown Report, More on Banks financing Fossil Fuel, It's not just Fossil Fuel - Bank invest in other environmentally damaging projects, Make My Money Matter report",
+    "slug": "is-your-bank-is-funding-climate-change-here-is-what-you-can-do-about-it",
+    "filename": "climate-finance/Is your Bank Is Funding Climate Change. Here Is What You Can Do About It..md",
+    "label": "Is your Bank Funding Climate Change? Here Is What You Can Do About It.",
+    "summary": "Most people trying to reduce their climate impact think about flights, diet, or energy use at home. But one of the most powerful actions available is one that almost nobody talks about: choosing where to bank. Banks use your deposits to fund loans and investments across the economy, and a significant share of that money flows to fossil fuel companies and other carbon-intensive industries. Research by Project Drawdown shows that every 1,000 euros held in a carbon-intensive bank generates roughly the same emissions as a return transatlantic flight, every year. Switching to a greener bank could reduce the climate impact of your personal banking by up to 76%. It is a one-time action that requires no ongoing effort and no financial sacrifice. This article explains how the banking and climate connection works, what to look for in a greener bank, and where to find independent tools to help you make the switch.",
     "category": "climate-finance",
-    "tags": [
-      "finance"
-    ]
+    "tags": []
   },
   {
-    "slug": "draft-green-pension-action-guide",
-    "filename": "climate-finance/DRAFT - Green Pension ACTION GUIDE.md",
-    "label": "Green Pension Action Guide",
-    "summary": "Fossil Fuel Investment relies on your money, Project Drawdown Takeaways, Divesting Money Decreases Emissions, Making the Switch: A Step-by-Step Guide, Week1: Research and Explore, Week 2: Initiate the transfer (if applicable) , Week 3 & 4: Patience, Funds to Look Into",
-    "category": "climate-finance",
-    "tags": [
-      "finance"
-    ]
-  },
-  {
-    "slug": "draft-fossil-fuel-banking",
-    "filename": "climate-finance/DRAFT - fossil-fuel-banking.md",
-    "label": "Fossil Fuel Banking",
+    "slug": "fossil-fuel-banking",
+    "filename": "climate-finance/fossil-fuel-banking.md",
+    "label": "Fossil Fuel Banking continues",
     "summary": "fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of America, MUFG, Barclays, Citigroup, net zero banking alliance, fossil fuel financing, $906 billion, dirty dozen, Paris Agreement, oil and gas lending, coal financing, Net-Zero Banking Alliance, voluntary commitments, financial regulation, Venture Global, Enbridge, climate chaos, stranded assets, fossil fuel subsidies",
     "category": "climate-finance",
     "tags": []
