@@ -95,18 +95,6 @@
     "tags": []
   },
   {
-    "slug": "draft-composting-project-drawdown-57",
-    "filename": "circularity-waste/DRAFT - Composting - Project Drawdown 57.md",
-    "label": "Composting (Project Drawdown #57)",
-    "summary": "South-Korea compost close to 100% of its food waste",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity",
-      "food",
-      "recycle"
-    ]
-  },
-  {
     "slug": "draft-facts-about-food-waste",
     "filename": "circularity-waste/DRAFT - FACTS About Food Waste.md",
     "label": "FACTS About Food Waste",
@@ -159,17 +147,6 @@
     "tags": [
       "circularity",
       "forest"
-    ]
-  },
-  {
-    "slug": "draft-food-the-golden-dirt-action-guidr",
-    "filename": "circularity-waste/DRAFT - Food The Golden Dirt ACTION GUIDR.md",
-    "label": "Food — The Golden Dirt Action Guide",
-    "summary": "Diverts harmful methane emissions from landfills, Stores carbon in soil, Reduces the Need for Fertilizers, Improves Soil Health and Resilience, Finding your Spot and Sizing it Up, Compost Bin Options, Compost Supplies and Setup , Watch the Magic Happen, Filling Your Compost, Time to Compost, Composting Top Tips & Tricks, Enhance your own garden, Share it with others, Week 1: Decide your approach, Week 2: Get building, Week 3: Start using your compost, Week 4: Make your first turn of the compost, Ready to get started? Grab a bin, gather your scraps, and join the composting movement",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity",
-      "food"
     ]
   },
   {
@@ -262,9 +239,17 @@
     "tags": []
   },
   {
+    "slug": "divert-your-food-waste-from-landfill-the-benefit-of-composting",
+    "filename": "circularity-waste/Divert your food waste from landfill - the benefit of composting.md",
+    "label": "Divert your food waste from landfill by implementing a home compost system",
+    "summary": "|-",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
     "slug": "glass-vs-plastic-which-is-actually-better-for-the-environment",
     "filename": "circularity-waste/Glass vs Plastic - Which Is Actually Better for the Environment?.md",
-    "label": "Glass vs Plastic: Which Is Actually Better for the Environment?",
+    "label": "Glass vs Plastic: Which Is Actually Better?",
     "summary": "Health Impacts, Environmental Impacts, Environmental Impact: A Closer Look, Glass: Recyclable but Resource-Intensive, Plastic: Lightweight but Persistent, Key Environmental Considerations, Microplastic Contamination: The Invisible Threat, Recyclability and Reusability: Closing the Loop, Glass: A Champion of Circularity, Plastic: A Recycling Maze, Reusability: Extending the Life Cycle, Health Implications: A Tale of Two Chemistries, Glass: Inert and Safe, Plastic: A Chemical Cocktail, Key Health Considerations, Energy Consumption and Carbon Footprint: A Life Cycle Perspective, Glass: High Energy Demands, Plastic: Fossil Fuel Reliance, Conclusion: Making Informed Choices, Glass, Plastic, Pros, Cons, Conclusion",
     "category": "circularity-waste",
     "tags": []
@@ -288,8 +273,8 @@
     ]
   },
   {
-    "slug": "our-best-friends-environmental-impact-and-how-to-mitigate-it",
-    "filename": "circularity-waste/Our best friends environmental impact and how to mitigate it.md",
+    "slug": "our-pets-environmental-impact-and-how-to-mitigate-it",
+    "filename": "circularity-waste/Our Pets environmental impact and how to mitigate it.md",
     "label": "Our Pets environmental impact and how to mitigate it",
     "summary": "Carbon 'PawPrint' of having a pet, Food, Is Vegetarian Food a good option for Pets, What is the impact of Meat in Pet Food overall Carbon Footprint, The Circular Economy and Blue Waste Upcycling - HARLEY & MARLEY, Renewable Infrastructure and Biodiversity Reserves: Go Native, Conclusions and Recommendations",
     "category": "circularity-waste",
@@ -567,6 +552,20 @@
     "summary": "AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon, AMOC monitoring, defunding, NASA, NOAA, NSF, OceanEye, Trump budget cuts, 10x faster, Ocean Observatories Initiative, Penny Holliday, Femke de Jong, Sjoerd Groeskamp",
     "category": "climate-science",
     "tags": []
+  },
+  {
+    "slug": "indirect-greenhouse-gases",
+    "filename": "climate-science/indirect-greenhouse-gases.md",
+    "label": "The Forgotten Pollutants: Indirect Greenhouse Gases",
+    "summary": "indirect greenhouse gases, carbon monoxide, volatile organic compounds, VOCs, black carbon, soot, ozone, hydroxyl radicals, methane, 15% warming, forgotten pollutants, Ilissa Ocko, Spark Climate Solutions, air pollution, fossil fuels, gas boilers, agricultural burning, hydrogen leakage, Paris Agreement, nitrogen oxides, aerosols",
+    "category": "climate-science",
+    "tags": [
+      "aerosols",
+      "methane",
+      "carbon",
+      "science",
+      "fossil-fuels"
+    ]
   },
   {
     "slug": "wildfires-climate-feedback",
@@ -1265,11 +1264,13 @@
     "slug": "draft-ireland-transport-emissions",
     "filename": "ireland-hub/DRAFT - IRELAND Transport Emissions.md",
     "label": "Ireland Transport Emissions",
-    "summary": "6.7 per cent in 2022",
+    "summary": "Ireland transport emissions, fossil fuel dependence, price shocks, Climate Change Advisory Council, CCAC, EV uptake, public transport, active travel, DART+ South West, Luas Finglas, Local Link, TFI, car dependency, electrification, EV charging, scrappage scheme, road emissions, rail electrification",
     "category": "ireland-hub",
     "tags": [
       "ireland",
-      "science"
+      "transport",
+      "ev",
+      "fossil-fuels"
     ]
   },
   {
@@ -1289,12 +1290,13 @@
     "slug": "draft-ireland-water-usage-and-water-management",
     "filename": "ireland-hub/DRAFT - IRELAND Water Usage and Water Management.md",
     "label": "Ireland Water Usage and Water Management",
-    "summary": "Water Management IRELAND, Challenges of Climate Change on Water Resources, Environmental Crisis at Lough Neagh, FACTS about Water, See [[Keynote Dr Chip FLETCHER]] on important fact about Water usage, Also, from [[FACTS on EVERYTHING - Under the Sky we Make]], exacerbate existing pressures, reductions in available water resources, increased algal/plant growth with detrimental impacts, low river flows are likely to increase, already depleted water supply under pressure, areas already prone to flooding at increased risk, Water and Food impact: There is a fresh water impact",
+    "summary": "Ireland water quality, EPA water report, nitrates, phosphorous, rivers, lakes, nutrient pollution, agriculture runoff, wastewater, Lough Neagh, algae bloom, zebra mussels, climate change water, freshwater, flooding, water supply, biological quality, Ballyteigue Bannow, water management, water scarcity",
     "category": "ireland-hub",
     "tags": [
       "ireland",
       "nature",
-      "adaptation"
+      "adaptation",
+      "agriculture"
     ]
   },
   {
@@ -1752,6 +1754,20 @@
     "summary": "1. The Core Tension: Efficiency vs. Scale, 2. The Data Center 'Land Grab', 3. The Rebound Effect, 4. Expert Quotes & Context, GPU and model efficiency, The Hardware Loop, The Software Loop, DeepSeek, omnipresent, Hyper-growth vs. De-carbonization, 100 GW by 2027, The 'Firm Power' Problem, Nuclear Energy, Natural Gas, The Direct Rebound, The Indirect Rebound, The Green Transition Irony, Satya Nadella (Microsoft CEO), Jensen Huang (Nvidia CEO)",
     "category": "sectors",
     "tags": []
+  },
+  {
+    "slug": "formula-1-sustainability-2026",
+    "filename": "sectors/formula-1-sustainability-2026.md",
+    "label": "Formula 1: On Track for Net Zero by 2030",
+    "summary": "Formula 1, net zero 2030, carbon footprint reduction, sustainable aviation fuel, SAF, sea freight, logistics emissions, calendar rationalisation, factory emissions, greenhouse gas, sport sustainability, Stefano Domenicali, Ellen Jones, third-party reporting",
+    "category": "sectors",
+    "tags": [
+      "sport",
+      "carbon",
+      "alternative-fuels",
+      "aviation",
+      "energy-efficiency"
+    ]
   },
   {
     "slug": "cement-and-concrete-a-hidden-climate-problem",
@@ -2474,9 +2490,25 @@
     "tags": []
   },
   {
+    "slug": "europe-forested-countries-2026",
+    "filename": "sources/europe-forested-countries-2026.md",
+    "label": "europe-forested-countries-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "europe-wildfires-2025-newscientist",
     "filename": "sources/europe-wildfires-2025-newscientist.md",
     "label": "Extreme weather in 2025 drove record wildfire emissions in Europe",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "f1-sustainability-bbc-2026",
+    "filename": "sources/f1-sustainability-bbc-2026.md",
+    "label": "f1-sustainability-bbc-2026",
     "summary": "",
     "category": "",
     "tags": []
@@ -2518,6 +2550,14 @@
     "tags": []
   },
   {
+    "slug": "indirect-greenhouse-gases-newscientist-2026",
+    "filename": "sources/indirect-greenhouse-gases-newscientist-2026.md",
+    "label": "indirect-greenhouse-gases-newscientist-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "ireland-datacentre-hidden-tax-2026",
     "filename": "sources/ireland-datacentre-hidden-tax-2026.md",
     "label": "Source: 'Hidden datacentre tax' costing Irish households millions, report says",
@@ -2530,6 +2570,22 @@
       "carbon",
       "finance"
     ]
+  },
+  {
+    "slug": "ireland-transport-ccac-2026",
+    "filename": "sources/ireland-transport-ccac-2026.md",
+    "label": "ireland-transport-ccac-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "ireland-water-quality-epa-2026",
+    "filename": "sources/ireland-water-quality-epa-2026.md",
+    "label": "ireland-water-quality-epa-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
   },
   {
     "slug": "mangrove-recovery-2026",
