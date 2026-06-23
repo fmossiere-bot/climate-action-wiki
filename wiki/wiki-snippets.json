@@ -401,17 +401,6 @@
     ]
   },
   {
-    "slug": "draft-class-7-mental-models",
-    "filename": "climate-science/DRAFT - Class 7 - Mental Models.md",
-    "label": "Class 7 — Mental Models for Climate Action",
-    "summary": "Intro, Why mental models, Isn’t climate impact enough, MM1: Climate Impact and Costs, Project Drawdown, Marginal Abatment Cost Curve, MM2: Growth vs Degrowth, The green growth mm, The degrowth mm, MM3: A systems lens, MM4: Masculine vs Feminine framing, TERRA.DO approach, Mitigation, Removal, Systems thinking, Global outlook, global lens, Masculine and feminine, Skills-based",
-    "category": "climate-science",
-    "tags": [
-      "science",
-      "behaviour"
-    ]
-  },
-  {
     "slug": "draft-energy-101-technical-and-quantitative-basics",
     "filename": "climate-science/DRAFT - Energy 101 - Technical and Quantitative Basics.md",
     "label": "Energy 101 — Technical and Quantitative Basics",
@@ -507,6 +496,14 @@
     "filename": "climate-science/IPCC 10 findings 2023.md",
     "label": "What the Latest IPCC Report Tells Us: Ten Findings That Matter",
     "summary": "n March 2023, the Intergovernmental Panel on Climate Change published the final part of its Sixth Assessment Report, the most authoritative scientific review of climate change ever produced. Drawing on the work of more than 780 scientists, its conclusions are unambiguous: the situation is worse than previously assessed, and the window for meaningful action is closing fast. The planet has already warmed by 1.1 degrees Celsius, and the impacts on people and ecosystems are more severe and widespread than earlier models predicted. Staying within 1.5 degrees of warming requires global emissions to peak before 2025 and fall by 43% by 2030. That means a rapid phase-out of fossil fuels, deep cuts across all sectors of the economy, and significant deployment of carbon removal. It also requires a dramatic increase in climate finance, particularly for adaptation in developing countries, which currently receive a fraction of what they need. And it requires recognising that without deliberate action, climate change will deepen existing inequalities, hitting the poorest communities hardest despite their having contributed least to the problem.",
+    "category": "climate-science",
+    "tags": []
+  },
+  {
+    "slug": "mental-models-for-climate-solutions",
+    "filename": "climate-science/Mental Models for Climate Solutions.md",
+    "label": "Mental Models for Climate Solutions",
+    "summary": "Climate solutions are not just a technical question. They are also a question of how we think. This article introduces four mental models that shape how experts and decision-makers evaluate and compare solutions: a cost and impact framework, the growth versus degrowth debate, a systems approach that looks at multiple problems together, and a reflective lens that asks not just what to do but how to do it well. Understanding these models, and their blind spots, is essential before deciding where to invest time, money or policy attention.",
     "category": "climate-science",
     "tags": []
   },
@@ -2179,7 +2176,7 @@
   {
     "slug": "the-incredible-environmental-properties-of-bamboo",
     "filename": "solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md",
-    "label": "The incredible environmental properties of Bamboo",
+    "label": "Bamboo: a versatile material for the low-carbon transition",
     "summary": "Bamboo plantations have incredible environmental properties: with their expansive underground stems, they reduce soil erosion and prevent sediments from entering streams and rivers. Fallen leaves carpet the ground, which reduces water evaporation. Their hollow stems retain water into the dry season, thus increasing environmental humidity. Dense bamboo vegetation also captures water droplets from fog. It is one of the top 100 solutions proposed by Project Drawdown in order to stay under 1.5C",
     "category": "solutions",
     "tags": []
