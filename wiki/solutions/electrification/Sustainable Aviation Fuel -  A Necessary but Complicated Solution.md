@@ -7,10 +7,8 @@ tags:
   - carbon
   - biofuels
 created: 2024-06-01
-updated: 2026-06-16
-summary: |-
-  Aviation is one of the hardest sectors to decarbonise. Electric planes remain far from commercial viability at scale, and hydrogen is still years away from widespread adoption. In the meantime, Sustainable Aviation Fuel, known as SAF, has emerged as the most realistic near-term option for reducing emissions from flying. It is promising, but it comes with real limitations that are worth understanding clearly.
-  What is SAF, How Sustainable is SAF, Can we produce enough, Financial Incentives, SAF and Synthetic Fuels, Deep dive into SAF with Corn, UK new legislation on use of SAF for aviation, Solar SAF, 50-97%, 1 gallon = 3.7l, are comparable to fossil-based jet fuels, 50-97% compared to fossil-based jet fuel, EU Emissions Trading Scheme (ETS), SAF Allowances, pv magazine
+updated: 2026-06-23
+summary: "sustainable aviation fuel, SAF, aviation decarbonisation, hydrothermal liquefaction, HTL, food waste, biofuel, feedstock, HEFA, cooking oil, corn ethanol, synthetic fuel, e-fuel, solar SAF, Synhelion, blending, ASTM, EU ReFuelEU, UK SAF mandate, land use, lifecycle analysis, negative carbon emissions, University of Illinois, Yuanhui Zhang, Nature Sustainability, carbon footprint, aviation emissions"
 ---
 
 
@@ -94,9 +92,23 @@ But it is not a simple solution. The feedstock choices matter enormously, and no
 SAF buys time for aviation while longer-term solutions develop. It should be treated as exactly that: a transition tool, not a destination.
 
 ---
+
+### New Feedstock Pathway: Food Waste as Jet Fuel
+
+A 2026 study from the University of Illinois Urbana-Champaign, published in *Nature Sustainability*, has demonstrated a practical new pathway for turning food waste into jet-grade SAF. The process uses **hydrothermal liquefaction (HTL)**, which applies high heat and pressure to wet organic waste to produce a crude biocrude oil, mimicking the natural formation of crude oil but in a fraction of the time.
+
+What makes this research notable is its emphasis on simplicity and cost. Rather than using heavy catalytic refining, the Illinois team focused on distillation, a more familiar and economical industrial process. The resulting fuel is lower in quality than fully refined SAF and needs to be blended with conventional jet fuel, but it meets ASTM and FAA jet fuel standards at a 50-50 blend. Even 10% or 20% blends would be useful given current SAF supply constraints.
+
+Lead researcher Prof Yuanhui Zhang compared the approach to biodiesel blending for cars: "It would be very difficult to produce enough SAF to meet industry needs, so it makes sense to take a biodiesel approach with a percentage blend."
+
+The lifecycle analysis found that both baseline and improved treatment scenarios achieve negative carbon emissions overall. The biggest practical hurdle remains logistics: collecting food waste from landfills and wastewater treatment plants at scale. HTL can use treated wastewater as feedstock, which opens a route through existing municipal waste infrastructure. A toxic byproduct (HTL aqueous phase) can be treated electrochemically to recover nutrients, though this currently increases costs significantly.
+
+The research is still at small laboratory scale, with litre-scale fuel production being the next step before engine testing.
+
+---
 # Sources
-- [European Aviation environmental report](https://www.easa.europa.eu/eco/eaer/topics/sustainable-aviation-fuels/how-sustainable-are-saf#ghg-emissions-reductions)*
--  [NYT](https://www.nytimes.com/interactive/2023/11/30/climate/airlines-jet-fuel-ethanol-corn.html?smid=nytcore-ios-share&referringSource=articleShare)*
-- Sustainable aviation fuels (SAF) in Europe | Deloitte UK, accessed February 9, 2025
-- Sustainable Aviation Fuels | EASA, accessed February 9, 2025
-- European Union Aerospace and Defense Sustainable Aviation Fuel ..., accessed February 9, 2025
+- EASA European Aviation Environmental Report — https://www.easa.europa.eu/eco/eaer/topics/sustainable-aviation-fuels/how-sustainable-are-saf#ghg-emissions-reductions
+- The New York Times, 30 November 2023 — https://www.nytimes.com/interactive/2023/11/30/climate/airlines-jet-fuel-ethanol-corn.html
+- Deloitte UK, Sustainable Aviation Fuels in Europe, accessed February 2025
+- EASA, Sustainable Aviation Fuels, accessed February 2025
+- TechXplore / Nature Sustainability, Marianne Stein / Buchun Si et al., 22 June 2026 — https://techxplore.com/news/2026-06-food-jet-fuel-simpler-refining.html — DOI: 10.1038/s41893-026-01848-1

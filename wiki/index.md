@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-22
+Last updated: 2026-06-23
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -45,6 +45,7 @@ Summaries of every ingested source file.
 | [[ireland-water-quality-epa-2026]] | RTÉ (Jun 2026): EPA 2025 water quality indicators — no improvement; 43% rivers excess nitrates, 30%+ lakes excess phosphorous |
 | [[europe-forested-countries-2026]] | Visual Capitalist (Jun 2026): Europe's forest cover ranked — Finland leads at ~73%; Ireland and Iceland lowest; area expanding but resilience under pressure |
 | [[indirect-greenhouse-gases-newscientist-2026]] | New Scientist (Jun 2026): CO, VOCs and black carbon — "forgotten" indirect GHGs — have caused 15% of warming; absent from Paris Agreement action plans |
+| [[food-waste-saf-illinois-2026]] | TechXplore / Nature Sustainability (Jun 2026): food waste → SAF via hydrothermal liquefaction; simpler refining, 50-50 blend meets ASTM standards; negative carbon lifecycle |
 
 ---
 

@@ -4,6 +4,28 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-23 ingest | Food Waste Can Become Jet Fuel
+
+**Source file:** `raw/articles/Food waste can become jet fuel through simpler refining and 50-50 blending.md`
+**Original source:** TechXplore, Marianne Stein, 22 June 2026 — https://techxplore.com/news/2026-06-food-jet-fuel-simpler-refining.html
+**Peer-reviewed study:** Nature Sustainability, Buchun Si et al., 2026 — DOI: 10.1038/s41893-026-01848-1
+
+**What was done:**
+- Created source summary: `wiki/sources/food-waste-saf-illinois-2026.md`
+- Updated existing page: `wiki/solutions/electrification/Sustainable Aviation Fuel - A Necessary but Complicated Solution.md` — added new section "New Feedstock Pathway: Food Waste as Jet Fuel"; updated frontmatter summary and updated date
+- Updated `wiki/index.md`
+
+**Key content added:**
+- University of Illinois team converts food waste to SAF via hydrothermal liquefaction (HTL) + distillation-focused refining
+- Simpler, lower-cost process than heavy catalytic refining; fuel quality lower but blendable
+- 50-50 blend with conventional jet fuel meets ASTM/FAA standards; 10-20% blends also feasible
+- Biggest bottleneck: logistics of collecting food waste from landfills and wastewater plants
+- HTL works with treated wastewater as feedstock
+- Lifecycle analysis: negative carbon emissions in both baseline and improved scenarios
+- Still at small lab scale; next step is diesel engine tests, then jet engine tests
+
+---
+
 ## 2026-06-22 ingest | Formula 1 Sustainability — On Track for Net Zero by 2030
 
 **Source file:** `raw/articles/Formula 1 Sustainability changes put sport on track for net zero emissions by 2030.md`
