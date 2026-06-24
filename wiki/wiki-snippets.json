@@ -538,19 +538,8 @@
     "tags": []
   },
   {
-    "slug": "draft-class-6-climate-communications",
-    "filename": "concepts/behavior-change/DRAFT - Class 6 - Climate Communications.md",
-    "label": "Class 6 — Climate Communications",
-    "summary": "Knowing your Audience, First: Why do you want to communicate about climate change, Who are you trying to reach—and why might they care, Speak your audience's language, Dismissives, Deniers, Doubters, Making your case for Solutions, What about in corporate contexts, What about if I need to communicate about climate change with a journalist, KEEP IT SIMPLE, Further reading and case studies, TAKE PERSONAL ACTIONS, Talking about climate change can lead to real change. Here's how to make those conversations count, You want people to do something about it, But in small groups, it’s a different story",
-    "category": "concepts",
-    "tags": [
-      "behaviour",
-      "science"
-    ]
-  },
-  {
-    "slug": "draft-how-countries-can-use-behavior-change-to-further-reduce-emissions",
-    "filename": "concepts/behavior-change/DRAFT - How Countries Can Use Behavior Change to Further Reduce Emissions.md",
+    "slug": "how-countries-can-use-behavior-change-to-further-reduce-emissions",
+    "filename": "concepts/behavior-change/How Countries Can Use Behavior Change to Further Reduce Emissions.md",
     "label": "How Countries Can Use Behaviour Change to Reduce Emissions",
     "summary": "2) Impactful Sectors Like Air Travel and Food Are Often Overlooked, 3) Climate Plans Should Rely on More Tools to Drive Behavior Change, Enhanced information, Incentives and disincentives, Improving the decision-making context",
     "category": "concepts",
@@ -560,30 +549,32 @@
     ]
   },
   {
-    "slug": "draft-talking-about-climate-change-action-guide",
-    "filename": "concepts/behavior-change/DRAFT - Talking about Climate Change ACTION GUIDE.md",
-    "label": "Talking about Climate Change Action Guide",
+    "slug": "talking-about-climate-change-action-guide",
+    "filename": "concepts/behavior-change/Talking about Climate Change ACTION GUIDE.md",
+    "label": "Talking about Climate Change - Climate Advocacy",
     "summary": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.' - Margaret Mead, The Need for Conversations, Leading by Example, Taking action and being a positive role model are crucial to ensuring our conversations about climate change are more than just words. When we embody the change we want to see, our actions lend weight to our words, making them far more persuasive, More Science is Not the Answer, Knowing Your Audience, Using the Right Words, Changing how we talk about climate change can make a big difference. Using clear, positive language can inspire action and support for policies to address the crisis urgently. Instead of focusing on sacrifice, we should highlight the opportunities for better health and well-being in a world moving beyond fossil fuels. Avoid scientific jargon and misleading terms. For example, 'natural disasters' are often influenced by human actions, making them not entirely natural. Clear communication can help shift perceptions and motivate collective action towards a sustainable future, Susan Joy Hassol shares an illustrative list in her article The Right Words Are Crucial to Solving Climate Change, Ignore the Outliers, Focus your efforts on the majority open to taking action, rather than trying to convert the dismissive few. Campaigns often target extremes, but targeting the middle 50% under the proverbial curve is where our efforts can make the biggest difference. Engaging the willing majority can build the political will and community support needed for meaningful climate action, Communicating Solutions, Highlighting solutions is as important as identifying problems. Focusing only on problems can overwhelm people, making them disengage. Amanda Ripley highlights the need for hope, agency, and dignity in climate coverage in her article in the Washington Post. Most stories miss discussing solutions, leaving audiences feeling powerless. Highlighting positive steps and celebrating small victories can inspire action. It's important to balance fear with actionable hope and not to overemphasize sacrifice, Showcase exciting aspects of climate action, like the benefits of electric vehicles, induction cooking, and vegetarian diets. The dropping prices of renewable energy and projected exponential adoption curves paint an enabling picture of the future. , As critical as climatic tipping points are to the escalating crisis, positive social and economic tipping points to respond to it are underway and within our control. Encourage participation in grassroots efforts and local initiatives to demonstrate the many ways individuals can contribute to climate change mitigation, Guiding Children Through Climate Conversations, Calling out ‘Greenwashing’, Misinformation, Checklist for Conversations, Talking about climate change can lead to real change. Here's how to make those conversations count, Weekly Action Plan, Dive Deeper, How to Fix News Media, This article explores strategies for improving news media to better engage and inform the public",
     "category": "concepts",
-    "tags": [
-      "behaviour"
-    ]
+    "tags": []
   },
   {
-    "slug": "draft-the-climate-mitigation-gap-research",
-    "filename": "concepts/behavior-change/DRAFT - The climate Mitigation Gap research.md",
+    "slug": "the-climate-mitigation-gap-research",
+    "filename": "concepts/behavior-change/The climate Mitigation Gap research.md",
     "label": "The Climate Mitigation Gap — Individual Choices Research",
     "summary": "",
     "category": "concepts",
-    "tags": [
-      "behaviour",
-      "research",
-      "science"
-    ]
+    "tags": []
   },
   {
-    "slug": "draft-high-income-carbon-paradox",
-    "filename": "concepts/behavior-change/DRAFT - high-income-carbon-paradox.md",
+    "slug": "why-knowing-is-not-enough-how-our-brains-get-in-the-way-of-climate-action",
+    "filename": "concepts/behavior-change/Why Knowing Is Not Enough - How Our Brains Get in the Way of Climate Action.md",
+    "label": "Why Knowing Is Not Enough: How Our Brains Get in the Way of Climate Action",
+    "summary": "|-",
+    "category": "concepts",
+    "tags": []
+  },
+  {
+    "slug": "high-income-carbon-paradox",
+    "filename": "concepts/behavior-change/high-income-carbon-paradox.md",
     "label": "The High-Income Carbon Paradox",
     "summary": "carbon footprint, high income, environmental values, frequent flying, ecological footprint, behaviour change, policy vs attitude, Cambridge study, socioeconomic status, individual responsibility, aviation tax, degrowth, BP carbon footprint, environmentalists, emissions inequality, individual action vs system change",
     "category": "concepts",
