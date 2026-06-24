@@ -1955,7 +1955,7 @@
     "slug": "sustainable-aviation-fuel-a-necessary-but-complicated-solution",
     "filename": "solutions/electrification/Sustainable Aviation Fuel -  A Necessary but Complicated Solution.md",
     "label": "Sustainable Aviation Fuel: A Necessary but Complicated Solution",
-    "summary": "|-",
+    "summary": "sustainable aviation fuel, SAF, aviation decarbonisation, hydrothermal liquefaction, HTL, food waste, biofuel, feedstock, HEFA, cooking oil, corn ethanol, synthetic fuel, e-fuel, solar SAF, Synhelion, blending, ASTM, EU ReFuelEU, UK SAF mandate, land use, lifecycle analysis, negative carbon emissions, University of Illinois, Yuanhui Zhang, Nature Sustainability, carbon footprint, aviation emissions",
     "category": "solutions",
     "tags": []
   },
@@ -2502,6 +2502,14 @@
       "carbon",
       "nature"
     ]
+  },
+  {
+    "slug": "food-waste-saf-illinois-2026",
+    "filename": "sources/food-waste-saf-illinois-2026.md",
+    "label": "food-waste-saf-illinois-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
   },
   {
     "slug": "iata-netzero-unlikely-2026",
