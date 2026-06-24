@@ -9,9 +9,7 @@ cover_image: ""
 summary: "carbon footprint, high income, environmental values, frequent flying, ecological footprint, behaviour change, policy vs attitude, Cambridge study, socioeconomic status, individual responsibility, aviation tax, degrowth, BP carbon footprint, environmentalists, emissions inequality, individual action vs system change"
 ---
 
-# The High-Income Carbon Paradox
-
-## What is it
+What is it
 
 A University of Cambridge study surveyed 5,000 people across Canada, France, Germany, Italy, the UK, and the US, asking about both their environmental values and their actual ecological footprint. The finding was striking: **for most people, caring more about the environment means living with a smaller footprint. But among the wealthiest 30%, the opposite is true.** High-income people with the strongest environmental ideals had an even larger footprint than their high-income peers who did not particularly value sustainability.
 
@@ -35,9 +33,9 @@ The finding also reframes a common critique of environmentalists as hypocrites. 
 
 ## Connected topics
 
-- [The Climate Mitigation Gap](DRAFT%20-%20The%20climate%20Mitigation%20Gap%20research.md)
+- [The Climate Mitigation Gap](wiki/concepts/behavior-change/The%20climate%20Mitigation%20Gap%20research.md)
 - [DRAFT - FACTS about Air Travel](DRAFT%20-%20FACTS%20about%20Air%20Travel.md)
-- [How Countries Can Use Behaviour Change to Further Reduce Emissions](DRAFT%20-%20How%20Countries%20Can%20Use%20Behavior%20Change%20to%20Further%20Reduce%20Emissions.md)
+- [How Countries Can Use Behaviour Change to Further Reduce Emissions](How%20Countries%20Can%20Use%20Behavior%20Change%20to%20Further%20Reduce%20Emissions.md)
 
 ## Sources
 

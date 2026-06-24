@@ -173,7 +173,7 @@ Source: https://www.climatechangecommunication.org/wp-content/uploads/2019/10/Am
 ## TAKE PERSONAL ACTIONS
 #social #behaviour 
 
-More details on [[DRAFT - Talking about Climate Change ACTION GUIDE]]
+More details on [[Talking about Climate Change ACTION GUIDE]]
 
 The Intergovernmental Panel on Climate Change (IPCC) thinks shifting societal norms only requires 10% to 30% of individuals to be deeply committed. [[2](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-5/)] 
 

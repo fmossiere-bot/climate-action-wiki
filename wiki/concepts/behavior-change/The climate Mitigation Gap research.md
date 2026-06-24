@@ -1,12 +1,15 @@
 ---
 title: The Climate Mitigation Gap — Individual Choices Research
 category: concepts
-tags: [behaviour, research, science]
+tags:
+  - behaviour
+  - research
+  - science
+  - lifestylechoices
 created: 2026-06-01
 updated: 2026-06-01
 ---
 
-#research #lifestylechoices
 
 Current anthropogenic climate change is the result of greenhouse gas accumulation in the atmosphere, which records the aggregation of billions of individual decisions. Here we consider a broad range of individual lifestyle choices and calculate their potential to reduce greenhouse gas emissions in developed countries, based on 148 scenarios from 39 sources. We recommend four widely applicable high-impact (i.e. low emissions) actions with the potential to contribute to systemic change and substantially reduce annual personal emissions: 
 - having one fewer child (an average for developed countries of **58.6 tonnes CO2-equivalent (tCO2e) emission reductions per year),
@@ -18,7 +21,3 @@ These actions have much greater potential to reduce emissions than commonly prom
 
 Source : https://iopscience.iop.org/article/10.1088/1748-9326/aa7541
 Also see [[FACTS on EVERYTHING - Under the Sky we Make#You can do something about it]]
-
-
-![[_Attachments/Wynes_2017_Environ._Res._Lett._12_074024.pdf]]
-

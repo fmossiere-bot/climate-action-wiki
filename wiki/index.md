@@ -154,7 +154,7 @@ Funding the transition — investment, risk, green banking.
 | Meat Token ACTION GUIDE | Reducing meat consumption |
 | Talking about Climate Change ACTION GUIDE | Conversation guide for climate |
 | The climate Mitigation Gap research | Research on individual vs systemic action |
-| [[DRAFT - high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
+| [[high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
 
 ### Company Evaluations (`wiki/concepts/company-evaluations/`)
 
