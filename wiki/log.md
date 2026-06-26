@@ -4,6 +4,34 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-26 ingest | Greater Dublin Water Supply on a "Knife Edge"
+
+**Source file:** `raw/articles/Greater Dublin water supply 'on knife edge', cttee told.md`
+**Original source:** RTÉ News, Juliette Gash, 24 June 2026 — https://www.rte.ie/news/2026/0624/1580174-shannon-dublin-water/
+
+**What was done:**
+- Created source summary: `wiki/sources/dublin-water-supply-shannon-2026.md`
+- Updated existing page: `wiki/ireland-hub/DRAFT - IRELAND Water Usage and Water Management.md` — added "Dublin Water Supply on a Knife Edge" section; updated frontmatter summary and updated date
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Greater Dublin water demand cannot be met sustainably without the Water Supply Project (Shannon diversion)
+- Project: 2% of Shannon annual flow from Parteen Basin, piped east; supports up to 50% of Ireland's population
+- Planning application submitted to An Coimisiún Pleanála, December 2025
+- 80% of landowners along route have signed voluntary agreements; CPO available for remainder
+- Dublin leakage reduced from 37% to 29%; parallel, not sequential, approach to leakage and new supply
+- Lough Derg and Parteen Basin water levels and recreation unaffected
+
+---
+
+## 2026-06-26 skip | Food waste... blending 1.md
+
+**Source file:** `raw/articles/Food waste can become jet fuel through simpler refining and 50-50 blending 1.md`
+
+**Decision:** Skipped. Exact duplicate of `raw/articles/Food waste can become jet fuel through simpler refining and 50-50 blending.md`, which was ingested on 2026-06-23. Same source URL, same content, different creation timestamp only.
+
+---
+
 ## 2026-06-23 ingest | Food Waste Can Become Jet Fuel
 
 **Source file:** `raw/articles/Food waste can become jet fuel through simpler refining and 50-50 blending.md`

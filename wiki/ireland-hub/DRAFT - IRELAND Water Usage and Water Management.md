@@ -3,8 +3,8 @@ title: Ireland Water Usage and Water Management
 category: ireland-hub
 tags: ["#ireland", "#nature", "#adaptation", "#agriculture"]
 created: 2026-06-01
-updated: 2026-06-22
-summary: "Ireland water quality, EPA water report, nitrates, phosphorous, rivers, lakes, nutrient pollution, agriculture runoff, wastewater, Lough Neagh, algae bloom, zebra mussels, climate change water, freshwater, flooding, water supply, biological quality, Ballyteigue Bannow, water management, water scarcity"
+updated: 2026-06-26
+summary: "Ireland water quality, EPA water report, nitrates, phosphorous, rivers, lakes, nutrient pollution, agriculture runoff, wastewater, Lough Neagh, algae bloom, zebra mussels, climate change water, freshwater, flooding, water supply, biological quality, Ballyteigue Bannow, water management, water scarcity, Dublin water supply, River Shannon, Uisce Éireann, Water Supply Project, Parteen Basin, Lough Derg, pipeline, leakage, climate resilient infrastructure, Greater Dublin"
 ---
 
 #water 
@@ -42,6 +42,22 @@ This is not a recent problem, and one that will need decades fix thanks, hopeful
 > “We all know there are contributing factors – we have the agricultural run-off, we have wastewater infrastructure which needs massive investment, we have septic tanks; we also have the arrival of zebra mussels, we have climate change.
 
 
+
+---
+
+## 2026 Update: Dublin Water Supply on a "Knife Edge"
+
+Source: RTÉ News, Juliette Gash, 24 June 2026 — https://www.rte.ie/news/2026/0624/1580174-shannon-dublin-water/
+
+Greater Dublin's water demand has reached a critical point. Uisce Éireann told the Oireachtas Infrastructure Committee in June 2026 that supply is on a "knife edge" and cannot be met sustainably without a major new source, affecting not just Dublin but parts of Wicklow, Meath and Kildare.
+
+**The solution proposed: the Water Supply Project.** This scheme would divert 2% of the River Shannon's annual flow from an existing reservoir at the Parteen Basin in Co Tipperary, piping it east across the country. Uisce Éireann says it will provide a "new, secure and climate-resilient water source, capable of supporting up to 50% of the population." A planning application was submitted to An Coimisiún Pleanála in December 2025.
+
+**Land access:** 80% of landowners along the route have signed voluntary agreements. Compulsory Purchase Order (CPO) powers would be used if needed for the remainder, though Uisce Éireann says it hopes that won't be necessary.
+
+**The leakage question:** Several TDs raised whether pipes should be fixed before building new infrastructure. Dublin network leakage has already been reduced from 37% to 29%. Uisce Éireann says leak reduction and new supply work will proceed in parallel, not in sequence.
+
+**Environment:** Uisce Éireann says water levels at Lough Derg and the Parteen Basin will not change, and there will be no impact on fishing or recreation.
 
 ---
 
