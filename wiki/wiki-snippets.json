@@ -129,17 +129,6 @@
     ]
   },
   {
-    "slug": "draft-facts-about-soft-pocket-tissues",
-    "filename": "circularity-waste/DRAFT - FACTS about Soft Pocket Tissues.md",
-    "label": "FACTS about Soft Pocket Tissues",
-    "summary": "Global Tissue Paper Market Overview, Soft Pocket Tissues: Production and Consumption, Factors Driving Demand for Soft Pocket Tissues, Market Share and Competitive Landscape, Sustainability and Environmental Impact, Historical Growth and Future Projections",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity",
-      "forest"
-    ]
-  },
-  {
     "slug": "draft-landfill-methane-capture-project-drawdown-56",
     "filename": "circularity-waste/DRAFT - Landfill Methane Capture - Project Drawdown 56.md",
     "label": "Landfill Methane Capture (Project Drawdown #56)",
@@ -152,17 +141,6 @@
     ]
   },
   {
-    "slug": "draft-other-sustainability-and-recycling-efforts",
-    "filename": "circularity-waste/DRAFT - Other SUSTAINABility and Recycling efforts.md",
-    "label": "Other Sustainability and Recycling Efforts",
-    "summary": "1500 tonnes",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity",
-      "recycle"
-    ]
-  },
-  {
     "slug": "draft-recycling-project-drawdown-42",
     "filename": "circularity-waste/DRAFT - Recycling - Project Drawdown 42.md",
     "label": "Recycling (Project Drawdown #42)",
@@ -171,17 +149,6 @@
     "tags": [
       "plastic",
       "recycle",
-      "circularity"
-    ]
-  },
-  {
-    "slug": "draft-reduced-food-waste-project-drawdown-1",
-    "filename": "circularity-waste/DRAFT - Reduced Food Waste - Project Drawdown 1.md",
-    "label": "Reduced Food Waste (Project Drawdown #1)",
-    "summary": "",
-    "category": "circularity-waste",
-    "tags": [
-      "food",
       "circularity"
     ]
   },
@@ -221,26 +188,10 @@
     ]
   },
   {
-    "slug": "draft-seaqual-ocean-plastic-fashion",
-    "filename": "circularity-waste/DRAFT - seaqual-ocean-plastic-fashion.md",
-    "label": "Seaqual — Turning Ocean Plastic into Fashion",
-    "summary": "Seaqual, marine plastic, upcycled plastic, ocean plastic, recycled polyester, rPET, fishing nets, polyamide, circular fashion, LCA, life cycle assessment, Spain, Mediterranean, Antex, Textil Santanderina, Ecoalf, supply chain, DNA tracer, GRS, Oeko-Tex, textile-to-textile, chemical recycling, microplastics, blue economy, seabed, fishermen, take-back, circular economy, fashion industry",
-    "category": "circularity-waste",
-    "tags": []
-  },
-  {
     "slug": "divert-your-food-waste-from-landfill-the-benefit-of-composting",
     "filename": "circularity-waste/Divert your food waste from landfill - the benefit of composting.md",
     "label": "Divert your food waste from landfill by implementing a home compost system",
     "summary": "|-",
-    "category": "circularity-waste",
-    "tags": []
-  },
-  {
-    "slug": "facts-about-circular-economy",
-    "filename": "circularity-waste/FACTS about Circular Economy.md",
-    "label": "The Circular Economy: A Different Way of Thinking About Stuff",
-    "summary": "The circular economy offers an alternative to the linear model of take, make, dispose, keeping products and materials in use for as long as possible. It is a central pillar of the EU's climate strategy, yet progress has been slow. The EU's circularity rate stood at just 12.2% in 2024, against a 2030 target of 24%. New legislation, including the Right to Repair Directive, rules on textile and food waste, and the forthcoming Circular Economy Act, is pushing the transition forward. But financing gaps, uneven progress across member states, and persistent reliance on linear models mean the hard work is still ahead.",
     "category": "circularity-waste",
     "tags": []
   },
@@ -261,16 +212,6 @@
     "tags": []
   },
   {
-    "slug": "idraft-ndaver-waste-management",
-    "filename": "circularity-waste/IDRAFT - NDAVER - Waste Management.md",
-    "label": "INDAVER — Sustainable Waste Management",
-    "summary": "Sustainability Report",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity"
-    ]
-  },
-  {
     "slug": "our-pets-environmental-impact-and-how-to-mitigate-it",
     "filename": "circularity-waste/Our Pets environmental impact and how to mitigate it.md",
     "label": "Our Pets environmental impact and how to mitigate it",
@@ -283,6 +224,22 @@
     "filename": "circularity-waste/Shoes and the Environment - A Hidden Cost Hiding in Plain Sight.md",
     "label": "Shoes and the Environment: A Hidden Cost Hiding in Plain Sight",
     "summary": "Eco- Sneakers with no Plastic, Ethical and Eco-Friendly runners are in demand, How Eco-Friendly are Flip flops. Shoes require multiple layers and materials, usually coming from various places, and not always in a fair way. This is changing slowly, and more and more brands or emerging brands are putting this new card forward.Shoes are one of the most environmentally complex products we own. The footwear industry produces nearly 24 billion pairs a year, accounts for 1.4% of global carbon emissions, and sends 95% of used shoes to landfill. Materials like leather, synthetic rubber and petroleum-based plastics make most footwear nearly impossible to recycle. A small but growing number of brands are changing this, including Veja, Ubac, Circle Sportswear and MOEA, each taking a different approach to materials, supply chain transparency and end of life. Flip flops alone account for 3 billion pairs produced annually and 10% of beach plastic. Durability and transparency are the best guides for better choices.",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
+    "slug": "what-is-the-circular-economy",
+    "filename": "circularity-waste/What is the Circular Economy.md",
+    "label": "The Circular Economy: A Different Way of Thinking About Stuff",
+    "summary": "The circular economy offers an alternative to the linear model of take, make, dispose, keeping products and materials in use for as long as possible. It is a central pillar of the EU's climate strategy, yet progress has been slow. The EU's circularity rate stood at just 12.2% in 2024, against a 2030 target of 24%. New legislation, including the Right to Repair Directive, rules on textile and food waste, and the forthcoming Circular Economy Act, is pushing the transition forward. But financing gaps, uneven progress across member states, and persistent reliance on linear models mean the hard work is still ahead.",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
+    "slug": "seaqual-ocean-plastic-fashion",
+    "filename": "circularity-waste/seaqual-ocean-plastic-fashion.md",
+    "label": "Seaqual — Turning Ocean Plastic into Fashion",
+    "summary": "Seaqual, marine plastic, upcycled plastic, ocean plastic, recycled polyester, rPET, fishing nets, polyamide, circular fashion, LCA, life cycle assessment, Spain, Mediterranean, Antex, Textil Santanderina, Ecoalf, supply chain, DNA tracer, GRS, Oeko-Tex, textile-to-textile, chemical recycling, microplastics, blue economy, seabed, fishermen, take-back, circular economy, fashion industry",
     "category": "circularity-waste",
     "tags": []
   },
