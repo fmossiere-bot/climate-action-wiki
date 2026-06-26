@@ -373,7 +373,7 @@ Funding the transition — investment, risk, green banking.
 | Recycling - Project Drawdown 42 | Recycling as climate solution |
 | Reduced Food Waste - Project Drawdown 1 | Food waste reduction |
 | The Environmental Impact of the FASHION industry | Fashion's climate footprint |
-| [[DRAFT - seaqual-ocean-plastic-fashion]] | **NEW** — Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
+| [[seaqual-ocean-plastic-fashion]] | **NEW** — Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |
 | Waste to Energy - Project Drawdown 58 | Waste-to-energy systems |
 

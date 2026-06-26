@@ -14,16 +14,14 @@ updated: 2026-06-12
 cover_image: ""
 summary: Seaqual, marine plastic, upcycled plastic, ocean plastic, recycled polyester, rPET, fishing nets, polyamide, circular fashion, LCA, life cycle assessment, Spain, Mediterranean, Antex, Textil Santanderina, Ecoalf, supply chain, DNA tracer, GRS, Oeko-Tex, textile-to-textile, chemical recycling, microplastics, blue economy, seabed, fishermen, take-back, circular economy, fashion industry
 ---
+Sequal is a Spanish-founded initiative that collects marine litter from fishing fleets and coastal communities worldwide and converts it into certified recycled textile materials for the fashion industry. This piece examines its full industrial structure: how plastic is recovered and processed, the precise blend ratios in its yarn products (10% marine plastic, 90% land-based rPET), the life cycle assessment data showing a 37% reduction in carbon emissions vs virgin polyester, and the end-of-life pathways including textile-to-textile chemical recycling. It is a detailed industry analysis rather than a general overview.
 
-> **Editorial summary:** Seaqual is a Spanish-founded initiative that collects marine litter from fishing fleets and coastal communities worldwide and converts it into certified recycled textile materials for the fashion industry. This piece examines its full industrial structure: how plastic is recovered and processed, the precise blend ratios in its yarn products (10% marine plastic, 90% land-based rPET), the life cycle assessment data showing a 37% reduction in carbon emissions vs virgin polyester, and the end-of-life pathways including textile-to-textile chemical recycling. It is a detailed industry analysis rather than a general overview.
-
-## Seaqual to remove plastic from the Ocean and turn it into fashion
-==*Source: www.seaqual.org* ==
+W: www.seaqual.org
  
 
----
 # The Problem
-## TODAY 4.6 BILLION TONS OF PLASTIC IS EITHER IN LANDFILL OR OUR ENVIRONMENT
+
+> TODAY 4.6 BILLION TONS OF PLASTIC IS EITHER IN LANDFILL OR OUR ENVIRONMENT
 
 Production of plastics is growing exponentially. 14 million tons end up in the ocean every year. and ending up in…
 
