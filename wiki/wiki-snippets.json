@@ -106,16 +106,6 @@
     ]
   },
   {
-    "slug": "draft-facts-about-circular-economy",
-    "filename": "circularity-waste/DRAFT - FACTS about Circular Economy.md",
-    "label": "FACTS about Circular Economy",
-    "summary": "How much more do we consume than earth can provide, EU transition to Circular economy is behind schedule, There is a long way to go with Circular Economy, Strategic Foresight Board Report, An Irish Waste Action Plan, Sharing is on the rise - the Library of Things, UPDATES, New Law 'right to repair' passed by European Parlement, New EU rule targeting Textile and Food Waste, EU Targets don't properly reflect e0waste recycling efforts, sharing is expanding at an unprecedented pace, increased by 70%, 1.325 stations, 350,000 users, What’s next",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity"
-    ]
-  },
-  {
     "slug": "draft-facts-about-e-waste",
     "filename": "circularity-waste/DRAFT - FACTS about E-Waste.md",
     "label": "FACTS about E-Waste",
@@ -243,6 +233,14 @@
     "filename": "circularity-waste/Divert your food waste from landfill - the benefit of composting.md",
     "label": "Divert your food waste from landfill by implementing a home compost system",
     "summary": "|-",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
+    "slug": "facts-about-circular-economy",
+    "filename": "circularity-waste/FACTS about Circular Economy.md",
+    "label": "The Circular Economy: A Different Way of Thinking About Stuff",
+    "summary": "The circular economy offers an alternative to the linear model of take, make, dispose, keeping products and materials in use for as long as possible. It is a central pillar of the EU's climate strategy, yet progress has been slow. The EU's circularity rate stood at just 12.2% in 2024, against a 2030 target of 24%. New legislation, including the Right to Repair Directive, rules on textile and food waste, and the forthcoming Circular Economy Act, is pushing the transition forward. But financing gaps, uneven progress across member states, and persistent reliance on linear models mean the hard work is still ahead.",
     "category": "circularity-waste",
     "tags": []
   },
