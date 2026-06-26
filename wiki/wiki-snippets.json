@@ -1198,7 +1198,7 @@
     "slug": "draft-ireland-water-usage-and-water-management",
     "filename": "ireland-hub/DRAFT - IRELAND Water Usage and Water Management.md",
     "label": "Ireland Water Usage and Water Management",
-    "summary": "Ireland water quality, EPA water report, nitrates, phosphorous, rivers, lakes, nutrient pollution, agriculture runoff, wastewater, Lough Neagh, algae bloom, zebra mussels, climate change water, freshwater, flooding, water supply, biological quality, Ballyteigue Bannow, water management, water scarcity",
+    "summary": "Ireland water quality, EPA water report, nitrates, phosphorous, rivers, lakes, nutrient pollution, agriculture runoff, wastewater, Lough Neagh, algae bloom, zebra mussels, climate change water, freshwater, flooding, water supply, biological quality, Ballyteigue Bannow, water management, water scarcity, Dublin water supply, River Shannon, Uisce Éireann, Water Supply Project, Parteen Basin, Lough Derg, pipeline, leakage, climate resilient infrastructure, Greater Dublin",
     "category": "ireland-hub",
     "tags": [
       "ireland",
@@ -2393,6 +2393,14 @@
     "slug": "drawdown-ocean-climate-solutions-2026",
     "filename": "sources/drawdown-ocean-climate-solutions-2026.md",
     "label": "What floats and what sinks when it comes to ocean-based climate solutions?",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "dublin-water-supply-shannon-2026",
+    "filename": "sources/dublin-water-supply-shannon-2026.md",
+    "label": "dublin-water-supply-shannon-2026",
     "summary": "",
     "category": "",
     "tags": []
