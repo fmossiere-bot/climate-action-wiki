@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-26
+Last updated: 2026-06-28
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -47,6 +47,9 @@ Summaries of every ingested source file.
 | [[indirect-greenhouse-gases-newscientist-2026]] | New Scientist (Jun 2026): CO, VOCs and black carbon — "forgotten" indirect GHGs — have caused 15% of warming; absent from Paris Agreement action plans |
 | [[food-waste-saf-illinois-2026]] | TechXplore / Nature Sustainability (Jun 2026): food waste → SAF via hydrothermal liquefaction; simpler refining, 50-50 blend meets ASTM standards; negative carbon lifecycle |
 | [[dublin-water-supply-shannon-2026]] | RTÉ (Jun 2026): Dublin water demand on a "knife edge" — Uisce Éireann's Shannon diversion project to supply up to 50% of Ireland's population; planning submitted Dec 2025 |
+| [[ireland-datacentre-boom-2026]] | Irish Independent (Jun 2026): 107 data centres operating in Ireland, 1.3 GW, €18.5bn invested; EirGrid forecasts 31% of electricity by 2034; new CRU rules lift moratorium with 80% renewables requirement |
+| [[crypto-quantum-newscientist-2026]] | New Scientist (Jun 2026): D-Wave quantum computer mines Quip blockchain 100× more efficiently than conventional machines — 12.5W vs 1,334W — wins 92% of blocks competed for |
+| [[solar-peatland-newscientist-2026]] | New Scientist (Jun 2026): solar farm on rewetted German peatland boosts bird biodiversity — triple win of income, carbon and nature; but drained-peat solar can emit more than it saves |
 
 ---
 
@@ -348,6 +351,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about Wetlands | Wetland ecosystems and climate |
 | FACTS about the Ocean | Ocean health data |
 | [[mangrove-forests-recovery]] | **NEW** — Mangrove forests staging a comeback: world gains more than it loses since 2010 |
+| [[solar-on-peatland]] | **NEW** — Solar farms on rewetted peatland: triple win of clean energy, carbon storage and biodiversity — but drained-peat solar can be a net carbon emitter |
 | [[Ocean Based Climate Solutions]] | **NEW** — Ocean climate solutions ranked: offshore wind top, coastal wetland protection strong, novel mCDR uncertain, some not recommended |
 | OCEAN - Book Notes | Book notes on ocean ecosystems |
 | [[why-bees-matter]] | **NEW** — Why bees matter: pollinators, food system dependence, rooftop hive myths, what actually helps |

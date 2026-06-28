@@ -64,7 +64,7 @@ This has serious implication as this wasted food is:
 - US compost rate is at 38%, way below the EU (57%)
 ###### In Ireland, we know that Waste in general is responsible for 1.4% of all GHG emissions. 
 
-> Reducing Food Waste is a major bet. Actually, it is the top solution according to [[DRAFT - Reduced Food Waste - Project Drawdown 1]] which could multisolve both our challenge to feed humans on the planet and reduce emissions by more than 80GT by 2050. Combined with more plant-based diet [[Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate]] and using the remaining waste to produce energy [[DRAFT - Waste to Energy - Project Drawdown 58]], the argument could be made that no food should go to Waste anymore
+> Reducing Food Waste is a major bet. Actually, it is the top solution according to [[DRAFT - Reduced Food Waste - Project Drawdown 1]] which could multisolve both our challenge to feed humans on the planet and reduce emissions by more than 80GT by 2050. Combined with more plant-based diet [[Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate]] and using the remaining waste to produce energy [[Waste to Energy -Why Burning Rubbish Might Not a Climate Solution**]], the argument could be made that no food should go to Waste anymore
 
 #ireland 
 ###### The EPA estimates that Ireland generated 753,000 tonnes of food waste in 2021, and the government has agreed to reduce food waste by 50% by 2030 (https://www.epa.ie/our-services/monitoring--assessment/waste/national-waste-statistics/food/)

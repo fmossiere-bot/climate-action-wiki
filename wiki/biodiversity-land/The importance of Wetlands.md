@@ -8,8 +8,8 @@ tags:
   - biodiversity
   - climate-change
 created: 2025-06-01
-updated: 2026-06-12
-summary: Wetlands and Ireland, Wetlands made more salty from rising Sea-Level, About Peatland, About Marshland in England to protect from Floods, Mangroves, Peatlands, Marshes, Swamps, Floodplains and the EU nature low, biodiversity plan and wetland restoration plan
+updated: 2026-06-28
+summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions"
 ---
 
 
@@ -103,6 +103,14 @@ Ireland was one of the countries that helped get the Nature Restoration Law pass
 > 3. Manage the water, mainly how wet the peat is, but also water quality and run-off.
 > 
 > Rewetting is the key step. In the UK, restoration has worked by blocking thousands of kilometres of drainage ditches, lowering grazing pressure, and stopping burning. Removing trees from drained sites has also worked where the natural water flow could be brought back.
+
+## Solar farms on rewetted peatland
+
+A 2026 study from the University of Greifswald found that placing solar panels on **rewetted** peatland can deliver a triple benefit: clean electricity income for landowners, carbon sequestration from the restored peat, and better biodiversity than the drained farmland it replaces. A 30-hectare pilot site in northern Germany run by Wattmanufactur attracted both wetland and woodland bird species absent from nearby hay fields, including the threatened meadow pipit.
+
+The key word is rewetted. Solar farms on peat that is still drained can release more greenhouse gases from microbial decomposition than their electricity displaces. Of 165 solar farms on degraded German peatlands, only five are on genuinely rewetted peat. Germany has barred degraded-peat solar from minimum guaranteed electricity prices since 2023, but disclosure is not yet mandatory.
+
+See [Solar Farms on Peatland: A Triple Win — If Done Right](../biodiversity-land/solar-on-peatland.md) for the full analysis.
 
 ## Sources
 

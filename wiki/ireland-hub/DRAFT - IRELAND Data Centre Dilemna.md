@@ -8,8 +8,8 @@ tags:
   - energy-transition
   - water-footprint
 created: 2026-06-01
-updated: 2026-06-01
-summary: Ireland & Data Centres, Ireland is one of the hot spot for new data centres, how much is AI responsible for the current rush in building new datacentres What is it in the context of limiting emissions, What about ICELAND as the new Eldorado for Data CEnters, Renewable Energy, Natural Cooling, Stability, Connectivity, Competitive Costs, Government Support, Market Response, Article on WDHT, Quantitative Forecasts (Goldman Sachs), 165% increase in data center power demand by 2030, Short-term, 50% by 2027, 7,000 of the world’s 8,808, 14% of total emissions by 2040, 165% by 2030, 300% more power, 27% by 2027, 18% of our national electricity, data centres are eating our renewable energy progress, 5,800 MW of power, nearly 7,000 of the world's 8,808 data centres, four years or more, Direct use, Indirect use, datacentres, datacenters, datacenter, datacentre, data centre.
+updated: 2026-06-28
+summary: "Ireland data centres, data center, datacentre, digital infrastructure, hyperscale, AWS, Microsoft, Google, Meta, EirGrid, electricity demand, CRU connection policy, renewable energy rules, moratorium, planning permission, Bitpower, IDA, AI hardware, Taiwan imports, hidden tax, household bills, 107 facilities, 1.3GW, 18.5bn invested, 31% electricity by 2034, energy neutrality, environmental challenge, High Court, Jevons Paradox, water footprint, grid congestion, fossil fuels"
 ---
 # Why the discussion around AI and Datacentres matter? 
 AI, software, and climate don’t play well together in terms of carbon footprint and water waste. With nearly 4% of emissions stemming from software today, research is forecasting that number will climb to **14% of total emissions by 2040**, primarily due to AI ([Harvard Business Review, 2020](https://hbr.org/2020/09/how-green-is-your-software)). Yet, there’s plenty of evidence that AI is pivotal in strengthening businesses’ resilience to climate change while benefiting the bottom line. Some examples include predicting extreme weather events and impacts on a company, optimizing supply chains to reduce carbon footprint, and identifying new environmentally friendly, inclusive, and profitable solutions ([Economist Impact](https://impact.economist.com/perspectives/sustainability/green-intelligence-ai-could-boost-efforts-fight-climate-change), 2021). Mitigating and adapting to climate change are challenging, as they require _rapid, sustained, equitable, and scientifically informed efforts_ ([Climate Change AI](https://www.climatechange.ai/about)), and AI is good at addressing complex challenges rapidly."* (from Marine post on Linkedin)
@@ -127,3 +127,27 @@ Looking ahead: households face a further **€295–€644 cumulative increase f
 The industry disputed the findings, pointing to €18 billion in investment and the fact that new data centres must source 80% of their energy from additional renewables — the strictest rule in Europe. Beyond Fossil Fuels argues Ireland's experience is *"a warning for Europe: letting big tech expand datacentres unchecked will have massive ripple effects on the economy and European households."*
 
 *Source: [ireland-datacentre-hidden-tax-2026](../sources/ireland-datacentre-hidden-tax-2026.md) — The Guardian, Rory Carroll, 28 May 2026*
+
+---
+
+## ✅ Update: The Scale of the Sector (June 2026)
+
+The latest Bitpower analysis (June 2026) gives the clearest picture yet of where Ireland's data centre sector actually stands.
+
+**The numbers:**
+- **107 data centres** now operating across Ireland, run by 32 operators
+- A further 9 are under construction; 43 have planning permission — potential total of ~160
+- Combined IT load: **1.3 GW**
+- Hyperscale operators (AWS, Microsoft, Google, Meta) account for ~75% of total computing capacity
+- Total investment to date: **€18.5bn**
+- EirGrid median forecast: data centres will use **31% of all national electricity by 2034** (up from 22% in 2024)
+
+**The policy shift:** In December 2025, the Commission for Regulation of Utilities (CRU) lifted the effective moratorium on new data centre grid connections in the Greater Dublin area — a ban that had been in place for roughly five years. New data centres can now connect provided they: (1) become energy neutral after six years — meaning they must build on-site power generation; and (2) source 80% of electricity from renewables. The 80% renewable requirement is the strictest in Europe.
+
+Three environmental groups have been granted High Court permission to challenge these new rules, arguing that the six-year fossil fuel window is too permissive.
+
+**The AI hardware signal:** Central Bank of Ireland figures show AI and data centre hardware imports from Taiwan quadrupled in six months — from €0.5bn (Q3 2025) to €2.2bn (Q1 2026). A small number of multinationals are driving this surge.
+
+Despite its scale, there is still **no official census of data centres in Ireland**.
+
+*Source: [ireland-datacentre-boom-2026](../sources/ireland-datacentre-boom-2026.md) — Irish Independent, John Burns, 26 June 2026*

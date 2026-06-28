@@ -7,8 +7,8 @@ tags:
   - finance
   - carbon-footprint
 created: 2024-06-01
-updated: 2026-06-01
-summary: Why is Kazaksthan 18% of the mining industry, 1. Abundant and Cheap Energy Supply, 2. Favorable Regulatory Environment, 3. Geographical and Climatic Conditions, 4. Political Stability and Strategic Location, 5. Growing Infrastructure for Mining, Challenges and Considerations, Other Sources, Bitcoin Infographic, Abundant and Cheap Energy Supply, Favorable Regulatory Environment, Geographical and Climatic Conditions, Political Stability and Strategic Location, Growing Infrastructure for Mining, bitcoin, the impact of cryptocurrencies on the environment, where crypto mining happens, the water footprint of mining crypto
+updated: 2026-06-28
+summary: "cryptocurrency, bitcoin, proof-of-work, crypto mining, energy use, carbon footprint, water footprint, e-waste, Kazakhstan, China ban, Venezuela, quantum computing, D-Wave, Advantage2, Quip blockchain, Postquant Labs, quantum proof-of-work, optimisation, energy efficiency, quantum-safe, blockchain encryption, ASIC waste, mining hardware, fossil fuels, renewable energy, IMF, global emissions"
 ---
 
 ## What is cryptocurrency mining, and why does it matter?
@@ -113,6 +113,22 @@ On waste: mining relies on specialised hardware called ASICs that become unprofi
 **BODY:**
 
 E-waste is not a benign problem. Many of the materials in mining hardware — lead, cadmium, lithium — are toxic. Less than 20% of global e-waste is currently recycled, and mining hardware is largely single-purpose, meaning few components can be repurposed.
+
+## 2026 Update: Can Quantum Computing Clean Up Crypto Mining?
+
+A 2026 experiment suggests quantum computers could one day slash the energy cost of cryptocurrency mining, though significant caveats remain.
+
+Colton Dillion at Postquant Labs set up an experimental blockchain called **Quip**, running since April 2026. Unlike Bitcoin's proof-of-work, which involves brute-force mathematical racing, Quip's validation task is an **optimisation problem** — the kind of complex scheduling or portfolio calculation that quantum computers are better suited to than conventional machines. A D-Wave Advantage2 quantum computer joins the network alongside ordinary computers to compete for blocks.
+
+The preliminary results are striking. Although Advantage2 is only available for about five minutes a day, it wins **92% of the blocks it competes for**. More importantly, it does so using roughly **12.5 watts** compared to approximately **1,334 watts** for a conventional machine tackling the same problem — about **100 times less power**. A conventional machine capable of beating Advantage2 would need around **300 times** more power than the quantum machine uses.
+
+This points to a potential future where proof-of-work cryptocurrencies shift from energy-intensive brute-force computation to optimisation problems that quantum hardware can solve far more efficiently. Quip is also designed to be quantum-safe from the start, unlike most existing blockchains whose encryption could eventually be broken by sufficiently powerful quantum computers.
+
+**The caveats matter:** Olivier Ezratty of the Quantum Energy Initiative points out that the capital and manufacturing costs of building and maintaining quantum hardware are very high, and energy savings per computation may not translate into lower total energy costs at scale. The experiment is also tiny — a single machine, a few minutes a day. Scaling this to a real financial network is a different challenge entirely.
+
+*Source: [crypto-quantum-newscientist-2026](../sources/crypto-quantum-newscientist-2026.md) — New Scientist, Karmela Padavic-Callaghan, 12 June 2026*
+
+---
 
 ## Further Reading and Sources
 - [supporting waste claim](https://www.sciencedirect.com/science/article/abs/pii/S0921344921005103 )

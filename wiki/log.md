@@ -4,6 +4,70 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-28 ingest | Ireland Data Centre Boom — 107 Facilities, €18.5bn Invested
+
+**Source file:** `raw/articles/Data-centre boom sees 107 facilities now operating in Ireland, with €18.5bn invested.md`
+**Original source:** Irish Independent, John Burns, 26 June 2026 — https://www.independent.ie/irish-news/data-centre-boom-sees-107-facilities-now-operating-in-ireland-with-18.5bn-invested/a/157776762.html
+
+**What was done:**
+- Created source summary: `wiki/sources/ireland-datacentre-boom-2026.md`
+- Updated existing page: `wiki/ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md` — added "The Scale of the Sector (June 2026)" section with latest Bitpower figures and new CRU policy; updated frontmatter summary and date
+- Updated `wiki/index.md`
+
+**Key content added:**
+- 107 data centres operating in Ireland (up from ~82); 9 under construction; 43 with planning permission
+- Combined IT load: 1.3 GW; hyperscalers = ~75% of capacity; total investment €18.5bn
+- EirGrid median forecast: 31% of national electricity by 2034 (up from 22% in 2024)
+- CRU moratorium lifted December 2025; new rules: 80% renewables + energy neutral after 6 years
+- Three environmental groups challenging new rules in High Court over six-year fossil fuel window
+- AI hardware imports from Taiwan quadrupled in six months (€0.5bn → €2.2bn)
+
+---
+
+## 2026-06-28 ingest | Quantum Computer Mines Cryptocurrency With 100× Less Energy
+
+**Source file:** `raw/papers/Crypto-Quantum.pdf`
+**Original source:** New Scientist, Karmela Padavic-Callaghan, 12 June 2026 (updated 24 June 2026)
+
+**What was done:**
+- Created source summary: `wiki/sources/crypto-quantum-newscientist-2026.md`
+- Updated existing page: `wiki/sectors/digital/Cryptocurrency and the environment.md` — added "2026 Update: Can Quantum Computing Clean Up Crypto Mining?" section; updated frontmatter summary and date
+- Updated `wiki/index.md`
+
+**Key content added:**
+- D-Wave Advantage2 quantum computer mining Quip experimental blockchain (Postquant Labs)
+- Uses optimisation proof-of-work problem rather than brute-force — suited to quantum machines
+- Wins 92% of blocks it competes for (available only ~5 min/day); uses 12.5W vs 1,334W for conventional machine (~100× less power)
+- A conventional machine to beat it would need ~300× the power
+- Quip designed quantum-safe; most existing blockchains are not
+- Caution: capital/manufacturing costs of quantum hardware may offset per-computation energy gains
+- Longer-term vision: distributed worldwide quantum computer network via Quip
+
+---
+
+## 2026-06-28 ingest | Wildlife Thrives in Solar Farm Built on Restored Peatland
+
+**Source file:** `raw/papers/nS-solar.pdf`
+**Original source:** New Scientist, Alec Luhn, 8 June 2026 (updated 23 June 2026)
+**Peer-reviewed study:** Ecological Solutions and Evidence, Hanna Rae Martens et al. — DOI: 10.1002/2688-8319.70259
+
+**What was done:**
+- Created source summary: `wiki/sources/solar-peatland-newscientist-2026.md`
+- Created new wiki page: `wiki/biodiversity-land/solar-on-peatland.md`
+- Updated existing page: `wiki/biodiversity-land/The importance of Wetlands.md` — added "Solar farms on rewetted peatland" section with link to new page; updated frontmatter summary and date
+- Updated `wiki/index.md`
+
+**Key content added:**
+- Solar farm on rewetted peatland (Wattmanufactur, 30 ha, northern Germany) found to host more diverse bird species than nearby hay fields
+- Wetland and woodland species attracted (white wagtail, reed bunting, grey heron, kestrel, buzzard); threatened meadow pipit also recorded
+- Peatlands hold twice as much carbon as all forests; 95% of German and 80% of UK peatlands degraded
+- Critical distinction: solar on drained (not rewetted) peat can release more GHGs than it displaces — some of 165 German peatland solar farms are net emitters
+- Only 5 solar farms in Germany currently on rewetted peatland
+- UK has restored only 2,500 km² — one-tenth of damaged area; Germany less
+- Government incentives needed to scale peatland PV beyond pilot sites
+
+---
+
 ## 2026-06-26 ingest | Greater Dublin Water Supply on a "Knife Edge"
 
 **Source file:** `raw/articles/Greater Dublin water supply 'on knife edge', cttee told.md`
