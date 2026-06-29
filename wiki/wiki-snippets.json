@@ -66,7 +66,7 @@
     "slug": "the-importance-of-wetlands",
     "filename": "biodiversity-land/The importance of Wetlands.md",
     "label": "The importance of Wetlands",
-    "summary": "Wetlands and Ireland, Wetlands made more salty from rising Sea-Level, About Peatland, About Marshland in England to protect from Floods, Mangroves, Peatlands, Marshes, Swamps, Floodplains and the EU nature low, biodiversity plan and wetland restoration plan",
+    "summary": "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions",
     "category": "biodiversity-land",
     "tags": []
   },
@@ -85,6 +85,20 @@
     "summary": "mangroves, mangrove forests, coastal ecosystems, carbon storage, blue carbon, coastal protection, storm surge, tsunami, Indonesia, Myanmar, Niger Delta, Africa, deforestation, fish farms, aquaculture, habitat restoration, natural regeneration, Landsat satellite, closed canopy, net gain, oil pollution, tropical cyclones, biodiversity, marine nursery, carbon sink",
     "category": "biodiversity-land",
     "tags": []
+  },
+  {
+    "slug": "solar-on-peatland",
+    "filename": "biodiversity-land/solar-on-peatland.md",
+    "label": "Solar Farms on Peatland: A Triple Win — If Done Right",
+    "summary": "solar farm, peatland, rewetted peat, peatland restoration, biodiversity, bird species, Wattmanufactur, Germany, agrivoltaics, peatland PV, photovoltaics, carbon store, drained peat, greenhouse gas, carbon emissions, meadow pipit, wetland birds, Greifswald, Hanna Rae Martens, Catherine Waite, Cambridge, triple win, energy generation, habitat restoration, carbon sequestration, UK peatland, German peatland",
+    "category": "biodiversity-land",
+    "tags": [
+      "renewables",
+      "wetlands",
+      "biodiversity",
+      "nature-based-solutions",
+      "energy"
+    ]
   },
   {
     "slug": "why-bees-matter",
@@ -129,18 +143,6 @@
     ]
   },
   {
-    "slug": "draft-landfill-methane-capture-project-drawdown-56",
-    "filename": "circularity-waste/DRAFT - Landfill Methane Capture - Project Drawdown 56.md",
-    "label": "Landfill Methane Capture (Project Drawdown #56)",
-    "summary": "SCENARIOS, Interest for farmers - new revenue stream",
-    "category": "circularity-waste",
-    "tags": [
-      "methane",
-      "circularity",
-      "carbon"
-    ]
-  },
-  {
     "slug": "draft-recycling-project-drawdown-42",
     "filename": "circularity-waste/DRAFT - Recycling - Project Drawdown 42.md",
     "label": "Recycling (Project Drawdown #42)",
@@ -173,18 +175,6 @@
     "tags": [
       "fashion",
       "circularity"
-    ]
-  },
-  {
-    "slug": "draft-waste-to-energy-project-drawdown-58",
-    "filename": "circularity-waste/DRAFT - Waste to Energy - Project Drawdown 58.md",
-    "label": "Waste to Energy (Project Drawdown #58)",
-    "summary": "Example in application - Copenhill community building, Another Example of waste-energy in Ireland",
-    "category": "circularity-waste",
-    "tags": [
-      "circularity",
-      "methane",
-      "carbon"
     ]
   },
   {
@@ -1118,7 +1108,7 @@
     "slug": "draft-ireland-data-centre-dilemna",
     "filename": "ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md",
     "label": "Ireland Data Centre Dilemma",
-    "summary": "Ireland & Data Centres, Ireland is one of the hot spot for new data centres, how much is AI responsible for the current rush in building new datacentres What is it in the context of limiting emissions, What about ICELAND as the new Eldorado for Data CEnters, Renewable Energy, Natural Cooling, Stability, Connectivity, Competitive Costs, Government Support, Market Response, Article on WDHT, Quantitative Forecasts (Goldman Sachs), 165% increase in data center power demand by 2030, Short-term, 50% by 2027, 7,000 of the world’s 8,808, 14% of total emissions by 2040, 165% by 2030, 300% more power, 27% by 2027, 18% of our national electricity, data centres are eating our renewable energy progress, 5,800 MW of power, nearly 7,000 of the world's 8,808 data centres, four years or more, Direct use, Indirect use, datacentres, datacenters, datacenter, datacentre, data centre.",
+    "summary": "Ireland data centres, data center, datacentre, digital infrastructure, hyperscale, AWS, Microsoft, Google, Meta, EirGrid, electricity demand, CRU connection policy, renewable energy rules, moratorium, planning permission, Bitpower, IDA, AI hardware, Taiwan imports, hidden tax, household bills, 107 facilities, 1.3GW, 18.5bn invested, 31% electricity by 2034, energy neutrality, environmental challenge, High Court, Jevons Paradox, water footprint, grid congestion, fossil fuels",
     "category": "ireland-hub",
     "tags": []
   },
@@ -1500,7 +1490,7 @@
     "slug": "cryptocurrency-and-the-environment",
     "filename": "sectors/digital/Cryptocurrency and the environment.md",
     "label": "Cryptocurrency and the Environment",
-    "summary": "Why is Kazaksthan 18% of the mining industry, 1. Abundant and Cheap Energy Supply, 2. Favorable Regulatory Environment, 3. Geographical and Climatic Conditions, 4. Political Stability and Strategic Location, 5. Growing Infrastructure for Mining, Challenges and Considerations, Other Sources, Bitcoin Infographic, Abundant and Cheap Energy Supply, Favorable Regulatory Environment, Geographical and Climatic Conditions, Political Stability and Strategic Location, Growing Infrastructure for Mining, bitcoin, the impact of cryptocurrencies on the environment, where crypto mining happens, the water footprint of mining crypto",
+    "summary": "cryptocurrency, bitcoin, proof-of-work, crypto mining, energy use, carbon footprint, water footprint, e-waste, Kazakhstan, China ban, Venezuela, quantum computing, D-Wave, Advantage2, Quip blockchain, Postquant Labs, quantum proof-of-work, optimisation, energy efficiency, quantum-safe, blockchain encryption, ASIC waste, mining hardware, fossil fuels, renewable energy, IMF, global emissions",
     "category": "sectors",
     "tags": []
   },
@@ -1656,6 +1646,14 @@
     "tags": []
   },
   {
+    "slug": "waste-to-energy-why-burning-rubbish-might-not-a-climate-solution",
+    "filename": "sectors/energy/Waste to Energy -Why Burning Rubbish Might Not a Climate Solution**.md",
+    "label": "Waste to Energy: Why Burning Rubbish Might Not a Climate Solution",
+    "summary": "Waste to energy plants burn waste to generate electricity and heat. The concept seems practical, but Project Drawdown rates it as \"not recommended\" as a climate solution. Incineration produces greenhouse gas emissions, is less efficient than most alternatives, and creates a structural dependency on waste production that runs counter to circular economy principles. Some EU countries already import waste to keep their plants running. Air pollution and environmental justice concerns add to the problems. Pyrolysis and gasification, which convert waste using heat without direct combustion, perform significantly better. Incineration may have a residual role for hazardous waste, but it is not a credible path to emissions reduction.",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
     "slug": "what-is-jevons-paradox",
     "filename": "sectors/energy/What is JEVONS Paradox.md",
     "label": "What is Jevons Paradox",
@@ -1751,6 +1749,14 @@
     "label": "The Environmental Impact of Car Tyres",
     "summary": "How about the impact of your tyres, Environmental Impact, CO2-e Impact, Update on Michelin Sustainability Goals, Resource Consumption, Energy Use and Emissions, Pollution, Waste and Disposal Issues, Tyre Burning, Microplastics and Particulate Emissions, Water Runoff, Innovation and Sustainability Efforts, Manufacturing Emissions, Raw Material Extraction, Transport Emissions, End-of-Life Emissions, Lifecycle Emissions, Innovations to Reduce CO2",
     "category": "sectors",
+    "tags": []
+  },
+  {
+    "slug": "landfill-methane-capture",
+    "filename": "solutions/Landfill Methane Capture.md",
+    "label": "Landfill Methane to energy conversion",
+    "summary": "|-",
+    "category": "circularity-waste",
     "tags": []
   },
   {
@@ -2377,6 +2383,14 @@
     "tags": []
   },
   {
+    "slug": "crypto-quantum-newscientist-2026",
+    "filename": "sources/crypto-quantum-newscientist-2026.md",
+    "label": "crypto-quantum-newscientist-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "data-centers-environmental-footprint-us-2021",
     "filename": "sources/data-centers-environmental-footprint-us-2021.md",
     "label": "The Environmental Footprint of Data Centers in the United States",
@@ -2482,6 +2496,14 @@
     "tags": []
   },
   {
+    "slug": "ireland-datacentre-boom-2026",
+    "filename": "sources/ireland-datacentre-boom-2026.md",
+    "label": "ireland-datacentre-boom-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "ireland-datacentre-hidden-tax-2026",
     "filename": "sources/ireland-datacentre-hidden-tax-2026.md",
     "label": "Source: 'Hidden datacentre tax' costing Irish households millions, report says",
@@ -2546,6 +2568,14 @@
     "filename": "sources/sitka-spruce-greenwashing-ireland-2026.md",
     "label": "Wildlife experts call for 'misleading' timber industry book to be removed from schools",
     "summary": "What this source covers, Main arguments, Wiki pages informed by this source, Morgan Sindall Construction, Society of Irish Foresters, Irish Timber Council, SEEFA, Michael Healy-Rae, ecological dead zones, bogs that would store far more carbon if left intact, Department of Education, greenwashing in education, commercial Sitka plantations, biodiversity/native woodland",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "solar-peatland-newscientist-2026",
+    "filename": "sources/solar-peatland-newscientist-2026.md",
+    "label": "solar-peatland-newscientist-2026",
+    "summary": "",
     "category": "",
     "tags": []
   },
