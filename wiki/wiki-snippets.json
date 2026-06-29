@@ -478,7 +478,7 @@
     "slug": "wildfires-climate-feedback",
     "filename": "climate-science/wildfires-climate-feedback.md",
     "label": "Wildfires as a Climate Feedback",
-    "summary": "wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record",
+    "summary": "wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record, UK heatwave 2026, red warning, Derbyshire wildfire, 35°C, temperate country, June 2026, Met Office, record heat, European heatwave 40°C, Germany, Poland",
     "category": "climate-science",
     "tags": []
   },
@@ -1352,7 +1352,7 @@
     "slug": "environmental-impact-of-football-world-cups",
     "filename": "sectors/Environmental Impact of football world cups.md",
     "label": "Environmental Impact of Football World Cups",
-    "summary": "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034",
+    "summary": "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes",
     "category": "sectors",
     "tags": [
       "sport",
@@ -2493,6 +2493,14 @@
     "tags": []
   },
   {
+    "slug": "infantino-private-jet-bbc-2026",
+    "filename": "sources/infantino-private-jet-bbc-2026.md",
+    "label": "infantino-private-jet-bbc-2026",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "ireland-datacentre-boom-2026",
     "filename": "sources/ireland-datacentre-boom-2026.md",
     "label": "ireland-datacentre-boom-2026",
@@ -2611,6 +2619,14 @@
     ]
   },
   {
+    "slug": "uk-heatwave-june-2026-guardian",
+    "filename": "sources/uk-heatwave-june-2026-guardian.md",
+    "label": "uk-heatwave-june-2026-guardian",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "un-world-ocean-assessment-2026",
     "filename": "sources/un-world-ocean-assessment-2026.md",
     "label": "Severe' stress on oceans as rate of sea level rise doubles in 10 years, UN warns",
@@ -2673,25 +2689,12 @@
     "tags": []
   },
   {
-    "slug": "draft-b-corp-certification",
-    "filename": "standards-labels/DRAFT - B Corp Certification.md",
-    "label": "B Corp Certification",
-    "summary": "PATHWAY TO CERTIFICATION, How to become B Corp Certified, What we measure as part of the B Impact Assessment, Your company's governance, How your company treats its workers, Your impact on the community, Your company's impact on the environment, Your company's customers, Its use is growing fast in France, B Corp IRELAND, high, social and environmental, performance, legal commitment, transparency, Meet the, legal accountability requirement, for B Corp Certification, Complete and submit a prospective B Impact Assessment, B the Change",
+    "slug": "b-corp-certification",
+    "filename": "standards-labels/B Corp Certification.md",
+    "label": "B Corp Certification: What It Is, How It Works, and Why It Matters",
+    "summary": "B Corp certification is awarded by B Lab, a global non-profit, to companies that meet verified standards across governance, workers, community, environment, and customers. Companies must score at least 80 out of 200 on the B Impact Assessment, pass a verification review, and embed stakeholder accountability into their legal structure. Certification must be renewed every three years. Over 10,800 companies across 102 countries are now certified, including global brands such as Patagonia and Innocent Drinks. In Ireland, the movement has grown rapidly since its first certification in 2018, with over 90 companies now certified and state funding available to support the process through Enterprise Ireland.",
     "category": "standards",
-    "tags": [
-      "esg",
-      "cool-companies"
-    ]
-  },
-  {
-    "slug": "draft-ecovadis",
-    "filename": "standards-labels/DRAFT - Ecovadis.md",
-    "label": "Ecovadis",
-    "summary": "What is Ecovadis, Ecovadis certifications, The Process, Medals, The Subscriptions, EcoVadis methodology",
-    "category": "standards",
-    "tags": [
-      "esg"
-    ]
+    "tags": []
   },
   {
     "slug": "draft-fsc-standard-for-forest-certification",
@@ -2714,17 +2717,6 @@
     "tags": [
       "carbon-offset",
       "esg"
-    ]
-  },
-  {
-    "slug": "draft-list-of-standards-labels",
-    "filename": "standards-labels/DRAFT - List of Standards & Labels.md",
-    "label": "List of Standards and Labels",
-    "summary": "Standards in Ireland, Construction Labels, Food Labels - The Marine Stewardship Council MSC Blue",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "ireland"
     ]
   },
   {
@@ -2831,6 +2823,22 @@
     "filename": "standards-labels/Ecobalyse is a new eco-score for Food and Fashion.md",
     "label": "Ecobalyse: France's Environmental Score for Products",
     "summary": "Ecobalyse is a free, open-source tool developed by the French government to calculate the environmental impact of products sold in France. It uses life cycle assessment methodology across 16 indicators, including carbon emissions, water use, and microplastic pollution, to produce a single \"environmental cost\" score. Currently focused on clothing and food, it is the official reference tool under France's 2021 Climate and Resilience Law. From October 2026, any third party can publish a score on behalf of a brand that has not calculated its own. The tool is also being watched at European level as a potential model for EU-wide textile labelling by 2030.",
+    "category": "standards",
+    "tags": []
+  },
+  {
+    "slug": "ecovadis",
+    "filename": "standards-labels/Ecovadis.md",
+    "label": "EcoVadis: A Sustainability Rating for Your Supply Chain",
+    "summary": "What is Ecovadis, Ecovadis certifications, The Process, Medals, The Subscriptions, EcoVadis methodology. EcoVadis is a sustainability rating platform used by companies worldwide to assess and improve ESG performance across their supply chains. It covers four areas: environment, labour rights, ethics, and sustainable procurement. Companies complete a questionnaire, submit supporting documents, and receive a score out of 100 reviewed by EcoVadis analysts. High-performing companies are awarded a Bronze, Silver, Gold, or Platinum medal, reflecting their position relative to others in the database. The rating is not a product certification, but a measure of management quality. It is widely required by large buyers as part of supplier qualification, making it a practical standard for supply chain due diligence.",
+    "category": "standards",
+    "tags": []
+  },
+  {
+    "slug": "the-msc-blue-label-what-it-means-and-why-it-matters",
+    "filename": "standards-labels/The MSC Blue Label - What It Means and Why It Matters.md",
+    "label": "The MSC Blue Label: What It Means and Why It Matters",
+    "summary": "The Marine Stewardship Council (MSC) is a non-profit that certifies wild seafood fisheries against a set of environmental sustainability standards covering fish stock health, ecosystem impact, and fisheries management. Its distinctive blue label appears on over 20,000 products worldwide. Certification is carried out by independent third-party auditors, not the MSC itself, and involves scoring across 28 performance indicators. Fisheries are audited annually and must recertify every five years. The MSC label does not cover social conditions or carbon footprint, and has faced some criticism over conflicts of interest. It remains the most widely recognised and adopted standard for sustainable wild-catch seafood globally.",
     "category": "standards",
     "tags": []
   },
