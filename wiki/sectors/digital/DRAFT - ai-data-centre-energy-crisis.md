@@ -8,8 +8,8 @@ tags:
   - energy
   - united-kingdom
 created: 2026-06-06
-updated: 2026-06-06
-summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand
+updated: 2026-06-29
+summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling
 ---
 
 # AI Data Centres and the Energy Crisis
@@ -48,10 +48,22 @@ The mechanism is straightforward: data centres have high and inflexible electric
 
 Ireland requires new data centres to source 80% of their energy from additional renewable capacity — the strictest regime in Europe — but industry groups dispute the cost-to-households finding, citing economic contributions and corporate tax revenues.
 
+## Slough: a hyperscale heat island
+
+Reporting from the UK's June 2026 heatwave has added a new local dimension to the data centre debate: **the heat radiating from the clusters themselves**. Slough, 16 km west of Heathrow, hosts an estimated **30 to 40 large data centres totalling roughly 1 gigawatt of capacity** — Europe's largest hub — owned by operators like Equinix and Digital Realty and serving Amazon, Google, Oracle and Microsoft. Further expansion is already planned on the same campus.
+
+A preprint led by **Andrea Marinoni at the University of Cambridge** finds that data centres push up temperatures in their immediate surroundings by an **average of 2°C, and as much as 9°C**. The study controls for urbanisation and the climate crisis using decades of satellite data, and the effect is robust internationally (Brazil, Spain). Marinoni notes that his dataset covers an older generation of facilities — typically up to 100 MW — while Slough is about 10× that size: *"Slough is almost like an experiment by itself. The new investments in data centres are bringing to life a new generation of data centres."*
+
+On 24 June 2026, the weather station closest to the Slough tech park recorded **36.7°C**, several degrees hotter than other stations in the town. The pattern held through the week. Local residents describe the heat as "pinching your body" and have noticed the area running consistently warmer than nearby Windsor.
+
+The heat comes from the **cooling systems** that keep AI chips and dense server racks at safe operating temperatures: the energy used to chill the inside of the building is dumped outside as warm air. The UK government has proposed schemes to **recover that waste heat for district heating**, but at present it is largely vented to the atmosphere.
+
 ## Key facts
 
 - UK: 100+ gas connection requests from data centre operators, totalling **15+ TWh/year** — equivalent to powering London for 4.5 months.
 - UK: government revised AI emissions estimate from 0.142m to **34–123m tonnes CO₂ over 2025–35** — a 100× increase.
+- Slough hosts an estimated **30–40 data centres totalling roughly 1 GW**, making it the largest hub in Europe.
+- Cambridge research (Marinoni et al., 2026 preprint): data centres raise local temperatures by **2°C on average and up to 9°C** in their immediate vicinity.
 - Ireland: data centres used **22% of national electricity** in 2025 — more than all urban homes. 
 - Ireland: cumulative household bill increase from data centres: **€360 per household (2015–2023)**.
 - Ireland: proposed new data centres could need up to **5,800 MW** — almost equal to Ireland's entire peak demand of 6,000 MW.
@@ -68,3 +80,5 @@ Ireland requires new data centres to source 80% of their energy from additional 
 - The Guardian, Aisha Down, 18 May 2026 — https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity
 - The Guardian, Damien Gayle, 24 April 2026 — https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions
 - The Guardian, Rory Carroll, 28 May 2026 — https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity
+- The Guardian, Aisha Down, 26 June 2026 — https://www.theguardian.com/environment/2026/jun/26/slough-is-like-an-experiment-europes-largest-datacentre-hub-leaves-town-sweltering
+- Cambridge preprint, Marinoni et al., 2026 — https://arxiv.org/pdf/2603.20897

@@ -4,6 +4,47 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-29 ingest | Slough Datacentre Hub Adds a Local Heat Island
+
+**Source file:** `raw/articles/'Slough is like an experiment' Europe's largest datacentre hub leaves town sweltering.md`
+**Original source:** The Guardian, Aisha Down, 26 June 2026 — https://www.theguardian.com/environment/2026/jun/26/slough-is-like-an-experiment-europes-largest-datacentre-hub-leaves-town-sweltering
+**Cambridge preprint cited:** Marinoni et al., 2026 — https://arxiv.org/pdf/2603.20897
+
+**What was done:**
+- Created source summary: `wiki/sources/slough-datacentre-heat-island-2026.md`
+- Updated existing page: `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` — added "Slough: a hyperscale heat island" section; added Slough/Cambridge facts to the Key Facts list; updated frontmatter summary and date; added two new sources
+- Updated `wiki/index.md` — added source entry; updated description for the ai-data-centre-energy-crisis page
+
+**Key content added:**
+- Slough hosts 30–40 large data centres totalling ~1 GW — Europe's largest hub; tenants include Amazon, Google, Oracle, Microsoft
+- Cambridge preprint: data centres push up local temperatures by 2°C on average, up to 9°C; Slough not yet measured but "almost like an experiment by itself" because of its scale
+- 24 June 2026: 36.7°C at the weather station nearest the tech park — several degrees hotter than other Slough stations
+- Heat source is the cooling systems for AI chips; UK has proposed waste-heat district heating but most heat is currently vented
+- Reinforces the case for stricter siting standards and waste-heat recovery
+
+---
+
+## 2026-06-29 ingest | Swiss Glaciers Hit Second-Earliest "Glacier Loss Day" on Record
+
+**Source file:** `raw/articles/Swiss glaciers facing 'enormous' loss from heatwave.md`
+**Original source:** RTÉ News / AFP, 27 June 2026 — https://www.rte.ie/news/2026/0627/1580624-glaciers-heatwave/
+
+**What was done:**
+- Created source summary: `wiki/sources/swiss-glaciers-heatwave-2026.md`
+- Updated existing page: `wiki/climate-science/DRAFT - FACTS about Glacier.md` — added "June 2026: Swiss Alps Hit Second-Earliest Glacier Loss Day on Record" section with GLAMOS data; corrected frontmatter (quoted tags), added sources field, updated summary keywords and date; added Connected Topics and Sources sections
+- Updated `wiki/index.md` — added source entry; updated description for the FACTS about Glacier page
+
+**Key content added:**
+- 30 June 2026: snow accumulated during winter 2025–26 fully melted away — only 2022 (26 June) was earlier in 25 years of records
+- Three months earlier than a "healthy state"; average loss day this century is mid-August
+- Rhone Glacier: 1 metre of vertical ice loss in just 10 days during the heatwave
+- 25% less winter snowfall vs 2010–2020; March Saharan dust accelerated melt
+- Swiss glaciers shrank 38% in volume between 2000 and 2024; 1,200 glaciers lost in 50 years; only ~1,300 remain
+- If warming continues, only small remnants will exist by 2100
+- Threatens summer flow of the Rhine and Rhone — major water supply for Europe
+
+---
+
 ## 2026-06-29 ingest | FIFA President's Private Jet: 27 Flights, 516 Tonnes CO₂e in 16 Days
 
 **Source file:** `raw/articles/World Cup 2026 How Fifa president Gianni Infantino is jetting around.md`

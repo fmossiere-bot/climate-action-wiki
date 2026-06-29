@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-29
+Last updated: 2026-06-29 (PM)
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -52,6 +52,8 @@ Summaries of every ingested source file.
 | [[solar-peatland-newscientist-2026]] | New Scientist (Jun 2026): solar farm on rewetted German peatland boosts bird biodiversity — triple win of income, carbon and nature; but drained-peat solar can emit more than it saves |
 | [[infantino-private-jet-bbc-2026]] | BBC Verify (Jun 2026): FIFA president's private jet took 27 flights, 31,000+ miles in 16 days at the 2026 World Cup — ~516 tonnes CO₂e, equivalent to 78 people's annual footprint |
 | [[uk-heatwave-june-2026-guardian]] | Guardian opinion (Jun 2026): UK's first-ever three consecutive red heat warnings; Derbyshire wildfire; Europe at 40°C — alongside fossil-fuel-backed conference attacking climate action |
+| [[swiss-glaciers-heatwave-2026]] | RTÉ / AFP (Jun 2026): Swiss glaciers hit second-earliest "glacier loss day" on record — Rhone Glacier lost 1m of vertical ice in 10 days; 38% volume loss 2000–2024 |
+| [[slough-datacentre-heat-island-2026]] | Guardian (Jun 2026): Slough's 1 GW datacentre hub adds a local heat island — Cambridge research finds +2°C average, up to +9°C near clusters |
 
 ---
 
@@ -68,7 +70,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | Class 7 - Mental Models | Terra.do Class 7 notes |
 | Class 11 - En-ROADS | Climate policy simulator |
 | Energy 101 - Technical and Quantitative Basics | Quantitative energy fundamentals |
-| FACTS about Glacier | Glacier retreat data and impacts |
+| FACTS about Glacier | Glacier retreat data and impacts — **updated** with June 2026 GLAMOS data: second-earliest "glacier loss day" on record; Swiss glacier volume down 38% since 2000 |
 | How about Volcanoe's Sulphur impact | Volcanic cooling effects on climate |
 | IPCC 10 findings 2023 | Key IPCC AR6 findings |
 | Keynote Dr Chip FLETCHER | Sea level rise keynote |
@@ -214,7 +216,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
 | [[DRAFT - AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
-| [[DRAFT - ai-data-centre-energy-crisis]] | **NEW** — UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs |
+| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough hyperscale heat-island section (Cambridge research, +2°C avg, up to +9°C) |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
