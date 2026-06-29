@@ -2,13 +2,12 @@
 title: "Glaciers in Retreat: Facts, Risks, and What Can Be Done"
 category: biodiversity-land
 tags:
-  - science
-  - nature
-  - adaptation
-  - climate-change
-  - water
+  - "#science"
+  - "#nature"
+  - "#adaptation"
+  - "#water"
 created: 2025-09-01
-updated: 2026-06-21
+updated: 2026-06-29
 summary: |-
   Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, why glacier matters, gl;aciers and fresh water impact,There are around **192,870 glaciers** in the world. (Counts vary between scientific inventories. The UN and the World Meteorological Organisation cite more than 275,000.)
   - Mountain glaciers cover about **664,000 square kilometres**, which is roughly 1.2 times the size of France. This figure does not include the much larger polar ice caps.
@@ -63,9 +62,27 @@ The 1.5°C target is becoming very hard to keep. A recent report found that at t
 
 In the Alps, **80% of glaciers are at risk of disappearing by 2100**. In the summer of 2025, Mont Blanc began to thaw as early as June, with the freezing level (0°C) rising above 5,100 metres.
 
+#### June 2026: second-earliest "glacier loss day" on record
+
+The June 2026 European heatwave pushed Swiss glaciers into their second-worst year on record, behind only 2022. Matthias Huss, head of [GLAMOS](https://www.glamos.ch/) (Glacier Monitoring in Switzerland), reported that **all the snow accumulated during the winter of 2025–26 would have melted away by 30 June 2026**, marking the so-called **glacier loss day**. Once that point is passed, any further melt eats into the glacier itself rather than the seasonal snowpack.
+
+The only earlier loss day in 25 years of records was 26 June 2022. This century the average loss day has been in mid-August, so in Huss's words Swiss glaciers were running "**three months too early compared to a healthy state**."
+
+On the Rhone Glacier, Huss measured **1 metre of vertical ice loss in just 10 days** during the heatwave. The 2025–26 winter brought 25% less snow than the 2010–2020 average, May was unusually warm, and a heavy deposit of **Saharan dust** in March darkened the ice and accelerated melt once the reflective snow cover disappeared. The bare grey ice underneath absorbs more solar radiation, creating an **accelerating melt feedback loop**.
+
+Two long-term numbers underline the trend: the volume of Swiss glaciers shrank by **38% between 2000 and 2024**, and Switzerland has lost about **1,200 glaciers in 50 years**, leaving roughly 1,300. If warming continues at current rates, Huss expects "only some little remnants of ice" by 2100. Because the Rhine and the Rhone both rely on Alpine melt, this is also a water-supply problem for tens of millions of people downstream. The same heat episode delivered the [UK's first-ever three consecutive red heat warnings](../sources/uk-heatwave-june-2026-guardian.md) and Europe-wide 40°C temperatures covered in [Wildfires as a Climate Feedback Loop](../climate-science/wildfires-climate-feedback.md).
+
 ### Weakness in Antarctica
 
 For a time, the sea ice around Antarctica seemed to escape the melt. But over the past decade or so, the Thwaites glacier (nicknamed the "doomsday glacier"), the Pine Island glacier, and the wider west of Antarctica have shown serious signs of weakness. The region is warming twice as fast as the rest of the planet. In the east, temperatures have at times run more than 40°C above normal. Algae and mosses are spreading, so parts of Antarctica are turning green, and more penguin chicks are dying. Many questions remain open, such as whether a warmer, more humid atmosphere might drop more snow on Antarctica and offset some of the loss. Early signs suggest it might.
+
+#### June 2026: first attribution of Antarctic glacier retreat to human activity
+
+A study published in *The Cryosphere* in June 2026, led by **Dr Alex Bradley at King's College London with the British Antarctic Survey**, is the first to **directly attribute the retreat of a major Antarctic outlet glacier to human-driven climate change**. The team focused on the **Pine Island Glacier**, which drains a large part of the West Antarctic Ice Sheet into the Amundsen Sea and is one of the single biggest contributors to global sea level rise.
+
+By comparing model runs with and without anthropogenic ocean warming, the researchers found that human emissions **increased Pine Island's retreat by about 18–20% since the 1940s**. In concrete terms, by 2015 the glacier had pulled back roughly **4 kilometres further inland than it would have without human influence** — about one-fifth of its observed retreat. Pine Island had already started retreating rapidly in the 1940s due to warm ocean intrusions under its ice shelf; human-driven warming, thought to have begun in the 1960s, then reinforced the trend.
+
+The modelling suggests the glacier may **briefly stabilise later this century** as it grounds against a ridge in the bedrock, but if warming continues this pause will be temporary, and human influence is projected to be the **dominant driver of retreat in the 22nd century**. As Bradley puts it: *"Ice sheets respond slowly. The impacts of today's emissions will continue to shape Antarctic ice loss for centuries."* This kind of attribution work has long been routine for heatwaves, floods and mountain glaciers; doing it for an Antarctic outlet glacier is new, and matters because it removes the last bit of plausible deniability that West Antarctic loss is "natural."
 
 ### Rising seas and shrinking coastlines
 
@@ -99,3 +116,5 @@ Public support is strong. According to a Eurobarometer survey, **85% of European
 - 2025 Blatten glacier collapse: [Nature, Communications Earth & Environment](https://www.nature.com/articles/s43247-025-02994-8), [CNN](https://www.cnn.com/2025/05/28/europe/wiss-alps-glacier-collapse-switzerland-latam-intl)
 - International Year of Glaciers' Preservation 2025: [UN News](https://news.un.org/en/story/2025/01/1159236), [UNESCO and WMO](https://wmo.int/news/media-centre/unesco-and-wmo-launch-international-year-of-glaciers-preservation-2025)
 - Global glacier numbers and fresh water role: [UNESCO and WMO](https://wmo.int/news/media-centre/unesco-and-wmo-launch-international-year-of-glaciers-preservation-2025)
+- June 2026 Swiss glacier loss day: RTÉ News / AFP, 27 June 2026 — https://www.rte.ie/news/2026/0627/1580624-glaciers-heatwave/ (interview with Matthias Huss, GLAMOS)
+- June 2026 Pine Island Glacier attribution: Phys.org / King's College London / British Antarctic Survey, 28 June 2026 — https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html (peer-reviewed in *The Cryosphere*, Bradley et al. 2026)

@@ -4,6 +4,28 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-29 ingest | First Attribution of Antarctic Glacier Retreat to Human Activity (Pine Island)
+
+**Source file:** `raw/articles/Human activity has driven retreat of Antarctica's fastest melting glacier.md`
+**Original source:** Phys.org press release based on King's College London / British Antarctic Survey research, 28 June 2026 — https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html
+**Peer-reviewed study:** *The Cryosphere* (2026), Bradley et al.
+
+**What was done:**
+- Created source summary: `wiki/sources/pine-island-glacier-attribution-2026.md`
+- Updated existing page: `wiki/biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md` — added "June 2026: first attribution of Antarctic glacier retreat to human activity" subsection under "Weakness in Antarctica"; added Phys.org / KCL source
+- Updated `wiki/index.md` — added source entry; expanded Glaciers in Retreat description with the new finding
+
+**Key content added:**
+- First direct attribution of a major Antarctic outlet glacier's retreat to human emissions
+- Greenhouse-gas-driven ocean warming increased Pine Island Glacier's retreat by 18–20% since the 1940s
+- ~4 km of additional landward grounding-line retreat by 2015 (≈ one-fifth of total observed)
+- Pine Island started retreating rapidly in the 1940s due to warm ocean intrusions; human warming reinforced the trend from the 1960s
+- A bedrock ridge may briefly stabilise the glacier later this century, but the pause is temporary if warming continues
+- Human influence projected to be the dominant driver of Pine Island retreat in the 22nd century
+- Bradley: "Ice sheets respond slowly. The impacts of today's emissions will continue to shape Antarctic ice loss for centuries."
+
+---
+
 ## 2026-06-29 ingest | Slough Datacentre Hub Adds a Local Heat Island
 
 **Source file:** `raw/articles/'Slough is like an experiment' Europe's largest datacentre hub leaves town sweltering.md`
@@ -31,8 +53,10 @@ Chronological record of all ingest, update, and maintenance operations.
 
 **What was done:**
 - Created source summary: `wiki/sources/swiss-glaciers-heatwave-2026.md`
-- Updated existing page: `wiki/climate-science/DRAFT - FACTS about Glacier.md` — added "June 2026: Swiss Alps Hit Second-Earliest Glacier Loss Day on Record" section with GLAMOS data; corrected frontmatter (quoted tags), added sources field, updated summary keywords and date; added Connected Topics and Sources sections
-- Updated `wiki/index.md` — added source entry; updated description for the FACTS about Glacier page
+- Updated existing page: `wiki/biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md` — added "June 2026: second-earliest glacier loss day on record" subsection under Melting in the Alps; corrected frontmatter tags to quoted hashtag form; updated date; added RTÉ/AFP source
+- Updated `wiki/index.md` — added source entry; updated description for the Glaciers in Retreat page (and removed two now-stale entries for the deleted FACTS about Glacier page)
+
+**Note:** The FACTS about Glacier page was deleted by the user shortly after the initial ingest. The Swiss glacier content was redirected to the existing comprehensive "Glaciers in Retreat" page in biodiversity-land instead.
 
 **Key content added:**
 - 30 June 2026: snow accumulated during winter 2025–26 fully melted away — only 2022 (26 June) was earlier in 25 years of records

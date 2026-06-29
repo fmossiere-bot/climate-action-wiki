@@ -38,6 +38,6 @@ Reportage-led, drawing heavily on a single expert source. The framing is matter-
 
 ## How it connects to the wiki
 
-- Updates `wiki/climate-science/DRAFT - FACTS about Glacier.md` with concrete 2026 data on Swiss glacier loss
+- Updates `wiki/biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md` with concrete June 2026 data on Swiss glacier loss
 - Connects to `wiki/climate-science/wildfires-climate-feedback.md` (same June 2026 European heatwave context)
 - Reinforces `wiki/sources/uk-heatwave-june-2026-guardian.md` as the same heat event

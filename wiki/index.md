@@ -54,6 +54,7 @@ Summaries of every ingested source file.
 | [[uk-heatwave-june-2026-guardian]] | Guardian opinion (Jun 2026): UK's first-ever three consecutive red heat warnings; Derbyshire wildfire; Europe at 40°C — alongside fossil-fuel-backed conference attacking climate action |
 | [[swiss-glaciers-heatwave-2026]] | RTÉ / AFP (Jun 2026): Swiss glaciers hit second-earliest "glacier loss day" on record — Rhone Glacier lost 1m of vertical ice in 10 days; 38% volume loss 2000–2024 |
 | [[slough-datacentre-heat-island-2026]] | Guardian (Jun 2026): Slough's 1 GW datacentre hub adds a local heat island — Cambridge research finds +2°C average, up to +9°C near clusters |
+| [[pine-island-glacier-attribution-2026]] | Phys.org / KCL / BAS (Jun 2026): first direct attribution of Antarctic outlet glacier retreat to human activity — Pine Island Glacier retreated 18–20% more due to anthropogenic ocean warming |
 
 ---
 
@@ -70,7 +71,6 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | Class 7 - Mental Models | Terra.do Class 7 notes |
 | Class 11 - En-ROADS | Climate policy simulator |
 | Energy 101 - Technical and Quantitative Basics | Quantitative energy fundamentals |
-| FACTS about Glacier | Glacier retreat data and impacts — **updated** with June 2026 GLAMOS data: second-earliest "glacier loss day" on record; Swiss glacier volume down 38% since 2000 |
 | How about Volcanoe's Sulphur impact | Volcanic cooling effects on climate |
 | IPCC 10 findings 2023 | Key IPCC AR6 findings |
 | Keynote Dr Chip FLETCHER | Sea level rise keynote |
@@ -350,7 +350,7 @@ Funding the transition — investment, risk, green banking.
 | Biodiversity for Business 101 | Biodiversity basics for companies |
 | Biodiversity Restoration Credits — Coffeeangel | Coffeeangel's Nature Capital Credits deal with Dunsany Nature Reserve; biodiversity crisis in Ireland; ISO-verified carbon monitoring |
 | FACTS about Forest, Land Use and Land management | Forest and land use facts |
-| FACTS about Glacier | Glacier retreat and freshwater |
+| Glaciers in Retreat — Facts, Risks, and What Can Be Done | Glacier facts, risks and solutions — **updated** June 2026 with the second-earliest Swiss glacier loss day on record (GLAMOS) and the first attribution of Antarctic outlet glacier retreat (Pine Island, +18–20%) to human activity |
 | FACTS about Water | Global water facts |
 | FACTS about Wetlands | Wetland ecosystems and climate |
 | FACTS about the Ocean | Ocean health data |
