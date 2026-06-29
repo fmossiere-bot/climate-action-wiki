@@ -359,7 +359,7 @@
     "slug": "draft-facts-about-glacier",
     "filename": "climate-science/DRAFT - FACTS about Glacier.md",
     "label": "FACTS about Glaciers",
-    "summary": "Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, An interview with Heidi Sevestre",
+    "summary": "Mont-Blanc, glacier loss day, GLAMOS, Matthias Huss, Swiss Alps, Rhone Glacier, Morteratsch glacier, ablation, Sahara dust, June 2026 heatwave, 2022 melt year, 38% volume loss, accelerating feedback, bare ice albedo, Heidi Sevestre, Antarctic, Greenland, sea level rise, freshwater",
     "category": "climate-science",
     "tags": [
       "science",
@@ -1601,7 +1601,7 @@
     "slug": "draft-ai-data-centre-energy-crisis",
     "filename": "sectors/digital/DRAFT - ai-data-centre-energy-crisis.md",
     "label": "AI Data Centres and the Energy Crisis",
-    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand",
+    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling",
     "category": "sectors",
     "tags": []
   },
@@ -2577,12 +2577,37 @@
     "tags": []
   },
   {
+    "slug": "slough-datacentre-heat-island-2026",
+    "filename": "sources/slough-datacentre-heat-island-2026.md",
+    "label": "Slough is like an experiment': Europe's largest datacentre hub leaves town sweltering (Guardian, June 2026)",
+    "summary": "Slough datacentre hub, urban heat island, datacentre heat emissions, Cambridge preprint, Andrea Marinoni, 2C average, 9C peak, Equinix, Digital Realty, Amazon Google Oracle Microsoft, gigawatt datacentre zone, June 2026 heatwave UK, waste heat district heating, AI chips cooling, hyperscale, Heathrow, Berkshire, urban climate, residents heat impact, 36.7C weather station",
+    "category": "sources",
+    "tags": [
+      "ai",
+      "digital",
+      "energy",
+      "adaptation"
+    ]
+  },
+  {
     "slug": "solar-peatland-newscientist-2026",
     "filename": "sources/solar-peatland-newscientist-2026.md",
     "label": "solar-peatland-newscientist-2026",
     "summary": "",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "swiss-glaciers-heatwave-2026",
+    "filename": "sources/swiss-glaciers-heatwave-2026.md",
+    "label": "Swiss glaciers facing 'enormous' loss from heatwave (RTÉ / AFP, June 2026)",
+    "summary": "Swiss glaciers, GLAMOS, glacier loss day, Matthias Huss, Swiss Alps, Rhone Glacier, Morteratsch glacier, ablation, snowpack, Sahara dust, 2026 European heatwave, 2022 melt year, Rhine, Rhone, accelerating feedback, bare ice albedo, 38% volume loss 2000-2024, 1,200 glaciers lost in 50 years, 2100 projection",
+    "category": "sources",
+    "tags": [
+      "science",
+      "adaptation",
+      "nature"
+    ]
   },
   {
     "slug": "uk-air-conditioning-green-2026",
