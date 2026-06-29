@@ -1048,15 +1048,12 @@
     ]
   },
   {
-    "slug": "adraft-vg-carbon-footprint-in-ireland",
-    "filename": "ireland-hub/ADRAFT - vg Carbon Footprint in IRELAND.md",
+    "slug": "carbon-footprint-in-ireland",
+    "filename": "ireland-hub/Carbon Footprint in IRELAND.md",
     "label": "Avg Carbon Footprint in Ireland",
-    "summary": "Comparison with EU Neighbors, Consumption-Based Data, Deep Dive into the Categories, Data Consumption separating WASTE ",
+    "summary": "Comparison with EU Neighbors, Consumption-Based Data, Deep Dive into the Categories, Data Consumption separating WASTE. The average carbon footprint in Ireland depends on how you measure it: what we produce (territorial emissions) or what we consume (lifestyle footprint).",
     "category": "ireland-hub",
-    "tags": [
-      "carbon",
-      "ireland"
-    ]
+    "tags": []
   },
   {
     "slug": "draft-cool-irish-companies",
@@ -2687,18 +2684,6 @@
     ]
   },
   {
-    "slug": "draft-ecobalyse-is-a-new-eco-score-for-food-and-fashion",
-    "filename": "standards-labels/DRAFT - Ecobalyse is a new eco-score for Food and Fashion.md",
-    "label": "Ecobalyse is a New Eco-Score for Food and Fashion",
-    "summary": "",
-    "category": "standards",
-    "tags": [
-      "fashion",
-      "food",
-      "esg"
-    ]
-  },
-  {
     "slug": "draft-ecovadis",
     "filename": "standards-labels/DRAFT - Ecovadis.md",
     "label": "Ecovadis",
@@ -2788,30 +2773,6 @@
     ]
   },
   {
-    "slug": "draft-the-commons-sustainability-on-brands",
-    "filename": "standards-labels/DRAFT - The Commons Sustainability on Brands.md",
-    "label": "The Commons Sustainability on Brands",
-    "summary": "",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "circularity",
-      "behaviour"
-    ]
-  },
-  {
-    "slug": "draft-what-is-tnfd",
-    "filename": "standards-labels/DRAFT - What is  TNFD?.md",
-    "label": "What is TNFD?",
-    "summary": "Disclosure recommendations, Update on Adoption - 29th October 2024 - Green Digest Newsletter, Framework, Example, TNFD also, released, announced, The TNFD also, published,  increase , Despite positive developments, nations at COP16 are, struggling",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "nature",
-      "finance"
-    ]
-  },
-  {
     "slug": "draft-what-is-issb",
     "filename": "standards-labels/DRAFT - What is ISSB?.md",
     "label": "What is ISSB?",
@@ -2829,17 +2790,6 @@
     "summary": "What does the new SDR require asset managers to do?",
     "category": "standards",
     "tags": []
-  },
-  {
-    "slug": "draft-what-is-vsme-voluntary-sustainability-reporting",
-    "filename": "standards-labels/DRAFT - What is VSME - Voluntary Sustainability Reporting.md",
-    "label": "What is VSME - Voluntary Sustainability Reporting",
-    "summary": "What is VSME, Who Does It Apply To, What About Smaller Businesses (Micro-Undertakings), Why Should an SME Voluntarily Adopt It, What Does the Framework Entail, Timelines, REFERENCE, VSME Standard, EFRAG, micro-, small-, and medium-sized enterprises, investors, banks, and larger corporate clients, Basic Module, Comprehensive Module, environmental factors, social factors, governance factors, proportionate yet consistent, guidance and technical definitions, not admitted to trading on a regulated market, Category, Balance Sheet Total, Net Turnover, Avg. Number of Employees, Micro, Small, Medium, Target Approach, only the Basic Module, Omission Flexibility, no direct legal authority, Supply Chain Pressures, Access to Capital, Competitive Growth, General Information (B1–B2), Environmental Metrics (B3–B7), Social Metrics (B8–B10), Governance Metrics (B11), Value Chain Carbon, Climate Risks (C4), Human Rights (C6–C7), Sector Exclusions & Diversity (C8–C9), Standard Publication, December 2024, The Second Year of Reporting, Gender Pay Gap Threshold adjustment, 100 employees starting on June 7, 2031, Final Draft Submission, Official Recommendation (July 2025), official Commission Recommendation, Delegated Act Process (2026), voluntary",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "eu-policy"
-    ]
   },
   {
     "slug": "draft-what-is-the-epd",
@@ -2874,6 +2824,33 @@
       "carbon",
       "greenwashing",
       "company-evaluations"
+    ]
+  },
+  {
+    "slug": "ecobalyse-is-a-new-eco-score-for-food-and-fashion",
+    "filename": "standards-labels/Ecobalyse is a new eco-score for Food and Fashion.md",
+    "label": "Ecobalyse: France's Environmental Score for Products",
+    "summary": "Ecobalyse is a free, open-source tool developed by the French government to calculate the environmental impact of products sold in France. It uses life cycle assessment methodology across 16 indicators, including carbon emissions, water use, and microplastic pollution, to produce a single \"environmental cost\" score. Currently focused on clothing and food, it is the official reference tool under France's 2021 Climate and Resilience Law. From October 2026, any third party can publish a score on behalf of a brand that has not calculated its own. The tool is also being watched at European level as a potential model for EU-wide textile labelling by 2030.",
+    "category": "standards",
+    "tags": []
+  },
+  {
+    "slug": "what-is-tnfd",
+    "filename": "standards-labels/What is  TNFD?.md",
+    "label": "The TNFD: What It Is, Who Joined, and What Comes Next",
+    "summary": "The Taskforce on Nature-related Financial Disclosures (TNFD) was created to help companies and financial institutions identify and report on risks related to nature, including biodiversity loss, water stress, and deforestation. Published in 2023, its framework covers governance, strategy, risk management, and targets. Adoption grew rapidly, with over 700 companies representing 9.4 trillion dollars in market value signing on across 54 countries. In November 2025, the TNFD announced it will close by 2026 and transfer responsibility for nature reporting standards to the International Sustainability Standards Board (ISSB), with final standards expected by 2027. Nature disclosure is becoming mainstream corporate reporting.",
+    "category": "standards",
+    "tags": []
+  },
+  {
+    "slug": "what-is-vsme-voluntary-sustainability-reporting",
+    "filename": "standards-labels/What is VSME - Voluntary Sustainability Reporting.md",
+    "label": "What is VSME - Voluntary Sustainability Reporting",
+    "summary": "What is VSME, Who Does It Apply To, What About Smaller Businesses (Micro-Undertakings), Why Should an SME Voluntarily Adopt It, What Does the Framework Entail, Timelines, REFERENCE, VSME Standard, EFRAG, micro-, small-, and medium-sized enterprises, investors, banks, and larger corporate clients, Basic Module, Comprehensive Module, environmental factors, social factors, governance factors, proportionate yet consistent, guidance and technical definitions, not admitted to trading on a regulated market, Category, Balance Sheet Total, Net Turnover, Avg. Number of Employees, Micro, Small, Medium, Target Approach, only the Basic Module, Omission Flexibility, no direct legal authority, Supply Chain Pressures, Access to Capital, Competitive Growth, General Information (B1–B2), Environmental Metrics (B3–B7), Social Metrics (B8–B10), Governance Metrics (B11), Value Chain Carbon, Climate Risks (C4), Human Rights (C6–C7), Sector Exclusions & Diversity (C8–C9), Standard Publication, December 2024, The Second Year of Reporting, Gender Pay Gap Threshold adjustment, 100 employees starting on June 7, 2031, Final Draft Submission, Official Recommendation (July 2025), official Commission Recommendation, Delegated Act Process (2026), voluntary",
+    "category": "standards",
+    "tags": [
+      "esg",
+      "eu-policy"
     ]
   }
 ]
