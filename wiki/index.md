@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-28
+Last updated: 2026-06-29
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -50,6 +50,8 @@ Summaries of every ingested source file.
 | [[ireland-datacentre-boom-2026]] | Irish Independent (Jun 2026): 107 data centres operating in Ireland, 1.3 GW, €18.5bn invested; EirGrid forecasts 31% of electricity by 2034; new CRU rules lift moratorium with 80% renewables requirement |
 | [[crypto-quantum-newscientist-2026]] | New Scientist (Jun 2026): D-Wave quantum computer mines Quip blockchain 100× more efficiently than conventional machines — 12.5W vs 1,334W — wins 92% of blocks competed for |
 | [[solar-peatland-newscientist-2026]] | New Scientist (Jun 2026): solar farm on rewetted German peatland boosts bird biodiversity — triple win of income, carbon and nature; but drained-peat solar can emit more than it saves |
+| [[infantino-private-jet-bbc-2026]] | BBC Verify (Jun 2026): FIFA president's private jet took 27 flights, 31,000+ miles in 16 days at the 2026 World Cup — ~516 tonnes CO₂e, equivalent to 78 people's annual footprint |
+| [[uk-heatwave-june-2026-guardian]] | Guardian opinion (Jun 2026): UK's first-ever three consecutive red heat warnings; Derbyshire wildfire; Europe at 40°C — alongside fossil-fuel-backed conference attacking climate action |
 
 ---
 

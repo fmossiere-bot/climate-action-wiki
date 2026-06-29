@@ -54,6 +54,14 @@ See the [MURAL Game](https://app.mural.co/t/smartphonefreemetns7241/m/smartphone
 
 
 
+#### Political Denial as Greenwashing: The "Anti-Woke Davos" (June 2026)
+
+> In June 2026, as the UK issued red heat warnings for three consecutive days and an active wildfire burned in Derbyshire, a conference in London convened by the Alliance for Responsible Citizenship — a group backed by the owner of GB News and a string of fossil fuel companies — hosted speakers attacking UK climate policy. Delegates were reportedly sweltering inside the Olympia venue in 35°C+ heat while applauding Trump's energy secretary Chris Wright (a former fossil fuel executive), who described Britain's green transition as a "tragic mistake."
+>
+> This is the "Don't Look Up" dynamic in political form: organisations funded by fossil fuel interests attacking climate action while their own delegates experience its direct consequences. The conference's goodie bags included fans bearing the slogan "Free speech never felt so cool."
+>
+> *Source: [uk-heatwave-june-2026-guardian](../sources/uk-heatwave-june-2026-guardian.md) — The Guardian, Jonathan Freedland, 26 June 2026*
+
 ---
 ## The EU anti-Greenwashing rule
 

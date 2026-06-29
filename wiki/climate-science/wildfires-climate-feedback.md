@@ -10,8 +10,8 @@ sources:
   - New Scientist, Alec Luhn, 29 April 2026 — from raw/papers/New Scientist 2.pdf
   - New Scientist, Michael Le Page, 13 May 2026 — from raw/papers/New Scientist 2.pdf and raw/papers/Artic-Fires.pdf
 created: 2026-06-12
-updated: 2026-06-12
-summary: wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record
+updated: 2026-06-29
+summary: "wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record, UK heatwave 2026, red warning, Derbyshire wildfire, 35°C, temperate country, June 2026, Met Office, record heat, European heatwave 40°C, Germany, Poland"
 ---
 
 # Wildfires as a Climate Feedback
@@ -54,6 +54,12 @@ Current climate models do not account for this ancient carbon release. They assu
 
 Wildfires also release **black carbon** — fine soot particles. Black carbon has two warming effects. In the atmosphere, it absorbs solar heat directly, warming the air. When it settles on snow or ice, it darkens the surface and reduces its reflectivity (albedo), causing ice to melt faster than it otherwise would. In high-latitude regions already losing ice rapidly, this is a significant additional forcing.
 
+## June 2026: Record Heat Reaches Temperate Europe
+
+The 2025 wildfire season's extremes continued into 2026. In the last week of June 2026, the UK Met Office issued red heat warnings for **three consecutive days** — the first time that has ever happened in Britain. Temperatures exceeded 35°C and overnight lows met the technical definition of "tropical." An active wildfire burned across moorland in Derbyshire — extraordinary for a temperate country in early summer. Germany and Poland were bracing for 40°C.
+
+These events were widely covered as remarkable. They are, in fact, precisely what climate science has been projecting for years: extreme heat events that were once rare are becoming routine, and they are moving into the calendar months and geographic regions previously considered safe.
+
 ## Summary findings
 
 - Europe is warming twice as fast as the global average; 2025 was the hottest year on record in the UK, Iceland, and Norway.
@@ -76,3 +82,4 @@ Wildfires also release **black carbon** — fine soot particles. Black carbon ha
 
 - New Scientist, Alec Luhn, 29 April 2026, updated 15 May 2026 — from `raw/papers/New Scientist 2.pdf`
 - New Scientist, Michael Le Page, 13 May 2026, updated 30 May 2026 — from `raw/papers/New Scientist 2.pdf` and `raw/papers/Artic-Fires.pdf`
+- The Guardian, Jonathan Freedland, 26 June 2026 — https://www.theguardian.com/commentisfree/2026/jun/26/climate-sceptics-record-temperatures-heatwave-ed-miliband-net-zero

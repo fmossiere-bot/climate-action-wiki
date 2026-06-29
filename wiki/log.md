@@ -4,6 +4,27 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-06-29 ingest | FIFA President's Private Jet: 27 Flights, 516 Tonnes CO₂e in 16 Days
+
+**Source file:** `raw/articles/World Cup 2026 How Fifa president Gianni Infantino is jetting around.md`
+**Original source:** BBC Verify / BBC Sport, Jake Horton et al., 28 June 2026 — https://www.bbc.com/sport/football/articles/cgev5wy0zg3o
+**Source summary created:** `wiki/sources/infantino-private-jet-bbc-2026.md`
+**Wiki pages updated:**
+- `wiki/sectors/Environmental Impact of football world cups.md` — added "The President's Jet: A Case Study in Leadership Failure" section with full data: 27 flights, 31,144 miles, 516 tonnes CO₂e, equivalent to 78 people's annual footprint; updated frontmatter summary and date; added BBC Verify source
+
+---
+
+## 2026-06-29 ingest | UK Heatwave June 2026: First Ever Three Consecutive Red Warnings
+
+**Source file:** `raw/articles/Climate sceptics cheering as they melt in record temperatures? This heatwave is where satire has come to die.md`
+**Original source:** The Guardian (comment), Jonathan Freedland, 26 June 2026 — https://www.theguardian.com/commentisfree/2026/jun/26/climate-sceptics-record-temperatures-heatwave-ed-miliband-net-zero
+**Source summary created:** `wiki/sources/uk-heatwave-june-2026-guardian.md`
+**Wiki pages updated:**
+- `wiki/climate-science/wildfires-climate-feedback.md` — added "June 2026: Record Heat Reaches Temperate Europe" section documenting UK's first-ever three consecutive red heat warnings, 35°C+, Derbyshire wildfire, and European 40°C heat; updated frontmatter summary and date
+- `wiki/concepts/key-ideas/Greenwashing.md` — added "Political Denial as Greenwashing: The Anti-Woke Davos (June 2026)" example documenting fossil-fuel-backed conference attacking climate policy while delegates sweltered in 35°C+ heat
+
+---
+
 ## 2026-06-28 ingest | Ireland Data Centre Boom — 107 Facilities, €18.5bn Invested
 
 **Source file:** `raw/articles/Data-centre boom sees 107 facilities now operating in Ireland, with €18.5bn invested.md`

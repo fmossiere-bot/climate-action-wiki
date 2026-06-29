@@ -4,8 +4,8 @@ category: sectors
 tags: ["#sport", "#carbon", "#aviation", "#adaptation"]
 sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assessment", "Reuters, 10 June 2026 — https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/", "Outrage+Optimism podcast, June 2026", "We Don't Have Time, Markus Lutteman, June 2026 — https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95"]
 created: 2026-06-01
-updated: 2026-06-15
-summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034"
+updated: 2026-06-29
+summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes"
 ---
 
 While recent host countries focused heavily on building massive physical infrastructure, the upcoming 2026 World Cup shifts the carbon burden heavily onto **geographic scale and transportation**.
@@ -81,6 +81,20 @@ University of Manchester researchers called it directly: "FIFA has made elite me
 
 The pattern does not end with the 2026 tournament. The 2034 World Cup has been awarded to Saudi Arabia, a country that has repeatedly obstructed progress at UN climate negotiations while continuing to expand oil production.
 
+## The President's Jet: A Case Study in Leadership Failure
+
+While FIFA made environmental pledges for the 2026 tournament — regional grouping of teams, electric transport promotion, use of existing stadiums — BBC Verify tracked a private jet linked to FIFA president **Gianni Infantino** throughout the group stage using FlightRadar24 data.
+
+The numbers are stark. Infantino attended 24 matches in 16 days, with the jet taking **27 flights** to match his confirmed attendance. Total distance covered: at least **31,144 miles (50,122 km)**, with more than 66 hours in the air. The longest single flight was Vancouver to Miami (2,800 miles); he also took three separate flights in a single day on multiple occasions.
+
+The estimated climate impact: approximately **516 tonnes of CO₂e** over those two weeks — equivalent to the average annual greenhouse gas footprint of **78 people**. The aircraft used (believed to be a Gulfstream G650ER) burns approximately 1,817 litres of fuel per hour. Private jets are 5 to 14 times more polluting than commercial flights, and 50 times more than trains.
+
+FIFA, when contacted by the BBC, stated that travel is "sometimes on commercial airlines, sometimes on private charter, depending on which is more efficient." It did not confirm the plane type, the number of passengers, or whether any emissions offsets were applied.
+
+Freddie Daley of the sport climate action network Cool Down described Infantino's apparent use of a private jet as "symptomatic of FIFA's failings on the environment and sustainability... completely at odds with the level of leadership that we need to see at the top of FIFA on environmental issues."
+
+This sits alongside FIFA's own stated targets: a 50% emissions reduction by 2030 and net zero by 2040. A separate SGR 2025 report estimated that the total carbon footprint of the 2026 World Cup could reach **9 million tonnes of CO₂e** — a figure somewhat higher than earlier projections, and almost double the average of the past four World Cups.
+
 Meanwhile, back on local pitches, the consequences of climate change are already tangible. Across Great Britain, a growing number of football matches are being cancelled due to extreme weather, particularly flooding. The UK Met Office projects that under a high-emissions scenario, winters could become up to 30% wetter by 2070.
 
 ## Connected topics
@@ -96,3 +110,4 @@ Meanwhile, back on local pitches, the consequences of climate change are already
 - Outrage+Optimism podcast, June 2026 — https://podcasts.apple.com/ie/podcast/outrage-optimism-the-climate-podcast/id1459416461?i=1000772155867
 - We Don't Have Time, Markus Lutteman, June 2026 — https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95
 - Scientists for Global Responsibility (SGR), 2026 — https://www.sgr.org.uk/resources/2026-fifa-men-s-world-cup-be-most-polluting-ever
+- BBC Verify, Jake Horton et al., 28 June 2026 — https://www.bbc.com/sport/football/articles/cgev5wy0zg3o
