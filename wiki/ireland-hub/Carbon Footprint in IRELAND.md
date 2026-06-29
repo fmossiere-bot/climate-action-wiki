@@ -1,16 +1,14 @@
 ---
 title: Avg Carbon Footprint in Ireland
 category: ireland-hub
-tags: [carbon, ireland]
-created: 2026-06-01
-updated: 2026-06-01
-summary: "Comparison with EU Neighbors, Consumption-Based Data, Deep Dive into the Categories, Data Consumption separating WASTE "
+tags:
+  - carbon
+  - ireland
+  - carbon-footprint
+created: 2025-11-01
+updated: 2026-06-28
+summary: "Comparison with EU Neighbors, Consumption-Based Data, Deep Dive into the Categories, Data Consumption separating WASTE. The average carbon footprint in Ireland depends on how you measure it: what we produce (territorial emissions) or what we consume (lifestyle footprint)."
 ---
-
-#carbon-footprint #ireland 
-
-*Source: [AI Generated Research](https://docs.google.com/document/d/19oZNQqHETnwyI63aTYRmvKwxRPLZBx7AV3wdobyC0fc/edit?tab=t.0#heading=h.vpdluobz95hh)*
-
 
 The average carbon footprint in Ireland depends on how you measure it: what we produce (territorial emissions) or what we consume (lifestyle footprint).
 
