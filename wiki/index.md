@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-06-29 (PM)
+Last updated: 2026-07-01
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -55,6 +55,8 @@ Summaries of every ingested source file.
 | [[swiss-glaciers-heatwave-2026]] | RTÉ / AFP (Jun 2026): Swiss glaciers hit second-earliest "glacier loss day" on record — Rhone Glacier lost 1m of vertical ice in 10 days; 38% volume loss 2000–2024 |
 | [[slough-datacentre-heat-island-2026]] | Guardian (Jun 2026): Slough's 1 GW datacentre hub adds a local heat island — Cambridge research finds +2°C average, up to +9°C near clusters |
 | [[pine-island-glacier-attribution-2026]] | Phys.org / KCL / BAS (Jun 2026): first direct attribution of Antarctic outlet glacier retreat to human activity — Pine Island Glacier retreated 18–20% more due to anthropogenic ocean warming |
+| [[ariana-mine-banktrack-2026]] | BankTrack Dodgy Deal dossier (2026): Ariana copper/zinc mine in Peru — Alpayana project, $100m Santander refinancing, threats to Lima's water via SEDAPAL and constitutional court |
+| [[ariana-mine-eko-petition-2026]] | Ekō petition (Jun 2026): Santander asked to use its influence to stop the Ariana mining project — reframes the "transition minerals" defence |
 
 ---
 
@@ -101,7 +103,8 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Class 17 - Finance and Climate Change - Investment | Terra.do Class 17: climate investment |
-| [[fossil-fuel-banking]] | **NEW** — $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
+| [[fossil-fuel-banking]] | $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
+| [[ariana-mine-santander]] | **NEW** — Ariana copper/zinc mine in Peru: $100m Santander loan enabling a project judged an "imminent threat" to drinking water for 10 million people in Lima |
 | Class 18 - Finance and Climate Change - RISK | Terra.do Class 18: climate financial risk |
 | GREEN Your Bank ACTION GUIDE | How to switch to a green bank |
 | Green Pension ACTION GUIDE | How to green your pension |

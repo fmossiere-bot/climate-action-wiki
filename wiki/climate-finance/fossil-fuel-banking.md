@@ -60,6 +60,7 @@ Many banks had previously announced net zero lending targets and joined voluntar
 - [Finance and Climate Change — Risk](wiki/climate-finance/#%20Climate%20Change%20and%20Financial%20Risk%20-%20What%20Is%20at%20Stake.md)
 - [Greenwashing Lawsuits on the Rise](../concepts/key-ideas/Greenwashing%20lawsuits%20on%20the%20rise.md)
 - [Fossil Fuel Phaseout — Santa Marta Conference 2026](santa-marta-fossil-fuel-conference-2026.md)
+- [Ariana Mine and Santander](ariana-mine-santander.md) — a non-fossil case of the same pattern: European bank finance enabling a project judged an "imminent threat" to drinking water for 10 million people
 
 ## Sources
 

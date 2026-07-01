@@ -4,6 +4,36 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-01 ingest | Ariana Mine and Santander — $100m Loan vs Lima's Water Supply
+
+**Source files:**
+- `raw/articles/Ariana copper and zinc mine.md` (BankTrack Dodgy Deal dossier)
+- `raw/articles/Santander stop the Ariana mining project.md` (Ekō petition)
+
+**Original sources:**
+- BankTrack — https://www.banktrack.org/project/ariana_copper_and_zinc_mine (project dossier, accessed July 2026)
+- Ekō, 19 June 2026 — https://action.eko.org/a/santander-stop-the-ariana-mining-project
+
+**What was done:**
+- Created source summary: `wiki/sources/ariana-mine-banktrack-2026.md`
+- Created source summary: `wiki/sources/ariana-mine-eko-petition-2026.md`
+- Created new wiki page: `wiki/climate-finance/ariana-mine-santander.md`
+- Updated existing page: `wiki/climate-finance/fossil-fuel-banking.md` — added cross-reference in Connected Topics
+- Updated `wiki/index.md` — added two source entries, new climate-finance page entry, bumped last-updated date
+
+**Key content added:**
+- Ariana is an underground copper/zinc mining project in Marcapomacocha (Junín, Peru) owned by Alpayana since 2025
+- Site sits inside the Marcapomacocha water system supplying ~60% of Lima and Callao's dry-season drinking water (10+ million people)
+- Water utility SEDAPAL flagged four impact pathways: reduced groundwater flows, heavy metal contamination, vibration damage to the Cuevas-Milloc Trans-Andean Tunnel, and possible tailings dam collapse 100 m from the tunnel
+- Constitutional Chamber of Lima ruled in 2025 that the project is a "certain and imminent threat" to the right to drinking water; ordered a Complementary EIA
+- Alpayana bought the project for US$200m in March 2025 (LXG Capital advised)
+- Banco Santander refinanced Alpayana with **US$100m in August 2025**
+- Peru has recorded 18 tailings dam ruptures since 1952, mostly seismic
+- Ekō petition targets Santander's Executive Chairman Ana Botín; explicitly rebuts the "critical minerals for the energy transition" defence
+- Framed as a non-fossil test of European bank environmental & human rights policies
+
+---
+
 ## 2026-06-29 ingest | First Attribution of Antarctic Glacier Retreat to Human Activity (Pine Island)
 
 **Source file:** `raw/articles/Human activity has driven retreat of Antarctica's fastest melting glacier.md`
