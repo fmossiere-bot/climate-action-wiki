@@ -50,7 +50,7 @@ On hourly electricity matching (calculating emissions at source each hour rather
 
 - [Greenwashing](../concepts/key-ideas/Greenwashing.md)
 - [List of Standards and Labels](../standards-labels/List%20of%20Standards%20%26%20Labels.md)
-- [The Carbon Disclosure Project](DRAFT%20-%20The%20Carbon%20Disclosure%20Project%20(CPD).md)
+- [The Carbon Disclosure Project](The%20Carbon%20Disclosure%20Project%20(CPD).md)
 - [What is ISSB?](../standards-labels/What%20is%20ISSB%3F.md)
 
 ## Sources

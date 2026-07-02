@@ -432,7 +432,7 @@ Funding the transition — investment, risk, green banking.
 | What is VSME - Voluntary Sustainability Reporting | Voluntary SME reporting |
 | What is the EPD? | Environmental Product Declaration |
 | Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024 | Reporting standard comparison |
-| [[DRAFT - sbti-science-based-targets]] | **NEW** — SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
+| [[SBTI - sbti-science-based-targets]] | **NEW** — SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
 
 ---
 
