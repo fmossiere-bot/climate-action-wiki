@@ -274,6 +274,20 @@
     "tags": []
   },
   {
+    "slug": "ariana-mine-santander",
+    "filename": "climate-finance/ariana-mine-santander.md",
+    "label": "Ariana Mine and Santander: When a $100m Loan Meets Lima's Water Supply",
+    "summary": "Ariana mine, Peru, Alpayana, Marcapomacocha, Lima water supply, Trans-Andean Tunnel, SEDAPAL, tailings dam, seismic risk, Santander, Ana Botín, USD 100 million loan, LXG Capital, Constitutional Chamber of Lima, Environmental Impact Study, CooperAcción, Ekō petition, transition minerals, bank accountability, copper, zinc, human rights, drinking water, high-altitude wetlands, bofedales",
+    "category": "climate-finance",
+    "tags": [
+      "finance",
+      "industry",
+      "nature",
+      "greenwashing",
+      "coalition"
+    ]
+  },
+  {
     "slug": "fossil-fuel-banking",
     "filename": "climate-finance/fossil-fuel-banking.md",
     "label": "Fossil Fuel Banking continues",
@@ -2315,6 +2329,30 @@
     "tags": []
   },
   {
+    "slug": "ariana-mine-banktrack-2026",
+    "filename": "sources/ariana-mine-banktrack-2026.md",
+    "label": "Ariana copper and zinc mine — Dodgy Deal dossier (BankTrack)",
+    "summary": "Ariana mine, copper, zinc, Alpayana, Peru, Marcapomacocha, Junín, Lima water, SEDAPAL, 10 million people, Trans-Andean Tunnel, tailings dam, seismic risk, Santander refinancing, USD 100 million loan, LXG Capital, Southern Peaks, Constitutional Chamber of Lima, Environmental Impact Study, CooperAcción, bofedales, high-altitude wetlands, transition minerals, mine finance, BankTrack Dodgy Deal",
+    "category": "sources",
+    "tags": [
+      "finance",
+      "industry",
+      "nature"
+    ]
+  },
+  {
+    "slug": "ariana-mine-eko-petition-2026",
+    "filename": "sources/ariana-mine-eko-petition-2026.md",
+    "label": "Santander: stop the Ariana mining project (Ekō petition, June 2026)",
+    "summary": "Ekō petition, Santander, Ana Botín, Ariana mine, Peru, Lima water supply, 11 million people, Alpayana, USD 100 million loan, bank campaign, transition minerals apologia, Marcapomacocha, corporate accountability, Pebble Mine Alaska comparison, Carmichael coal Australia comparison, mining and water rights, activist petition",
+    "category": "sources",
+    "tags": [
+      "finance",
+      "coalition",
+      "greenwashing"
+    ]
+  },
+  {
     "slug": "banking-on-climate-chaos-2025",
     "filename": "sources/banking-on-climate-chaos-2025.md",
     "label": "World's largest banks pledged $906bn to fossil fuel companies in 'unfathomable' increase in 2025",
@@ -2722,18 +2760,6 @@
     "tags": []
   },
   {
-    "slug": "draft-fsc-standard-for-forest-certification",
-    "filename": "standards-labels/DRAFT - FSC Standard for Forest Certification.md",
-    "label": "FSC Standard for Forest Certification",
-    "summary": "Sustainable Forest Management Standard - FSC",
-    "category": "standards",
-    "tags": [
-      "forest",
-      "nature",
-      "esg"
-    ]
-  },
-  {
     "slug": "draft-gold-standard",
     "filename": "standards-labels/DRAFT - Gold Standard.md",
     "label": "Gold Standard",
@@ -2856,6 +2882,14 @@
     "filename": "standards-labels/Ecovadis.md",
     "label": "EcoVadis: A Sustainability Rating for Your Supply Chain",
     "summary": "What is Ecovadis, Ecovadis certifications, The Process, Medals, The Subscriptions, EcoVadis methodology. EcoVadis is a sustainability rating platform used by companies worldwide to assess and improve ESG performance across their supply chains. It covers four areas: environment, labour rights, ethics, and sustainable procurement. Companies complete a questionnaire, submit supporting documents, and receive a score out of 100 reviewed by EcoVadis analysts. High-performing companies are awarded a Bronze, Silver, Gold, or Platinum medal, reflecting their position relative to others in the database. The rating is not a product certification, but a measure of management quality. It is widely required by large buyers as part of supplier qualification, making it a practical standard for supply chain due diligence.",
+    "category": "standards",
+    "tags": []
+  },
+  {
+    "slug": "fsc-standard-for-forest-certification",
+    "filename": "standards-labels/FSC Standard for Forest Certification.md",
+    "label": "FSC Certification: What the Label on Your Forest Products Actually Means",
+    "summary": "The Forest Stewardship Council (FSC) is the world's most recognised forest certification standard, covering timber, paper, bamboo and other forest-derived products. Founded in 1993, it sets requirements across environmental, social and economic dimensions, verified by independent auditors. The FSC label signals that a forest or product has met a structured set of responsible management criteria. However, it has real limits: mixed-source products may contain uncertified material, manufacturing impacts are not covered, and enforcement has been inconsistent in high-risk regions. Alternatives exist, notably PEFC, though generally considered less stringent. FSC 100% remains the most reliable label when full traceability matters.",
     "category": "standards",
     "tags": []
   },
