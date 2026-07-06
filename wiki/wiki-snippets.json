@@ -2760,116 +2760,6 @@
     "tags": []
   },
   {
-    "slug": "draft-gold-standard",
-    "filename": "standards-labels/DRAFT - Gold Standard.md",
-    "label": "Gold Standard",
-    "summary": "Update 2023, Margaret Kim",
-    "category": "standards",
-    "tags": [
-      "carbon-offset",
-      "esg"
-    ]
-  },
-  {
-    "slug": "draft-reporting-matters-2023",
-    "filename": "standards-labels/DRAFT - Reporting matters 2023.md",
-    "label": "Reporting Matters 2023",
-    "summary": "REPORT",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "research"
-    ]
-  },
-  {
-    "slug": "draft-shift-in-reporting-kpmg-report",
-    "filename": "standards-labels/DRAFT - Shift in reporting - KPMG report.md",
-    "label": "Shift in Reporting - KPMG Report",
-    "summary": "",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "research",
-      "finance"
-    ]
-  },
-  {
-    "slug": "draft-sustainability-reporting-examples",
-    "filename": "standards-labels/DRAFT - Sustainability Reporting EXAMPLES.md",
-    "label": "Sustainability Reporting Examples",
-    "summary": "1. CAMPBELL, 2. An POST, 3.  Refurbed.ie",
-    "category": "standards",
-    "tags": [
-      "esg"
-    ]
-  },
-  {
-    "slug": "draft-the-carbon-disclosure-project-cpd",
-    "filename": "standards-labels/DRAFT - The Carbon Disclosure Project (CPD).md",
-    "label": "The Carbon Disclosure Project (CDP)",
-    "summary": "Climat, Forests and Water",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "carbon",
-      "finance"
-    ]
-  },
-  {
-    "slug": "draft-what-is-issb",
-    "filename": "standards-labels/DRAFT - What is ISSB?.md",
-    "label": "What is ISSB?",
-    "summary": "ISSB — International Sustainability Standards Board, What the ISSB does, Why the ISSB matters for investors, 1. ISSB = Standards, 2. ESG = Conceptual umbrella, 3. How they relate, Early adopters / moving toward adoption, International Sustainability Standards Board (ISSB), IFRS Foundation, global baseline of sustainability disclosure standards, climate-first, financial reporting, comparability, into financial statements, decision-usefulness, How does ISSB compare to “ESG”, mandatory or semi-mandatory reporting requirements, investor materiality, broad investment framework, formalized, consistent rulebook, information infrastructure for ESG, interpret, 🌍 Who is using ISSB standards, Large multinational companies, Global investors and asset managers, mandatory TCFD-aligned disclosures",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "finance"
-    ]
-  },
-  {
-    "slug": "draft-what-is-sdr",
-    "filename": "standards-labels/DRAFT - What is SDR?.md",
-    "label": "What is SDR?",
-    "summary": "What does the new SDR require asset managers to do?",
-    "category": "standards",
-    "tags": []
-  },
-  {
-    "slug": "draft-what-is-the-epd",
-    "filename": "standards-labels/DRAFT - What is the EPD?.md",
-    "label": "What is the EPD?",
-    "summary": "Environmental Product Declarations",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "building-industry"
-    ]
-  },
-  {
-    "slug": "draft-which-reporting-standard-top-7-sustainability-reporting-standards-in-2024",
-    "filename": "standards-labels/DRAFT - Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024.md",
-    "label": "Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024",
-    "summary": "[UPDATE] Towards a more Harmonised landscape? May be, harmonizing, the sustainability reporting landscape, The TNFD and EFRAG have also jointly published a, mapping",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "research"
-    ]
-  },
-  {
-    "slug": "draft-sbti-science-based-targets",
-    "filename": "standards-labels/DRAFT - sbti-science-based-targets.md",
-    "label": "SBTi — Science Based Targets initiative",
-    "summary": "SBTi, Science Based Targets initiative, corporate net zero, decarbonisation, environmental credits, SAF credits, carbon removal, direct air capture, reforestation, PPA, power purchase agreement, hourly matching, annual matching, hard-to-abate emissions, best-efforts framework, David Kennedy, corporate climate targets, scope 1 scope 2 scope 3, supply chain, net zero standard 2026",
-    "category": "standards",
-    "tags": [
-      "esg",
-      "carbon",
-      "greenwashing",
-      "company-evaluations"
-    ]
-  },
-  {
     "slug": "ecobalyse-is-a-new-eco-score-for-food-and-fashion",
     "filename": "standards-labels/Ecobalyse is a new eco-score for Food and Fashion.md",
     "label": "Ecobalyse: France's Environmental Score for Products",
@@ -2894,6 +2784,43 @@
     "tags": []
   },
   {
+    "slug": "gold-standard",
+    "filename": "standards-labels/Gold Standard.md",
+    "label": " The Gold Standard: what it is, what it certifies, and why it is debated",
+    "summary": "The Gold Standard is a carbon credit certification scheme founded in 2003 by WWF, run by a non-profit foundation in Geneva. It certifies projects such as renewable energy, clean cookstoves, forestry, and water access, requiring proof of additionality and measurable contributions to at least three UN Sustainable Development Goals. From 2026, its rules have tightened to align with the Paris Agreement. It is widely seen as one of the more rigorous carbon standards, though independent research has flagged over-crediting in some cookstove projects and additionality concerns in older renewable energy projects. Buyers should check individual projects rather than assume uniform quality.",
+    "category": "standards",
+    "tags": []
+  },
+  {
+    "slug": "sbti-sbti-science-based-targets",
+    "filename": "standards-labels/SBTI - sbti-science-based-targets.md",
+    "label": "SBTi — Science Based Targets initiative",
+    "summary": "SBTi, Science Based Targets initiative, corporate net zero, decarbonisation, environmental credits, SAF credits, carbon removal, direct air capture, reforestation, PPA, power purchase agreement, hourly matching, annual matching, hard-to-abate emissions, best-efforts framework, David Kennedy, corporate climate targets, scope 1 scope 2 scope 3, supply chain, net zero standard 2026",
+    "category": "standards",
+    "tags": [
+      "esg",
+      "carbon",
+      "greenwashing",
+      "company-evaluations"
+    ]
+  },
+  {
+    "slug": "sustainability-reporting-standards",
+    "filename": "standards-labels/Sustainability reporting standards.md",
+    "label": "Which Reporting Standard? a region-by-region guide",
+    "summary": "Sustainability reporting is split between mandatory regional rules and voluntary global standards. The EU's CSRD remains the most comprehensive mandatory regime, though its scope was sharply narrowed in 2026 to companies with over 1,000 employees and €450 million turnover. In the US, the federal SEC climate rule is being rescinded, leaving California's SB 253 and SB 261 as the main mandatory drivers. Elsewhere, over 30 jurisdictions have adopted ISSB-based standards. GRI remains the most widely used voluntary framework, CDP the leading disclosure and scoring platform, and TNFD an emerging nature-focused counterpart to climate reporting, now formally mapped against the EU's own standards.",
+    "category": "standards",
+    "tags": []
+  },
+  {
+    "slug": "the-carbon-disclosure-project-cpd",
+    "filename": "standards-labels/The Carbon Disclosure Project (CPD).md",
+    "label": "The Carbon Disclosure Project (CDP)",
+    "summary": "CDP is a UK-based non-profit that runs the world's largest environmental disclosure system, covering climate change, forests, and water security. Companies, cities, states, and regions report annual data through a standardised questionnaire and receive a score from D- to A. In 2025, over 22,000 companies and more than 1,000 cities and regions disclosed. The 2026 cycle added a new Oceans module and an SME leadership pathway. Belfast is the only city on the island of Ireland with an A rating. CDP measures disclosure quality and management maturity rather than absolute environmental performance, so scores should be read with that distinction in mind.",
+    "category": "standards",
+    "tags": []
+  },
+  {
     "slug": "the-msc-blue-label-what-it-means-and-why-it-matters",
     "filename": "standards-labels/The MSC Blue Label - What It Means and Why It Matters.md",
     "label": "The MSC Blue Label: What It Means and Why It Matters",
@@ -2910,6 +2837,25 @@
     "tags": []
   },
   {
+    "slug": "what-is-issb",
+    "filename": "standards-labels/What is ISSB?.md",
+    "label": "What is ISSB?",
+    "summary": "ISSB — International Sustainability Standards Board, What the ISSB does, Why the ISSB matters for investors, 1. ISSB = Standards, 2. ESG = Conceptual umbrella, 3. How they relate, Early adopters / moving toward adoption, International Sustainability Standards Board (ISSB), IFRS Foundation, global baseline of sustainability disclosure standards, climate-first, financial reporting, comparability, into financial statements, decision-usefulness, How does ISSB compare to “ESG”, mandatory or semi-mandatory reporting requirements, investor materiality, broad investment framework, formalized, consistent rulebook, information infrastructure for ESG, interpret, 🌍 Who is using ISSB standards, Large multinational companies, Global investors and asset managers, mandatory TCFD-aligned disclosures",
+    "category": "standards",
+    "tags": [
+      "esg",
+      "finance"
+    ]
+  },
+  {
+    "slug": "what-is-sdr",
+    "filename": "standards-labels/What is SDR?.md",
+    "label": "UK SDR: what the Sustainability Disclosure Requirements are, and who they actually apply to",
+    "summary": "The UK's Sustainability Disclosure Requirements (SDR) are the FCA's framework to reduce greenwashing in investment products. A broad anti-greenwashing rule applies to all FCA-regulated firms, while four voluntary labels and entity-level sustainability reports apply mainly to asset managers, phased in between 2024 and December 2026 depending on firm size. SDR does not yet extend to non-financial companies: mandatory reporting for listed companies against UK Sustainability Reporting Standards is proposed from January 2027, and rules for private companies are still under consultation. The FCA's February 2026 review found improving but still inconsistent compliance with labelling criteria.",
+    "category": "standards",
+    "tags": []
+  },
+  {
     "slug": "what-is-vsme-voluntary-sustainability-reporting",
     "filename": "standards-labels/What is VSME - Voluntary Sustainability Reporting.md",
     "label": "What is VSME - Voluntary Sustainability Reporting",
@@ -2919,5 +2865,13 @@
       "esg",
       "eu-policy"
     ]
+  },
+  {
+    "slug": "what-is-the-epd",
+    "filename": "standards-labels/What is the EPD?.md",
+    "label": "Environmental Product Declarations (EPDs)",
+    "summary": "An Environmental Product Declaration (EPD) is a standardised, independently verified document that reports a product's environmental impact across its life cycle, based on a Life Cycle Assessment under ISO 14040/14044. Governed by ISO 14025, and by EN 15804 for construction products, EPDs are issued by programme operators such as EPD International, IBU, and BRE, many coordinated through ECO Platform in Europe. EPDs do not declare a product \"good\" or \"bad\"; they provide comparable data for informed decision-making. Growth has been rapid, with over 18,000 valid EPDs in the International EPD System alone, and EU regulation is set to make this kind of data close to mandatory for construction products.",
+    "category": "standards",
+    "tags": []
   }
 ]
