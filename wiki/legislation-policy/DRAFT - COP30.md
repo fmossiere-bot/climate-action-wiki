@@ -1,9 +1,9 @@
 ---
 title: COP30
 category: legislation
-tags: [cop30, diplomacy, coalition, phaseout, finance, adaptation]
+tags: ["#cop30", "#diplomacy", "#coalition", "#phaseout", "#finance", "#adaptation"]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-07-06
 summary: "Why COP30 matters, What is at stake, 1) Shift our financial system, 2) Step up climate resilience, 3) Countries must deliver and act on ambitious national climate plans, 4) Protect and restore nature and transform food systems, What is the TFFF, 1. Multilateralism survived … just, 2. Adaptation funding tripled – but critics say it isn’t enough, 3. Plan for a just transition welcomed, 4. No mention of fossil fuels in final text, 5. Roadmap for transition away from fossil fuels survives – but it is voluntary, ✅ Update: Santa Marta Conference (April 2026), 6. Rainforest conference fails to create deforestation roadmap …, 7. … but new fund launched to help keep trees standing, What will COP30 actually be remembered for, South-Korea pledge to move away from Coal by 2040, USD $1.3 trillion per year by 2035, New Collective Quantified Goal (NCQG), at least USD 300 billion/year by 2035, Baku-to-Belém Roadmap, USD 1.3 trillion/year by 2035, NDCs, Yet collective ambition, still falls short, EU member states, reached, Indigenous Peoples’ and local communities, Sustainable Ocean Plans, roadmaps, Tuvalu, Ireland, The fossil fuel era is ending, Why is it important, Why is Australia taking note"
 ---
 
@@ -193,6 +193,13 @@ The Cop30 president and Brazilian diplomat, André Corrêa do Lago, said the pla
 
 ### ✅ Update: Santa Marta Conference (April 2026)
 The promised April summit took place in Santa Marta, Colombia (April 28–30, 2026). Nearly 60 countries agreed to develop national **roadmaps** to phase out fossil fuel production and use. France published the first national roadmap by a developed country. Colombia published a draft during the conference. A second conference will be held in **Tuvalu** in early 2027, co-hosted by **Ireland**. See [[santa-marta-fossil-fuel-conference-2026]] for full details.
+
+### ✅ Update: Bonn intersessional and COP31 Turkey (June 2026)
+At the June 2026 Bonn intersessional (the two-week technical meeting preparing the COP31 agenda), the Santa Marta initiative acquired a working name — **Transition Away From Fossil Fuels (TAFF)** — and its future structures were negotiated behind closed doors. UN climate chief Simon Stiell used the Iran war energy crisis to argue that fossil fuel dependence now means "importing inflation and economic instability."
+
+Outgoing COP30 President **André Correa do Lago** framed the shift as one from "COPs focused on negotiations to COPs focused on implementation." [COP31 will be held in Turkey](https://www.dw.com/en/turkey-to-host-cop31-after-australia-concedes/a-74814390) in November 2026.
+
+The **adaptation finance tripling** agreed at Belém is now stuck on a baseline dispute: does "triple" mean triple the ~$20bn 2019 baseline or the ~$40bn 2025 baseline? African lead negotiator **Antwi Boasiako Amoah** warned that Africa cannot fund adaptation through additional debt, and cautioned that TAFF risks fragmenting the multilateral process. Source: [DW, Tim Schauenberg, 18 June 2026](https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010) — see [dw-oil-nations-taff-2026](../sources/dw-oil-nations-taff-2026.md).
 
 ## 6. Rainforest conference fails to create deforestation roadmap …
 Cop30 was deliberately sited in the Amazon to put focus on the vital role in climate of forests. Brazil’s environment minister, Marina Silva, tried to include a roadmap on ending deforestation in the core agreement at Belém.

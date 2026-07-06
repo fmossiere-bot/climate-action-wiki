@@ -4,6 +4,160 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-06 ingest | EAT-Lancet 2025 — The Planetary Health Diet Update
+
+**Source file:** `raw/articles/EAT-Lancet report Three key takeaways on climate and diet change.md`
+**Original source:** Carbon Brief Staff, 2 October 2025 — https://www.carbonbrief.org/eat-lancet-report-three-key-takeaways-on-climate-and-diet-change/
+**Underlying report:** Rockström et al. (2025), *The EAT-Lancet Commission on healthy, sustainable and just food systems*, The Lancet Commissions, DOI: 10.1016/S0140-6736(25)01201-2
+
+**What was done:**
+- Created source summary: `wiki/sources/eat-lancet-2025-carbonbrief.md`
+- Created new wiki page: `wiki/sectors/agriculture-food/eat-lancet-planetary-diet-2025.md`
+- Updated `wiki/index.md` — added source entry and new agriculture-food page entry
+
+**Key content added:**
+- 2025 update of the 2019 planetary health diet, with improved food-system modelling and a new social-justice dimension
+- Food systems = ~1/3 of human-driven GHG; even with full fossil phaseout, food alone can push past 1.5°C
+- Recommended ~2,400 kcal/day, plant-rich, minimally processed — still allows ~1 glass milk/day, 2 meat + 2 egg servings/week
+- Full dietary transformation cuts non-CO2 agri-emissions 20% vs 2020 and cuts agricultural land use by 3.4 million km² (India-sized)
+- Dietary shift + ambitious mitigation policies cut non-CO2 agri-emissions 34%
+- ~15 million avoidable deaths/year if adopted widely
+- Richest 30% of the world's population = 70%+ of food-system environmental pressure
+- Food systems are the largest driver of five of nine planetary boundaries being breached
+- Rockström expects and is prepared for another meat-industry backlash (DeSmog documented the 2019 disinformation campaign)
+
+---
+
+## 2026-07-06 skip | Greenwashing, illegality and false claims 13 climate litigation wins in 2025 1.md
+
+**Source file:** `raw/articles/Greenwashing, illegality and false claims 13 climate litigation wins in 2025 1.md`
+
+**Decision:** Skipped. Duplicate of `raw/articles/Greenwashing, illegality and false claims 13 climate litigation wins in 2025.md`, which was ingested on 2026-06-12. Same Guardian article by Isabella Kaminski (31 December 2025); this copy differs only in the `created` timestamp and a trailing Guardian donation appeal, which is not substantive content.
+
+---
+
+## 2026-07-06 skip | How food and farming will determine the fate of planet Earth.md (re-download)
+
+**Source file:** `raw/articles/How food and farming will determine the fate of planet Earth.md`
+
+**Decision:** Skipped. Already ingested on 2026-06-04. Same Project Drawdown article by Jonathan Foley PhD (30 March 2024) at the same URL. The file is a fresh re-clip; the content is already reflected in `wiki/sectors/agriculture-food/agriculture-planetary-footprint.md` and the source summary `wiki/sources/foley-food-farming-fate-earth-2024.md`.
+
+---
+
+## 2026-07-06 ingest | Bio-Based Wood Resins Outperform Fossil Composites (University of Oulu)
+
+**Source file:** `raw/articles/New wood-based resin beats fossil resin strength by 76%.md`
+**Original source:** New Atlas, Etiido Uko (with Juha Heiskanen, University of Oulu), 8 March 2026 — https://newatlas.com/materials/bio-based-wooden-plastic-resins/
+**Peer-reviewed study:** *Composites Part B: Engineering* (2026) — https://www.sciencedirect.com/science/article/pii/S1359836825011722
+
+**What was done:**
+- Created source summary: `wiki/sources/wood-based-resin-oulu-2026.md`
+- Created new wiki page: `wiki/sectors/industry/bio-based-resins-composites.md`
+- Updated `wiki/index.md` — added source entry and new industry page entry
+
+**Key content added:**
+- University of Oulu team (Salonen, Heiskanen et al.) has replaced petroleum-derived DGEBA with furfural-derived diepoxides made from lignocellulosic biomass (sawdust, straw)
+- Bio-based polyester resin: 76% higher tensile strength than commercial fossil polyester
+- Bio-based epoxy composites: improved toughness and higher tensile/flexural strength than DGEBA
+- Furfural-based diepoxide has a degradable chemical structure — first bio-epoxy composite reported to combine high mechanical performance with chemical recyclability
+- 90-day harbour weathering test passed
+- Production compatible with existing chemical industry lines — no factory retool; price parity feasible once feedstocks scale
+- Three patents filed; industrial partners being sought
+- EU strategic autonomy angle: Europe has <2% of global oil reserves
+- Applications: wind turbine blades, boat hulls, car body panels, aircraft, sporting goods, civil engineering
+
+---
+
+## 2026-07-06 ingest | BP Shareholder Rebellion — Triple Climate Defeat at April 2026 AGM
+
+**Source file:** `raw/articles/BP board suffers triple climate rebellion from shareholders.md`
+**Original source:** The Guardian, Jillian Ambrose, 23 April 2026 — https://www.theguardian.com/uk-news/2026/apr/23/bp-board-suffers-triple-climate-rebellion-from-shareholders
+
+**What was done:**
+- Created source summary: `wiki/sources/bp-shareholder-rebellion-2026.md`
+- Created new wiki page: `wiki/climate-finance/bp-shareholder-rebellion-2026.md`
+- Updated `wiki/index.md` — added source entry and new climate-finance page entry
+
+**Key content added:**
+- BP's first AGM under new chair Albert Manifold and new CEO Meg O'Neill (first female CEO of any oil major)
+- >50% of votes opposed the plan to scrap existing climate reporting
+- >50% opposed replacing in-person AGMs with online-only meetings
+- 18% opposed re-election of chair — described as "unprecedented" less than a year into the role
+- LGIM (UK's largest asset manager) voted against climate-reporting rollback and against Manifold
+- Glass Lewis and ISS proxy advisers opposed the rollback; Glass Lewis also opposed Manifold personally, over exclusion of the Follow This resolution asking how BP's rising oil and gas output aligns with a world shifting away from fossil fuels
+- Wider context: BP has walked back Bernard Looney's transition targets to close a market-value gap with Shell — investors not convinced
+- Mark van Baal (Follow This): "How does BP plan to create value for shareholders as oil and gas demand declines? BP would rather antagonise its shareholders than answer it."
+- Nick Mazan (ACCR): "Investors have communicated loud and clear that brushing shareholders aside is unacceptable in public markets."
+
+---
+
+## 2026-07-06 ingest | Oil Nations on Edge — TAFF Coalition at Bonn Intersessional
+
+**Source file:** `raw/articles/Oil nations on edge in the face of new climate coalition.md`
+**Original source:** DW (Deutsche Welle), Tim Schauenberg, 18 June 2026 — https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010
+
+**What was done:**
+- Created source summary: `wiki/sources/dw-oil-nations-taff-2026.md`
+- Updated existing page: `wiki/solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md` — added "June 2026 update: TAFF at the Bonn intersessional" section; corrected frontmatter tags to quoted hashtag form; added DW to sources; expanded summary keywords
+- Updated existing page: `wiki/legislation-policy/DRAFT - COP30.md` — added "Update: Bonn intersessional and COP31 Turkey (June 2026)" subsection; quoted tags; updated date
+- Updated `wiki/index.md` — added source entry; updated descriptions for both pages above
+
+**Key content added:**
+- Santa Marta coalition now has a working name: **Transition Away From Fossil Fuels (TAFF)**
+- Iran war and resulting energy price shock have shifted political mood in Bonn
+- UN climate chief Simon Stiell: fossil fuel dependence means "importing inflation and economic instability"
+- African lead negotiator Antwi Boasiako Amoah cautions TAFF risks fragmenting the multilateral process; Africa cannot fund adaptation through additional debt
+- COP31 will be held in Turkey, November 2026
+- Adaptation finance tripling debate stuck on baseline year: ~$20bn (2019) vs ~$40bn (2025)
+- Outgoing COP30 President André Correa do Lago: "moving from COPs focused on negotiations to COPs focused on implementation"
+
+---
+
+## 2026-07-06 ingest | Heatwaves and Sport (own-research)
+
+**Source file:** `raw/own-research/Sports and Heatwave.md`
+**Original source:** Own research by Fabien Mossière, based on Bloomberg Green Zero podcast episode "Is the world becoming too hot for summer sports?" (2 July 2026, Akshat Rathi with Jessica Murfree, UNC)
+
+**What was done:**
+- Filed directly (own-research — no summarising): `wiki/sectors/heatwaves-and-sport.md`
+- Added standard frontmatter, editorial summary blockquote, tags and relative markdown links
+- Preserved original body content exactly
+- Updated `wiki/index.md` — added entry under Sport section
+
+**Key content:**
+- Sport-and-climate as a two-way problem: warming changes how sport is played; sport itself emits through travel, construction, sponsorship
+- Health risk: elite athletes, humidity and wet-bulb; risks extend to farmers and construction workers
+- Sports most exposed: baseball, football, soccer, track and field, cricket
+- Current adaptations: hydration breaks, marathon relocation (Tokyo), rule changes, indoor ice hockey, lighter clothing
+- Athlete activism: fossil fuel sponsorship protest by women's football players; David Pocock (rugby → senator)
+- 2026 World Cup expected to emit ~7.8 Mt CO2, mostly fan travel; Qatar 2022 emissions dominated by stadium construction
+- Options: rotation of hosts, fewer events, smaller formats, sponsorship transition, calendar shift
+
+---
+
+## 2026-07-06 ingest | Beef and Climate Change — WRI Six-Question Explainer
+
+**Source file:** `raw/articles/6 Pressing Questions About Beef and Climate Change, Answered.md`
+**Original source:** World Resources Institute — Waite, Searchinger, Ranganathan & Zionts (updated March 2022, originally 2019) — https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered
+
+**What was done:**
+- Created source summary: `wiki/sources/wri-beef-6-questions-2022.md`
+- Created new wiki page: `wiki/sectors/agriculture-food/beef-and-climate-change.md` (Article template, follows WRI's six-question structure but rewritten in European accessible tone)
+- Updated `wiki/index.md` — added source entry and new agriculture-food page entry
+
+**Key content added:**
+- Beef emissions come from enteric fermentation (methane), manure (N2O), and land-use change (CO2)
+- ~3 billion tonnes CO2-eq in 2010 (~7% of global GHG, comparable to India)
+- Beef requires ~20× more land and emits ~20× more GHG per gram of protein than beans
+- WRI target: ~50 calories/day (~1.5 burgers/week) in high-consuming countries would eliminate the need for further ag land expansion by 2050
+- US per capita beef consumption already down one-third since 1970s but decline needs to be 1.5× faster
+- Silvopasture (Colombia): quadrupled cows/acre, cut methane per kg
+- Kenya dairy trials: 8–60% methane per litre of milk via napier grass + Calliandra
+- Feed additives: 3-NOP, seaweed
+- COP26 methane pledge (30% by 2030) + deforestation pledge both hinge on beef
+
+---
+
 ## 2026-07-01 ingest | Ariana Mine and Santander — $100m Loan vs Lima's Water Supply
 
 **Source files:**

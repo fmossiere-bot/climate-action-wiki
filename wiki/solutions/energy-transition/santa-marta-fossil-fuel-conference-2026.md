@@ -1,11 +1,11 @@
 ---
 title: Santa Marta Conference — Building a Coalition to Phase Out Fossil Fuels (2026)
 category: solutions
-tags: [fossil-fuels, phaseout, international-diplomacy, coalition, roadmaps, colombia, cop31, tuvalu, ireland]
-sources: ["raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md"]
+tags: ["#fossil-fuels", "#phaseout", "#diplomacy", "#coalition", "#cop30"]
+sources: ["raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md", "raw/articles/Oil nations on edge in the face of new climate coalition.md"]
 created: 2026-05-29
-updated: 2026-05-29
-summary: "roadmap, ~60 countries, more than 50% of global GDP, Almost half, Major absentees, France, Colombia, second conference, Tuvalu, co-hosted by Ireland"
+updated: 2026-07-06
+summary: "Santa Marta, TAFF, Transition Away From Fossil Fuels, roadmap, ~60 countries, more than 50% of global GDP, Almost half producers, Major absentees, France, Colombia, Netherlands, second conference, Tuvalu, co-hosted by Ireland, Bonn 2026 intersessional, COP31 Turkey, Iran war energy crisis, Simon Stiell, Africa negotiator concerns, adaptation finance tripling"
 ---
 
 # Santa Marta Conference — Building a Coalition to Phase Out Fossil Fuels (2026)
@@ -37,6 +37,16 @@ For the roughly 60 participating countries — who together represent more than 
 - NDCs (countries' existing Paris Agreement pledges) are not sufficient substitutes for roadmaps because they only cover a country's domestic emissions, not the climate impact of fossil fuels it exports [[colombia-santa-marta-fossil-fuel-talks-2026]]
 - Participants agreed to scrutinise fossil fuel subsidies and collaborate on trade policy and climate finance
 
+## June 2026 update: TAFF at the Bonn intersessional
+
+By the June 2026 UN climate intersessional in Bonn, the Santa Marta initiative had a working name — the **Transition Away From Fossil Fuels (TAFF)** coalition — and was quietly negotiating its future structures behind closed doors. Reporting by DW's Tim Schauenberg found that petrostates who had opposed phaseout language at [COP30 in Belém](../../legislation-policy/DRAFT - COP30.md) — Saudi Arabia, Iran, China, Russia, Tanzania and Senegal in particular — were becoming "on edge" about the plurilateral coalition growing outside the UNFCCC process.
+
+The **Iran war and the associated energy price shock** added momentum. UN climate chief **Simon Stiell** opened the Bonn talks by arguing that maintaining dependence on fossil fuels now meant "importing inflation and economic instability." IEA director **Fatih Birol** made the same point in economic terms: the current crisis has exposed the vulnerability of energy systems built on fragile fossil supply chains. A New Climate Institute review found the EU, Chile, Indonesia and Vietnam using the crisis to accelerate electrification, while Germany and several others fell back on tax relief for fossil fuels.
+
+The most significant pushback on TAFF came from **African negotiators**. Lead negotiator **Antwi Boasiako Amoah** warned that a coalition of the willing risks bypassing the multilateral process: *"It is a multilateral process and we shouldn't engage outside the process and later come and then probably push those outcomes on others who are not part of the willing."* African positions on phaseout remain complicated because some countries export fossil fuels and others rely on them for energy-access finance. Amoah also insisted that Africa cannot fund adaptation through additional debt — the continent needs public grants and international finance, not loans.
+
+**Outgoing COP30 President André Correa do Lago** framed the moment as a shift: *"We are moving from COPs focused on negotiations to COPs focused on implementation."* [COP31 will be held in Turkey](https://www.dw.com/en/turkey-to-host-cop31-after-australia-concedes/a-74814390) in November 2026, followed by the second TAFF conference in Tuvalu in early 2027 (co-hosted by Ireland).
+
 ## Connected topics
 
 - [[DRAFT - COP30]] — the November 2025 summit where fossil fuel phaseout was blocked from the formal text, prompting this initiative
@@ -49,3 +59,5 @@ For the roughly 60 participating countries — who together represent more than 
 
 ## Sources
 
+- The Guardian, Fiona Harvey & Jonathan Watts, 30 April 2026 — Santa Marta outcomes
+- DW, Tim Schauenberg, 18 June 2026 — https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010 — Bonn intersessional and TAFF momentum

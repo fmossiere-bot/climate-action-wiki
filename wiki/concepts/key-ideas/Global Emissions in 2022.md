@@ -10,7 +10,7 @@ summary: "Land-based emissions, Looking at energy-related CO2 emissions only, Tr
 When we look at global emissions, we often look at purely CO2 emissions, then combined with non-CO2 Greenhouse Gaz emissions (GHG) such as Methane, Notrous Oxide and Fluorinated Gases
 
 What are CO2 emissions and GHG? 
-[[DRAFT - OZONE Layer FACTS]]
+[[Facts about the Ozone Layer]]
 [[DRAFT - Methane emissions role in Global Warming]]
 
 There are different ways to look at emissions: 

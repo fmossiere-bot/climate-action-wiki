@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-01
+Last updated: 2026-07-06
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -57,6 +57,11 @@ Summaries of every ingested source file.
 | [[pine-island-glacier-attribution-2026]] | Phys.org / KCL / BAS (Jun 2026): first direct attribution of Antarctic outlet glacier retreat to human activity — Pine Island Glacier retreated 18–20% more due to anthropogenic ocean warming |
 | [[ariana-mine-banktrack-2026]] | BankTrack Dodgy Deal dossier (2026): Ariana copper/zinc mine in Peru — Alpayana project, $100m Santander refinancing, threats to Lima's water via SEDAPAL and constitutional court |
 | [[ariana-mine-eko-petition-2026]] | Ekō petition (Jun 2026): Santander asked to use its influence to stop the Ariana mining project — reframes the "transition minerals" defence |
+| [[wri-beef-6-questions-2022]] | WRI (updated Mar 2022): six-question explainer on beef and climate — 20× land/GHG vs beans, 50 cal/day target for high-consuming countries, silvopasture and feed additives |
+| [[dw-oil-nations-taff-2026]] | DW (Jun 2026): Bonn intersessional — TAFF coalition ("Transition Away From Fossil Fuels") gains momentum; Africa negotiators push back; adaptation finance baseline dispute |
+| [[bp-shareholder-rebellion-2026]] | Guardian (Apr 2026): BP's first AGM under new leadership — triple shareholder revolt against climate-reporting rollback, online-only AGMs, and chair re-election |
+| [[wood-based-resin-oulu-2026]] | New Atlas / U. Oulu (Mar 2026): bio-based wood-derived resin outperforms fossil polyester by 76% on tensile strength; chemically recyclable epoxy composites for wind blades, boats, aircraft |
+| [[eat-lancet-2025-carbonbrief]] | Carbon Brief (Oct 2025): EAT-Lancet 2025 planetary health diet — cuts non-CO2 agri-emissions 15–34%, saves India-sized land, prevents 15m deaths/year; richest 30% cause 70% of food-system pressures |
 
 ---
 
@@ -104,7 +109,8 @@ Funding the transition — investment, risk, green banking.
 |------|-------------|
 | Class 17 - Finance and Climate Change - Investment | Terra.do Class 17: climate investment |
 | [[fossil-fuel-banking]] | $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
-| [[ariana-mine-santander]] | **NEW** — Ariana copper/zinc mine in Peru: $100m Santander loan enabling a project judged an "imminent threat" to drinking water for 10 million people in Lima |
+| [[ariana-mine-santander]] | Ariana copper/zinc mine in Peru: $100m Santander loan enabling a project judged an "imminent threat" to drinking water for 10 million people in Lima |
+| [[bp-shareholder-rebellion-2026]] | **NEW** — BP's April 2026 AGM: triple shareholder revolt against climate-reporting rollback, online-only AGMs and the chair's re-election; LGIM, Glass Lewis, ISS and Follow This as movers |
 | Class 18 - Finance and Climate Change - RISK | Terra.do Class 18: climate financial risk |
 | GREEN Your Bank ACTION GUIDE | How to switch to a green bank |
 | Green Pension ACTION GUIDE | How to green your pension |
@@ -195,7 +201,9 @@ Funding the transition — investment, risk, green banking.
 | FACTS about CHOCOLATE and CACAO | Environmental impact of chocolate |
 | FACTS about Farming and Food production | Farming's climate footprint |
 | [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
-| [[lab-grown-meat]] | **NEW** — Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
+| [[lab-grown-meat]] | Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
+| [[beef-and-climate-change]] | Six-question WRI framing: methane + land-use change, 20× vs beans, 50 cal/day target reconciles feeding 10bn people with keeping forests |
+| [[eat-lancet-planetary-diet-2025]] | **NEW** — EAT-Lancet 2025 planetary health diet: ~2,400 kcal/day plant-rich; cuts non-CO2 agri-emissions 15–34%, saves 3.4 million km² of land, 15 million deaths/year averted; social-justice dimension added |
 | FACTS about RICE production | Rice emissions and impact |
 | Food Carbon FootPrint | Food's overall carbon footprint |
 | Is the meat industry following the Oil Industry? | Parallels between meat and fossil fuels |
@@ -240,6 +248,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | The Environmental Impact of Concrete, Cement Industry | Cement's climate footprint |
+| [[bio-based-resins-composites]] | **NEW** — Wood-derived furfural resins from University of Oulu outperform fossil polyester by 76% on tensile strength; chemically recyclable epoxy for wind turbine blades, boat hulls, aircraft |
 
 ### Sport (`wiki/sectors/`)
 
@@ -247,7 +256,8 @@ Funding the transition — investment, risk, green banking.
 |------|-------------|
 | [[Environmental Impact of football world cups]] | Carbon footprint of World Cups 2018–2026; heat risk (2× 1994), mandatory heat breaks; **updated** with FIFA-Aramco sportswashing, SGR 30M-tonne finding, 2034 Saudi hosting |
 | Environmental Impact of the Paris Olympics | Paris 2024 Olympics environmental assessment |
-| [[formula-1-sustainability-2026]] | **NEW** — Formula 1 down 35% on 2018 carbon baseline; SAF mandatory from 2026; net zero by 2030 target on track |
+| [[formula-1-sustainability-2026]] | Formula 1 down 35% on 2018 carbon baseline; SAF mandatory from 2026; net zero by 2030 target on track |
+| [[heatwaves-and-sport]] | **NEW** — Heatwaves and sport as a two-way problem: heat health risk (athletes, humidity, wet-bulb), major-event emissions (2026 World Cup ~7.8 Mt CO2), fossil fuel sponsorship, calendar rethink |
 
 ### Transport (`wiki/sectors/transport/`)
 
@@ -314,7 +324,7 @@ Funding the transition — investment, risk, green banking.
 | Space necessary for the various Energy Sources | Land use per energy source |
 | The Energy Supercycle is Unstoppable | The macro energy transition |
 | Where does the Oil goes to? Data | End-use breakdown of oil |
-| [[santa-marta-fossil-fuel-conference-2026]] | **NEW** — ~60 nations agree voluntary fossil fuel phaseout roadmaps (Apr 2026) |
+| [[santa-marta-fossil-fuel-conference-2026]] | ~60 nations agree voluntary fossil fuel phaseout roadmaps (Apr 2026) — **updated** with June 2026 Bonn intersessional: TAFF coalition, Iran-war energy crisis, Africa pushback, COP31 Turkey |
 
 ### Nature-Based Solutions (`wiki/solutions/nature-based-solutions/`)
 
@@ -396,7 +406,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Boards need to build competencies for a successful ESG strategy | ESG governance for boards |
-| [[DRAFT - COP30]] | COP30 Belém outcomes (November 2025) — **updated with Santa Marta follow-up** |
+| [[DRAFT - COP30]] | COP30 Belém outcomes (November 2025) — **updated** with Santa Marta follow-up and June 2026 Bonn intersessional (TAFF, COP31 Turkey, adaptation-finance baseline dispute) |
 | Class 19 - Corporate Climate Action | Terra.do Class 19: corporate action |
 | Emission Gap Report 2024 - UNEP | UNEP emissions gap report |
 | Global spending on subsidies that harm environment rises to $2.6tn | Fossil fuel subsidy data |
