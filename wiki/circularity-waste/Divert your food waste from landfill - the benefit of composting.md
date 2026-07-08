@@ -8,12 +8,14 @@ tags:
   - waste
   - france
   - Korea
+  - nature-based-solutions
 created: 2024-06-01
 updated: 2026-06-22
 summary: |-
   Diverts harmful methane emissions from landfills, Stores carbon in soil, Reduces the Need for Fertilizers, Improves Soil Health and Resilience, Finding your Spot and Sizing it Up, Compost Bin Options, Compost Supplies and Setup , Watch the Magic Happen, Filling Your Compost, Time to Compost, Composting Top Tips & Tricks, Enhance your own garden, Share it with others. 
   Compost is also an important solution in general for climate action. In Korea, 100% food waste is sent to compost
 ---
+
 
 Archeological evidence suggests that composting has been used since Neolithic times, That’s about 12,000 years ago
 
@@ -27,7 +29,14 @@ A compost pile is a tiny ecosystem with microorganisms like bacteria and fungi b
 - Air: Turning your pile helps those hardworking microbes breathe.
 
 
-Composting is awesome because it…
+Composting provides many advantages:
+- Composting reduces waste sent to landfills which is often incinerated and generates carbon emissions.
+- Reducing landfill waste can reduce air pollution and associated respiratory illnesses such as chronic obstructive pulmonary disease, asthma, and pneumonia.
+- When used for gardening or farming, compost reduce the need of fertilizers and pesticides in soils and helps improve soil health and thereby increase agricultural yields.
+- Compost retains water, prevents erosion, reduces runoff, establishes vegetation, and improves downstream water quality by retaining pollutants like heavy metals, nitrogen, phosphorus, oil, grease, fuels, herbicides, and pesticides.
+
+It is already quite high in most developed nations like the EU (57%). 
+This is mostly achieved thanks to community composters, and better waste separation at industry, company and individual levels. 
 
 
 ### Diverts harmful methane emissions from landfills
@@ -118,6 +127,18 @@ The destination of that compost is equally notable. According to research by the
 The compost is sold through short supply chains at a symbolic price of 15 euros per tonne and is certified compatible with organic farming. Demand among local farmers is strong. "We have no problem finding buyers," Petiot confirms. "On the contrary, farmers really appreciate it." The metropolitan authority is now exploring official certification for the product.
 
 _Source: Écologie 360, n°14. Original reporting by Sandra Moisson._
+
+## Composting in Ireland
+Ireland still has some way to go
+It is disheartening to see that we apparently still don't recycle and separate organic food. 
+ - 64% of food waste still placed in black bins
+ - only 69% of households have organic bins
+
+> Starting with the brown bin – which, if you are disposing of your rubbish correctly, should contain only cooked and raw food, light garden waste and compostable packaging. “The contents of the brown bins go for anerobic digestion or industrial composting and the waste management companies pay for it to be taken,” explains Crinion. There are seven private industrial composting facilities in Ireland licensed by local authorities or the EPA and the Department of Agriculture. The compost made at these sites is sold principally as peat replacement for landscaping, agriculture and horticulture.
+
+- About 800,000 householders throughout Ireland have a compostable waste bin (usually a brown bin) from a total of 1.3 million householders availing of kerbside waste collection services.
+- The contents of about 10 per cent of brown bins are sent to anerobic digestors in Ireland and the UK where methane gas is extracted and turned into electricity fed into the grid
+- The residual material – known as digestate – is used by farmers to spread on their land as an organic alternative to nitrogen fertilisers thus reducing the amount of greenhouse gases emitted into the atmosphere by this source.
 
 ---
 # Getting started with composting at home
