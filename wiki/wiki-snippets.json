@@ -288,6 +288,20 @@
     ]
   },
   {
+    "slug": "bp-shareholder-rebellion-2026",
+    "filename": "climate-finance/bp-shareholder-rebellion-2026.md",
+    "label": "BP's Triple Climate Rebellion — Shareholders Push Back at the April 2026 AGM",
+    "summary": "BP AGM April 2026, Albert Manifold chair, Meg O'Neill CEO, Bernard Looney legacy, shareholder rebellion, climate reporting rollback, in-person AGMs, Follow This resolution, LGIM Legal General, Glass Lewis, ISS, ACCR Australasian Centre for Corporate Responsibility, Mark van Baal, Nick Mazan, capital discipline, shareholder rights, oil and gas expansion strategy, Shell comparison, first female CEO oil major",
+    "category": "climate-finance",
+    "tags": [
+      "fossil-fuels",
+      "finance",
+      "esg",
+      "greenwashing",
+      "company-evaluations"
+    ]
+  },
+  {
     "slug": "fossil-fuel-banking",
     "filename": "climate-finance/fossil-fuel-banking.md",
     "label": "Fossil Fuel Banking continues",
@@ -417,17 +431,6 @@
     ]
   },
   {
-    "slug": "draft-ozone-layer-facts",
-    "filename": "climate-science/DRAFT - OZONE Layer FACTS.md",
-    "label": "OZONE Layer FACTS",
-    "summary": "On a Positive Note, OZONE Layer Damaging, China",
-    "category": "climate-science",
-    "tags": [
-      "science",
-      "aerosols"
-    ]
-  },
-  {
     "slug": "draft-wet-bulb-explained",
     "filename": "climate-science/DRAFT - Wet-Bulb explained.md",
     "label": "Wet-Bulb Temperature Explained",
@@ -437,6 +440,14 @@
       "science",
       "adaptation"
     ]
+  },
+  {
+    "slug": "facts-about-the-ozone-layer",
+    "filename": "climate-science/Facts about the Ozone Layer.md",
+    "label": "The Ozone Layer: How a Global Problem Was Nearly Solved, and Why It Still Needs Watching",
+    "summary": "On a Positive Note, OZONE Layer Damaging, China",
+    "category": "climate-science",
+    "tags": []
   },
   {
     "slug": "ipcc-10-findings-2023",
@@ -1486,6 +1497,34 @@
     ]
   },
   {
+    "slug": "beef-and-climate-change",
+    "filename": "sectors/agriculture-food/beef-and-climate-change.md",
+    "label": "Beef and Climate Change: Six Questions, Answered Plainly",
+    "summary": "beef emissions, ruminant methane, enteric fermentation, cattle burps, manure nitrous oxide, land use change, deforestation, pastureland expansion, WRI Sustainable Food Future, 20x land 20x GHG per gram protein, 50 calories per day, 1.5 burgers per week, Colombia silvopasture, Kenya dairy Calliandra, 3-NOP, seaweed feed additive, COP26 methane pledge, Amazon deforestation, dietary shift, plant-based burgers, developing country livelihoods, 10 billion people 2050",
+    "category": "sectors",
+    "tags": [
+      "agriculture",
+      "food",
+      "carbon",
+      "methane",
+      "behaviour"
+    ]
+  },
+  {
+    "slug": "eat-lancet-planetary-diet-2025",
+    "filename": "sectors/agriculture-food/eat-lancet-planetary-diet-2025.md",
+    "label": "The EAT-Lancet Planetary Health Diet (2025 Update)",
+    "summary": "EAT-Lancet 2025, planetary health diet, Johan Rockström, Line Gordon, Shakuntala Thilsted, plant-rich diet, 2400 calories, whole grains legumes nuts, methane nitrous oxide, non-CO2 agricultural emissions cut 15%, 15 million avoidable deaths, food system emissions one third, dietary shift plus mitigation 34% cut, planetary boundaries five breaches, food justice, richest 30% cause 70% food environmental pressure, meat industry disinformation backlash, DeSmog Animal Agriculture Alliance, land use savings 3.4 million km2, subsidies taxes food labelling",
+    "category": "sectors",
+    "tags": [
+      "food",
+      "agriculture",
+      "methane",
+      "behaviour",
+      "key-ideas"
+    ]
+  },
+  {
     "slug": "cryptocurrency-and-the-environment",
     "filename": "sectors/digital/Cryptocurrency and the environment.md",
     "label": "Cryptocurrency and the Environment",
@@ -1675,12 +1714,39 @@
     ]
   },
   {
+    "slug": "heatwaves-and-sport",
+    "filename": "sectors/heatwaves-and-sport.md",
+    "label": "Heatwaves and Sport: A Two-Way Problem",
+    "summary": "sport and climate change, heat health risk, athletes, humidity wet-bulb, cricket, baseball, football soccer, track and field, hydration breaks, Tokyo Olympics marathon relocation, Wimbledon, athlete activism, fossil fuel sponsorship, David Pocock, women's football fossil fuel protest, Jessica Murfree, 2026 World Cup 7.8 million tonnes CO2, Qatar 2022 stadiums, rotation of hosts, IOC, sporting calendar shift, indoor ice hockey, Zero podcast",
+    "category": "sectors",
+    "tags": [
+      "sport",
+      "adaptation",
+      "behaviour",
+      "fossil-fuels"
+    ]
+  },
+  {
     "slug": "cement-and-concrete-a-hidden-climate-problem",
     "filename": "sectors/industry/Cement and Concrete - A Hidden Climate Problem.md",
     "label": "Cement and Concrete: A Hidden Climate Problem",
     "summary": "|-",
     "category": "sectors",
     "tags": []
+  },
+  {
+    "slug": "bio-based-resins-composites",
+    "filename": "sectors/industry/bio-based-resins-composites.md",
+    "label": "Bio-Based Resins: Wood-Derived Composites That Beat Fossil Equivalents",
+    "summary": "bio-based resin, wood composites, furfural, diepoxide, DGEBA, epoxy, polyester replacement, University of Oulu Finland, Juha Heiskanen, Mikko Salonen, wind turbine blades, boat hulls, car body panels, aircraft composites, lignocellulosic biomass, sawdust straw sidestreams, chemical recycling, closed-loop composites, EU material self-sufficiency, bioeconomy, 76% higher tensile strength, hard-to-abate materials",
+    "category": "sectors",
+    "tags": [
+      "industry",
+      "circularity",
+      "renewables",
+      "research",
+      "alternative-fuels"
+    ]
   },
   {
     "slug": "draft-cars-life-cycle-emissions-ev-vs-combustion",
@@ -2064,23 +2130,35 @@
     "slug": "santa-marta-fossil-fuel-conference-2026",
     "filename": "solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md",
     "label": "Santa Marta Conference — Building a Coalition to Phase Out Fossil Fuels (2026)",
-    "summary": "roadmap, ~60 countries, more than 50% of global GDP, Almost half, Major absentees, France, Colombia, second conference, Tuvalu, co-hosted by Ireland",
+    "summary": "Santa Marta, TAFF, Transition Away From Fossil Fuels, roadmap, ~60 countries, more than 50% of global GDP, Almost half producers, Major absentees, France, Colombia, Netherlands, second conference, Tuvalu, co-hosted by Ireland, Bonn 2026 intersessional, COP31 Turkey, Iran war energy crisis, Simon Stiell, Africa negotiator concerns, adaptation finance tripling",
     "category": "solutions",
     "tags": [
       "fossil-fuels",
       "phaseout",
-      "international-diplomacy",
+      "diplomacy",
       "coalition",
-      "roadmaps",
-      "colombia",
-      "cop31",
-      "tuvalu",
-      "ireland"
+      "cop30"
     ]
   },
   {
+    "slug": "lagom-chef",
+    "filename": "solutions/food/Lagom Chef.md",
+    "label": "Lagom Chef: Turning \"Eat The Food You Buy\" Into a Movement Against Food Waste",
+    "summary": "|-",
+    "category": "",
+    "tags": []
+  },
+  {
+    "slug": "sustainable-chocolate",
+    "filename": "solutions/food/Sustainable Chocolate.md",
+    "label": "A tasty chocolate alternative towards more sustainable food",
+    "summary": "",
+    "category": "",
+    "tags": []
+  },
+  {
     "slug": "lab-grown-meat",
-    "filename": "solutions/lab-grown-meat.md",
+    "filename": "solutions/food/lab-grown-meat.md",
     "label": "Lab-Grown Meat - Revolution or Distant Promise?",
     "summary": "lab-grown meat, cultured meat, in vitro meat, plant-based meat, bioreactor, cellular agriculture, meat emissions, livestock emissions, agricultural land use, water footprint, antimicrobial resistance, food innovation, meat alternatives, investment decline, food security, Singapore, UK, US, Israel, Mark Post, energy-intensive production, food system transformation",
     "category": "sectors",
@@ -2361,6 +2439,19 @@
     "tags": []
   },
   {
+    "slug": "bp-shareholder-rebellion-2026",
+    "filename": "sources/bp-shareholder-rebellion-2026.md",
+    "label": "BP board suffers triple climate rebellion from shareholders (Guardian, April 2026)",
+    "summary": "BP AGM April 2026, Albert Manifold chair, Meg O'Neill CEO, Bernard Looney legacy, shareholder rebellion, climate reporting rollback, Follow This resolution, Legal General Investment Management LGIM, Glass Lewis, ISS proxy advisers, ACCR Australasian Centre for Corporate Responsibility, in-person AGM online-only, Mark van Baal, Nick Mazan, oil and gas expansion, capital discipline, shareholder rights, first-female oil major CEO",
+    "category": "sources",
+    "tags": [
+      "fossil-fuels",
+      "finance",
+      "esg",
+      "greenwashing"
+    ]
+  },
+  {
     "slug": "china-underwater-data-centre-2026",
     "filename": "sources/china-underwater-data-centre-2026.md",
     "label": "Source: World's first underwater data center powered by wind is now online",
@@ -2441,6 +2532,33 @@
     "summary": "",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "dw-oil-nations-taff-2026",
+    "filename": "sources/dw-oil-nations-taff-2026.md",
+    "label": "Oil nations on edge in the face of new climate coalition (DW, June 2026)",
+    "summary": "Bonn climate talks 2026, TAFF, Transition Away From Fossil Fuels coalition, Santa Marta follow-up, Colombia Netherlands, COP30 Belém, COP31 Turkey, André Correa do Lago, Simon Stiell, Iran war energy crisis, Saudi Arabia Iran opposition, Africa negotiators Antwi Boasiako Amoah, adaptation finance tripling, 2019 baseline versus 2025, Fatih Birol IEA, New Climate Institute report, oil gas dependence, fossil fuel phaseout, coalition of the willing",
+    "category": "sources",
+    "tags": [
+      "fossil-fuels",
+      "diplomacy",
+      "eu-policy",
+      "cop30"
+    ]
+  },
+  {
+    "slug": "eat-lancet-2025-carbonbrief",
+    "filename": "sources/eat-lancet-2025-carbonbrief.md",
+    "label": "EAT-Lancet 2025 report — three key takeaways on climate and diet change (Carbon Brief)",
+    "summary": "EAT-Lancet Commission 2025, planetary health diet, Johan Rockström, Line Gordon, Shakuntala Thilsted, plant-rich diet, 2400 calories, whole grains, legumes, nuts, fruit vegetables, methane, nitrous oxide, non-CO2 agricultural emissions, 15 million avoidable deaths, food system emissions one third, 15% cut by 2050, dietary shift plus mitigation 34% cut, planetary boundaries five breaches, food system justice, meat industry backlash 2019, DeSmog Animal Agriculture Alliance, SSP2-7.0 baseline, land use 3.4 million km2 India, plant-rich diet policy levers, subsidies taxes labelling",
+    "category": "sources",
+    "tags": [
+      "food",
+      "agriculture",
+      "behaviour",
+      "nature-based-solutions",
+      "key-ideas"
+    ]
   },
   {
     "slug": "europe-forested-countries-2026",
@@ -2720,6 +2838,20 @@
     "tags": []
   },
   {
+    "slug": "wood-based-resin-oulu-2026",
+    "filename": "sources/wood-based-resin-oulu-2026.md",
+    "label": "New wood-based resin beats fossil resin strength by 76% (New Atlas / University of Oulu, March 2026)",
+    "summary": "bio-based resin, furfural, diepoxide, DGEBA, epoxy, polyester, University of Oulu, Juha Heiskanen, Mikko Salonen, wind turbine blades, boat hulls, glass fibre composites, carbon fibre composites, lignocellulosic biomass, agricultural sidestreams, sawdust, straw, chemical recycling, closed-loop composites, EU material self-sufficiency, bioeconomy, Composites Part B Engineering, industrial pilot",
+    "category": "sources",
+    "tags": [
+      "industry",
+      "circularity",
+      "alternative-fuels",
+      "renewables",
+      "research"
+    ]
+  },
+  {
     "slug": "world-cup-heat-outrage-optimism-2026",
     "filename": "sources/world-cup-heat-outrage-optimism-2026.md",
     "label": "Extreme Heat Breaks — The Climate Story Behind the 2026 World Cup",
@@ -2742,6 +2874,19 @@
     "summary": "",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "wri-beef-6-questions-2022",
+    "filename": "sources/wri-beef-6-questions-2022.md",
+    "label": "6 Pressing Questions About Beef and Climate Change, Answered (WRI, 2022)",
+    "summary": "WRI, beef emissions, ruminant methane, enteric fermentation, land use change, deforestation, pastureland expansion, feed efficiency, 3-NOP, seaweed additive, plant-based burgers, 50 calories per day target, ruminant meat consumption, Colombia silvopasture, Kenya dairy, resource intensity, 20x land, 20x GHG per gram protein, Latin America deforestation, COP26 methane pledge, 30 percent methane reduction, World Resources Report Sustainable Food Future",
+    "category": "sources",
+    "tags": [
+      "agriculture",
+      "food",
+      "carbon",
+      "nature-based-solutions"
+    ]
   },
   {
     "slug": "7-principles-to-sustainability-reporting",
