@@ -109,17 +109,6 @@
     "tags": []
   },
   {
-    "slug": "draft-facts-about-e-waste",
-    "filename": "circularity-waste/DRAFT - FACTS about E-Waste.md",
-    "label": "FACTS about E-Waste",
-    "summary": "What are E-Waste, How much E-Waste do we generate, What is driving that increase, What about Recycling, The Global Flow of Uncontrolled E-Waste, An EU e-waste target, COMPANIES, Source",
-    "category": "circularity-waste",
-    "tags": [
-      "e-waste",
-      "circularity"
-    ]
-  },
-  {
     "slug": "draft-facts-about-plastic",
     "filename": "circularity-waste/DRAFT - FACTS about Plastic.md",
     "label": "FACTS about Plastic",
@@ -183,6 +172,14 @@
     "tags": []
   },
   {
+    "slug": "facts-about-e-waste",
+    "filename": "circularity-waste/FACTS about E-Waste.md",
+    "label": "E-Waste: The Fastest-Growing Waste Stream in the World category",
+    "summary": "What are E-Waste, How much E-Waste do we generate, What is driving that increase, What about Recycling, The Global Flow of Uncontrolled E-Waste, An EU e-waste target, COMPANIES, Source",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
     "slug": "glass-vs-plastic-which-is-actually-better-for-the-environment",
     "filename": "circularity-waste/Glass vs Plastic - Which Is Actually Better for the Environment?.md",
     "label": "Glass vs Plastic: Which Is Actually Better?",
@@ -221,6 +218,20 @@
     "summary": "The circular economy offers an alternative to the linear model of take, make, dispose, keeping products and materials in use for as long as possible. It is a central pillar of the EU's climate strategy, yet progress has been slow. The EU's circularity rate stood at just 12.2% in 2024, against a 2030 target of 24%. New legislation, including the Right to Repair Directive, rules on textile and food waste, and the forthcoming Circular Economy Act, is pushing the transition forward. But financing gaps, uneven progress across member states, and persistent reliance on linear models mean the hard work is still ahead.",
     "category": "circularity-waste",
     "tags": []
+  },
+  {
+    "slug": "plastic-mass-balance-greenwashing",
+    "filename": "circularity-waste/plastic-mass-balance-greenwashing.md",
+    "label": "The 'Recycled' Plastic That Isn't: Mass-Balance Accounting and the Pyrolysis Loophole",
+    "summary": "mass-balance bookkeeping, pyrolysis oil, chemical recycling, ISCC certification, avoided emissions, Sabic Aramco, Kraft Heinz Beanz, Mondelēz Philadelphia, PPWR EU 2026, UK plastic packaging tax mass balance 2027, Zero Waste Europe, Ecos, Helmut Maurer, Lauriane Veillard, Peter Quicker, Plastic Energy, virgin naphtha, plastic industry lobbying, LCA critiqued, Guardian investigation, IJ4EU, fossil fuel plastic pivot",
+    "category": "circularity-waste",
+    "tags": [
+      "plastic",
+      "circularity",
+      "greenwashing",
+      "eu-policy",
+      "fossil-fuels"
+    ]
   },
   {
     "slug": "seaqual-ocean-plastic-fashion",
@@ -482,6 +493,20 @@
       "carbon",
       "science",
       "fossil-fuels"
+    ]
+  },
+  {
+    "slug": "record-hot-ocean-el-nino-2026",
+    "filename": "climate-science/record-hot-ocean-el-nino-2026.md",
+    "label": "A Record-Hot Ocean and the 2026 El Niño: The Climate Story We're Barely Telling",
+    "summary": "ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-99%, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment",
+    "category": "climate-science",
+    "tags": [
+      "science",
+      "ocean",
+      "adaptation",
+      "key-ideas",
+      "coalition"
     ]
   },
   {
@@ -1101,17 +1126,6 @@
     ]
   },
   {
-    "slug": "draft-ireland-climate-adaptation",
-    "filename": "ireland-hub/DRAFT - IRELAND Climate Adaptation.md",
-    "label": "Ireland Climate Adaptation",
-    "summary": "Powerscourt need to replace 80% of its hedges",
-    "category": "ireland-hub",
-    "tags": [
-      "ireland",
-      "adaptation"
-    ]
-  },
-  {
     "slug": "draft-ireland-data-centre-dilemna",
     "filename": "ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md",
     "label": "Ireland Data Centre Dilemma",
@@ -1232,6 +1246,14 @@
     "filename": "ireland-hub/Heating Ireland - A Sector Behind on Climate Targets.md",
     "label": "Heating Ireland: A Sector Behind on Climate Targets",
     "summary": "Some of the Key Findings, Energy Used for Heating Buildings in Ireland, District heating potential, Prominence of heat pumps, Electricity, Natural Gas, Coal and Peat, Renewables. Heating is one of Ireland's most overlooked climate problems. It accounts for nearly a quarter of all national greenhouse gas emissions, it is still dominated by oil and fossil fuels, and emissions from the sector have actually been rising since 2014. The SEAI National Heat Study, commissioned by the Sustainable Energy Authority of Ireland, provides the most comprehensive analysis to date of what it will take to decarbonise heating by 2050. The findings are clear: current policy is not enough, and the pace of change needs to accelerate significantly.",
+    "category": "ireland-hub",
+    "tags": []
+  },
+  {
+    "slug": "ireland-climate-adaptation",
+    "filename": "ireland-hub/Ireland Climate Adaptation.md",
+    "label": "Ireland Climate Adaptation",
+    "summary": "|-",
     "category": "ireland-hub",
     "tags": []
   },
@@ -1746,6 +1768,20 @@
     ]
   },
   {
+    "slug": "construction-industry-reuse-target",
+    "filename": "sectors/industry/construction-industry-reuse-target.md",
+    "label": "Construction industry: the reuse target",
+    "summary": "reuse in construction, France, Ademe 30-40% reduction, Blanchemaille Roubaix, La Redoute headquarters, Neo-Eco, Kennedy tower Loos, Engie La Garenne-Colombes, Saint-Gobain Eurocoustic Clipper Coramine, RE2020 regulation, zero-carbon reused materials, Bouygues Immobilier Opaline Green Fabrik, Cyneo platform, BTP Match, Recyclo'Bat, CD2E Loos en Gohelle, Circable Vinci, insurance certification, selective removal, planned deconstruction, circular economy construction, cement steel reuse",
+    "category": "sectors",
+    "tags": [
+      "buildings",
+      "industry",
+      "circularity",
+      "carbon",
+      "eu-policy"
+    ]
+  },
+  {
     "slug": "draft-cars-life-cycle-emissions-ev-vs-combustion",
     "filename": "sectors/transport/DRAFT - CARS Life Cycle Emissions - EV vs Combustion.md",
     "label": "CARS Life Cycle Emissions - EV vs Combustion",
@@ -2203,9 +2239,15 @@
     "slug": "the-incredible-environmental-properties-of-bamboo",
     "filename": "solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md",
     "label": "Bamboo: a versatile material for the low-carbon transition",
-    "summary": "Bamboo plantations have incredible environmental properties: with their expansive underground stems, they reduce soil erosion and prevent sediments from entering streams and rivers. Fallen leaves carpet the ground, which reduces water evaporation. Their hollow stems retain water into the dry season, thus increasing environmental humidity. Dense bamboo vegetation also captures water droplets from fog. It is one of the top 100 solutions proposed by Project Drawdown in order to stay under 1.5C",
+    "summary": "bamboo carbon sequestration, Project Drawdown solution 31, La Bambouseraie, Cobratex composites, Vendée Globe sailboat, Fiboo insulation, Horizom France, Bamboo Village Trust Indonesia, ISO 22156 bamboo structures manual, Institution of Structural Engineers, Kempegowda airport Bengaluru, Ninghai bamboo tower China, Green School Bali, composite bamboo shear walls, Colombia Philippines earthquake housing, David Trujillo Warwick, Neil Thomas Atelier One, bamboo two-storey limit, Portugal European bamboo crop",
     "category": "solutions",
-    "tags": []
+    "tags": [
+      "nature",
+      "forest",
+      "carbon",
+      "nature-based-solutions",
+      "buildings"
+    ]
   },
   {
     "slug": "why-eating-less-meat-is-one-of-the-most-powerful-things-you-can-do-for-the-climate",
@@ -2428,6 +2470,19 @@
     ]
   },
   {
+    "slug": "bamboo-construction-guardian-2026",
+    "filename": "sources/bamboo-construction-guardian-2026.md",
+    "label": "Schools, airports, high-rise towers: architects urged to get 'bamboo-ready' (Guardian, Jan 2026)",
+    "summary": "bamboo construction, Institution of Structural Engineers, ISO 22156 manual, Kempegowda airport Bengaluru, Ninghai bamboo tower China, Green School Bali, David Trujillo Warwick, Neil Thomas Atelier One, composite bamboo shear walls, Colombia Philippines, Portugal bamboo crop, low-carbon materials, carbon storing materials, cement carbon footprint, engineered bamboo, Mediterranean climate shift, low-rise buildings, disaster-resilient housing, 3-6 year growth",
+    "category": "sources",
+    "tags": [
+      "buildings",
+      "nature-based-solutions",
+      "alternative-fuels",
+      "carbon-removal"
+    ]
+  },
+  {
     "slug": "banking-on-climate-chaos-2025",
     "filename": "sources/banking-on-climate-chaos-2025.md",
     "label": "World's largest banks pledged $906bn to fossil fuel companies in 'unfathomable' increase in 2025",
@@ -2523,6 +2578,20 @@
     "tags": []
   },
   {
+    "slug": "dublin-sea-rise-emissions-2026",
+    "filename": "sources/dublin-sea-rise-emissions-2026.md",
+    "label": "Dublin faces complex emissions challenges as sea rises twice as fast as global average (Irish Independent, Jan 2026)",
+    "summary": "Dublin emissions, Dublin sea level rise 7-8mm per year, Dublin Bay double global rate, Portrane Beach SeaBees, Voluntary Homeowners Relocation Scheme, planned retreat, East Coast Railway Infrastructure Protection, DART, Storm Bram, Dublin Cycling Campaign, Siobhán McNamara, Sabrina Dekker, Richard Fitzpatrick, Fionnghuala Ryan, data centres 7% Dublin city, 46% south county Dublin, Clondalkin Balbriggan Ballymun Ringsend decarbonisation zones, Micheál Martin data centres, Eamon Ryan AI opportunity",
+    "category": "sources",
+    "tags": [
+      "ireland",
+      "adaptation",
+      "transport",
+      "ai",
+      "digital"
+    ]
+  },
+  {
     "slug": "dublin-water-supply-shannon-2026",
     "filename": "sources/dublin-water-supply-shannon-2026.md",
     "label": "dublin-water-supply-shannon-2026",
@@ -2555,6 +2624,20 @@
       "behaviour",
       "nature-based-solutions",
       "key-ideas"
+    ]
+  },
+  {
+    "slug": "eu-recycled-plastic-mass-balance-2026",
+    "filename": "sources/eu-recycled-plastic-mass-balance-2026.md",
+    "label": "Europe's supermarket shelves packed with 'misleading' claims about recycled plastic packaging (Guardian, Jan 2026)",
+    "summary": "mass-balance accounting, pyrolysis oil, chemical recycling, ISCC certification, avoided emissions, greenwashing, Sabic Aramco, Kraft Heinz Beanz, Mondelēz Philadelphia, PPWR EU 2026, UK plastic packaging tax mass balance, Zero Waste Europe, Ecos, Helmut Maurer, Lauriane Veillard, Margaux Le Gallou, Peter Quicker, Plastic Energy, virgin naphtha, Saudi Aramco emissions, IJ4EU cross-border investigation, plastic industry lobbying, LCA life cycle assessment",
+    "category": "sources",
+    "tags": [
+      "plastic",
+      "circularity",
+      "greenwashing",
+      "eu-policy",
+      "fossil-fuels"
     ]
   },
   {
@@ -2702,6 +2785,20 @@
     "tags": []
   },
   {
+    "slug": "nature-at-a-crossroads-reuters-2026",
+    "filename": "sources/nature-at-a-crossroads-reuters-2026.md",
+    "label": "Nature at a Crossroads: The evolving architecture of nature disclosure (Reuters Events, 2026)",
+    "summary": "ISSB IFRS S3, TNFD, nature practice statement, Emmanuel Faber, Julie McCarthy Nature Finance, Gavin Edwards Nature Positive Initiative, Marco Lambertini, Johan Rockström, Paul Polman, Pavan Sukhdev, IFRS S1 S2, biodiversity disclosure, corporate nature reporting, $44 trillion GDP nature-dependent, PwC 12-17% GDP nature loss, University of Sussex $2 trillion, ISSB Board April 2024, TNFD 2025 Status Report 620 organisations, Japan China Asia-Pacific, EU mandatory nature standard, ISO biodiversity, Business for Nature, IFRS practice statement critique, COP17, Nature Finance $44 trillion, nature-related risks",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "esg",
+      "finance",
+      "nature",
+      "eu-policy"
+    ]
+  },
+  {
     "slug": "pine-island-glacier-attribution-2026",
     "filename": "sources/pine-island-glacier-attribution-2026.md",
     "label": "Human activity has driven retreat of Antarctica's fastest melting glacier (Phys.org / King's College London, June 2026)",
@@ -2711,6 +2808,20 @@
       "science",
       "nature",
       "adaptation"
+    ]
+  },
+  {
+    "slug": "record-hot-ocean-el-nino-forbes-2026",
+    "filename": "sources/record-hot-ocean-el-nino-forbes-2026.md",
+    "label": "Why A Record-Hot Ocean Is Supercharging The El Niño Effect (Forbes / We Don't Have Time, July 2026)",
+    "summary": "ocean heat content, El Niño 2026, NOAA, WMO, Copernicus Marine, 21C sea surface record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, Kevin Trenberth 12 Hiroshima bombs, Nature Communications 40-80% extreme El Niños, Carlo Buontempo uncharted territory, coral bleaching fourth global mass event, IPCC 70-99% coral loss, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump cuts reversed, ship-tracks aerosols 2020 sulphur rule, blue carbon mangroves seagrass, Daniel Swain atmospheric rivers California, IEA clean energy 2 to 1 investment, methane short-lived pollutants",
+    "category": "sources",
+    "tags": [
+      "science",
+      "ocean",
+      "adaptation",
+      "carbon-removal",
+      "coalition"
     ]
   },
   {
@@ -3015,5 +3126,19 @@
     "summary": "An Environmental Product Declaration (EPD) is a standardised, independently verified document that reports a product's environmental impact across its life cycle, based on a Life Cycle Assessment under ISO 14040/14044. Governed by ISO 14025, and by EN 15804 for construction products, EPDs are issued by programme operators such as EPD International, IBU, and BRE, many coordinated through ECO Platform in Europe. EPDs do not declare a product \"good\" or \"bad\"; they provide comparable data for informed decision-making. Growth has been rapid, with over 18,000 valid EPDs in the International EPD System alone, and EU regulation is set to make this kind of data close to mandatory for construction products.",
     "category": "standards",
     "tags": []
+  },
+  {
+    "slug": "issb-nature-practice-statement-2026",
+    "filename": "standards-labels/issb-nature-practice-statement-2026.md",
+    "label": "ISSB Chooses a 'Practice Statement' Over a Mandatory Nature Standard: The 2026 Controversy",
+    "summary": "ISSB IFRS S3, TNFD, nature practice statement, Emmanuel Faber, Julie McCarthy Nature Finance, Gavin Edwards Nature Positive Initiative, Marco Lambertini, Johan Rockström, Paul Polman, Pavan Sukhdev, $44 trillion GDP nature-dependent, PwC 12-17% GDP nature loss, TNFD 730 companies $22 trillion AUM, China Environmental Ecological code August 2026, COP17 biodiversity, IFRS S1 S2, standalone standard vs voluntary, corporate biodiversity disclosure",
+    "category": "standards-labels",
+    "tags": [
+      "biodiversity",
+      "esg",
+      "finance",
+      "nature",
+      "eu-policy"
+    ]
   }
 ]
