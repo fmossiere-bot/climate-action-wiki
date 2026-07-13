@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-06
+Last updated: 2026-07-13
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -62,6 +62,11 @@ Summaries of every ingested source file.
 | [[bp-shareholder-rebellion-2026]] | Guardian (Apr 2026): BP's first AGM under new leadership — triple shareholder revolt against climate-reporting rollback, online-only AGMs, and chair re-election |
 | [[wood-based-resin-oulu-2026]] | New Atlas / U. Oulu (Mar 2026): bio-based wood-derived resin outperforms fossil polyester by 76% on tensile strength; chemically recyclable epoxy composites for wind blades, boats, aircraft |
 | [[eat-lancet-2025-carbonbrief]] | Carbon Brief (Oct 2025): EAT-Lancet 2025 planetary health diet — cuts non-CO2 agri-emissions 15–34%, saves India-sized land, prevents 15m deaths/year; richest 30% cause 70% of food-system pressures |
+| [[dublin-sea-rise-emissions-2026]] | Irish Independent (Jan 2026): Dublin Bay sea level rising 7–8 mm/yr (2× global); planned retreat entering the conversation; data centres = 46% of south county Dublin emissions; SDCC calls for national ban |
+| [[eu-recycled-plastic-mass-balance-2026]] | Guardian / IJ4EU (Jan 2026): "recycled" plastic on European shelves — Kraft Heinz, Mondelēz — hides mass-balance accounting and 95% virgin naphtha; EU PPWR legalises the loophole in 2026 |
+| [[bamboo-construction-guardian-2026]] | Guardian (Jan 2026): Institution of Structural Engineers publishes ISO 22156 bamboo design manual — airports, towers, disaster-resilient housing; two-storey rule; Portugal now growing bamboo |
+| [[record-hot-ocean-el-nino-forbes-2026]] | Forbes / We Don't Have Time (Jul 2026): record-hot ocean supercharging 2026 El Niño; 82% marine heatwave coverage in H1; 4th global coral bleaching; High Seas Treaty in force; OOI monitoring saved |
+| [[nature-at-a-crossroads-reuters-2026]] | Reuters Events (2026): ISSB chooses non-mandatory nature "practice statement" over standalone S3 standard — WWF, Rockström, Polman, Nature Finance backlash; $44tn GDP nature-dependent |
 
 ---
 
@@ -88,7 +93,8 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | Wet-Bulb explained | Wet-bulb temperature and human survivability |
 | [[amoc-collapse-carbon]] | AMOC collapse could release 640 billion tonnes of CO₂; already past the 350 ppm irreversibility threshold — **updated** with monitoring defunding crisis and 10× faster Europe scenario |
 | [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
-| [[indirect-greenhouse-gases]] | **NEW** — Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
+| [[indirect-greenhouse-gases]] | Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
+| [[record-hot-ocean-el-nino-2026]] | **NEW** — Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off |
 
 ---
 
@@ -217,6 +223,7 @@ Funding the transition — investment, risk, green banking.
 |------|-------------|
 | Alternative Constructions examples | Low-carbon building materials |
 | How we decorate and furnish our House matters | Home furnishing emissions |
+| [[construction-industry-reuse-target]] | **NEW** — Reuse (not recycling) in French construction: Ademe 30–40% carbon cut, Blanchemaille Roubaix (€600k + 600 t CO2 saved), Engie's reused-panel HQ, RE2020 zero-carbon accounting, insurance and matching still limiting |
 
 ### Digital (`wiki/sectors/digital/`)
 
@@ -330,7 +337,7 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| Bamboo Production - Project Drawdown 31 | Bamboo as a climate solution |
+| Bamboo Production - Project Drawdown 31 | Bamboo as a climate solution — **updated** Jan 2026 with the Institution of Structural Engineers ISO 22156 manual: airport, tower and disaster-resilient housing projects; two-storey rule; Portugal now growing bamboo |
 | Managed Grazing - Project Drawdown 17 | Regenerative grazing |
 | Plant-Rich Diets - Project Drawdown 3 | Diet shift as climate action |
 | The importance of Grassland | Grassland carbon sequestration |
@@ -395,7 +402,8 @@ Funding the transition — investment, risk, green banking.
 | Recycling - Project Drawdown 42 | Recycling as climate solution |
 | Reduced Food Waste - Project Drawdown 1 | Food waste reduction |
 | The Environmental Impact of the FASHION industry | Fashion's climate footprint |
-| [[seaqual-ocean-plastic-fashion]] | **NEW** — Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
+| [[seaqual-ocean-plastic-fashion]] | Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
+| [[plastic-mass-balance-greenwashing]] | **NEW** — Mass-balance accounting and the pyrolysis loophole: how Kraft Heinz, Mondelēz and others can label plastic "recycled" while it's 95% virgin naphtha; EU PPWR legalises the trick in 2026 |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |
 | Waste to Energy - Project Drawdown 58 | Waste-to-energy systems |
 
@@ -442,7 +450,8 @@ Funding the transition — investment, risk, green banking.
 | What is VSME - Voluntary Sustainability Reporting | Voluntary SME reporting |
 | What is the EPD? | Environmental Product Declaration |
 | Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024 | Reporting standard comparison |
-| [[SBTI - sbti-science-based-targets]] | **NEW** — SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
+| [[SBTI - sbti-science-based-targets]] | SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
+| [[issb-nature-practice-statement-2026]] | **NEW** — ISSB chooses a non-mandatory "practice statement" over a mandatory nature standard (IFRS S3); WWF, Rockström, Polman, Nature Finance push back; October 2026 consultation ahead of COP17 |
 
 ---
 
@@ -454,8 +463,8 @@ Funding the transition — investment, risk, green banking.
 | Cool Irish Companies | Irish sustainability leaders |
 | IRELAND Emissions, Climate Plans | Ireland's overall climate plans |
 | IRELAND - Climate Change in the Irish Mind | Irish public opinion on climate |
-| IRELAND Climate Adaptation | Ireland's adaptation measures |
-| IRELAND Data Centre Dilemna | Ireland's data centre energy problem |
+| IRELAND Climate Adaptation | Ireland's adaptation measures — **updated** with Dublin Bay sea level rising 7–8 mm/yr, planned retreat, €230m East Coast Railway Protection, decarbonising zones |
+| IRELAND Data Centre Dilemna | Ireland's data centre energy problem — **updated** with Dublin city 7% and south county 46% emissions shares, SDCC nationwide ban motion |
 | IRELAND Energy Systems | Ireland's energy mix |
 | IRELAND Energy and Biomass | Biomass in Ireland's energy |
 | IRELAND Land use, Soil and Forestry | Irish land use and carbon |

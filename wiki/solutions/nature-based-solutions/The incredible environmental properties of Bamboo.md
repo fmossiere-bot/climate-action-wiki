@@ -1,14 +1,11 @@
 ---
 title: "Bamboo: a versatile material for the low-carbon transition"
 category: solutions
-tags:
-  - nature
-  - forest
-  - carbon
-  - nature-based-solutions
+tags: ["#nature", "#forest", "#carbon", "#nature-based-solutions", "#buildings"]
+sources: ["Project Drawdown 31 — Bamboo Production", "La Bambouseraie en Cévennes", "The Guardian, Yassin El-Moudden, 22 January 2026 — https://www.theguardian.com/environment/2026/jan/22/bamboo-architecture-construction-engineering-schools-airports-towers", "Institution of Structural Engineers — ISO 22156 manual"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "Bamboo plantations have incredible environmental properties: with their expansive underground stems, they reduce soil erosion and prevent sediments from entering streams and rivers. Fallen leaves carpet the ground, which reduces water evaporation. Their hollow stems retain water into the dry season, thus increasing environmental humidity. Dense bamboo vegetation also captures water droplets from fog. It is one of the top 100 solutions proposed by Project Drawdown in order to stay under 1.5C"
+updated: 2026-07-13
+summary: "bamboo carbon sequestration, Project Drawdown solution 31, La Bambouseraie, Cobratex composites, Vendée Globe sailboat, Fiboo insulation, Horizom France, Bamboo Village Trust Indonesia, ISO 22156 bamboo structures manual, Institution of Structural Engineers, Kempegowda airport Bengaluru, Ninghai bamboo tower China, Green School Bali, composite bamboo shear walls, Colombia Philippines earthquake housing, David Trujillo Warwick, Neil Thomas Atelier One, bamboo two-storey limit, Portugal European bamboo crop"
 ---
 # Summary
 Bamboo plantations have incredible environmental properties: with their expansive underground stems, they reduce soil erosion and prevent sediments from entering streams and rivers. Fallen leaves carpet the ground, which reduces water evaporation. Their hollow stems retain water into the dry season, thus increasing environmental humidity. Dense bamboo vegetation also captures water droplets from fog.
@@ -49,3 +46,44 @@ Several notable projects illustrate bamboo's technical potential. In France, Cob
 
 ## **A note on fashion** 
 Bamboo is increasingly present in fashion, including in luxury: French designer Laure Julien worked with bamboo for Dior's summer 2025 collection. However, she issues a clear warning. Most bamboo textiles on the market are viscose, a process requiring heavy chemical treatment that largely cancels out the plant's ecological benefits. The more responsible alternative is mechanically processed bamboo linen, produced without toxic solvents, but it remains rarer and more expensive. Her conclusion is direct: bamboo should be used where it genuinely makes ecological sense, not as a marketing tool.
+
+## 2026 update: engineering bamboo for permanent buildings
+
+In January 2026 the **Institution of Structural Engineers** (IStructE) published a new **manual for designing permanent buildings from bamboo**, based on the ISO 22156 standard. The lead author is **David Trujillo**, assistant professor in humanitarian engineering at the University of Warwick. The manual is a serious attempt to move bamboo out of "wellness spa and eco-lodge" territory and into mainstream construction — the sector responsible for **around one-third of global carbon emissions** in 2022, more than half of which comes from cement.
+
+### The buildings that already exist
+
+Engineered bamboo is not theoretical. The manual highlights a growing set of real projects:
+
+- **Terminal 2 of Kempegowda International Airport, Bengaluru** — bamboo tubes make up the ceiling and pillars
+- **Ninghai bamboo tower, north-east China** — over 20 metres tall, claimed as the world's first engineered-bamboo high-rise
+- **The Arc at Green School, Bali** — an arc-shaped gymnasium engineered by UK firm Atelier One
+- **Composite bamboo shear walls** now used for **earthquake-resilient housing in Colombia** and typhoon-resilient housing in the Philippines, often with locally sourced materials
+
+Neil Thomas of Atelier One frames the design engineering case simply: *"Everything you can do with timber, you can do with bamboo."*
+
+### The specific limits
+
+The manual is honest about where bamboo stops being the right answer:
+
+- **Not appropriate above two storeys** in general use; taller structures like Ninghai are still exceptional cases
+- Full potential is held back by "knowledge gaps" — Trujillo links these partly to colonial-era technical education displacing local bamboo expertise, so a lot of the engineering literature has to be rebuilt from first principles
+
+### Why it matters for the climate
+
+Bamboo has three properties that no fossil-based construction material has: it **grows in 3 to 6 years** (versus decades for timber), it **stores carbon during the life of the building** rather than releasing it, and it **needs little pesticide or fertiliser**. Trujillo argues: *"The idea that we can move people away from using carbon-intensive materials and towards low-carbon materials or, better still, carbon-fixing materials seems like a very wise way of minimising the emissions from urbanisation."*
+
+Growing bamboo can also help **recover soil degraded by monoculture**, which lines up with the wider land-use case in the [nature-based solutions](.) category.
+
+### A European supply chain is beginning
+
+Bamboo is not just a tropical story any more. **Portugal** is growing larger bamboo varieties as a crop, partly in response to Mediterranean climate shifts. The French firm **Horizom** manages 460 hectares across 34 departments with a target of 50,000 hectares by 2050, and **Fiboo** opened a bamboo fibre insulation panel factory in northern France in November 2024 with a target of 10,000 tonnes/year from 2028 — the year low-carbon construction materials become mandatory. If this scales, the material self-sufficiency argument for the EU strengthens, similar to the one made for [bio-based resins from the University of Oulu](../../sectors/industry/bio-based-resins-composites.md).
+
+The Institution's manual pairs with an educational push: Trujillo wants lecturers to teach bamboo alongside steel and timber, so that "the next generation of engineers and architects" is trained to be "**bamboo-ready**."
+
+## Connected topics
+
+- [Cement and Concrete — A Hidden Climate Problem](../../sectors/industry/Cement and Concrete - A Hidden Climate Problem.md)
+- [Bio-based resins and composites](../../sectors/industry/bio-based-resins-composites.md)
+- [FACTS about Forest, Land Use and Land management](../../biodiversity-land/FACTS about Forest, Land Use and Land management.md)
+- [Source: Bamboo construction manual (Guardian)](../../sources/bamboo-construction-guardian-2026.md)

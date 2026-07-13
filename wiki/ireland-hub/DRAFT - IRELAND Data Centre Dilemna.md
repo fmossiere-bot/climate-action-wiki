@@ -151,3 +151,19 @@ Three environmental groups have been granted High Court permission to challenge 
 Despite its scale, there is still **no official census of data centres in Ireland**.
 
 *Source: [ireland-datacentre-boom-2026](../sources/ireland-datacentre-boom-2026.md) — Irish Independent, John Burns, 26 June 2026*
+
+---
+
+## ✅ Update: Dublin data-centre concentration and the SDCC ban motion (Jan 2026)
+
+Local reporting from January 2026 sharpens the Dublin-specific picture behind the national numbers:
+
+- **Data centres = 7% of Dublin city's emissions**
+- **Data centres + commercial facilities = 46% of south county Dublin's emissions** — by far the biggest emitting slice in that local authority
+- In **September 2025, South Dublin County Council passed a motion calling for a nationwide data centre ban**
+
+Councillor **Jess Spear (Tallaght Central)** framed the vote at the time: *"All the indications suggest this government is not going to take climate change seriously, and none more than their approach towards data centres."*
+
+Central government sits on the other side. **Taoiseach Micheál Martin** has rejected "the demonisation of data centres" and told media that a moratorium on AI is not on the table. Former Green Party leader **Eamon Ryan** frames the same debate more optimistically: if Ireland can develop **zero-emissions data centres**, the state will have "skills the rest of the world needs."
+
+*Source: [dublin-sea-rise-emissions-2026](../sources/dublin-sea-rise-emissions-2026.md) — Irish Independent, Liam Coates & Azmia Riaz, 29 January 2026*

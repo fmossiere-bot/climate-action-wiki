@@ -4,6 +4,138 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-13 ingest | Nature at a Crossroads — ISSB Nature Practice Statement (Reuters Events)
+
+**Source file:** `raw/papers/Nature&BiodiversityResearch-Reuters.pdf`
+**Original source:** Reuters Events Sustainable Business, Catherine Early — *Nature at a Crossroads: The evolving architecture of nature disclosure* (2026)
+
+**What was done:**
+- Created source summary: `wiki/sources/nature-at-a-crossroads-reuters-2026.md`
+- Created new wiki page: `wiki/standards-labels/issb-nature-practice-statement-2026.md`
+- Updated `wiki/index.md` — added source and new standards-labels page entries
+
+**Key content added:**
+- ISSB decided (April 2026 leak) not to develop a mandatory standalone nature standard (IFRS S3); instead a non-mandatory "practice statement" attached to IFRS S1
+- Pushback led by Nature Finance, WWF, BirdLife International, Nature Positive Initiative, Paul Polman, Johan Rockström, Pavan Sukhdev, Marco Lambertini
+- Key McCarthy line: the ISSB is "actively maintaining a disclosure framework that instructs companies to report climate risk against a baseline that the board's own scientific advisors know to be false"
+- $44tn annual output nature-dependent; PwC: 12–17% GDP erosion at risk; Sussex: $2tn/yr from partial ecosystem collapses
+- TNFD 2025 Status Report: ~620 organisations across 50+ countries, ~$20tn AUM committed
+- Japan largest single-country adopter (~130 orgs); China's Environmental and Ecological code effective 15 Aug 2026
+- ISSB exposure-draft consultation planned October 2026 ahead of COP17 biodiversity negotiations
+
+---
+
+## 2026-07-13 ingest | A Record-Hot Ocean and the 2026 El Niño
+
+**Source file:** `raw/articles/Why A Record-Hot Ocean Is Supercharging The El Niño Effect.md`
+**Original source:** Forbes contributor column, Ingmar Rentzhog (CEO, We Don't Have Time), 9 July 2026 — https://www.forbes.com/sites/we-dont-have-time/2026/07/09/why-a-record-hot-ocean-is-supercharging-the-el-nio-effect/
+
+**What was done:**
+- Created source summary: `wiki/sources/record-hot-ocean-el-nino-forbes-2026.md`
+- Created new wiki page: `wiki/climate-science/record-hot-ocean-el-nino-2026.md`
+- Updated `wiki/index.md` — added source and climate-science page entries
+
+**Key content added:**
+- 21 June 2026: global sea surface temperature at 21.0°C (record for time of year, Copernicus)
+- H1 2026: marine heatwaves touched ~82% of the global ocean; Mediterranean worst hit
+- NOAA (June 2026) declared El Niño; 63% odds of very strong event at Nov–Jan peak
+- Nature Communications (2024): deep-ocean warming alone could make extreme El Niños 40–80% more common
+- 4th global mass coral bleaching event affected ~84% of world's reefs, 2023–mid-2025
+- High Seas Treaty entered into force 17 January 2026 (80+ signatories)
+- Ocean Observatories Initiative (~900 sensors, $386m) narrowly saved from shutdown in June 2026
+- 2020 shipping-sulphur rule cut sulphate aerosols; may have contributed to 2023 ocean warming acceleration
+- IEA: clean energy now ~2× fossil fuel investment; methane cuts could avoid ~0.5°C by mid-century
+
+---
+
+## 2026-07-13 ingest | Bamboo-Ready — Institution of Structural Engineers manual
+
+**Source file:** `raw/articles/Schools, airports, high-rise towers architects urged to get 'bamboo-ready'.md`
+**Original source:** The Guardian, Yassin El-Moudden, 22 January 2026 — https://www.theguardian.com/environment/2026/jan/22/bamboo-architecture-construction-engineering-schools-airports-towers
+
+**What was done:**
+- Created source summary: `wiki/sources/bamboo-construction-guardian-2026.md`
+- Updated existing page: `wiki/solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md` — added "2026 update: engineering bamboo for permanent buildings" section; corrected frontmatter tags; added sources; extended summary keywords
+- Updated `wiki/index.md` — expanded Bamboo page description
+
+**Key content added:**
+- Institution of Structural Engineers published a new manual for permanent bamboo structures based on ISO 22156; lead author David Trujillo (Warwick)
+- Concrete existing projects: Kempegowda Airport Bengaluru, Ninghai bamboo tower China (>20 m), Green School Bali
+- Composite bamboo shear walls used for earthquake-resilient housing in Colombia and typhoon-resilient housing in the Philippines
+- Bamboo is not appropriate above two storeys in general use
+- Knowledge gaps traced partly to colonial-era technical education
+- Portugal now growing larger bamboo varieties as a crop as Mediterranean shifts; Horizom, Fiboo building European supply chain
+- Construction ~1/3 of global carbon emissions in 2022; more than half from cement
+
+---
+
+## 2026-07-13 ingest | Mass-Balance Recycled Plastic Greenwashing (Guardian / IJ4EU)
+
+**Source file:** `raw/articles/Europe's supermarket shelves packed with 'misleading' claims about recycled plastic packaging.md`
+**Original source:** The Guardian, Stefano Valentino, 27 January 2026 — https://www.theguardian.com/environment/2026/jan/27/recycled-plastic-packaging-claims-misleading-say-experts (part of an IJ4EU cross-border investigation)
+
+**What was done:**
+- Created source summary: `wiki/sources/eu-recycled-plastic-mass-balance-2026.md`
+- Created new wiki page: `wiki/circularity-waste/plastic-mass-balance-greenwashing.md`
+- Updated `wiki/index.md` — added source and circularity-waste page entries
+
+**Key content added:**
+- Pyrolysis oil = at most 5% of feedstock; 95% must be virgin naphtha
+- Mass-balance bookkeeping lets 5% recycled input be assigned to 5 tonnes labelled "100% recycled" (all fossil chemistry)
+- "Avoided emissions" credit turns a 6–8% worse process into apparent 2 kg CO2 savings per kg
+- ISCC industry-led certification; Sabic used only 2,600 t of pyrolysis oil in 2022 vs ~4 Mt of naphtha
+- Kraft Heinz, Mondelēz named brands; Saudi Aramco (Sabic parent) is world's largest corporate GHG emitter
+- EU PPWR rules that accommodate mass balance take effect in 2026; UK equivalent in 2027
+- IEA World Energy Outlook 2025: plastic set to become a critical growth engine for oil majors
+
+---
+
+## 2026-07-13 ingest | Dublin Sea Rise and the Data Centre Split (Irish Independent)
+
+**Source file:** `raw/articles/Dublin faces complex emissions challenges as sea rises twice as fast as global average.md`
+**Original source:** Irish Independent, Liam Coates and Azmia Riaz (with Shauna Corr), 29 January 2026 — https://www.independent.ie/county/dublin/dublin-faces-complex-emissions-challenges-as-sea-rises-twice-as-fast-as-global-average/a/126667590.html — funded by the Local Democracy Reporting Scheme
+
+**What was done:**
+- Created source summary: `wiki/sources/dublin-sea-rise-emissions-2026.md`
+- Updated existing page: `wiki/ireland-hub/DRAFT - IRELAND Climate Adaptation.md` — added substantial "Dublin Bay: Sea Level Rise at Twice the Global Rate" section covering planned retreat, DART protection, inland flooding and decarbonisation zones; corrected frontmatter tags; expanded summary
+- Updated existing page: `wiki/ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md` — added "Dublin data-centre concentration and the SDCC ban motion (Jan 2026)" subsection with the 7%/46% shares
+- Updated `wiki/index.md` — added source entry; expanded descriptions for both Ireland Hub pages
+
+**Key content added:**
+- Dublin Bay sea level rising at 7–8 mm/yr vs 3–4 mm/yr global (double the rate)
+- Combined 2018 Dublin council emissions: 6.4 Mt CO2; 36% from transport
+- Data centres = 7% of Dublin city emissions, 46% of south county Dublin
+- Voluntary Homeowners Relocation Scheme: 174 potentially eligible, only 20 accepted by Sept 2024
+- €230m East Coast Railway Infrastructure Protection Projects
+- SDCC passed motion September 2025 calling for nationwide data-centre ban
+- Micheál Martin: "demonisation of data centres" must end; Eamon Ryan: zero-emissions data centres as opportunity
+
+---
+
+## 2026-07-13 ingest | Construction Industry — the Reuse Target (own-research)
+
+**Source file:** `raw/own-research/Construction industry - the reuse target.md`
+**Original source:** Own research by Fabien Mossière, drawing on Ecologie360 (2025)
+
+**What was done:**
+- Filed directly (own-research — no summarising): `wiki/sectors/buildings/construction-industry-reuse-target.md`
+- Added standard frontmatter, editorial summary blockquote and relative markdown links to Cement/Concrete, Bio-based resins and Bamboo pages
+- Preserved original body content exactly
+- Updated `wiki/index.md` — added entry under Buildings section
+
+**Key content:**
+- Reuse (not recycling) as a distinct approach: taking doors, tiles, sanitary ware straight from demolition to new build
+- Ademe estimate: reuse could cut construction sector's carbon impact by 30–40%
+- Construction = ~1/3 of French emissions
+- Blanchemaille (Roubaix, La Redoute former HQ): 13,000 sqm, €600k saved, ~600 t CO2 avoided
+- Concrete reuse: up to 500 kg CO2/tonne avoided; metal: 90% energy saving; wood: 1,000 L water saving per m³
+- Under RE2020, reused materials count as zero carbon (up to 30% carbon intensity cut per sqm)
+- Engie's La Garenne-Colombes HQ: 6,000 sqm reused panels, 600 reused glazed units (Saint-Gobain Clipper Coramine)
+- Obstacles: selective removal takes longer, insurance and certification, matching supply and demand
+- Cyneo (Bouygues), BTP Match, Recyclo'Bat as emerging platforms; Circable (Vinci) for electrical cables
+
+---
+
 ## 2026-07-06 ingest | EAT-Lancet 2025 — The Planetary Health Diet Update
 
 **Source file:** `raw/articles/EAT-Lancet report Three key takeaways on climate and diet change.md`
