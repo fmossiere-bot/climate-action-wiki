@@ -66,9 +66,15 @@
     "slug": "the-importance-of-wetlands",
     "filename": "biodiversity-land/The importance of Wetlands.md",
     "label": "The importance of Wetlands",
-    "summary": "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions",
+    "summary": "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation",
     "category": "biodiversity-land",
-    "tags": []
+    "tags": [
+      "wetlands",
+      "nature",
+      "methane",
+      "biodiversity",
+      "eu-policy"
+    ]
   },
   {
     "slug": "water-a-finite-resource-we-cannot-afford-to-ignore",
@@ -136,12 +142,13 @@
     "slug": "draft-the-environmental-impact-of-the-fashion-industry",
     "filename": "circularity-waste/DRAFT - The Environmental Impact of the FASHION industry.md",
     "label": "The Environmental Impact of the Fashion Industry",
-    "summary": "Sustainable Fashion innovations and Companies taking actions, 3 Bright Ideas that could fix fashion's environmental problem, Eco-friendly Shoes are in demand - See  [[Eco-friendly Shoes]], Circular Fashion is key - See  [[The Rewearable -  Circular Fashion ACTION GUIDE]], Fashion Materials and Tissues are evolving, _Source:_",
+    "summary": "Fast fashion, 10% global emissions, microplastics, toxic dyes, water consumption jeans, 1083 Made in France, ozone dyeing, circular deposit, Rewearable Circular Fashion, EU Ecodesign for Sustainable Products Regulation ESPR, unsold clothes disposal ban July 2026, 4-9% textile disposal EEA, one in five online returns not resold, HDE German Retail Federation, 20% EU-produced apparel, 2030 medium-sized firm extension",
     "category": "circularity-waste",
     "tags": [
       "fashion",
       "circularity",
-      "plastic"
+      "plastic",
+      "eu-policy"
     ]
   },
   {
@@ -493,6 +500,18 @@
       "carbon",
       "science",
       "fossil-fuels"
+    ]
+  },
+  {
+    "slug": "jetstream-heatwave-patterns-2026",
+    "filename": "climate-science/jetstream-heatwave-patterns-2026.md",
+    "label": "How the Jet Stream Makes Long European Heatwaves — Two Patterns Explained",
+    "summary": "jet stream heatwave, Rossby waves, polar jet stream, omega blocking, heat dome, Duncan Pappert Olivia Martius University of Bern, Tim Woollings Oxford, type I omega pattern, type II poleward shift, 1900 simulated hot spells, June 2026 heatwave 20000 deaths, hydroelectric dams agriculture, air conditioning demand, jet stream shifting northwards, forecasting long heatwaves, Environmental Research Letters",
+    "category": "climate-science",
+    "tags": [
+      "science",
+      "adaptation",
+      "key-ideas"
     ]
   },
   {
@@ -915,7 +934,7 @@
     "slug": "greenwashing-lawsuits-on-the-rise",
     "filename": "concepts/key-ideas/Greenwashing lawsuits on the rise.md",
     "label": "Greenwashing Lawsuits on the Rise",
-    "summary": "greenwashing lawsuits, climate litigation, JBS, TotalEnergies, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal",
+    "summary": "greenwashing lawsuits, climate litigation, JBS Greenpeace Netherlands petition, TotalEnergies Paris ruling, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, Shell Milieudefensie, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal, $6bn expansion, Nigeria 1.2 million hectares, Dutch duty of care, JBS net zero 2040 scrapped",
     "category": "concepts",
     "tags": []
   },
@@ -1661,7 +1680,7 @@
     "slug": "draft-ai-data-centre-energy-crisis",
     "filename": "sectors/digital/DRAFT - ai-data-centre-energy-crisis.md",
     "label": "AI Data Centres and the Energy Crisis",
-    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling",
+    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055",
     "category": "sectors",
     "tags": []
   },
@@ -2321,12 +2340,14 @@
     "slug": "draft-facts-about-wind-energy",
     "filename": "solutions/renewables/DRAFT - FACTS about Wind Energy.md",
     "label": "FACTS about Wind Energy",
-    "summary": "How much energy do wind turbines produce, Wind energy, not at all Cost, Additionally, the industry is already thinking about recycling blades, RWE’s largest offshore wind farm in construction - Sofia - enters agreement with Siemens Gamesa for recyclable blades, Parking building is made using decommissioned wind turbines, China Historic Break-through  with cost at 1/5 of the US, Wind Energy in France, Recycling Blades, Source",
+    "summary": "wind turbines global capacity 837 GW, offshore floating onshore, blade recycling, Sofia Siemens Gamesa recyclable blades, decommissioned wind turbine parking building, China wind cost 1/5 US, France wind energy, Formosa Wind Farm Taiwan 86 species reef fish, Miaoli County SCUBA 2017 2018 2025, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, hard vertical structure attraction production debate",
     "category": "solutions",
     "tags": [
       "science",
       "carbon",
-      "phaseout"
+      "phaseout",
+      "renewables",
+      "biodiversity"
     ]
   },
   {
@@ -2641,12 +2662,39 @@
     ]
   },
   {
+    "slug": "eu-unsold-clothes-ban-dw-2026",
+    "filename": "sources/eu-unsold-clothes-ban-dw-2026.md",
+    "label": "EU ban on destroying unsold clothes takes effect (DW, July 2026)",
+    "summary": "Ecodesign for Sustainable Products Regulation ESPR, fast fashion, unsold clothing disposal ban, EU 27 member states, 250 employees €50m turnover threshold, 4-9% textile disposal EEA, 1 in 5 online returns not resold, HDE German Retail Federation, Primark Zara Shein H&M context, 2030 medium-sized firm extension, annual disposal reports, 5-year records",
+    "category": "sources",
+    "tags": [
+      "fashion",
+      "circularity",
+      "eu-policy",
+      "recycle"
+    ]
+  },
+  {
     "slug": "europe-forested-countries-2026",
     "filename": "sources/europe-forested-countries-2026.md",
     "label": "europe-forested-countries-2026",
     "summary": "",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "europe-wetlands-map-copenhagen-2026",
+    "filename": "sources/europe-wetlands-map-copenhagen-2026.md",
+    "label": "Europe's Most Critical Wetlands Mapped — 10m-resolution Nature study (Phys.org / University of Copenhagen, July 2026)",
+    "summary": "Global Wetland Center, University of Copenhagen, Gyula Máté Kovács, Stéphanie Horion, European Wetland Types map, 10m satellite imagery, machine learning, 38 European countries, EU Nature Restoration Law, 30% wetland restoration by 2030, peatlands Northern Europe, inland marshes peatbogs salt marshes salines intertidal flats moors heathlands, half of Europe's wetlands lost, one-fifth peatlands degraded, 5 billion tonnes CO2 released, 27-33% wetlands under 25 hectares",
+    "category": "sources",
+    "tags": [
+      "wetlands",
+      "biodiversity",
+      "nature",
+      "carbon-removal",
+      "eu-policy"
+    ]
   },
   {
     "slug": "europe-wildfires-2025-newscientist",
@@ -2763,6 +2811,32 @@
     "tags": []
   },
   {
+    "slug": "jbs-6bn-legal-challenge-guardian-2026",
+    "filename": "sources/jbs-6bn-legal-challenge-guardian-2026.md",
+    "label": "JBS faces legal challenge over green credentials of $6bn global expansion (Guardian, July 2026)",
+    "summary": "JBS lawsuit, Greenpeace International, Dutch duty-of-care law, Netherlands headquarters, NYSE listing, Batista brothers, $2.5bn Nigeria six meat plants, Niger state 1.2m hectares, TotalEnergies Paris ruling June 2026, Shell Milieudefensie, Amazon deforestation, net zero 2040 scrapped, indirect emissions methane cows, Elujulo Opeyemi Youth in Agroecology and Restoration Network, Richard Brown Greenpeace, Marieke Vellekoop, safe planetary boundaries, meat industry litigation",
+    "category": "sources",
+    "tags": [
+      "agriculture",
+      "greenwashing",
+      "finance",
+      "coalition",
+      "carbon"
+    ]
+  },
+  {
+    "slug": "jetstream-heatwave-patterns-newscientist-2026",
+    "filename": "sources/jetstream-heatwave-patterns-newscientist-2026.md",
+    "label": "Shifts in the jet stream are behind Europe's long heatwaves (New Scientist, July 2026)",
+    "summary": "Rossby waves, polar jet stream, omega blocking, heat dome, type I omega, type II poleward shift, Duncan Pappert, Olivia Martius, University of Bern, Tim Woollings Oxford, 1900 simulated hot spells, high-pressure ridge, subtropical air, June 2026 heatwave 20000 deaths Europe, Environmental Research Letters, forecasting long heatwaves, hydroelectric dams, air conditioning demand",
+    "category": "sources",
+    "tags": [
+      "science",
+      "adaptation",
+      "key-ideas"
+    ]
+  },
+  {
     "slug": "mangrove-recovery-2026",
     "filename": "sources/mangrove-recovery-2026.md",
     "label": "Source: Mangrove forests are healing after decades of human destruction",
@@ -2874,12 +2948,38 @@
     ]
   },
   {
+    "slug": "taiwan-offshore-wind-reef-fish-2026",
+    "filename": "sources/taiwan-offshore-wind-reef-fish-2026.md",
+    "label": "86 new fish species found on Taiwan offshore wind turbines (EcoPortal, July 2026)",
+    "summary": "Formosa Wind Farm Taiwan, Miaoli County, 69 turbines, 86 reef fish species, artificial reef effect, SCUBA surveys 2017-2025, groupers snappers lobsters, barnacles sponges corals, filter feeders, food chain, purpose-built artificial reefs comparison, marine biodiversity, offshore wind biodiversity co-benefits, Frontiers in Marine Science 2026, 50 metres foundation zone, mussels starfish whelks",
+    "category": "sources",
+    "tags": [
+      "renewables",
+      "biodiversity",
+      "ocean",
+      "nature-based-solutions"
+    ]
+  },
+  {
     "slug": "uk-air-conditioning-green-2026",
     "filename": "sources/uk-air-conditioning-green-2026.md",
     "label": "Should I get air conditioning in the UK – and can it be green?",
     "summary": "What this source covers, Key facts and figures, Main arguments, Wiki pages informed by this source, 4 million UK homes, 22% of British homes, 4.87kg CO2, £5/day, 15–31p/day, 3 units of cooling for every 1 unit of electricity, £2,500 grant",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "uk-datacentre-water-shortage-guardian-2026",
+    "filename": "sources/uk-datacentre-water-shortage-guardian-2026.md",
+    "label": "Not enough water for UK's datacentre plans, trade body says (Guardian, July 2026)",
+    "summary": "Water UK, UK datacentre water demand, Slough Affinity Water, 125 datacentres proposed, 3 million litres per day, government AI growth zones, national framework for water resources 2025, England 5bn litre daily shortfall by 2055, hosepipe ban southern England, Global Action Plan Oliver Hayes, critical national infrastructure designation, drought hierarchy, Jon Chappel, 6.6m litres per day current use, 19.8m litres by 2030, Environment Agency permitting, drinking water requirement, 15 years reservoir build, June 2026 heatwave 440 daily deaths, Ireland parallel",
+    "category": "sources",
+    "tags": [
+      "digital",
+      "ai",
+      "adaptation",
+      "eu-policy"
+    ]
   },
   {
     "slug": "uk-datacentres-gas-2026",
