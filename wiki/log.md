@@ -4,6 +4,137 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-22 ingest | Jet Stream Patterns Behind Europe's Long Heatwaves (New Scientist)
+
+**Source file:** `raw/papers/Jetstream-NS.pdf`
+**Original source:** New Scientist, Alec Luhn, 13 July 2026
+**Peer-reviewed study:** *Environmental Research Letters*, Pappert D. & Martius O. (University of Bern), DOI: 10.1088/1748-9326/ae7f34
+
+**What was done:**
+- Created source summary: `wiki/sources/jetstream-heatwave-patterns-newscientist-2026.md`
+- Created new wiki page: `wiki/climate-science/jetstream-heatwave-patterns-2026.md`
+- Updated `wiki/index.md` — added source and new climate-science page entries
+
+**Key content added:**
+- Only ~20 well-observed long heatwaves in the daily record; Bern team simulated 1,900 plausible hot spells with a climate model
+- Two jet stream patterns identified: **Type I** (wavy jet stream tracing an omega block over western Europe; Atlantic storms reinforce the low pressure at the omega's base) and **Type II** (poleward-shifted straighter jet stream diverting storm track north of the UK)
+- Both patterns produce a persistent high-pressure ridge over Europe; same feedback loop at ground level (dry compressed descending air, no clouds, drying land)
+- June 2026 European heatwave killed ~20,000 people; started as Type II, morphed into Type I
+- Trend in blocking patterns is not yet resolved — some studies find more, some no change
+- Jet stream is shifting northwards in general, likely drying southern Europe
+- Practical use: pattern-recognition tool for forecasters and grid operators to prepare for prolonged heat
+
+---
+
+## 2026-07-22 ingest | JBS $6bn Expansion — First Big Legal Challenge to a Meat Major
+
+**Source file:** `raw/articles/​World largest meat company faces legal challenge over green credentials of $6bn global expansion.md`
+**Original source:** The Guardian, Jonathan Watts, 22 July 2026 — https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan
+
+**What was done:**
+- Created source summary: `wiki/sources/jbs-6bn-legal-challenge-guardian-2026.md`
+- Updated existing page: `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md` — added "July 2026 update: the first big legal challenge against a meat major (JBS)" section; updated frontmatter tags/summary/date
+- Updated `wiki/index.md` — added source entry; expanded Greenwashing lawsuits description
+
+**Key content added:**
+- Greenpeace International petitions Dutch courts to force JBS to disclose how its $6bn expansion is compatible with duty-of-care obligations
+- Specifically targets $2.5bn plan for six meat plants in Nigeria; Niger State has promised 1.2m hectares
+- JBS moved HQ to the Netherlands in 2025 to list on NYSE — now exposed to Dutch legal standards used against Shell
+- Track record cited: broke Amazon deforestation cleanup pledge, scrapped "net zero by 2040", latest sustainability report excludes indirect emissions from cows
+- Recent precedents: TotalEnergies ordered by Paris court to disclose climate risks (June 2026); Shell case in The Hague — ruling expected early 2027
+- Key quote (Brown): "if you come to the Netherlands, you have to play by Dutch rules and be held to account to Dutch standards"
+
+---
+
+## 2026-07-22 ingest | UK Datacentre Water Shortage — Water UK Evidence to MPs (Guardian)
+
+**Source file:** `raw/articles/Not enough water for UK's datacentre plans, trade body says.md`
+**Original source:** The Guardian, Pippa Neill, 21 July 2026 — https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says
+
+**What was done:**
+- Created source summary: `wiki/sources/uk-datacentre-water-shortage-guardian-2026.md`
+- Updated existing page: `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` — added "UK data centres and water: 'fatally flawed' government forecasts" section; extended sources; updated frontmatter date/summary
+- Updated `wiki/index.md` — added source entry; expanded ai-data-centre-energy-crisis description
+
+**Key content added:**
+- Water UK submission to MPs calls government forecasts "fatally flawed" for excluding datacentres
+- 125 datacentres proposed or under construction in Affinity Water region alone (much under hosepipe ban)
+- Individual datacentres requesting up to 3 million litres/day — the peak demand of 3,500 homes
+- Environment Agency permitting requires datacentres to use drinking water only
+- Current UK datacentre use ~6.6m L/day; tripling capacity by 2030 → ~19.8m L/day
+- May 2026 House of Lords report: 5bn L/day public water shortfall by 2055
+- Drought hierarchy still not published by ministers
+- Datacentres designated critical national infrastructure — potentially prioritised over households in droughts
+- Water UK's Jon Chappel: "unforgivable" and "a genuine failing of government"
+
+---
+
+## 2026-07-22 ingest | Europe Wetlands Map (Phys.org / University of Copenhagen / *Nature*)
+
+**Source file:** `raw/articles/New study pinpoints Europe's most critical wetlands for climate action.md`
+**Original source:** Phys.org / University of Copenhagen, 15 July 2026 — https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html
+**Peer-reviewed study:** Kovács GM et al. (2026), *Nature*, DOI: 10.1038/s41586-026-10760-9
+
+**What was done:**
+- Created source summary: `wiki/sources/europe-wetlands-map-copenhagen-2026.md`
+- Updated existing page: `wiki/biodiversity-land/The importance of Wetlands.md` — added "2026 update: Europe's wetlands finally get a harmonised 10-metre map" section; updated frontmatter tags/summary/date; added map viewer and DOI to sources
+- Updated `wiki/index.md` — added source entry; expanded Wetlands page description
+
+**Key content added:**
+- First harmonised 10-metre resolution wetland map for 38 European countries (Global Wetland Center, University of Copenhagen)
+- Six categories: inland marshes, peatbogs, salt marshes, salines, intertidal flats, moors & heathlands
+- 27–33% of contiguous wetland area is in patches smaller than 25 ha; 7–11% under 1 ha — much of which was missed by coarser mapping
+- ~1/5 of Europe's wetlands highly affected by human activities; inland marshes most disturbed
+- Peatlands top climate priority — concentrated in Northern Europe, both biggest stores and biggest emitters when disturbed
+- Up to 5 Gt CO2-eq soil carbon may already have been released — equivalent to ~1.5 years of total EU CO2 emissions
+- Directly supports the EU Nature Restoration Law (30% by 2030 target)
+- Kovács now working on a global version
+
+---
+
+## 2026-07-22 ingest | EU Ban on Destroying Unsold Clothes (DW)
+
+**Source file:** `raw/articles/EU ban on destroying unsold clothes takes effect.md`
+**Original source:** Deutsche Welle, Nik Martin, 19 July 2026 — https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888
+
+**What was done:**
+- Created source summary: `wiki/sources/eu-unsold-clothes-ban-dw-2026.md`
+- Updated existing page: `wiki/circularity-waste/DRAFT - The Environmental Impact of the FASHION industry.md` — added "2026 update: EU bans the destruction of unsold clothes" section; updated frontmatter tags/summary/date
+- Updated `wiki/index.md` — added source entry; expanded fashion page description
+
+**Key content added:**
+- Ban took effect 19 July 2026 across the 27-member EU under the Ecodesign for Sustainable Products Regulation (ESPR)
+- Applies to firms with >250 employees and >€50m turnover; extended to medium-sized firms in 2030
+- Firms must find ways to sell products (discounts, alternative markets, charity); destruction only when unsafe, damaged, counterfeit, or rejected by charities
+- Annual disposal reports and 5-year record retention required
+- EEA: 4–9% of unsold textile products destroyed each year; 1 in 5 online returns not resold
+- Only ~20% of apparel sold in the EU is produced in the EU — supply-chain vulnerability
+- HDE welcomes consumer-side gains; flags "not all unsold goods can be resold or donated easily"
+
+---
+
+## 2026-07-22 ingest | Taiwan Offshore Wind — 86 Reef Fish Species on Formosa Foundations
+
+**Source file:** `raw/articles/Divers went down to check on 69 offshore wind turbines off the coast of Taiwan, and the 86 species they found living in the steel had never been recorded there before.md`
+**Original source:** EcoPortal, Hugo Rojas, 17 July 2026 — https://www.ecoportal.net/en/divers-went-check-offshore-wind-turbines/29373/
+**Peer-reviewed study:** *Frontiers in Marine Science* (2026) — https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1733177/full
+
+**What was done:**
+- Created source summary: `wiki/sources/taiwan-offshore-wind-reef-fish-2026.md`
+- Updated existing page: `wiki/solutions/renewables/DRAFT - FACTS about Wind Energy.md` — added "2026: Offshore Wind as an Accidental Reef — 86 New Fish Species at Formosa (Taiwan)" section; updated frontmatter tags/summary/date/sources
+- Updated `wiki/index.md` — added source entry; expanded Wind Energy page description
+
+**Key content added:**
+- Formosa Wind Farm: 69 turbines across ~90 km² of previously flat sandy seabed off Miaoli County, Taiwan
+- SCUBA surveys in 2017, 2018 and 2025; 86 reef-associated fish species documented within 50 m of foundations in 2025, none previously recorded in the area
+- Colonisation sequence: barnacles/sponges/corals within months → shrimp/crabs/gastropods → groupers/snappers/lobsters
+- By 2025, species richness, diversity and trophic structure indistinguishable from established purpose-built artificial reefs
+- Foundations act as "cliff face" habitat spanning surface to seabed — drawing full water column
+- Wider literature caveat: attraction vs production debate; at Formosa the absence of prior records suggests real production
+- Result generalises to fixed-bottom offshore wind on soft-bottom seabeds; other siting still needs its own evidence
+
+---
+
 ## 2026-07-13 ingest | Nature at a Crossroads — ISSB Nature Practice Statement (Reuters Events)
 
 **Source file:** `raw/papers/Nature&BiodiversityResearch-Reuters.pdf`

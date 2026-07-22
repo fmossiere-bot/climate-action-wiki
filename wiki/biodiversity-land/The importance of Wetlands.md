@@ -1,15 +1,11 @@
 ---
 title: The importance of Wetlands
 category: biodiversity-land
-tags:
-  - wetlands
-  - nature
-  - methane
-  - biodiversity
-  - climate-change
+tags: ["#wetlands", "#nature", "#methane", "#biodiversity", "#eu-policy"]
+sources: ["EU Nature Restoration Law (2024)", "Kovács GM et al., Nature (2026) — DOI: 10.1038/s41586-026-10760-9", "Phys.org / University of Copenhagen, 15 July 2026 — https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html"]
 created: 2025-06-01
-updated: 2026-06-28
-summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions"
+updated: 2026-07-22
+summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation"
 ---
 
 
@@ -112,6 +108,29 @@ The key word is rewetted. Solar farms on peat that is still drained can release 
 
 See [Solar Farms on Peatland: A Triple Win — If Done Right](../biodiversity-land/solar-on-peatland.md) for the full analysis.
 
+## 2026 update: Europe's wetlands finally get a harmonised 10-metre map
+
+Until July 2026, one of the biggest practical obstacles to wetland restoration in Europe was that **no one really knew where all the wetlands were** or what condition they were in — at least not on a comparable basis across borders. A team led by **Gyula Máté Kovács** and **Stéphanie Horion** at the **Global Wetland Center, University of Copenhagen** has now published in *Nature* the **first harmonised 10-metre resolution map** of Europe's wetlands — [European Wetland Types](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types) — covering **six categories across 38 European countries**.
+
+### What the map shows
+
+- **Six types** mapped: inland marshes, peatbogs, salt marshes, salines, intertidal flats, and moors & heathlands
+- **Wetlands are highly fragmented**: 27–33% of contiguous wetland area sits in patches smaller than 25 hectares; 7–11% is in patches under 1 hectare — bits of habitat that coarser continental maps have historically missed
+- **Around one fifth** of Europe's wetlands are **highly affected by human activities**; **inland marshes** are the most heavily disturbed type
+- **Peatlands are the top climate priority** — concentrated in Northern Europe, highly effective carbon stores but potentially significant carbon *emitters* when disturbed
+
+### Putting a number on the damage
+
+The most striking figure in the paper is a hindcast: **up to 5 billion tonnes of CO₂-equivalent** of soil carbon may already have been released from degraded European wetlands compared to a scenario where they had been left intact. That is **roughly equivalent to 1.5 years of total EU CO₂ emissions**. The number is not a future risk — it is the debt already run up. Every additional year of degraded status quo adds to it.
+
+### Why the map matters for the EU Nature Restoration Law
+
+The [EU Nature Restoration Law](https://environment.ec.europa.eu/news/nature-restoration-law-enters-force-2024-08-15_en) requires every member state to submit a national restoration plan and to restore **at least 30% of wetlands not in good condition by 2030**. Several countries have not yet designated specific areas or set national targets. The Copenhagen team's map is designed exactly for this: it **harmonises the various national definitions of what counts as a wetland**, so EU institutions can assess national reporting on a **comparable basis** rather than trying to reconcile inconsistent definitions from 27 different rulebooks.
+
+Kovács is now working on a **global version** to improve worldwide estimates of wetland greenhouse gas emissions.
+
+*Source: [Europe wetlands map (source summary)](../sources/europe-wetlands-map-copenhagen-2026.md); Kovács GM et al., *Nature* (2026), DOI: 10.1038/s41586-026-10760-9; Phys.org / University of Copenhagen, 15 July 2026.*
+
 ## Sources
 
 - EU Nature Restoration Law (in force August 2024): [European Commission](https://environment.ec.europa.eu/news/nature-restoration-law-enters-force-2024-08-15_en), [European Parliament](https://www.europarl.europa.eu/news/en/press-room/20240223IPR18078/nature-restoration-parliament-adopts-law-to-restore-20-of-eu-s-land-and-sea), [European Council](https://www.consilium.europa.eu/en/press/press-releases/2024/06/17/nature-restoration-law-council-gives-final-green-light/)
@@ -121,3 +140,4 @@ See [Solar Farms on Peatland: A Triple Win — If Done Right](../biodiversity-la
 - Marshland and flooding in England (Steart): [New York Times](https://www.nytimes.com/2024/10/22/world/europe/uk-steart-marshes-carbon-climate-change-flooding.html)
 - Britain's salt marsh loss: [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/sites/default/files/2024-03/Saltmarsh_factsheet_Mar24.pdf)
 - Salt levels and methane: [Scientific American](https://www.scientificamerican.com/article/wetlands-made-salty-by-rising-seas-produce-more-heat-trapping-methane/)
+- European Wetland Types map (2026): Kovács GM et al., *Nature*, DOI: [10.1038/s41586-026-10760-9](https://dx.doi.org/10.1038/s41586-026-10760-9) — [Google Earth Engine viewer](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types); [Phys.org press release](https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html)

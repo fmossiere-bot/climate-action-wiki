@@ -8,8 +8,8 @@ tags:
   - energy
   - united-kingdom
 created: 2026-06-06
-updated: 2026-06-29
-summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling
+updated: 2026-07-22
+summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055
 ---
 
 # AI Data Centres and the Energy Crisis
@@ -69,6 +69,27 @@ The heat comes from the **cooling systems** that keep AI chips and dense server 
 - Ireland: proposed new data centres could need up to **5,800 MW** — almost equal to Ireland's entire peak demand of 6,000 MW.
 - Globally: nearly **7,000 of 8,808 data centres** are built in climatically inefficient locations.
 
+## UK data centres and water: 'fatally flawed' government forecasts
+
+In July 2026, **Water UK** — the trade body for water companies in Britain and Northern Ireland — submitted written evidence to MPs describing the government's water forecasts as **"fatally flawed"** because they **explicitly exclude datacentre demand**. The trade body's punchline: *"There appears to be an assumption that the country will always have enough water for its economic needs. Nothing could be further from the truth."*
+
+The specific facts are striking:
+
+- **125 datacentres are proposed or under construction in the Affinity Water region alone** — the water company serving Slough, the UK's highest concentration of datacentres
+- Individual datacentres in that region are requesting up to **3 million litres of water per day** — the peak water demand of **3,500 homes**
+- Because of Environment Agency permitting, datacentres are currently required to **use drinking water only**, not recycled water
+- Current UK datacentre water use: **~6.6 million litres per day**; with the government's plan to triple datacentre capacity by 2030, that rises to **~19.8 million litres per day**
+- A **May 2026 House of Lords report** puts England on track for a **5 billion litres per day public water supply shortfall by 2055**
+- More than **three-quarters of UK datacentres** are in the south and east of England — the country's most water-stressed regions, currently subject to hosepipe bans
+
+**Water UK deputy director Jon Chappel** called it *"unforgivable"* and *"a genuine failing of government."* The trade body has asked ministers to publish a **drought hierarchy** — a formal ordering of which sectors get water first in a shortage — but no such document has been produced.
+
+The most awkward wrinkle: **datacentres have been designated critical national infrastructure**. Oliver Hayes (Global Action Plan) warns this may mean **water companies are powerless to restrict their water use in a drought**, and that households could be deprioritised in favour of datacentres "running chatbots, or enabling people to do benign and very wasteful, pointless things." The **national policy statement for AI growth**, which was expected in February 2026 to make trade-offs explicit, has been delayed.
+
+Similar tensions have surfaced in Ireland (see [Ireland Data Centre Dilemma](../../ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md)). Between the [Slough heat-island research](../../sources/slough-datacentre-heat-island-2026.md) (electricity + waste heat) and the Water UK submission (water), the UK now has a documented three-way squeeze on grid, on households and on the water table.
+
+*Source: [UK datacentre water shortage (source summary)](../../sources/uk-datacentre-water-shortage-guardian-2026.md); Guardian, Pippa Neill, 21 July 2026.*
+
 ## Connected topics
 - [IRELAND Datacentre Dilemma](../../ireland-hub/IRELAND Datacentre Dilemna.md)
 - [AI Emissions and Corporate Responsibility](../digital/AI Emissions and Corporate Responsibility.md)
@@ -82,3 +103,6 @@ The heat comes from the **cooling systems** that keep AI chips and dense server 
 - The Guardian, Rory Carroll, 28 May 2026 — https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity
 - The Guardian, Aisha Down, 26 June 2026 — https://www.theguardian.com/environment/2026/jun/26/slough-is-like-an-experiment-europes-largest-datacentre-hub-leaves-town-sweltering
 - Cambridge preprint, Marinoni et al., 2026 — https://arxiv.org/pdf/2603.20897
+- The Guardian, Pippa Neill, 21 July 2026 — https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says
+- Water UK written evidence to MPs (July 2026) — https://committees.parliament.uk/writtenevidence/164766/html/
+- Affinity Water written evidence to MPs (May 2026) — https://committees.parliament.uk/writtenevidence/166455/pdf/

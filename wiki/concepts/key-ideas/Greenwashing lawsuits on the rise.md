@@ -6,8 +6,8 @@ tags:
   - "#fossil-fuels"
   - "#esg"
 created: 2025-06-01
-updated: 2026-06-12
-summary: greenwashing lawsuits, climate litigation, JBS, TotalEnergies, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal
+updated: 2026-07-22
+summary: greenwashing lawsuits, climate litigation, JBS Greenpeace Netherlands petition, TotalEnergies Paris ruling, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, Shell Milieudefensie, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal, $6bn expansion, Nigeria 1.2 million hectares, Dutch duty of care, JBS net zero 2040 scrapped
 ---
 
 
@@ -50,3 +50,25 @@ Key cases that changed the rules:
 The pattern is consistent: courts are increasingly holding governments and companies accountable not just for what they emit, but for what they claim. Scope 3 emissions, once invisible in environmental assessments, are now a legal liability.
 
 Source: [The Guardian, Isabella Kaminski, 31 December 2025](../../sources/climate-litigation-wins-2025.md)
+
+## July 2026 update: the first big legal challenge against a meat major (JBS)
+
+On 22 July 2026, **Greenpeace International** filed a petition in **Dutch courts** asking them to compel **JBS — the world's largest meat company — to disclose how its $6 billion global expansion plan is compatible with responsibilities to climate, nature and human rights** under Dutch duty-of-care law. Counsel described this as a preliminary stage towards **formal litigation**. Until now, similar cases have been aimed almost entirely at fossil fuel companies — this is described by lawyers as **opening a new frontier**.
+
+### Why this case, why now
+
+- JBS moved its headquarters to the Netherlands in 2025 to list on the NYSE. That move gave it access to US financial markets — and put it under **the same Dutch duty-of-care framework** already used against **Shell**
+- The petition targets a **$2.5bn investment in six meat-processing plants in Nigeria**, with **1.2 million hectares** promised by Niger State — a plan civil society groups say was decided with **no consultation and no public cost-benefit analysis**
+- JBS committed to clean up its Amazon supply chain by end 2025 and **failed to meet the deadline**; it has now also **scrapped its "net zero by 2040" pledge**, and its latest sustainability report **excludes indirect emissions from cows** (the biggest part of its climate footprint)
+- The action fits a pattern in Dutch and French courts: **TotalEnergies** was ordered in June 2026 to disclose climate risks linked to its products; the **Shell** case brought by Milieudefensie is expected to be finalised in early 2027
+
+### Key quotes
+
+- **Richard Brown** (Greenpeace International legal counsel): *"We say that if you come to the Netherlands, you have to play by Dutch rules and be held to account to Dutch standards. Ultimately this is about a global conglomerate and how its activities should be limited within safe planetary boundaries."*
+- **Elujulo Opeyemi** (Youth in Agroecology and Restoration Network, Nigeria): *"This is the biggest agriculture investment that I have heard of in Nigeria's history but there have been few details and no consultation for civil society. Once JBS has a foothold in Nigeria, they can encroach across Africa."*
+
+### Why it matters beyond JBS
+
+Agriculture is the biggest driver of deforestation and one of the largest sources of methane. If Dutch courts extend duty-of-care jurisprudence from fossil fuels to a meat major, the entire agriculture sector faces the same legal test that has already reshaped how oil and gas companies communicate their climate risk. The ripple effect could touch every large agribusiness with European headquarters or European listings.
+
+*Source: [JBS $6bn legal challenge (source summary)](../../sources/jbs-6bn-legal-challenge-guardian-2026.md); Guardian, Jonathan Watts, 22 July 2026.*

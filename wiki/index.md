@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-13
+Last updated: 2026-07-22
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -67,6 +67,12 @@ Summaries of every ingested source file.
 | [[bamboo-construction-guardian-2026]] | Guardian (Jan 2026): Institution of Structural Engineers publishes ISO 22156 bamboo design manual — airports, towers, disaster-resilient housing; two-storey rule; Portugal now growing bamboo |
 | [[record-hot-ocean-el-nino-forbes-2026]] | Forbes / We Don't Have Time (Jul 2026): record-hot ocean supercharging 2026 El Niño; 82% marine heatwave coverage in H1; 4th global coral bleaching; High Seas Treaty in force; OOI monitoring saved |
 | [[nature-at-a-crossroads-reuters-2026]] | Reuters Events (2026): ISSB chooses non-mandatory nature "practice statement" over standalone S3 standard — WWF, Rockström, Polman, Nature Finance backlash; $44tn GDP nature-dependent |
+| [[taiwan-offshore-wind-reef-fish-2026]] | EcoPortal / Frontiers in Marine Science (Jul 2026): 86 reef fish species found on Formosa Wind Farm foundations off Miaoli, Taiwan — none previously recorded locally |
+| [[eu-unsold-clothes-ban-dw-2026]] | DW (Jul 2026): EU ban on destroying unsold clothes takes effect under ESPR — >250-employee firms; annual disposal reports; extended to medium-sized firms in 2030 |
+| [[europe-wetlands-map-copenhagen-2026]] | Phys.org / *Nature* / Copenhagen (Jul 2026): first harmonised 10-metre wetland map of 38 European countries; ~5 Gt CO2 already lost from degraded wetlands; supports EU Nature Restoration Law |
+| [[uk-datacentre-water-shortage-guardian-2026]] | Guardian (Jul 2026): Water UK calls UK datacentre water forecasts "fatally flawed"; 125 datacentres in Affinity Water region alone; drought hierarchy not published |
+| [[jbs-6bn-legal-challenge-guardian-2026]] | Guardian (Jul 2026): Greenpeace petitions Dutch courts to force JBS to disclose climate/nature/human-rights compatibility of its $6bn expansion; first big meat-major case |
+| [[jetstream-heatwave-patterns-newscientist-2026]] | New Scientist / Environmental Research Letters (Jul 2026): two jet-stream patterns behind Europe's long heatwaves — omega block (type I) and poleward-shift (type II); Pappert & Martius (Bern) |
 
 ---
 
@@ -94,7 +100,8 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | [[amoc-collapse-carbon]] | AMOC collapse could release 640 billion tonnes of CO₂; already past the 350 ppm irreversibility threshold — **updated** with monitoring defunding crisis and 10× faster Europe scenario |
 | [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
 | [[indirect-greenhouse-gases]] | Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
-| [[record-hot-ocean-el-nino-2026]] | **NEW** — Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off |
+| [[record-hot-ocean-el-nino-2026]] | Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off |
+| [[jetstream-heatwave-patterns-2026]] | **NEW** — Two jet-stream patterns behind Europe's long heatwaves: omega block (type I) and poleward shift (type II); Pappert & Martius (Bern) simulated 1,900 hot spells; June 2026 heatwave killed ~20,000 |
 
 ---
 
@@ -150,7 +157,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS on EVERYTHING - Under the Sky we Make | Broad emissions overview |
 | Global Emissions in 2022 | 2022 global emissions data |
 | Greenwashing | What greenwashing is and how to spot it |
-| Greenwashing lawsuits on the rise | Legal action against greenwashing |
+| Greenwashing lawsuits on the rise | Legal action against greenwashing — **updated** July 2026 with Greenpeace's Dutch petition against JBS ($6bn expansion, Nigeria plan) — first major climate/nature legal challenge against a meat major |
 | How are we doing? | Overall climate progress assessment |
 | Keynote Tom Crowell - Carbon Accounting | Corporate carbon accounting keynote |
 | Net-Zero target explained | What net zero means in practice |
@@ -234,7 +241,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
 | [[DRAFT - AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
-| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough hyperscale heat-island section (Cambridge research, +2°C avg, up to +9°C) |
+| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island (Cambridge) and July 2026 Water UK evidence: forecasts "fatally flawed," 125 datacentres in Affinity Water region, drought hierarchy missing |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
@@ -352,7 +359,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about Clean & GREEN Hydrogen | Green hydrogen |
 | FACTS about NUCLEAR energy | Nuclear power data |
 | FACTS about Solar Energy | Solar energy data |
-| FACTS about Wind Energy | Wind energy data |
+| FACTS about Wind Energy | Wind energy data — **updated** July 2026 with Formosa Wind Farm (Taiwan): 69 turbines, 86 reef fish species not previously recorded; biodiversity co-benefit of offshore wind |
 | First Cargo ship running on BioMethanol | Bio-methanol shipping |
 | First Osmotic Power Plants | Osmotic / salinity gradient energy |
 | Geothermal energy | Geothermal power |
@@ -372,7 +379,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about Forest, Land Use and Land management | Forest and land use facts |
 | Glaciers in Retreat — Facts, Risks, and What Can Be Done | Glacier facts, risks and solutions — **updated** June 2026 with the second-earliest Swiss glacier loss day on record (GLAMOS) and the first attribution of Antarctic outlet glacier retreat (Pine Island, +18–20%) to human activity |
 | FACTS about Water | Global water facts |
-| FACTS about Wetlands | Wetland ecosystems and climate |
+| FACTS about Wetlands | Wetland ecosystems and climate — **updated** July 2026 with the Copenhagen 10-metre European Wetland Types map (38 countries, *Nature* study); ~5 Gt CO2 already released from degraded wetlands |
 | FACTS about the Ocean | Ocean health data |
 | [[mangrove-forests-recovery]] | **NEW** — Mangrove forests staging a comeback: world gains more than it loses since 2010 |
 | [[solar-on-peatland]] | **NEW** — Solar farms on rewetted peatland: triple win of clean energy, carbon storage and biodiversity — but drained-peat solar can be a net carbon emitter |
@@ -401,7 +408,7 @@ Funding the transition — investment, risk, green banking.
 | Other SUSTAINABility and Recycling efforts | Misc recycling initiatives |
 | Recycling - Project Drawdown 42 | Recycling as climate solution |
 | Reduced Food Waste - Project Drawdown 1 | Food waste reduction |
-| The Environmental Impact of the FASHION industry | Fashion's climate footprint |
+| The Environmental Impact of the FASHION industry | Fashion's climate footprint — **updated** July 2026 with the EU's ESPR ban on destroying unsold clothes (in force from 19 July 2026; large firms first, medium-sized in 2030) |
 | [[seaqual-ocean-plastic-fashion]] | Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
 | [[plastic-mass-balance-greenwashing]] | **NEW** — Mass-balance accounting and the pyrolysis loophole: how Kraft Heinz, Mondelēz and others can label plastic "recycled" while it's 95% virgin naphtha; EU PPWR legalises the trick in 2026 |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |

@@ -1,10 +1,11 @@
 ---
 title: The Environmental Impact of the Fashion Industry
 category: circularity-waste
-tags: [fashion, circularity, plastic]
+tags: ["#fashion", "#circularity", "#plastic", "#eu-policy"]
+sources: ["Earth.org — Fast fashion's environmental impact", "Deutsche Welle, Nik Martin, 19 July 2026 — https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "Sustainable Fashion innovations and Companies taking actions, 3 Bright Ideas that could fix fashion's environmental problem, Eco-friendly Shoes are in demand - See  [[Eco-friendly Shoes]], Circular Fashion is key - See  [[The Rewearable -  Circular Fashion ACTION GUIDE]], Fashion Materials and Tissues are evolving, _Source:_"
+updated: 2026-07-22
+summary: "Fast fashion, 10% global emissions, microplastics, toxic dyes, water consumption jeans, 1083 Made in France, ozone dyeing, circular deposit, Rewearable Circular Fashion, EU Ecodesign for Sustainable Products Regulation ESPR, unsold clothes disposal ban July 2026, 4-9% textile disposal EEA, one in five online returns not resold, HDE German Retail Federation, 20% EU-produced apparel, 2030 medium-sized firm extension"
 ---
 
 #fashion 
@@ -98,3 +99,30 @@ Some of 1083 differentiators:
 - They invented an jean which is infinite? it can be recylced for ever. For this reason, they ask people to give a 10EUR deposite for their jean
 
 ![[IMG_9702.jpg]]
+
+## 2026 update: EU bans the destruction of unsold clothes
+
+From **19 July 2026**, large fashion companies operating in the EU can **no longer destroy unsold clothes, accessories or footwear**. The ban is a provision of the **Ecodesign for Sustainable Products Regulation (ESPR)**, and it is the first legally binding cap in a major economic bloc on one of fast fashion's core operating patterns: **producing more clothes than the market can absorb, then incinerating the overhang**.
+
+### What the rule actually says
+
+- Applies to companies with **more than 250 employees and over €50 million in annual net turnover**
+- Extended to **medium-sized firms in 2030**
+- Firms must find ways to sell products via **discounts, alternative markets or charity donations**
+- Destruction is only allowed when items are **unsafe, damaged, counterfeit, or rejected by charities**
+- Companies must **publish annual reports on discarded goods** and **keep records for five years** — turning disposal from an unmeasured background practice into an auditable one
+
+### Why the ban was necessary
+
+- The **European Environment Agency** estimated that **4% to 9% of unsold textile products are destroyed each year**
+- **One in five fashion goods ordered online is returned to the retailer and not resold**
+- Only **~20% of apparel sold in the EU is produced in the EU** — so the ban targets the retail and distribution end, and puts pressure on companies to fix procurement upstream
+- The industry has historically defended incineration on cost grounds: storing, repairing or discounting often costs more than burning
+
+### Reaction
+
+- The **German Retail Federation (HDE)** welcomed the consumer-side gains (more discounted stock, more second-hand supply) but flagged practical challenges: damaged packaging, high logistics costs, low product values
+- The **EEA** framed it as circular economy "moving from vision into law"
+- Critics note the ban does not stop **overproduction** upstream — companies can still push large quantities of clothes into the EU market, they just cannot destroy the surplus. If firms respond by dumping stock outside the EU or by warehousing indefinitely, the emissions benefit will be limited
+
+*Source: [EU unsold clothes ban (source summary)](../sources/eu-unsold-clothes-ban-dw-2026.md); Deutsche Welle, Nik Martin, 19 July 2026*

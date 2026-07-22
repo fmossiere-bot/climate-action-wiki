@@ -1,10 +1,11 @@
 ---
 title: FACTS about Wind Energy
 category: solutions
-tags: [science, carbon, phaseout]
+tags: ["#science", "#carbon", "#phaseout", "#renewables", "#biodiversity"]
+sources: ["Global Wind Energy Council 2022 report", "Frontiers in Marine Science (2026) — https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1733177/full", "EcoPortal, July 2026 — https://www.ecoportal.net/en/divers-went-check-offshore-wind-turbines/29373/"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "How much energy do wind turbines produce, Wind energy, not at all Cost, Additionally, the industry is already thinking about recycling blades, RWE’s largest offshore wind farm in construction - Sofia - enters agreement with Siemens Gamesa for recyclable blades, Parking building is made using decommissioned wind turbines, China Historic Break-through  with cost at 1/5 of the US, Wind Energy in France, Recycling Blades, Source"
+updated: 2026-07-22
+summary: "wind turbines global capacity 837 GW, offshore floating onshore, blade recycling, Sofia Siemens Gamesa recyclable blades, decommissioned wind turbine parking building, China wind cost 1/5 US, France wind energy, Formosa Wind Farm Taiwan 86 species reef fish, Miaoli County SCUBA 2017 2018 2025, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, hard vertical structure attraction production debate"
 ---
 
 ***Source***: Global Wind Energy Council: https://gwec.net/global-wind-report-2022/
@@ -154,3 +155,28 @@ China is considered a pioneer in renewable energy with incredible growth in Wind
 ![[Screenshot 2024-09-20 at 09.41.56.png]]![[Screenshot 2024-09-20 at 09.42.03.png]]
 
 ## Recycling Blades
+
+## 2026: Offshore Wind as an Accidental Reef — 86 New Fish Species at Formosa (Taiwan)
+
+Peer-reviewed work published in **Frontiers in Marine Science in 2026** documents an unusually clear biodiversity co-benefit from offshore wind. Researchers surveyed the **Formosa Wind Farm** off Miaoli County in Taiwan — **69 turbines across roughly 90 km² of previously flat, sandy seabed** — with SCUBA teams in **2017, 2018 and 2025**. Their 2025 survey documented **86 species of reef-associated fish exclusively within 50 metres of the turbine foundations**. Not one of those 86 species had been recorded in any prior fishery record for that patch of ocean.
+
+### How the reef assembled
+
+- **Within months of construction**: barnacles, sponges and corals colonised the steel
+- **Then**: shrimp, crabs, bristle worms, gastropods, mussels, whelks and starfish moved in
+- **Later**: **groupers, snappers and lobsters** arrived to feed and spawn
+- **By 2025**: species richness, diversity and trophic structure at the wind-farm foundations were **statistically indistinguishable from established, purpose-built artificial reefs** in the region
+
+The foundations effectively provide **"cliff face" habitat**: a vertical steel column from seabed to surface, with roughened welds, bolted flanges and a ring of protective boulders at the base. That geometry attracts **surface, midwater and bottom-dwelling** species simultaneously — something purpose-built reefs rarely achieve across the whole water column.
+
+### The attraction-vs-production caveat
+
+Scientists still debate whether structures like these **produce new fish** or simply **concentrate existing fish** away from surrounding water. At Formosa the fact that the 86 species had never been recorded locally before construction points to something more than pure redistribution. A wider *Fish and Fisheries* review reaches a similar conclusion: hard vertical structures **locally increase abundance and diversity** of reef-associated species, while the soft-bottom community beyond the foundations stays largely unchanged.
+
+### Why this matters for the wider debate
+
+- Sited on featureless soft-bottom seabed, **offshore wind can deliver climate mitigation and biodiversity uplift at the same time** — with no separate marine reserve programme required
+- The result **does not automatically generalise** to floating offshore wind, near-shore installations, or seabeds that already host valuable habitat
+- Parallel finding on land: [solar farms on rewetted peatland](../../biodiversity-land/solar-on-peatland.md) attracted more diverse bird species than nearby hay fields, but only when peat was rewetted first
+
+*Source: [Taiwan offshore wind reef fish (source summary)](../../sources/taiwan-offshore-wind-reef-fish-2026.md); Frontiers in Marine Science (2026); EcoPortal, 17 July 2026*
