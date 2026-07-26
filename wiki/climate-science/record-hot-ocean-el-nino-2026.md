@@ -4,7 +4,7 @@ category: climate-science
 tags: ["#science", "#ocean", "#adaptation", "#key-ideas", "#coalition"]
 sources: ["Forbes — Ingmar Rentzhog, 9 July 2026 — https://www.forbes.com/sites/we-dont-have-time/2026/07/09/why-a-record-hot-ocean-is-supercharging-the-el-nio-effect/"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-26
 summary: ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-99%, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment
 ---
 
@@ -86,6 +86,31 @@ The answer is not to keep the air dirty. It is that **cleaning it makes fast met
 - Clean energy now attracts **~2× as much investment per year as fossil fuels** (IEA)
 - **Ocean = >3% of world GDP**; feeds ~3 billion people
 - **$8 trillion** cumulative cost of business-as-usual by 2050 (High-Level Panel); **$1 → $5 return** on healthy-ocean investment (WRI)
+
+## WRI's July 2026 update: the three big ocean numbers
+
+The World Resources Institute's Global Director of Ocean, **Tom Pickerell**, published a synthesis in July 2026 that stitches together the three biggest ocean signals with the latest 2025–26 data:
+
+- **Ocean heat**: the upper 2,000 m of the ocean stored more heat than ever before in 2025 — the **9th consecutive record year**. The rate of warming **2005–2025 was more than double** the rate **1960–2005**. Kevin Trenberth's "12 Hiroshima bombs a second" metric is echoed at WRI as "7.6 billion cups of tea per second."
+- **Sea level**: the global average is now about **11 cm higher than in January 1993**, and the annual rate has accelerated from **~2.65 mm/yr (1993–2011)** to **~4.75 mm/yr (2012–2025)**.
+- **Sea ice**: **Arctic** hit its lowest annual maximum on record in March 2025 (~14.3m km²) and tied it in 2026. **Antarctic** had its 3rd-lowest annual maximum in 2025 (~17.8m km²) and 2nd-lowest summer minimum (~2m km²).
+- **Acidification**: the ocean has absorbed ~25% of human CO₂ emissions; average surface acidity is up ~30% since the pre-industrial era.
+
+### Concrete human consequences
+
+- **Tuvalu** and Australia signed the **Falepili Union Treaty**, creating a formal migration pathway as rising seas increasingly flood areas that once remained dry at high tide.
+- In **The Gambia**, rising seas are pushing saltwater up the Gambia River into farmland; some villages have abandoned rice and vegetable fields because soils became too salty.
+- **Pacific Northwest oyster hatcheries** (Oregon and Washington, industry once valued at ~$111m) came close to collapse in the 2010s due to mass larval die-offs linked to acidified low-aragonite seawater. Monitoring and water-treatment systems partially recovered the industry.
+
+### WRI's three policy asks
+
+1. **Treat adaptation as essential** — the acceleration of sea-level rise should be resetting adaptation timetables today, not treated as a future problem
+2. **Invest in healthy ocean ecosystems** — mangroves, saltmarshes, seagrasses, coral reefs (blue carbon)
+3. **Make ocean data visible** — put ocean metrics alongside emissions so leaders see climate progress and risk
+
+WRI's Pickerell is blunt about what is now baked in: **"deep ocean warming and interior ocean acidification are effectively irreversible on our timescales."** That does not mean giving up — it means protecting natural buffers, planning coastal infrastructure realistically, and cutting emissions to slow how fast the ocean keeps changing.
+
+*Source: [WRI ocean warming (source summary)](../sources/wri-ocean-warming-2026.md); Tom Pickerell, WRI, 22 July 2026.*
 
 ## Connected topics
 

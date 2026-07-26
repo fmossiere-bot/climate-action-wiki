@@ -8,7 +8,7 @@ tags:
   - energy
   - united-kingdom
 created: 2026-06-06
-updated: 2026-07-22
+updated: 2026-07-26
 summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055
 ---
 
@@ -90,6 +90,16 @@ Similar tensions have surfaced in Ireland (see [Ireland Data Centre Dilemma](../
 
 *Source: [UK datacentre water shortage (source summary)](../../sources/uk-datacentre-water-shortage-guardian-2026.md); Guardian, Pippa Neill, 21 July 2026.*
 
+## July 2026: Meta quits RE100 as tech pivots to gas
+
+The pattern is not confined to grid squeezes and water. In **July 2026, Meta withdrew from RE100** — the UK-based Climate Group initiative under which 444 major companies (Apple, Google, Microsoft among them) pledge 100% renewable electricity. Meta joined in 2016. The Climate Group's statement was blunt: *"Meta has withdrawn from the RE100 initiative, as it is no longer able to meet the technical criteria due to investments made in new gas power."*
+
+The specific driver: Meta has struck deals paying utilities to bring **new natural gas plants** online, including **10 to power its Hyperion data centre in Louisiana alone**. Meta insists it still meets a **100% clean electricity match on an annualised basis** through long-term PPAs, but RE100's technical criteria have moved beyond that.
+
+Meta is not alone: **Microsoft signed a deal with Chevron** to supply gas electricity to a West Texas data centre; **Google** has been linked to similar partnerships. Natural gas has long been sold as a "bridge fuel," but methane leaks from extraction, and combustion emits nitric oxides, sulphur, mercury and particulates. The **annualised vs 24/7 hourly matching** distinction is now the real fault line in corporate clean-energy accounting — and one of the tech supermajors has decided it cannot cross that line.
+
+*Source: [Meta RE100 exit (source summary)](../../sources/meta-quits-re100-rte-2026.md); RTÉ News, 25 July 2026.*
+
 ## Connected topics
 - [IRELAND Datacentre Dilemma](../../ireland-hub/IRELAND Datacentre Dilemna.md)
 - [AI Emissions and Corporate Responsibility](../digital/AI Emissions and Corporate Responsibility.md)
@@ -106,3 +116,4 @@ Similar tensions have surfaced in Ireland (see [Ireland Data Centre Dilemma](../
 - The Guardian, Pippa Neill, 21 July 2026 — https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says
 - Water UK written evidence to MPs (July 2026) — https://committees.parliament.uk/writtenevidence/164766/html/
 - Affinity Water written evidence to MPs (May 2026) — https://committees.parliament.uk/writtenevidence/166455/pdf/
+- RTÉ News, 25 July 2026 — https://www.rte.ie/news/2026/0725/1585032-meta-pledge/ (Meta quits RE100)

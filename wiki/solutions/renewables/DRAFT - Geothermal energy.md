@@ -1,10 +1,11 @@
 ---
 title: Geothermal Energy
 category: solutions
-tags: [science, carbon, nature]
+tags: ["#renewables", "#science", "#carbon", "#energy-transition"]
+sources: ["Geological Survey Ireland", "Terra.do — Climate Switch newsletter", "New Scientist, Katharine Sanderson, 21 July 2026 (updated 23 July 2026)"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "What is Geothermal Energy, Where is it stored, What can Geothermal energy be used for, How can geothermal energy be used, Geothermal energy: So hot right now, Geothermal Energy in Ireland, Trinity College just refurbished its housing with geothermal heating, about 0.4%, EGS: enhanced geothermal systems"
+updated: 2026-07-26
+summary: "geothermal basics, shallow and deep geothermal, closed-loop, ground source heat pumps, Ireland geothermal potential, Trinity College Dublin, Rubrics refurbishment, GSI, enhanced geothermal systems EGS, advanced geothermal systems AGS, supercritical geothermal, superhot rock, Quaise Energy, Eavor Geretsried, Iceland Deep Drilling Project, HS Orka, Pohang earthquake 2017 M5.5, IEA 150x global electricity demand, dispatchable clean energy, GA Drilling, China Huaneng supercritical CO2, Iain Staffell Imperial College, Bill Ellsworth Stanford, Matt Houde, groundwater risk, casing integrity"
 ---
 
 
@@ -118,3 +119,48 @@ Source: https://geoservsolutions.com/?p=1044
 > The refurbishment of the Rubrics includes the installation of a 188 kW Ground Source Heat Pump system to provide heating and domestic hot water.  A network of 21 No. sealed, closed loop geothermal probes are being installed in New Square to provide the source of energy to the ground source system.  
 
 The works  undertaken by GeoServ included the drilling of the boreholes, installation of the geothermal collector and connection of these using pre-insulated pipe to a central chamber and the underground plant room as well as the supply of the heat pumps and buffers. The geothermal collector will provide a source of energy to the heat pumps in an underground plant room and offers a low-visual impact solution that will integrate a renewable energy technologies to facilitate the preservation and upgrade of historical buildings._.  The work is being completed for main contractor [Clancy](http://www.clancy.ie/) in collaboration with [Walls Well Drilling](http://wallswelldrilling.ie/), [Glenergy](http://www.glenergy.ie/) and [Geolorn](http://www.geolorn.co.uk/).
+
+---
+
+## July 2026: three new routes to geothermal, anywhere on Earth
+
+Geothermal has always been "spectacular but geographically lucky" — Iceland, New Zealand, Kenya, Indonesia. **A decade of drilling advances is now on track to untether it from geology entirely.** The **International Energy Agency** estimates the technical potential of geothermal, if we can exploit heat down to about 8 km, is **around 150 times current global electricity demand**. Traditional plants are limited to less than 2 km deep, which leaves most of that potential out of reach.
+
+New Scientist's July 2026 explainer by Katharine Sanderson lays out three new techniques that engineers are pursuing to close that gap, in ascending order of ambition and difficulty.
+
+### Route 1: Enhanced Geothermal Systems (EGS)
+
+EGS targets **hot but impermeable rock at 2-10 km depth**. Engineers pump water at high pressure into deep wells to open or widen fractures, creating an artificial reservoir. It is the **most mature of the new techniques** — but it comes with a real risk.
+
+**Pohang, South Korea, November 2017:** a nearby EGS project **triggered a magnitude-5.5 earthquake** — over **80 people injured** and around **300 billion Korean won (£148m) in damage**, the most destructive earthquake in South Korean history. A South Korean government investigation concluded EGS caused it. The mechanism: pumping water into deep rock raises pore pressure, propping fault sides apart and reducing the friction holding them together. If a fault is already close to slipping, that can be enough to trigger it.
+
+**Iceland's mitigation approach:** rather than blasting reservoirs open all at once, engineers at HS Orka pump cold water slowly and at low pressure over months. The cooling rock contracts and cracks naturally. Iceland also uses **its geothermal wells themselves as seismic sensors** — when magma begins to move it compresses the surrounding rock, creating a telltale signal in the well.
+
+### Route 2: Advanced Geothermal Systems (AGS / closed-loop)
+
+AGS avoids the seismic risk altogether by **not asking the rock to carry water at all**. Engineers drill down, then sideways, until two boreholes connect underground, then line and seal them with steel and cement. The result is essentially a **buried radiator**: fluid circulates but never touches the rock directly.
+
+- **Eavor's Geretsried plant in Germany** (Canadian company) began construction in 2022 and started producing electricity in 2025 — the first commercial-scale AGS
+- **China Huaneng Group** has built the first demonstration plant using **supercritical CO₂** as the working fluid (Zhengzhou, operational May 2026)
+
+The **open question** is whether closed-loop systems can circulate fluid and draw heat fast enough to be commercially useful. Eavor has already had to scale back its planned wells after rock debris clogged parts of the pipe network.
+
+### Route 3: Superhot / supercritical geothermal
+
+The deeper you go, the hotter Earth gets. At about **374°C under sufficient pressure**, water crosses a strange threshold and becomes a **supercritical fluid** — neither quite gas nor quite liquid — that can carry **far more heat per unit than ordinary hot water or steam**. Supercritical conditions are usually found at depths of **at least 5-20 km**.
+
+- **Iceland Deep Drilling Project's second well (completed 2017)** went to **4.7 km** and became the **first well in the world where supercritical conditions were confirmed** in a geothermal well. A third well is planned for next year.
+- **Quaise Energy** (Houston, Texas) plans to skip conventional drill bits altogether: **high-powered millimetre-wave energy** would be piped down a corrugated-steel-lined well and used to **vaporise the deep hard rock into ash**, which is then purged with nitrogen. First planned superhot geothermal plant in Oregon by 2030 (400°C at 3-5 km). **By 2035, Quaise wants the first superhot well producing energy at a depth greater than 10 km.**
+- **GA Drilling** (Slovakia) is trialling **laser- and plasma-based systems**; first field tests were carried out in 2023.
+
+**Uncertainty remains**: engineers do not yet know whether such deep wells can be kept open under the immense pressures found kilometres below ground. At supercritical temperatures, standard steel casings can expand, deform and fail — Iceland is testing flexible connectors between casing sections.
+
+### Why it matters for the wider transition
+
+Geothermal is **dispatchable** — available on demand, day or night, whatever the weather. That makes it the natural complement to variable wind and solar. If any of these three routes actually reaches commercial scale outside the geologically lucky countries, geothermal shifts from a specialist niche to a **global backbone technology**.
+
+- **Iain Staffell** (Imperial College London): geothermal is *"really well placed to be the glue that will make low-carbon electricity systems work."*
+- **Sanjeev Kumar** (European Geothermal Energy Council): *"It's very, very costly. But once you've drilled that hole in the ground, that lasts for over 100 years."*
+- **Bill Ellsworth** (Stanford), summing up the state of play: *"We know that very deep geothermal energy would be fabulous if we could reach it. We just don't yet know if it's possible."*
+
+*Source: [Geothermal — New Scientist (source summary)](../../sources/geothermal-newscientist-2026.md); New Scientist, Katharine Sanderson, 21 July 2026*

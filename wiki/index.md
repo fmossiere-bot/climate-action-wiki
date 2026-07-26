@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-22
+Last updated: 2026-07-26
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -73,6 +73,15 @@ Summaries of every ingested source file.
 | [[uk-datacentre-water-shortage-guardian-2026]] | Guardian (Jul 2026): Water UK calls UK datacentre water forecasts "fatally flawed"; 125 datacentres in Affinity Water region alone; drought hierarchy not published |
 | [[jbs-6bn-legal-challenge-guardian-2026]] | Guardian (Jul 2026): Greenpeace petitions Dutch courts to force JBS to disclose climate/nature/human-rights compatibility of its $6bn expansion; first big meat-major case |
 | [[jetstream-heatwave-patterns-newscientist-2026]] | New Scientist / Environmental Research Letters (Jul 2026): two jet-stream patterns behind Europe's long heatwaves — omega block (type I) and poleward-shift (type II); Pappert & Martius (Bern) |
+| [[lshtm-healthy-diet-farm-emissions-2026]] | ScienceDaily / *Nature* (Jul 2026): LSHTM–Cornell modelling — a healthier global diet could cut land-use emissions 85% by 2050; 400M fewer ruminants; USA –21%, India +46%, Europe –35% agri value |
+| [[wri-ocean-warming-2026]] | WRI (Jul 2026): the ocean absorbs 91% of excess heat; sea level +11 cm since 1993 (rate now 4.75 mm/yr); Tuvalu Falepili Treaty; Gambia salinity; Pacific Northwest oyster hatcheries |
+| [[wri-smaller-evs-2025]] | WRI (Jul 2025): EV size trend — 2/3 of BEVs are SUVs; larger EVs use 20% more energy, need more critical minerals, more dangerous; France, Paris, Norway policy tools |
+| [[puffer-jackets-guardian-2026]] | Guardian (Jul 2026): puffer jackets sustainability — 83% of footprint in materials; down, wool, plant-based fills compared; 1-in-10 repair extends life 2.5 years |
+| [[meta-quits-re100-rte-2026]] | RTÉ (Jul 2026): Meta withdraws from RE100 clean-energy pledge as it commissions gas plants for Hyperion Louisiana data centre; Microsoft/Chevron and Google follow similar path |
+| [[sbti-net-zero-v2-earthly-2026]] | Earthly (Jul 2026): SBTi Corporate Net-Zero Standard V2 — OER framework replaces BVCM; Category A/B; mandatory removal credits from 2035; $80/tonne Leadership tier; effective 1 Feb 2027 |
+| [[nature-disclosure-frameworks-earthly-2026]] | Earthly (Jul 2026): mapping SBTi, TNFD, IFRS S2, ESRS E1-7, SBTN, ISO 14068-1, GHG Protocol, CDP requirements for nature investments (vendor piece; framework map is useful) |
+| [[geothermal-newscientist-2026]] | New Scientist (Jul 2026): three routes to global geothermal — EGS (Pohang M5.5 quake risk), AGS closed-loop (Eavor Germany, China Huaneng CO2), superhot (Iceland Deep Drilling, Quaise millimetre-wave); IEA 150× global electricity potential |
+| [[live-good-life-guimaraes-newscientist-2026]] | New Scientist (Jul 2026): Guimarães as a working example of a "consumption corridor" city — European Green Capital 2026; waste circularity 2.5× Portuguese average; –18% per-capita waste since 2018 |
 
 ---
 
@@ -100,7 +109,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | [[amoc-collapse-carbon]] | AMOC collapse could release 640 billion tonnes of CO₂; already past the 350 ppm irreversibility threshold — **updated** with monitoring defunding crisis and 10× faster Europe scenario |
 | [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
 | [[indirect-greenhouse-gases]] | Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
-| [[record-hot-ocean-el-nino-2026]] | Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off |
+| [[record-hot-ocean-el-nino-2026]] | Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off — **updated** July 2026 with WRI's ocean-warming synthesis (91% heat absorption, 11 cm sea rise, Tuvalu Falepili treaty) |
 | [[jetstream-heatwave-patterns-2026]] | **NEW** — Two jet-stream patterns behind Europe's long heatwaves: omega block (type I) and poleward shift (type II); Pappert & Martius (Bern) simulated 1,900 hot spells; June 2026 heatwave killed ~20,000 |
 
 ---
@@ -169,6 +178,7 @@ Funding the transition — investment, risk, green banking.
 | The Energy Supercycle is Unstoppable | Long-term energy transition momentum |
 | The climate Mitigation Gap research | Gap between pledges and action |
 | Towards a Wellbeing economy - EEB report | Post-GDP economic models |
+| [[live-good-life-planetary-boundaries]] | **NEW** — Can everyone live a "good life" within planetary limits? 7 of 9 boundaries crossed; Millward-Hopkins sufficiency framework; Guimarães as a working "consumption corridor" city (European Green Capital 2026) |
 | What is ESG? | ESG criteria explained |
 | What is Materiality? | Materiality in sustainability reporting |
 | World Resources Institute 2023 report on Progress | WRI global progress review |
@@ -216,7 +226,7 @@ Funding the transition — investment, risk, green banking.
 | [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
 | [[lab-grown-meat]] | Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
 | [[beef-and-climate-change]] | Six-question WRI framing: methane + land-use change, 20× vs beans, 50 cal/day target reconciles feeding 10bn people with keeping forests |
-| [[eat-lancet-planetary-diet-2025]] | **NEW** — EAT-Lancet 2025 planetary health diet: ~2,400 kcal/day plant-rich; cuts non-CO2 agri-emissions 15–34%, saves 3.4 million km² of land, 15 million deaths/year averted; social-justice dimension added |
+| [[eat-lancet-planetary-diet-2025]] | EAT-Lancet 2025 planetary health diet — **updated** July 2026 with LSHTM-Cornell *Nature* economic modelling: –85% land-use emissions, –42% livestock production value, 400M fewer ruminants; regional impacts (USA –21%, India +46%, Europe –35%) |
 | FACTS about RICE production | Rice emissions and impact |
 | Food Carbon FootPrint | Food's overall carbon footprint |
 | Is the meat industry following the Oil Industry? | Parallels between meat and fossil fuels |
@@ -241,7 +251,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
 | [[DRAFT - AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
-| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island (Cambridge) and July 2026 Water UK evidence: forecasts "fatally flawed," 125 datacentres in Affinity Water region, drought hierarchy missing |
+| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island, July 2026 Water UK evidence ("fatally flawed" forecasts, 125 datacentres in Affinity region), and Meta's July 2026 RE100 exit (10 gas plants for Hyperion Louisiana) |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
@@ -278,6 +288,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | CARS Life Cycle Emissions - EV vs Combustion | EV vs ICE full lifecycle comparison |
+| [[smaller-evs-better]] | **NEW** — Smaller EVs are better: 2/3 of BEV models now SUVs/pickups (up from 1/3 in 2017); larger EVs use 20% more energy, need more critical minerals, 45% higher pedestrian fatality risk; France/Norway/Paris policy tools |
 | FACTS about Air Travel | Aviation emissions |
 | FACTS about Energy for Transport | Transport energy overview |
 | FACTS about Tyres | Tyre production and emissions |
@@ -362,7 +373,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about Wind Energy | Wind energy data — **updated** July 2026 with Formosa Wind Farm (Taiwan): 69 turbines, 86 reef fish species not previously recorded; biodiversity co-benefit of offshore wind |
 | First Cargo ship running on BioMethanol | Bio-methanol shipping |
 | First Osmotic Power Plants | Osmotic / salinity gradient energy |
-| Geothermal energy | Geothermal power |
+| Geothermal energy | Geothermal power — **updated** July 2026 with three new routes: EGS (Pohang M5.5 quake risk, Iceland's slow-cooling mitigation), AGS closed-loop (Eavor Geretsried Germany, China Huaneng supercritical CO2), superhot rock (Iceland Deep Drilling, Quaise millimetre-wave); IEA's 150× global electricity potential |
 | Powering Ships with a kite | Kite propulsion for ships |
 | Renewable energey worldwide capacity and 2024 forecast | Global renewables capacity |
 | Sustainable FLighs with Hydrogen | Hydrogen aviation |
@@ -408,7 +419,7 @@ Funding the transition — investment, risk, green banking.
 | Other SUSTAINABility and Recycling efforts | Misc recycling initiatives |
 | Recycling - Project Drawdown 42 | Recycling as climate solution |
 | Reduced Food Waste - Project Drawdown 1 | Food waste reduction |
-| The Environmental Impact of the FASHION industry | Fashion's climate footprint — **updated** July 2026 with the EU's ESPR ban on destroying unsold clothes (in force from 19 July 2026; large firms first, medium-sized in 2030) |
+| The Environmental Impact of the FASHION industry | Fashion's climate footprint — **updated** July 2026 with the EU's ESPR ban on destroying unsold clothes (in force from 19 July 2026) and a puffer-jackets case section (down/wool welfare, "100% recycled" caveats, 1-in-10 repair rate) |
 | [[seaqual-ocean-plastic-fashion]] | Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
 | [[plastic-mass-balance-greenwashing]] | **NEW** — Mass-balance accounting and the pyrolysis loophole: how Kraft Heinz, Mondelēz and others can label plastic "recycled" while it's 95% virgin naphtha; EU PPWR legalises the trick in 2026 |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |
@@ -457,7 +468,7 @@ Funding the transition — investment, risk, green banking.
 | What is VSME - Voluntary Sustainability Reporting | Voluntary SME reporting |
 | What is the EPD? | Environmental Product Declaration |
 | Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024 | Reporting standard comparison |
-| [[SBTI - sbti-science-based-targets]] | SBTi Science Based Targets explained; 2026 update allows environmental credits and carbon removals; "best-efforts" framework |
+| [[SBTI - sbti-science-based-targets]] | SBTi Science Based Targets explained — **updated** July 2026 with the final Corporate Net-Zero Standard V2.0: OER framework, Category A/B, mandatory carbon removals from 2035, $80/tonne Leadership tier, effective 1 Feb 2027 |
 | [[issb-nature-practice-statement-2026]] | **NEW** — ISSB chooses a non-mandatory "practice statement" over a mandatory nature standard (IFRS S3); WWF, Rockström, Polman, Nature Finance push back; October 2026 consultation ahead of COP17 |
 
 ---

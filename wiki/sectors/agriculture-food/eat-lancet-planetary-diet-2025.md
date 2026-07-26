@@ -4,7 +4,7 @@ category: sectors
 tags: ["#food", "#agriculture", "#methane", "#behaviour", "#key-ideas"]
 sources: ["Carbon Brief — https://www.carbonbrief.org/eat-lancet-report-three-key-takeaways-on-climate-and-diet-change/", "EAT-Lancet Commission 2025 — The Lancet, DOI: 10.1016/S0140-6736(25)01201-2"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-26
 summary: EAT-Lancet 2025, planetary health diet, Johan Rockström, Line Gordon, Shakuntala Thilsted, plant-rich diet, 2400 calories, whole grains legumes nuts, methane nitrous oxide, non-CO2 agricultural emissions cut 15%, 15 million avoidable deaths, food system emissions one third, dietary shift plus mitigation 34% cut, planetary boundaries five breaches, food justice, richest 30% cause 70% food environmental pressure, meat industry disinformation backlash, DeSmog Animal Agriculture Alliance, land use savings 3.4 million km2, subsidies taxes food labelling
 ---
 
@@ -67,6 +67,41 @@ The Commission does not put the responsibility on individual consumers alone. Th
 ## The politics of the backlash
 
 The 2019 EAT-Lancet report faced what Carbon Brief calls a "massive online backlash" against its meat-consumption findings. Investigative reporting by **DeSmog** in 2025 traced much of this to a PR firm representing the meat and dairy industry, working with the Animal Agriculture Alliance. Rockström said the Commission is "ready to meet that assault" again and expressed concern "over this return of mis- and disinformation and denialism on climate science."
+
+## July 2026 update: what the transformation would actually cost and reshape
+
+A new *Nature* paper by an **LSHTM–Cornell team with 10 modelling groups** (Gibson et al., 2026; DOI: [10.1038/s41586-026-10775-2](https://dx.doi.org/10.1038/s41586-026-10775-2)) puts specific economic and land-use numbers on what a global adoption of the planetary health diet — combined with improved farming efficiency and **halved food loss and waste** — would deliver by 2050.
+
+### The global picture
+
+- **Net CO₂ emissions from agricultural land-use change: –85% by 2050 vs 2020**
+- **Global farmland use: down ~6%** compared with current trends
+- **Livestock production value: –42% (–$630 billion)**; ruminant sector alone **–70% (–$274bn)**, with **~400 million fewer ruminant animals worldwide**
+- **Vegetable, fruit, nut and legume production value: +57% (+$890bn)**
+
+The **–85% land-use emissions cut** is much larger than the –15% non-CO2 agri-emissions cut the EAT-Lancet Commission itself estimated because it captures the land-use side (deforestation avoided, pasture reclaimed) as well as on-farm emissions.
+
+### The regional picture is very uneven
+
+| Region | Total agri value | Crops | Livestock |
+|---|---|---|---|
+| **United States** | −21% (−$76bn) | +20% (+$40bn) | −73% (−$116bn) |
+| **India** | **+46% (+$198bn)** | +65% (+$208bn) | −8% (−$10bn) |
+| **Europe** | −35% (−$190bn) | −8% (−$22bn) | −66% (−$168bn) |
+
+India gains economically as well as environmentally; the US and Europe see net contraction because they currently produce more livestock. This is exactly the distributional pattern that makes a **just transition** for farming communities a first-order policy question, not a footnote.
+
+### Caveats the authors flag
+
+- The model assumes a **"costless consumer preference shift"** — people willingly change diet with no financial, cultural or practical barriers. In reality healthy foods are not equally affordable everywhere.
+- The scenarios are **foresight modelling** — a useful early guide of where challenges and opportunities may arise, not a forecast.
+- Without careful policy planning, the transition could create **severe economic disruption for livestock-dependent communities**.
+
+### Notable quote
+
+**Dr Matt Gibson** (lead author): *"Transforming food systems would deliver enormous potential benefits to our health and the environment but they would also lead to fundamental changes to global agriculture and affect the lives of millions of farmers and food producers. Rather than using these results as an excuse for inaction, it's critical that governments rise to the challenge... This means confronting powerful groups that profit from the status quo."*
+
+*Source: [LSHTM Nature study (source summary)](../../sources/lshtm-healthy-diet-farm-emissions-2026.md); ScienceDaily / London School of Hygiene & Tropical Medicine, 23 July 2026.*
 
 ## Key facts
 

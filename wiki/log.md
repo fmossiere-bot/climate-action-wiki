@@ -4,6 +4,197 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-26 ingest | Can Everyone Live a 'Good Life' Within Planetary Limits? (New Scientist / Guimarães)
+
+**Source file:** `raw/papers/LiveGoodLife-NS.pdf`
+**Original source:** New Scientist, April Reese, 14 July 2026 (updated 15 July 2026) — *Can everyone live a 'good life' without destroying the planet?*
+
+**What was done:**
+- Created source summary: `wiki/sources/live-good-life-guimaraes-newscientist-2026.md`
+- Created new wiki page: `wiki/concepts/key-ideas/live-good-life-planetary-boundaries.md`
+- Updated `wiki/index.md` — added source and new key-ideas page entries
+
+**Key content added:**
+- Humanity has now crossed 7 of 9 planetary boundaries (Rockström 2009 framework)
+- Millward-Hopkins (Lausanne, 2025): consumption growth rate 4× higher in surplus-consumption countries than in countries below decent living standards
+- "Useless overconsumption" and "consumption corridor" concepts
+- Guimarães, Portugal as a working case: European Green Capital 2026; ~2.3 Earths footprint per resident; waste circularity 2.5× Portuguese average; –18% per-capita waste since 2018; 95 ha green space restored; sustainability codified into law
+- Landscape Laboratory (Carlos Ribeiro) as the institutional backbone
+- Wealthy environmentalists have larger footprints than wealthy peers (echoes high-income carbon paradox)
+- World Inequality Lab Global Justice Report (June 2026): global wealth tax on billionaires; average per-capita income ~€5,000/month achievable within planetary limits by end of century
+
+---
+
+## 2026-07-26 ingest | Three New Routes to Global Geothermal (New Scientist)
+
+**Source file:** `raw/papers/Geothermal-NS.pdf`
+**Original source:** New Scientist, Katharine Sanderson, 21 July 2026 (updated 23 July 2026)
+
+**What was done:**
+- Created source summary: `wiki/sources/geothermal-newscientist-2026.md`
+- Updated existing page: `wiki/solutions/renewables/DRAFT - Geothermal energy.md` — added substantial "July 2026: three new routes to geothermal, anywhere on Earth" section; updated frontmatter tags/summary/date/sources
+- Updated `wiki/index.md` — added source entry; expanded Geothermal page description
+
+**Key content added:**
+- IEA: geothermal's technical potential is ~150× current global electricity demand at depths to 8 km
+- Route 1: EGS (Enhanced Geothermal Systems) — 2-10 km depth; Pohang South Korea 2017 M5.5 quake, £148m damage; Iceland's slow-cooling mitigation approach at HS Orka
+- Route 2: AGS (Advanced Geothermal Systems / closed-loop) — Eavor's Geretsried Germany plant (operational 2025); China Huaneng supercritical CO2 demo (Zhengzhou, May 2026)
+- Route 3: superhot / supercritical geothermal (374°C+) — Iceland Deep Drilling Project's 4.7 km well (2017); Quaise Energy's millimetre-wave drilling plan (Oregon 2030 target; 10+ km by 2035); GA Drilling laser/plasma trials
+- Key voices: Matt Houde (Quaise), Iain Staffell (Imperial), Bill Ellsworth (Stanford), Sanjeev Kumar (EGEC), Lilja Magnúsdóttir (HS Orka)
+
+---
+
+## 2026-07-26 ingest | Earthly's Nature Disclosure Frameworks Overview
+
+**Source file:** `raw/articles/What the core sustainability disclosure frameworks require from your nature investments.md`
+**Original source:** Earthly blog, Giacomo Bartoleschi and Faith Sayo, 23 July 2026 — https://earthly.org/blog/what-core-sustainability-disclosure-frameworks-require-from-your-nature-investments
+
+**What was done:**
+- Created source summary: `wiki/sources/nature-disclosure-frameworks-earthly-2026.md`
+- Updated `wiki/index.md` — added source entry
+- No new wiki page created — vendor piece; framework map is useful but reads as marketing
+
+**Key content added (framework map):**
+- SBTi V2 OER, TNFD (metrics A21.0-A24.4), IFRS S2, ESRS E1-7, SBTN, ISO 14068-1, GHG Protocol, CDP — what each requires from nature-investment disclosures
+- EY 2025 Nature Action Barometer: 93% of companies mention nature; only 26% can evidence impact
+- 8-in-10 companies reporting across multiple frameworks simultaneously
+- MSCI: <30% of nature-based projects achieve BBB+ quality rating
+- Vendor caveats noted for future readers
+
+---
+
+## 2026-07-26 ingest | SBTi Corporate Net-Zero Standard V2.0 (Earthly explainer)
+
+**Source file:** `raw/articles/What the SBTi's Corporate Net-Zero Standard V2 means for your carbon credit strategy.md`
+**Original source:** Earthly blog, Faith Sayo, 23 July 2026 — https://earthly.org/blog/what-sbti-corporate-net-zero-standard-v2-means-for-business-carbon-credit-strategy
+
+**What was done:**
+- Created source summary: `wiki/sources/sbti-net-zero-v2-earthly-2026.md`
+- Updated existing page: `wiki/standards-labels/SBTI - sbti-science-based-targets.md` — added substantial "July 2026: SBTi publishes the final Corporate Net-Zero Standard V2.0" section; updated frontmatter tags/summary/date/sources
+- Updated `wiki/index.md` — added source entry; expanded SBTi page description
+
+**Key content added:**
+- V2.0 takes effect 1 February 2027; new-rule target validation opens Q1 2027; V1.3.1 available until 31 January 2028
+- BVCM replaced by Ongoing Emissions Responsibility (OER) framework — three public recognition tiers
+- Two-tier classification: Category A (>€50m HIC / >€450m LIC) with strictest obligations, Category B (mostly SMEs) with lighter obligations
+- Three formal roles for carbon credits (voluntary OER 2027-35, mandatory removals from 2035 for Category A, neutralisation of residual emissions at net-zero year)
+- OER tiers: Engaged (1% + ~$20/tonne), Advanced (100% of scope 1&2 + 10% scope 1-3), Leadership (100% scope 1-3 + $80/tonne)
+- $80/tonne clarified as Leadership contribution budget, not a market price
+- Nature-based solutions can be up to 90% of the removal requirement in 2035
+- Transparency: OER positions published on SBTi Dashboard; opt-outs require written justification
+
+---
+
+## 2026-07-26 ingest | Meta Quits RE100 Clean Energy Pledge (RTÉ)
+
+**Source file:** `raw/articles/Meta quits clean energy pledge amid data centre expansion.md`
+**Original source:** RTÉ News, 25 July 2026 — https://www.rte.ie/news/2026/0725/1585032-meta-pledge/ (originally Recharge News)
+
+**What was done:**
+- Created source summary: `wiki/sources/meta-quits-re100-rte-2026.md`
+- Updated existing page: `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` — added "July 2026: Meta quits RE100 as tech pivots to gas" section; updated frontmatter date/summary; extended sources
+- Updated `wiki/index.md` — added source entry; expanded ai-data-centre-energy-crisis description
+
+**Key content added:**
+- Meta withdrawn from RE100 (Climate Group's 444-member 100%-renewable-electricity pledge)
+- Joined 2016; Climate Group explicit reason: "no longer able to meet the technical criteria due to investments made in new gas power"
+- 10 new natural gas plants for Meta's Hyperion data centre in Louisiana alone
+- Microsoft/Chevron deal for West Texas; Google linked to similar partnerships
+- Annualised matching versus 24/7 hourly matching now the real fault line in corporate clean-energy accounting
+
+---
+
+## 2026-07-26 ingest | Puffer Jackets — a Fashion Case Study (Guardian)
+
+**Source file:** `raw/articles/Lofty ambitions can puffer jackets be made more sustainable?.md`
+**Original source:** The Guardian (Australia), Petra Stock, 25 July 2026 — https://www.theguardian.com/australia-news/2026/jul/25/lofty-ambitions-can-puffer-jackets-be-made-more-sustainable
+
+**What was done:**
+- Created source summary: `wiki/sources/puffer-jackets-guardian-2026.md`
+- Updated existing page: `wiki/circularity-waste/DRAFT - The Environmental Impact of the FASHION industry.md` — added "Case study: puffer jackets" section; updated frontmatter tags/summary/date/sources
+- Updated `wiki/index.md` — added source entry; expanded Fashion page description
+
+**Key content added:**
+- 83% of a puffer jacket's carbon/water footprint comes from producing the materials
+- ~100 million puffer jackets made in China annually
+- Down/wool/synthetic/plant-based filler comparison
+- Down welfare: 1-2% still from live plucking; Responsible Down Standard
+- Wool welfare: mulesing still legal in Australia; ZQ Merino, Responsible Wool Standard
+- Adelaide University: 89% of garments bought new; padded jackets rarely worn
+- Australia: 53% of unwanted clothes to landfill; 9% recycled; 1.5bn new items/year; 220,000 tonnes landfilled
+- 1-in-10 items are repaired; repair extends useful life by 2.5 years on average
+
+---
+
+## 2026-07-26 ingest | Smaller EVs Are Better (WRI)
+
+**Source file:** `raw/articles/For Electric Vehicles, Smaller Is Better.md`
+**Original source:** WRI, Yiqian Zhang-Billert, Sarah Cassius & Cristina Albuquerque, 28 July 2025 — https://www.wri.org/insights/electric-vehicles-smaller-better
+
+**What was done:**
+- Created source summary: `wiki/sources/wri-smaller-evs-2025.md`
+- Created new wiki page: `wiki/sectors/transport/smaller-evs-better.md`
+- Updated `wiki/index.md` — added source and new transport page entries
+
+**Key content added:**
+- 2/3 of BEV models in 2023 were SUVs/pickups/large cars (up from 1/3 in 2017)
+- Europe: <40% of BEVs are small/medium; US 25%; China 50%
+- Larger EVs use up to 20% more electricity per vehicle
+- T&E: prioritising smaller EVs in Europe could cut battery-mineral demand by 25%
+- IEA: 18-20% cut in global mineral demand for EV batteries by 2050 with targeted measures
+- Safety: 45% higher fatal pedestrian collision risk; +30% for cyclists/pedestrians per +300 kg
+- Policy tools: France weight tax (>1600 kg), Paris tripled SUV parking, Norway EV weight+emissions tax, >320 European cities with low-emission zones
+- BYD Seagull, Wuling Bingo entering Europe; VW/Renault/Stellantis rolling out sub-€25k EVs
+- Average daily European travel: 12.4 km/person — well within compact EV range
+
+---
+
+## 2026-07-26 ingest | WRI Ocean Warming Synthesis
+
+**Source file:** `raw/articles/As Temperatures Climb, the Ocean Takes the Brunt.md`
+**Original source:** WRI, Tom Pickerell (Global Director, Ocean Program), 22 July 2026 — https://www.wri.org/insights/ocean-warming-climate-change-impacts
+
+**What was done:**
+- Created source summary: `wiki/sources/wri-ocean-warming-2026.md`
+- Updated existing page: `wiki/climate-science/record-hot-ocean-el-nino-2026.md` — added "WRI's July 2026 update: the three big ocean numbers" section; updated frontmatter date
+- Updated `wiki/index.md` — added source entry; expanded record-hot-ocean-el-nino description
+
+**Key content added:**
+- Ocean absorbs 91% of excess heat from GHGs (7.6 billion cups of tea per second)
+- Upper 2,000 m: 9th consecutive record year for stored heat in 2025 (WMO)
+- Rate of warming 2005-2025 more than double the rate 1960-2005
+- Sea level: +11 cm since Jan 1993; rate up from 2.65 mm/yr to 4.75 mm/yr
+- Arctic sea ice: record-low annual max March 2025 (~14.3m km²), tied 2026
+- Antarctic sea ice: 3rd-lowest annual max in 2025; 2nd-lowest summer min
+- Ocean absorbs ~25% of human CO2; surface acidity up ~30% since preindustrial
+- Tuvalu-Australia Falepili Union Treaty (climate migration pathway)
+- The Gambia salinity case; Pacific Northwest oyster hatcheries case
+- IPCC: deep-ocean warming and interior acidification effectively irreversible on our timescales
+- WRI's three policy asks: treat adaptation as essential; invest in blue-carbon ecosystems; make ocean data visible alongside emissions
+
+---
+
+## 2026-07-26 ingest | LSHTM–Cornell Nature Study on Healthier Global Diet
+
+**Source file:** `raw/articles/A healthier global diet could cut farm emissions by 85%.md`
+**Original source:** ScienceDaily / London School of Hygiene & Tropical Medicine, 23 July 2026 — https://www.sciencedaily.com/releases/2026/07/260716023557.htm
+**Peer-reviewed study:** Gibson M et al. (2026), *Food systems transformation would reshape global agriculture*, *Nature*, DOI: 10.1038/s41586-026-10775-2
+
+**What was done:**
+- Created source summary: `wiki/sources/lshtm-healthy-diet-farm-emissions-2026.md`
+- Updated existing page: `wiki/sectors/agriculture-food/eat-lancet-planetary-diet-2025.md` — added "July 2026 update: what the transformation would actually cost and reshape" section; updated frontmatter date
+- Updated `wiki/index.md` — added source entry; expanded EAT-Lancet page description
+
+**Key content added:**
+- LSHTM–Cornell team + 10 modelling groups; foresight modelling based on EAT-Lancet 2025 pathway
+- Global 2050 vs 2020: net CO2 from land-use change –85%; farmland use –6%; livestock production value –42% (–$630bn); ruminant sector alone –70% (–$274bn); ~400M fewer ruminants worldwide
+- Vegetable/fruit/nut/legume value: +57% (+$890bn)
+- Regional: USA –21% agri value (crops +20%, livestock –73%); India +46% (crops +65%, livestock –8%); Europe –35% (crops –8%, livestock –66%)
+- Caveats: "costless preference shift" assumption; foresight scenarios not forecasts; severe local disruption possible without planning
+- Just-transition framing: Matt Gibson quote on confronting "powerful groups that profit from the status quo"
+
+---
+
 ## 2026-07-22 ingest | Jet Stream Patterns Behind Europe's Long Heatwaves (New Scientist)
 
 **Source file:** `raw/papers/Jetstream-NS.pdf`

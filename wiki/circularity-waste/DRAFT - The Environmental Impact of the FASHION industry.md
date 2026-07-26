@@ -4,7 +4,7 @@ category: circularity-waste
 tags: ["#fashion", "#circularity", "#plastic", "#eu-policy"]
 sources: ["Earth.org — Fast fashion's environmental impact", "Deutsche Welle, Nik Martin, 19 July 2026 — https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888"]
 created: 2026-06-01
-updated: 2026-07-22
+updated: 2026-07-26
 summary: "Fast fashion, 10% global emissions, microplastics, toxic dyes, water consumption jeans, 1083 Made in France, ozone dyeing, circular deposit, Rewearable Circular Fashion, EU Ecodesign for Sustainable Products Regulation ESPR, unsold clothes disposal ban July 2026, 4-9% textile disposal EEA, one in five online returns not resold, HDE German Retail Federation, 20% EU-produced apparel, 2030 medium-sized firm extension"
 ---
 
@@ -126,3 +126,27 @@ From **19 July 2026**, large fashion companies operating in the EU can **no long
 - Critics note the ban does not stop **overproduction** upstream — companies can still push large quantities of clothes into the EU market, they just cannot destroy the surplus. If firms respond by dumping stock outside the EU or by warehousing indefinitely, the emissions benefit will be limited
 
 *Source: [EU unsold clothes ban (source summary)](../sources/eu-unsold-clothes-ban-dw-2026.md); Deutsche Welle, Nik Martin, 19 July 2026*
+
+## Case study: puffer jackets
+
+Puffer jackets — a category the Guardian estimates at **~100 million units per year made in China alone** — condense many of the industry's problems into one product:
+
+- **~83% of a puffer's carbon and water footprint comes from producing the materials**, according to a 2023 lifecycle study. Shells are usually nylon or polyester; fillers are down, wool, synthetic, or increasingly **plant-based fluff** (e.g. Pangaia's wildflower/biopolymer/aerogel).
+- **Down** is mostly a byproduct of the meat industry, but ~1-2% is still thought to come from **live plucking**; the **Responsible Down Standard** requires higher welfare and prohibits it.
+- **Wool** carries the specific welfare concern of **mulesing** — a practice still legal in Australia but banned in New Zealand and elsewhere; look for **ZQ Merino** or the **Responsible Wool Standard**.
+- **Polyester puffers labelled "100% recycled"** are usually made from PET bottles or textile waste — a better story than virgin polyester, but often overstated (see the [mass-balance greenwashing loophole](plastic-mass-balance-greenwashing.md) for how the accounting works).
+
+### Overproduction, not use
+
+An **Adelaide University** study of ~600 people found **89% of garments are bought new**, and padded jackets are one of the **most expensive items people own but rarely wear** — which is why the secondhand market is now full of near-new puffers in good condition. Nationally in Australia, **~53% of unwanted clothes end up in landfill**, ~38% are reused or exported, and only ~9% are recycled. Textile recycling is time- and labour-intensive, and because virgin polyester is so cheap, "**it's cheaper just to make a whole new jacket than it is to recover and repurpose one**" (Julie Boulton, sustainable fashion consultant).
+
+### Small behaviour-change lever with real impact
+
+- **Only ~1 in 10 items are repaired**, but a repair extends the useful life of a garment by an **average of 2.5 years**
+- Most garments do not need to be washed as often as people think; **airing them out is often enough**
+- **Wash cold** — heat damages synthetic fabrics; some water-repellent finishes can be **reapplied** rather than replacing the jacket
+- Some outdoor brands offer **repair services or take-back schemes** (e.g. Upparel in Australia)
+
+The practical takeaway from RMIT's Dr Carolina Quintero Rodriguez: *"Extend the life of the item as much as possible. Care for the item as per the care instructions. And make sure that you purchase only what you need."*
+
+*Source: [Puffer jackets sustainability (source summary)](../sources/puffer-jackets-guardian-2026.md); Guardian, Petra Stock, 25 July 2026*
