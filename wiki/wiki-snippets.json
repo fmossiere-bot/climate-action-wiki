@@ -1102,6 +1102,20 @@
     ]
   },
   {
+    "slug": "live-good-life-planetary-boundaries",
+    "filename": "concepts/key-ideas/live-good-life-planetary-boundaries.md",
+    "label": "Can Everyone Live a 'Good Life' Within Planetary Limits? Guimarães as a Working Case",
+    "summary": "planetary boundaries, safe operating space, Rockström Potsdam Institute, seven boundaries crossed, decent living standards, useless overconsumption, consumption corridor, Joel Millward-Hopkins Lausanne, Guimarães Portugal, European Green Capital 2026, Landscape Laboratory Carlos Ribeiro, Sara Pires University of Aveiro, 2.3 Earths, pay-as-you-throw, One Planet City, waste circularity 2.5x, 18% waste per person cut since 2018, Global Justice Report World Inequality Lab, Cornelia Mohren, Tim Lenton Exeter social tipping points, sufficiency, wealthy environmentalists larger footprint",
+    "category": "concepts",
+    "tags": [
+      "key-ideas",
+      "behaviour",
+      "circularity",
+      "eu-policy",
+      "nature-based-solutions"
+    ]
+  },
+  {
     "slug": "carbon-footprint-in-ireland",
     "filename": "ireland-hub/Carbon Footprint in IRELAND.md",
     "label": "Avg Carbon Footprint in Ireland",
@@ -1869,6 +1883,20 @@
     "tags": []
   },
   {
+    "slug": "smaller-evs-better",
+    "filename": "sectors/transport/smaller-evs-better.md",
+    "label": "Smaller EVs Are Better — Why Bigger Batteries Undermine the Transition",
+    "summary": "EV size trend, SUV pickup dominance BEV, lifecycle emissions, battery mineral demand lithium cobalt, pedestrian safety, urban mobility, EU fleet CO2 compliance flexibility, Norway weight-based EV tax, France 1600 kg weight tax, Paris SUV parking triple, 320 low-emission zones Europe, BYD Seagull Wuling Bingo, Volkswagen Renault Stellantis, sub-25000 euro EVs, average daily travel 12 km Europe, IEA mineral demand 18-20% cut",
+    "category": "sectors",
+    "tags": [
+      "ev",
+      "transport",
+      "electrification",
+      "battery",
+      "key-ideas"
+    ]
+  },
+  {
     "slug": "landfill-methane-capture",
     "filename": "solutions/Landfill Methane Capture.md",
     "label": "Landfill Methane to energy conversion",
@@ -2378,12 +2406,13 @@
     "slug": "draft-geothermal-energy",
     "filename": "solutions/renewables/DRAFT - Geothermal energy.md",
     "label": "Geothermal Energy",
-    "summary": "What is Geothermal Energy, Where is it stored, What can Geothermal energy be used for, How can geothermal energy be used, Geothermal energy: So hot right now, Geothermal Energy in Ireland, Trinity College just refurbished its housing with geothermal heating, about 0.4%, EGS: enhanced geothermal systems",
+    "summary": "geothermal basics, shallow and deep geothermal, closed-loop, ground source heat pumps, Ireland geothermal potential, Trinity College Dublin, Rubrics refurbishment, GSI, enhanced geothermal systems EGS, advanced geothermal systems AGS, supercritical geothermal, superhot rock, Quaise Energy, Eavor Geretsried, Iceland Deep Drilling Project, HS Orka, Pohang earthquake 2017 M5.5, IEA 150x global electricity demand, dispatchable clean energy, GA Drilling, China Huaneng supercritical CO2, Iain Staffell Imperial College, Bill Ellsworth Stanford, Matt Houde, groundwater risk, casing integrity",
     "category": "solutions",
     "tags": [
+      "renewables",
       "science",
       "carbon",
-      "nature"
+      "energy-transition"
     ]
   },
   {
@@ -2749,6 +2778,19 @@
     "tags": []
   },
   {
+    "slug": "geothermal-newscientist-2026",
+    "filename": "sources/geothermal-newscientist-2026.md",
+    "label": "How to unlock unlimited geothermal energy, anywhere we want (New Scientist, July 2026)",
+    "summary": "enhanced geothermal EGS, advanced geothermal AGS closed-loop, supercritical geothermal, superhot rock, Quaise Energy millimetre wave drilling, GA Drilling laser plasma, Eavor Geretsried Germany, China Huaneng Group supercritical CO2 Zhengzhou, Iceland Deep Drilling Project, HS Orka Lilja Magnúsdóttir, Pohang earthquake 2017 magnitude 5.5, Bill Ellsworth Stanford, Sanjeev Kumar European Geothermal Energy Council, Matt Houde, Iain Staffell Imperial College, IEA 150x global electricity demand, Iceland 25% electricity supply",
+    "category": "sources",
+    "tags": [
+      "renewables",
+      "science",
+      "energy-transition",
+      "research"
+    ]
+  },
+  {
     "slug": "iata-netzero-unlikely-2026",
     "filename": "sources/iata-netzero-unlikely-2026.md",
     "label": "Airline industry chiefs say 2050 net zero goal now unlikely",
@@ -2837,6 +2879,34 @@
     ]
   },
   {
+    "slug": "live-good-life-guimaraes-newscientist-2026",
+    "filename": "sources/live-good-life-guimaraes-newscientist-2026.md",
+    "label": "Can everyone live a 'good life' without destroying the planet? (New Scientist, July 2026)",
+    "summary": "Guimarães Portugal, European Green Capital 2026, Landscape Laboratory, Carlos Ribeiro, Sara Pires University of Aveiro, planetary boundaries seven crossed, Rockström, Joel Millward-Hopkins Lausanne, decent living standards, useless overconsumption, sufficiency, consumption corridor, One Planet City 2050, waste circularity 2.5x Portugal average, pay-as-you-throw, Tim Lenton Exeter social tipping points, Global Justice Report World Inequality Lab, Cornelia Mohren, RDD Textiles Zouri shoes, 2.3 Earths, floodwater retention basins",
+    "category": "sources",
+    "tags": [
+      "behaviour",
+      "circularity",
+      "key-ideas",
+      "eu-policy",
+      "nature-based-solutions"
+    ]
+  },
+  {
+    "slug": "lshtm-healthy-diet-farm-emissions-2026",
+    "filename": "sources/lshtm-healthy-diet-farm-emissions-2026.md",
+    "label": "A healthier global diet could cut farm emissions by 85% (ScienceDaily / LSHTM, July 2026)",
+    "summary": "LSHTM London School of Hygiene Tropical Medicine, Matt Gibson, Marina Sundiang, Daniel Mason-D'Croz, Cornell, EAT-Lancet follow-up, 10 modelling teams, foresight modelling, land-use change emissions 85% cut by 2050, 400 million fewer ruminants, farmland 6% less, livestock $630bn drop, plant-based $890bn gain, USA -21% agricultural value, India +46%, Europe -35%, Mario Herrero, Nature, DOI 10.1038/s41586-026-10775-2",
+    "category": "sources",
+    "tags": [
+      "food",
+      "agriculture",
+      "carbon",
+      "behaviour",
+      "key-ideas"
+    ]
+  },
+  {
     "slug": "mangrove-recovery-2026",
     "filename": "sources/mangrove-recovery-2026.md",
     "label": "Source: Mangrove forests are healing after decades of human destruction",
@@ -2859,6 +2929,20 @@
     "tags": []
   },
   {
+    "slug": "meta-quits-re100-rte-2026",
+    "filename": "sources/meta-quits-re100-rte-2026.md",
+    "label": "Meta quits clean energy pledge amid data centre expansion (RTÉ, July 2026)",
+    "summary": "Meta RE100 exit, Climate Group, RE100 members 444, Hyperion Louisiana 10 gas plants, Microsoft Chevron West Texas, natural gas bridge fuel, methane leakage, Mark Zuckerberg, 2016 pledge Wayback Machine, 24/7 clean energy matching, corporate net zero backsliding, Recharge News",
+    "category": "sources",
+    "tags": [
+      "ai",
+      "digital",
+      "energy",
+      "fossil-fuels",
+      "greenwashing"
+    ]
+  },
+  {
     "slug": "nature-at-a-crossroads-reuters-2026",
     "filename": "sources/nature-at-a-crossroads-reuters-2026.md",
     "label": "Nature at a Crossroads: The evolving architecture of nature disclosure (Reuters Events, 2026)",
@@ -2873,6 +2957,20 @@
     ]
   },
   {
+    "slug": "nature-disclosure-frameworks-earthly-2026",
+    "filename": "sources/nature-disclosure-frameworks-earthly-2026.md",
+    "label": "What the core sustainability disclosure frameworks require from your nature investments (Earthly, July 2026)",
+    "summary": "SBTi TNFD IFRS S2 ESRS E1-7 SBTN ISO 14068-1 GHG Protocol CDP, sustainability disclosure frameworks, nature investments reporting, Keystone 3.0 Earthly, biodiversity credits, carbon credits, LEAP approach, Verra VCS Gold Standard Plan Vivo, EY Nature Action Barometer 93%, MSCI Carbon Project Ratings 30%, CSDDD, 8 in 10 companies multiple frameworks",
+    "category": "sources",
+    "tags": [
+      "esg",
+      "nature",
+      "finance",
+      "eu-policy",
+      "biodiversity"
+    ]
+  },
+  {
     "slug": "pine-island-glacier-attribution-2026",
     "filename": "sources/pine-island-glacier-attribution-2026.md",
     "label": "Human activity has driven retreat of Antarctica's fastest melting glacier (Phys.org / King's College London, June 2026)",
@@ -2882,6 +2980,18 @@
       "science",
       "nature",
       "adaptation"
+    ]
+  },
+  {
+    "slug": "puffer-jackets-guardian-2026",
+    "filename": "sources/puffer-jackets-guardian-2026.md",
+    "label": "Lofty ambitions: can puffer jackets be made more sustainable? (Guardian, July 2026)",
+    "summary": "puffer jacket sustainability, down feathers, wool mulesing, Responsible Down Standard, ZQ Merino, polyester microplastics, Pangaia plant-based fill, 100 million jackets China, 89% new garments Adelaide University, 100% recycled labels, Julie Boulton, Carolina Quintero Rodriguez RMIT, Natalie Roadknight RSPCA, textile recycling Upparel, Seamless Australia 220000 tonnes landfill, repair extends life 2.5 years",
+    "category": "sources",
+    "tags": [
+      "fashion",
+      "circularity",
+      "behaviour"
     ]
   },
   {
@@ -2905,6 +3015,20 @@
     "summary": "",
     "category": "",
     "tags": []
+  },
+  {
+    "slug": "sbti-net-zero-v2-earthly-2026",
+    "filename": "sources/sbti-net-zero-v2-earthly-2026.md",
+    "label": "What the SBTi's Corporate Net-Zero Standard V2 means for your carbon credit strategy (Earthly, July 2026)",
+    "summary": "SBTi Corporate Net-Zero Standard V2, Ongoing Emissions Responsibility OER framework, Beyond Value Chain Mitigation BVCM replaced, Category A Category B, 2035 mandatory carbon removal, $80 per tonne Leadership tier, $20 per tonne Engaged tier, annual reporting, five-year cycles, near-term targets scope 1 2 3, nature-based solutions up to 90% by 2035, durable removals, 5-10 million tonnes removal supply, Earthly Keystone 3.0",
+    "category": "sources",
+    "tags": [
+      "esg",
+      "carbon",
+      "carbon-offset",
+      "finance",
+      "nature-based-solutions"
+    ]
   },
   {
     "slug": "sitka-spruce-greenwashing-ireland-2026",
@@ -3097,6 +3221,33 @@
     ]
   },
   {
+    "slug": "wri-ocean-warming-2026",
+    "filename": "sources/wri-ocean-warming-2026.md",
+    "label": "As Temperatures Climb, the Ocean Takes the Brunt (WRI, July 2026)",
+    "summary": "WRI ocean warming, 91% excess heat absorbed, 11cm sea level rise since 1993, rate doubled 2.65mm to 4.75mm per year, upper 2000m record heat 2025, 9 consecutive record years, Arctic sea ice record low 14.3 million km2, Antarctic third lowest max, ocean acidity 30% since preindustrial, Tuvalu Australia Falepili Union Treaty, Gambia salinity, oyster hatcheries Pacific Northwest, Sustainable Ocean Plans, blue carbon, Tom Pickerell",
+    "category": "sources",
+    "tags": [
+      "ocean",
+      "science",
+      "adaptation",
+      "nature-based-solutions"
+    ]
+  },
+  {
+    "slug": "wri-smaller-evs-2025",
+    "filename": "sources/wri-smaller-evs-2025.md",
+    "label": "For Electric Vehicles, Smaller Is Better (WRI, July 2025)",
+    "summary": "WRI EV size trend, SUV pickup dominance, battery mineral demand, pedestrian safety, urban mobility, EU compliance flexibility, Norway weight-based tax, France 1600 kg weight tax, Paris SUV parking triple, 320 low-emission zones Europe, BYD Seagull, Volkswagen Renault Stellantis, Yiqian Zhang-Billert Sarah Cassius Cristina Albuquerque, compact EVs, lifecycle emissions, ICE size trend",
+    "category": "sources",
+    "tags": [
+      "ev",
+      "transport",
+      "electrification",
+      "buildings",
+      "adaptation"
+    ]
+  },
+  {
     "slug": "7-principles-to-sustainability-reporting",
     "filename": "standards-labels/7 Principles to Sustainability Reporting.md",
     "label": "7 Principles to Sustainability Reporting",
@@ -3148,11 +3299,12 @@
     "slug": "sbti-sbti-science-based-targets",
     "filename": "standards-labels/SBTI - sbti-science-based-targets.md",
     "label": "SBTi — Science Based Targets initiative",
-    "summary": "SBTi, Science Based Targets initiative, corporate net zero, decarbonisation, environmental credits, SAF credits, carbon removal, direct air capture, reforestation, PPA, power purchase agreement, hourly matching, annual matching, hard-to-abate emissions, best-efforts framework, David Kennedy, corporate climate targets, scope 1 scope 2 scope 3, supply chain, net zero standard 2026",
+    "summary": "SBTi, Science Based Targets initiative, corporate net zero, decarbonisation, environmental credits, SAF credits, carbon removal, direct air capture, reforestation, PPA, power purchase agreement, hourly matching, annual matching, hard-to-abate emissions, best-efforts framework, David Kennedy, corporate climate targets, scope 1 scope 2 scope 3, supply chain, net zero standard V2, Ongoing Emissions Responsibility OER, Beyond Value Chain Mitigation BVCM, Category A Category B, 2035 mandatory carbon removal, $80 per tonne Leadership, $20 per tonne Engaged, five-year cycles, annual reporting, nature-based solutions removals 90%, durable removals",
     "category": "standards",
     "tags": [
       "esg",
       "carbon",
+      "carbon-offset",
       "greenwashing",
       "company-evaluations"
     ]
