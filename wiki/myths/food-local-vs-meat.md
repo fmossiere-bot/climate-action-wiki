@@ -9,6 +9,7 @@ cover_image: ""
 summary: "food miles, local food, beef emissions, land use, methane, enteric fermentation, WRI, 20 times land, EAT-Lancet 2025, planetary health diet, LSHTM, Cornell, Nature, grass fed beef, Ireland, protein comparison, beans"
 claim_id: food-local-vs-meat
 verdict: false
+topic: food
 ---
 
 # Myth: Buying local matters more than cutting down on meat

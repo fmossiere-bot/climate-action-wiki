@@ -9,6 +9,7 @@ cover_image: ""
 summary: "electric vehicle, EV, carbon payback, break even mileage, battery manufacturing emissions, embodied carbon, VW e-Golf, Volvo C40, Tesla Model Y, Carbon Brief, lifecycle emissions, 11000 miles, 13000 miles, 77000 miles, fuel economy gap, real world driving, petrol production emissions, carbon debt"
 claim_id: ev-carbon-payback
 verdict: false
+topic: transport
 ---
 
 # Myth: An EV has to drive 50,000 miles before it beats a petrol car

@@ -9,6 +9,7 @@ cover_image: ""
 summary: "EV running cost, fuel cost comparison, electricity price, off peak tariff, public rapid charging, Climate Change Committee, total cost of ownership, servicing cost, Carbon Brief, Norway, UK, India, China"
 claim_id: ev-running-costs
 verdict: false
+topic: transport
 ---
 
 # Myth: EVs will soon cost more to run than petrol cars

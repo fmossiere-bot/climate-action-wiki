@@ -9,6 +9,7 @@ cover_image: ""
 summary: "energy payback time, carbon payback, solar panel manufacturing, wind turbine manufacturing, embodied energy, 4 to 8 months, 7 months, 25 year lifespan, EROI, UN mythbusters, ScienceDirect, lifecycle emissions"
 claim_id: renewables-energy-payback
 verdict: false
+topic: energy
 ---
 
 # Myth: It takes more energy to build a wind turbine than it ever produces

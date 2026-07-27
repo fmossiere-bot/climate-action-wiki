@@ -9,6 +9,7 @@ cover_image: ""
 summary: "hydrogen car, fuel cell, e-fuels, synthetic petrol, energy efficiency, IPCC, aviation fuel, shipping fuel, 72000 hydrogen vehicles, 26 million EVs, three times more energy, 53% higher emissions, thermodynamics"
 claim_id: ev-hydrogen-efuels
 verdict: false
+topic: transport
 ---
 
 # Myth: Hydrogen or synthetic fuel is the real answer, not batteries

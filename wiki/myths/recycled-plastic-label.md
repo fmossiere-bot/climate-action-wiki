@@ -9,6 +9,7 @@ cover_image: ""
 summary: "mass balance accounting, recycled plastic, chemical recycling, pyrolysis, virgin naphtha, Kraft Heinz, Mondelez, PPWR, EU packaging regulation, greenwashing, IJ4EU, Guardian investigation, recycled content claims"
 claim_id: recycled-plastic-label
 verdict: false
+topic: materials
 ---
 
 # Myth: It says recycled on the packaging, so plastic recycling is working

@@ -9,6 +9,7 @@ cover_image: ""
 summary: "doomism, climate despair, tipping points, 1.5 degrees, every tenth of a degree, climate litigation, Rosebank, TotalEnergies, mangrove recovery, IEA, 600 million tonnes avoided, eco-anxiety, hope, agency"
 claim_id: too-late-anyway
 verdict: incomplete
+topic: systemic
 ---
 
 # Myth: It's too late anyway, we've already lost

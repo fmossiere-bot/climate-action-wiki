@@ -9,6 +9,7 @@ cover_image: ""
 summary: "long tailpipe, power station emissions, coal grid, Poland, China, UK grid, ICCT, motor efficiency, four times more efficient, grid decarbonisation, lifecycle emissions, 22000 miles, electricity mix, EV emissions by country"
 claim_id: ev-dirty-grid
 verdict: false
+topic: transport
 ---
 
 # Myth: EVs just move the pollution to the power station

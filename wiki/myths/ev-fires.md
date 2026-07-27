@@ -9,6 +9,7 @@ cover_image: ""
 summary: "EV fire risk, battery fire, thermal runaway, Norway fire statistics, Swedish Civil Contingencies Agency, LASH FIRE, Fremantle Highway, car carrier fire, International Union of Marine Insurers, 30 per 100000, 5 per 100000, petrol car fires"
 claim_id: ev-fires
 verdict: false
+topic: transport
 ---
 
 # Myth: Electric cars catch fire and explode

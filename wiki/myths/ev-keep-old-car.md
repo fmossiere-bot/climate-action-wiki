@@ -9,6 +9,7 @@ cover_image: ""
 summary: "old car, keep my car, EV replacement, scrappage, embodied emissions, manufacturing emissions, Tesla Model Y, 45 tonnes CO2, 14 year old petrol car, break even, 20000 miles, 32000 miles, secondhand car, lifecycle comparison, greenest car"
 claim_id: ev-keep-old-car
 verdict: false
+topic: transport
 ---
 
 # Myth: Keeping my old car running is greener than buying a new EV

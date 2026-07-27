@@ -9,6 +9,7 @@ cover_image: ""
 summary: "green jobs, just transition, employment, fossil fuel jobs, retraining, regional investment, 7.49 jobs per million, 2.65 jobs, Boston Consulting Group, FactCheck.org, EV manufacturing jobs, refinery towns, energy efficiency jobs"
 claim_id: green-jobs
 verdict: mostly-false
+topic: energy
 ---
 
 # Myth: The transition will destroy jobs

@@ -9,6 +9,7 @@ cover_image: ""
 summary: "baseload power, intermittency, variability, grid storage, battery storage, interconnection, demand shifting, geographic spread, gas backup, Ireland wind, offshore wind, Project Drawdown, grid stability"
 claim_id: renewables-baseload
 verdict: mostly-false
+topic: energy
 ---
 
 # Myth: Renewables can't keep the lights on when the wind stops

@@ -9,6 +9,7 @@ cover_image: ""
 summary: "individual action, carbon footprint, BP 2004, personal responsibility, systemic change, social tipping point, 25% threshold, pension, banking, voting, behaviour contagion, norms, 100 companies claim, New Scientist"
 claim_id: individual-action-pointless
 verdict: incomplete
+topic: systemic
 ---
 
 # Myth: My individual actions are a drop in the ocean

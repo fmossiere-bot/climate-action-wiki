@@ -9,6 +9,7 @@ cover_image: ""
 summary: "turbine blade waste, solar panel waste, landfill, e-waste, 160 million tonnes, plastic waste, battery recycling, GEM, lithium recovery, Redwood Materials, second life batteries, microgrids, circular economy"
 claim_id: cleantech-waste
 verdict: mostly-false
+topic: materials
 ---
 
 # Myth: Wind turbine blades and solar panels just end up in landfill

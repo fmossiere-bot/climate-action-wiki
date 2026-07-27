@@ -9,6 +9,7 @@ cover_image: ""
 summary: "climate justice, affordability, just transition, energy poverty, retrofit grants, public transport, EV cost, Climate Change Advisory Council, Ireland, price shocks, fossil fuel dependence, regressive policy, equity"
 claim_id: transition-unfair-to-poor
 verdict: true-but
+topic: systemic
 ---
 
 # Myth: This is all fine for people who can afford it

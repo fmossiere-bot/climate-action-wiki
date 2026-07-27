@@ -9,6 +9,7 @@ cover_image: ""
 summary: "charging network, charge points, National Grid, grid capacity, 20 nuclear plants claim, off peak charging, home charging, 50000 charge points, 300000 target, IEA, charging infrastructure growth, EV sales growth"
 claim_id: ev-infrastructure
 verdict: false
+topic: transport
 ---
 
 # Myth: The grid can't cope and there aren't enough chargers anyway

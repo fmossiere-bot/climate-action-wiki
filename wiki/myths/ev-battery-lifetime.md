@@ -9,6 +9,7 @@ cover_image: ""
 summary: "EV battery life, battery degradation, range loss, Recurrent Motors, 15000 EVs studied, 1.5% replacement rate, 100000 miles, eight year warranty, Nissan Leaf, battery second life, grid storage, lithium recovery"
 claim_id: ev-battery-lifetime
 verdict: false
+topic: transport
 ---
 
 # Myth: The battery dies after a few years and costs a fortune to replace

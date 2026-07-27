@@ -9,6 +9,7 @@ cover_image: ""
 summary: "aviation emissions, flying, frequent flyers, carbon budget, IATA, Willie Walsh, net zero 2050, sustainable aviation fuel, SAF, 0.8% of target, flight shame, wealthy environmentalists, New Scientist, personal footprint"
 claim_id: flying-drop-in-ocean
 verdict: false
+topic: transport
 ---
 
 # Myth: My one flight makes no difference

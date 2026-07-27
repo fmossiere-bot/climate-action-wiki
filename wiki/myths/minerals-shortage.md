@@ -9,6 +9,7 @@ cover_image: ""
 summary: "critical minerals, lithium, copper, cobalt, nickel, Energy Transitions Commission, geological reserves, IEA, mineral demand 2030, 30 million tonnes, 15 billion tonnes fossil fuels, Joule study, recycling, resource scarcity"
 claim_id: minerals-shortage
 verdict: false
+topic: materials
 ---
 
 # Myth: There aren't enough minerals in the world to build all this

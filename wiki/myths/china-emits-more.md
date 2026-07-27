@@ -9,6 +9,7 @@ cover_image: ""
 summary: "China emissions, per capita emissions, cumulative emissions, historical responsibility, coal plants, solar installation, wind installation, manufacturing, Our World in Data, 30% of global CO2, whataboutism, small emitters"
 claim_id: china-emits-more
 verdict: incomplete
+topic: systemic
 ---
 
 # Myth: China emits more than us, so why should we bother

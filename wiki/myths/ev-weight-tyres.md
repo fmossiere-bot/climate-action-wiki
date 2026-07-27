@@ -9,6 +9,7 @@ cover_image: ""
 summary: "non-exhaust emissions, tyre wear, brake wear, particulate matter, PM2.5, regenerative braking, vehicle weight, Hummer EV, Toyota Corolla, 341 grams per mile, 269 grams per mile, SUV, air quality, road dust"
 claim_id: ev-weight-tyres
 verdict: incomplete
+topic: transport
 ---
 
 # Myth: Heavy EVs produce more pollution from tyres and brakes than petrol cars

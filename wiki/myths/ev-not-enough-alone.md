@@ -9,6 +9,7 @@ cover_image: ""
 summary: "EVs alone, transport decarbonisation, IPCC, technology adoption, modal shift, public transport, car dependency, vehicle size, WRI, 50% of reductions, behaviour change, infrastructure change"
 claim_id: ev-not-enough-alone
 verdict: incomplete
+topic: transport
 ---
 
 # Myth: Electric cars alone won't solve climate change

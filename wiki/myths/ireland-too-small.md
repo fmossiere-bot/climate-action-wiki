@@ -9,6 +9,7 @@ cover_image: ""
 summary: "Ireland emissions, per capita emissions, small country argument, data centres, EirGrid, 107 data centres, 1.3 GW, 31% of electricity 2034, household electricity bill, 360 euro, CRU, small emitters aggregate"
 claim_id: ireland-too-small
 verdict: incomplete
+topic: ireland
 ---
 
 # Myth: Ireland is too small to make any difference

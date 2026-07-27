@@ -9,6 +9,7 @@ cover_image: ""
 summary: "heat pump, coefficient of performance, COP, gas boiler efficiency, cold weather performance, Norway, Finland, Nordic adoption, insulation, retrofit, sizing, installation quality, electricity gas price ratio, home heating"
 claim_id: heat-pumps
 verdict: false
+topic: energy
 ---
 
 # Myth: Heat pumps don't work in cold weather and gas is cheaper anyway

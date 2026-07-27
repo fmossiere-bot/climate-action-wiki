@@ -9,6 +9,7 @@ cover_image: ""
 summary: "natural climate change, ice ages, Milankovitch cycles, orbital forcing, volcanic activity, solar output, medieval warm period, attribution, rate of warming, the pause, ocean heat content, WRI, 91% of excess heat"
 claim_id: climate-always-changed
 verdict: incomplete
+topic: systemic
 ---
 
 # Myth: The climate has always changed

@@ -9,6 +9,7 @@ cover_image: ""
 summary: "mining impacts, cobalt, child labour, lithium extraction, water use, habitat loss, waste rock, supply chain traceability, fossil fuel extraction, one time build, recycling, human rights, MIT Technology Review"
 claim_id: mining-worse-than-oil
 verdict: mostly-false
+topic: materials
 ---
 
 # Myth: All that mining is worse for the planet than fossil fuels
