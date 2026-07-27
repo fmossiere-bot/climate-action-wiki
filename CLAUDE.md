@@ -17,6 +17,15 @@ raw/                    → Source files. Never modify anything here.
   own-research/         → Original content written by Fabien.
                           Never summarise. File directly into 
                           wiki as-is with tags and wikilinks added.
+  myths/                → Incoming claims to be turned into Myth pages.
+                          Anything dropped here (a clipped article, a
+                          quote, a URL, a short note) triggers creation
+                          of a new page in wiki/myths/ using the Myth
+                          template. One myth per raw file. If the raw
+                          material is a debunker article, write the myth
+                          page from it and cite it. If the raw material
+                          is the claim itself, write the "What is actually
+                          true" section from independent sources.
 
 wiki/                   → Everything here is written and maintained by you.
   index.md              → Master catalog of all wiki pages
@@ -40,6 +49,13 @@ wiki/                   → Everything here is written and maintained by you.
                           fossil fuel subsidies, TCFD, stranded assets, VPPA.
   ireland-hub/          → Ireland-specific content. All country and Ireland 
                           files plus Ireland-tagged content from other categories.
+  myths/                → One page per common climate myth or misleading claim.
+                          Never bundle several myths onto one page: the AI
+                          Companion retrieves whole pages, so a page covering
+                          twenty myths spends the retrieval budget on nineteen
+                          irrelevant ones. These pages also generate the
+                          Counter Claims cards in the app, so the section
+                          headings in the Myth template are a contract.
   sources/              → One summary page per ingested external source file
   synthesis/            → Deep comparisons and multi-topic analysis
 
@@ -149,11 +165,105 @@ Links to related wiki pages.
 ## Sources
 [Original publication name, author, date, and URL if available — not the raw file path]
 
+---
+
+### Myth template
+
+Use for every page in wiki/myths/. One myth per page.
+
+These pages are read by two things: a reader browsing the wiki, and 
+build_claims.py, which turns each page into a Counter Claims card in the app. 
+The six section headings marked below are a contract. Do not rename, reorder 
+or translate them.
+
+Frontmatter is the standard block plus two extra fields:
+
+---
+title: "Myth: [the claim, in the words people actually use]"
+category: myths
+tags: ["#myth", "#topic", "#topic"]
+sources: ["Publication name, Author, Date — URL"]
+created: [YYYY-MM-DD]
+updated: [YYYY-MM-DD]
+cover_image: ""
+summary: [10-20 keywords as usual]
+claim_id: [kebab-case, must match the filename exactly, minus .md]
+verdict: [false / mostly-false / incomplete / true-but]
+topic: [transport / energy / materials / food / systemic / ireland]
+---
+
+`claim_id` must equal the filename without .md, because the app keys off it.
+`title` is the claim prefixed with "Myth: " so it is unambiguous in the index.
+`topic` sets which filter the card appears under in the app. It is not the 
+same as `category`, which is always `myths`.
+
+# Myth: [the claim]
+
+> [!WARNING] Verdict: [False / Mostly false / True but incomplete / Fair point, and]
+
+## Say this
+One or two sentences, in spoken language, that someone can repeat out loud in 
+a real conversation. This is the most important section on the page. Write it 
+to be said, not read.
+
+## Why it sounds right
+The kernel of truth. Never open by calling the claim stupid. If the claim has 
+a real basis, concede it plainly. If the person raising it is closer to right 
+than wrong, say so.
+
+## What is actually true
+2-5 sentences. Every number carries a named source. If a figure cannot be 
+sourced, write it qualitatively rather than inventing precision.
+
+## If they push back
+The likely comeback in bold quotes, then a one or two sentence reply. Two or 
+three pairs at most.
+
+**"[the comeback]"**
+
+[the reply]
+
+## Also heard as
+Bullet list of other phrasings people use. These feed the app's search, so 
+write how people actually talk, not how the claim would be written formally.
+
+## Go deeper
+Free-form. The detail that does not belong on a card. Never reaches the app.
+
+## Connected topics
+Relative markdown links to other wiki pages.
+
+## Sources
+- Publication name, Author, Date — URL
+
+**Guardrails:**
+
+- These six headings are read by the app. They must match exactly, character 
+  for character:
+  - `## Say this`
+  - `## Why it sounds right`
+  - `## What is actually true`
+  - `## If they push back`
+  - `## Also heard as`
+  - `## Sources`
+- Everything else in the file, including `## Go deeper` and 
+  `## Connected topics`, is ignored by the app. Add as many extra sections as 
+  you like: nothing outside the six above can ever reach a card.
+- Tone: concede first, correct second. A myth page that only says "wrong" is a 
+  failed page.
+- If a myth page is missing any of the first three sections, build_claims.py 
+  still builds the card but prints a warning in the Action log.
+
 ## Tagging Rules
 
 - Always use lowercase with hyphens: #fossil-fuels not #Fossil-Fuels
 - In YAML frontmatter, always quote tags to avoid the # being parsed as a comment:
   tags: ["#fossil-fuels", "#energy"] — not tags: [#fossil-fuels, #energy]
+- Tags MUST be written inline on one line, as above. build_snippets.py reads
+  only the tags: line itself, so a multi-line YAML list silently produces an
+  empty tag list and the page becomes invisible to tag-based retrieval. Around
+  82 existing pages are already in that state and should be converted when
+  touched.
 - First choice: always pick from the standard tags list below
 - Second choice: if no standard tag fits, you may create a new one 
   but only if the topic is clearly significant and likely to appear 
@@ -172,7 +282,7 @@ Links to related wiki pages.
   #recycle #phaseout #coalition #diplomacy #sport #agriculture 
   #digital #energy #buildings #industry #transport #carbon-removal #electrification
   #energy-efficiency #energy-transition #nature-based-solutions #renewables #company-evaluations
-  #key-ideas
+  #key-ideas #myth
 
   ## Cross-cutting
   #ireland #cop30 #fossil-fuels #greenwashing #eu-policy
@@ -240,8 +350,8 @@ Format: ["Publication name — URL"]
 
 ### Ingest
 When asked to ingest new files:
-1. Check raw/articles/, raw/papers/, and raw/own-research/ for any 
-   files not yet listed in wiki/log.md
+1. Check raw/articles/, raw/papers/, raw/own-research/ and raw/myths/ 
+   for any files not yet listed in wiki/log.md
 2. For each new file:
    - If it is in raw/own-research/: file directly into the right wiki 
      category, add frontmatter, tags and wikilinks. Add a short 
@@ -250,6 +360,16 @@ When asked to ingest new files:
      and the label **Editorial summary:**. This gives readers a quick 
      orientation without altering the original text. Do not summarise 
      or rewrite anything in the body.
+   - If it is in raw/myths/: create a new page in wiki/myths/ using the 
+     Myth template. One myth per raw file. The filename must equal the 
+     claim_id (kebab-case, minus .md). Follow the Myth template exactly: 
+     the six mandatory headings (Say this, Why it sounds right, What is 
+     actually true, If they push back, Also heard as, Sources) are a 
+     contract with the app's Counter Claims cards. Do not create a 
+     summary page in wiki/sources/ for myths — the myth page itself is 
+     the record. Before creating a new myth page, check wiki/myths/ for 
+     an existing page on the same claim and update it rather than 
+     duplicating.
    - If it is an external article or PDF: read and understand it fully, 
      create a summary page in wiki/sources/, identify which existing 
      wiki pages are affected and update them, create new wiki pages 

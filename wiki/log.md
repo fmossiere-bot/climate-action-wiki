@@ -4,6 +4,29 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-27 ingest | Myth: it's too late, we're heading for 5 or 6 degrees (first myth ingest)
+
+**Source file:** `raw/myths/Isittoolate.md`
+**Original source:** Fabien's notes summarising Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
+
+**What was done:**
+- Created new myth page: `wiki/myths/its-too-late.md` — following the Myth template (six mandatory headings, claim_id matches filename, verdict "mostly-false", topic "systemic")
+- Updated `wiki/index.md` — added a new "Myths" section header and the first entry; bumped last-updated to 2026-07-27
+- No separate source summary in `wiki/sources/` — per the updated CLAUDE.md, myths do not get one
+
+**Key content:**
+- Realistic warming range on current trajectories: **1.8-3°C**, not 5-6°C (UNEP Emissions Gap 2024, IEA WEO 2024)
+- Current policies: ~2.5-3°C; 2030 targets met: ~2.4°C; net-zero pledges delivered: ~1.8°C
+- 1.5°C is out of reach; even 2°C looks unlikely; but every fraction of a degree still matters
+- RCP8.5 flagged as an implausible upper bound that still gets misused in headlines
+- Tipping points are real for specific systems but do not form one global switch
+- Concede-first tone throughout; no "you're wrong" framing
+- Moral licensing warning surfaced in the Go deeper section (reusable bag full of beef example)
+
+**Process note:** first ingest under the new raw/myths/ workflow. Folder was created earlier today; CLAUDE.md Directory Structure and Ingest sections were updated to include it before this ingest ran.
+
+---
+
 ## 2026-07-26 ingest | Can Everyone Live a 'Good Life' Within Planetary Limits? (New Scientist / Guimarães)
 
 **Source file:** `raw/papers/LiveGoodLife-NS.pdf`

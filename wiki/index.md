@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-26
+Last updated: 2026-07-27
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -493,6 +493,15 @@ Funding the transition — investment, risk, green banking.
 | IRELAND Water Usage and Water Management | Irish water management |
 | IRELAND Wind Energy | Ireland's wind energy sector |
 | Ireland Biodiversity Plan | Ireland's national biodiversity plan |
+
+---
+
+## Myths (`wiki/myths/`)
+Common climate myths and misleading claims, one page per claim. Also generate the Counter Claims cards in the app.
+
+| Page | Description |
+|------|-------------|
+| [[its-too-late]] | **NEW** — "It's too late, we're heading for 5 or 6 degrees, so nothing matters." Verdict: mostly false. Current policies point to 2.5-3°C; net-zero pledges deliver 1.8°C; every fraction of a degree matters |
 
 ---
 

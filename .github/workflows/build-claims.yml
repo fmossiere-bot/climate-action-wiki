@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # full history, so the rebase below can work
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,14 +33,28 @@ jobs:
       - name: Generate claims.json
         run: python3 .github/scripts/build_claims.py
 
-      - name: Commit if changed
+      - name: Commit and push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add wiki/claims.json
           if git diff --staged --quiet; then
-            echo "No change to claims.json"
-          else
-            git commit -m "chore: regenerate claims.json [skip ci]"
-            git push
+            echo "No change to claims.json — skipping commit."
+            exit 0
           fi
+          git commit -m "chore: regenerate claims.json [skip ci]"
+          # A push touching wiki/myths/*.md starts this workflow AND
+          # build-snippets.yml. Both commit a generated file and both push, so
+          # whichever finishes second is rejected as non-fast-forward. Rebase
+          # onto whatever landed first and retry rather than failing red.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "Push rejected, rebasing and retrying (attempt $attempt)"
+            git pull --rebase --autostash origin "$GITHUB_REF_NAME"
+            sleep 3
+          done
+          echo "Could not push after 3 attempts" >&2
+          exit 1
