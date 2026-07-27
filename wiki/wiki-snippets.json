@@ -327,16 +327,6 @@
     ]
   },
   {
-    "slug": "draft-class-11-en-roads",
-    "filename": "climate-science/DRAFT - Class 11 - En-ROADS.md",
-    "label": "Class 11 — En-ROADS Climate Policy Simulator",
-    "summary": "Helpful websites, SLIDES from the Lab session",
-    "category": "climate-science",
-    "tags": [
-      "science"
-    ]
-  },
-  {
     "slug": "draft-class-2-the-work-of-climate-science",
     "filename": "climate-science/DRAFT - Class 2 - The Work of Climate Science.md",
     "label": "Class 2 — The Work of Climate Science",
@@ -552,14 +542,6 @@
     "filename": "concepts/behavior-change/Talking about Climate Change ACTION GUIDE.md",
     "label": "Talking about Climate Change - Climate Advocacy",
     "summary": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.' - Margaret Mead, The Need for Conversations, Leading by Example, Taking action and being a positive role model are crucial to ensuring our conversations about climate change are more than just words. When we embody the change we want to see, our actions lend weight to our words, making them far more persuasive, More Science is Not the Answer, Knowing Your Audience, Using the Right Words, Changing how we talk about climate change can make a big difference. Using clear, positive language can inspire action and support for policies to address the crisis urgently. Instead of focusing on sacrifice, we should highlight the opportunities for better health and well-being in a world moving beyond fossil fuels. Avoid scientific jargon and misleading terms. For example, 'natural disasters' are often influenced by human actions, making them not entirely natural. Clear communication can help shift perceptions and motivate collective action towards a sustainable future, Susan Joy Hassol shares an illustrative list in her article The Right Words Are Crucial to Solving Climate Change, Ignore the Outliers, Focus your efforts on the majority open to taking action, rather than trying to convert the dismissive few. Campaigns often target extremes, but targeting the middle 50% under the proverbial curve is where our efforts can make the biggest difference. Engaging the willing majority can build the political will and community support needed for meaningful climate action, Communicating Solutions, Highlighting solutions is as important as identifying problems. Focusing only on problems can overwhelm people, making them disengage. Amanda Ripley highlights the need for hope, agency, and dignity in climate coverage in her article in the Washington Post. Most stories miss discussing solutions, leaving audiences feeling powerless. Highlighting positive steps and celebrating small victories can inspire action. It's important to balance fear with actionable hope and not to overemphasize sacrifice, Showcase exciting aspects of climate action, like the benefits of electric vehicles, induction cooking, and vegetarian diets. The dropping prices of renewable energy and projected exponential adoption curves paint an enabling picture of the future. , As critical as climatic tipping points are to the escalating crisis, positive social and economic tipping points to respond to it are underway and within our control. Encourage participation in grassroots efforts and local initiatives to demonstrate the many ways individuals can contribute to climate change mitigation, Guiding Children Through Climate Conversations, Calling out ‘Greenwashing’, Misinformation, Checklist for Conversations, Talking about climate change can lead to real change. Here's how to make those conversations count, Weekly Action Plan, Dive Deeper, How to Fix News Media, This article explores strategies for improving news media to better engage and inform the public",
-    "category": "concepts",
-    "tags": []
-  },
-  {
-    "slug": "the-climate-mitigation-gap-research",
-    "filename": "concepts/behavior-change/The climate Mitigation Gap research.md",
-    "label": "The Climate Mitigation Gap — Individual Choices Research",
-    "summary": "",
     "category": "concepts",
     "tags": []
   },
@@ -848,19 +830,6 @@
       "science",
       "research",
       "carbon"
-    ]
-  },
-  {
-    "slug": "facts-climate-myth-busters-back-pocket-stories",
-    "filename": "concepts/key-ideas/FACTS - Climate \"Myth Busters\" & Back Pocket stories.md",
-    "label": "FACTS — Climate Myth Busters and Back Pocket Stories",
-    "summary": "FACT: Clean energy technologies produce far less carbon pollution than fossil fuels, The 'Pause' vs the 'Surge', Transitioning will create more unemployment, Renewable energy creates jobs, PV, Wind farm and EV batteries will drain our minerals resources, Myth 1: We don’t have enough materials to build what we need to fight climate change, Myth 2: All that mining will be worse for the climate and environment than fossil fuels. , We need to Electrify EVERYTHING, I’ve heard EVs are worse for the environment than regular cars—the power has to come from somewhere, after all , 21 Myths about EV, I heard they’re stacking wind turbine blades, solar panels, and EV batteries in landfills. Isn’t the waste from all this “clean” tech going to be a big problem, Battery Recycling is on its way, This battery recycling company is now cleaning up AI data centers, See more on Myth2 of MIT Technology, Regional differences can be significant, Vehicle size matters here too",
-    "category": "concepts",
-    "tags": [
-      "fossil-fuels",
-      "ev",
-      "battery",
-      "science"
     ]
   },
   {
@@ -1411,6 +1380,361 @@
     "category": "legislation",
     "tags": [
       "esg"
+    ]
+  },
+  {
+    "slug": "china-emits-more",
+    "filename": "myths/china-emits-more.md",
+    "label": "Myth: China emits more than us, so why should we bother",
+    "summary": "China emissions, per capita emissions, cumulative emissions, historical responsibility, coal plants, solar installation, wind installation, manufacturing, Our World in Data, 30% of global CO2, whataboutism, small emitters",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "diplomacy",
+      "carbon",
+      "key-ideas",
+      "science"
+    ]
+  },
+  {
+    "slug": "cleantech-waste",
+    "filename": "myths/cleantech-waste.md",
+    "label": "Myth: Wind turbine blades and solar panels just end up in landfill",
+    "summary": "turbine blade waste, solar panel waste, landfill, e-waste, 160 million tonnes, plastic waste, battery recycling, GEM, lithium recovery, Redwood Materials, second life batteries, microgrids, circular economy",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "recycle",
+      "circularity",
+      "renewables",
+      "battery"
+    ]
+  },
+  {
+    "slug": "climate-always-changed",
+    "filename": "myths/climate-always-changed.md",
+    "label": "Myth: The climate has always changed",
+    "summary": "natural climate change, ice ages, Milankovitch cycles, orbital forcing, volcanic activity, solar output, medieval warm period, attribution, rate of warming, the pause, ocean heat content, WRI, 91% of excess heat",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "science",
+      "carbon",
+      "key-ideas",
+      "ocean"
+    ]
+  },
+  {
+    "slug": "ev-battery-lifetime",
+    "filename": "myths/ev-battery-lifetime.md",
+    "label": "Myth: The battery dies after a few years and costs a fortune to replace",
+    "summary": "EV battery life, battery degradation, range loss, Recurrent Motors, 15000 EVs studied, 1.5% replacement rate, 100000 miles, eight year warranty, Nissan Leaf, battery second life, grid storage, lithium recovery",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "battery",
+      "recycle"
+    ]
+  },
+  {
+    "slug": "ev-carbon-payback",
+    "filename": "myths/ev-carbon-payback.md",
+    "label": "Myth: An EV has to drive 50,000 miles before it beats a petrol car",
+    "summary": "electric vehicle, EV, carbon payback, break even mileage, battery manufacturing emissions, embodied carbon, VW e-Golf, Volvo C40, Tesla Model Y, Carbon Brief, lifecycle emissions, 11000 miles, 13000 miles, 77000 miles, fuel economy gap, real world driving, petrol production emissions, carbon debt",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "battery",
+      "carbon",
+      "transport"
+    ]
+  },
+  {
+    "slug": "ev-dirty-grid",
+    "filename": "myths/ev-dirty-grid.md",
+    "label": "Myth: EVs just move the pollution to the power station",
+    "summary": "long tailpipe, power station emissions, coal grid, Poland, China, UK grid, ICCT, motor efficiency, four times more efficient, grid decarbonisation, lifecycle emissions, 22000 miles, electricity mix, EV emissions by country",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "energy",
+      "electrification",
+      "transport"
+    ]
+  },
+  {
+    "slug": "ev-fires",
+    "filename": "myths/ev-fires.md",
+    "label": "Myth: Electric cars catch fire and explode",
+    "summary": "EV fire risk, battery fire, thermal runaway, Norway fire statistics, Swedish Civil Contingencies Agency, LASH FIRE, Fremantle Highway, car carrier fire, International Union of Marine Insurers, 30 per 100000, 5 per 100000, petrol car fires",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "battery",
+      "transport"
+    ]
+  },
+  {
+    "slug": "ev-hydrogen-efuels",
+    "filename": "myths/ev-hydrogen-efuels.md",
+    "label": "Myth: Hydrogen or synthetic fuel is the real answer, not batteries",
+    "summary": "hydrogen car, fuel cell, e-fuels, synthetic petrol, energy efficiency, IPCC, aviation fuel, shipping fuel, 72000 hydrogen vehicles, 26 million EVs, three times more energy, 53% higher emissions, thermodynamics",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "alternative-fuels",
+      "energy-transition",
+      "transport"
+    ]
+  },
+  {
+    "slug": "ev-infrastructure",
+    "filename": "myths/ev-infrastructure.md",
+    "label": "Myth: The grid can't cope and there aren't enough chargers anyway",
+    "summary": "charging network, charge points, National Grid, grid capacity, 20 nuclear plants claim, off peak charging, home charging, 50000 charge points, 300000 target, IEA, charging infrastructure growth, EV sales growth",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "energy",
+      "electrification",
+      "transport"
+    ]
+  },
+  {
+    "slug": "ev-keep-old-car",
+    "filename": "myths/ev-keep-old-car.md",
+    "label": "Myth: Keeping my old car running is greener than buying a new EV",
+    "summary": "old car, keep my car, EV replacement, scrappage, embodied emissions, manufacturing emissions, Tesla Model Y, 45 tonnes CO2, 14 year old petrol car, break even, 20000 miles, 32000 miles, secondhand car, lifecycle comparison, greenest car",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "transport",
+      "carbon"
+    ]
+  },
+  {
+    "slug": "ev-not-enough-alone",
+    "filename": "myths/ev-not-enough-alone.md",
+    "label": "Myth: Electric cars alone won't solve climate change",
+    "summary": "EVs alone, transport decarbonisation, IPCC, technology adoption, modal shift, public transport, car dependency, vehicle size, WRI, 50% of reductions, behaviour change, infrastructure change",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "transport",
+      "behaviour"
+    ]
+  },
+  {
+    "slug": "ev-running-costs",
+    "filename": "myths/ev-running-costs.md",
+    "label": "Myth: EVs will soon cost more to run than petrol cars",
+    "summary": "EV running cost, fuel cost comparison, electricity price, off peak tariff, public rapid charging, Climate Change Committee, total cost of ownership, servicing cost, Carbon Brief, Norway, UK, India, China",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "transport",
+      "finance"
+    ]
+  },
+  {
+    "slug": "ev-weight-tyres",
+    "filename": "myths/ev-weight-tyres.md",
+    "label": "Myth: Heavy EVs produce more pollution from tyres and brakes than petrol cars",
+    "summary": "non-exhaust emissions, tyre wear, brake wear, particulate matter, PM2.5, regenerative braking, vehicle weight, Hummer EV, Toyota Corolla, 341 grams per mile, 269 grams per mile, SUV, air quality, road dust",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ev",
+      "transport",
+      "research"
+    ]
+  },
+  {
+    "slug": "flying-drop-in-ocean",
+    "filename": "myths/flying-drop-in-ocean.md",
+    "label": "Myth: My one flight makes no difference",
+    "summary": "aviation emissions, flying, frequent flyers, carbon budget, IATA, Willie Walsh, net zero 2050, sustainable aviation fuel, SAF, 0.8% of target, flight shame, wealthy environmentalists, New Scientist, personal footprint",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "aviation",
+      "alternative-fuels",
+      "behaviour",
+      "transport"
+    ]
+  },
+  {
+    "slug": "food-local-vs-meat",
+    "filename": "myths/food-local-vs-meat.md",
+    "label": "Myth: Buying local matters more than cutting down on meat",
+    "summary": "food miles, local food, beef emissions, land use, methane, enteric fermentation, WRI, 20 times land, EAT-Lancet 2025, planetary health diet, LSHTM, Cornell, Nature, grass fed beef, Ireland, protein comparison, beans",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "food",
+      "agriculture",
+      "methane",
+      "carbon"
+    ]
+  },
+  {
+    "slug": "green-jobs",
+    "filename": "myths/green-jobs.md",
+    "label": "Myth: The transition will destroy jobs",
+    "summary": "green jobs, just transition, employment, fossil fuel jobs, retraining, regional investment, 7.49 jobs per million, 2.65 jobs, Boston Consulting Group, FactCheck.org, EV manufacturing jobs, refinery towns, energy efficiency jobs",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "energy-transition",
+      "phaseout",
+      "industry"
+    ]
+  },
+  {
+    "slug": "heat-pumps",
+    "filename": "myths/heat-pumps.md",
+    "label": "Myth: Heat pumps don't work in cold weather and gas is cheaper anyway",
+    "summary": "heat pump, coefficient of performance, COP, gas boiler efficiency, cold weather performance, Norway, Finland, Nordic adoption, insulation, retrofit, sizing, installation quality, electricity gas price ratio, home heating",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "buildings",
+      "energy-efficiency",
+      "electrification",
+      "energy"
+    ]
+  },
+  {
+    "slug": "individual-action-pointless",
+    "filename": "myths/individual-action-pointless.md",
+    "label": "Myth: My individual actions are a drop in the ocean",
+    "summary": "individual action, carbon footprint, BP 2004, personal responsibility, systemic change, social tipping point, 25% threshold, pension, banking, voting, behaviour contagion, norms, 100 companies claim, New Scientist",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "behaviour",
+      "key-ideas",
+      "carbon"
+    ]
+  },
+  {
+    "slug": "ireland-too-small",
+    "filename": "myths/ireland-too-small.md",
+    "label": "Myth: Ireland is too small to make any difference",
+    "summary": "Ireland emissions, per capita emissions, small country argument, data centres, EirGrid, 107 data centres, 1.3 GW, 31% of electricity 2034, household electricity bill, 360 euro, CRU, small emitters aggregate",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "ireland",
+      "digital",
+      "energy",
+      "key-ideas"
+    ]
+  },
+  {
+    "slug": "minerals-shortage",
+    "filename": "myths/minerals-shortage.md",
+    "label": "Myth: There aren't enough minerals in the world to build all this",
+    "summary": "critical minerals, lithium, copper, cobalt, nickel, Energy Transitions Commission, geological reserves, IEA, mineral demand 2030, 30 million tonnes, 15 billion tonnes fossil fuels, Joule study, recycling, resource scarcity",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "battery",
+      "energy-transition",
+      "research",
+      "industry"
+    ]
+  },
+  {
+    "slug": "mining-worse-than-oil",
+    "filename": "myths/mining-worse-than-oil.md",
+    "label": "Myth: All that mining is worse for the planet than fossil fuels",
+    "summary": "mining impacts, cobalt, child labour, lithium extraction, water use, habitat loss, waste rock, supply chain traceability, fossil fuel extraction, one time build, recycling, human rights, MIT Technology Review",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "fossil-fuels",
+      "energy-transition",
+      "industry",
+      "nature"
+    ]
+  },
+  {
+    "slug": "recycled-plastic-label",
+    "filename": "myths/recycled-plastic-label.md",
+    "label": "Myth: It says recycled on the packaging, so plastic recycling is working",
+    "summary": "mass balance accounting, recycled plastic, chemical recycling, pyrolysis, virgin naphtha, Kraft Heinz, Mondelez, PPWR, EU packaging regulation, greenwashing, IJ4EU, Guardian investigation, recycled content claims",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "plastic",
+      "greenwashing",
+      "recycle",
+      "circularity"
+    ]
+  },
+  {
+    "slug": "renewables-baseload",
+    "filename": "myths/renewables-baseload.md",
+    "label": "Myth: Renewables can't keep the lights on when the wind stops",
+    "summary": "baseload power, intermittency, variability, grid storage, battery storage, interconnection, demand shifting, geographic spread, gas backup, Ireland wind, offshore wind, Project Drawdown, grid stability",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "renewables",
+      "energy",
+      "energy-transition"
+    ]
+  },
+  {
+    "slug": "renewables-energy-payback",
+    "filename": "myths/renewables-energy-payback.md",
+    "label": "Myth: It takes more energy to build a wind turbine than it ever produces",
+    "summary": "energy payback time, carbon payback, solar panel manufacturing, wind turbine manufacturing, embodied energy, 4 to 8 months, 7 months, 25 year lifespan, EROI, UN mythbusters, ScienceDirect, lifecycle emissions",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "renewables",
+      "energy",
+      "carbon",
+      "science"
+    ]
+  },
+  {
+    "slug": "too-late-anyway",
+    "filename": "myths/too-late-anyway.md",
+    "label": "Myth: It's too late anyway, we've already lost",
+    "summary": "doomism, climate despair, tipping points, 1.5 degrees, every tenth of a degree, climate litigation, Rosebank, TotalEnergies, mangrove recovery, IEA, 600 million tonnes avoided, eco-anxiety, hope, agency",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "eco-anxiety",
+      "behaviour",
+      "key-ideas",
+      "science"
+    ]
+  },
+  {
+    "slug": "transition-unfair-to-poor",
+    "filename": "myths/transition-unfair-to-poor.md",
+    "label": "Myth: This is all fine for people who can afford it",
+    "summary": "climate justice, affordability, just transition, energy poverty, retrofit grants, public transport, EV cost, Climate Change Advisory Council, Ireland, price shocks, fossil fuel dependence, regressive policy, equity",
+    "category": "myths",
+    "tags": [
+      "myth",
+      "behaviour",
+      "key-ideas",
+      "ireland",
+      "finance"
     ]
   },
   {
