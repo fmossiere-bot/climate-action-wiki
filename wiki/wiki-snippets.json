@@ -1641,6 +1641,14 @@
     ]
   },
   {
+    "slug": "its-too-late",
+    "filename": "myths/its-too-late.md",
+    "label": "Myth: it's too late, we're heading for 5 or 6 degrees, so nothing matters",
+    "summary": "it's too late, doomism, RCP8.5, 5 degrees, 6 degrees, Mark Lynas Six Degrees, 1.5C dead, 2C unlikely, current policies 2.5 to 3C, net zero pledges 1.8C, every fraction of a degree matters, tipping points not one global switch, Hannah Ritchie, Emissions Gap Report, catastrophism, defeatism, we're doomed, nothing matters, why bother, moral licensing, coral reefs, food security, heatwaves",
+    "category": "myths",
+    "tags": []
+  },
+  {
     "slug": "minerals-shortage",
     "filename": "myths/minerals-shortage.md",
     "label": "Myth: There aren't enough minerals in the world to build all this",
