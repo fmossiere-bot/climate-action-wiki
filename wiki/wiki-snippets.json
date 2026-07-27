@@ -1,13 +1,5 @@
 [
   {
-    "slug": "carbon-footprint-calculator",
-    "filename": "_inbox/Carbon Footprint Calculator.md",
-    "label": "Carbon Footprint Calculators: A Practical Guide",
-    "summary": "Benchmarks by country, Production vs consumption: an important distinction, Where do individual emissions actually come from, The main carbon footprint calculators, ⭐ ClimateHero _(recommended)_, Carbon Footprint Ltd, WWF Footprint Calculator, SEAI — Sustainable Energy Authority of Ireland, 🎬 Watch: What is a Carbon Footprint? (Illustrated), Data Sources, tonnes of CO₂ equivalent (CO₂e), A word of warning on origins, 2004 by BP, underestimate the impact of flying, The target, 2 tonnes per person per year, production-based, Consumption-based figures, transport, Food, Flying, climatehero.me, carbonfootprint.com/individuals.html, footprint.wwf.org.uk, seai.ie, Our World in Data, Eurostat, SEAI, CSO Ireland",
-    "category": "concepts",
-    "tags": []
-  },
-  {
     "slug": "biodiversity-for-business-101",
     "filename": "biodiversity-land/Biodiversity for Business 101.md",
     "label": "Biodiversity for Business 101",
@@ -537,6 +529,14 @@
     "tags": []
   },
   {
+    "slug": "carbon-footprint-calculator",
+    "filename": "concepts/Carbon Footprint Calculator.md",
+    "label": "Carbon Footprint Calculators: A Practical Guide",
+    "summary": "Benchmarks by country, Production vs consumption: an important distinction, Where do individual emissions actually come from, The main carbon footprint calculators, ⭐ ClimateHero _(recommended)_, Carbon Footprint Ltd, WWF Footprint Calculator, SEAI — Sustainable Energy Authority of Ireland, 🎬 Watch: What is a Carbon Footprint? (Illustrated), Data Sources, tonnes of CO₂ equivalent (CO₂e), A word of warning on origins, 2004 by BP, underestimate the impact of flying, The target, 2 tonnes per person per year, production-based, Consumption-based figures, transport, Food, Flying, climatehero.me, carbonfootprint.com/individuals.html, footprint.wwf.org.uk, seai.ie, Our World in Data, Eurostat, SEAI, CSO Ireland",
+    "category": "concepts",
+    "tags": []
+  },
+  {
     "slug": "how-countries-can-use-behavior-change-to-further-reduce-emissions",
     "filename": "concepts/behavior-change/How Countries Can Use Behavior Change to Further Reduce Emissions.md",
     "label": "How Countries Can Use Behaviour Change to Reduce Emissions",
@@ -707,6 +707,14 @@
     ]
   },
   {
+    "slug": "climate-wins-in-2025",
+    "filename": "concepts/key-ideas/Climate Wins in 2025.md",
+    "label": "Climate Wins in 2025",
+    "summary": " China's clean energy grew to 10% of GDP in 2024, Emissions from global construction sector stop rising, EU 2040 CO2 target likely to settle at 90%, Ireland exits coal, Europe’s 6th country to do so, UN report finds global deforestation is declining, China: CO2 emissions flat or falling for 18 months, US: Texas solar overtakes coal",
+    "category": "concepts",
+    "tags": []
+  },
+  {
     "slug": "draft-about-carbon-accounting-ghg",
     "filename": "concepts/key-ideas/DRAFT - About Carbon Accounting GHG.md",
     "label": "About Carbon Accounting and GHG",
@@ -829,14 +837,6 @@
       "science",
       "adaptation"
     ]
-  },
-  {
-    "slug": "draft-climate-wins-in-2025",
-    "filename": "concepts/key-ideas/DRAFT - Climate Wins in 2025.md",
-    "label": "Climate Wins in 2025",
-    "summary": " China's clean energy grew to 10% of GDP in 2024, Emissions from global construction sector stop rising, EU 2040 CO2 target likely to settle at 90%, Ireland exits coal, Europe’s 6th country to do so, UN report finds global deforestation is declining, China: CO2 emissions flat or falling for 18 months, US: Texas solar overtakes coal",
-    "category": "concepts",
-    "tags": []
   },
   {
     "slug": "emission-gap-report-2024-unep",
