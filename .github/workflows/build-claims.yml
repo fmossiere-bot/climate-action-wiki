@@ -1,0 +1,44 @@
+name: Build claims.json
+
+# Runs whenever a myth page changes, then commits the regenerated
+# wiki/claims.json back to the repo. The Counter Claims tab in the app
+# fetches that file directly, so a push to the wiki is the only step
+# needed to update the cards. Nothing gets uploaded by hand.
+
+on:
+  push:
+    paths:
+      - 'wiki/myths/**/*.md'
+      - '.github/scripts/build_claims.py'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate claims.json
+        run: python3 .github/scripts/build_claims.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add wiki/claims.json
+          if git diff --staged --quiet; then
+            echo "No change to claims.json"
+          else
+            git commit -m "chore: regenerate claims.json [skip ci]"
+            git push
+          fi

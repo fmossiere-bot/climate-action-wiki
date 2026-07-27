@@ -1,0 +1,820 @@
+{
+  "version": 1,
+  "updated": "2026-07-27",
+  "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
+  "verdicts": {
+    "false": {
+      "label": "False",
+      "color": "red"
+    },
+    "mostly-false": {
+      "label": "Mostly false",
+      "color": "orange"
+    },
+    "incomplete": {
+      "label": "True but incomplete",
+      "color": "yellow"
+    },
+    "true-but": {
+      "label": "Fair point, and",
+      "color": "green"
+    }
+  },
+  "categories": [
+    {
+      "id": "transport",
+      "label": "Cars & flying",
+      "icon": "directions_car"
+    },
+    {
+      "id": "energy",
+      "label": "Energy",
+      "icon": "bolt"
+    },
+    {
+      "id": "materials",
+      "label": "Materials & waste",
+      "icon": "recycling"
+    },
+    {
+      "id": "food",
+      "label": "Food",
+      "icon": "restaurant"
+    },
+    {
+      "id": "systemic",
+      "label": "Big picture",
+      "icon": "public"
+    },
+    {
+      "id": "ireland",
+      "label": "Ireland",
+      "icon": "flag"
+    }
+  ],
+  "claims": [
+    {
+      "id": "china-emits-more",
+      "category": "systemic",
+      "verdict": "incomplete",
+      "claim": "China emits more than us, so why should we bother",
+      "heard_as": [
+        "we're only 1% of global emissions",
+        "China opens a coal plant every week",
+        "nothing we do matters while they keep building"
+      ],
+      "kernel": "China is the largest annual emitter, at roughly 30% of global CO2, and it is still building coal plants. Those facts are correct and pretending otherwise costs you credibility instantly.",
+      "truth": "Three things are missing. Per person, Chinese emissions are well below American ones. Historically, the US and Europe put up the majority of the CO2 already in the atmosphere, and it stays there for centuries, so the warming we have now is largely ours. And on action, China installs more solar and wind than the rest of the world combined and dominates manufacturing of the panels, batteries and EVs everyone else is buying. The premise that they are doing nothing has not been true for years.",
+      "say_this": "China emits the most in total and about half as much per person as the US. It also installs more solar and wind than the rest of the world put together, so they are not the ones standing still.",
+      "pushback": [
+        {
+          "if": "They're still building coal plants",
+          "reply": "They are, and it is a real problem. They are also building more clean power than everyone else combined. Both are true at once."
+        },
+        {
+          "if": "But we're tiny, it makes no difference",
+          "reply": "Every country under 2% adds up to about a third of global emissions. If small means exempt, a third of the problem is exempt."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Our World in Data, CO2 emissions",
+          "url": "https://ourworldindata.org/co2-emissions"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "cleantech-waste",
+      "category": "materials",
+      "verdict": "mostly-false",
+      "claim": "Wind turbine blades and solar panels just end up in landfill",
+      "heard_as": [
+        "they're burying blades in the desert",
+        "nobody can recycle solar panels",
+        "the waste from clean tech will be the next crisis"
+      ],
+      "kernel": "There are real photographs of buried blades, and a wave of equipment installed over the last two decades is genuinely reaching end of life now. The problem is not imaginary.",
+      "truth": "It is a real problem of a modest size. Cumulative solar panel waste could reach 160 million tonnes by 2050. By the same date total e-waste is projected at around 1.8 billion tonnes and plastic waste at over 12 billion tonnes, so solar is a rounding error next to the waste streams nobody campaigns about. Recycling is also scaling fast. China's GEM recovers over 90% of the lithium from used batteries and processed around 17,000 tonnes of EV batteries in 2022. Redwood Materials found many packs it takes in still hold more than half their capacity, and is repurposing them into solar powered microgrids rather than shredding them.",
+      "say_this": "Solar waste by 2050 is about 160 million tonnes. Plastic waste will be over 12 billion. It is a real problem, just not the one worth panicking about.",
+      "pushback": [
+        {
+          "if": "Recycling never actually happens",
+          "reply": "For plastic, largely fair. For batteries it is a genuine industry already, because the materials inside are valuable enough to chase."
+        }
+      ],
+      "sources": [
+        {
+          "label": "MIT Technology Review, GEM battery recycling",
+          "url": "https://www.technologyreview.com/2023/10/04/1080126/2023-climate-tech-companies-gem-battery-recycling-factory-electronic-waste/"
+        },
+        {
+          "label": "Inside Climate News, solar panel waste reality check",
+          "url": "https://insideclimatenews.org/news/12102023/inside-clean-energy-reality-check-solar-panel-waste/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "climate-always-changed",
+      "category": "systemic",
+      "verdict": "incomplete",
+      "claim": "The climate has always changed",
+      "heard_as": [
+        "there were ice ages before humans",
+        "it was warmer in medieval times",
+        "it's just natural cycles"
+      ],
+      "kernel": "Completely true. The climate has changed many times, sometimes dramatically, long before anyone was burning anything.",
+      "truth": "And every one of those changes had a cause we can name: orbital cycles, volcanic activity, shifts in solar output, changes in ocean circulation. We measure all of those today, and none of them account for the current warming, while the rise tracks CO2 from fossil fuels closely. The other difference is speed. Past natural transitions unfolded over many thousands of years, giving ecosystems time to move. This one is happening over about 150, far faster than anything in the records we have.",
+      "say_this": "It has, and every time we can name what caused it. The things that caused those changes are all measured today and none of them explain this one.",
+      "pushback": [
+        {
+          "if": "Scientists said there was a pause in warming",
+          "reply": "There was a slower decade, then a surge. Ocean heat kept rising throughout, which is where over 90% of the extra heat goes."
+        }
+      ],
+      "sources": [
+        {
+          "label": "UN Climate Mythbusters",
+          "url": "https://www.un.org/en/climatechange/science/mythbusters"
+        },
+        {
+          "label": "WRI, ocean warming (2026)",
+          "url": "https://www.wri.org/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-battery-lifetime",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "The battery dies after a few years and costs a fortune to replace",
+      "heard_as": [
+        "battery lifetime is horribly uncertain",
+        "you'll need a new battery at 8 years",
+        "the replacement costs more than the car is worth"
+      ],
+      "kernel": "Everyone has had a phone whose battery died within two years, so it is a completely reasonable thing to assume. EV packs are managed and cooled quite differently.",
+      "truth": "An analysis of 15,000 EVs by Recurrent Motors found only 1.5% had needed a battery replacement, and 90% of cars past 100,000 miles still held at least 90% of their original range. Most manufacturers warrant the pack for eight years as a minimum. Nissan UK reported that almost all of the batteries it has ever made are still in cars, after twelve years of selling them.",
+      "say_this": "Out of 15,000 EVs studied, 1.5% had needed a new battery. Most cars past 100,000 miles still had 90% of their range.",
+      "pushback": [
+        {
+          "if": "And then it goes to landfill",
+          "reply": "It does not. Packs with half their capacity left are being repurposed into grid storage, and recyclers recover over 90% of the lithium."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-carbon-payback",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "An EV has to drive 50,000 miles before it beats a petrol car",
+      "heard_as": [
+        "the battery emissions cancel out the savings",
+        "you'd have to drive it for decades to break even",
+        "the e-Golf takes 77,000 miles to pay off",
+        "the Volvo C40 needs 68,400 miles"
+      ],
+      "kernel": "Building a battery really does create more emissions upfront, so an EV starts its life with a carbon debt. That part is true, and it is where the number comes from.",
+      "truth": "The debt is paid back far faster than the headline figures suggest. Carbon Brief puts the break even point at roughly 11,000 to 13,000 miles in Europe and the UK, under two years of average driving. The very high numbers came from manufacturer studies that overestimated battery emissions, underestimated the emissions from producing petrol, and used lab fuel economy rather than real world figures. Corrected by independent researchers, the VW e-Golf breaks even at about 14,000 miles rather than 77,000, and the Volvo C40 at about 16,000 rather than 68,400.",
+      "say_this": "The battery does start with a carbon debt. It pays it off in about a year and a half of normal driving, and everything after that is a gain.",
+      "pushback": [
+        {
+          "if": "But I read it was 70,000 miles",
+          "reply": "Those figures came from the carmakers' own studies. Independent researchers rechecked the same cars and got about 15,000 miles."
+        },
+        {
+          "if": "That is only because you assume clean electricity",
+          "reply": "No, those are European grid averages as they are today, and the grid keeps getting cleaner while a petrol car never does."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-dirty-grid",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "EVs just move the pollution to the power station",
+      "heard_as": [
+        "the electricity has to come from somewhere",
+        "they run on coal",
+        "long tailpipe"
+      ],
+      "kernel": "The electricity does have to come from somewhere, and on a coal heavy grid an EV genuinely is dirtier than it would be on a clean one. The question is whether it is still better than burning petrol, and it is.",
+      "truth": "An electric motor is roughly four times more efficient than a combustion engine, so an EV wins even where the grid is dirty. Lifecycle emissions fall by about two fifths in coal heavy Poland and two thirds in the UK. In China, where coal supplied 61% of power in 2022, an EV still breaks even after about 22,000 miles. The 2021 ICCT global study found cuts of 60 to 70% in the US and Europe, 35 to 45% in China and 20 to 35% in India. And an EV keeps improving as the grid decarbonises, while a petrol car is as clean on day one as it will ever be.",
+      "say_this": "Even on Poland's coal heavy grid an EV cuts emissions by about 40%, because the motor is four times more efficient. And it gets cleaner every year. A petrol car never does.",
+      "pushback": [
+        {
+          "if": "Not where I live, our grid is fossil heavy",
+          "reply": "Fair, the saving is smaller there. It is still a saving, and it grows every year without you doing anything."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        },
+        {
+          "label": "ICCT global lifecycle comparison (2021)",
+          "url": "https://theicct.org/publication/a-global-comparison-of-the-life-cycle-greenhouse-gas-emissions-of-combustion-engine-and-electric-passenger-cars/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-fires",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "Electric cars catch fire and explode",
+      "heard_as": [
+        "they burn down car parks",
+        "that ship fire was caused by an EV",
+        "you can't put the fire out"
+      ],
+      "kernel": "Battery fires behave differently and are harder for firefighters to extinguish, so the concern is not invented. They are also very newsworthy, which is exactly why they feel common.",
+      "truth": "Norwegian data for 2018 to 2022 records about 30 fires per 100,000 conventional cars a year against about 5 per 100,000 EVs, so petrol and diesel cars catch fire five to six times more often. The Swedish Civil Contingencies Agency puts the gap at twenty times. The EU funded LASH FIRE programme concluded EVs are not more hazardous than conventional cars. The Fremantle Highway cargo ship fire in July 2023 was widely blamed on an EV, and the investigation found the cause was unrelated. The International Union of Marine Insurers stated in August 2023 that no fire on a car carrier had ever been proven to be caused by a factory new EV.",
+      "say_this": "EV fires make the news precisely because they are rare. Petrol and diesel cars catch fire five to six times more often per vehicle.",
+      "pushback": [
+        {
+          "if": "But when they do burn you can't stop it",
+          "reply": "True, they are harder to put out. That is a firefighting equipment question, not a reason to think they burn more often."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-hydrogen-efuels",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "Hydrogen or synthetic fuel is the real answer, not batteries",
+      "heard_as": [
+        "hydrogen cars are more sustainable",
+        "e-fuels will save the combustion engine",
+        "we should wait for the better technology"
+      ],
+      "kernel": "Both technologies are real and both matter, just not for cars. Hydrogen has a serious role in steel, shipping and long haul freight, and e-fuels will likely be needed for aviation.",
+      "truth": "For passenger cars the energy maths is unforgiving. UK government lifecycle analysis finds hydrogen cars use about three times more energy than EVs with 60 to 70% higher emissions, even assuming low carbon hydrogen. The market has already answered: at the end of 2022 there were 72,000 hydrogen vehicles worldwide against 26 million EVs, a ratio of about 360 to 1. E-fuels cost up to three times more than conventional fuel, need roughly five times more electricity than running an EV, and have lifecycle emissions 53% higher. The IPCC expects the limited supply to go to aviation and shipping.",
+      "say_this": "Hydrogen and e-fuels matter for planes, ships and steel. For cars they need three to five times more electricity to go the same distance, which is why there are 26 million EVs and 72,000 hydrogen cars.",
+      "pushback": [
+        {
+          "if": "The technology will improve",
+          "reply": "Some, but the losses are thermodynamic, not engineering. You cannot make converting electricity to fuel and back beat using the electricity directly."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-infrastructure",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "The grid can't cope and there aren't enough chargers anyway",
+      "heard_as": [
+        "we'd need 20 new nuclear power stations",
+        "the charging network is at crisis point",
+        "the lights will go out if everyone plugs in"
+      ],
+      "kernel": "Anyone who has queued at a motorway charger knows public charging can be genuinely poor, so the frustration is real even where the numbers are not.",
+      "truth": "National Grid itself lists the grid claim as a myth. The 2017 headline that Britain would need twenty new nuclear plants was a significant miscalculation and was corrected. Most charging happens at home overnight, off peak, when there is spare capacity on the network. On chargers, UK public charge points passed 50,000 in October 2023, growing 43% year on year against a government target of 300,000 by 2030, and the IEA found charging infrastructure kept pace with EV growth in 2022 with a 55% increase. UK EV sales grew 36% year on year over the first nine months of 2023, which is not what a crisis looks like.",
+      "say_this": "Most charging happens at home overnight when the grid has spare capacity. National Grid lists this one as a myth on their own website.",
+      "pushback": [
+        {
+          "if": "I don't have a driveway",
+          "reply": "That is the real problem in this argument, and it is worth pressing your council on. It is a rollout gap, not a physics limit."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-keep-old-car",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "Keeping my old car running is greener than buying a new EV",
+      "heard_as": [
+        "old bangers are the green choice",
+        "the greenest car is the one you already own",
+        "manufacturing a new car is worse than running an old one"
+      ],
+      "kernel": "It sounds right because you avoid the emissions of building a whole new car, and use what you already have is usually sound environmental advice.",
+      "truth": "It holds for most products, but not for cars, because a car keeps emitting every day you drive it. A 14 year old petrol car produces around 45 tonnes of CO2 over its remaining life against 14 tonnes for a new Tesla Model Y, a cut of about 68%. Even accounting for the emissions of building the new car, replacing an old petrol car with an EV breaks even after roughly 20,000 to 32,000 miles, about four years of average UK driving.",
+      "say_this": "For a fridge or a phone, keeping the old one wins. For a car it does not, because most of the damage is in the fuel, not the factory.",
+      "pushback": [
+        {
+          "if": "So I should scrap a perfectly good car?",
+          "reply": "Not scrap. It gets resold and used. The question is what you buy when the old one is genuinely done, and then the EV wins clearly."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-not-enough-alone",
+      "category": "transport",
+      "verdict": "incomplete",
+      "claim": "Electric cars alone won't solve climate change",
+      "heard_as": [
+        "swapping every car for an electric one isn't the answer",
+        "it's just consumerism with a green badge",
+        "we need to drive less, not drive electric"
+      ],
+      "kernel": "This is true as stated, and it is a fair warning against imagining we can swap every car one for one and carry on exactly as before. Someone saying this is often closer to you than they sound.",
+      "truth": "It becomes a problem only when it is used as a reason to do nothing. The IPCC judges EVs likely crucial for decarbonising transport, and finds technology adoption could deliver about 50% of land transport emissions reductions by 2050, with a range of 30 to 70%. Infrastructure change contributes around 30% and behaviour change around 5%. So EVs are roughly half the answer, and fewer cars, smaller cars and better public transport are the rest. Both, not either.",
+      "say_this": "Completely agree, they are about half the answer for transport. The other half is fewer and smaller cars and better public transport. It was never one or the other.",
+      "pushback": [
+        {
+          "if": "So why push EVs at all?",
+          "reply": "Because half is a lot, and because most people are not giving up their car this decade. We can do the easy half while we fight for the hard half."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        },
+        {
+          "label": "WRI, smaller EVs",
+          "url": "https://www.wri.org/insights/smaller-electric-vehicles-benefits"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-running-costs",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "EVs will soon cost more to run than petrol cars",
+      "heard_as": [
+        "electricity prices will catch up",
+        "public charging is more expensive than petrol",
+        "wait until they tax the electricity"
+      ],
+      "kernel": "There is a real case buried here. If you rely entirely on public rapid charging, the cost per mile can approach petrol, and that is where these stories come from.",
+      "truth": "Carbon Brief's comparison found EV drivers save on fuel in every country analysed, from the UK and Norway to the US, China, India, Argentina and Australia. Home charging on an off peak tariff costs substantially less than public fast charging, and most drivers charge at home overnight. The UK Climate Change Committee concluded EVs will be significantly cheaper than petrol and diesel vehicles to own and operate over their lifetimes, once servicing and fuel are both counted.",
+      "say_this": "If you charge at home overnight it is not close. Public rapid charging is where the gap narrows, and most people rarely use it.",
+      "pushback": [
+        {
+          "if": "They will tax it eventually",
+          "reply": "Probably, since fuel duty has to come from somewhere. That is a policy design question, and it does not change the energy cost underneath."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ev-weight-tyres",
+      "category": "transport",
+      "verdict": "incomplete",
+      "claim": "Heavy EVs produce more pollution from tyres and brakes than petrol cars",
+      "heard_as": [
+        "tyre particulates are worse than exhaust",
+        "your super heavy EV pollutes more",
+        "non-exhaust emissions"
+      ],
+      "kernel": "Heavier vehicles do wear tyres faster, and tyre and road dust is a genuine air quality problem that gets far less attention than exhaust fumes. This one has a real core.",
+      "truth": "The comparison is usually stacked, though. A petrol car has tyre wear and brake wear too, and an exhaust pipe on top of it. EVs also use regenerative braking, which does most of the slowing with the motor and cuts brake dust sharply. Where the argument has genuine force is on size rather than drivetrain: a Hummer EV is responsible for about 341 grams of CO2 per mile, more than a petrol Toyota Corolla at 269 grams, per a 2022 Quartz analysis. The honest version of this point is an argument against enormous cars, not against electric ones.",
+      "say_this": "Tyre dust is a real problem, and a petrol car has tyres and brakes plus an exhaust. If the worry is heavy vehicles, the target is huge cars, not electric ones.",
+      "pushback": [
+        {
+          "if": "So you admit big EVs are bad",
+          "reply": "Yes, a two and a half tonne electric SUV is a bad answer. So is a two and a half tonne petrol one. Smaller cars win either way."
+        }
+      ],
+      "sources": [
+        {
+          "label": "MIT Technology Review, huge EVs",
+          "url": "https://www.technologyreview.com/2023/02/16/1068708/huge-evs-safety-climate/"
+        },
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "flying-drop-in-ocean",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "My one flight makes no difference",
+      "heard_as": [
+        "the plane was going anyway",
+        "aviation is only 2% of emissions",
+        "they'll have clean fuel soon"
+      ],
+      "kernel": "Aviation is a small slice of global emissions, so at the global scale the number really is small. The distribution is what makes the argument fall apart.",
+      "truth": "Flying is the fastest way for one person to spend their entire annual carbon budget, and it is extremely unequally spread: a small minority of frequent flyers accounts for the large majority of aviation emissions. New Scientist reporting found that high income, environmentally minded people tend to have larger footprints than their peers, mostly because they fly more. The industry's own plan is not on track either. In June 2026 IATA's chief Willie Walsh admitted the 2050 net zero pledge will probably not be achieved, with sustainable aviation fuel sitting at 0.8% of its target.",
+      "say_this": "Flying is the one choice where a single decision really does move your own number, because most people on earth never fly at all.",
+      "pushback": [
+        {
+          "if": "Sustainable fuel will fix it",
+          "reply": "The head of the airline industry said in 2026 that their 2050 target probably will not be met. Their green fuel is at under 1% of what was planned."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Guardian, IATA net zero admission (Jun 2026)",
+          "url": "https://www.theguardian.com/environment"
+        },
+        {
+          "label": "New Scientist, wealthy environmentalists",
+          "url": "https://www.newscientist.com/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "food-local-vs-meat",
+      "category": "food",
+      "verdict": "false",
+      "claim": "Buying local matters more than cutting down on meat",
+      "heard_as": [
+        "food miles are the problem",
+        "local beef is fine",
+        "it's the transport that does the damage"
+      ],
+      "kernel": "Buying local is genuinely good for other reasons: local economies, freshness, seasonal eating, and knowing how your food was produced. It is just not where the carbon is.",
+      "truth": "Transport is a small share of food emissions overall and almost negligible for the highest impact foods. For beef, transport accounts for well under 1% of the footprint, with nearly all of it coming from land use and methane from the animals themselves. WRI's analysis finds beef uses around 20 times the land and produces around 20 times the emissions of beans per gram of protein. The 2025 EAT-Lancet report found a planetary health diet would cut non CO2 agricultural emissions by 15 to 34%, free up an area of land the size of India, and prevent around 15 million deaths a year. LSHTM and Cornell modelling published in Nature found a healthier global diet could cut land use emissions 85% by 2050.",
+      "say_this": "What you eat matters far more than how far it travelled. For beef, transport is under 1% of the footprint.",
+      "pushback": [
+        {
+          "if": "Irish grass fed beef is different",
+          "reply": "It is better than feedlot beef on some measures, and still many times the footprint of plants. Less and better is the honest version."
+        }
+      ],
+      "sources": [
+        {
+          "label": "WRI, 6 questions about beef and climate",
+          "url": "https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered"
+        },
+        {
+          "label": "Carbon Brief, EAT-Lancet 2025",
+          "url": "https://www.carbonbrief.org/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "green-jobs",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "The transition will destroy jobs",
+      "heard_as": [
+        "40% of US auto jobs will disappear",
+        "you're putting whole towns out of work",
+        "green jobs don't pay"
+      ],
+      "kernel": "There is something real here, and it is not the total. Jobs lost and jobs created are rarely in the same towns, for the same people, at the same time. Dismissing that is how you lose the argument and deserve to.",
+      "truth": "On the totals, clean energy is more labour intensive per pound spent. One study found $1 million of spending supports 7.49 full time jobs in renewables and 7.72 in energy efficiency, against 2.65 in fossil fuels, so each $1 million shifted from brown to green is a net gain of around five jobs. In the US, over $100 billion of announced EV investment is linked to more than 100,000 jobs, and Boston Consulting Group research finds EV assembly needs as much labour as combustion assembly. The specific claim that 40% of US auto jobs would vanish under EV rules was examined by FactCheck.org and found to have no supporting evidence.",
+      "say_this": "Every million spent on clean energy supports about three times the jobs it does in fossil fuels. The real issue is whether they are in the same places, and that needs actual transition funding.",
+      "pushback": [
+        {
+          "if": "Tell that to a refinery town",
+          "reply": "Completely fair, and that is the argument we should be having. Retraining and regional investment, not pretending the disruption is not real."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ScienceDirect, employment effects of energy spending",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S026499931630709X"
+        },
+        {
+          "label": "Carbon Brief, 21 EV myths factchecked",
+          "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "heat-pumps",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "Heat pumps don't work in cold weather and gas is cheaper anyway",
+      "heard_as": [
+        "they can't heat a house in winter",
+        "you need to rip out all your radiators",
+        "gas boilers are more efficient"
+      ],
+      "kernel": "A badly specified heat pump in a poorly insulated house genuinely does disappoint, and plenty of people have had that experience. Installation quality matters more here than with a boiler.",
+      "truth": "A heat pump moves heat rather than making it, so it delivers roughly three to five units of heat for every unit of electricity. A gas boiler can never exceed one, because it is limited by the energy in the gas. On cold weather, the countries with the highest heat pump adoption in Europe are the Nordic ones, which settles the physics argument fairly directly. Running cost depends on the local ratio of electricity to gas prices, which is a tax and market design question rather than a technology one.",
+      "say_this": "A heat pump gives you three to five units of heat per unit of electricity, because it moves heat instead of burning something. Norway and Finland have the highest adoption in Europe.",
+      "pushback": [
+        {
+          "if": "My neighbour got one and hated it",
+          "reply": "Probably a sizing or insulation problem rather than the technology. Bad installs are the single biggest cause of unhappy owners."
+        }
+      ],
+      "sources": [
+        {
+          "label": "UN Climate Mythbusters",
+          "url": "https://www.un.org/en/climatechange/science/mythbusters"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "individual-action-pointless",
+      "category": "systemic",
+      "verdict": "incomplete",
+      "claim": "My individual actions are a drop in the ocean",
+      "heard_as": [
+        "100 companies cause 70% of emissions",
+        "personal carbon footprints are fossil fuel propaganda",
+        "recycling is a distraction"
+      ],
+      "kernel": "Arithmetically this is right, and the history backs it up. BP popularised the personal carbon footprint calculator in 2004, and shifting responsibility onto consumers served the industry very well. Someone making this point is not your opponent.",
+      "truth": "The value of individual action was never the arithmetic of your own tonnes. It is that behaviour is contagious and norms move: research on social tipping points suggests around 25% of a group adopting a behaviour is enough to shift the majority. And the highest impact things an individual does are not really individual at all. How you vote, what you say at work, where your pension and bank put your money, and whether you fly all reach far beyond your own footprint. Worth noting that high income, environmentally concerned people often have larger footprints than their peers, mainly from flying, so attitude on its own does not do it.",
+      "say_this": "One person recycling changes nothing. One person talking about it, voting on it and moving their pension changes what everyone around them thinks is normal.",
+      "pushback": [
+        {
+          "if": "It's the corporations, not us",
+          "reply": "Agreed, and those corporations respond to regulation and to where money goes. Both of those are things people decide collectively."
+        }
+      ],
+      "sources": [
+        {
+          "label": "New Scientist, wealthy environmentalists",
+          "url": "https://www.newscientist.com/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "ireland-too-small",
+      "category": "ireland",
+      "verdict": "incomplete",
+      "claim": "Ireland is too small to make any difference",
+      "heard_as": [
+        "we're 0.1% of global emissions",
+        "why should we wreck our economy",
+        "let the big countries go first"
+      ],
+      "kernel": "In absolute terms Ireland is small, and it is reasonable to ask why a small country should move before large ones do.",
+      "truth": "Small in total, near the top in Europe per person, which is the measure that reflects choices rather than population. The choices here are also not small in scale: Ireland has 107 data centres operating, drawing about 1.3 GW, with EirGrid forecasting they could take 31% of national electricity by 2034. Ireland's data centres already added roughly 360 euro cumulatively to each household's electricity bill between 2015 and 2023. On the wider point, every country emitting under 2% adds up to roughly a third of global emissions, so small equals exempt would exempt a third of the problem.",
+      "say_this": "Small in total, near the top in Europe per person. And nothing about a third of our electricity going to data centres by 2034 is small.",
+      "pushback": [
+        {
+          "if": "We should wait for the big emitters",
+          "reply": "Everyone under 2% together is about a third of global emissions. If they all wait, a third of the problem never moves."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Irish Independent, Ireland data centre boom (Jun 2026)",
+          "url": "https://www.independent.ie/"
+        },
+        {
+          "label": "Guardian, Ireland data centre hidden tax (May 2026)",
+          "url": "https://www.theguardian.com/environment"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "minerals-shortage",
+      "category": "materials",
+      "verdict": "false",
+      "claim": "There aren't enough minerals in the world to build all this",
+      "heard_as": [
+        "we'll run out of lithium",
+        "there isn't enough copper for the grid",
+        "peak minerals"
+      ],
+      "kernel": "Clean technology genuinely is more mineral intensive. The IEA notes a typical electric car needs about six times the mineral inputs of a conventional one, and an onshore wind plant about nine times more than a gas plant.",
+      "truth": "More intensive is not the same as impossible. The Energy Transitions Commission found no fundamental shortage of key materials, with known geological resources exceeding projected demand out to 2050. Critical mineral demand roughly triples by 2030, to around 30 million tonnes a year, set against roughly 15 billion tonnes of fossil fuels extracted every year now. A 2023 study in Joule put total demand to 2050 at up to 1.96 billion tonnes of steel, 241 million tonnes of aluminium and 82 million tonnes of copper, small fractions of accessible reserves, and found annual production need not grow by more than 20% for supply to meet demand. Unlike coal, these materials can be recovered and used again.",
+      "say_this": "We dig up about 15 billion tonnes of fossil fuel every year and set fire to it. The transition needs around 30 million tonnes of minerals a year, and you can use those again.",
+      "pushback": [
+        {
+          "if": "But the mines don't exist yet",
+          "reply": "That is the real constraint, and it is about permitting and investment timelines, not geology. Worth arguing about. Different argument though."
+        }
+      ],
+      "sources": [
+        {
+          "label": "MIT Technology Review, busting materials myths",
+          "url": "https://www.technologyreview.com/2023/02/02/1067641/busting-myths-about-materials-and-renewable-energy/"
+        },
+        {
+          "label": "IEA, critical minerals in clean energy transitions",
+          "url": "https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions/executive-summary"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "mining-worse-than-oil",
+      "category": "materials",
+      "verdict": "mostly-false",
+      "claim": "All that mining is worse for the planet than fossil fuels",
+      "heard_as": [
+        "child labour in cobalt mines",
+        "lithium mining destroys the environment",
+        "it's just swapping one extraction for another"
+      ],
+      "kernel": "Mining causes real environmental and social harm, including water use, habitat loss and serious human rights abuses in some supply chains. Anyone raising this deserves to be told they are right about that part.",
+      "truth": "The comparison still does not hold. Even counting waste rock, the energy transition involves less material extraction than today's fossil fuel economy does. The decisive difference is that it is a one time build: a wind turbine's materials are dug up once, installed, and can later be recycled, whereas coal, oil and gas must be extracted and burned continuously, forever. Fossil fuel extraction is also not exactly clean or free of human rights problems, it is just older and less discussed.",
+      "say_this": "Mining does real harm and that should be fixed. The difference is you mine for a turbine once, and you mine for a coal plant every single day it runs.",
+      "pushback": [
+        {
+          "if": "So you accept the harm as long as it's green",
+          "reply": "No. Push for traceable supply chains and recycling. That fight is worth having and it is not an argument for burning more gas meanwhile."
+        }
+      ],
+      "sources": [
+        {
+          "label": "MIT Technology Review, busting materials myths",
+          "url": "https://www.technologyreview.com/2023/02/02/1067641/busting-myths-about-materials-and-renewable-energy/"
+        },
+        {
+          "label": "Hannah Ritchie, energy transition materials",
+          "url": "https://www.sustainabilitybynumbers.com/p/energy-transition-materials"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "recycled-plastic-label",
+      "category": "materials",
+      "verdict": "false",
+      "claim": "It says recycled on the packaging, so plastic recycling is working",
+      "heard_as": [
+        "this bottle is made from recycled plastic",
+        "the brands have sorted this out",
+        "chemical recycling solved it"
+      ],
+      "kernel": "The label is legally accurate, which is exactly what makes this one hard. Nobody is lying outright.",
+      "truth": "The trick is an accounting method called mass balance. A manufacturer averages a small amount of recycled feedstock across an entire production system and then labels individual products as recycled, even when the item in your hand is around 95% virgin naphtha. A 2026 Guardian and IJ4EU investigation found products from Kraft Heinz and Mondelez carrying recycled claims on this basis. The EU's Packaging and Packaging Waste Regulation legalises the approach in 2026 rather than closing it.",
+      "say_this": "Recycled on the label often means the company bought some recycled material somewhere in the system, not that it is in the packet. The rules allow it.",
+      "pushback": [
+        {
+          "if": "So should I stop recycling?",
+          "reply": "No, keep recycling. Just stop treating recycled labels as proof, and push for reuse and less packaging, which is where the real gain is."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Guardian / IJ4EU, mass balance investigation (Jan 2026)",
+          "url": "https://www.theguardian.com/environment"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "renewables-baseload",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "Renewables can't keep the lights on when the wind stops",
+      "heard_as": [
+        "you need baseload power",
+        "what happens on a still winter night",
+        "we'll always need gas as backup"
+      ],
+      "kernel": "Wind and solar genuinely are variable, and a grid that has to balance supply and demand every second cannot ignore that. Grid operators take this seriously, which is why it gets solved rather than dismissed.",
+      "truth": "Variability is managed with a portfolio rather than a single fix: geographic spread, interconnection between countries, storage, and shifting flexible demand to windy hours. Grid scale batteries now respond faster than gas plants can, and their costs have fallen steeply. Ireland already runs large shares of its electricity on wind for extended periods. The honest position is that the last stretch to a fully firm zero carbon grid is genuinely hard and still being worked out, while the first 70 or 80% is a solved engineering problem being deployed today.",
+      "say_this": "Grid operators solve this with interconnection, storage and demand shifting. The last stretch is genuinely hard. The first three quarters is being built right now.",
+      "pushback": [
+        {
+          "if": "So you admit you need gas backup",
+          "reply": "For now, some. The argument is about how fast that shrinks, not whether renewables work. Nobody serious claims we finish this tomorrow."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Project Drawdown, ocean climate solutions (2026)",
+          "url": "https://drawdown.org/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "renewables-energy-payback",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "It takes more energy to build a wind turbine than it ever produces",
+      "heard_as": [
+        "solar panels never pay back their manufacturing",
+        "they only work because of subsidies",
+        "the carbon cost of building them cancels it out"
+      ],
+      "kernel": "Manufacturing solar panels and turbines does produce carbon, and most of a turbine's lifetime emissions really do happen before it ever turns. That much is true.",
+      "truth": "The payback is quick. A solar panel offsets its manufacturing emissions in four to eight months and then runs for 25 to 30 years. A wind turbine takes about seven months and runs for 20 to 25 years, generating close to zero pollution once it is spinning. So a turbine spends well over 95% of its working life producing energy that is pure gain.",
+      "say_this": "A wind turbine pays back the carbon it took to build in about seven months, then runs for twenty odd years.",
+      "pushback": [
+        {
+          "if": "What about when the wind isn't blowing",
+          "reply": "Different question, and a fair one. That is about storage and grid design, not about whether the turbine is worth building."
+        }
+      ],
+      "sources": [
+        {
+          "label": "UN Climate Mythbusters",
+          "url": "https://www.un.org/en/climatechange/science/mythbusters"
+        },
+        {
+          "label": "ScienceDirect, wind turbine energy payback",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960148111002254"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "too-late-anyway",
+      "category": "systemic",
+      "verdict": "incomplete",
+      "claim": "It's too late anyway, we've already lost",
+      "heard_as": [
+        "we've blown past 1.5 degrees",
+        "the tipping points are already crossed",
+        "might as well enjoy what's left"
+      ],
+      "kernel": "This usually comes from someone who has been paying attention, not someone who has not. The news genuinely is bad, and expecting the worst is a way of not being disappointed again. It deserves a gentler response than a myth does.",
+      "truth": "There is no cliff edge where action stops counting. Every tenth of a degree avoided is a measurable amount of harm avoided, and the difference between 2 and 3 degrees is enormous in human terms. Concrete things are also landing. In 2025 there were 13 major climate litigation wins, including the Rosebank oil field ruled illegal and a criminal conviction for TotalEnergies. Mangrove forests worldwide now gain more area than they lose, reversing decades of decline. The IEA calculates that EVs and renewables prevented 600 million tonnes of CO2 in 2022 alone.",
+      "say_this": "There is no point where it stops being worth it. Every tenth of a degree is real harm avoided, and two degrees and three degrees are completely different worlds.",
+      "pushback": [
+        {
+          "if": "But we missed 1.5",
+          "reply": "Probably, yes. That was never a switch. It was a target, and 1.6 is meaningfully better than 1.8, which is meaningfully better than 2."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Guardian, 13 climate litigation wins in 2025",
+          "url": "https://www.theguardian.com/environment"
+        },
+        {
+          "label": "BBC, mangrove recovery (Jun 2026)",
+          "url": "https://www.bbc.com/news"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "transition-unfair-to-poor",
+      "category": "systemic",
+      "verdict": "true-but",
+      "claim": "This is all fine for people who can afford it",
+      "heard_as": [
+        "electric cars are for rich people",
+        "green policies hit the poorest hardest",
+        "easy to be green on a big salary"
+      ],
+      "kernel": "This is largely correct and it should be conceded immediately. New EVs, heat pumps, retrofits and organic food all cost money upfront. Climate policy designed carelessly does land hardest on people with the least, and that is how you lose public support for it.",
+      "truth": "Two things follow, and neither is do less. First, the people with the smallest footprints are already the poorest, and they are also hit first and hardest by heatwaves, flooding and energy price shocks, so the status quo is not neutral either. Ireland's Climate Change Advisory Council made exactly this point in 2026: fossil fuel dependence is what exposes households to price shocks, and it called for public transport investment and a fair EV transition. Second, the fix is policy design, grants, retrofit schemes, public transport, and taxing the high emitting end, rather than abandoning the goal.",
+      "say_this": "You are right, and that is an argument for designing this properly rather than dropping it. The people with the smallest footprints are already the ones getting hit first.",
+      "pushback": [
+        {
+          "if": "Politicians never design it properly",
+          "reply": "Often true. Which is the thing to campaign on, because the alternative on offer is price shocks from fossil fuels we do not control."
+        }
+      ],
+      "sources": [
+        {
+          "label": "RTE, CCAC 2026 Annual Review",
+          "url": "https://www.rte.ie/news/"
+        }
+      ],
+      "wiki": ""
+    }
+  ]
+}
