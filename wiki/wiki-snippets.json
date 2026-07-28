@@ -1383,6 +1383,16 @@
     ]
   },
   {
+    "slug": "carbon-capture-will-fix-it",
+    "filename": "myths/carbon-capture-will-fix-it.md",
+    "label": "Myth: we can just keep burning fossil fuels and capture the CO2",
+    "summary": "CCS, carbon capture and storage, Hannah Ritchie, 45 sites, 0.1% of global emissions, 149 projects, 100 cancelled, 80% US CCS projects failed, cement steel fertiliser 15% emissions, Oxford CCS pathways, $1 trillion per year cost, gas with CCS, silver bullet, delay decarbonisation, fossil fuel industry profits, $4 trillion 2022 profits, $100 per tonne, DAC direct air capture",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "china-emits-more",
     "filename": "myths/china-emits-more.md",
     "label": "Myth: China emits more than us, so why should we bother",
@@ -1677,6 +1687,36 @@
     ]
   },
   {
+    "slug": "not-enough-clean-energy",
+    "filename": "myths/not-enough-clean-energy.md",
+    "label": "Myth: there isn't enough clean energy to replace fossil fuels",
+    "summary": "clean energy replace fossil fuels, efficiency, coal one third efficient, gas power 50%, solar wind waste nothing, 1 unit renewable replaces 2-3 units coal, EV 80% efficient, petrol car 20% efficient, 40% less total energy after electrification, 416 EJ to 247 EJ, Hannah Ritchie, primary energy fallacy, electrification everything, electricity demand rises, renewables 57% of growth 2010-2022, 92% of new demand 2022, keep existing nuclear",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "not-enough-public-support",
+    "filename": "myths/not-enough-public-support.md",
+    "label": "Myth: there isn't enough public support to tackle climate change",
+    "summary": "public support climate action, pluralistic ignorance, 86% humans causing climate change, 89% want more political action, 74% US join international action, 93% EU serious problem, 62% to 97% government not doing enough, Americans underestimate support, majority illusion, climate communication, Hannah Ritchie, silent majority, doom media, solutions journalism",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "poor-countries-need-fossil-fuels",
+    "filename": "myths/poor-countries-need-fossil-fuels.md",
+    "label": "Myth: poor countries need fossil fuels to develop",
+    "summary": "poor countries fossil fuels development, sub-Saharan Africa 14% population 0.6% emissions, energy not fossil fuels lifts out of poverty, mobile phones landline leapfrog, Namibia Brazil Chile Morocco solar wind, Pakistan rooftop solar, Kigali petrol motorbikes banned, 2 million indoor air pollution deaths, EU fertiliser Africa delay, G7 blocked fossil fuel finance Africa, $100 billion climate finance missed, 12% vs 5% cost of capital, cost of borrowing, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "recycled-plastic-label",
     "filename": "myths/recycled-plastic-label.md",
     "label": "Myth: It says recycled on the packaging, so plastic recycling is working",
@@ -1715,6 +1755,16 @@
       "energy",
       "carbon",
       "science"
+    ]
+  },
+  {
+    "slug": "renewables-not-replacing-fossil-fuels",
+    "filename": "myths/renewables-not-replacing-fossil-fuels.md",
+    "label": "Myth: renewables aren't replacing fossil fuels, they're just being added on top",
+    "summary": "energy transition, renewables replacing fossil fuels, energy addition vs displacement vs transition, Hannah Ritchie, China energy displacement, Denmark real transition, UK -50% since 2008, Denmark -80% since 2000, Finland -2/3 since 2000, 92% new demand from renewables 2022, peak fossil fuels in electricity, coal oil gas peak within 5 years, UK 2030 low-carbon electricity, petrol diesel car sales peaked 2017",
+    "category": "myths",
+    "tags": [
+      "myth"
     ]
   },
   {
@@ -3286,6 +3336,19 @@
       "finance",
       "eu-policy",
       "biodiversity"
+    ]
+  },
+  {
+    "slug": "pfas-datacentre-cooling-guardian-2026",
+    "filename": "sources/pfas-datacentre-cooling-guardian-2026.md",
+    "label": "US environmental groups urge EPA to reject new PFAS to cool datacentres (Guardian, July 2026)",
+    "summary": "PFAS forever chemicals, Opteon 2P50, Chemours, two-phase cooling, f-gas refrigerant, TFA trifluoroacetic acid, US EPA, Trump executive order fast-track, Earthjustice, Adriana Antezana, Lenny Siegel, Chips Communities United, European Chemical Agency hazardous classification, water cooling alternative, Google two-phase, Fayetteville Works North Carolina, 16000 PFAS compounds, thyroid liver sperm, closed loop fugitive emissions, health risk assessment",
+    "category": "sources",
+    "tags": [
+      "digital",
+      "ai",
+      "plastic",
+      "greenwashing"
     ]
   },
   {
