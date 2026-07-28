@@ -1752,6 +1752,16 @@
     ]
   },
   {
+    "slug": "renewables-need-fossil-fuels-to-build",
+    "filename": "myths/renewables-need-fossil-fuels-to-build.md",
+    "label": "Myth: we need fossil fuels to build renewable energy",
+    "summary": "EROI energy return on investment, solar payback less than one year, wind payback few months, nuclear payback few months, 25 to 30 year lifespan, 25 times more energy than build cost, energy cliff, EROI minimum 5 to 10, transitions always use old system to build new, renewables need fossil fuels to build myth, mining electrification, supply chain decarbonisation, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "renewables-not-replacing-fossil-fuels",
     "filename": "myths/renewables-not-replacing-fossil-fuels.md",
     "label": "Myth: renewables aren't replacing fossil fuels, they're just being added on top",
