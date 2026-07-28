@@ -507,7 +507,9 @@ Common climate myths and misleading claims, one page per claim. Also generate th
 | [[not-enough-clean-energy]] | **NEW** — "There isn't enough clean energy to replace fossil fuels." Verdict: false. 1 unit of solar/wind replaces 2-3 units of coal because burning wastes so much; total energy demand falls ~40% after electrification |
 | [[not-enough-public-support]] | **NEW** — "There isn't enough public support to tackle climate change." Verdict: false. 86-89% of people worldwide want action; the silent majority thinks it's the minority (perception gap / pluralistic ignorance) |
 | [[renewables-not-replacing-fossil-fuels]] | **NEW** — "Renewables aren't replacing fossil fuels, they're just being added on top." Verdict: mostly false. UK -50% since 2008, Denmark -80% since 2000; 92% of new global electricity demand in 2022 came from renewables |
-| [[poor-countries-need-fossil-fuels]] | **NEW** — "Poor countries need fossil fuels to develop." Verdict: mostly false. Sub-Saharan Africa = 14% of population, 0.6% of emissions; the block is finance (12% vs 5% cost of capital), not technology |
+| [[poor-countries-need-fossil-fuels]] | "Poor countries need fossil fuels to develop." Verdict: mostly false. Sub-Saharan Africa = 14% of population, 0.6% of emissions; the block is finance (12% vs 5% cost of capital), not technology |
+| [[ai-needs-fossil-fuels]] | **NEW** — "AI will need so much energy we have to burn more fossil fuels." Verdict: mostly false. Data centres = 1-3% of world electricity; even under pessimistic AI scenarios ~6% by 2030; the "dash for gas" is a choice, not a physics constraint |
+| [[renewables-need-fossil-fuels-to-build]] | **NEW** — "We need fossil fuels to build renewable energy." Verdict: false. Solar payback <1 year for a 25-year life (25× net energy); wind/nuclear payback in months; every transition uses the old system to build the new |
 
 ---
 

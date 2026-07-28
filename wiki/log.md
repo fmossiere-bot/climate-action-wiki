@@ -4,6 +4,54 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-28 ingest (batch 2) | Two more Ritchie myths — AI energy demand + EROI
+
+Second Ritchie batch of the day. Two new myth pages from `raw/myths/`.
+
+### 1. AI energy demand
+
+**Source file:** `raw/myths/AI-and-Energy-Demand-Summary.md`
+**Original source:** Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024) — Question 12 of the Fossil Fuels chapter ("Won't we need more fossil fuels to keep up with artificial intelligence?")
+
+- Created new myth page: `wiki/myths/ai-needs-fossil-fuels.md`
+- Verdict: mostly-false; topic: energy
+- Data centres = 1-3% of world electricity today; even under pessimistic AI scenarios, ~6% by 2030
+- IEA: world electricity demand grows ~6,000 TWh by 2030; data centres = ~3% of that growth
+- Bigger drivers: industry, buildings, EVs, air conditioning, heating
+- Local hotspots: Ireland 17%, five+ US states above 10%
+- Koomey's Law: 2010-2018 compute grew 550%, energy grew 6%
+- Personal AI use is negligible (100 ChatGPT queries ≈ 20 minutes of streaming)
+- Real problem is not physics, it is executives dashing for gas (Meta Hyperion Louisiana, Microsoft/Chevron West Texas)
+- Cross-references existing wiki pages on data centres, PFAS cooling, Meta RE100 exit
+
+### 2. EROI myth — "we need fossil fuels to build renewables"
+
+**Source file:** `raw/myths/energy-transition-summary 2.md`
+**Original source:** Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024) — extract on EROI
+
+**Filename note:** the file name looks like a duplicate of `energy-transition-summary.md` (already ingested as `renewables-not-replacing-fossil-fuels.md`), but the content is a completely different myth about **EROI (Energy Return on Investment)** — "you need fossil fuels to build solar and wind." Both were ingested as separate myth pages.
+
+- Created new myth page: `wiki/myths/renewables-need-fossil-fuels-to-build.md`
+- Verdict: false; topic: energy
+- Solar panels pay back build energy in <1 year, run 25-30 years, produce ~25× the energy they cost
+- Wind and nuclear pay back in months
+- "Energy cliff": above an EROI of 10, extra gains barely matter for society; solar/wind/nuclear all comfortably above 10
+- Every past energy transition used the old system to build the new — this is normal, not a flaw
+- Honest caveat noted for biofuels (some pathways have EROI close to 1)
+
+### Overall
+
+- 2 new myth pages
+- Updated `wiki/index.md` — added 2 new Myths entries under the existing Myths section
+- No source-summary files in `wiki/sources/` (per the myth workflow)
+- No index date bump needed — already at 2026-07-28
+
+### Meta observation
+
+The Ritchie book keeps producing high-quality myth pages because it is **structured as a Q&A** with sourced numbers. That is much easier to convert to the Myth template than long-form journalism. If you keep working through the book, this pipeline will keep running smoothly.
+
+---
+
 ## 2026-07-28 ingest | Five Hannah Ritchie myths + PFAS in datacentre cooling
 
 Six-file batch — one article (data centres + PFAS) plus five book-summary myths (all from Hannah Ritchie, *Not the End of the World*).
