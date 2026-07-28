@@ -107,54 +107,6 @@
     "tags": []
   },
   {
-    "slug": "draft-facts-about-plastic",
-    "filename": "circularity-waste/DRAFT - FACTS about Plastic.md",
-    "label": "FACTS about Plastic",
-    "summary": "IMPORTANT FACTS, Global Plastic waste generation, About PET bottles, Where does all the plastic go, REDUCE PLASTIC IMPACT by 80%, REUTERS: Plastics to outpace coal's GHG emissions by 2030, UN Plastic Treaty on Its Way in Geneva - How plastics industry swamped vital global treaty talks, About the 6th Session in Geneva, We are seeing more than 200 Lobbyist at the talks, Lobbyist are all over the negotiation room, Misinformation and misunderstandings, THE GUARDIAN - The Mirage of Recycled Plastic: Greenwashing the Petrochemical Crisis, Should we give up Recycling, Plastic Chemicals linked to hundreds of thousands of deaths worldwide, START-UP NOTPLA, Cool Project - Cleaning up the OCEAN: Boyan Slat, Seaqual to remove plastic from the Ocean and turn it into fashion, The incredible new tech that can recycle all plastics, forever, Irish Company transform Plastic into Sustainable Fuel, In south-east Asia - JUTE, a cash crop, seen as a golden fiber, MONOMERIS - A new way to break down plastic, Biodegradable Plastic made from Bamboo, Talking Trash, Executive Summary, Ocean plastic found at every depth, doi.org/c6wd, 1 million plastic bottles, five trillion plastic bags, Bennington College and Beyond Plastics, plastic waste is projected to triple by 2060, Of this, 399 million tonnes will become waste, deceptive accounting and intense lobbying, mass-balance bookkeeping, greenwashing crisis, impending European regulations, NOVOLOOP - Miranda Wang - Change the wet plastic, Source, lobbying against proven legislative measures, false solutions and deceptive practices",
-    "category": "circularity-waste",
-    "tags": [
-      "plastic",
-      "circularity",
-      "recycle"
-    ]
-  },
-  {
-    "slug": "draft-recycling-project-drawdown-42",
-    "filename": "circularity-waste/DRAFT - Recycling - Project Drawdown 42.md",
-    "label": "Recycling (Project Drawdown #42)",
-    "summary": "",
-    "category": "circularity-waste",
-    "tags": [
-      "plastic",
-      "recycle",
-      "circularity"
-    ]
-  },
-  {
-    "slug": "draft-the-environmental-impact-of-the-fashion-industry",
-    "filename": "circularity-waste/DRAFT - The Environmental Impact of the FASHION industry.md",
-    "label": "The Environmental Impact of the Fashion Industry",
-    "summary": "Fast fashion, 10% global emissions, microplastics, toxic dyes, water consumption jeans, 1083 Made in France, ozone dyeing, circular deposit, Rewearable Circular Fashion, EU Ecodesign for Sustainable Products Regulation ESPR, unsold clothes disposal ban July 2026, 4-9% textile disposal EEA, one in five online returns not resold, HDE German Retail Federation, 20% EU-produced apparel, 2030 medium-sized firm extension",
-    "category": "circularity-waste",
-    "tags": [
-      "fashion",
-      "circularity",
-      "plastic",
-      "eu-policy"
-    ]
-  },
-  {
-    "slug": "draft-the-rewearable-circular-fashion-action-guide",
-    "filename": "circularity-waste/DRAFT - The Rewearable -  Circular Fashion ACTION GUIDE.md",
-    "label": "The Rewearable — Circular Fashion Action Guide",
-    "summary": "“Fast fashion isn’t free. Someone, somewhere is paying.” – Lucy Siegle, A Primer on Circular Fashion, Actions to Make Your Fashion More Circular, Circular Fashion Resources, Information, Repair Resources, Online Shopping, Clothing Rental, Brands, Dive Deeper",
-    "category": "circularity-waste",
-    "tags": [
-      "fashion",
-      "circularity"
-    ]
-  },
-  {
     "slug": "divert-your-food-waste-from-landfill-the-benefit-of-composting",
     "filename": "circularity-waste/Divert your food waste from landfill - the benefit of composting.md",
     "label": "Divert your food waste from landfill by implementing a home compost system",
@@ -175,6 +127,14 @@
     "filename": "circularity-waste/FACTS about E-Waste.md",
     "label": "E-Waste: The Fastest-Growing Waste Stream in the World category",
     "summary": "What are E-Waste, How much E-Waste do we generate, What is driving that increase, What about Recycling, The Global Flow of Uncontrolled E-Waste, An EU e-waste target, COMPANIES, Source",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
+    "slug": "facts-about-plastic",
+    "filename": "circularity-waste/FACTS about Plastic.md",
+    "label": "Plastic Pollution: Scale, Impact and Emerging Solutions",
+    "summary": "Global plastic production has grown from 2 million tonnes in 1950 to almost 350 million tonnes today, with only around 9% ever recycled. An estimated 10 to 12 million tonnes enter the ocean each year, and plastic-related chemicals are now linked to hundreds of thousands of deaths worldwide. A 2023 UNEP roadmap suggests an 80% cut in pollution is possible by 2040 through reduction, reuse and recycling reform, but a global treaty remains stalled amid heavy industry lobbying. Meanwhile, companies such as Notpla, Novoloop, The Ocean Cleanup and Ireland's Trifol Resources are developing practical alternatives and cleanup technologies.",
     "category": "circularity-waste",
     "tags": []
   },
@@ -203,10 +163,34 @@
     "tags": []
   },
   {
+    "slug": "recycling-is-still-an-important-action",
+    "filename": "circularity-waste/Recycling is still an important action.md",
+    "label": "Recycling remain an important action to take",
+    "summary": "",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
     "slug": "shoes-and-the-environment-a-hidden-cost-hiding-in-plain-sight",
     "filename": "circularity-waste/Shoes and the Environment - A Hidden Cost Hiding in Plain Sight.md",
     "label": "Shoes and the Environment: A Hidden Cost Hiding in Plain Sight",
     "summary": "Eco- Sneakers with no Plastic, Ethical and Eco-Friendly runners are in demand, How Eco-Friendly are Flip flops. Shoes require multiple layers and materials, usually coming from various places, and not always in a fair way. This is changing slowly, and more and more brands or emerging brands are putting this new card forward.Shoes are one of the most environmentally complex products we own. The footwear industry produces nearly 24 billion pairs a year, accounts for 1.4% of global carbon emissions, and sends 95% of used shoes to landfill. Materials like leather, synthetic rubber and petroleum-based plastics make most footwear nearly impossible to recycle. A small but growing number of brands are changing this, including Veja, Ubac, Circle Sportswear and MOEA, each taking a different approach to materials, supply chain transparency and end of life. Flip flops alone account for 3 billion pairs produced annually and 10% of beach plastic. Durability and transparency are the best guides for better choices.",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
+    "slug": "the-environmental-impact-of-the-fashion-industry",
+    "filename": "circularity-waste/The Environmental Impact of the FASHION industry.md",
+    "label": "The Environmental Impact of the Fashion Industry",
+    "summary": "The fashion industry accounts for around 10% of global emissions and is the second-largest consumer of water worldwide. Most of its harm comes from pesticide-heavy cotton farming, toxic dyeing, fossil-fuel-based synthetic fibres, and production waste, with 87% of materials ending up incinerated or in landfill. Companies like Unspun, Solena, Pact and 1083 show that on-demand weaving, biodegradable fibres, waste-based leather and local, low-impact manufacturing are already possible. From July 2026, the EU bans large companies from destroying unsold clothing, though the rule addresses waste rather than the deeper problem of overproduction itself.",
+    "category": "circularity-waste",
+    "tags": []
+  },
+  {
+    "slug": "the-rewearable-circular-fashion",
+    "filename": "circularity-waste/The Rewearable -  Circular Fashion.md",
+    "label": "The Rewearable — Circular Fashion",
+    "summary": "“Fast fashion isn’t free. Someone, somewhere is paying.” – Lucy Siegle, A Primer on Circular Fashion, Actions to Make Your Fashion More Circular, Circular Fashion Resources, Information, Repair Resources, Online Shopping, Clothing Rental, Brands, Dive Deeper",
     "category": "circularity-waste",
     "tags": []
   },
@@ -1380,6 +1364,16 @@
     "category": "legislation",
     "tags": [
       "esg"
+    ]
+  },
+  {
+    "slug": "ai-needs-fossil-fuels",
+    "filename": "myths/ai-needs-fossil-fuels.md",
+    "label": "Myth: AI will need so much energy we have to burn more fossil fuels to keep up",
+    "summary": "AI energy demand, data centres 1 to 3 percent of world electricity, Google Alphabet 10x AI search claim, IEA 6000 TWh growth by 2030, data centres 3 percent of that growth, Koomey's Law, 550% compute growth 6% energy 2010 2018, Ireland 17 percent data centres, Three Mile Island Microsoft, Amazon Google nuclear, gas dash for AI, ChatGPT 100 queries streaming 20 minutes, hype cycle",
+    "category": "myths",
+    "tags": [
+      "myth"
     ]
   },
   {
