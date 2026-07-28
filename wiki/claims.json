@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
   "verdicts": {
     "false": {
@@ -54,6 +54,53 @@
   ],
   "claims": [
     {
+      "id": "carbon-capture-will-fix-it",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "we can just keep burning fossil fuels and capture the CO2",
+      "heard_as": [
+        "Carbon capture will fix it",
+        "We can just capture the CO2",
+        "Why cut fossil fuels when we can just clean up the CO2?",
+        "CCS is the answer",
+        "Direct air capture will save us",
+        "We can suck the carbon out of the sky later",
+        "Net zero doesn't mean zero, it means capture the rest"
+      ],
+      "kernel": "Because CCS is a real technology and it does work when it works. It sounds like exactly the kind of engineering fix a wealthy society should be able to build: keep the existing power plants and factories, bolt on a capture unit at the top of the chimney, pump the CO2 underground, done. It also comes from serious voices — oil companies, IPCC reports, government net-zero plans — so people assume it must be doing more than it is.",
+      "truth": "CCS today captures a very small share of global emissions and its track record is poor: - **CCS is running at 45 sites worldwide**, capturing about **50 million tonnes of CO2 per year** — around **0.1% of global emissions** (Hannah Ritchie, *Not the End of the World*) - **Around 50 more plants could be online by 2030**, taking the total to about **0.4% of emissions** - Even in a very optimistic scenario where CCS captures **1 billion tonnes a year by 2030** (a number that appears in many net-zero plans), that is still only **2% of world emissions** - Track record is bad: by 2020, **149 CCS projects were meant to be running; more than 100 were cancelled** - In the US, **around 80% of CCS projects have failed**, mostly due to cost and technology readiness Where CCS could genuinely help is a narrow list: **the last 20-30% of electricity** in regions with poor sun and wind, and hard-to-decarbonise industries like **cement, steel and fertiliser (~15% of world emissions)**. For transport and most electricity, there is no useful role — solar, wind and batteries do the job cheaper. Cost matters too. Oxford researchers modelled two paths: one where CCS handles half of all emission cuts, and one where it handles a tenth. The high-CCS path costs **over $1 trillion more per year**, tens of trillions by 2050.",
+      "say_this": "Carbon capture and storage is real and it does have a role, but it is not a way out of burning less fossil fuel. Today all the CCS plants in the world capture around one thousandth of global emissions. Even in the most optimistic 2030 case it is about 2%. We still have to cut fossil fuels fast, and use CCS only where nothing cheaper works, like cement and steel.",
+      "pushback": [
+        {
+          "if": "So we should invest heavily in CCS then?",
+          "reply": "Some investment is worthwhile so the technology can improve, but it should get much less funding than solar, wind, batteries and electrification. Using CCS heavily is far more expensive than using it only where nothing else works."
+        },
+        {
+          "if": "Isn't it in every credible net-zero plan?",
+          "reply": "Yes, but it is treated as a **small residual solution** for the hard cases (cement, steel, fertiliser), not a substitute for cutting fossil fuel use. When oil companies present CCS as their central strategy, that is a different claim from what climate scientists are saying."
+        },
+        {
+          "if": "Fossil fuel companies can afford it — why not just make them pay?",
+          "reply": "They can and they should. In 2022 they made **$4 trillion in profit**. At roughly $100 to capture one tonne, that would have paid to capture 40 billion tonnes, more than a year of global emissions. The problem is not the money, it is the political will to make them do it. And even then, capture would not solve the other side effects of fossil fuel extraction — air pollution, methane leaks, spills, land use."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Smith School of Enterprise and the Environment, University of Oxford",
+          "url": "cost modelling of CCS-heavy vs CCS-light pathways"
+        },
+        {
+          "label": "IEA",
+          "url": "Global CCUS status"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "china-emits-more",
       "category": "systemic",
       "verdict": "incomplete",
@@ -95,7 +142,7 @@
         "the waste from clean tech will be the next crisis"
       ],
       "kernel": "There are real photographs of buried blades, and a wave of equipment installed over the last two decades is genuinely reaching end of life now. The problem is not imaginary.",
-      "truth": "It is a real problem of a modest size. Cumulative solar panel waste could reach 160 million tonnes by 2050. By the same date total e-waste is projected at around 1.8 billion tonnes and plastic waste at over 12 billion tonnes, so solar is a rounding error next to the waste streams nobody campaigns about. Recycling is also scaling fast. China's GEM recovers over 90% of the lithium from used batteries and processed around 17,000 tonnes of EV batteries in 2022. Redwood Materials found many packs it takes in still hold more than half their capacity, and is repurposing them into solar powered microgrids rather than shredding them.",
+      "truth": "It is a real problem of a modest size. Cumulative solar panel waste could reach 160 million tonnes by 2050. By the same date total e-waste is projected at around 1.8 billion tonnes and plastic waste at over 12 billion tonnes, so solar is a rounding error next to the waste streams nobody campaigns about. Recycling is also scaling fast, especially for batteries. China's GEM recovers over 90% of the lithium from used batteries and processed around 17,000 tonnes of EV batteries in 2022. Redwood Materials found many packs it takes in still hold more than half their capacity, and is repurposing them into solar powered microgrids rather than shredding them.",
       "say_this": "Solar waste by 2050 is about 160 million tonnes. Plastic waste will be over 12 billion. It is a real problem, just not the one worth panicking about.",
       "pushback": [
         {
@@ -723,6 +770,153 @@
       "wiki": ""
     },
     {
+      "id": "not-enough-clean-energy",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "there isn't enough clean energy to replace fossil fuels",
+      "heard_as": [
+        "Renewables can't replace fossil fuels",
+        "There isn't enough solar and wind to power the world",
+        "The sun doesn't shine at night",
+        "It's physically impossible to run everything on renewables",
+        "We'd need to cover the whole planet in solar panels",
+        "Clean energy is too small to matter"
+      ],
+      "kernel": "Because the numbers, at first glance, look enormous. The world uses hundreds of exajoules of energy every year. If someone tells you all of that has to be replaced by solar panels and wind turbines, it sounds impossible in any human timescale. The mistake is measuring the target in \"primary energy\" — the total energy input including everything that gets wasted as heat. That measure is designed for a world that burns fuel, not one that runs on electricity.",
+      "truth": "Burning fuel is astonishingly wasteful, and the alternative is much more efficient: - A **coal power plant** turns about **one third** of its energy into electricity; the rest is heat lost up the chimney. **Gas power** wastes about half. Solar and wind waste almost nothing. - Therefore **1 unit of solar or wind can replace 2 to 3 units of coal**. A city needing 100 TWh of electricity would burn 300 TWh of coal to get it, or 200 TWh of gas, or just 100 TWh of solar and wind. - **Petrol cars are only about 20% efficient** — 80 cents of every €1 of petrol becomes waste heat. **Electric cars are about 80% efficient**. Driving an EV uses **only a quarter to a third of the energy** of a petrol car. - If the world electrified everything that can be electrified (cars, heating, industry, short flights, ferries), **total world energy demand would fall by around 40%**, from about **416 EJ today to about 247 EJ** (Ritchie 2024) — even as electricity demand rises. - Renewables are already doing most of the new work: between **2010 and 2022, renewables supplied 57% of the growth** in global electricity, and in **2022 alone they supplied 92%** of new demand.",
+      "say_this": "We don't need to build clean energy to match our current fossil fuel use, one-for-one. That's the wrong target. Because burning fuel wastes most of the energy it makes, one unit of solar or wind can replace two to three units of coal. If we electrify what we currently burn — cars, heating, industry — total world energy demand actually falls by about 40%, even as electricity demand goes up.",
+      "pushback": [
+        {
+          "if": "But electricity demand is going up, that proves it isn't working.",
+          "reply": "Rising electricity demand is exactly what you would expect if the transition is working. Cars, heat pumps and industry are moving off gas and petrol and onto the grid. **Total** energy demand is what falls. Electricity is the visible tip of a much bigger and mostly hidden efficiency gain."
+        },
+        {
+          "if": "OK, but poor countries will need much more energy as they develop.",
+          "reply": "Yes, and that is right and fair. Rich countries will use less; poorer countries will use more; the world total still falls, because the switch away from burning is such a large efficiency win. The two things are not in conflict."
+        },
+        {
+          "if": "You're leaving out storage — solar and wind are intermittent.",
+          "reply": "Not entirely. The **first 70 to 80% of a power system** can be covered by solar and wind plus modest storage. The **last 20 to 30%** is harder in regions with poor sun and wind, and needs other tools — nuclear, hydro, geothermal, batteries, gas as a decreasing backup. That is a real engineering problem, but it is very different from \"there isn't enough clean energy at all.\""
+        }
+      ],
+      "sources": [
+        {
+          "label": "IEA",
+          "url": "Global electricity generation, 2010-2022"
+        },
+        {
+          "label": "Bloomberg NEF",
+          "url": "New Energy Outlook 2024 (renewable share of new demand)"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "not-enough-public-support",
+      "category": "systemic",
+      "verdict": "false",
+      "claim": "there isn't enough public support to tackle climate change",
+      "heard_as": [
+        "Nobody cares about climate change any more",
+        "The public won't accept it",
+        "There's no political will",
+        "People say they care but they don't act",
+        "Everyone's too busy with the cost of living to care about climate",
+        "Support has collapsed since the pandemic",
+        "It's a niche issue"
+      ],
+      "kernel": "Because the media environment makes it feel like nobody agrees on anything. Every news cycle features a fresh climate protest and a fresh backlash, an oil-industry lobbyist and a Greta Thunberg quote, a viral tweet from a climate denier and another from a climate doomer. If your only exposure is X, cable news or partisan headlines, it looks like a 50-50 shouting match. Politicians and industry executives repeat this framing because it is convenient: if the public is split, doing nothing is a defensible position.",
+      "truth": "Multiple large international surveys keep finding overwhelming, cross-country majorities in favour of climate action: - **63-country survey (59,000 people)**: **86% think humans are causing climate change** and see it as a serious threat. Nearly three quarters back specific policies — carbon taxes, more public transport, renewables, EV chargers, airline taxes. - **125-country survey (130,000 people)**: **89% want more political action**. **86% think people in their country should try to fight climate change**. - **United States** (often assumed to be the outlier): **74%** think the US should join international climate action; **71%** say climate change is already causing harm to Americans. - **European Union**: **93%** see climate change as a serious problem; over two-thirds think their government is not doing enough. - Across countries, the share who want their government to do more ranges from **97% in China down to 62% in Finland**. **Most countries land above 80%**. The **perception gap** is the real story. When asked to estimate how many others support climate action, people consistently guess about half the real number. Americans guessed roughly a third supported climate action, versus the real figure of around two thirds. Climate supporters think they are the minority. They are, in fact, the majority almost everywhere.",
+      "say_this": "Most people, in every country surveyed, want climate action. Around 86% of people worldwide agree humans are causing climate change, and about 89% want more political action. The catch is that almost everyone underestimates how many others agree with them. Americans guess a third of their countrymen support climate action; the real number is closer to two thirds. The silent majority thinks it is the minority. That is fixable.",
+      "pushback": [
+        {
+          "if": "If people really supported action, they'd vote for it.",
+          "reply": "They often do, and the party landscape mostly does not reflect the size of the majority. Perception gap and party alignment are two separate problems. In elections where climate is on the ballot as a specific proposal, it usually wins (California, several EU referenda). Where it is bundled with other issues, party loyalty dominates and the climate question is hard to read from the result."
+        },
+        {
+          "if": "Support is one thing, willingness to pay is another.",
+          "reply": "Fair, and this is one of the real tensions. But the surveys also test willingness to accept specific policies (carbon taxes, airline levies, home retrofits) and majorities remain — especially where the policy is designed to protect lower-income households. What people reject is being asked to pay while a small number at the top pay nothing."
+        },
+        {
+          "if": "The US is different.",
+          "reply": "Less than you think. **74% of Americans support the US joining international climate action**; **71% say Americans are already being harmed by climate change**. What is unusual about the US is not the level of public support, it is the gap between public opinion and political outcomes."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Andre P., Boneva T., Chopra F., Falk A. (2024) *Globally representative evidence on the actual and perceived support for climate action*, *Nature Climate Change*",
+          "url": "the 130,000-person, 125-country survey"
+        },
+        {
+          "label": "Sparkman G., Geiger N., Weber E. (2022), *Nature Communications*",
+          "url": "pluralistic ignorance about climate support"
+        },
+        {
+          "label": "Yale Program on Climate Change Communication",
+          "url": "Climate Opinion Maps"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "poor-countries-need-fossil-fuels",
+      "category": "systemic",
+      "verdict": "mostly-false",
+      "claim": "poor countries need fossil fuels to develop",
+      "heard_as": [
+        "Africa needs coal",
+        "Poor countries need fossil fuels to lift people out of poverty",
+        "It's colonial to deny them development",
+        "You can't be green when you're poor",
+        "The West did it, so should they",
+        "Energy justice means fossil fuels"
+      ],
+      "kernel": "Because for 100 years it was true. Every country that industrialised did so on coal, oil and gas. Nobody had a serious alternative. There is also a real fairness argument buried in the claim: rich countries burned fossil fuels for centuries to get where they are, then turned around and told poorer countries not to. That hypocrisy is real, and people are right to be suspicious when it comes wrapped in climate messaging.",
+      "truth": "The premise, that fossil fuels are the necessary fuel for development, is no longer accurate. Fossil fuels **were** the fuel; **energy in general** is what lifts people out of poverty. Two related facts change the picture: - **The 48 countries in sub-Saharan Africa (excluding South Africa) hold 14% of the world's population but produce only 0.6% of global CO2 emissions.** Even if their electricity tripled and every kWh came from natural gas, world emissions would rise by only about **0.6%** — while transforming lives. - **Indoor air pollution kills over 2 million people a year** (cooking with wood and charcoal). A short-term shift to kerosene or gas would save lives without materially harming the climate, and clean cooking gas is often paired with electrification long-term. The clean-energy path is now competitive on cost, and poor countries are structurally well placed for it. They have: - Loads of sun and wind - A large share of the minerals needed for batteries - **No stranded fossil fuel plants** to write off, so they can build modern systems from scratch The evidence that it is already happening: - **Namibia, Brazil, Chile and Morocco** already get a higher share of electricity from solar and wind than the EU or the US does - **Pakistan** has a boom in **rooftop solar** as families make their own power in response to grid instability - **South Africa** shows the same pattern after its coal grid kept failing - **Kigali (Rwanda)** banned new petrol motorbikes in 2025 to cut urban air pollution The bottleneck is not technology, it is **capital**: - Loans for a solar plant in **South Africa, India or Mexico cost about twice as much (~12%)** as in rich countries (~5%). In low-income countries the rates are higher still. - Rich countries promised **$100 billion a year in climate finance** to poorer countries by 2020. That target was **missed by about $20 billion** and only reached years late, with some money simply being old aid budgets **relabelled as green finance**. - The **G7 has blocked funding for any fossil fuel project in Africa** — while their own energy security responses to Ukraine involved firing up coal plants and building new LNG terminals.",
+      "say_this": "Poor countries need **energy** to develop, not fossil fuels specifically. Because those two got tangled up during the 20th century, people assume they are the same thing. They are not any more. Solar and wind are now the cheapest new power in most of the world, and poor countries have the sun, the wind, and the mineral resources to build modern grids without repeating the coal era. The catch is finance: they pay two to three times more to borrow for the same clean project than rich countries do.",
+      "pushback": [
+        {
+          "if": "But some fossil fuels will still be needed.",
+          "reply": "Fair. Some transitional fossil use, especially gas for cooking and industry, is expected and defensible. The issue is not banning all fossil fuel use in poor countries. The issue is not pretending they are locked into fossil fuel dependence when the cheaper and cleaner path is available if the finance is there."
+        },
+        {
+          "if": "Rich countries have no right to lecture.",
+          "reply": "Correct, and that is not the argument. The argument is: **the finance system, not the atmosphere, is what is holding poor countries back from clean energy**. Rich countries can either fix that (deliver the pledged climate finance, offer fair borrowing rates, stop blocking regional development banks) or stop blocking clean energy while doing nothing. The current combination is the worst option."
+        },
+        {
+          "if": "China is undercutting everyone with cheap solar and EVs.",
+          "reply": "Yes — and for poorer countries that is largely good news, because it drives down deployment cost. Rich-country policy should either **help spread affordable Chinese clean tech worldwide** or build a competing industry. Just complaining about the low prices does not help anyone in the countries that most need cheap solar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Our World in Data",
+          "url": "CO2 emissions by country"
+        },
+        {
+          "label": "Climate Policy Initiative",
+          "url": "Cost of Capital Observatory"
+        },
+        {
+          "label": "OECD",
+          "url": "Climate finance provided and mobilized 2013-2022"
+        },
+        {
+          "label": "World Health Organization",
+          "url": "household air pollution mortality"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "recycled-plastic-label",
       "category": "materials",
       "verdict": "false",
@@ -803,6 +997,57 @@
         {
           "label": "ScienceDirect, wind turbine energy payback",
           "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960148111002254"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "renewables-not-replacing-fossil-fuels",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "renewables aren't replacing fossil fuels, they're just being added on top",
+      "heard_as": [
+        "Renewables are just being added on top",
+        "There's no energy transition, it's an addition",
+        "Fossil fuel use is still going up, so nothing has changed",
+        "The world isn't really moving off fossil fuels",
+        "Renewables can't scale",
+        "We keep adding wind and solar and it never makes a difference",
+        "The transition is a myth"
+      ],
+      "kernel": "Because if you look at global charts of energy use, both fossil fuels and renewables are still rising at the same time. It looks like renewables are just being added, not replacing anything. And in the poorest, fastest-growing economies that is broadly what is happening today: their total energy demand is rising, so both curves go up. When someone frames this as \"the energy transition is a myth,\" the chart looks like their evidence.",
+      "truth": "The global picture hides three very different situations: 1. **Energy addition** — renewables added on top, fossil fuels grow as normal. **There are no clear real-world examples** of this at country level today. 2. **Energy displacement** — renewables fill demand that would otherwise have gone to fossil fuels. Fossil fuels still grow, but slower. **China** is the classic case. 3. **Energy transition** — renewables replace fossil fuels, so fossil fuel use actually falls. **Denmark, UK, Finland** are clear examples. More than **half of the world's countries have already passed \"peak fossil fuels\" in their electricity sector**, even while total electricity demand kept rising. - **UK**: fossil fuel electricity down by **almost half** since it peaked in 2008 - **Denmark**: down by **almost 80% since 2000** - **Finland**: down by **more than two-thirds since 2000** - Globally in **2022, renewables supplied 92% of new electricity demand**; fossil fuels the remaining 8% - Between **2010 and 2022, renewables supplied 57%** of the growth in global electricity Analysts now expect **coal, oil and gas each to hit their global peak within the next five years**. Sales of **new petrol and diesel cars already peaked in 2017**.",
+      "say_this": "The world isn't in one place at once. Some countries are already replacing fossil fuels with renewables and their fossil fuel use is falling — the UK, Denmark, Finland. China and most of the world are in an in-between stage: renewables are filling new demand that would otherwise have gone to fossil fuels, so fossil fuel use is growing more slowly than it would have. Almost nowhere is renewables truly \"just added on top.\" Coal, oil and gas are each expected to peak globally within about five years.",
+      "pushback": [
+        {
+          "if": "But global fossil fuel use is still rising.",
+          "reply": "Yes, and that is the honest bit of the claim. It hides three different stories, and one of them (real transition) is clearly winning at country level. The global total is the sum of countries at different stages — mostly at stage 2 (displacement) today, transitioning into stage 3."
+        },
+        {
+          "if": "Renewables can only replace some of it.",
+          "reply": "For most of the electricity system, they can do the heavy lifting. For the last 20-30% and for hard-to-abate industry, other tools are needed (nuclear, hydro, geothermal, storage, some gas as declining backup). But that is very different from \"renewables aren't replacing fossil fuels.\" They are, and the countries doing this are the leading indicators."
+        },
+        {
+          "if": "You're cherry-picking Denmark.",
+          "reply": "Denmark is at the leading edge, but the pattern is very general in Europe. UK, Germany, Portugal, Spain, Ireland, Italy have all seen large falls in fossil fuel electricity. Outside Europe, the US has been slower but its coal fleet is now clearly in retreat. The transition looks different in different places because it started at different times and with different endowments, not because it is not happening."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Ember",
+          "url": "Global Electricity Review 2023"
+        },
+        {
+          "label": "Our World in Data",
+          "url": "Energy transition dashboard"
+        },
+        {
+          "label": "IEA",
+          "url": "Renewables 2023"
         }
       ],
       "wiki": ""
