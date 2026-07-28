@@ -1,14 +1,13 @@
 ---
-title: The Rewearable — Circular Fashion Action Guide
+title: The Rewearable — Circular Fashion
 category: circularity-waste
-tags: [fashion, circularity]
+tags:
+  - fashion
+  - circularity
 created: 2026-06-01
 updated: 2026-06-01
-summary: "“Fast fashion isn’t free. Someone, somewhere is paying.” – Lucy Siegle, A Primer on Circular Fashion, Actions to Make Your Fashion More Circular, Circular Fashion Resources, Information, Repair Resources, Online Shopping, Clothing Rental, Brands, Dive Deeper"
+summary: “Fast fashion isn’t free. Someone, somewhere is paying.” – Lucy Siegle, A Primer on Circular Fashion, Actions to Make Your Fashion More Circular, Circular Fashion Resources, Information, Repair Resources, Online Shopping, Clothing Rental, Brands, Dive Deeper
 ---
-
-#fashion #sustainability 
-
 
 Go fully circular with your fashion decisions (shop only pre-loved), minimizing the negative impacts of your self-expression.
 
@@ -24,15 +23,15 @@ Consider the life-cycle of a cotton-polyester blend T-shirt (the most common mat
 ![](https://lh7-us.googleusercontent.com/a0DUhnnG5ZkCe16dAkYY4tGxhBvVIKwmIpJmxq8icEO4NdAbxjlJrZK13tPtDJjpPeoqsy5JXpVgkgOc_TVnjfH8uOkOFWwlcqY9fS0cKoInMWt7dG_j-yQFkFG7BdrRBQmk4PEpxuECxjO5imTG04E)![](https://lh7-us.googleusercontent.com/Dg3z88HvuZ0LKBqn-xAsrUedLvzVeMG-H-L7naAUQytga3XUiSjVTFFwIrKYb3XxhBhjuYqKNpbm6yZoFm0hEKwPpzZcJVRM5QfRhzTbSJUaq4t0bPNNsiQRibpuGA7abK0pWkAycA1_G37kcHWkkg8)
 
 > [!Here are some statistics about the environmental impacts of fashion:]
-> - The fashion industry currently accounts for about 10% of global emissions and the industry is the second-largest consumer of water on the planet.[1](https://earth.org/fast-fashions-detrimental-effect-on-the-environment/)
-> - Between 80 and 100 billion new clothing garments are produced globally every year.[2](https://theroundup.org/textile-waste-statistics/)
-> - 87% of the materials and fibers used to make clothing will end up in either incinerators or landfills.[2](https://theroundup.org/textile-waste-statistics/)
-> - Only 20% of discarded textiles are collected.[2](https://theroundup.org/textile-waste-statistics/)
-> - Only 1% of clothes will get recycled into new garments.[2](https://theroundup.org/textile-waste-statistics/)
-> - About 35% of the microplastics that enter the ocean come from washing  synthetic textiles.[1](https://earth.org/fast-fashions-detrimental-effect-on-the-environment/)]
+> - The fashion industry currently accounts for about 10% of global emissions and the industry is the second-largest consumer of water on the planet
+> - Between 80 and 100 billion new clothing garments are produced globally every year
+> - 87% of the materials and fibers used to make clothing will end up in either incinerators or landfills.
+> - Only 20% of discarded textiles are collected
+> - Only 1% of clothes will get recycled into new garments.
+> - About 35% of the microplastics that enter the ocean come from washing  synthetic textiles
 
 
-Beyond the environmental costs, the fashion industry perpetuates a massive amount of social injustice. Unsafe working conditions are the norm for garment workers. Forced labor is not uncommon, neither is child labor. Wages are often unfair and insufficient. Large fast fashion brands defer responsibility for these human rights abuses to the complex network of subcontractors that they work with. While most brands claim to support ethical labor practices, there is little regulation or oversight.[3](https://sites.uab.edu/humanrights/2018/04/26/fast-fashion-unethical-and-unsustainable/)
+Beyond the environmental costs, the fashion industry perpetuates a massive amount of social injustice. Unsafe working conditions are the norm for garment workers. Forced labor is not uncommon, neither is child labor. Wages are often unfair and insufficient. Large fast fashion brands defer responsibility for these human rights abuses to the complex network of subcontractors that they work with. While most brands claim to support ethical labor practices, there is little regulation or oversight.
 
 ## A Primer on Circular Fashion
 
@@ -57,42 +56,6 @@ For the next four weeks, consider your fashion consumption choices and look for 
 > - Prioritize organic, single-material textiles when buying new.
   
 
-## Circular Fashion Resources
-
-### Information
-- [The butterfly diagram: visualising the circular economy - Ellen Macarthur Foundation](https://www.ellenmacarthurfoundation.org/circular-economy-diagram)
-- [Explainer: Circular Economy - Important, Not Important](https://www.importantnotimportant.com/p/explainer-circular-economy)
-- [Redesigning the Future of Fashion - Ellen Macarthur Foundation](https://www.ellenmacarthurfoundation.org/topics/fashion/overview?sortBy=rel)
-
-
-### Repair Resources
-- [Repair Cafe](https://www.repaircafe.org/en/)
-- [SOJO](https://www.sojo.uk/) (UK)
-- [The Seam](https://www.theseam.uk/) (UK)
-- [NET-A-PORTER](https://www.net-a-porter.com/en-gb/campaigns/circular-fashion-services/) (UK)
-
-### Online Shopping
-- [Beni](https://www.joinbeni.com/) - Browser extension to find resale clothing
-- [Grailed](https://www.grailed.com/) - Resale
-- [The Real Real](https://www.therealreal.com/) - Resale
-
-
-### Clothing Rental
-- [HURR](https://www.hurrcollective.com/) (UK)
-- [Rotation](https://byrotation.com/us) (UK)
-- [NET-A-PORTER](https://www.net-a-porter.com/en-gb/campaigns/circular-fashion-services/) (UK)
-- [Ecodicta](https://ecodicta.com/) (ES)
-
-
-### Brands
-- [BEEN London](https://been.london/) (UK)
-- [Fanfare Label](https://fanfarelabel.com/) (UK)
-- [Elvis & Kresse](https://www.elvisandkresse.com/) (UK)
-- [RÆBURN](https://www.raeburndesign.co.uk/) (UK)
-- [Infinit Denim](https://infinitdenim.com/) (ES)
-- [Sylvia Calvo](https://www.sylviacalvobcn.com/) (ES)
-- [OLTRAMAR](https://oltramar.com/) (ES)
-
 
 ### Dive Deeper
 [Fashion on Climate](https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/fashion%20on%20climate/fashion-on-climate-full-report.pdf), a report by McKinsey, provides a deep assessment of fashion’s environmental impact and opportunities for emissions abatement.
@@ -108,11 +71,4 @@ For the next four weeks, consider your fashion consumption choices and look for 
 6. [These facts show how unsustainable the fashion industry is](https://www.weforum.org/agenda/2020/01/fashion-industry-carbon-unsustainable-environment-pollution/)
 7. [Dress Hire: The Best Fashion Rental Sites In The UK](https://www.elle.com/uk/fashion/g29187954/rent-dress/)
 8. [34 Conscious Clothing Brands From the UK Worth Supporting](https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-uk/)
-9. [Spanish circular brands that will stand out in 2023](https://cosh.eco/en/articles/marcas-circulares-espanolas-que-destacaran-en-2023)
-
-**
-
----
-# PDF
-
-![[Action - Fashion_ The Rewearable .pdf]]
+9. [Spanish circular brands that will stand out in 2023](https://cosh.eco/en/articles/marcas-circulares-espanolas-que-destaca

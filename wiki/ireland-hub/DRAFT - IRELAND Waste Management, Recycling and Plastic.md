@@ -121,7 +121,7 @@ Ireland is far from that. It is disheartening to see that we apparently still do
  - 65% of household plastic is placed in black bins instead of recycling bins
  - 75% of commercial plastic waste is placed in general bins
 
-Also see [[DRAFT - FACTS about Plastic#Recycling can reduce 20%]]. Also a tax has been added, let'\s see how much that will help
+Also see [[FACTS about Plastic#Recycling can reduce 20%]]. Also a tax has been added, let'\s see how much that will help
 
 
 Other interesting data from teh EPA:

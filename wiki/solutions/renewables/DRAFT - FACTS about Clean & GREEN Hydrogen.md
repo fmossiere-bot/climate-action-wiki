@@ -92,7 +92,7 @@ The interesting part is that it would make it economically viable . The process 
 
 A bi-product is the production of graphene , which can be sold, and could cover the whole cost, meaning that you coudl get your hydrgen for free. Your fuel is free while you clean up teh planet.
 
-Wehn we know how much plastic waste and espeically recycling is still an issue, this is encouraging [[DRAFT - FACTS about Plastic]]
+Wehn we know how much plastic waste and espeically recycling is still an issue, this is encouraging [[FACTS about Plastic]]
 
 
 ## Getting Geologic Hydrogen from the ground

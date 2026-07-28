@@ -169,6 +169,6 @@ See also: [Antex LCA](../../wiki/sources/Antex_LCA_EN.pdf)
 ## Connected topics
 
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [DRAFT - FACTS about Plastic](DRAFT%20-%20FACTS%20about%20Plastic.md)
-- [DRAFT - The Environmental Impact of the FASHION industry](DRAFT%20-%20The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
+- [FACTS about Plastic](FACTS%20about%20Plastic.md)
+- [The Environmental Impact of the FASHION industry](The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
 - [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)

@@ -55,6 +55,6 @@ The lesson of Chouinard's life is a simple one: it's not the most powerful peopl
 ## Connected topics
 
 - [Greenwashing](../key-ideas/Greenwashing.md)
-- [DRAFT - The Environmental Impact of the FASHION industry](DRAFT%20-%20The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
+- [The Environmental Impact of the FASHION industry](The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
 - [The Rewearable — Circular Fashion ACTION GUIDE](../../circularity-waste/The%20Rewearable%20-%20Circular%20Fashion%20ACTION%20GUIDE.md)
 - [High-Income Carbon Paradox](high-income-carbon-paradox.md)

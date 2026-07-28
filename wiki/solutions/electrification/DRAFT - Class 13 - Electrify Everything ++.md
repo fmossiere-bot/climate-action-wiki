@@ -126,7 +126,7 @@ Source: [Research](The Cambridge study above finds that by 2050, fertilizer emis
 See [[DRAFT - CO2 Capture through minerals, or Soil enhancements#Le Biochar]]
 
 ### About Plastic
-Also See [[DRAFT - FACTS about Plastic]]
+Also See [[FACTS about Plastic]]
 #plastic 
 
 Plastics are made from fossil fuel feedstock and are tremendously dirty—plastics will [outpace coal emissions](https://www.reuters.com/business/cop/plastics-outpace-coals-greenhouse-gas-emissions-by-2030-report-2021-10-21/) by 2030. For all the hype about recycling over the last few decades, only a fraction of plastics are _collected_ for recycling, and only a fraction of _that_ is actually recycled, as illustrated here. The recycling process itself also downgrades the plastic, yielding poorer quality materials.

@@ -1,14 +1,14 @@
 ---
-title: Recycling (Project Drawdown #42)
+title: Recycling remain an important action to take
 category: circularity-waste
-tags: [plastic, recycle, circularity]
+tags:
+  - plastic
+  - recycle
+  - circularity
 created: 2026-06-01
 updated: 2026-06-01
 ---
 
-Source: https://solutionsthegame.com/solutions/recycling/
-
-#project-drawdown #plastic #recycle 
 
 > Recycled products use less resources and energy to make, avoid landfill emissions. Strategies for recylcling include making companies responsible for their waste and marketplaces for recycled materials
 
@@ -31,15 +31,3 @@ Managing household waste tends to be the responsibility of city governments, or 
 - circular business models.
 
 Collection, transport, and processing are, for the time being, largely powered by fossil fuels. Even still, recycling remains an effective approach to managing waste while reducing emissions. It also reduces resource extraction, minimizes other pollutants, and creates jobs.
-
-###### Current adoption (the amount of functional demand supplied in 2014) of household and commercial recycling at 27 percent of recyclable waste (Hoornweg and Bhada-Tata, 2012).
-
-
-![[IMG_9308.jpg]]
-
-![[Screenshot 2024-05-05 at 12.25.46.png]]
-
-![[Screenshot 2024-05-05 at 12.25.14.png]]
-
-
-
