@@ -808,37 +808,6 @@
       "wiki": ""
     },
     {
-      "id": "too-late-anyway",
-      "category": "systemic",
-      "verdict": "incomplete",
-      "claim": "It's too late anyway, we've already lost",
-      "heard_as": [
-        "we've blown past 1.5 degrees",
-        "the tipping points are already crossed",
-        "might as well enjoy what's left"
-      ],
-      "kernel": "This usually comes from someone who has been paying attention, not someone who has not. The news genuinely is bad, and expecting the worst is a way of not being disappointed again. It deserves a gentler response than a myth does.",
-      "truth": "There is no cliff edge where action stops counting. Every tenth of a degree avoided is a measurable amount of harm avoided, and the difference between 2 and 3 degrees is enormous in human terms. Concrete things are also landing. In 2025 there were 13 major climate litigation wins, including the Rosebank oil field ruled illegal and a criminal conviction for TotalEnergies. Mangrove forests worldwide now gain more area than they lose, reversing decades of decline. The IEA calculates that EVs and renewables prevented 600 million tonnes of CO2 in 2022 alone.",
-      "say_this": "There is no point where it stops being worth it. Every tenth of a degree is real harm avoided, and two degrees and three degrees are completely different worlds.",
-      "pushback": [
-        {
-          "if": "But we missed 1.5",
-          "reply": "Probably, yes. That was never a switch. It was a target, and 1.6 is meaningfully better than 1.8, which is meaningfully better than 2."
-        }
-      ],
-      "sources": [
-        {
-          "label": "Guardian, 13 climate litigation wins in 2025",
-          "url": "https://www.theguardian.com/environment"
-        },
-        {
-          "label": "BBC, mangrove recovery (Jun 2026)",
-          "url": "https://www.bbc.com/news"
-        }
-      ],
-      "wiki": ""
-    },
-    {
       "id": "transition-unfair-to-poor",
       "category": "systemic",
       "verdict": "true-but",
