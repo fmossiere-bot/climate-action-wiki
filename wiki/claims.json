@@ -54,6 +54,53 @@
   ],
   "claims": [
     {
+      "id": "ai-needs-fossil-fuels",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "AI will need so much energy we have to burn more fossil fuels to keep up",
+      "heard_as": [
+        "AI will make emissions explode",
+        "We can't decarbonise while running AI",
+        "ChatGPT is destroying the climate",
+        "AI is a fossil fuel technology",
+        "We need to burn more gas to power AI",
+        "Nuclear is the only way to run AI",
+        "Data centres will consume half the grid"
+      ],
+      "kernel": "Because the raw numbers being thrown around sound enormous, and because tech companies themselves are behaving as if the concern is real — striking gas deals, restarting nuclear plants, buying up interconnects. Every week brings a headline about a hyperscale project needing a whole nuclear reactor. If your reference point is Meta buying 10 gas plants to power a single Louisiana data centre, \"AI is a fossil fuel problem\" looks like a factual observation.",
+      "truth": "The picture is much smaller and more manageable than the headlines suggest: - **Data centres use around 1 to 3% of world electricity today**, even including AI - The often-quoted \"AI search uses 10× the energy of a Google search\" line came from **Alphabet's chairman in 2023**; tech companies have not published real numbers to verify it since - **IEA forecast: world electricity demand grows by ~6,000 TWh by 2030**. Data centres account for only **~3% of that growth** - Larger drivers of the 2023-2030 electricity increase are, in order: **industry, buildings, electric vehicles, air conditioning and heating** - Even under pessimistic scenarios where AI demand doubles or triples, data centres reach **~6% of global electricity**, not a \"civilisation-ending\" number - **Location matters more than the global total.** In Ireland, data centres are 17% of national electricity; in more than five US states, at least 10%. That is a real siting and grid problem, not a global-emissions problem - Personal AI use is trivial: 100 ChatGPT questions ≈ **streaming a 20-minute video** or **running an electric heater for one minute** - **History rhymes**: in the late 1990s people predicted data centres would eat over half of US electricity. Between 2010 and 2018, global compute grew 550% while data centre energy use only grew 6% — thanks to steady efficiency gains (\"Koomey's Law\")",
+      "say_this": "AI will use more electricity. The problem is real, but not the size the headlines make it. Data centres are around 1 to 3% of world electricity today, and even under pessimistic AI scenarios that maybe doubles by 2030. The IEA expects industry, buildings, EVs, air conditioning and heating to each add more to global demand than data centres do. The real issue is that tech companies are dashing for gas because they want power right now — not because clean power cannot cover it if we plan properly.",
+      "pushback": [
+        {
+          "if": "But look at all the new gas plants being built for data centres.",
+          "reply": "That is the real problem. It is not that AI needs fossil fuels, it is that tech companies want power **immediately** and gas is the fastest thing to plug into an existing grid. Which is a policy choice, not a physical necessity. Solar + storage, hydro, geothermal and existing nuclear can all serve the same demand if given the same lead time."
+        },
+        {
+          "if": "AI could triple electricity demand.",
+          "reply": "Even in the most pessimistic public forecasts, that pushes data centres to ~6% of global electricity, not a runaway. And \"could\" is doing a lot of work in that sentence — efficiency has consistently beaten the panic scenarios for 40 years of computing history."
+        },
+        {
+          "if": "Individuals should stop using AI to reduce their footprint.",
+          "reply": "Not really where the leverage is. Personal AI use is somewhere between negligible and rounding error compared to driving, flying, heating a home, or diet. The pressure that changes anything is on **tech companies to source clean power and publish real numbers**, not on individuals to skip a chatbot query."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": "Question 12: \"Won't we need more fossil fuels to keep up with artificial intelligence?"
+        },
+        {
+          "label": "International Energy Agency",
+          "url": "*Electricity 2024*"
+        },
+        {
+          "label": "Koomey J.",
+          "url": "Koomey's Law of computing efficiency"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "carbon-capture-will-fix-it",
       "category": "energy",
       "verdict": "mostly-false",
