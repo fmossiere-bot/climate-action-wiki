@@ -11,7 +11,6 @@ claim_id: transition-unfair-to-poor
 verdict: true-but
 topic: systemic
 ---
-
 # Myth: This is all fine for people who can afford it
 
 > [!WARNING] Verdict: Fair point, and

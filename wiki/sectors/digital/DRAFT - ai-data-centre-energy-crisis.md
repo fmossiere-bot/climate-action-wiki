@@ -8,7 +8,7 @@ tags:
   - energy
   - united-kingdom
 created: 2026-06-06
-updated: 2026-07-26
+updated: 2026-07-28
 summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055
 ---
 
@@ -99,6 +99,22 @@ The specific driver: Meta has struck deals paying utilities to bring **new natur
 Meta is not alone: **Microsoft signed a deal with Chevron** to supply gas electricity to a West Texas data centre; **Google** has been linked to similar partnerships. Natural gas has long been sold as a "bridge fuel," but methane leaks from extraction, and combustion emits nitric oxides, sulphur, mercury and particulates. The **annualised vs 24/7 hourly matching** distinction is now the real fault line in corporate clean-energy accounting — and one of the tech supermajors has decided it cannot cross that line.
 
 *Source: [Meta RE100 exit (source summary)](../../sources/meta-quits-re100-rte-2026.md); RTÉ News, 25 July 2026.*
+
+## July 2026: the chemistry of "waterless" cooling — PFAS in the pipes
+
+Datacentre cooling has been framed almost entirely as a **water-versus-heat problem**. In July 2026, a Guardian investigation opened a third dimension: **the chemistry of the alternative**.
+
+Google and others have been promoting **two-phase cooling systems** as a lower-water alternative to conventional evaporative cooling. Few users realise that these systems use a **PFAS "forever chemical" gas** as the refrigerant, run through copper tubing. The industry says it is a "closed loop" and the amount that escapes is low, but there are fugitive emissions, and the coolant must be disposed of at end of life.
+
+**Chemours** has asked the US EPA to **fast-track approval of Opteon 2P50**, a new PFAS coolant intended specifically for this use. It is the **first chemical fast-tracked under a Trump executive order** calling for expedited review of datacentre chemicals. In response, a **coalition of 17 environmental groups led by Earthjustice** filed formal comments in July 2026 asking the EPA to reject the application, alleging that Chemours used industry-friendly science, relied on a lab-rat species less affected by PFAS than humans, and omitted key toxicological data.
+
+The specific concern is not just the coolant itself but its **breakdown product, TFA (trifluoroacetic acid)**. The **European Chemical Agency classified TFA as a hazardous chemical in July 2026** — probable thyroid disruption, reduced sperm quality, liver toxicity. The US EPA still does not classify TFA as a PFAS, unlike most of the world.
+
+As **Lenny Siegel** of Chips Communities United put it: *"The datacenter industry knows it is under fire for its enormous use of water so they cast themselves as the good guys by using alternative cooling, but they're not telling [the public] that they're using hazardous chemicals. Some are toxic, some are greenhouse gases and some are both."*
+
+If two-phase cooling scales as intended, the AI buildout becomes a **drinking-water public-health story** as well as a grid, water and gas story. Earthjustice has signalled it will sue if Opteon 2P50 is approved without a proper health-risk review — potentially testing the limits of Trump's executive order.
+
+*Source: [PFAS in datacentre cooling (source summary)](../../sources/pfas-datacentre-cooling-guardian-2026.md); Guardian, Tom Perkins, 27 July 2026.*
 
 ## Connected topics
 - [IRELAND Datacentre Dilemma](../../ireland-hub/IRELAND Datacentre Dilemna.md)

@@ -4,6 +4,74 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-28 ingest | Five Hannah Ritchie myths + PFAS in datacentre cooling
+
+Six-file batch — one article (data centres + PFAS) plus five book-summary myths (all from Hannah Ritchie, *Not the End of the World*).
+
+### 1. Article — PFAS in datacentre cooling (Guardian, 27 July 2026)
+
+**Source file:** `raw/articles/US environmental groups urge EPA to reject new Pfas to cool datacenters.md`
+**Original source:** The Guardian, Tom Perkins, 27 July 2026 — https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa
+
+- Created source summary: `wiki/sources/pfas-datacentre-cooling-guardian-2026.md`
+- Updated `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` — added "The chemistry of 'waterless' cooling — PFAS in the pipes" section; bumped date to 2026-07-28
+- 17 environmental groups led by Earthjustice have asked EPA to reject Chemours' Opteon 2P50, first PFAS coolant fast-tracked under Trump's datacentre executive order
+- Two-phase cooling systems (marketed as low-water) use PFAS gas as refrigerant; TFA breakdown product classified as hazardous by ECHA July 2026 (thyroid, sperm quality, liver)
+- Adds a third dimension (chemistry) to the existing water/heat framing for data centres
+
+### 2-6. Five Hannah Ritchie myth pages
+
+All from `raw/myths/` — book-summary notes turned into Myth-template pages. No separate source summaries in `wiki/sources/` per the myth workflow.
+
+**`raw/myths/CCS-summary.md` → `wiki/myths/carbon-capture-will-fix-it.md`**
+- Verdict: mostly-false; topic: energy
+- CCS captures ~0.1% of global emissions today; optimistic 2030 scenario = 2%; realistic role narrow (cement, steel, fertiliser)
+- Track record poor: >100 of 149 projects cancelled; ~80% US CCS projects failed
+- Oxford: high-CCS pathway costs $1tn+/yr more than low-CCS
+
+**`raw/myths/clean-energy-summary.md` → `wiki/myths/not-enough-clean-energy.md`**
+- Verdict: false; topic: energy
+- Coal 1/3 efficient, gas ~50%, solar/wind waste nothing → 1 unit renewables replaces 2-3 units coal
+- EV 80% efficient vs petrol 20%; full electrification cuts total energy demand by ~40% (416 EJ → 247 EJ)
+- 92% of new global electricity demand in 2022 came from renewables
+
+**`raw/myths/climate-support-summary.md` → `wiki/myths/not-enough-public-support.md`**
+- Verdict: false; topic: systemic
+- 86% of 59,000-person 63-country survey say humans cause climate change; 89% of 130,000-person 125-country survey want more political action
+- US: 74% support joining international climate action, 71% say Americans already harmed
+- EU: 93% see it as serious problem
+- Perception gap (pluralistic ignorance): Americans guessed a third support action; real figure ~two thirds
+
+**`raw/myths/energy-transition-summary.md` → `wiki/myths/renewables-not-replacing-fossil-fuels.md`**
+- Verdict: mostly-false; topic: energy
+- Three-way split: addition (no clear real-world example), displacement (China), transition (Denmark, UK, Finland)
+- UK -50% fossil fuel electricity since 2008 peak; Denmark -80% since 2000; Finland -2/3 since 2000
+- More than half of world's countries past "peak fossil fuels" in electricity sector
+- Coal, oil, gas each expected to peak globally within ~5 years
+
+**`raw/myths/fossil-fuels-poverty-summary.md` → `wiki/myths/poor-countries-need-fossil-fuels.md`**
+- Verdict: mostly-false; topic: systemic
+- Sub-Saharan Africa (ex-South Africa): 14% of world population, 0.6% of global CO2 emissions
+- Tripling their electricity on gas would raise world emissions by only ~0.6%
+- Bottleneck is finance, not technology: solar loans cost ~12% in South Africa/India/Mexico vs ~5% in rich countries
+- Rich-country hypocrisy documented: G7 blocked African fossil fuel finance while restarting own coal; EU delayed African fertiliser support on environmental grounds while using 5-10× more per hectare
+- Namibia, Brazil, Chile, Morocco already ahead of EU/US on renewable electricity share
+
+### What was done overall
+
+- Created 1 source summary (PFAS)
+- Updated 1 wiki page (ai-data-centre-energy-crisis)
+- Created 5 new myth pages
+- Updated `wiki/index.md` — added PFAS source, expanded ai-data-centre-energy-crisis description, added 5 new Myths entries; bumped last-updated to 2026-07-28
+
+### Process notes
+
+- Second run of the raw/myths/ workflow; smooth
+- All 5 myths came from the same author (Hannah Ritchie, *Not the End of the World*), so tone and framing are consistent — "concede first, correct second" was easy to apply because Ritchie herself writes that way
+- Where Ritchie is cited for specific numbers, I noted the source in the myth-page Sources block; where the numbers ultimately trace to other bodies (IEA, IPCC, WMO, Yale Program, Nature Climate Change surveys), I named those as well
+
+---
+
 ## 2026-07-27 ingest | Myth: it's too late, we're heading for 5 or 6 degrees (first myth ingest)
 
 **Source file:** `raw/myths/Isittoolate.md`

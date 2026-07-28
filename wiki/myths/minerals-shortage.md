@@ -42,8 +42,8 @@ That is the real constraint, and it is about permitting and investment timelines
 
 ## Go deeper
 
-<!-- Yours to expand. Nothing in this section reaches the Counter Claims
-     card: the card is built only from the six sections above. -->
+Mining has social and environmental ramifications. **But let’s compare the environmental impacts of burning fossil fuels and mining renewable-energy materials.** Yes mining will be required and renewable energy is not completely clean, but it is far better than the alternative and will reduce over time. 
+
 
 ## Connected topics
 

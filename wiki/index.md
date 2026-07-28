@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-27
+Last updated: 2026-07-28
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -82,6 +82,7 @@ Summaries of every ingested source file.
 | [[nature-disclosure-frameworks-earthly-2026]] | Earthly (Jul 2026): mapping SBTi, TNFD, IFRS S2, ESRS E1-7, SBTN, ISO 14068-1, GHG Protocol, CDP requirements for nature investments (vendor piece; framework map is useful) |
 | [[geothermal-newscientist-2026]] | New Scientist (Jul 2026): three routes to global geothermal — EGS (Pohang M5.5 quake risk), AGS closed-loop (Eavor Germany, China Huaneng CO2), superhot (Iceland Deep Drilling, Quaise millimetre-wave); IEA 150× global electricity potential |
 | [[live-good-life-guimaraes-newscientist-2026]] | New Scientist (Jul 2026): Guimarães as a working example of a "consumption corridor" city — European Green Capital 2026; waste circularity 2.5× Portuguese average; –18% per-capita waste since 2018 |
+| [[pfas-datacentre-cooling-guardian-2026]] | Guardian (Jul 2026): 17 environmental groups urge US EPA to reject Chemours' Opteon 2P50 — first PFAS coolant fast-tracked under Trump's datacentre executive order; ECHA classified TFA breakdown product as hazardous |
 
 ---
 
@@ -251,7 +252,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
 | [[DRAFT - AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
-| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island, July 2026 Water UK evidence ("fatally flawed" forecasts, 125 datacentres in Affinity region), and Meta's July 2026 RE100 exit (10 gas plants for Hyperion Louisiana) |
+| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island, July 2026 Water UK evidence ("fatally flawed" forecasts, 125 datacentres in Affinity region), Meta's RE100 exit, and July 2026 PFAS "waterless" cooling controversy (Chemours Opteon 2P50, ECHA classifies TFA breakdown as hazardous) |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
@@ -501,7 +502,12 @@ Common climate myths and misleading claims, one page per claim. Also generate th
 
 | Page | Description |
 |------|-------------|
-| [[its-too-late]] | **NEW** — "It's too late, we're heading for 5 or 6 degrees, so nothing matters." Verdict: mostly false. Current policies point to 2.5-3°C; net-zero pledges deliver 1.8°C; every fraction of a degree matters |
+| [[its-too-late]] | "It's too late, we're heading for 5 or 6 degrees, so nothing matters." Verdict: mostly false. Current policies point to 2.5-3°C; net-zero pledges deliver 1.8°C; every fraction of a degree matters |
+| [[carbon-capture-will-fix-it]] | **NEW** — "We can just keep burning fossil fuels and capture the CO2." Verdict: mostly false. CCS captures ~0.1% of global emissions today; realistic role is cement/steel/fertiliser only |
+| [[not-enough-clean-energy]] | **NEW** — "There isn't enough clean energy to replace fossil fuels." Verdict: false. 1 unit of solar/wind replaces 2-3 units of coal because burning wastes so much; total energy demand falls ~40% after electrification |
+| [[not-enough-public-support]] | **NEW** — "There isn't enough public support to tackle climate change." Verdict: false. 86-89% of people worldwide want action; the silent majority thinks it's the minority (perception gap / pluralistic ignorance) |
+| [[renewables-not-replacing-fossil-fuels]] | **NEW** — "Renewables aren't replacing fossil fuels, they're just being added on top." Verdict: mostly false. UK -50% since 2008, Denmark -80% since 2000; 92% of new global electricity demand in 2022 came from renewables |
+| [[poor-countries-need-fossil-fuels]] | **NEW** — "Poor countries need fossil fuels to develop." Verdict: mostly false. Sub-Saharan Africa = 14% of population, 0.6% of emissions; the block is finance (12% vs 5% cost of capital), not technology |
 
 ---
 

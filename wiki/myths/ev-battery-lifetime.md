@@ -42,8 +42,17 @@ It does not. Packs with half their capacity left are being repurposed into grid 
 
 ## Go deeper
 
-<!-- Yours to expand. Nothing in this section reaches the Counter Claims
-     card: the card is built only from the six sections above. -->
+In fact, most manufacturers offer battery warranties of at least eight years – and EVs do not depreciate any faster than conventional cars.
+
+Still, even carmakers acknowledge that – perhaps not surprisingly – consumers remain uncertain about battery life, with Chinese-owned UK brand MG stating on its website: “Electric car battery life is one of the main factors that makes drivers reluctant to switch to an electric vehicle.”
+
+UK motoring website Autocar notes that there are many “rumours and anecdotes” circulating about EV batteries failing “after a relatively short space of time”. It points to peoples’ experience with mobile phone batteries as one reason why such ideas persist.
+
+However, Autocar goes on to say that most batteries will last the lifetime of the car. (Tesla says its batteries are “designed to outlast the vehicle”.) Autocar says:
+
+> “The more electric cars that are out there and the longer they are run for, the more evidence is produced to show that the power pack will often last the lifetime of the car.”
+
+
 
 ## Connected topics
 
