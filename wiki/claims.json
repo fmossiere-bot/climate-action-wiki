@@ -1049,6 +1049,48 @@
       "wiki": ""
     },
     {
+      "id": "renewables-need-fossil-fuels-to-build",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "we need fossil fuels to build renewable energy",
+      "heard_as": [
+        "You need oil to build solar panels",
+        "Wind turbines are made with fossil fuels",
+        "Renewables are just fossil fuels in disguise",
+        "It takes more energy to make a solar panel than it produces",
+        "Going green requires fossil fuels",
+        "Renewables can't reproduce themselves"
+      ],
+      "kernel": "Because it is technically true in the narrowest sense. Cement kilns, mining trucks and container ships still mostly run on fossil fuels, so a solar panel today does have a bit of fossil fuel embedded in it. When someone points that out and says \"so renewables aren't really clean,\" the specific fact is real. What is misleading is the conclusion drawn from it.",
+      "truth": "There is a specific measure for this: **EROI (Energy Return on Investment)** — how much energy a system gives back over its life for every unit of energy that went into building it. It captures exactly the concern the myth raises. - **Solar panels: less than one year** to pay back the energy used to build them. Then they run for **25 to 30 years**. Over their life they produce roughly **25 times** the energy it took to make them. - **Wind and nuclear: a few months** to pay back. They then run for decades. - **Below EROI of 1 = bad**: you lose energy overall. Nothing on the modern grid comes anywhere near this. - **EROI ≤ 5 is weak.** Once properly accounted for waste, **solar, wind and nuclear all score well above the 10 threshold** that most experts treat as \"good enough\" to run a modern society. The historical framing matters. **Every past energy transition used the current system to build the next one.** Timber-fired steam engines built the first coal mines. Coal-powered steel built the first oil rigs. Fossil-fuel powered manufacturing is now building the machines that replace fossil fuels. This is what transitions look like, not evidence that they cannot happen.",
+      "say_this": "Every energy transition works this way — you use the current system to build the next one. That doesn't mean you're stuck with it. Solar panels pay back the energy used to make them in less than a year, then keep running for 25 to 30 years. Wind and nuclear pay back in a few months. Yes, we currently need some fossil fuels to build renewables. It is a small, short-term energy debt with a very large payoff.",
+      "pushback": [
+        {
+          "if": "But mining and shipping are still fossil-fuel powered.",
+          "reply": "Correct, and that is where the remaining work is. Mining companies are already **electrifying drills and heavy machinery**, partly because it saves them money. Panel and turbine manufacturers are moving to renewable-powered factories, again because it saves money. That is the direction of travel. The starting position for the next generation of renewables is cleaner than for this generation."
+        },
+        {
+          "if": "OK but the EROI numbers are still lower than for oil and coal at their peaks.",
+          "reply": "They are for some historical fossil comparisons, but the \"energy cliff\" matters here. Above an EROI of about 10, extra gains barely matter for running a modern society. Solar, wind and nuclear all sit comfortably above that threshold. Chasing the highest possible EROI is not what the physics requires."
+        },
+        {
+          "if": "So we'll always need some fossil fuel input.",
+          "reply": "For a shrinking share, for a shrinking time, yes. The remaining fossil use in supply chains falls every year as manufacturing itself electrifies. Nothing about physics locks it in."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Hall C., Prieto P., King C., and others",
+          "url": "EROI research literature on solar, wind and nuclear systems"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "renewables-not-replacing-fossil-fuels",
       "category": "energy",
       "verdict": "mostly-false",
