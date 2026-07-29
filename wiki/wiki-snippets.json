@@ -1429,6 +1429,16 @@
     ]
   },
   {
+    "slug": "energy-transition-kills-jobs",
+    "filename": "myths/energy-transition-kills-jobs.md",
+    "label": "Myth: the energy transition will destroy jobs",
+    "summary": "energy jobs, 63 to 68 million energy jobs 2019 to 2023, clean energy jobs overtook fossil 2021, 72 to 82 million by 2030, US energy jobs 3.8% growth 2022, UK green jobs 4x normal rate, 32 million fossil fuel workers 0.4% population, 6 million car industry, 2.5 million oil gas, VW Mercedes Ford retraining, Ratcliffe-on-Soar just transition, wage gap fossil to renewable, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "ev-battery-lifetime",
     "filename": "myths/ev-battery-lifetime.md",
     "label": "Myth: The battery dies after a few years and costs a fortune to replace",
@@ -1563,6 +1573,76 @@
     ]
   },
   {
+    "slug": "evs-catch-fire-all-the-time",
+    "filename": "myths/evs-catch-fire-all-the-time.md",
+    "label": "Myth: electric cars catch fire all the time",
+    "summary": "EV fires, 0.004% vs 0.08% petrol, 19 times higher petrol, Norway 4 per 100000 EVs, EV FireSafe 0.0012% risk, London 2024 diesel Range Rover, lithium-ion thermal runaway, harder to extinguish, BYD Blade battery, emergency services training, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "evs-dont-work-in-cold",
+    "filename": "myths/evs-dont-work-in-cold.md",
+    "label": "Myth: electric cars don't work in cold weather",
+    "summary": "EV cold weather, 10 to 20% range drop winter, NAF 50 cars test, Tesla Model Y 11% loss, Skoda Enyaq iV80 32% loss, fast charging 37 vs 33 minutes, US 5% of trips over 50 km, Norway Sweden Denmark Finland Iceland high EV adoption, heat pumps, pre-heat battery, cold range labelling, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "evs-just-as-bad-for-climate",
+    "filename": "myths/evs-just-as-bad-for-climate.md",
+    "label": "Myth: electric cars are just as bad for the climate as petrol cars",
+    "summary": "EV carbon footprint, battery manufacturing carbon debt, lifecycle emissions, UK 66% less, Europe up to 70% less, US two thirds less, China 37 to 45% less, India nearly a third less, CATL 45% factory emissions cut, grid decarbonisation, walking cycling first, EV vs petrol whole life, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "evs-only-good-for-short-trips",
+    "filename": "myths/evs-only-good-for-short-trips.md",
+    "label": "Myth: electric cars are only good for short trips",
+    "summary": "EV range, 2010 average 80 miles, 2021 average 220 miles, US average 450 miles, top-end 520 miles Lucid Air, BMW ActiveE 94 miles, UK 20 miles a day, US 40 miles a day, motorway break every few hours, battery degradation 2% per year, range anxiety, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "evs-still-pollute",
+    "filename": "myths/evs-still-pollute.md",
+    "label": "Myth: electric cars pollute just as much as petrol cars",
+    "summary": "EV air pollution, tailpipe emissions NOx PM2.5, brake wear regenerative braking, tyre wear car weight, road dust, EVs heavier batteries, four sources car pollution, France SUV tax, brake drums capture particles, walking cycling public transport, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "evs-too-expensive",
+    "filename": "myths/evs-too-expensive.md",
+    "label": "Myth: electric cars are too expensive for the average driver",
+    "summary": "EV cost, running costs, 100 miles £6 vs £12-£18 petrol, £1000 annual saving, £10000 lifetime saving, upfront cost, price parity 2025 Citroën C4, second-hand EVs cheaper, BYD Seagull £10000, home vs public charging, £6 vs £16 vs £18, charging inequality, learning curve, tariffs on Chinese EVs, energy tax",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "evs-will-break-the-grid",
+    "filename": "myths/evs-will-break-the-grid.md",
+    "label": "Myth: electric cars will break the electricity grid",
+    "summary": "EV grid impact, 33 million UK cars, 20 miles per day average, 230 GW theoretical peak vs 60 GW actual peak, 25 to 29% peak rise if all cars electric, 40% including vans and lorries, UK 300 TWh 2005 400 TWh, smart charging, vehicle-to-grid V2G Germany Netherlands, Norway charging spread, off-peak tariffs, Texas grid Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "flying-drop-in-ocean",
     "filename": "myths/flying-drop-in-ocean.md",
     "label": "Myth: My one flight makes no difference",
@@ -1631,6 +1711,16 @@
     ]
   },
   {
+    "slug": "intermittency-storage-problem",
+    "filename": "myths/intermittency-storage-problem.md",
+    "label": "Myth: what happens when the sun doesn't shine and the wind doesn't blow?",
+    "summary": "intermittency storage, three time windows minutes hours days months, batteries 98% efficient, pumped hydro 80%, hydrogen 40-50%, heat storage, solar-wind complementarity summer winter, cross-border sharing, £3 trillion UK batteries backup vs billions hydrogen, nuclear geothermal hydro firm, Chris Goodall, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "ireland-too-small",
     "filename": "myths/ireland-too-small.md",
     "label": "Myth: Ireland is too small to make any difference",
@@ -1691,10 +1781,60 @@
     ]
   },
   {
+    "slug": "not-enough-ev-chargers",
+    "filename": "myths/not-enough-ev-chargers.md",
+    "label": "Myth: there aren't enough EV chargers",
+    "summary": "EV chargers, charger anxiety, 41% drivers want parity with petrol stations, 1 million new public chargers a year, EU charging tripled in three years, 10 EVs per public charger global average, 88 New Zealand vs 3 South Korea, charging speed matters, home charging 70% homes UK garage, 30% city EV drivers, Shell oil companies installing chargers, dense cities and rural areas, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "not-enough-public-support",
     "filename": "myths/not-enough-public-support.md",
     "label": "Myth: there isn't enough public support to tackle climate change",
     "summary": "public support climate action, pluralistic ignorance, 86% humans causing climate change, 89% want more political action, 74% US join international action, 93% EU serious problem, 62% to 97% government not doing enough, Americans underestimate support, majority illusion, climate communication, Hannah Ritchie, silent majority, doom media, solutions journalism",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "nuclear-takes-too-long-to-build",
+    "filename": "myths/nuclear-takes-too-long-to-build.md",
+    "label": "Myth: nuclear power takes too long to build to matter for the climate",
+    "summary": "nuclear build time, Hinkley Point C 14 years, Flamanville 17 years, 600 plants since 1950, 80% under 10 years, 20% under 5 years, average 6 to 8 years, China South Korea 5 to 7 years, US EU plants over 30 years old, standardised design, small modular reactors SMR, Google data centres nuclear, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "nuclear-too-dangerous",
+    "filename": "myths/nuclear-too-dangerous.md",
+    "label": "Myth: nuclear power is too dangerous",
+    "summary": "nuclear safety, deaths per TWh, coal 25 to 33 nuclear 0.1 solar wind 0.1, fossil fuels 4 to 8 million deaths per year air pollution, Chernobyl 300 to 500 deaths, Fukushima 2314 deaths mostly evacuation, Three Mile Island zero deaths, perception gap, headline events vs quiet daily harm, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "nuclear-too-expensive",
+    "filename": "myths/nuclear-too-expensive.md",
+    "label": "Myth: nuclear power is too expensive",
+    "summary": "nuclear cost, US 1960s $1000 per kW, Vogtle $6000 per kW, South Korea £2.24 per MW, US £10.23 per MW, UK £9.42 per MW, five-fold cost gap, delays labour costs 80%, regulation changes, standardised design, small modular reactors, running cost low, firm backup for wind solar, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "nuclear-waste-unsolved",
+    "filename": "myths/nuclear-waste-unsolved.md",
+    "label": "Myth: nuclear waste is an unsolved problem",
+    "summary": "nuclear waste, low intermediate high level, 96% recyclable France Japan Russia China, zero deaths from waste storage, three types of waste, deep geological storage, Finland Onkalo 430m 100000 years, US Yucca Mountain failed, coal ash more radioactive, 29000 cubic metres HLW, football pitch 5 metres high, 100000 years storage, Hannah Ritchie",
     "category": "myths",
     "tags": [
       "myth"
@@ -1772,6 +1912,36 @@
     ]
   },
   {
+    "slug": "renewables-produce-too-much-waste",
+    "filename": "myths/renewables-produce-too-much-waste.md",
+    "label": "Myth: solar panels and wind turbines create huge amounts of waste",
+    "summary": "renewable waste, coal 89 kg per MWh vs solar 2 kg vs wind 0.2 kg, 25-year household comparison, coal ash mercury arsenic lead cadmium chromium, wind blades 80-85% recyclable, solar panels lead cadmium small, non-hazardous, Siemens recyclable blades, EU landfill ban proposals, aluminium glass recycling, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "renewables-take-too-much-land",
+    "filename": "myths/renewables-take-too-much-land.md",
+    "label": "Myth: solar and wind take up too much land",
+    "summary": "renewable land use, nuclear 0.3 m2 per MWh, gas 1, rooftop solar 3, ground solar 13 to 19, coal 15, hydro 33, wind direct 0.1% visual 2-3%, US 1-6% solar 5-22% wind visual, EU 3% solar 15% wind, bioethanol 2.5% US land 10% of petrol needs, half of habitable land is farmland, rooftop first, offshore wind, community partnerships, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
+    "slug": "renewables-too-expensive",
+    "filename": "myths/renewables-too-expensive.md",
+    "label": "Myth: renewable energy is too expensive",
+    "summary": "renewable costs, solar 85% cost drop since 2010, 96% new solar wind cheaper than new coal gas, three-quarters cheaper than existing fossil plants, Australia solar batteries 30% cheaper than gas peak, India solar batteries cheaper, learning curve, $6 trillion hidden fossil fuel cost air pollution, LCOE caveat, carbon tax, cost of capital poorer countries, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
+    ]
+  },
+  {
     "slug": "transition-unfair-to-poor",
     "filename": "myths/transition-unfair-to-poor.md",
     "label": "Myth: This is all fine for people who can afford it",
@@ -1783,6 +1953,16 @@
       "key-ideas",
       "ireland",
       "finance"
+    ]
+  },
+  {
+    "slug": "wind-farms-kill-birds",
+    "filename": "myths/wind-farms-kill-birds.md",
+    "label": "Myth: wind farms kill huge numbers of birds",
+    "summary": "wind farms birds, cats 2.4 billion buildings 600 million cars 200 million wind turbines 1.2 million, 4 to 18 birds per turbine per year, 6 to 20 bats, raptors migratory routes, low wind cutoff bats 44 to 93% reduction, black paint 70% reduction Norway, GPS tracking eagle detection, RSPB own turbine, fossil fuels harm birds, Trump kill all the birds, Hannah Ritchie",
+    "category": "myths",
+    "tags": [
+      "myth"
     ]
   },
   {
