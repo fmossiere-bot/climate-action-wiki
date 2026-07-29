@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-28
+Last updated: 2026-07-29
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -509,7 +509,25 @@ Common climate myths and misleading claims, one page per claim. Also generate th
 | [[renewables-not-replacing-fossil-fuels]] | **NEW** — "Renewables aren't replacing fossil fuels, they're just being added on top." Verdict: mostly false. UK -50% since 2008, Denmark -80% since 2000; 92% of new global electricity demand in 2022 came from renewables |
 | [[poor-countries-need-fossil-fuels]] | "Poor countries need fossil fuels to develop." Verdict: mostly false. Sub-Saharan Africa = 14% of population, 0.6% of emissions; the block is finance (12% vs 5% cost of capital), not technology |
 | [[ai-needs-fossil-fuels]] | **NEW** — "AI will need so much energy we have to burn more fossil fuels." Verdict: mostly false. Data centres = 1-3% of world electricity; even under pessimistic AI scenarios ~6% by 2030; the "dash for gas" is a choice, not a physics constraint |
-| [[renewables-need-fossil-fuels-to-build]] | **NEW** — "We need fossil fuels to build renewable energy." Verdict: false. Solar payback <1 year for a 25-year life (25× net energy); wind/nuclear payback in months; every transition uses the old system to build the new |
+| [[renewables-need-fossil-fuels-to-build]] | "We need fossil fuels to build renewable energy." Verdict: false. Solar payback <1 year for a 25-year life (25× net energy); wind/nuclear payback in months; every transition uses the old system to build the new |
+| [[evs-just-as-bad-for-climate]] | **NEW** — "EVs are just as bad for the climate as petrol cars." Verdict: false. Full lifetime emissions 60-70% lower everywhere; carbon debt paid back within 15-30k miles |
+| [[evs-too-expensive]] | **NEW** — "EVs are too expensive for the average driver." Verdict: mostly false. Half the running cost of petrol; ~£1,000/yr savings; upfront gap closing (Citroën C4 at parity, BYD Seagull ~£10k) |
+| [[evs-dont-work-in-cold]] | **NEW** — "EVs don't work in cold weather." Verdict: mostly false. 10-20% range drop is real; Norway/Sweden/Finland have highest EV adoption despite winters |
+| [[evs-only-good-for-short-trips]] | **NEW** — "EVs are only good for short trips." Verdict: false. 2010 average was 80 miles; 2021 average 220 miles; top range now 520 miles |
+| [[not-enough-ev-chargers]] | **NEW** — "There aren't enough EV chargers." Verdict: mostly false. >1m new public chargers/year globally; EU network tripled in 3 years; real issue is reliability + home vs public inequality |
+| [[evs-will-break-the-grid]] | **NEW** — "EVs will break the grid." Verdict: false. National Grid: peak rises 25-29% if all UK cars electric; UK was already at that in 2005; smart charging + V2G solve it |
+| [[evs-catch-fire-all-the-time]] | **NEW** — "EVs catch fire all the time." Verdict: false. 19× less often than petrol; but harder to extinguish (needs fire-service training) |
+| [[evs-still-pollute]] | **NEW** — "EVs pollute just as much as petrol cars." Verdict: mostly false. Eliminates tailpipe NOx/PM2.5; slightly worse on tyre wear + road dust because heavier |
+| [[nuclear-too-dangerous]] | **NEW** — "Nuclear power is too dangerous." Verdict: false. <0.1 deaths/TWh vs coal 25, gas 2.8. Perception gap driven by rare dramatic accidents vs quiet fossil fuel death toll |
+| [[nuclear-waste-unsolved]] | **NEW** — "Nuclear waste is an unsolved problem." Verdict: mostly false. Zero deaths in history; 96% recyclable; Finland's Onkalo repository opening; all HLW would fit on a football pitch 5m high |
+| [[nuclear-takes-too-long-to-build]] | **NEW** — "Nuclear takes too long to build to matter." Verdict: mostly false. Global average 6-8 years; China/S. Korea 5-7 years; Hinkley Point at 14 years is a Western outlier |
+| [[nuclear-too-expensive]] | **NEW** — "Nuclear is too expensive." Verdict: mostly false. US/UK 4-5× more expensive than South Korea per MW; cost is stop-start construction, not physics |
+| [[renewables-too-expensive]] | **NEW** — "Renewable energy is too expensive." Verdict: false. Solar cost fell 85% since 2010; 96% of new solar/wind cheaper than new coal/gas; hidden fossil fuel cost ~$6tn/yr in air pollution |
+| [[renewables-take-too-much-land]] | **NEW** — "Solar and wind take up too much land." Verdict: mostly false. 0.5% of global land for all solar; wind is dual-use with farming; US bioethanol uses 2.5% of US land for 10% of petrol needs |
+| [[intermittency-storage-problem]] | **NEW** — "What happens when the sun doesn't shine?" Verdict: mostly false. Batteries for hours, hydro/hydrogen for months, cross-border sharing for the middle; UK £3tn/yr batteries-only vs billions with hydrogen |
+| [[renewables-produce-too-much-waste]] | **NEW** — "Solar and wind create huge amounts of waste." Verdict: false. Coal 89 kg/MWh vs solar 2 kg vs wind 0.2 kg. Coal ash contains mercury, arsenic, lead; blade waste is non-hazardous |
+| [[energy-transition-kills-jobs]] | **NEW** — "The energy transition will destroy jobs." Verdict: mostly false. Total energy jobs 63m→68m (2019-2023); clean overtook fossil in 2021; wage gaps and just transition need honest policy |
+| [[wind-farms-kill-birds]] | **NEW** — "Wind farms kill huge numbers of birds." Verdict: mostly false. Cats 2.4bn vs turbines 1.2m per year in US. Painting one blade black cuts deaths 70%+; low-wind cutoffs cut bat deaths 44-93% |
 
 ---
 

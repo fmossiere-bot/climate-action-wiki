@@ -4,6 +4,89 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-29 ingest | 18 Hannah Ritchie myths — EV, nuclear and renewables clusters
+
+Largest myth batch to date. All 18 from `raw/myths/`, all summarising Hannah Ritchie's *Not the End of the World*. Followed the routing workflow: read all files, produced routing report, user approved "all 18 as new pages, no merges."
+
+### Routing decisions
+
+- **18 files → 18 new myth pages, no merges, no source summaries in `wiki/sources/`** (myth workflow)
+- `EV-Grid-Charging-Summary 2.md` was a **byte-for-byte duplicate** of the original — skipped (only wrote 8 EV pages, not 9)
+- The **storage/intermittency** myth was flagged as a borderline case (partial overlap with the existing `not-enough-clean-energy` page); user chose Option A → standalone new page
+
+### EV cluster (8 pages)
+
+| Raw file | New page | Verdict | Topic |
+|---|---|---|---|
+| EV-Carbon-Footprint-Summary.md | evs-just-as-bad-for-climate.md | false | transport |
+| EV-Cost-Summary.md | evs-too-expensive.md | mostly-false | transport |
+| EV-Cold-Weather-Summary.md | evs-dont-work-in-cold.md | mostly-false | transport |
+| EV-Range-Summary.md | evs-only-good-for-short-trips.md | false | transport |
+| EV-Charging-Points-Summary.md | not-enough-ev-chargers.md | mostly-false | transport |
+| EV-Grid-Charging-Summary.md | evs-will-break-the-grid.md | false | transport |
+| EV-Fires-Summary.md | evs-catch-fire-all-the-time.md | false | transport |
+| EV-Air-Pollution-Summary.md | evs-still-pollute.md | mostly-false | transport |
+
+Key numbers: EV lifecycle emissions 66-70% lower (UK/EU), still 37-45% lower in coal-heavy China; 100 miles ~£6 (home) vs £12-18 petrol; NAF winter test 19% avg range drop, Tesla 11% best, Skoda 32% worst; Norwegian fire data 4/100,000 EVs/yr, petrol 19× higher; National Grid 25-29% peak rise if all UK cars electric.
+
+### Nuclear cluster (4 pages)
+
+| Raw file | New page | Verdict | Topic |
+|---|---|---|---|
+| Nuclear-Power-Safety-Summary.md | nuclear-too-dangerous.md | false | energy |
+| Nuclear-Power-Waste-Summary.md | nuclear-waste-unsolved.md | mostly-false | energy |
+| Nuclear-Power-Build-Time-Summary.md | nuclear-takes-too-long-to-build.md | mostly-false | energy |
+| Nuclear-Power-Cost-Summary.md | nuclear-too-expensive.md | mostly-false | energy |
+
+Key numbers: nuclear <0.1 deaths/TWh vs coal 25, gas 2.8, brown coal 33; Fukushima ~2,314 deaths (mostly evacuation-related); Chernobyl ~300-500 confirmed; global average 6-8 years to build; South Korea nuclear at £2.24m/MW vs US £10.23m/MW; Finland's Onkalo repository opening (100,000-year design life).
+
+### Renewables + jobs + wildlife cluster (6 pages)
+
+| Raw file | New page | Verdict | Topic |
+|---|---|---|---|
+| renewable-energy-costs-summary.md | renewables-too-expensive.md | false | energy |
+| renewable-energy-land-use-summary.md | renewables-take-too-much-land.md | mostly-false | energy |
+| renewable-energy-storage-summary.md | intermittency-storage-problem.md | mostly-false | energy |
+| renewable-energy-waste-summary.md | renewables-produce-too-much-waste.md | false | energy |
+| energy-jobs-transition-summary.md | energy-transition-kills-jobs.md | mostly-false | systemic |
+| wind-farms-and-birds-summary.md | wind-farms-kill-birds.md | mostly-false | energy |
+
+Key numbers: solar cost down 85% since 2010; 96% of new solar/wind cheaper than new coal/gas; ~$6tn/yr hidden air-pollution cost of fossil fuels; solar at 0.5% of global land; three storage windows (batteries/hydro/hydrogen); Chris Goodall £3tn/yr batteries-only vs billions with hydrogen; coal 89 kg waste/MWh vs solar 2, wind 0.2; 68m global energy jobs 2023 up from 63m in 2019; cats kill 2.4bn US birds/yr vs turbines 1.2m; painting one blade black cut deaths 70%+ (Norway trial).
+
+### Files created
+
+- 18 new pages in `wiki/myths/`
+- 0 source summaries (myth workflow)
+- 0 pages updated elsewhere
+- `wiki/index.md` — added all 18 rows to the Myths section; date bumped to 2026-07-29
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+Each cluster is now heavily cross-linked internally via Connected topics. Notable inter-cluster links:
+- EV pages link to Smaller EVs, CARS Life Cycle, EV Progress in the main wiki
+- Nuclear pages link to each other and to `intermittency-storage-problem` (firm backup argument)
+- Renewables pages cross-link to `poor-countries-need-fossil-fuels` (cost of capital), `bio-based-resins-composites` (blade recycling), `solar-on-peatland`, `Taiwan offshore wind reef fish` source, and the existing `not-enough-clean-energy` and `renewables-not-replacing-fossil-fuels` myths
+
+### Process note
+
+Routing pass before writing was worth it. All 18 files turned out to be genuinely distinct claims — no merges needed — but confirming that up front (with the user's explicit approval on the storage/intermittency borderline case) meant no rework. Storage/intermittency page ended up with 3-time-windows framing, Chris Goodall's £3tn number, and cross-links to nuclear and V2G, which it wouldn't have got as a "Go deeper" append.
+
+### Overall Myths section state
+
+Wiki now has **27 myth pages**. Cluster sizes:
+- Framing / systemic (5): its-too-late, not-enough-public-support, poor-countries-need-fossil-fuels, energy-transition-kills-jobs, ai-needs-fossil-fuels
+- Renewables / energy transition (7): not-enough-clean-energy, renewables-not-replacing-fossil-fuels, renewables-need-fossil-fuels-to-build, renewables-too-expensive, renewables-take-too-much-land, intermittency-storage-problem, renewables-produce-too-much-waste
+- CCS / carbon capture (1): carbon-capture-will-fix-it
+- EVs (8): evs-just-as-bad-for-climate, evs-too-expensive, evs-dont-work-in-cold, evs-only-good-for-short-trips, not-enough-ev-chargers, evs-will-break-the-grid, evs-catch-fire-all-the-time, evs-still-pollute
+- Nuclear (4): nuclear-too-dangerous, nuclear-waste-unsolved, nuclear-takes-too-long-to-build, nuclear-too-expensive
+- Wildlife (1): wind-farms-kill-birds
+- (Renewables-need-fossil-fuels-to-build already listed above under renewables)
+
+Ritchie book has been the workhorse throughout. Filenames suggest more chapters ("Question 12", "Question 16"…) — book has ~30 questions, so this pipeline still has runway.
+
+---
+
 ## 2026-07-28 ingest (batch 2) | Two more Ritchie myths — AI energy demand + EROI
 
 Second Ritchie batch of the day. Two new myth pages from `raw/myths/`.
