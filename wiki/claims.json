@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
   "verdicts": {
     "false": {
@@ -236,6 +236,48 @@
         {
           "label": "WRI, ocean warming (2026)",
           "url": "https://www.wri.org/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "energy-transition-kills-jobs",
+      "category": "systemic",
+      "verdict": "mostly-false",
+      "claim": "the energy transition will destroy jobs",
+      "heard_as": [
+        "Green jobs won't replace real jobs",
+        "The transition will hollow out coal towns",
+        "Oil workers will be thrown on the scrap heap",
+        "You can't retrain a coal miner as a solar installer",
+        "Clean energy pays less than fossil fuels",
+        "Climate policy is a war on workers"
+      ],
+      "kernel": "Because in specific places and industries it will hurt real people. Coal towns, oil towns, engineering communities built around a refinery — these places do face job losses, and pretending otherwise is dishonest. Anyone who lives in one of these communities and reads a headline about a coal plant closure has good reason to worry. The mistake is generalising that specific pain into \"the whole transition destroys jobs.\"",
+      "truth": "**Total energy jobs are rising, not falling:** - **63 million in 2019** → **68 million in 2023** - Could reach **72 million by 2030**, or **82 million** on a stronger climate pathway - **Clean energy jobs overtook fossil fuel jobs in 2021** because far more money is now flowing into clean energy **It's happening in rich countries too:** - **US** energy jobs grew **3.8% in 2022** — faster than the economy as a whole. Clean energy jobs specifically grew **3.9%**. - **UK** \"green jobs\" growing at **4× the normal market rate** **Most clean energy jobs can't be exported:** - Installing solar panels, fitting heat pumps, building EV charging points, insulating homes — these have to happen locally, on the ground. Which makes them politically resilient. **The specific job losses (Ritchie's numbers):** - **~6 million workers** could lose jobs in the traditional car industry (petrol/diesel) by 2030. Roughly **two thirds could move** to related EV or component roles with retraining. VW has pledged to train 22,000, Mercedes has invested >€1.3bn, Ford US has put in >$11bn. - **~2.5 million** could lose oil and gas jobs. About **three quarters could move** into other parts of the energy industry, with proper retraining investment. - **32 million people** globally work in fossil fuels — about **0.4% of world population**. Meanwhile, climate change affects the other 99.6%.",
+      "say_this": "Jobs in fossil fuels are shrinking, but clean energy jobs are already growing faster. The total number of energy jobs went up from 63 million in 2019 to 68 million in 2023, and clean energy overtook fossil fuels for the first time in 2021. The real problem isn't the total — it's making sure the workers whose jobs shrink get retraining and support, and paid honestly about wage gaps.",
+      "pushback": [
+        {
+          "if": "But real people in real towns are going to lose their livelihoods.",
+          "reply": "Yes. And that is exactly why a **just transition** is not optional. The UK's last coal power station, **Ratcliffe-on-Soar (closed 2023)**, is a working example: most of several hundred workers were moved into other jobs at the company or retrained for partners, with only a handful of forced job losses. It worked because the plan started years before closure — not months."
+        },
+        {
+          "if": "Wind turbine installers don't earn what oil workers earn.",
+          "reply": "True, and it needs to be said honestly. A wind installer typically earns less than an offshore oil worker. Some fossil fuel workers will end up in cleaner jobs at lower pay. Pretending otherwise makes governments look dishonest and workers rightly angry. The fix is direct: **pay clean-energy jobs properly**, and top up transition wages where necessary."
+        },
+        {
+          "if": "Governments will leave workers stranded when the plant closes.",
+          "reply": "They will if they wait until closure is a few months away. The Ratcliffe example shows what works: start planning years ahead, involve the workforce, fund retraining explicitly. This is now a solved policy problem where the political will exists."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "World Energy Employment 2023"
         }
       ],
       "wiki": ""
@@ -528,6 +570,316 @@
       "wiki": ""
     },
     {
+      "id": "evs-catch-fire-all-the-time",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "electric cars catch fire all the time",
+      "heard_as": [
+        "EVs spontaneously combust",
+        "Lithium batteries are ticking time bombs",
+        "You can't park an EV in an underground garage",
+        "One EV fire could take down a whole car park",
+        "Fire brigades can't put EV fires out",
+        "Electric cars are a fire hazard"
+      ],
+      "kernel": "Because EV fires make dramatic headlines. A lithium-ion battery fire burns hot, is hard to extinguish, and produces striking video. Any single EV fire tends to generate coverage that a petrol car fire never would. Repeat that a few times and the perception hardens: \"EVs are catching fire.\" When a big fire in the London airport car park in 2024 was reported as an EV fire, that stuck — even after it turned out to have started in a **diesel Range Rover**.",
+      "truth": "Data from multiple sources says EVs catch fire less often than petrol cars: - **Global data 2010-2020**: about **0.004% of EVs and plug-in hybrids** caught fire vs **0.08% of petrol cars** — **petrol is 19 times higher** - **Norway** (which has more EVs per capita than anywhere): fewer fires per 100,000 EVs than petrol, diesel or other cars, every year from 2018 to 2022. About **4 fires per 100,000 EVs** on the road — extremely rare - **EV FireSafe**, an Australian Department of Defence-backed group, calculates the risk that a given EV catches fire at **0.0012%**",
+      "say_this": "EVs actually catch fire much less often than petrol cars — about 19 times less often based on global data. What is true is that when they do catch fire, they are harder to put out. The fear is not proportionate to the risk. The fix is better battery safety and better training for fire services, not going back to petrol.",
+      "pushback": [
+        {
+          "if": "But when they burn, they burn hotter and longer.",
+          "reply": "Correct, and this is the genuine safety issue. Lithium-ion batteries can undergo **thermal runaway** if they short-circuit in a crash — the reaction is self-sustaining and hard to stop. Fires burn hotter than petrol fires and take much longer to put out. The fire brigade needs different techniques and training."
+        },
+        {
+          "if": "So they're more dangerous when they do happen.",
+          "reply": "More difficult to fight, yes. More likely to happen — no, much less likely. The two things are different. A rare fire that is hard to put out can still cause less overall harm than a common fire that is easy to put out."
+        },
+        {
+          "if": "The EV fleet is newer, so the comparison isn't fair.",
+          "reply": "Partly true. EVs on the road are younger on average than petrol cars, and older cars catch fire more often through wear and tear. That may explain some of the gap. But even accounting for age, EVs come out with a lower fire rate."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "EV FireSafe",
+          "url": "Australian government-backed EV fire research"
+        },
+        {
+          "label": "Norwegian Directorate for Civil Protection",
+          "url": "vehicle fire statistics 2018-2022"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "evs-dont-work-in-cold",
+      "category": "transport",
+      "verdict": "mostly-false",
+      "claim": "electric cars don't work in cold weather",
+      "heard_as": [
+        "EVs die in the cold",
+        "Batteries don't work in winter",
+        "You can't drive an EV in Canada",
+        "The range collapses when it's freezing",
+        "EVs are only for warm climates",
+        "Norwegian winters kill EVs"
+      ],
+      "kernel": "Because the range drop is real. If you compare summer and winter numbers for the same car, the winter figure is genuinely lower. Anyone with an EV who has driven it through a proper winter can confirm this. So this myth doesn't come from nowhere — the honest answer is \"yes, a bit.\"",
+      "truth": "The most detailed study on this comes from the **Norwegian Automobile Federation (NAF)**, which tested **50 different EV models** in Norway. Same route summer and winter, temperatures 0°C to -10°C: - **Average range drop: 19%.** A car with 450 km advertised range managed about **364 km** in winter. - **Tesla Model Y (best performer): 11% loss** (280 → 226 km) - **Skoda Enyaq iV80 (worst performer): 32% loss** (360 → 245 km) - Similar studies elsewhere find **10 to 20% drops**, so the pattern holds up - **Fast charging is also slower**: 37 minutes average in winter vs 33 in summer — about 10% slower. Some cars (BMW iX) saw charging time jump by a third. For most drivers this rarely matters. In the **US, only about 5% of journeys are longer than 50 km**. Even the worst-affected EV with the biggest range drop still comfortably handles a 100 km round trip in the cold. The real-world confirmation: **Norway, Sweden, Denmark, Finland and Iceland** — five of the coldest countries in the world — have some of the highest EV adoption rates on Earth.",
+      "say_this": "EVs do lose range in the cold — typically 10 to 20% — and charging is a bit slower. That is real. But for daily driving (well under 100 miles), it barely matters. And the coldest countries in the world, Norway, Sweden, Finland, all have the highest EV adoption rates. Cold weather is a limitation to plan around, not a reason not to switch.",
+      "pushback": [
+        {
+          "if": "So EVs lose 20% of their range. That's a lot.",
+          "reply": "For a 400 km EV, a 20% drop is still 320 km. Very few people drive that far on a normal day. The situations where it actually matters are long winter road trips, and even those are manageable with one extra charge stop."
+        },
+        {
+          "if": "Nobody wants to be stuck at a charger in the freezing cold.",
+          "reply": "Real concern. Fixes exist: many new EVs have **heat pumps** to warm cabin and battery more efficiently, and **battery pre-heating** before you arrive at the charger cuts charging time back closer to summer levels."
+        },
+        {
+          "if": "What about very extreme cold, like -30°C?",
+          "reply": "Range drops further and public infrastructure gets patchy. The Norwegian tests don't cover Arctic extremes. For -30°C driving, a hybrid or petrol backup might genuinely make more sense — but that is a tiny share of global driving."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Norwegian Automobile Federation (NAF)",
+          "url": "50-car winter range test"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "evs-just-as-bad-for-climate",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "electric cars are just as bad for the climate as petrol cars",
+      "heard_as": [
+        "EVs aren't really green because of the battery",
+        "Electric cars have a bigger carbon footprint than petrol cars",
+        "The mining and manufacturing cancel out any climate benefit",
+        "EVs just move the emissions upstream",
+        "Coal-powered EVs are pointless",
+        "The lifecycle emissions of an EV are just as bad"
+      ],
+      "kernel": "Because the manufacturing footprint is real and non-trivial. Building the battery uses a lot of energy, and a lot of that energy today still comes from fossil fuels. If you stop the analysis at the factory gate, an EV really does start worse than a petrol car. The mistake is stopping the analysis there instead of looking at the whole 15-year life on the road.",
+      "truth": "Full lifetime emissions (manufacturing + running) show EVs well ahead everywhere: - **UK**: an EV emits **66% less carbon** than a petrol car over its life. By 2030, this rises to **76% less**. - **Europe**: up to **70% lower** lifetime emissions - **US**: about **two thirds lower** - **China** (heavily coal-based grid): still **37 to 45% lower** - **India** (also coal-heavy): **nearly a third lower** These numbers already include emissions from making the car and the battery. EVs will keep getting cleaner as grids decarbonise. Manufacturing is improving fast too: **CATL, the world's largest battery producer, cut its own manufacturing emissions by 45% in a single year** by switching factories to more clean electricity.",
+      "say_this": "Making an electric car does create more carbon upfront than making a petrol one, mostly because of the battery. But you pay that \"carbon debt\" back quickly once you start driving, and then the EV keeps being much cleaner for the rest of its life. Over the whole lifetime, an EV is 60 to 70% cleaner than a petrol equivalent almost everywhere, and it keeps improving as electricity grids get greener.",
+      "pushback": [
+        {
+          "if": "But the battery is a huge carbon debt.",
+          "reply": "It is, but you pay it back within about the first 15,000-30,000 miles depending on the grid mix. After that, every mile is far cleaner than a petrol equivalent. Over 150,000 miles the debt is a rounding error compared to the tailpipe emissions you avoid."
+        },
+        {
+          "if": "What about all the mining?",
+          "reply": "Mining is a real problem and needs cleaning up. But a petrol car needs mining plus **continuously extracting and refining and burning oil for 15 years**. The comparison is not \"clean vs dirty\" — it is \"one-off battery mining vs one-off battery mining plus a lifetime of fossil combustion.\""
+        },
+        {
+          "if": "OK but for someone who barely drives, it's not worth it.",
+          "reply": "Fair. If you barely drive, the climate case for replacing a working petrol car is weak because the manufacturing debt takes a long time to pay off. The best answer for low-mileage drivers is usually to keep the existing car running longer, then go electric when it needs replacing."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Transport & Environment",
+          "url": "battery electric vehicles lifecycle emissions modelling"
+        },
+        {
+          "label": "IEA",
+          "url": "Global EV Outlook 2024"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "evs-only-good-for-short-trips",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "electric cars are only good for short trips",
+      "heard_as": [
+        "You can't take an EV on a road trip",
+        "Range anxiety is a real thing",
+        "EVs are city cars, not proper cars",
+        "You'd never make it to Scotland in one",
+        "EVs are only good for the school run",
+        "The battery dies too fast"
+      ],
+      "kernel": "Because the myth is a decade behind the technology. Early EVs really were only good for short trips — the first Nissan Leaf, the BMW ActiveE, all managed less than 100 miles per charge. That was the honest state of the art around 2010-2012. People whose reference point is that era, or who haven't looked closely since, are working from an accurate memory of a very different market.",
+      "truth": "Range has grown massively in a decade: - **2010 average EV range: ~80 miles** on a single charge - **2021 average: ~220 miles** — nearly triple - **US average (bigger cars are popular): ~450 miles** - Plenty of mainstream models now offer **280+ miles** - Top of the market: in 2011 the longest-range EV (BMW ActiveE) managed **94 miles**. By 2022, the record was **520 miles** (Lucid Air Dream R). The record will keep moving. Daily driving reality: - **Average UK driver: 20 miles/day** (even less if two-car household) - **Average US driver: ~40 miles/day** Both fit comfortably within even the cheapest, lowest-range new EVs. Long trips: on a motorway at the speed limit, you'd cover about **280 miles in 4 hours**. Drivers are advised to take a **15-minute break every few hours anyway**. That lines up with when the EV needs a top-up. Battery degradation is often exaggerated: studies across tens of thousands of vehicles find batteries lose about **2% capacity per year**, much slower than most people assume.",
+      "say_this": "That was true in 2010, when the average EV had 80 miles of range. It isn't now. Most new EVs comfortably do 200+ miles on a charge, plenty do 400+, and the top of the range is over 500. The average UK driver does 20 miles a day, the average American 40. For daily driving, range is a solved problem. The only real issue left is charging reliability on the occasional long trip.",
+      "pushback": [
+        {
+          "if": "But I do a 500-mile road trip once a year.",
+          "reply": "Two options. Either buy a longer-range EV (they exist), or take one 20-minute charging stop mid-way (which you would take as a break anyway). If it's truly a one-off, some drivers rent a petrol car for that specific trip. Over 15 years of ownership, one long trip a year is not enough to justify choosing a worse daily car."
+        },
+        {
+          "if": "What if I can't find a charger?",
+          "reply": "That's a real concern — but it's a **charging infrastructure** problem, not an EV problem. If your petrol car ran out of fuel because there were no petrol stations, you'd blame the fuel network, not the car. The fix is more reliable public chargers on the routes people drive, not a different car."
+        },
+        {
+          "if": "Batteries degrade over time so range gets worse.",
+          "reply": "By about 2% a year, on average. Over 10 years that's 20% off the starting range. A 300-mile EV becomes a 240-mile EV. Still way beyond the daily need for almost everyone."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "Global EV Outlook 2024"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "evs-still-pollute",
+      "category": "transport",
+      "verdict": "mostly-false",
+      "claim": "electric cars pollute just as much as petrol cars",
+      "heard_as": [
+        "EVs still pollute",
+        "Tyre particles are just as bad as tailpipe emissions",
+        "Electric cars aren't zero-emission",
+        "PM2.5 from EVs is worse because they're heavier",
+        "You're just moving the pollution around",
+        "There's no such thing as a clean car"
+      ],
+      "kernel": "Because \"zero emissions\" is a claim EV marketing often makes, and it's technically wrong. Cars pollute in four ways: exhaust, brake wear, tyre wear and road dust. EVs only get rid of one of them. Anyone pointing out that tyre and road particles still exist is telling the truth. The mistake is treating \"not zero\" as \"same as petrol.\"",
+      "truth": "The four sources of air pollution from any car: 1. **Tailpipe emissions** — nitrogen oxides (NOx) and PM2.5. Both terrible for respiratory health, both eliminated by EVs. 2. **Brake wear** — friction between pads and discs. EVs use **regenerative braking**, so brakes engage far less often. Much reduced, not eliminated. 3. **Tyre wear** — friction with the road. About the same or slightly worse in EVs, because they're heavier. 4. **Road dust** — kicked up by moving vehicles, also affected by weight. Slightly worse in EVs. Overall verdict: EVs cause slightly higher tyre and road dust pollution, but this is heavily outweighed by removing exhaust emissions and cutting brake wear. Per source-by-source comparison, EVs come out cleaner overall. The remaining problem is real, though — **PM2.5 from non-exhaust sources** still causes real health harm, especially in dense urban areas.",
+      "say_this": "EVs still cause some pollution — from tyre wear, brake wear and road dust — and being heavier, they're slightly worse on those than petrol cars. But they completely eliminate exhaust pollution, which is by far the biggest and worst source. Overall, they are much better for air quality, not the same. The fix for the rest is making cars lighter and smaller.",
+      "pushback": [
+        {
+          "if": "So EVs still cause air pollution.",
+          "reply": "Yes, some. But the pollution they eliminate — NOx and exhaust PM2.5 — is directly linked to millions of deaths per year worldwide. The pollution they slightly worsen (tyre and road dust) is a smaller problem. Trading one for the other is a big win."
+        },
+        {
+          "if": "They're heavier because of the battery, so tyre wear is worse.",
+          "reply": "True. This is one of the strongest arguments for [smaller EVs](../sectors/transport/smaller-evs-better.md) — a smaller EV with a smaller battery is lighter, cheaper, safer for pedestrians and produces less non-exhaust pollution. Both petrol and electric cars have grown heavier over the past decade, with the \"SUV effect\" pushing weight up across the board. France has already introduced a weight tax; that logic should apply to EVs too, not just to petrol SUVs."
+        },
+        {
+          "if": "So EVs aren't really clean.",
+          "reply": "The right framing is \"much cleaner than petrol on the biggest source, slightly worse on the smaller sources.\" Not \"clean\" in the absolute sense. That's why walking, cycling and public transport still beat any car."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "WHO",
+          "url": "Ambient air pollution health effects"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "evs-too-expensive",
+      "category": "transport",
+      "verdict": "mostly-false",
+      "claim": "electric cars are too expensive for the average driver",
+      "heard_as": [
+        "Only rich people can afford electric cars",
+        "EVs are a luxury",
+        "You need to be rich to go green",
+        "The savings only work if you own a house with a driveway",
+        "Second-hand EVs are just as expensive as new petrol",
+        "Once you factor in the charger install, they're not cheaper"
+      ],
+      "kernel": "Because the number on the showroom windscreen is genuinely higher. If you're comparing two cars in a dealership today, the EV is usually more expensive to buy. Most people don't think in \"total cost of ownership\" — they think in monthly payments and the upfront cheque. And for households on tight budgets, that upfront gap is real.",
+      "truth": "**Running costs are already much cheaper:** - **100 miles in an EV: about £6.** In a petrol car: **£12 to £18** — roughly half or less. - Average UK driver could save up to **£1,000 a year**, over **£10,000 across the life of the car**. - A Gulf Oil study across **33 countries** found EVs cheaper to run than petrol in almost every country surveyed. - EVs have **far fewer moving parts** — no oil changes, no exhaust, no catalytic converter, less brake wear — so maintenance is lower too. **Upfront costs are falling:** - By **2025**, price parity had spread to many mainstream models. The electric Citroën C4 matched the petrol version's price. - **Second-hand** EV versions of best-sellers (BMW, Peugeot, Vauxhall, Hyundai, Tesla) are now often **cheaper than the petrol equivalents**. - **BYD** sells the Seagull in Europe for around **£10,000** with ~250 miles of range, forcing VW, Renault and Stellantis to launch sub-€25,000 EVs. **But charging cost depends on where you charge:** - **Home charging: ~£6** per 100 miles - **Public charger: ~£16** per 100 miles - **Rapid charger: ~£18** per 100 miles (similar to petrol)",
+      "say_this": "The sticker price of a new EV is still higher than a petrol equivalent, but the gap is closing fast, and running costs are already much lower. Charging at home costs about half what petrol costs, saving the average UK driver around £1,000 a year and over £10,000 across the life of the car. The remaining problem is not \"EVs are expensive,\" it is \"cheap EV charging isn't available to everyone.\"",
+      "pushback": [
+        {
+          "if": "For someone in a flat with no driveway, EVs aren't cheaper.",
+          "reply": "Correct, and this is the real inequality problem inside the EV story. Somebody who can only charge at rapid public chargers pays roughly what a petrol driver pays. Fixing this needs more affordable public and street-side charging, not more EVs."
+        },
+        {
+          "if": "But I can't afford the upfront £30,000.",
+          "reply": "Fair. New EVs are still a stretch. **Used EVs** are now often cheaper than used petrol versions of the same model, and that's where most of the affordable switching will happen in the next few years."
+        },
+        {
+          "if": "Aren't Chinese EVs being blocked by tariffs?",
+          "reply": "Yes, and this is a policy choice that hurts consumers. Some governments have put tariffs on affordable Chinese EVs to protect their own industries. This makes cars more expensive for ordinary buyers."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Gulf Oil",
+          "url": "33-country running-cost comparison"
+        },
+        {
+          "label": "BloombergNEF",
+          "url": "EV cost parity forecasts"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "evs-will-break-the-grid",
+      "category": "transport",
+      "verdict": "false",
+      "claim": "electric cars will break the electricity grid",
+      "heard_as": [
+        "The grid can't handle EVs",
+        "We don't have enough electricity for EVs",
+        "EVs will cause blackouts",
+        "Charging will overload the system",
+        "The grid isn't ready",
+        "We need to build more power plants for EVs"
+      ],
+      "kernel": "Because the numbers, if you multiply them naïvely, are terrifying. If every UK driver plugged in at 6:30pm and drew maximum power, peak demand from cars alone would be about **230 GW** — nearly four times the UK's current 60 GW peak. Headlines love this comparison. It just isn't how charging actually works.",
+      "truth": "Real electricity demand from EVs is much smaller because most cars sit parked most of the time and can charge whenever suits the grid: - **33 million cars** in the UK; average driver does **~20 miles a day** - Most drivers wouldn't need to charge every day — **once a week is often enough** - National Grid estimate: if **all UK cars went electric**, peak demand would rise by **25 to 29%** - All UK **cars, vans and lorries** electric: peak would rise about **40%** - Total annual generation would go from ~300 TWh to about 370 TWh (cars only) or 410 TWh (with vans/lorries) - **The UK was already generating 400 TWh in 2005** — more than would be needed even with every car electric today",
+      "say_this": "The scary maths only works if you assume every EV charges at the exact same moment, which nobody does. Even if every UK car went electric, the National Grid estimates peak demand would rise about 25 to 29%. That's manageable. With smart charging, EVs can actually help the grid — charging when power is cheap and clean, and even feeding it back when demand spikes.",
+      "pushback": [
+        {
+          "if": "But everyone will charge at 6pm when they get home.",
+          "reply": "Some will, and that would be a problem — which is why smart charging and off-peak tariffs exist. Time-of-use pricing shifts most charging to overnight (or midday for solar owners). Norway is already managing this well, spreading charging across morning, evening and overnight."
+        },
+        {
+          "if": "The grid can't handle a 30% peak rise.",
+          "reply": "Grid capacity grows over time as generation and transmission expand. The UK's peak was **already higher in 2005** than it will be with every car electric today. What made it fall since 2005 was industrial efficiency and appliance efficiency. EVs will lift it back, gradually, in line with grid build-out."
+        },
+        {
+          "if": "What about extreme weather events, like Texas in winter?",
+          "reply": "The Texas grid failed because it was under-invested, not because of EVs. But it points to a real opportunity: **vehicle-to-grid (V2G)** turns cars into a backup source for the grid, exactly for events like that. Germany and the Netherlands are already piloting V2G."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "UK National Grid",
+          "url": "Future Energy Scenarios"
+        },
+        {
+          "label": "IEA",
+          "url": "Global EV Outlook 2024"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "flying-drop-in-ocean",
       "category": "transport",
       "verdict": "false",
@@ -670,6 +1022,49 @@
         {
           "label": "New Scientist, wealthy environmentalists",
           "url": "https://www.newscientist.com/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "intermittency-storage-problem",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "what happens when the sun doesn't shine and the wind doesn't blow?",
+      "heard_as": [
+        "What about when the sun doesn't shine?",
+        "Renewables are intermittent",
+        "You need 100% backup",
+        "The grid will fail without fossil fuels",
+        "Batteries can't store enough",
+        "Renewables are only 30% of the time",
+        "We can't rely on the weather"
+      ],
+      "kernel": "Because solar and wind really are variable, and if you assume nothing changes about the rest of the grid, \"the lights would go out\" is the natural conclusion. It's also a favourite argument of fossil fuel commentators, so it gets repeated often. What is usually left out is that grid engineers have been thinking about this since long before renewables existed — the grid always had to match variable demand to variable supply.",
+      "truth": "There are three time windows to solve, and each has different answers: **1. Minutes to hours (the easy part)** - **Lithium-ion batteries** return about **98% of the electricity** you put in - Very efficient, cheap enough for daily cycles, but not economical for months of storage - Already deployed at grid scale in Australia, California, Texas and elsewhere **2. Hours to days** - **Solar and wind naturally complement each other**: solar peaks in daytime and summer, wind is often stronger at night and in winter - Adding **hydropower, geothermal and nuclear** helps - **Cross-border sharing**: it's always sunny or windy somewhere. Sunny Spain can send power to a cloudy UK, the UK can return the favour when it's windy - Modern high-voltage DC links make this cheap and efficient **3. Weeks to months (the hard part)** Not yet fully solved, but three plausible answers: - **Pumped hydro**: water pumped uphill when power is plentiful, released to generate later. ~80% round-trip efficient. Cheap but geographically constrained. - **Heat storage**: electricity stored as heat in water, rock, sand or molten salt. Useful for industrial heat customers (steel, cement, glass). - **Hydrogen**: electricity makes hydrogen, hydrogen makes electricity later. Only **40-50% efficient** end-to-end — you throw away roughly half the power. But it's storable at scale. **Chris Goodall's cost comparison for two months of UK winter backup:** - Using **batteries alone**: ~**£3 trillion per year** — more than the UK's entire GDP - Using **hydrogen**: billions to tens of billions per year — expensive but manageable Pick the right tool for the timescale. Batteries for short gaps, hydrogen or hydro for long ones. Don't try to use batteries for months of backup.",
+      "say_this": "This is engineers' oldest question and they've been planning for it from day one. Solar and wind cover each other most of the time — solar peaks in summer and daytime, wind in winter and at night. Batteries cover the minutes-to-hours gap. Cross-border sharing, hydro, geothermal and existing nuclear cover the harder day-to-days. Weeks-to-months is genuinely still being worked out, but hydrogen and heat storage look like the answers.",
+      "pushback": [
+        {
+          "if": "So it's not solved.",
+          "reply": "Short-term is solved. Long-term is being solved — hydrogen and heat storage are demonstrably possible, they just need scaling. The gap in the plan is not \"we don't know how\", it's \"we haven't built it at scale yet.\" Which is where every energy technology starts."
+        },
+        {
+          "if": "What if we get a really bad dunkelflaute?",
+          "reply": "*Dunkelflaute* — a German term for weeks of low sun and low wind, common in northern European winters — is the specific edge case. It's exactly why hydrogen, biomass, nuclear or gas-with-CCS backup make sense in high-latitude countries. It's a real engineering problem with real solutions. It's not the whole grid, it's the last 5-10%."
+        },
+        {
+          "if": "You still need gas as backup for renewable systems, so what's the point?",
+          "reply": "Some gas as **rare, occasional backup** is much better than gas as **primary generation**. If gas plants only run for 100 hours a year in an emergency instead of 8,760 hours as baseload, emissions fall by orders of magnitude even before the gas plants themselves are replaced with cleaner firm sources."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Chris Goodall",
+          "url": "UK long-term storage cost analysis"
         }
       ],
       "wiki": ""
@@ -859,6 +1254,49 @@
       "wiki": ""
     },
     {
+      "id": "not-enough-ev-chargers",
+      "category": "transport",
+      "verdict": "mostly-false",
+      "claim": "there aren't enough EV chargers",
+      "heard_as": [
+        "There are no chargers where I live",
+        "I can never find a working charger",
+        "Charging is a nightmare",
+        "The infrastructure isn't there",
+        "It's not built out enough yet",
+        "You can't rely on public chargers",
+        "Rural areas are being left behind"
+      ],
+      "kernel": "Because in a lot of specific places it is true. If you live in a city apartment with no off-street parking and the nearest public charger is a mile away, is often broken, or is charging petrol prices, \"there aren't enough chargers\" is not paranoia. Surveys of over 31,000 EV drivers across 15 countries keep finding charger availability as their top concern, and **41% of would-be buyers say they'd only switch if chargers were as easy to find as petrol stations**.",
+      "truth": "- **Over a million public charging points** are being installed globally every year - **EU charging network tripled in three years** and is ahead of its own targets - Global average in 2023: **10 EVs per public charger** — but that number hides huge variation: - **New Zealand: 88 EVs per charger** (thin infrastructure) - **South Korea: 3 EVs per charger** (dense infrastructure) - The EV-per-charger metric misses two things: **how fast** each charger delivers (a fast charger serves more cars per day than a slow one), and **where people actually charge** (most charge at home) Home charging patterns matter more than public numbers suggest: - **Only ~5% of Americans** rely mainly on public chargers - **UK: ~20%** rely mainly on public - **UK: 70% of homes have off-street parking** where they could charge — but **only 30% of city EV drivers** have that option - **~30% of UK drivers charge at work** Even the oil industry is joining in: **Shell** and others are installing chargers at their own petrol stations.",
+      "say_this": "Depends where you live. Some countries have plenty and are building fast. Others are behind. Globally, over a million public chargers are being installed every year, the EU tripled its network in three years, and even oil companies like Shell are adding chargers to petrol stations. The real problem is targeting the places that don't have home charging, and keeping the chargers working reliably.",
+      "pushback": [
+        {
+          "if": "There are barely any chargers on the motorway.",
+          "reply": "Depends on the country. In much of Western Europe, motorway rapid chargers are now common. In North America and the UK the gaps are smaller than they were three years ago. Where the network is thin, that's a real problem — and the fix is targeted infrastructure investment."
+        },
+        {
+          "if": "Half the ones I've tried are broken.",
+          "reply": "Reliability is the specific problem inside the wider problem. Number of chargers installed matters less than percentage of chargers actually working. Some networks are notorious for downtime. Regulation on uptime and payment interoperability is the fix, not more construction."
+        },
+        {
+          "if": "I live in a flat with no driveway, and rapid chargers are expensive.",
+          "reply": "The clearest inequality in the EV story. Fixing it needs **street-side and neighbourhood charging** for people without garages, at prices closer to home-charging cost, not rapid-charger cost. It is a policy problem, not a physics problem."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "Global EV Outlook 2024"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "not-enough-public-support",
       "category": "systemic",
       "verdict": "false",
@@ -905,6 +1343,186 @@
         {
           "label": "Yale Program on Climate Change Communication",
           "url": "Climate Opinion Maps"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "nuclear-takes-too-long-to-build",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "nuclear power takes too long to build to matter for the climate",
+      "heard_as": [
+        "Nuclear is too slow to matter",
+        "It's already too late for nuclear",
+        "Solar is faster and cheaper",
+        "Hinkley Point proves nuclear is impossible",
+        "By the time it's built the climate crisis will be worse",
+        "We don't have time for nuclear"
+      ],
+      "kernel": "Because the Western examples are shockingly bad. **Hinkley Point C** in the UK started construction in 2017; it now looks unlikely to produce power before 2031 — at least **14 years** for the first unit. **Flamanville** in France started in 2007 and only opened in 2024 — more than a **decade late**. Both are terrible advertisements for nuclear power at exactly the moment climate policy needs speed. Anyone looking at those two projects and concluding \"nuclear is too slow\" is being reasonable.",
+      "truth": "The Western examples are outliers, not the global norm. Looking at data on over 600 nuclear plants built since 1950: - Around **80% took less than a decade** to build - **1 in 5 took less than 5 years** - Global average construction time: **6 to 8 years** Where is the speed today? - **China and South Korea** are currently building at about **5-7 years per plant** - **India** is building too, more slowly - Nearly all US and EU plants are **>30 years old** — those countries essentially stopped building. When you restart from cold, everything is slow. Why the West is slow (Ritchie's diagnosis): 1. **Plants aren't repeated.** Almost every Western plant is a bespoke design. No learning curve. 2. **Regulations shift mid-build.** Design changes partway through cost enormous amounts of time and money. 3. **Skilled workforce gone.** The UK and France stopped building; the expertise left with the retirements. 4. **Big complex construction projects generally overrun.** Nuclear is on the harder end of that class.",
+      "say_this": "Nuclear plants in the West often take over a decade because we haven't built any for 30 years and had to relearn how. Countries that keep building regularly — China, South Korea, India — do it in five to eight. Nuclear won't outrun solar and wind, but calling it \"too slow\" reflects the recent Western experience, not what's physically possible.",
+      "pushback": [
+        {
+          "if": "Solar and wind are faster to build, why bother with nuclear?",
+          "reply": "They are, and most new capacity will be renewable. But grids in high-latitude countries with poor winter sun still need firm low-carbon backup, and nuclear is one of the few options. It's a partner to solar and wind, not a competitor."
+        },
+        {
+          "if": "The Hinkley Point disaster proves the whole industry is broken.",
+          "reply": "Hinkley is a bad advertisement, but it isn't representative. It's a first-of-its-kind design in a country that hadn't built for 20 years. The lesson is not \"nuclear is impossible\" — it's \"build the same design many times in a row, keep regulations stable, and keep the workforce employed between projects.\""
+        },
+        {
+          "if": "We don't have time to wait 8 years.",
+          "reply": "An 8-year build starting today finishes in the mid-2030s. That is still useful. Better yet: renewables handle the near-term growth while nuclear plants under construction come online to backfill the retiring fossil fleet."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "nuclear plant age and construction data"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "nuclear-too-dangerous",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "nuclear power is too dangerous",
+      "heard_as": [
+        "Nuclear is dangerous",
+        "Remember Chernobyl / Fukushima",
+        "One accident would kill millions",
+        "Nuclear radiation causes cancer",
+        "We can't take the risk",
+        "The people who lived near Fukushima are all sick"
+      ],
+      "kernel": "Because Chernobyl and Fukushima are burned into public memory, and any nuclear accident is dramatic, one-off, image-heavy. Chernobyl became a Netflix series. Fossil fuel deaths happen quietly, spread out, 11,000 to 22,000 people every single day from air pollution — and there's no headline for that. Anyone whose reference point is the drama of the accidents will overweight nuclear's real risk.",
+      "truth": "Deaths per terawatt-hour of electricity generated (Markandya & Wilkinson, Sovacool, UNSCEAR): | Energy source | Deaths per TWh | |---|---| | Brown coal | 33 | | Coal | 25 | | Gas | 2.8 | | Hydro | 1.3 | | Wind, Solar, Nuclear | <0.1 each | - Nuclear causes **>99% fewer deaths than coal** and **~98% fewer than gas**. - Wind, nuclear and solar are all so close in the data that we can't confidently rank them — but all three are dramatically safer than fossil fuels. That's the point. The two big disasters, honestly counted: - **Three Mile Island (1979, level 5)**: zero deaths. - **Fukushima (2011, level 7)**: no one died directly in the disaster. About 40-50 injuries. One later cancer death (disputed). Around **2,313 premature deaths from the evacuation** (elderly displacement, healthcare disruption). Total ~2,314. Wider-population cancer studies find no measurable increase. - **Chernobyl (1986, level 7)**: confirmed direct toll under 100. A reasonable broader estimate is **300 to 500 deaths**. Higher WHO figures (up to 4,000 long-term) are now considered too high; UNSCEAR follow-ups found no solid evidence of higher cancer rates in the wider population. Even taking the highest figure (4,000 across all nuclear history), coal air pollution kills more people every single week.",
+      "say_this": "Nuclear power isn't risk-free, but it is one of the safest energy sources we have. Per unit of electricity, it kills fewer people than coal or gas by a factor of hundreds, and it's roughly on par with solar and wind. The fear is much bigger than the actual risk. What is dangerous is the fossil fuel system nuclear could displace — that quietly kills 4 to 8 million people a year through air pollution.",
+      "pushback": [
+        {
+          "if": "You can't compare a rare huge accident with steady day-to-day deaths.",
+          "reply": "You can and you have to. Both are real. Fossil fuel deaths are not less real because they happen quietly. If your decision framework only counts dramatic events, you end up preferring the system that kills more people overall."
+        },
+        {
+          "if": "What about the next Chernobyl?",
+          "reply": "A future accident is not impossible, especially as more plants get built. The right response is safer reactor designs and sensible siting, not sticking with fossil fuels — which are quietly killing millions today."
+        },
+        {
+          "if": "Nuclear plants are terrorism targets.",
+          "reply": "Modern containment structures are extremely hard to breach. Water reservoirs behind hydro dams are also potentially catastrophic if attacked. The response is security, not abandonment."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Markandya A. & Wilkinson P. (2007), *The Lancet*",
+          "url": "deaths per TWh"
+        },
+        {
+          "label": "Sovacool B. et al. (2016)",
+          "url": "energy accident review"
+        },
+        {
+          "label": "UNSCEAR (2008, 2018)",
+          "url": "UN Scientific Committee on the Effects of Atomic Radiation"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "nuclear-too-expensive",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "nuclear power is too expensive",
+      "heard_as": [
+        "Nuclear is uneconomic",
+        "Hinkley Point C cost £30 billion",
+        "Solar is way cheaper",
+        "You'd never build nuclear if you had to compete",
+        "Nuclear only survives on subsidies",
+        "Nobody would invest in nuclear without government backing"
+      ],
+      "kernel": "Because the Western numbers are eye-watering. **US Vogtle 3 and 4** is expected to cost at least **$6,000 per kilowatt** — a sixfold jump from 1960s US plants at ~$1,000/kW. **Hinkley Point C** in the UK is one of the most expensive infrastructure projects in British history. Meanwhile, solar and wind have dropped 80-90% over the same period. Anyone comparing headline Western nuclear numbers against a solar farm bid concludes that nuclear can't compete.",
+      "truth": "Cost per megawatt built since 2000 (Britain Remade / Dumitriu & Hopkinson data, £m per MW): | Country | £m per MW | |---|---| | South Korea | £2.24 | | India | £2.26 | | China | £2.37 | | Japan | £2.67 | | France | £4.43 | | Finland | £5.97 | | UK | £9.42 | | USA | £10.23 | **The US and UK are 4-5 times more expensive than South Korea.** Wages in the UK and South Korea are similar, so labour cost differences don't explain a fivefold gap. What does explain it: 1. **Projects run late; delays cost money.** Labour is ~80% of typical cost overruns on delayed nuclear projects. 2. **Regulations keep changing.** Design changes mid-build cascade through the whole project. 3. **Plants aren't built repeatedly.** The US has ~50 reactors, nearly all decades old. The US DOE estimates you'd need to build **at least 20 identical plants** to work out the real steady-state cost. That hasn't happened.",
+      "say_this": "Nuclear is expensive in the US and UK — no argument. But South Korea builds nuclear plants for about a fifth of the US price, and China and India are close. The cost is not inherent to nuclear; it comes from stop-start construction, changing regulations and bespoke designs. Where countries build consistently, they build cheaply.",
+      "pushback": [
+        {
+          "if": "Solar and wind are much cheaper. Why bother?",
+          "reply": "They are, and most new capacity will be renewable. But grids in high-latitude countries need firm low-carbon backup. **The first 70-80% of a grid from solar and wind is cheap; the last 20-30% is expensive**, especially through winter with little sun and wind. In that last slice, a mix of nuclear + storage might end up cheaper than solar/wind + massive long-duration storage alone."
+        },
+        {
+          "if": "Once built, isn't it also expensive to run?",
+          "reply": "No — **running costs are low**. Fuel is a small share of nuclear costs; the plant produces power for 40-60 years once built. Fossil fuel plants keep buying fuel for the life of the plant. The high-cost bit is construction, not operations."
+        },
+        {
+          "if": "The West has proven it can't do this cheaply.",
+          "reply": "Currently, yes. But that's a consequence of decades of not building. South Korea and China have shown you can build in the £2-3m/MW range. The fixes are consistency, standardisation and a stable regulatory environment."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Sam Dumitriu and Ben Hopkinson, Britain Remade",
+          "url": "nuclear construction cost dataset"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "nuclear-waste-unsolved",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "nuclear waste is an unsolved problem",
+      "heard_as": [
+        "We don't know what to do with nuclear waste",
+        "Nuclear waste stays radioactive for millions of years",
+        "There's no safe place to store it",
+        "We're leaving a problem for our grandchildren",
+        "Yucca Mountain proves we can't solve this",
+        "One leak would be catastrophic"
+      ],
+      "kernel": "Because \"we haven't built a permanent storage site yet\" is a real statement. Countries have talked about deep geological storage for decades, and until Finland's Onkalo opens, nobody can point at a working example. That gap between intention and execution feels like a hole in the safety case. It's a fair concern — just a different one from \"we don't know what to do.\"",
+      "truth": "Nuclear waste is not one thing. It's split into three categories, by volume and by radioactivity: | Type | Share of volume | Share of radioactivity | |---|---|---| | Low-level (gloves, tools) | 92% | 1% | | Intermediate-level | 7% | 4% | | High-level (used fuel rods) | 1% | 95% | - **Low-level waste** (mostly used gloves, mops, tools) is not very radioactive. It's stored near-surface in concrete vaults for ~100 years and mostly decays away in decades. - **Intermediate-level waste** needs longer isolation in multi-layered casks. - **High-level waste** is the small but serious 1% — mostly used fuel rods, holding 95% of the radioactivity. The good news on high-level waste: - **Up to 96% of the material can be recycled** back into fresh nuclear fuel. Countries doing this: France, Japan, Russia, China. Not doing it: the US, wasting a large potential energy source. - Small volume: **~29,000 m³ of high-level waste worldwide by 2016**. Piled on a football pitch, that would be **~5 metres high** — tiny compared to fossil fuel waste. - **Zero deaths or injuries** have ever been caused by nuclear waste storage. - Nuclear is **the most regulated and monitored waste industry in the world**. - **Coal ash contains mercury, arsenic, lead, cadmium and chromium** — and is often more radioactive than well-managed nuclear waste — but gets a fraction of the attention.",
+      "say_this": "We already know how to store nuclear waste safely — deep underground, in rock tested for stability. What we haven't done at scale yet is prove it in practice. Finland is about to. Nuclear waste is small in volume (all high-level waste ever produced would fit on a football pitch, 5 metres high), zero people have ever died from it, and much of it can be recycled. The public worry is bigger than the physical problem.",
+      "pushback": [
+        {
+          "if": "But no country has actually built a permanent underground site.",
+          "reply": "**Finland has.** The **Onkalo repository** is 430 metres deep, in rock tested for stability, designed to keep waste isolated for at least 100,000 years. It's expected to open in the next few years. That is the real-world test. If Onkalo works, others follow with more confidence and a real cost benchmark."
+        },
+        {
+          "if": "But the US Yucca Mountain site failed.",
+          "reply": "Yes. Yucca Mountain took decades and was cancelled, mostly for political reasons. That is a failure of policy, not of the underlying physics. Finland succeeded because it managed the local political process well from the start."
+        },
+        {
+          "if": "100,000 years is a long time to guarantee safety.",
+          "reply": "It is, and this is where scientists genuinely disagree. Direct radiation exposure becomes safe within ~1,000 years. If waste ever contaminated water or food, some isotopes remain dangerous much longer — estimates range from 10,000 to 1,000,000 years. Deep geological sites are designed conservatively, to buffer the extreme end of that range."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "International Atomic Energy Agency (IAEA)",
+          "url": "Radioactive waste management"
+        },
+        {
+          "label": "Posiva Oy",
+          "url": "Onkalo repository technical documentation"
         }
       ],
       "wiki": ""
@@ -1142,6 +1760,140 @@
       "wiki": ""
     },
     {
+      "id": "renewables-produce-too-much-waste",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "solar panels and wind turbines create huge amounts of waste",
+      "heard_as": [
+        "Wind blades can't be recycled",
+        "Solar panels are toxic waste",
+        "We're just creating a new landfill problem",
+        "Nobody knows what to do with old solar panels",
+        "Renewables produce huge amounts of e-waste",
+        "The environmental cost is being hidden"
+      ],
+      "kernel": "Because there are real photos, and they get shared a lot. A pile of old wind blades or dumped solar panels in a field is a striking image. What the photo doesn't show you is the coal ash lagoons that have been sitting outside every coal plant for a century, or the volume of oil sludge from decades of drilling. The visible dumping site is small compared to the invisible fossil fuel one.",
+      "truth": "**Waste per megawatt-hour of electricity:** | Source | kg per MWh | |---|---| | Coal | 89 | | Solar PV | 2 | | Wind | 0.2 | - Coal creates about **50 times more waste than solar** and **500 times more than wind**, per unit of electricity. **Waste over 25 years, for one average UK person** (if all their electricity came from one source): | Source | Total waste (kg) | |---|---| | Municipal household waste | 12,100 | | Coal | 10,700 | | Plastic | 1,900 | | Electronic waste | 600 | | Solar PV | 200 | | Wind | 20 | A person's coal waste over 25 years would fill about 10 tonnes. Their solar waste: 200 kg. Wind: 20 kg. **Toxicity matters too:** - **Wind turbine blades**: 80-85% of turbine parts are recyclable. Blades are the hard bit — hard to recycle, often go to landfill — but they're classified as **non-hazardous** in the US and Europe. Low health risk. - **Solar panels**: contain small amounts of **lead** in silicon panels, and traces of **cadmium** in cadmium telluride panels (~0.1% of panel weight). Manageable at end-of-life if collected properly. - **Coal ash**: contains **mercury, arsenic, lead, cadmium and chromium** — far more dangerous, and produced continuously for the plant's life. Switching from coal to renewables cuts both **volume** and **toxicity** of waste.",
+      "say_this": "Solar and wind create far less waste than coal, per unit of electricity — about 50 times less than coal for solar, 500 times less for wind. The photos of dumped turbine blades that go around social media leave out how much coal ash we've been quietly producing for decades. Renewables aren't waste-free, but they're vastly less wasteful than what they're replacing.",
+      "pushback": [
+        {
+          "if": "But wind blades are ending up in landfill.",
+          "reply": "Some are, and this is a real problem the industry is working on. **Siemens** and others are producing recyclable blades. Several European governments are proposing landfill bans for turbine blades by the end of the decade. Compared to coal ash landfills, the volume is tiny — but \"small compared to worse\" isn't a reason to stop working on the specific problem."
+        },
+        {
+          "if": "Solar panels are full of toxic materials.",
+          "reply": "Silicon panels contain small amounts of lead (soldering); cadmium-telluride panels contain trace cadmium. Both can be extracted and reused, and manufacturers are already doing this where end-of-life panels are properly collected. The material-toxicity issue is real but well-understood and manageable."
+        },
+        {
+          "if": "We haven't figured out recycling yet.",
+          "reply": "Aluminium and glass in solar panels can already be recycled — the main materials are the same as in drinks cans and bottles. Recycling rates are still low in many countries, but most panels installed today have another 10-20 years of life. The industry has time to build the recycling chain, and countries like Germany and Japan are already ahead."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Siemens Gamesa",
+          "url": "RecyclableBlade technology"
+        },
+        {
+          "label": "EU WEEE Directive",
+          "url": "solar panel end-of-life rules"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "renewables-take-too-much-land",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "solar and wind take up too much land",
+      "heard_as": [
+        "Solar farms are ruining the countryside",
+        "Wind turbines are visual pollution",
+        "We can't afford to give up farmland for panels",
+        "The whole planet would need to be covered in solar",
+        "Renewables destroy wildlife habitat",
+        "There isn't enough land for renewables"
+      ],
+      "kernel": "Because it's easy to make it look scary in a photo. A picture of a field covered in solar panels, or a ridge full of turbines, activates the \"they're taking over\" reaction — especially in countries with strong landscape traditions. What the photo can't show you is how much power those panels produce, or how much land coal and gas actually use once mining, drilling and infrastructure are counted.",
+      "truth": "Land use per unit of electricity, roughly (m² per MWh, including mining and grid): | Source | m² per MWh | |---|---| | Nuclear | 0.3 | | Gas | 1 | | Solar (rooftop) | 3 | | Solar (ground, CdTe) | 13 | | Coal | 15 | | Solar (ground, silicon) | 19 | | Hydropower | 33 | - **Nuclear** is the most land-efficient way to make power. - **Rooftop solar** barely uses any new land — it sits on buildings that already exist. - **Coal** actually uses more land than most solar farms once mining and ash disposal are counted. - **Hydropower** is often the highest land-use source because reservoirs flood large areas. Wind is a special case: - **Direct land use** (the small patch where the turbine actually stands): tiny — well under 0.1% of land - **Visual footprint** (the whole area you can see turbines): 2-3% of the world if we did everything with wind - **But wind farmland is dual-use**: farmers grow crops and graze animals right up to the turbine base and get extra income from the power Powering the whole world with a single source (theoretical): - **Nuclear**: <0.01% of land - **Wind (direct)**: <0.1% of land - **Solar**: ~0.5% of land - **Wind (visual)**: 2-3%, up to 10-15% in small crowded countries Country examples: - **US** could decarbonise with **1-6% of land in solar** and **5-22% wind visual footprint** - **EU** could hit net zero with **3% of land in solar** and up to **15% wind visual footprint**. Just **1% of land as solar** would already cover EU electricity demand today. - **South Korea** and **Singapore** — genuinely too small and dense for a renewables-only path. Rare exceptions, not the norm.",
+      "say_this": "They need some land, but far less than most people think, and much less than fossil fuel systems when you include mining and drilling. Powering the whole world with solar would need about 0.5% of global land — much less than the half of habitable land we already use for farming. The exceptions are tiny crowded countries like Singapore. For everyone else, it's a manageable share of land.",
+      "pushback": [
+        {
+          "if": "But the photos of fields of solar panels look terrible.",
+          "reply": "Framing matters. **The US uses 2.5% of its land to grow crops for bioethanol** — an area the size of the UK — and that only covers 10% of the country's petrol needs. Using the same land for solar would generate enough electricity to power the entire US **two to three times over**. Nobody panics about the bioethanol land use because it looks like a normal cornfield."
+        },
+        {
+          "if": "Rural people don't want turbines in their view.",
+          "reply": "Legitimate concern. The fix is **fair community partnerships**: co-owned projects, discounted electricity for nearby residents, transparent siting processes. Where communities benefit, opposition drops. Where projects are imposed by distant developers with no local upside, opposition is fierce."
+        },
+        {
+          "if": "We're taking farmland for panels.",
+          "reply": "Some farmland is being converted, but it's a small share of total farmland. And a lot of large-scale solar is being deliberately sited on lower-quality land, brownfields, and post-industrial sites. Rooftops and car parks can absorb a big share of demand without any farmland conversion."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Our World in Data",
+          "url": "Land use per unit of energy"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "renewables-too-expensive",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "renewable energy is too expensive",
+      "heard_as": [
+        "Renewables are only cheap because of subsidies",
+        "Solar doesn't work without government handouts",
+        "Once you factor in storage, it's not cheap",
+        "Fossil fuels are still cheaper",
+        "Nobody would build solar without incentives",
+        "It only works when the sun shines"
+      ],
+      "kernel": "Because for decades it was true. Solar panels used to be a hobbyist product. Wind turbines were subsidised. Fossil fuels were unambiguously cheaper. Anyone whose reference point is a 2000s energy debate is working from accurate memory. What changed is that between about 2010 and 2020, solar dropped ~85% and wind roughly halved, and the ratio flipped.",
+      "truth": "- **Solar costs fell tenfold** since 2010. In the last decade alone, ~85% drop. Analysts expect another **50% drop by 2030**. - In **2023, 96% of new solar and onshore wind projects** were cheaper than building a new coal or gas plant - **Three-quarters of new solar and wind projects were even cheaper than fossil fuel plants that were already built and running** - **Australia**: solar plus batteries about **30% cheaper** than gas peaking plants - **India**: solar plus batteries already cheaper than many existing fossil fuel plants - More than **a quarter of global emissions** are now covered by some kind of carbon tax or trading scheme Renewables get cheaper because of the **learning curve** — every doubling of installed capacity has historically taken 20-30% off the cost. Fossil fuels don't follow a learning curve. Their prices swing with world events but have no long-term downward trend. **The hidden cost of fossil fuels:** - **Air pollution**: burning coal, oil and gas causes an estimated **$6 trillion a year in damages globally** — from heart disease, cancer, stroke and lung illness (millions of premature deaths per year) - **Climate damage**: not priced into fossil fuel bills, but landing on future generations and poorer countries",
+      "say_this": "That was true 15 years ago. It stopped being true around 2015. Today solar and wind are cheaper than new coal or gas in almost every country, and in most cases cheaper than fossil fuel plants that are already built and running. Fossil fuels look cheap on paper because they hide huge costs — air pollution alone kills millions and costs almost $6 trillion a year globally.",
+      "pushback": [
+        {
+          "if": "Solar and wind are only cheap because of subsidies.",
+          "reply": "That was true 15 years ago. Not any more. Subsidies helped renewables cross the initial cost gap when they were expensive. Today they're cheap because of **manufacturing scale**, not subsidies. Compare the sticker price of new solar in a competitive auction against new gas — the solar wins without subsidy in most markets."
+        },
+        {
+          "if": "When you add batteries, it's not cheap any more.",
+          "reply": "Batteries add cost, and are needed to cover the intermittency problem. But solar + batteries are already **cheaper than gas at peak times** in Australia. Battery costs are following the same learning curve solar did — down about 90% over the past decade. The all-in system cost still comes out ahead in most places."
+        },
+        {
+          "if": "Fossil fuels look cheap in my energy bill.",
+          "reply": "Because your bill doesn't include the air-pollution deaths, the healthcare costs, or the climate damage. Those costs are real — they're just paid by other people, mostly poorer people and future generations. That's what \"hidden cost\" means."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IRENA",
+          "url": "Renewable Power Generation Costs"
+        },
+        {
+          "label": "Lazard",
+          "url": "Levelized Cost of Energy Analysis"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "transition-unfair-to-poor",
       "category": "systemic",
       "verdict": "true-but",
@@ -1164,6 +1916,52 @@
         {
           "label": "RTE, CCAC 2026 Annual Review",
           "url": "https://www.rte.ie/news/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "wind-farms-kill-birds",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "wind farms kill huge numbers of birds",
+      "heard_as": [
+        "Wind turbines are bird murder machines",
+        "Wind farms destroy migrating birds",
+        "Trump was right about windmills killing birds",
+        "Bats are being wiped out by turbines",
+        "Wind farms are ecological disasters",
+        "Turbines kill more birds than we're told"
+      ],
+      "kernel": "Because it's easy to imagine, and there's a real, specific problem hiding inside it. Turbines really do kill birds. Videos of eagles hitting blades are horrifying. Certain species (raptors, migratory birds) really are at higher risk. And the RSPB — a charity dedicated to protecting birds — has publicly worried about specific wind farms. So the concern isn't invented. The question is how big it is compared to everything else killing birds.",
+      "truth": "**Birds killed per year in the US, by cause:** | Cause | Birds killed per year | |---|---| | Cats | 2.4 billion | | Buildings (windows) | 600 million | | Cars | 200 million | | Pesticides | 67 million | | Power lines | 28 million | | Phone/comms towers | 6.6 million | | Wind turbines | 1.2 million | Wind turbines kill **~2,000× fewer birds than cats**, and far fewer than cars, buildings or pesticides. Per-turbine figures: - Each turbine kills **4-18 birds a year** on average - **6-20 bats a year** — bats are actually more at risk than birds, as a share of population Some birds are much more affected than others: - **Birds of prey** (eagles, hawks) use hilltops to catch wind — exactly where wind farms want to be built - **Migratory birds** on flyways are at higher risk if turbines sit on their route - Killing rare or endangered birds is worse than killing common ones — a numbers-only comparison misses that.",
+      "say_this": "Wind turbines do kill some birds and bats. But per year in the US, cats kill 2.4 billion birds, buildings 600 million, cars 200 million, and wind turbines about 1.2 million. Wind is one of the smallest killers, not one of the biggest. And there are proven fixes — painting one blade black, or turning turbines off in very low wind — that cut deaths dramatically at almost no cost.",
+      "pushback": [
+        {
+          "if": "Trump was right when he said windmills kill all the birds.",
+          "reply": "He said \"all the birds,\" which is comically wrong. Turbines kill about 0.05% of what cats kill each year in the US. The RSPB, a charity dedicated to protecting birds, has built its own turbine to power its headquarters. That is not the behaviour of an organisation that thinks turbines are catastrophic for birds."
+        },
+        {
+          "if": "But it's the wrong birds — eagles and raptors.",
+          "reply": "Right, and that specific risk is real. Which is why targeted mitigation matters. Fixes that reduce raptor and bat deaths without cutting energy output much: - **Turn turbines off in low wind** (bats can't fly well in higher wind, so most bat strikes happen below 5-6 m/s). Pennsylvania study: 44% bat-death reduction at 5 m/s cutoff, **93% reduction** at 6.5 m/s. Cost to energy production: tiny. - **Paint one blade black.** A Norwegian test cut bird deaths by **>70%**, and no white-tailed eagles were killed after painting. - **Play high-pitched sounds** to warn off bats. Texas trial cut deaths of two bat species by 54% and 78%. - **GPS tracking of eagles** near turbines, with automatic shutdown when they approach. - **Australian wind farm cut bird deaths 54%** while losing only **0.1%** of income. - **Cadiz, Spain**: bird deaths halved while losing **0.07%** of energy output."
+        },
+        {
+          "if": "Climate change harms birds too.",
+          "reply": "Massively. Fossil fuels harm birds through climate change, air pollution, oil spills, coal mining runoff, acid rain. If you care about bird populations, the fossil fuel system is doing far more harm than the wind farms replacing it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "US Fish and Wildlife Service",
+          "url": "bird mortality statistics"
+        },
+        {
+          "label": "May R. et al. (2020), *Ecology and Evolution*",
+          "url": "painted-blade Smøla wind farm study"
         }
       ],
       "wiki": ""
