@@ -4,6 +4,92 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-07-30 ingest | 15 Hannah Ritchie myths — heat pumps, meat substitutes, hard-to-abate industry, minerals
+
+Fourth big Ritchie batch. 15 new myth pages from `raw/myths/`. Routing pass done first — all 15 confirmed as genuine standalone claims, no merges, one duplicate skipped.
+
+### Routing decisions
+
+- **15 files → 15 new myth pages, no merges**
+- `heat-pumps-summary 2.md` was byte-for-byte identical to `heat-pumps-summary.md` — skipped and logged
+- `03-heat-pumps-air-conditioning-demand.md` is really about air-conditioning demand, not heat pumps — treated as its own myth (verdict: "AC is not a luxury we can't afford")
+- No overlap with the existing 27 myths that would merit merging
+
+### Heat pumps + cooling cluster (3 pages)
+
+| Raw file | New page | Verdict | Topic |
+|---|---|---|---|
+| heat-pumps-summary.md | heat-pumps-dont-work-in-cold.md | false | energy |
+| 02-heat-pumps-cost.md | heat-pumps-too-expensive.md | mostly-false | energy |
+| 03-heat-pumps-air-conditioning-demand.md | air-conditioning-luxury.md | false | energy |
+
+Key numbers: COP 2.7 in UK cold, gas boiler 0.7-0.8; Nesta 2,500 users 3/4 happy; £12,000 install vs £2,750 boiler; £7,500 UK grant; 2bn AC units today → 6bn by 2050; efficient units cut demand from 6,200 to 3,400 TWh by 2050 (EU-sized saving); heating causes 4× more emissions than cooling.
+
+### Meat substitutes / plant-based diets cluster (4 pages, Ritchie chapters 41-44)
+
+| Raw file | New page | Verdict | Topic |
+|---|---|---|---|
+| Chapter-41-Plant-Based-Diets-and-Land.md | not-enough-land-for-plant-based.md | false | food |
+| Chapter-42-Meat-Substitutes-and-Carbon.md | meat-substitutes-worse-for-climate.md | false | food |
+| Chapter-43-Cost-of-Meat-Substitutes.md | meat-substitutes-too-expensive.md | mostly-false | food |
+| Chapter-44-Meat-Substitutes-and-Health.md | meat-substitutes-unhealthy.md | false | food |
+
+Key numbers: 75% of world farmland supports livestock; 75% of soy fed to animals; cow returns 3 cal per 100 fed; fully plant-based diet needs 1bn ha vs current 4bn ha; meat substitutes 10× lower emissions than pork; lab-grown meat cost fell 50,000× since 2013 to $10-100/kg; plant burgers tick 3/8 UPF markers vs 6/8 for processed meat; 1 in 5 UK support a meat tax.
+
+### Hard-to-abate industry cluster (3 pages, Ritchie ch 45-47)
+
+| Raw file | New page | Verdict | Topic |
+|---|---|---|---|
+| Low-Carbon-Cement-Summary.md | low-carbon-cement-impossible.md | false | materials |
+| Low-Carbon-Steel-Summary.md | low-carbon-steel-impossible.md | false | materials |
+| Low-Carbon-Aviation-Shipping-Summary.md | flying-shipping-hopeless.md | mostly-false | transport |
+
+Key numbers: cement 7% of global emissions, ~1 tonne CO2 per tonne concrete, +$100-200/tonne with CCS but tiny impact on finished house cost; steel 7% of emissions, 0.8 tonnes coal per tonne steel, 5,200 TWh globally for all-green steel (~⅕ of world electricity), +25% cost = $150 on a car / $400 on a house; aviation + shipping each 2-3% of emissions, Norway 60+ e-ferries, Maersk 18 methanol ships, hydrogen aviation would need 4,000 TWh (15-20% of world electricity).
+
+### Minerals cluster (5 pages)
+
+| Raw file | New page | Verdict | Topic |
+|---|---|---|---|
+| Minerals-Running-Out-Summary.md | running-out-of-minerals.md | false | materials |
+| Minerals-More-Mining-Summary.md | renewables-more-mining.md | false | materials |
+| Minerals-Human-Exploitation-Summary.md | clean-energy-child-labour.md | mostly-false | materials |
+| Minerals-and-Supply-Dependency-Summary.md | mineral-dependency-same-as-oil.md | mostly-false | materials |
+| Minerals-and-Water-Use-Summary.md | clean-energy-uses-too-much-water.md | mostly-false | materials |
+
+Key numbers: lithium production 30k → 150k tonnes/yr (2008-2022), reserves grew even faster (few million → 20m+); coal needs 30× more mining than renewables and 100× more than nuclear per TWh; 74% of world cobalt from DRC (74% of it), 45% of use goes to EVs (26% to electronics), Tesla LFP >50% of new cars; China refines >80% of world rare earths; 92% of world's population would be energy-secure on renewables; 16% of critical mineral mines in high water stress; Chile mining 4% of water vs farming 72%; EV vs petrol water use China 262 vs 137 m³ (EV loses on fossil grid, wins two-thirds on solar/wind).
+
+### Files created
+
+- 15 new pages in `wiki/myths/`
+- 0 source summaries (myth workflow)
+- 0 pages updated elsewhere
+- `wiki/index.md` — 15 new rows in Myths section; date bumped to 2026-07-30
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+All three clusters (heat pumps/AC, meat substitutes, industry, minerals) cross-link tightly within themselves and to relevant existing wiki pages. Notable outward links:
+- Heat pumps → `home-cooling-heatwaves`
+- Meat substitutes → `eat-lancet-planetary-diet-2025`, `beef-and-climate-change`, `lab-grown-meat`
+- Cement → existing `Cement and Concrete - A Hidden Climate Problem`, `bio-based-resins-composites`, `bamboo` (all as alternative building materials)
+- Steel/aviation → `renewables-need-fossil-fuels-to-build`, `carbon-capture-will-fix-it`
+- Minerals cluster → `ariana-mine-santander` (as a concrete case), `Fossil Fuel Banking`, `Smaller EVs Are Better`
+
+### Overall Myths section state
+
+Wiki now has **42 myth pages**.
+
+Ritchie is still the primary source, roughly on track with the book's chapter count (which appears to have ~47 questions based on the filenames). If Fabien keeps going, we're maybe another 5-10 pages away from covering the whole book.
+
+### Process notes
+
+- The routing pass caught one duplicate (heat-pumps 2), no borderline cases this time
+- Meat-substitutes cluster was written carefully to distinguish from the existing `beef-and-climate-change` page — those focus on beef and dietary transition; these focus on the substitutes themselves
+- Cement/steel/aviation pages deliberately reference the existing `carbon-capture-will-fix-it` myth so readers can see how CCS fits (and where it doesn't) inside the wider industrial decarbonisation picture
+- The `clean-energy-child-labour` page took the most care on tone — the underlying problem (cobalt exploitation) is real and serious. The verdict is "mostly false" because the claim's generalisation ("clean energy relies on it") ignores that the same cobalt is in phones and used to be in petrol catalytic converters, and that the industry is already moving off cobalt
+
+---
+
 ## 2026-07-29 ingest | 18 Hannah Ritchie myths — EV, nuclear and renewables clusters
 
 Largest myth batch to date. All 18 from `raw/myths/`, all summarising Hannah Ritchie's *Not the End of the World*. Followed the routing workflow: read all files, produced routing report, user approved "all 18 as new pages, no merges."

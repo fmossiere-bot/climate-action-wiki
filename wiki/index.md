@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-29
+Last updated: 2026-07-30
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -527,7 +527,22 @@ Common climate myths and misleading claims, one page per claim. Also generate th
 | [[intermittency-storage-problem]] | **NEW** — "What happens when the sun doesn't shine?" Verdict: mostly false. Batteries for hours, hydro/hydrogen for months, cross-border sharing for the middle; UK £3tn/yr batteries-only vs billions with hydrogen |
 | [[renewables-produce-too-much-waste]] | **NEW** — "Solar and wind create huge amounts of waste." Verdict: false. Coal 89 kg/MWh vs solar 2 kg vs wind 0.2 kg. Coal ash contains mercury, arsenic, lead; blade waste is non-hazardous |
 | [[energy-transition-kills-jobs]] | **NEW** — "The energy transition will destroy jobs." Verdict: mostly false. Total energy jobs 63m→68m (2019-2023); clean overtook fossil in 2021; wage gaps and just transition need honest policy |
-| [[wind-farms-kill-birds]] | **NEW** — "Wind farms kill huge numbers of birds." Verdict: mostly false. Cats 2.4bn vs turbines 1.2m per year in US. Painting one blade black cuts deaths 70%+; low-wind cutoffs cut bat deaths 44-93% |
+| [[wind-farms-kill-birds]] | "Wind farms kill huge numbers of birds." Verdict: mostly false. Cats 2.4bn vs turbines 1.2m per year in US. Painting one blade black cuts deaths 70%+; low-wind cutoffs cut bat deaths 44-93% |
+| [[heat-pumps-dont-work-in-cold]] | **NEW** — "Heat pumps don't work in cold climates." Verdict: false. Norway/Sweden/Finland have Europe's highest heat pump adoption; COP ~2.7 in cold; Nesta 3/4 of 2,500 UK users satisfied |
+| [[heat-pumps-too-expensive]] | **NEW** — "Heat pumps are too expensive." Verdict: mostly false. £12k install vs £2.75k boiler; £7.5k UK grant leaves £2k gap; heat pump tariffs (Octopus/OVO) can halve heating bills |
+| [[air-conditioning-luxury]] | **NEW** — "Air conditioning is a luxury the climate can't afford." Verdict: false. 2bn units today → 6bn by 2050; efficient units cut demand nearly in half; heating still causes 4× more emissions than cooling |
+| [[not-enough-land-for-plant-based]] | **NEW** — "There isn't enough land for everyone to eat plants." Verdict: false. 75% of farmland is for livestock; a fully plant-based diet needs 75% less land (4bn → 1bn hectares) |
+| [[meat-substitutes-worse-for-climate]] | **NEW** — "Meat substitutes are worse for the climate." Verdict: false. Substitutes 10× lower emissions than pork; beat even the best beef farms almost every time |
+| [[meat-substitutes-too-expensive]] | **NEW** — "Meat substitutes are too expensive." Verdict: mostly false. Chicken/mince/sausages overlap in UK supermarkets; lab-grown meat cost fell 50,000× since 2013; regulatory approval now the bottleneck |
+| [[meat-substitutes-unhealthy]] | **NEW** — "Meat substitutes are ultra-processed junk food." Verdict: false. Plant burgers tick 3/8 UPF markers vs processed meat 6/8; UPF harms trace to processed meats + sugary drinks, not substitutes |
+| [[low-carbon-cement-impossible]] | **NEW** — "We'll never be able to make low-carbon cement." Verdict: false. 3 real routes: less cement per mix (–40%), CCS (Heidelberg Norway plant), basalt instead of limestone (Brimstone) |
+| [[low-carbon-steel-impossible]] | **NEW** — "We'll never be able to make low-carbon steel." Verdict: false. Hydrogen replaces coal (H2 Green Steel, ArcelorMittal); electrification (Boston Metal); +25% steel cost = ~$150 on a car |
+| [[flying-shipping-hopeless]] | **NEW** — "There's no hope for low-carbon flying and shipping." Verdict: mostly false. Norway 60+ e-ferries; Maersk 18 methanol ships; hydrogen/biofuel/synthetic fuel each has real options |
+| [[running-out-of-minerals]] | **NEW** — "We're going to run out of clean-energy minerals." Verdict: false. Lithium reserves grew faster than production (20m tonnes by 2022); IEA/IRENA/ETC/RMI all say no fundamental shortage |
+| [[renewables-more-mining]] | **NEW** — "Renewables and EVs mean a lot more mining." Verdict: false. Coal needs 30× more mining than renewables, 100× more than nuclear; solar/turbines are one-off, coal is continuous |
+| [[clean-energy-child-labour]] | **NEW** — "Clean energy relies on child labour." Verdict: mostly false. DRC cobalt problem is real but same cobalt powers phones and petrol catalytic converters; Tesla LFP, BYD sodium-ion moving away |
+| [[mineral-dependency-same-as-oil]] | **NEW** — "We'd just swap fossil dependency for mineral dependency on China." Verdict: mostly false. Fuels vs building blocks — cut off gas and lights go out; cut off rare earths and existing panels keep working |
+| [[clean-energy-uses-too-much-water]] | **NEW** — "Clean energy uses too much water to be sustainable." Verdict: mostly false. Solar/wind 5-100× less water than coal/gas. Local problem (Chile lithium) real; global picture is that clean uses far less |
 
 ---
 
