@@ -8,7 +8,7 @@ tags:
   - carbon-removal
 created: 2023-06-01
 updated: 2026-06-15
-summary: "Overview: Marine Algae as a Solution to Climate, Question 1: Impact Estimate, Question 2: Major Challenges, Question 3: Impactful Solutions, Question 4: Equity and Justice, Question 5: Specific Organizations in this Field, Question 6: Surprised We Learned"
+summary: The ocean has absorbed roughly one third of all human CO2 emissions since the industrial revolution. It is one of the planet's most important carbon sinks, and researchers are increasingly looking at how marine ecosystems, particularly seaweed and kelp, could be actively used to remove more carbon from the atmosphere.
 ---
 
 
