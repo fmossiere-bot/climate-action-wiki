@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
   "verdicts": {
     "false": {
@@ -101,6 +101,49 @@
       "wiki": ""
     },
     {
+      "id": "air-conditioning-luxury",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "air conditioning is a luxury the climate can't afford",
+      "heard_as": [
+        "AC is destroying the climate",
+        "We can't afford air conditioning for everyone",
+        "AC use should be rationed",
+        "It's a lifestyle issue",
+        "The West should give up AC first",
+        "People survived without AC before",
+        "AC drives the climate crisis"
+      ],
+      "kernel": "Because AC does use a lot of electricity, and it does contribute to grid strain on the hottest days. The direct emissions are real. And it's easy to frame it as a \"rich person's problem\" when the countries with the most AC per capita are wealthy ones like the US. If you look at the electricity draw of the US on a July afternoon and worry that India getting to the same level would break the planet, \"AC is a luxury we can't afford\" sounds sensible.",
+      "truth": "- Around **2 billion AC units** in the world today; expected to reach **6 billion by 2050** — a tripling - AC is already **3-4% of world greenhouse gas emissions** and uses about **8% of world electricity** - Growth is driven by rising incomes in low- and middle-income countries — people who cannot currently afford cooling finally can - **Heating still causes about 4× more global emissions than cooling** — the \"cooling is the climate crisis\" framing has the emissions ratio backwards **Efficient units cut demand nearly in half:** - Business as usual (today's typical inefficient units): global cooling electricity demand reaches **6,200 TWh by 2050**, up from 2,000 TWh in 2020 - Switch to efficient units that already exist: demand only reaches **3,400 TWh** - The difference is about the size of the **entire EU's electricity use** **Why inefficient units dominate:** - Cost. Poor households buying their first AC often can't afford the extra $100 for the efficient model. That price gap dooms them to years of higher electricity bills — a family buying a 50% more efficient unit could save around **$2,000** over the following years. **Grid strain (real, but manageable with efficiency):** - **US**: cooling is already ~30% of peak electricity demand on hot days. With efficient units, that could fall to just over 20% by 2050 - **India**: cooling is ~10% of peak today; with inefficient units, that could rise to ~45% by 2050 — a massive grid strain. With efficient units, only ~20%. **Solar helps.** Cooling peaks when the sun shines. Solar generation aligns almost perfectly with AC demand, so a grid with lots of solar can meet cooling demand without a huge rise in emissions.",
+      "say_this": "Cooling saves lives, helps kids learn, lets people sleep and work. As the world warms, it's a necessity, not a luxury. The number of AC units will roughly triple by 2050 — that's mostly people escaping heat, which is a good thing. What we need to worry about is efficiency: switching everyone to efficient units instead of cheap inefficient ones would cut cooling electricity demand nearly in half. Heating still causes four times more emissions than cooling anyway.",
+      "pushback": [
+        {
+          "if": "AC is causing the climate to warm even more.",
+          "reply": "Some, yes — but heating still emits 4× more. If your worry is emissions, look at heating first. If your worry is grid strain, the fix is efficient units, not banning AC."
+        },
+        {
+          "if": "But people in Asia getting AC will double emissions.",
+          "reply": "Only if they buy inefficient units, and only if the electricity is coal. **Efficient units + solar-heavy grids** cut cooling emissions to a small fraction of the naïve projection. The transition to efficient AC is one of the cheapest emissions wins available."
+        },
+        {
+          "if": "Rich people don't need it, they should just adapt.",
+          "reply": "Rich people already have it. The people who most urgently need it — for basic health and productivity — are lower-income households in tropical countries where heat is now dangerous. Framing cooling as unnecessary luxury effectively means telling those households to sweat it out. That is not a viable climate policy."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "The Future of Cooling (2018) and follow-ups"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "carbon-capture-will-fix-it",
       "category": "energy",
       "verdict": "mostly-false",
@@ -174,6 +217,106 @@
         {
           "label": "Our World in Data, CO2 emissions",
           "url": "https://ourworldindata.org/co2-emissions"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "clean-energy-child-labour",
+      "category": "materials",
+      "verdict": "mostly-false",
+      "claim": "clean energy relies on child labour and exploitation",
+      "heard_as": [
+        "EVs run on child labour",
+        "Green energy = blood diamonds",
+        "You're powering your Tesla with cobalt from Congo mines",
+        "Renewables aren't ethical",
+        "Clean tech has a dirty secret",
+        "Electric cars exploit African workers"
+      ],
+      "kernel": "Because the reporting on cobalt mining in the DRC is horrifying and accurate. Children do work in artisanal mines. People do die in mine collapses. Toxic exposure damages workers' health. Anyone who reads about it is right to be angry — and right to worry about whether an EV in their driveway is complicit. The mistake is applying that concern only to clean tech while ignoring the same cobalt in the phone in your pocket and the historical cobalt used in petrol car catalytic converters.",
+      "truth": "**Cobalt — the \"blood diamond of batteries\":** - **74% of world cobalt is mined in the Democratic Republic of Congo (DRC)** - Informal DRC mining is often brutally exploitative — hundreds of thousands of workers, including children, paid a few dollars a day - Mine collapses, falling rocks, chemical exposure and eye damage are common - **EVs are now the biggest single use of cobalt: 45%.** **Electronics (phones, laptops) use 26%.** **Context on the DRC itself:** - **>60%** of people live on less than **$2 a day** - **80%** don't have electricity or safe drinking water - **Mining is 90%** of the country's exports and a vital income source for millions **Other minerals with governance risks:** - **~50% of world mineral reserves** are in countries with \"weak\" or \"poor\" governance scores - **94% of rare earths, 70% of cobalt, 59% of nickel, 41% of copper, 34% of lithium** are in these countries **Signs of change:** - **BloombergNEF cobalt forecasts keep falling.** In 2019 it predicted over **300,000 tonnes** of cobalt needed by 2030. Three years later, that forecast was **under 150,000 tonnes**. - **Tesla now puts LFP (no cobalt) batteries in more than half its new cars** - **BYD** is investing in **sodium-ion batteries** — no cobalt, no lithium - **EU Critical Raw Materials Act (2023)** forces regular supply chain audits and caps how much of a mineral can come from a single country",
+      "say_this": "Exploitation in mineral supply chains is real — cobalt from the Democratic Republic of Congo especially, where children work in unsafe informal mines. It's an urgent problem. But it isn't unique to clean energy. Your phone, your laptop and even parts of the fossil fuel supply chain use the same cobalt from the same mines. And clean energy is one of the few industries actually moving away from cobalt — Tesla, BYD, Chinese battery makers. This is a problem to fix, not a reason to keep burning coal.",
+      "pushback": [
+        {
+          "if": "So EVs are built on child labour.",
+          "reply": "Some of them, partly, yes. So is the phone in your pocket. So is fossil fuel refining (cobalt is used as a catalyst in petrol engines). This isn't an EV problem — it's a global supply chain problem, and clean energy is one of the sectors moving away from cobalt fastest."
+        },
+        {
+          "if": "We should boycott these countries.",
+          "reply": "Simple, wrong answer. Mining is a huge share of DRC income and one of the main livelihoods there. Cutting the country out entirely would push millions further into poverty without fixing the exploitation. The right answer is **reforming supply chains** — better wages, safer conditions, getting children into school. That's harder than boycotting, but actually helps people."
+        },
+        {
+          "if": "Switching to LFP batteries fixes everything.",
+          "reply": "It removes cobalt from that specific battery — a real win. But LFP still uses lithium, which comes with its own mining and water concerns. Sodium-ion batteries use neither cobalt nor lithium. Each generation of the technology has fewer contested inputs. The trajectory is genuinely improving."
+        },
+        {
+          "if": "Rich countries just import the problem.",
+          "reply": "Also true. The rich countries buying phones and EVs know what's happening in DRC and don't do enough to change it. Both mining countries and importing countries share responsibility. Improving conditions requires pressure from both ends of the chain."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Amnesty International",
+          "url": "DRC cobalt reports"
+        },
+        {
+          "label": "EU Critical Raw Materials Act (2023)",
+          "url": ""
+        },
+        {
+          "label": "BloombergNEF",
+          "url": "cobalt demand forecasts"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "clean-energy-uses-too-much-water",
+      "category": "materials",
+      "verdict": "mostly-false",
+      "claim": "clean energy uses too much water to be sustainable",
+      "heard_as": [
+        "EVs use tons of water to make",
+        "Lithium mining is draining Chile",
+        "Solar panels use lots of water",
+        "Green energy is destroying water supplies",
+        "Renewables aren't sustainable because of water",
+        "It's a water disaster"
+      ],
+      "kernel": "Because the local water impacts are real and severe. In parts of northern Chile, mining uses more than half of all the fresh water in the region. Indigenous communities have been badly affected. Investigative journalism on lithium and copper mining focuses on exactly these places. If you're reading that reporting, \"mining is killing water supplies\" isn't a myth — it's a documented fact in specific places. The mistake is generalising it into \"clean energy uses too much water\" globally, when the fossil fuel system uses far more.",
+      "truth": "**Where the local problem is real:** - **16% of critical mineral mines** are in areas with **high water stress** - For **copper and lithium**, about **half of world supply** comes from high or extreme water stress regions - In parts of northern **Chile**, **mining uses over half** of all fresh water — creating serious conflict with local communities **But mining is a small share of overall water use:** - Even in Chile, **mining uses just 4% of water**; **farming uses 72%** **EV vs petrol — today's picture:** - **China**: an EV uses **262 m³** of water over its life vs **137 m³** for petrol — almost double - **US**: an EV uses about **⅓ more water** than a petrol car - Reason: **82%** of the water use comes from **making the electricity**, not building the car or battery — and most electricity today is still fossil fuels **Once electricity goes clean, EVs win on water too:** - EVs charged with **solar or wind** use about **two-thirds less water** than petrol cars **Solar and wind vs fossil energy — the big picture:** - Solar and wind use **5-10× less water than natural gas** per unit of electricity - Solar and wind use **10-100× less water than coal** - Coal, gas and nuclear plants all need huge volumes of water to cool their equipment - Solar panels and wind turbines need essentially none **Water use in the US is already falling** as the country moves from coal → gas → solar and wind.",
+      "say_this": "Overall, clean energy uses much less water than fossil fuels — coal, gas and nuclear plants all need huge volumes for cooling, and solar and wind don't. The real problem is local: lithium and copper mining happens in a few specific places that are already very short on water, especially northern Chile. EVs also use more water than petrol cars today, but only because they're mostly charged with fossil electricity — with solar and wind, they use two-thirds less.",
+      "pushback": [
+        {
+          "if": "But EVs use more water than petrol cars.",
+          "reply": "Today, yes — because the electricity is mostly fossil fuels. Fossil power plants need enormous amounts of water for cooling, and that shows up in the EV lifecycle. As the grid decarbonises, EVs cross over to using less water than petrol cars. In a solar/wind grid, they use two-thirds less."
+        },
+        {
+          "if": "Chile is running out of water because of lithium.",
+          "reply": "Northern Chile has a real crisis, and lithium brine extraction is part of it. The specific fix is **direct lithium extraction** (DLE) — pulling lithium from brine without evaporating the water. This works and is being deployed. The broader point still stands: lithium mining uses 4% of water in Chile; farming uses 72%. Both need addressing."
+        },
+        {
+          "if": "So clean energy is fine on water then?",
+          "reply": "Locally, no — some mining regions are being pushed to their water limits. Globally, yes — clean energy uses far less water than the fossil system it's replacing. Both things are true."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "WRI Aqueduct",
+          "url": "Water Stress Atlas"
+        },
+        {
+          "label": "IEA",
+          "url": "water use per unit energy"
         }
       ],
       "wiki": ""
@@ -911,6 +1054,56 @@
       "wiki": ""
     },
     {
+      "id": "flying-shipping-hopeless",
+      "category": "transport",
+      "verdict": "mostly-false",
+      "claim": "there's no hope for low-carbon flying and shipping",
+      "heard_as": [
+        "You can't decarbonise flying",
+        "Shipping is impossible to fix",
+        "Aviation will never be clean",
+        "We just have to accept flight emissions",
+        "There's no green jet fuel",
+        "Long-distance travel is stuck with fossil fuels"
+      ],
+      "kernel": "Because the physics is unusually unforgiving. A container ship crossing the Pacific carries 80,000 tonnes of cargo for weeks. A jumbo jet lifts hundreds of tonnes to 40,000 feet using enormous amounts of energy per second. Nothing about battery-electric replicates that. Anyone who's read a technical paper on jet fuel replacement knows the shortlist is very small, and none of the options is easy. So \"hopeless\" feels grounded — until you look at what's actually being tested.",
+      "truth": "",
+      "say_this": "Aviation and shipping are the hardest sectors to decarbonise, but \"hard\" isn't \"impossible.\" Norway already runs 60+ electric ferries. Maersk is building 18 methanol-powered container ships. Short flights and ferries can go electric today. For long-haul, we don't yet have a clear winner between hydrogen, biofuels and synthetic fuels — but each has real options being tested. These will probably be the last sectors to fully decarbonise, not sectors that never do.",
+      "pushback": [
+        {
+          "if": "Battery-electric long-haul flights are impossible.",
+          "reply": "Correct — the energy density isn't there and probably won't be for decades. But long-haul isn't the only category, and hydrogen or synthetic fuels can serve it. Battery-electric works for short-haul, which is a real slice of aviation."
+        },
+        {
+          "if": "Biofuels compete with food.",
+          "reply": "Yes, this is a real constraint. Vegetable-oil biofuel for all aviation would use more oil than the world grows for food. Waste-fat biofuel has a much lower ceiling. So biofuels probably handle a share of aviation, not all of it. That's fine — no single fuel is going to solve everything."
+        },
+        {
+          "if": "Hydrogen aviation needs a fifth of world electricity.",
+          "reply": "For **all** current aviation, yes. That's a real scale problem. In practice, hydrogen aviation would grow alongside grid expansion — as more clean electricity comes online, more hydrogen becomes viable. It doesn't need to solve aviation on day one."
+        },
+        {
+          "if": "Shipping and aviation avoid climate rules.",
+          "reply": "True and infuriating. **No country is responsible for international flights or shipping**, so both industries have been able to duck at climate talks for decades. This is a governance problem, not a technology problem. The fix is putting them formally under UN climate accountability."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Maersk",
+          "url": "18 methanol ship announcement"
+        },
+        {
+          "label": "IEA",
+          "url": "Aviation and Shipping decarbonisation roadmaps"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "food-local-vs-meat",
       "category": "food",
       "verdict": "false",
@@ -968,6 +1161,98 @@
         {
           "label": "Carbon Brief, 21 EV myths factchecked",
           "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "heat-pumps-dont-work-in-cold",
+      "category": "energy",
+      "verdict": "false",
+      "claim": "heat pumps don't work in cold climates",
+      "heard_as": [
+        "Heat pumps don't work when it's freezing",
+        "They stop working below zero",
+        "You need a gas backup",
+        "They can't heat old houses",
+        "Nordics only use them because they're rich",
+        "They're a scam in cold climates"
+      ],
+      "kernel": "Because it's technically true that heat pumps do lose some efficiency below zero. Every heat pump manufacturer publishes performance curves that show this. Anyone who reads the spec sheet and stops there concludes \"yeah, they must struggle.\" The mistake is treating a small efficiency drop as \"doesn't work\" rather than \"still much better than the alternative.\"",
+      "truth": "Heat pump efficiency is measured as **COP (Coefficient of Performance)** — how many units of heat you get out per unit of electricity in. A COP of 3 means 1 kWh of electricity produces 3 kWh of heat. - **Between 5°C and –10°C**, heat pumps average a COP of about **2.7** — solidly efficient - Field study of **550 heat pumps** across Switzerland, Germany, UK, Canada and US: COP ranged from **3.3 in Canada** to **2.5 in China** - Compare to alternatives: - **Gas boiler**: 0.7–0.8 (70–80% efficient — you lose 20–30% up the flue) - **Electric radiator**: ~1.0 - **Heat pump in a UK winter**: ~2.7 — beats both **Real-world users agree.** Nesta surveyed 2,500 UK heat pump users: - **3 out of 4 people** said they were happier, or just as happy, with their heat pump compared to their old heating system - Satisfaction was similar across old Victorian houses and modern homes — so the \"doesn't work in old leaky homes\" version of the myth also doesn't hold up The countries that have adopted them most: - **Norway, Sweden, Finland**: highest heat pump penetration per household in Europe - **Alaska**: common even with winters below –20°C",
+      "say_this": "They lose a little efficiency, but they still work. The best proof is that Norway, Sweden and Finland — three of the coldest countries in Europe — have the highest heat pump adoption per household. Alaska is full of them too. If they didn't work in the cold, that wouldn't happen. Real efficiency in a UK winter is around 2.7, still much better than the 0.7 to 0.8 a gas boiler manages.",
+      "pushback": [
+        {
+          "if": "But they use loads more electricity when it's cold.",
+          "reply": "Yes, and that's the honest bit. As the outside temperature drops, COP drops. A UK cold-snap winter day might have a heat pump running closer to COP 2.0 or slightly below. It still beats a gas boiler on energy, though not necessarily on cost (see the [cost myth](heat-pumps-too-expensive.md))."
+        },
+        {
+          "if": "My old Victorian house won't work with one.",
+          "reply": "The Nesta survey found similar satisfaction rates in old and new homes. Good insulation helps everything, but heat pumps do not require perfect insulation. If your radiators are appropriately sized and the installer is competent, an old house works fine."
+        },
+        {
+          "if": "But badly installed ones don't work well.",
+          "reply": "This is the real bottleneck. A poorly installed heat pump underperforms badly. Installing one is a skilled job combining engineering, plumbing, pipe-fitting and refrigeration. The UK has roughly **3,000 trained heat pump engineers** and needs closer to **30,000 by 2030**. Training is the choke point, not the technology."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Nesta",
+          "url": "UK Heat Pump User Survey (2,500 respondents)"
+        },
+        {
+          "label": "Field study, 550 heat pumps across Switzerland, Germany, UK, Canada, US",
+          "url": ""
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "heat-pumps-too-expensive",
+      "category": "energy",
+      "verdict": "mostly-false",
+      "claim": "heat pumps are too expensive",
+      "heard_as": [
+        "You can't afford a heat pump",
+        "They only make sense if you're rich",
+        "Even with the grant they're too expensive",
+        "Running costs are higher than gas",
+        "They're a luxury product",
+        "Electricity is too expensive for heat pumps to compete"
+      ],
+      "kernel": "Because the upfront cheque really is bigger. Households don't think in \"lifetime cost\" — they think in \"what does the installer's quote say.\" And in the UK, the quote genuinely is £4,500 higher than the boiler alternative even with the grant applied. That's a real barrier, especially for lower-income households. Pretending otherwise doesn't help anyone.",
+      "truth": "**Upfront cost (UK):** - Heat pump install: about **£12,000** (air-source) - Gas boiler: about **£2,750** (£2,500-£3,000) - Gap: **~£9,000** before grants - **UK government grant**: **£7,500** - **Net gap after grant**: ~**£2,000** more than a gas boiler **The distributional problem is real:** Nesta survey — heat pumps are rare in the poorest UK areas, common among wealthier households. Even at £2,000 above a boiler, they are out of reach for many. **Running cost:** - **UK electricity costs ~4× more than gas** per unit - But heat pumps deliver ~3 units of heat per unit of electricity, so break-even is roughly a COP of 3 - **Average UK heat pump COP: 2.9** — right at the break-even edge Result in the UK today: some households save, some pay more (especially in cold snaps when COP drops). This is not the case globally: - **Average US, European, South Korean and Japanese households saved money on heating by switching in 2021-22** - Continental European savings widened after the Russia-Ukraine gas price spike **Lifetime cost:** - Including install + running over the whole lifespan, heat pumps usually work out **cheaper than a gas boiler** — even in countries where governments pay large subsidies - Heat pumps typically save a few hundred dollars a year on running costs, which recoups the extra upfront over time - Heat pumps are the **cheapest route to decarbonise heating**, cheaper than direct electric heaters or hydrogen boilers",
+      "say_this": "Running costs are usually lower than a gas boiler, and lifetime cost usually wins too. But the sticker price is genuinely a barrier. In the UK an air-source heat pump is around £12,000 to install versus £2,750 for a gas boiler. Even with the £7,500 government grant, that's still £2,000 more. The problem isn't the technology, it's affordability upfront — which is fixable with bigger grants and fairer electricity pricing.",
+      "pushback": [
+        {
+          "if": "So they're cheaper only if you can afford the upfront.",
+          "reply": "Correct, and this is the specific problem inside the wider claim. **Bigger grants for lower-income households** is the direct policy fix. The current UK grant helps middle-income households but is not enough for low-income ones."
+        },
+        {
+          "if": "Electricity is 4× the cost of gas in the UK. There's no way it's cheaper to run.",
+          "reply": "The efficiency ratio makes up most of that gap. A heat pump at COP 3.0 uses ⅓ the energy of a boiler. 4× cost × ⅓ energy ≈ 1.3× cost — close to break-even. Modern heat pump tariffs from Octopus and OVO can bring the running cost below gas — combining an efficient heat pump with one of these tariffs can **halve** a household's heating bill."
+        },
+        {
+          "if": "Energy taxes make electricity more expensive than gas.",
+          "reply": "Yes, and this is another honest bit of the problem. In many countries, energy taxes are loaded onto electricity rather than gas — historically because gas was assumed to be the household default. Shifting those taxes off electricity, or onto gas instead, would tilt the economics further in favour of heat pumps."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Nesta",
+          "url": "2,500 heat pump users, 1,000 gas boiler users survey"
+        },
+        {
+          "label": "UK Boiler Upgrade Scheme (BUS)",
+          "url": "£7,500 grant"
         }
       ],
       "wiki": ""
@@ -1150,6 +1435,277 @@
       "wiki": ""
     },
     {
+      "id": "low-carbon-cement-impossible",
+      "category": "materials",
+      "verdict": "false",
+      "claim": "we'll never be able to make low-carbon cement",
+      "heard_as": [
+        "Cement is impossible to decarbonise",
+        "You need limestone, so you release CO2, end of story",
+        "Cement will always be a climate problem",
+        "There's no green cement",
+        "We can't replace concrete"
+      ],
+      "kernel": "Because the chemistry is uniquely awkward. Cement is made by heating limestone (CaCO3) at very high temperature. Doing that releases CO2 directly from the rock itself — before you even count the fuel used to heat the kiln. There's no way to make cement from limestone without releasing that CO2. If you fix your gaze on that single fact, \"cement is impossible to decarbonise\" sounds obvious.",
+      "truth": "**Why cement matters:** - **7% of global greenhouse gas emissions** — more than shipping and aviation combined - For every **1 tonne of concrete**, roughly **1 tonne of CO2** goes into the atmosphere **Three genuine routes to cut it:** **1. Use less cement in concrete.** Cement is one ingredient in concrete (mixed with water, sand, aggregate). Europe's mix is currently ~78% cement. Many countries build safely with much less. Cutting European mixes to 50% cement by 2050 could reduce industry CO2 by **40%**. **2. Carbon capture and storage (CCS).** Capture the CO2 as it leaves the kiln, pipe it underground. This works — **Heidelberg Cement** is building the first commercial-scale plant in Norway. It costs more: - Normal cement: **~$125 per tonne** - CCS-cement: **$100-200 per tonne extra** (75-140% more per Gates' book) - In places with cheap energy: extra cost could be as low as **$40 per tonne** - The US **Inflation Reduction Act** already provides an **$85/tonne tax break** for captured and stored CO2 Even though CCS-cement is expensive per tonne, cement is a small share of what a house costs, so the finished-product impact is **very small**. **3. Use a different rock entirely.** Instead of limestone (which contains carbon), use **calcium silicate rocks like basalt** (which don't). No CO2 released during heating. Useful magnesium by-products can actually **absorb CO2 from the air**. **Brimstone** has proven the concept and is building a test plant. Basalt is one of the most common rocks on Earth.",
+      "say_this": "Cement is 7% of global emissions and it's the second-most-used material on Earth after water. It's genuinely hard to decarbonise, but there are three real routes and all three work: use less cement in each mix, capture the CO2 at the plant, or use a different rock entirely. The first plant using basalt instead of limestone is being built. Cement made with capture costs more, but adds tiny amounts to the final price of a house.",
+      "pushback": [
+        {
+          "if": "CCS-cement is way too expensive.",
+          "reply": "Per tonne of cement, yes. Per house, the extra cost is tiny — cement is a small fraction of a house's price. And in places with cheap clean energy, the CCS premium can be as low as **$40/tonne**. Government support (like the US IRA's $85/tonne tax credit) closes most of the gap."
+        },
+        {
+          "if": "Basalt cement is a lab experiment.",
+          "reply": "Brimstone has proven the concept and is building a test plant. That's the same stage lab-grown meat was at 10 years ago. Ten years ago most people thought CCS was the only real option. The list has grown."
+        },
+        {
+          "if": "You can't rebuild every cement plant.",
+          "reply": "You don't have to. Use less cement in every mix (route 1) — that alone cuts 40% at zero technology change, only building regulation change. Then retrofit CCS to plants that keep producing (route 2). New capacity in basalt regions can use route 3."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Bill Gates, *How to Avoid a Climate Disaster*",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "Cement industry decarbonisation roadmap"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "low-carbon-steel-impossible",
+      "category": "materials",
+      "verdict": "false",
+      "claim": "we'll never be able to make low-carbon steel",
+      "heard_as": [
+        "You can't make steel without coal",
+        "Steel is impossible to decarbonise",
+        "Green steel is a fantasy",
+        "It costs too much to compete",
+        "There's not enough hydrogen",
+        "We'll always need coking coal"
+      ],
+      "kernel": "Because two-thirds of the world's steel is made using coal (technically \"coke,\" made from coal). That's been true for over a century — anyone who works in steel knows the coal is central. If you frame the problem as \"steel needs coal,\" decarbonising sounds impossible. What that framing misses is that coal isn't there because steel physically requires it. Coal is there because it strips oxygen out of iron ore. Hydrogen does the same thing without producing CO2.",
+      "truth": "**Where steel emissions come from:** - **7% of global greenhouse gas emissions** - **~⅔ of the world's steel** is made using coke (from coal); the remaining **⅓** is recycled scrap in electric arc furnaces - 1 tonne of new steel = ~**0.8 tonnes of coal** burned = most of the emissions **Two proven routes to remove coal:** **1. Hydrogen instead of coal.** Hydrogen strips oxygen from iron ore, just like coal does. The by-product is water (H2O), not CO2. Requires clean hydrogen. **2. Direct electrification.** Use electricity instead of burning coal. A third option — **carbon capture** at the current plant — works but is more expensive. **The scale numbers:** - 1 tonne of \"green steel\" needs **~4 MWh of electricity** - Making the world's 1.3 billion tonnes of steel this way would need **5,200 TWh** — about **⅕ of world electricity generation today** - Total investment needed globally: about **€1.3 trillion**, or **€50 billion/year over 25 years** (per H2 Green Steel figures) **The cost premium is genuinely small on finished products:** - Green steel: **~25% more** per tonne - A $25,000 car: about **$150 more** (0.5-1%) - A $250,000 house: about **$400 more** (0.2%) - An offshore wind turbine: **0.5-2%** cost increase **Who's building it:** - **H2 Green Steel** — plant under construction in Sweden with government support - **ArcelorMittal** — converting a Spanish plant to hydrogen with government support - **Boston Metal** — direct electrification, backed by Microsoft; first plant expected 2026 **Most European steel companies** have committed to cutting emissions **30-50% or more by 2030**.",
+      "say_this": "We already know how to make green steel — use hydrogen instead of coal, or electrify the process directly. Both are proven at pilot scale and the first commercial plants are being built now in Sweden, Spain and the US. The problem is scale and cost, not technology. Green steel adds about 25% to the price of steel, but that's about $150 on a car and $400 on a house.",
+      "pushback": [
+        {
+          "if": "Green steel is a lab curiosity.",
+          "reply": "Not any more. H2 Green Steel's Boden plant is under construction. Boston Metal's first plant is expected in 2026. ArcelorMittal has committed billions to hydrogen conversion. These are commercial-scale projects, not lab demonstrations."
+        },
+        {
+          "if": "It needs too much electricity.",
+          "reply": "5,200 TWh globally is about a fifth of current world generation. That's not nothing — but a **25% rise in global electricity demand over 25 years** matches the trajectory of the grid buildout for other electrification (EVs, heat pumps). It's part of the transition, not blocking it."
+        },
+        {
+          "if": "25% more expensive means nobody buys it.",
+          "reply": "The finished-product impact is tiny. A car maker paying 25% more for its steel raises car prices by less than 1%. Buyers won't notice. What matters is car makers demanding green steel — because their own Scope 3 emissions targets require it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "H2 Green Steel",
+          "url": "Boden plant technical documentation"
+        },
+        {
+          "label": "Boston Metal",
+          "url": "direct electrification process"
+        },
+        {
+          "label": "IEA",
+          "url": "Iron and Steel Roadmap"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "meat-substitutes-too-expensive",
+      "category": "food",
+      "verdict": "mostly-false",
+      "claim": "meat substitutes are too expensive",
+      "heard_as": [
+        "Fake meat is a luxury product",
+        "Plant burgers cost twice as much",
+        "Vegan food is only for people who can afford it",
+        "Lab meat will always be more expensive than real meat",
+        "Green food is a rich person's thing",
+        "Substitutes aren't at price parity"
+      ],
+      "kernel": "Because for some products it's true. Plant-based bacon really does cost more than pork bacon in UK supermarkets. Plant-based burgers can cost noticeably more than beef burgers. Anyone who has bought both knows this. The mistake is generalising \"some plant products are pricier\" into \"plant substitutes are unaffordable\" — the picture varies a lot by product.",
+      "truth": "Looking at **UK supermarket prices per kg**: - **Chicken and plant-based chicken**: overlap heavily; some plant versions are actually cheaper - **Mince**: plant and meat versions overlap in price - **Sausages**: plant and meat versions overlap - **Burgers**: some overlap, but plant burgers can cost noticeably more - **Bacon**: plant-based bacon tends to be more expensive than pork bacon - **Fish**: one of the more expensive meats regardless Overall: plant-based substitutes are not always more expensive, but on average still tend to cost more than the meat equivalent, especially for bacon and burgers. **Lab-grown (cultivated) meat cost trajectory:** - **2013**: about **$2.4 million per kg** - **Today**: roughly **$10-100 per kg** — about **50,000× cheaper** in ~10 years - Cost keeps falling on a curve similar to solar, wind and batteries - Still needs to fall further to compete with chicken; a lot further to compete with cheap beef",
+      "say_this": "For chicken and mince the price gap is already small — plant versions overlap with meat versions in UK supermarkets. Bacon and burgers still cost more. Lab-grown meat has dropped 50,000× in cost since 2013 and is still falling fast, but it's not yet cheap enough to compete with chicken, let alone beef. Two ways to close the gap: make substitutes cheaper, or make meat reflect its true cost. Cheaper substitutes is the more realistic path.",
+      "pushback": [
+        {
+          "if": "Just tax meat to level the price.",
+          "reply": "Politically extremely hard. UK surveys show **only about 1 in 5 people** support a meat tax. The 2021 UK National Food Strategy consultation found a meat tax was the **least popular idea** among all its suggestions — and it caused strong disagreement among panel members. Meat tax also risks hurting the roughly **3 billion people worldwide who cannot currently afford a full healthy diet**."
+        },
+        {
+          "if": "Nothing will change unless meat gets more expensive.",
+          "reply": "Two paths, not one. Making substitutes cheaper is the more politically viable route. Reallocating **existing farm subsidies away from meat and dairy** toward plant proteins would have a similar price effect to a meat tax, but tends to be more politically acceptable — it's not a new tax, it's just spending public money differently."
+        },
+        {
+          "if": "Lab-grown meat is a fantasy for the rich.",
+          "reply": "At $10-100/kg it's still expensive, but the cost has fallen faster than any food technology in memory. The trajectory looks like solar's — early adopters pay premium prices, then production scaling drops costs steeply. The **regulatory bottleneck** is now more binding than the cost bottleneck. Singapore and the US have approved cultivated meat for humans; the UK allows it only for pet food; Italy and some US states have banned it outright."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "UK National Food Strategy (2021)",
+          "url": ""
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "meat-substitutes-unhealthy",
+      "category": "food",
+      "verdict": "false",
+      "claim": "meat substitutes are ultra-processed junk food",
+      "heard_as": [
+        "Beyond Meat is ultra-processed junk",
+        "Fake meat is worse for your health",
+        "Veggie burgers are just junk food",
+        "Real meat is more natural",
+        "Impossible Burger is basically Coke",
+        "You should just eat vegetables, not processed alternatives"
+      ],
+      "kernel": "Because \"ultra-processed\" as a category has a bad reputation, and rightly so — high consumption is linked to obesity, diabetes, cancer and heart disease. If plant-based meats meet the technical definition of ultra-processed, it's easy to lump them in. The mistake is treating \"ultra-processed\" as one homogeneous category when the evidence shows the harm comes from specific sub-groups (processed meats, sugary drinks), not from all processed food equally.",
+      "truth": "**Nutrition compared to processed meat:** - Meat substitutes tend to have **fewer calories, less total fat, less saturated fat** - Usually **higher in fibre** - Some match a beef burger's 20-25 g protein per serving; some come in lower at ~15 g - Protein **quality** is worth noting: animal foods contain the full range of amino acids; plant foods often need combining (a varied plant diet does it easily) - Substitutes often fall short on **calcium, zinc and vitamin B12** unless fortified — many products are now fortified **The \"ultra-processed\" checklist** (typical criteria — 8 markers): | Criteria | Processed meat | Plant-based meat | |---|---|---| | Convenient | ✅ | ✅ | | High in calories | ✅ | ❌ | | High in sugar | ❌ | ❌ | | High in saturated fat | ✅ | ❌ | | High in salt | ✅ | ❌ | | Many ingredients | ✅ | ✅ | | Low in fibre | ✅ | ❌ | | Couldn't be made in a normal kitchen | ✅ | ✅ | Plant-based meat ticks **3 of 8** markers. Processed meat ticks **6 of 8**. Not the same category on any measure that actually matters for health. **What the health evidence actually says:** - High **overall** ultra-processed food consumption is linked to obesity, diabetes, cancer, heart disease - When researchers look inside the \"UPF\" category, the food groups doing the damage are **processed meats and sugary drinks** - Other UPFs, including meat substitutes, **show no link to higher disease risk** — some studies even find **lower risk** - More **plant-based protein** in the diet is associated with better health outcomes and lower early-death risk",
+      "say_this": "They tick some ultra-processed boxes — many ingredients, factory-made — but they miss the ones that actually cause harm: high calories, high saturated fat, high salt, low fibre. In the health evidence, the ultra-processed foods clearly linked to disease are **processed meats** and **sugary drinks**. Plant-based meats don't show the same link, and some studies find they're associated with lower disease risk. Grouping veggie burgers with fizzy drinks isn't supported by the science.",
+      "pushback": [
+        {
+          "if": "But they're still ultra-processed.",
+          "reply": "Yes, technically. But the \"ultra-processed\" category is heterogeneous. A veggie burger and a can of Coke both meet the definition, but they behave very differently in the body. The specific health harms come from calorie density, saturated fat, salt, low fibre, and specific ingredients like nitrates in processed meat. Meat substitutes don't hit those harm markers."
+        },
+        {
+          "if": "Cows are natural, factories aren't.",
+          "reply": "Naturalness isn't a nutritional metric. A beef burger and a plant burger both come out of a factory to a large extent (mince, stabilisers, packaging). The question is what's inside them, not where they were assembled."
+        },
+        {
+          "if": "What about processing damaging the food?",
+          "reply": "Fair concern. Some processing does affect nutrition — very high heat, very long processing, chemical solvents. Modern extrusion and mycoprotein processes retain most nutritional value, though not all. If you're worried, tofu, tempeh and unprocessed legumes are the base-line reference — cheaper and healthier than most substitutes, though less convenient."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "NOVA food classification (Monteiro et al., São Paulo)",
+          "url": ""
+        },
+        {
+          "label": "Cochrane and BMJ reviews of ultra-processed food consumption and disease outcomes",
+          "url": ""
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "meat-substitutes-worse-for-climate",
+      "category": "food",
+      "verdict": "false",
+      "claim": "meat substitutes are worse for the climate because they're processed",
+      "heard_as": [
+        "Beyond Meat is worse than a real steak",
+        "Processed food has a bigger footprint",
+        "The energy in fake meat cancels the benefit",
+        "Lab-grown meat is worse than beef",
+        "Impossible Burgers aren't really green",
+        "Factory food is climate-heavy"
+      ],
+      "kernel": "Because factory-made food does use energy — running fermenters, heating, packaging, refrigerated logistics — and that shows up as emissions. It sounds intuitive that \"grown naturally on a farm\" would be lower carbon than \"manufactured in a factory.\" What that intuition misses is how much land use and methane emissions come from actual livestock production, which is much bigger than any factory energy input.",
+      "truth": "Ritchie compares carbon emissions **per 100 g of protein**, whole supply chain (farming, processing, packaging): - **Beef and lamb** are by far the highest-emitting protein sources on the planet - **Pork** is lower than beef/lamb but still very high - **Meat substitutes** (Impossible Burger, Beyond Meat, tofu, Quorn/mycoprotein, peas) all cause **much lower emissions than beef and lamb** — often **more than 10× lower than pork** - Meat substitutes also beat **most chicken and egg production** — only the most efficient chicken farms come close - **Lab-grown (cultivated) meat**: lower than beef, roughly similar to chicken - Even when comparing substitutes to the **most climate-friendly beef and pork farmers** (not the average), substitutes still win almost every time - Straight plant foods (**peas, beans, lentils**) still beat processed substitutes, but the substitutes still beat any meat",
+      "say_this": "They're not. Meat substitutes use energy in factories, but they still cause much less carbon than real meat, especially beef and lamb — often more than ten times less than pork. Even compared to the most climate-friendly beef farms, substitutes come out ahead almost every time. Peas and beans still beat processed substitutes, but the substitutes still comfortably beat any meat.",
+      "pushback": [
+        {
+          "if": "But they use so much electricity to make.",
+          "reply": "They do — and it's still nothing next to methane from ruminants. Livestock emissions are dominated by methane (from cow digestion) and land-use change (from clearing forest for pasture). Factory energy for a plant burger is a small addition compared to what a cow burps out over its life."
+        },
+        {
+          "if": "But I read lab-grown meat could be 25× worse than beef.",
+          "reply": "That headline came from a **specific study using a biopharmaceutical-style production method** — an unusual, energy-intensive way of making lab meat, not how the industry actually plans to do it. Standard cultivated-meat processes are much lower carbon than beef, even when run on today's fossil-heavy grid. If they run on solar or wind, they're dramatically better."
+        },
+        {
+          "if": "Are substitutes really better than the best beef?",
+          "reply": "Yes, in almost every case. Even the most climate-efficient beef producers still emit more per 100 g of protein than a plant burger does. The gap between \"best beef\" and \"average beef\" is real, but both sit above substitutes."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Poore & Nemecek (2018), *Science*",
+          "url": "food carbon footprints per unit protein"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "mineral-dependency-same-as-oil",
+      "category": "materials",
+      "verdict": "mostly-false",
+      "claim": "we'll just swap fossil fuel dependency for mineral dependency",
+      "heard_as": [
+        "We'd just depend on China instead of the Middle East",
+        "Rare earths are the new oil",
+        "It's a bad trade — one dependency for another",
+        "China controls the transition",
+        "Mineral dependency is worse than fossil fuel dependency",
+        "We're going to get held hostage by Beijing"
+      ],
+      "kernel": "Because the concentration numbers really are stark. China dominates rare earth refining, cobalt production is heavily DRC-centred, lithium is concentrated in Australia and South America. If you frame this as \"we'd depend on China for energy instead of Saudi Arabia,\" it sounds like trading one dependency for another. What that framing misses is that fossil dependency is on the running of the system, whereas mineral dependency is on the building of it.",
+      "truth": "**Mining concentration:** - **>70% of cobalt** is mined in the DRC - **>60% of rare earths and graphite** are produced in China - **>70% of platinum** comes from South Africa **Refining concentration (even more concentrated):** - China refines **>80% of world rare earths** - China also dominates refining of cobalt, lithium and copper - China dominates finished-product production too: **batteries and EVs** **Fossil fuel dependency for comparison:** - **86% of the world's population** live in countries that **import fossil fuels** (energy insecure) - Only **14%** live in fossil fuel exporters - When Russia invaded Ukraine in 2022, **up to 50,000 people across Europe died** from cold + energy poverty; high energy prices also pushed food prices up (via fertiliser costs) **Renewables shift the picture dramatically:** - If the world ran on renewables, **92% of the world's population** would live in countries with enough sun or wind to cover **at least 10× their own energy needs** - Only **8%** would have marginal renewable resources",
+      "say_this": "There's a real concentration in mineral supply — China refines 80% of the world's rare earths, the DRC mines 70% of cobalt. But this is a different kind of risk than fossil fuel dependency. Fossil fuels are fuels: cut off the supply and the lights go out. Minerals are used to build things: cut off supply and you can't build **new** clean tech, but the panels and turbines you already have keep working. Nobody can turn off the sun.",
+      "pushback": [
+        {
+          "if": "So we'd just be dependent on China instead of Saudi Arabia.",
+          "reply": "For the near-term build-out, partially yes. But once you have solar panels and turbines installed, nobody can cut off the sun or the wind. Fossil fuels require an unbroken supply chain forever. Minerals require a supply chain for the build-out phase only."
+        },
+        {
+          "if": "China could weaponise rare earths.",
+          "reply": "They already tried, briefly, in the 2010 dispute with Japan. Prices spiked and the world responded by finding non-Chinese sources. Reserves and refining capacity outside China grew fast. Rare earth cartelisation is much harder than oil cartelisation because rare earths are geologically widespread — they just aren't refined widely."
+        },
+        {
+          "if": "But we still need to build a lot for decades.",
+          "reply": "Yes. That's why the diversification push matters. **US, Australia, Norway, Sweden, Portugal** are all developing new mining and refining capacity. Norway recently discovered Europe's largest rare-earth deposit. The **US Inflation Reduction Act** is putting significant money into domestic mineral processing. AI-driven mineral discovery (KoBold Metals, HyperSpectral) is making new deposits easier to find. This is a solvable diversification problem, not a dependency trap."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "Critical Minerals reports"
+        },
+        {
+          "label": "EU Critical Raw Materials Act (2023)",
+          "url": ""
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "minerals-shortage",
       "category": "materials",
       "verdict": "false",
@@ -1292,6 +1848,48 @@
         {
           "label": "IEA",
           "url": "Global EV Outlook 2024"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "not-enough-land-for-plant-based",
+      "category": "food",
+      "verdict": "false",
+      "claim": "there isn't enough land for everyone to go plant-based",
+      "heard_as": [
+        "There isn't enough land for everyone to eat plants",
+        "Vegan diets would need more land",
+        "We can't grow enough vegetables for everyone",
+        "Grazing land would go to waste",
+        "The math doesn't work for a plant-based world",
+        "Cows use land we can't use anyway"
+      ],
+      "kernel": "Because at first glance, replacing meat with lots of vegetables sounds like you'd need lots of extra veg fields. There's also a common intuition that grazing land is \"wasted\" if it's not producing meat — so switching away from meat would somehow strand it. The mistake is missing that most of the cropland today is already growing food for animals, not people.",
+      "truth": "**Where farmland actually goes:** - **Grazing land + cropland used for animal feed = 75% of all farmland on Earth** - Only **half of the world's cereal crops** go directly to human food - **75% of the world's soybeans are fed to animals**, not humans - **Tofu, tempeh, soy milk use only 7% of world soy** (~20% including soybean oil) **How wasteful animals are as calorie converters:** - Feed a **cow** 100 calories → get **3 calories** back as meat or milk - Feed a **pig** 100 calories → get 9 back - Feed a **chicken** 100 calories → get 13 back Animals give us about **37% of our calories** but eat most of the crops. **What a plant-shift means for land** (from the modelling Ritchie cites): - **Current diet**: about **4 billion hectares** of farmland - **Fully plant-based diet**: about **1 billion hectares** - That's a **75% cut** The reason grazing land doesn't fully help even if released: **two-thirds of the world's grazing land can't grow crops anyway** — the soil, terrain or climate isn't suitable. So it isn't waste, but it also can't easily be turned into cropland.",
+      "say_this": "The opposite. Going more plant-based needs less land, not more, because most farmland today grows food for animals, not for people. Three-quarters of the world's farmland supports livestock. A fully vegan world would need about **1 billion hectares** of cropland instead of the current 4 billion — a 75% drop. Even a moderate shift makes a bigger difference than a few people going fully vegan.",
+      "pushback": [
+        {
+          "if": "But what about the land the animals graze on?",
+          "reply": "Two-thirds of it can't grow crops anyway. That's fine — grazing is a legitimate use of unarable land. The issue is the **arable land** that today grows soy and maize to feed animals, when it could grow food for humans directly. That share is the big saving."
+        },
+        {
+          "if": "Everyone going vegan is unrealistic.",
+          "reply": "Correct, and Ritchie is explicit about this. She doesn't argue for 100% vegan. Even a moderate cut in meat and dairy across the whole world would matter more than a small group of people going fully vegan. That's the target, not a plant-only future."
+        },
+        {
+          "if": "You'd need vast new fields of vegetables.",
+          "reply": "Some, yes — more fruit and vegetables would be needed. But the drop in animal-feed cropland is much larger, so the net effect is much less total farmland used. This is the [EAT-Lancet](../sectors/agriculture-food/eat-lancet-planetary-diet-2025.md) modelling number: total agricultural land falls by about 3.4 million km² — an area the size of India — under a full dietary shift."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "Poore & Nemecek (2018), *Science*",
+          "url": "global food-system land use"
         }
       ],
       "wiki": ""
@@ -1667,6 +2265,56 @@
       "wiki": ""
     },
     {
+      "id": "renewables-more-mining",
+      "category": "materials",
+      "verdict": "false",
+      "claim": "renewables and EVs mean a lot more mining",
+      "heard_as": [
+        "Green energy needs way more mining",
+        "Renewables are just moving the mining",
+        "We'll destroy the planet with lithium mines",
+        "EVs need more resources than petrol cars",
+        "The mining for green tech is unsustainable",
+        "You're trading one extraction problem for another"
+      ],
+      "kernel": "Because the specific pictures of lithium mines and cobalt operations in the news are real. Battery mineral demand is going up. New mines are being permitted, sometimes controversially. If you compare \"a factory-made solar panel\" to \"a cave that already produces coal\", it looks like renewables are adding mining rather than replacing it. What that framing misses is the coal that goes into a coal plant every year, and the oil and gas that constantly needs to be extracted.",
+      "truth": "**Mining per unit of electricity — coal is the worst by a very wide margin:** - **Coal** needs about **30× more mining than renewables** per unit of electricity - **Coal** needs about **100× more mining than nuclear** per unit - Gas needs ongoing extraction of **~125,000 tonnes of gas per TWh** of electricity **Why the numbers surprise people:** to get 1 kg of copper, miners need to dig up **160 kg of ore** and move **510 kg of rock** — copper is only 0.6% of the ore. That means the numbers already include the rock moved. Fossil fuels need the same ore-vs-usable calculation, and they do worse. **Clean energy build-out scale by 2040 (peak):** - **25-50 million tonnes of minerals per year** for solar, turbines, transmission and EVs - Sounds enormous — and it is a fraction of what fossil fuel extraction moves annually **The core insight — one-off vs. continuous:** - Building a coal plant uses fewer raw materials than building a solar plant - But the coal plant then needs a **constant supply of coal** for the whole 40-year lifespan - A solar panel or wind turbine, once built, needs no more materials. **The fuel — sunshine, wind — is free.** - So when you look at the whole picture (build + run), solar, wind and nuclear all need **far less total mining** than coal or gas **Efficiency improves the picture over time:** - Silver in a 2018 solar panel could now make **2 panels** - Silver in a 2010 panel could now make **5 panels** - Solar panels now use **⅛ the polysilicon** they needed in 2004 **Electricity vs EVs — different pictures:** - Mining for **electricity production**: falls as we move from coal to solar/wind - Mining for **EVs specifically**: might rise slightly compared to petrol cars - But when you combine both (electricity + transport), total mining still **falls significantly**",
+      "say_this": "Actually the opposite. Going clean means less mining overall, not more. Coal power needs about 30 times more mining than renewables and 100 times more than nuclear, per unit of electricity. And the coal has to be dug up **continuously** — solar panels and turbines only need materials once, when they're built. Yes, we do need copper, lithium and nickel for clean tech, but the total mining footprint drops sharply.",
+      "pushback": [
+        {
+          "if": "Look at all these new lithium mines opening.",
+          "reply": "Yes — because global demand is scaling up fast. But the total volume of rock being moved for the transition is still a fraction of what fossil fuel extraction moves. And once the new mines are online, they run for decades without needing constant new coal deliveries."
+        },
+        {
+          "if": "Coal mines already exist. Renewable mines are new.",
+          "reply": "That's the framing trap. Existing coal mines require constant new blasting, extraction and transport. Their impact isn't paid off, it's ongoing every day. A solar panel plant, once built, needs no more mining input."
+        },
+        {
+          "if": "Watch out for those charts saying renewables need way more materials.",
+          "reply": "Some do circulate, especially the 2015-era chart that shows renewables needing more materials than fossil fuels. That chart is outdated (before solar and wind became efficient) and usually excludes the fuel burned in coal and gas plants — which is actually the biggest material cost of fossil fuels."
+        },
+        {
+          "if": "EVs really do need more mining than petrol cars.",
+          "reply": "For the car alone, roughly yes. But when you add up all the mining a petrol car requires over its life (steel, aluminium, oil pumped and refined), and compare to the mining an EV requires (steel, aluminium, battery), the EV comes out closer than the framing suggests. And **when you combine transport and electricity**, the total falls sharply."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "mineral intensity of electricity generation"
+        },
+        {
+          "label": "Our World in Data",
+          "url": "Mining and materials per unit energy"
+        }
+      ],
+      "wiki": ""
+    },
+    {
       "id": "renewables-need-fossil-fuels-to-build",
       "category": "energy",
       "verdict": "false",
@@ -1889,6 +2537,60 @@
         {
           "label": "Lazard",
           "url": "Levelized Cost of Energy Analysis"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "running-out-of-minerals",
+      "category": "materials",
+      "verdict": "false",
+      "claim": "we're going to run out of the minerals needed for clean energy",
+      "heard_as": [
+        "We're running out of lithium",
+        "There's not enough cobalt in the world",
+        "Green energy will hit resource limits",
+        "Rare earths are running out",
+        "You can't scale renewables because of minerals",
+        "Peak lithium is coming"
+      ],
+      "kernel": "Because \"we're running out of X\" is a classic anxiety, and it has come and gone for oil, water, food and now minerals. Every generation gets its \"peak resource\" story. And the clean energy build-out really does need a lot of specific minerals in a short time. Anyone who reads a headline about \"lithium shortages\" is right that there is a real supply crunch. The mistake is confusing a short-term extraction bottleneck with a long-term reserves problem.",
+      "truth": "**Reserves are growing faster than production:** - **Global lithium production**: ~30,000-40,000 tonnes/year in 2008 → **over 150,000 tonnes/year by 2022** - **Global lithium reserves**: a few million tonnes in 2008 → **over 20 million tonnes by 2022**. Reserves have grown faster than production. **Clean energy tech would raise material demand by 5-15% overall** — not a runaway increase. Supplies will be tighter for specific materials (**lithium, cobalt, copper**), but even for these, either there's enough today or the gap is closing through new deposits, substitution and efficiency. **Efficiency gains are already happening fast:** - The **silver in a 2018 solar panel** could now make **2 panels** - The **silver in a 2010 panel** could now make **5 panels** - Solar panels use **⅛ the polysilicon** they needed in 2004 **Reserves vs. resources — two different words:** - **Reserves**: deposits that can be extracted economically with today's technology - **Resources**: known deposits, including ones that aren't economically worth extracting yet - Both categories grow as prices change and technology improves. **What the major agencies say:** - **IEA**: generally no signs of shortages in available resources - **IRENA**: no scarcity of reserves for energy transition minerals; reserves from economically viable sources have grown - **Energy Transitions Commission**: no fundamental shortage of any raw material for a global net-zero transition - **Rocky Mountain Institute**: world has enough minerals for the entire energy transition and is rapidly building the mines",
+      "say_this": "We're not running out. Lithium reserves have grown faster than lithium production. Every major energy agency — IEA, IRENA, Rocky Mountain Institute, Energy Transitions Commission — says there's no fundamental shortage. The real risk isn't running out; it's getting stuff out of the ground fast enough over the next 5 to 10 years, because opening a new mine takes a decade.",
+      "pushback": [
+        {
+          "if": "But mining takes forever to open.",
+          "reply": "Yes — and that is the real bottleneck. Discovering and exploring a new deposit takes **over a decade**. Lithium sourcing takes **~4 years in Australia** and **~6 years in South America**. Once a deposit is found, permitting and construction take **~5 more years**. In the US, mine permits alone take **7 to 10 years**. That's why the next 5-10 years are the tight window — not because of geology."
+        },
+        {
+          "if": "We're already fighting over lithium.",
+          "reply": "Prices are volatile because the industry is scaling up. Volatility isn't the same as scarcity. Even a big lithium price spike doesn't mean the world is running out — it means demand outpaced production for a specific stretch. New reserves are being discovered constantly."
+        },
+        {
+          "if": "What about after 2030?",
+          "reply": "Substitution and recycling ease the picture over time. Tesla now uses **lithium iron phosphate (LFP)** — no cobalt — in more than half its cars. BYD is investing in **sodium-ion batteries** (no cobalt or lithium at all). Aluminium can replace copper in power lines when copper gets expensive. The 2030s look easier on materials than the 2020s."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)",
+          "url": ""
+        },
+        {
+          "label": "IEA",
+          "url": "Critical Minerals reports"
+        },
+        {
+          "label": "IRENA",
+          "url": "Energy Transition Minerals reports"
+        },
+        {
+          "label": "Energy Transitions Commission",
+          "url": "Making Mission Possible"
+        },
+        {
+          "label": "Rocky Mountain Institute",
+          "url": "Reality Check on Clean Energy Minerals"
         }
       ],
       "wiki": ""
