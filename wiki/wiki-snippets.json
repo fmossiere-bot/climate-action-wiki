@@ -1,62 +1,5 @@
 [
   {
-    "slug": "draft-class-11-en-roads",
-    "filename": "_Archive/DRAFT - Class 11 - En-ROADS.md",
-    "label": "Class 11 — En-ROADS Climate Policy Simulator",
-    "summary": "Helpful websites, SLIDES from the Lab session",
-    "category": "climate-science",
-    "tags": [
-      "science"
-    ],
-    "keywords": [
-      "https",
-      "climateinteractive",
-      "en-roads",
-      "screenshot"
-    ]
-  },
-  {
-    "slug": "facts-climate-myth-busters-back-pocket-stories",
-    "filename": "_Archive/FACTS - Climate \"Myth Busters\" & Back Pocket stories.md",
-    "label": "FACTS — Climate Myth Busters and Back Pocket Stories",
-    "summary": "FACT: Clean energy technologies produce far less carbon pollution than fossil fuels, The 'Pause' vs the 'Surge', Transitioning will create more unemployment, Renewable energy creates jobs, PV, Wind farm and EV batteries will drain our minerals resources, Myth 1: We don’t have enough materials to build what we need to fight climate change, Myth 2: All that mining will be worse for the climate and environment than fossil fuels. , We need to Electrify EVERYTHING, I’ve heard EVs are worse for the environment than regular cars—the power has to come from somewhere, after all , 21 Myths about EV, I heard they’re stacking wind turbine blades, solar panels, and EV batteries in landfills. Isn’t the waste from all this “clean” tech going to be a big problem, Battery Recycling is on its way, This battery recycling company is now cleaning up AI data centers, See more on Myth2 of MIT Technology, Regional differences can be significant, Vehicle size matters here too",
-    "category": "concepts",
-    "tags": [
-      "fossil-fuels",
-      "ev",
-      "battery",
-      "science"
-    ],
-    "keywords": [
-      "regional differences can be significant",
-      "vehicle size matters here too",
-      "batteries",
-      "https",
-      "recycling",
-      "technologyreview",
-      "battery",
-      "centers",
-      "power",
-      "redwood",
-      "data",
-      "microgrids"
-    ]
-  },
-  {
-    "slug": "the-climate-mitigation-gap-research",
-    "filename": "_Archive/The climate Mitigation Gap research.md",
-    "label": "The Climate Mitigation Gap — Individual Choices Research",
-    "summary": "",
-    "category": "concepts",
-    "tags": [],
-    "keywords": [
-      "potential",
-      "reduce",
-      "year",
-      "saved"
-    ]
-  },
-  {
     "slug": "biodiversity-for-business-101",
     "filename": "biodiversity-land/Biodiversity for Business 101.md",
     "label": "Biodiversity for Business 101",
@@ -3124,16 +3067,6 @@
     ]
   },
   {
-    "slug": "air-conditioning-luxury",
-    "filename": "myths/air-conditioning-luxury.md",
-    "label": "Myth: air conditioning is a luxury the climate can't afford",
-    "summary": "air conditioning demand, 2 billion AC units today 6 billion 2050, 3-4% of global GHG, 8% of world electricity, efficient AC halves demand, 3400 vs 6200 TWh 2050, India 45% peak demand risk, US 30% peak, humidity 50% of energy, fuel poverty cooling, heating causes 4x cooling emissions, solar aligns with cooling demand, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
     "slug": "carbon-capture-will-fix-it",
     "filename": "myths/carbon-capture-will-fix-it.md",
     "label": "Myth: we can just keep burning fossil fuels and capture the CO2",
@@ -3231,26 +3164,6 @@
       "ev vs petrol — today's picture",
       "china",
       "262 m³"
-    ]
-  },
-  {
-    "slug": "clean-energy-child-labour",
-    "filename": "myths/clean-energy-child-labour.md",
-    "label": "Myth: clean energy relies on child labour and exploitation",
-    "summary": "cobalt DRC child labour, 74% cobalt from Congo, 45% cobalt use EVs 26% electronics, 60% DRC below $2 a day, 80% no electricity, weak governance mineral reserves 94% rare earths 70% cobalt 59% nickel, Tesla LFP more than half, BYD sodium-ion, EU Critical Raw Materials Act 2023, phones fossil fuels also use cobalt, boycotting harm workers, supply chain audit, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
-    "slug": "clean-energy-uses-too-much-water",
-    "filename": "myths/clean-energy-uses-too-much-water.md",
-    "label": "Myth: clean energy uses too much water to be sustainable",
-    "summary": "clean energy water, 16% critical mineral mines high water stress, copper lithium half from water stressed, Chile lithium 4% water 72% farming, EV 262 m3 China 137 petrol, EV 82% water from electricity, solar wind 5-10x less than gas 10-100x less than coal, cooling nuclear coal gas water, lithium brine triangle Chile Argentina Bolivia, direct lithium extraction, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
     ]
   },
   {
@@ -3758,16 +3671,6 @@
     ]
   },
   {
-    "slug": "flying-shipping-hopeless",
-    "filename": "myths/flying-shipping-hopeless.md",
-    "label": "Myth: there's no hope for low-carbon flying and shipping",
-    "summary": "aviation shipping decarbonisation, 2-3% global emissions each, contrails, aviation doubled since 1990, 40% of shipping is fossil fuels, Norway 60 electric ferries 100 km limit, green methanol $320-720 vs $250 fossil, biofuel 250-300 million tonnes vegetable oil impossible, hydrogen aviation 4000 TWh 15-20% of world electricity, frequent flyer tax, private jets, Maersk 18 methanol ships, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
     "slug": "food-local-vs-meat",
     "filename": "myths/food-local-vs-meat.md",
     "label": "Myth: Buying local matters more than cutting down on meat",
@@ -3858,26 +3761,6 @@
       "running cost",
       "uk electricity costs ~4× more than gas",
       "average uk heat pump cop: 2.9"
-    ]
-  },
-  {
-    "slug": "heat-pumps-dont-work-in-cold",
-    "filename": "myths/heat-pumps-dont-work-in-cold.md",
-    "label": "Myth: heat pumps don't work in cold climates",
-    "summary": "heat pumps cold weather, COP coefficient of performance 2.7, Nordic countries highest heat pump adoption, Norway Finland Sweden, gas boiler 70-80%, electric radiator 100%, heat pumps beat both, Nesta 2500 users survey, Alaska minus 20C, UK 3000 to 30000 engineers, insulation, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
-    "slug": "heat-pumps-too-expensive",
-    "filename": "myths/heat-pumps-too-expensive.md",
-    "label": "Myth: heat pumps are too expensive",
-    "summary": "heat pumps cost, £12000 install vs £2750 gas boiler, £7500 UK grant, £2000 net gap, electricity 4x gas UK, COP 3 breakeven, UK average COP 2.9, US Europe South Korea Japan savings, Octopus OVO heat pump tariffs half heating bill, lifetime cheaper than gas boiler, fuel poverty, energy tax reform, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
     ]
   },
   {
@@ -4132,66 +4015,6 @@
     ]
   },
   {
-    "slug": "low-carbon-cement-impossible",
-    "filename": "myths/low-carbon-cement-impossible.md",
-    "label": "Myth: we'll never be able to make low-carbon cement",
-    "summary": "low-carbon cement, 7% of global emissions, 1 tonne CO2 per tonne concrete, calcination limestone process, cement 78% Europe mix cut to 50% saves 40%, CCS Heidelberg Norway, Brimstone basalt calcium silicate, cement CCS $100 to 200 more per tonne, house cost small fraction, US IRA $85 per tonne, three routes cement, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
-    "slug": "low-carbon-steel-impossible",
-    "filename": "myths/low-carbon-steel-impossible.md",
-    "label": "Myth: we'll never be able to make low-carbon steel",
-    "summary": "low-carbon steel, 7% global emissions, 0.8 tonnes coal per tonne steel, hydrogen replaces coke, 4 MWh per tonne green steel, 5200 TWh global 1/5 of world electricity, 25% cost premium tiny finished product impact, house $400 offshore wind 0.5-2%, H2 Green Steel Sweden, Boston Metal Microsoft, ArcelorMittal Spain, electric arc furnace scrap, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
-    "slug": "meat-substitutes-too-expensive",
-    "filename": "myths/meat-substitutes-too-expensive.md",
-    "label": "Myth: meat substitutes are too expensive",
-    "summary": "meat substitutes cost, plant-based bacon burgers more expensive, chicken sausages mince overlap price UK supermarket, lab-grown meat cost fell 50000x since 2013, $10 to $100 per kg, precision fermentation, meat tax unpopular 1 in 5 UK, reallocate subsidies, regulatory approval Singapore US, Italy US states banned, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
-    "slug": "meat-substitutes-unhealthy",
-    "filename": "myths/meat-substitutes-unhealthy.md",
-    "label": "Myth: meat substitutes are ultra-processed junk food",
-    "summary": "meat substitutes health, ultra-processed food UPF, plant-based meat less calories fat saturated fat, more fibre, protein 15-25g, protein quality amino acids, calcium zinc B12 fortified, processed meat sugary drinks disease link, UPF blanket rule wrong, Hannah Ritchie, NOVA classification, veggie burger vs Coke",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
-    "slug": "meat-substitutes-worse-for-climate",
-    "filename": "myths/meat-substitutes-worse-for-climate.md",
-    "label": "Myth: meat substitutes are worse for the climate because they're processed",
-    "summary": "meat substitutes carbon footprint, Impossible Beyond Meat Quorn tofu peas, 10x lower than pork, much lower than beef lamb, lab-grown meat similar to chicken, best beef vs substitutes, plant vs animal protein per 100g, lifecycle whole supply chain, clean electricity improves, Hannah Ritchie, unfounded lab-grown 25x claim",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
-    "slug": "mineral-dependency-same-as-oil",
-    "filename": "myths/mineral-dependency-same-as-oil.md",
-    "label": "Myth: we'll just swap fossil fuel dependency for mineral dependency",
-    "summary": "mineral dependency, China rare earths 80% refining, DRC cobalt 70%, South Africa platinum 70%, 86% world imports fossil fuels 14% exports, Russia Ukraine 50000 European deaths cold energy poverty, 92% renewable resource rich, minerals build vs fuel run, IRA lithium home, Norway rare earths largest Europe, KoBold Metals HyperSpectral AI mineral discovery, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
     "slug": "minerals-shortage",
     "filename": "myths/minerals-shortage.md",
     "label": "Myth: There aren't enough minerals in the world to build all this",
@@ -4310,16 +4133,6 @@
       "100 calories → get 9 back\n- feed a",
       "37% of our calories",
       "what a plant-shift means for land"
-    ]
-  },
-  {
-    "slug": "not-enough-land-for-plant-based",
-    "filename": "myths/not-enough-land-for-plant-based.md",
-    "label": "Myth: there isn't enough land for everyone to go plant-based",
-    "summary": "plant-based diets land use, 4 billion hectares current vs 1 billion vegan 75% drop, three-quarters farmland for livestock, two-thirds grazing land unarable, only half cereals for humans, 75% soybeans animal feed, tofu 7% of soy, cow 3 calories out of 100 in, pig 9, chicken 13, meat substitute alternatives, precision fermentation, Savor Foods lab fats, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
     ]
   },
   {
@@ -4557,16 +4370,6 @@
     ]
   },
   {
-    "slug": "renewables-more-mining",
-    "filename": "myths/renewables-more-mining.md",
-    "label": "Myth: renewables and EVs mean a lot more mining",
-    "summary": "renewables mining, coal 30x more than renewables, 100x more than nuclear, gas 125000 tonnes per TWh, ore concentration copper 0.6%, 25-50 million tonnes minerals for clean tech by 2040, silver efficiency doubled 5 years, fossil fuels ongoing extraction, one-off vs continuous, EV vs petrol lifetime materials, mineral recycling, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
-    ]
-  },
-  {
     "slug": "renewables-need-fossil-fuels-to-build",
     "filename": "myths/renewables-need-fossil-fuels-to-build.md",
     "label": "Myth: we need fossil fuels to build renewable energy",
@@ -4708,16 +4511,6 @@
       "what the major agencies say",
       "iea",
       "irena"
-    ]
-  },
-  {
-    "slug": "running-out-of-minerals",
-    "filename": "myths/running-out-of-minerals.md",
-    "label": "Myth: we're going to run out of the minerals needed for clean energy",
-    "summary": "minerals running out, lithium reserves growing 20 million tonnes 2022, production 150000 tonnes, clean energy 5-15% material demand rise, silver panel halved in 5 years polysilicon 1/8, reserves vs resources, IEA IRENA ETC RMI no fundamental shortage, aluminium copper substitute, cobalt free batteries Tesla LFP, 5-10 year supply crunch mining lead times, Hannah Ritchie",
-    "category": "myths",
-    "tags": [
-      "myth"
     ]
   },
   {
