@@ -520,6 +520,33 @@
     ]
   },
   {
+    "slug": "cigarette-butts-marine-pollution",
+    "filename": "circularity-waste/cigarette-butts-marine-pollution.md",
+    "label": "Cigarette Butts and Their Impact on Marine Environments",
+    "summary": "cigarette butts, cigarette filters, cellulose acetate microplastics, 137000 butts per second worldwide, 20000 tonnes France, 500 litres water contaminated, 7000 chemical compounds, 12 years breakdown, nicotine tar arsenic lead, marine pollution, ocean litter, coastal cleanup, Ocean Conservancy, Surfrider Foundation Europe filter ban, France AGEC law, Alcome eco-organisme, extended producer responsibility, EU Single-Use Plastics Directive 2019/904, disposable vapes puffs, lithium battery vape waste, polluter pays",
+    "category": "circularity-waste",
+    "tags": [
+      "plastic",
+      "ocean",
+      "circularity",
+      "eu-policy"
+    ],
+    "keywords": [
+      "editorial summary",
+      "137,000 butts are dropped",
+      "7,000 chemical compounds",
+      "cigarette",
+      "plastic",
+      "filters",
+      "litter",
+      "butts",
+      "ocean",
+      "tobacco",
+      "item",
+      "filter"
+    ]
+  },
+  {
     "slug": "plastic-mass-balance-greenwashing",
     "filename": "circularity-waste/plastic-mass-balance-greenwashing.md",
     "label": "The 'Recycled' Plastic That Isn't: Mass-Balance Accounting and the Pyrolysis Loophole",
@@ -589,6 +616,33 @@
       "already",
       "capacity",
       "agricultural"
+    ]
+  },
+  {
+    "slug": "artificial-reefs-coastal-protection",
+    "filename": "climate-adaptation/artificial-reefs-coastal-protection.md",
+    "label": "Artificial Reefs for Coastal Protection and Marine Biodiversity",
+    "summary": "artificial reefs, coastal erosion France 20% coastline 900 km, Cerema 5200 homes 1400 businesses €1.2 billion by 2050, storm Goretti Ambleteuse Pas-de-Calais January 2026, Wissant Aval dune 3.7 metres per year, Blue Living Reef project, LineUp Ocean, Blue Living Lab, Nausicaá Boulogne-sur-Mer, BPCE banking, 3D printing low-carbon mortar recycled oyster shells, 28 species colonisation, diadem sea urchins Tubastraea coccinea sergeant major fish, wave dampening 30-45%, Surfreef Palavas-les-Flots Hérault, Robin Alauze oceanographer, mangrove root systems, Posidonia seagrass, Wimereux Opale coast, nature-based solutions",
+    "category": "climate-adaptation",
+    "tags": [
+      "adaptation",
+      "ocean",
+      "biodiversity",
+      "nature-based-solutions"
+    ],
+    "keywords": [
+      "editorial summary",
+      "coastal",
+      "marine",
+      "modules",
+      "test",
+      "ocean",
+      "erosion",
+      "species",
+      "biodiversity",
+      "lineup",
+      "coast",
+      "results"
     ]
   },
   {
@@ -746,15 +800,15 @@
       "banking on climate chaos",
       "$906 billion",
       "$8.7 trillion",
-      "fossil",
-      "fuel",
-      "banks",
-      "lending",
-      "banking",
-      "largest",
-      "financing",
-      "voluntary",
-      "financial"
+      "— participated in a",
+      "to",
+      "europe's largest coal producer",
+      "ep energy transition (epetr)",
+      "\"green loan\"",
+      "august 2026",
+      "may 2026",
+      "aug 2026",
+      "fossil"
     ]
   },
   {
@@ -1172,7 +1226,7 @@
   {
     "slug": "record-hot-ocean-el-nino-2026",
     "filename": "climate-science/record-hot-ocean-el-nino-2026.md",
-    "label": "A Record-Hot Ocean and the 2026 El Niño: The Climate Story We're Barely Telling",
+    "label": "A Record-Hot Ocean, Rising Seas, and the 2026 El Niño",
     "summary": "ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-99%, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment",
     "category": "climate-science",
     "tags": [
@@ -3019,6 +3073,28 @@
     ]
   },
   {
+    "slug": "the-ocean-under-pressure-and-the-first-ocean-cop-in-2027",
+    "filename": "legislation-policy/The Ocean Under Pressure, and the First Ocean COP in 2027.md",
+    "label": "The Ocean Under Pressure, and the First Ocean COP in 2027",
+    "summary": "The ocean covers 71% of the planet, absorbing 25% of human CO2 emissions and 90% of excess climate heat, while producing half the world's oxygen and supporting 3 billion people who depend on marine resources. This system is under growing strain from warming, acidification, plastic pollution and overfishing. Two developments mark a shift in international response: the BBNJ agreement protecting biodiversity in international waters enters into force in 2026, and the first dedicated Ocean COP will take place in early 2027. A related target is protecting 30% of the ocean through marine protected areas by 2030, though implementation still faces significant challenges.",
+    "category": "legislation",
+    "tags": [],
+    "keywords": [
+      "ocean",
+      "around",
+      "first",
+      "international",
+      "protection",
+      "warming",
+      "marine",
+      "bbnj",
+      "areas",
+      "pressure",
+      "agreement",
+      "protected"
+    ]
+  },
+  {
     "slug": "ai-needs-fossil-fuels",
     "filename": "myths/ai-needs-fossil-fuels.md",
     "label": "Myth: AI will need so much energy we have to burn more fossil fuels to keep up",
@@ -3087,7 +3163,7 @@
       "over $1 trillion more per year",
       "yes, but it is treated as a",
       "$4 trillion in profit",
-      "capture"
+      "research is moving on the cost problem"
     ]
   },
   {
@@ -6780,6 +6856,34 @@
     ]
   },
   {
+    "slug": "france-biomethane-boom",
+    "filename": "solutions/renewables/france-biomethane-boom.md",
+    "label": "France's Biomethane Boom: Farm Waste Becomes a National Energy Source",
+    "summary": "France biomethane, 820 injection sites, 15.9 TWh green gas capacity 2025, 3.9% French gas consumption, 3 million tonnes CO2 avoided, 1 million households heated, bioGNV vehicles, Quaak brothers Chaumes-en-Brie Arcy farm, GRDF grid injection, Ademe six times less CO2, Naskeo methanisation exports, Waga Energy landfill gas, Shell Nature Energy Burgundy 230 GWh, TotalEnergies BioBéarn Pyrénées-Atlantiques 160 GWh, Engie Montauban-de-Bretagne, Sublime Énergie liquefied biogas Côtes-d'Armor, 50 TWh 2030 target, digestate fertiliser, methane leaks",
+    "category": "solutions",
+    "tags": [
+      "renewables",
+      "agriculture",
+      "energy-transition",
+      "circularity",
+      "methane"
+    ],
+    "keywords": [
+      "editorial summary",
+      "biomethane",
+      "methane",
+      "grid",
+      "france",
+      "french",
+      "farm",
+      "biogas",
+      "landfill",
+      "production",
+      "sector",
+      "waste"
+    ]
+  },
+  {
     "slug": "amoc-collapse-carbon-newscientist-2026",
     "filename": "sources/amoc-collapse-carbon-newscientist-2026.md",
     "label": "Collapse of key ocean current may release billions of tonnes of carbon",
@@ -6815,6 +6919,33 @@
       "10× faster",
       "amoc",
       "monitoring"
+    ]
+  },
+  {
+    "slug": "anais-masse-fondation-mer-ecologie360-2026",
+    "filename": "sources/anais-masse-fondation-mer-ecologie360-2026.md",
+    "label": "Interview with Anaïs Massé, scientific director at Fondation de la mer (Écologie 360, June 2026)",
+    "summary": "Anaïs Massé Fondation de la mer, ocean threats, 25% CO2 absorbed by ocean, 90% excess heat, 50% oxygen phytoplankton, 80% animal biomass, 9-14 million tonnes plastic annually, 18 tonnes per minute, 4000 toxic chemicals, 37.7% overexploited fish stocks, Mediterranean warming 20% faster, Miquelon relocation Saint-Pierre-et-Miquelon, 15 cm sea level rise 20th century, Repêchons les océans Ecoalf, mangroves 3x carbon tropical forest, Posidonia seagrass, marine protected areas 30 by 30, BBNJ high seas treaty, Ocean COP 2027, nature-based solutions, geoengineering caution",
+    "category": "sources",
+    "tags": [
+      "ocean",
+      "nature",
+      "biodiversity",
+      "adaptation"
+    ],
+    "keywords": [
+      "source",
+      "anaïs massé",
+      "fondation de la mer",
+      "\"repêchons les océans\"",
+      "25% of human co2 emissions",
+      "90% of excess heat",
+      "3 billion people",
+      "50% of earth's oxygen",
+      "80% of the world's animal biomass",
+      "+0.5°c",
+      "mediterranean is warming 20% faster",
+      "sea level rose 15 cm"
     ]
   },
   {
@@ -7442,6 +7573,33 @@
     ]
   },
   {
+    "slug": "french-banks-eph-reclaim-finance-2026",
+    "filename": "sources/french-banks-eph-reclaim-finance-2026.md",
+    "label": "French banks support EPH, contrary to their commitments (BankTrack / Reclaim Finance, July 2026)",
+    "summary": "EPH Energetický a průmyslový holding, €2.2 billion revolving credit facility RCF, May 2026, BNP Paribas Crédit Agricole Société Générale BPCE, ING Lloyds CaixaBank, Daniel Křetínský EP Group, largest coal producer Europe, 11.1 GW gas 5.5 GW new, EP Energy Transition EPETr sleight of hand, TotalEnergies TTEP joint venture, LMA Green Loan Principles, IEEFA S&P green finance framework, Reclaim Finance, coal exit 2030 claim",
+    "category": "sources",
+    "tags": [
+      "finance",
+      "fossil-fuels",
+      "greenwashing",
+      "eu-policy"
+    ],
+    "keywords": [
+      "source",
+      "issued on 21 may 2026 to",
+      "— participated, alongside",
+      "€2.2 billion rcf",
+      "ep group",
+      "largest coal producer",
+      "second-largest coal power plant operator",
+      "48.1 million tonnes of coal",
+      "11.1 gw of fossil gas",
+      "5.5 gw more",
+      "ttep joint venture with totalenergies",
+      "\"green loan\""
+    ]
+  },
+  {
     "slug": "geothermal-newscientist-2026",
     "filename": "sources/geothermal-newscientist-2026.md",
     "label": "How to unlock unlimited geothermal energy, anywhere we want (New Scientist, July 2026)",
@@ -7943,6 +8101,33 @@
     ]
   },
   {
+    "slug": "sand-battery-finland-pornainen-2026",
+    "filename": "sources/sand-battery-finland-pornainen-2026.md",
+    "label": "World's largest sand battery online in Finland (OilPrice.com, July 2026)",
+    "summary": "Polar Night Energy sand battery, 100 MWh Pornainen Finland, Loviisan Lämpö district heating, 2000 tonnes crushed soapstone, 400-600C storage, 5000 residents 1 week winter 1 month summer, Tommi Eronen CEO, thermal energy storage, no rare earth materials, no degradation, Vääksy 250 MWh 2027, spot market AI charging, 60-70% GHG cut, wood chip 60% reduction",
+    "category": "sources",
+    "tags": [
+      "renewables",
+      "energy",
+      "research",
+      "adaptation"
+    ],
+    "keywords": [
+      "source",
+      "company",
+      "loviisan lämpö",
+      "13-metre-tall silo",
+      "2,000 tonnes of crushed soapstone",
+      "100 mwh of renewable energy as heat",
+      "## key facts\n\n-",
+      "-",
+      "contains",
+      "- storage temperature",
+      "- charges via",
+      "up to 400°c"
+    ]
+  },
+  {
     "slug": "sbti-net-zero-rules-2026",
     "filename": "sources/sbti-net-zero-rules-2026.md",
     "label": "sbti-net-zero-rules-2026",
@@ -8059,6 +8244,33 @@
     ]
   },
   {
+    "slug": "solomon-siren-kale-island-smithsonian-2026",
+    "filename": "sources/solomon-siren-kale-island-smithsonian-2026.md",
+    "label": "The Solomon Siren commemorates Kale Island, submerged by rising seas (Smithsonian, July 2026)",
+    "summary": "Kale Island Solomon Islands submerged, 50000 square metres, Isabel Province, Gladys Habu Bartlett, Jason deCaires Taylor sculpture, Solomon Siren, pH-neutral cement biochar marine colonisation, 26000 Solomon Islanders relocated since 2008, sea level twice as fast, small island states climate loss, cultural heritage climate memory, art activism, coral seabirds marine life",
+    "category": "sources",
+    "tags": [
+      "adaptation",
+      "ocean",
+      "nature",
+      "biodiversity"
+    ],
+    "keywords": [
+      "source",
+      "artist",
+      "new underwater sculpture",
+      "jason decaires taylor",
+      "kale was a",
+      "\"the solomon siren,\"",
+      "gladys habu bartlett",
+      "kale island",
+      "50,000 m²",
+      "intertidal zone",
+      "ph-neutral cement and biochar",
+      "marine colonisation"
+    ]
+  },
+  {
     "slug": "swiss-glaciers-heatwave-2026",
     "filename": "sources/swiss-glaciers-heatwave-2026.md",
     "label": "Swiss glaciers facing 'enormous' loss from heatwave (RTÉ / AFP, June 2026)",
@@ -8109,6 +8321,32 @@
       "first arrivals",
       "higher trophic levels",
       "at wind farm foundations were"
+    ]
+  },
+  {
+    "slug": "ubs-private-prisons-swiss-ncp-2026",
+    "filename": "sources/ubs-private-prisons-swiss-ncp-2026.md",
+    "label": "Swiss watchdog finds UBS failed on two of three recommendations in private prisons complaint (BankTrack, Aug 2026)",
+    "summary": "UBS Swiss NCP private prisons, Worth Rises BankTrack complaint, CoreCivic GEO Group, passive investments, human rights due diligence, OECD guidelines, Ryan Brightwell BankTrack, Bianca Tylek Worth Rises, NCP process no sanctions, Barclays HSBC parallel complaints, corporate impunity, Swiss NCP Follow-up Statement, mediation refused",
+    "category": "sources",
+    "tags": [
+      "finance",
+      "esg",
+      "greenwashing"
+    ],
+    "keywords": [
+      "source",
+      "original document",
+      "swiss national contact point (ncp)",
+      "two-and-a-half-year complaint",
+      "worth rises and banktrack",
+      "ubs",
+      "corecivic and geo group",
+      "## key facts\n\n- complaint filed by",
+      "banktrack",
+      "\"only partially addressed\"",
+      "continues to hold investments",
+      "ryan brightwell"
     ]
   },
   {
@@ -8238,6 +8476,32 @@
       "oceans",
       "level",
       "heat"
+    ]
+  },
+  {
+    "slug": "viciazites-cheaper-ccs-chiba-2026",
+    "filename": "sources/viciazites-cheaper-ccs-chiba-2026.md",
+    "label": "New nitrogen-doped carbon materials capture CO2 at lower temperature (SciTechDaily / Chiba University, April 2026)",
+    "summary": "viciazites, activated carbon fibre, adjacent NH2 amine groups, Chiba University, Yasuhiro Yamada, Tomonori Ohba, Kota Kondo, coronene ammonia bromine, 76% selectivity, CO2 desorption below 60C, industrial waste heat, aqueous amine scrubbing above 100C, pyrrolic pyridinic nitrogen, Carbon journal 2026, next-generation CCS materials",
+    "category": "sources",
+    "tags": [
+      "carbon-removal",
+      "research",
+      "industry"
+    ],
+    "keywords": [
+      "source",
+      "peer-reviewed study",
+      "carbon adsorbents called \"viciazites\"",
+      "chiba university, japan",
+      "associate professor yasuhiro yamada",
+      "associate professor tomonori ohba",
+      "temperatures below 60°c",
+      "industrial waste heat",
+      "aqueous amine scrubbing",
+      "above 100°c",
+      "viciazites",
+      "synthesis"
     ]
   },
   {
