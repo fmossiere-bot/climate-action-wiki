@@ -49,8 +49,6 @@ There is also a caution about the new growth in some regions. In Brazil, new man
 - Natural regeneration — not replanting — is the main driver of recovery. ([BBC, 2026](https://www.bbc.com/news/articles/cn4pk07npvvo))
 
 ## Connected topics
-- [FACTS about the Ocean](../biodiversity-land/FACTS about the Ocean.md)
-- [FACTS about Wetlands](../biodiversity-land/FACTS about Wetlands.md)
 - [Ocean Carbon Removal Solutions](../solutions/carbon-removal/Ocean Carbon Removal solutions.md)
 - [Ireland Climate Adaptation](../ireland-hub/IRELAND Climate Adaptation.md)
 

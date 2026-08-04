@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-07-30
+Last updated: 2026-08-04
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -83,6 +83,12 @@ Summaries of every ingested source file.
 | [[geothermal-newscientist-2026]] | New Scientist (Jul 2026): three routes to global geothermal — EGS (Pohang M5.5 quake risk), AGS closed-loop (Eavor Germany, China Huaneng CO2), superhot (Iceland Deep Drilling, Quaise millimetre-wave); IEA 150× global electricity potential |
 | [[live-good-life-guimaraes-newscientist-2026]] | New Scientist (Jul 2026): Guimarães as a working example of a "consumption corridor" city — European Green Capital 2026; waste circularity 2.5× Portuguese average; –18% per-capita waste since 2018 |
 | [[pfas-datacentre-cooling-guardian-2026]] | Guardian (Jul 2026): 17 environmental groups urge US EPA to reject Chemours' Opteon 2P50 — first PFAS coolant fast-tracked under Trump's datacentre executive order; ECHA classified TFA breakdown product as hazardous |
+| [[french-banks-eph-reclaim-finance-2026]] | BankTrack / Reclaim Finance (Jul 2026): all four French banks join €2.2bn RCF to Czech coal-and-gas group EPH in May 2026 — labelled a "green loan"; EPH plans 5.5 GW new gas and forms TTEP JV with TotalEnergies |
+| [[ubs-private-prisons-swiss-ncp-2026]] | BankTrack (Aug 2026): Swiss NCP Follow-up finds UBS "partially addressed" 2 of 3 recommendations on CoreCivic/GEO Group; first European commercial bank to refuse NCP mediation — accountability parallel to climate |
+| [[viciazites-cheaper-ccs-chiba-2026]] | SciTechDaily / Chiba University (Apr 2026): new "viciazites" carbon adsorbents release CO2 below 60°C using waste heat; peer-reviewed in *Carbon* journal; lab-scale but promising for hard-to-abate industrial CCS |
+| [[sand-battery-finland-pornainen-2026]] | OilPrice.com (Jul 2026): world's largest commercial sand battery online in Pornainen, Finland — 100 MWh in 2,000 tonnes soapstone at 400-600°C; no rare earths; 250 MWh Vääksy follow-up in 2027 |
+| [[solomon-siren-kale-island-smithsonian-2026]] | Smithsonian Magazine (Jul 2026): Jason deCaires Taylor's "Solomon Siren" installed at Kale Island — 50,000 m² Solomon Islands island lost in 2016; 26,000+ Solomon Islanders relocated since 2008; pH-neutral cement designed for coral colonisation |
+| [[anais-masse-fondation-mer-ecologie360-2026]] | Écologie 360 (Jun 2026): interview with Anaïs Massé, scientific director of the Fondation de la mer — Mediterranean 20% faster warming, Miquelon relocation (first for France), 18 t plastic/min, MPA effectiveness three-factor test, BBNJ / Ocean COP 2027 |
 
 ---
 
@@ -110,7 +116,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | [[amoc-collapse-carbon]] | AMOC collapse could release 640 billion tonnes of CO₂; already past the 350 ppm irreversibility threshold — **updated** with monitoring defunding crisis and 10× faster Europe scenario |
 | [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
 | [[indirect-greenhouse-gases]] | Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
-| [[record-hot-ocean-el-nino-2026]] | Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off — **updated** July 2026 with WRI's ocean-warming synthesis (91% heat absorption, 11 cm sea rise, Tuvalu Falepili treaty) |
+| [[record-hot-ocean-el-nino-2026]] | Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off — **updated** July 2026 with WRI's ocean-warming synthesis (91% heat absorption, 11 cm sea rise, Tuvalu Falepili treaty); **updated** August 2026 with the Solomon Islands / Kale Island case (submerged 2016; 26,000+ relocated since 2008; Jason deCaires Taylor's "Solomon Siren" sculpture); **updated** August 2026 with the Miquelon relocation (first for France) and Mediterranean 20% faster warming (Anaïs Massé, Fondation de la mer) |
 | [[jetstream-heatwave-patterns-2026]] | **NEW** — Two jet-stream patterns behind Europe's long heatwaves: omega block (type I) and poleward shift (type II); Pappert & Martius (Bern) simulated 1,900 hot spells; June 2026 heatwave killed ~20,000 |
 
 ---
@@ -122,6 +128,7 @@ Adapting to unavoidable climate impacts.
 |------|-------------|
 | Class 20 - Adaptation and Resilience | Terra.do Class 20: adaptation strategies |
 | [[home-cooling-heatwaves]] | How to keep homes cool during heatwaves — fans, AC, heat pumps, passive cooling |
+| [[artificial-reefs-coastal-protection]] | **NEW** — Blue Living Reef (LineUp Ocean, Nausicaá): 3D-printed reef modules from low-carbon oyster-shell mortar; 28 species colonised in a 2-year tank trial; modelled 30–45% wave-dampening; open-sea trials at Wimereux (Opale coast) and Palavas-les-Flots next; Cerema projects €1.2bn French property at risk by 2050 |
 
 ---
 
@@ -131,7 +138,7 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Class 17 - Finance and Climate Change - Investment | Terra.do Class 17: climate investment |
-| [[fossil-fuel-banking]] | $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed |
+| [[fossil-fuel-banking]] | $906bn committed by 65 banks to fossil fuels in 2025; JPMorgan leads; Net-Zero Banking Alliance collapsed — **updated** August 2026 with the May 2026 €2.2bn EPH RCF (all four French majors + ING/Lloyds/CaixaBank; labelled "green loan"; TTEP JV with TotalEnergies) and the UBS/Swiss NCP private-prisons accountability parallel |
 | [[ariana-mine-santander]] | Ariana copper/zinc mine in Peru: $100m Santander loan enabling a project judged an "imminent threat" to drinking water for 10 million people in Lima |
 | [[bp-shareholder-rebellion-2026]] | **NEW** — BP's April 2026 AGM: triple shareholder revolt against climate-reporting rollback, online-only AGMs and the chair's re-election; LGIM, Glass Lewis, ISS and Follow This as movers |
 | Class 18 - Finance and Climate Change - RISK | Terra.do Class 18: climate financial risk |
@@ -368,6 +375,7 @@ Funding the transition — investment, risk, green banking.
 | Briquettes Carbon Neutral by WillowWarm | Low-carbon fuel briquettes |
 | FACTS about BLUE energy and Hydropower | Hydropower data |
 | FACTS about Biomass | Biomass energy |
+| [[france-biomethane-boom]] | **NEW** — France's biomethane industry: 820+ farm and industrial digesters, 15.9 TWh installed (3.9% of national gas), Ademe says 6× less CO2 than fossil gas; Shell (Nature Energy, Burgundy 230 GWh), TotalEnergies (BioBéarn), Engie, Waga Energy (landfill), Sublime Énergie (on-farm liquefaction); 2030 target 50 TWh; feedstock ceiling ~20% of gas demand |
 | FACTS about Clean & GREEN Hydrogen | Green hydrogen |
 | FACTS about NUCLEAR energy | Nuclear power data |
 | FACTS about Solar Energy | Solar energy data |
@@ -423,6 +431,7 @@ Funding the transition — investment, risk, green banking.
 | The Environmental Impact of the FASHION industry | Fashion's climate footprint — **updated** July 2026 with the EU's ESPR ban on destroying unsold clothes (in force from 19 July 2026) and a puffer-jackets case section (down/wool welfare, "100% recycled" caveats, 1-in-10 repair rate) |
 | [[seaqual-ocean-plastic-fashion]] | Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
 | [[plastic-mass-balance-greenwashing]] | **NEW** — Mass-balance accounting and the pyrolysis loophole: how Kraft Heinz, Mondelēz and others can label plastic "recycled" while it's 95% virgin naphtha; EU PPWR legalises the trick in 2026 |
+| [[cigarette-butts-marine-pollution]] | **NEW** — Cigarette butts as marine pollution: 137,000 dropped per second worldwide; 20,000 t/yr in France; cellulose acetate microplastics + 7,000 chemicals per butt; 500 L water contaminated; France's AGEC/Alcome scheme, EU SUP Directive, Surfrider filter-ban call, disposable vapes as new waste stream |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |
 | Waste to Energy - Project Drawdown 58 | Waste-to-energy systems |
 

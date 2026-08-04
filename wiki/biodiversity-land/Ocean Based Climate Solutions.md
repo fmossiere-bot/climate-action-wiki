@@ -63,7 +63,6 @@ One warning from Project Drawdown: mCDR funding should not divert money from pro
 ## Connected topics
 
 - [Mangrove Forests Recovery](mangrove-forests-recovery.md)
-- [FACTS about the Ocean](FACTS%20about%20the%20Ocean.md)
 - [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
 - [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md)
 

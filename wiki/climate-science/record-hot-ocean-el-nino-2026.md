@@ -1,14 +1,14 @@
 ---
-title: "A Record-Hot Ocean and the 2026 El Niño: The Climate Story We're Barely Telling"
+title: "A Record-Hot Ocean, Rising Seas, and the 2026 El Niño"
 category: climate-science
 tags: ["#science", "#ocean", "#adaptation", "#key-ideas", "#coalition"]
 sources: ["Forbes — Ingmar Rentzhog, 9 July 2026 — https://www.forbes.com/sites/we-dont-have-time/2026/07/09/why-a-record-hot-ocean-is-supercharging-the-el-nio-effect/"]
 created: 2026-07-13
-updated: 2026-07-26
+updated: 2026-08-03
 summary: ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-99%, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment
 ---
 
-# A Record-Hot Ocean and the 2026 El Niño: The Climate Story We're Barely Telling
+# A Record-Hot Ocean, Rising Seas, and the 2026 El Niño
 
 ## What is it
 
@@ -41,7 +41,7 @@ The headline framing is that El Niño drives weather. The deeper finding is that
 
 ## Even without El Niño, a hot sea rewrites the weather
 
-Warmer water evaporates faster, and warmer air holds more moisture. That loads the odds toward heavier rain and hands extra energy to storms that form over hot water. It also takes away the **cool nights** that coastlines rely on — the quiet killer in this year's June heatwave. The Mediterranean showed the pattern clearly: a sea running 5 to 6°C above normal in early summer is a huge store of moisture that often falls later in the year as **sudden, violent autumn rain**. Europe saw this in 2023, when a record-hot North Atlantic was followed by brutal heat, deadly Spanish floods and fierce fires around the Mediterranean.
+Warmer water evaporates faster, and warmer air holds more moisture. That loads the odds toward heavier rain and hands extra energy to storms that form over hot water. It also takes away the **cool nights** that coastlines rely on — the quiet killer in this year's June heatwave. The Mediterranean showed the pattern clearly: a sea running 5 to 6°C above normal in early summer is a huge store of moisture that often falls later in the year as **sudden, violent autumn rain**. Europe saw this in 2023, when a record-hot North Atlantic was followed by brutal heat, deadly Spanish floods and fierce fires around the Mediterranean. The Mediterranean is **warming ~20% faster than the global ocean average** — a European-specific acceleration flagged by Anaïs Massé, scientific director at Fondation de la mer, in a June 2026 interview.
 
 ## Coral, fisheries, and the permanent bill
 
@@ -53,6 +53,16 @@ The seasonal effects are only the visible edge. The deeper changes are slower an
 - Heat pushes fish toward cooler water; during the last strong El Niño, warm seas helped collapse **Peru's anchoveta fishery** — the world's biggest single-species fishery — and an entire season was cancelled
 
 Roughly **3 billion people get their protein from the sea**. The bill lands on food supplies and coastal economies.
+
+## Why a hot ocean means rising seas
+
+A lot of the human-consequence stories on this page — Tuvalu, the Gambia, Kale Island, Miquelon, Dublin Bay — are about the coast. The physical link between ocean heat and sea level is direct, and worth spelling out because it is not obvious:
+
+- **Thermal expansion (~40% of observed rise).** Warm water takes up more volume than cold water. A warmer ocean is a bigger ocean, even before a single extra ice cube is added. This alone accounts for roughly 40% of sea-level rise observed since 1900.
+- **Ice-shelf melt from below (~60%).** The ocean is now warm enough that heat is reaching the underside of Antarctic ice shelves — the floating ice that buttresses land-based glaciers. Warm water melts those shelves, the buttress weakens, and the glaciers behind them accelerate into the sea. Pine Island Glacier is the poster child, and the first anthropogenic-attribution study of its retreat was published in 2026 — see [Pine Island Glacier attribution (source)](../sources/pine-island-glacier-attribution-2026.md).
+- **Warm air melts land ice from above.** Greenland's surface melt and mountain glacier retreat compound the effect. See [Glaciers in Retreat](../biodiversity-land/Glaciers%20in%20Retreat%20-%20%20Facts,%20Risks,%20and%20What%20Can%20Be%20Done.md).
+
+The important consequence: **the ocean's heat store is what sets sea level.** Even if emissions stopped tomorrow, the deep sea would keep warming for centuries — and sea level would keep rising with it. That's why the acceleration figure matters (rate now ~4.75 mm/yr, up from ~2.65 mm/yr in the 1990s): it isn't only about how much has already happened, it's about how fast the baseline is moving.
 
 ## Two policy stories from 2026
 
@@ -101,6 +111,8 @@ The World Resources Institute's Global Director of Ocean, **Tom Pickerell**, pub
 - **Tuvalu** and Australia signed the **Falepili Union Treaty**, creating a formal migration pathway as rising seas increasingly flood areas that once remained dry at high tide.
 - In **The Gambia**, rising seas are pushing saltwater up the Gambia River into farmland; some villages have abandoned rice and vegetable fields because soils became too salty.
 - **Pacific Northwest oyster hatcheries** (Oregon and Washington, industry once valued at ~$111m) came close to collapse in the 2010s due to mass larval die-offs linked to acidified low-aragonite seawater. Monitoring and water-treatment systems partially recovered the industry.
+- **Kale Island (Solomon Islands)** was submerged around 2016 — one of the first islands anywhere documented as lost to sea-level rise. Its former 50,000 m² was home to a small community. **26,000+ Solomon Islanders have been relocated since 2008** due to sea encroachment and extreme weather. In July 2026, artist Jason deCaires Taylor installed **"The Solomon Siren"** at the site — a pH-neutral cement-and-biochar sculpture designed to become a coral substrate, modelled on Solomon Islander climate activist Gladys Habu Bartlett, and bearing sea-level markings for 2006, 2016, 2026, plus projected 2036 and 2046. See [Solomon Siren source summary](../sources/solomon-siren-kale-island-smithsonian-2026.md).
+- **Miquelon (Saint-Pierre-et-Miquelon)** — the French archipelago off Newfoundland — will need to be **relocated because of storm and flooding risk**, a first for France. Anaïs Massé (Fondation de la mer, June 2026) cites it as the first climate-driven relocation of a French village. See [Anaïs Massé interview (source)](../sources/anais-masse-fondation-mer-ecologie360-2026.md).
 
 ### WRI's three policy asks
 
@@ -121,6 +133,8 @@ WRI's Pickerell is blunt about what is now baked in: **"deep ocean warming and i
 - [Wildfires as a Climate Feedback Loop](wildfires-climate-feedback.md)
 - [Glaciers in Retreat](../biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md)
 - [UN World Ocean Assessment III (source)](../sources/un-world-ocean-assessment-2026.md)
+- [Anaïs Massé — Fondation de la mer interview (source)](../sources/anais-masse-fondation-mer-ecologie360-2026.md)
+- [Artificial Reefs for Coastal Protection and Marine Biodiversity](../climate-adaptation/artificial-reefs-coastal-protection.md)
 
 ## Sources
 

@@ -6,7 +6,7 @@ sources:
   - Hannah Ritchie, Not the End of the World (2024)
   - Chris Goodall — UK storage cost analysis
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-03
 cover_image: ""
 summary: intermittency storage, three time windows minutes hours days months, batteries 98% efficient, pumped hydro 80%, hydrogen 40-50%, heat storage, solar-wind complementarity summer winter, cross-border sharing, £3 trillion UK batteries backup vs billions hydrogen, nuclear geothermal hydro firm, Chris Goodall, Hannah Ritchie
 claim_id: intermittency-storage-problem
@@ -86,6 +86,8 @@ Some gas as **rare, occasional backup** is much better than gas as **primary gen
 **Cost of playing it safe.** Chris Goodall's £3 trillion/year to backstop the UK with batteries alone shows why "batteries can do everything" is wrong. Pick the right tool for the timescale. Batteries for short gaps, hydrogen or hydro for long ones, cross-border trade to smooth the middle.
 
 **The near-term push.** Wealthier countries need to prove 100% clean power at scale in the next 5-10 years. That proof — one country running cleanly through a full winter — is what unlocks the confidence and finance for everyone else to follow.
+
+**A concrete example of heat storage in action.** In July 2026, Finnish firm **Polar Night Energy** commissioned the world's largest commercial sand battery in **Pornainen**, Finland — a 13-metre-tall silo holding 2,000 tonnes of crushed soapstone at 400-600°C. Rated at **100 MWh**, it charges on surplus grid electricity and feeds district heating for the town's 5,000 residents for a week in winter or a month in summer. AI runs the charging on the spot market. No rare earths, no lithium, no degradation. A 250 MWh follow-up is planned in Vääksy for 2027. It's not a lithium replacement — it puts out heat, not electricity — but for heat-heavy regions (Nordic and industrial), it's exactly the kind of long-duration storage this myth's answer requires. See [sand battery source summary](../sources/sand-battery-finland-pornainen-2026.md).
 
 ## Connected topics
 

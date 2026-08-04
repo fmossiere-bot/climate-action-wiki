@@ -4,6 +4,80 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## 2026-08-04 ingest | 1 article + 2 own-research — Fondation de la mer interview, artificial reefs, France biomethane
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| interview with Anaïs Massé.md | Source summary + update | `wiki/sources/anais-masse-fondation-mer-ecologie360-2026.md` + Mediterranean +20% + Miquelon case added to `wiki/climate-science/record-hot-ocean-el-nino-2026.md` |
+| own-research/Artificial Reefs.md | File directly | `wiki/climate-adaptation/artificial-reefs-coastal-protection.md` (frontmatter + `> Editorial summary:` blockquote at top, body preserved verbatim per CLAUDE.md own-research rule) |
+| own-research/France's Biomethane Boom.md | File directly | `wiki/solutions/renewables/france-biomethane-boom.md` (frontmatter + `> Editorial summary:` blockquote, body preserved verbatim) |
+
+### Key facts introduced this batch
+
+- **Massé interview:** Mediterranean warming 20% faster than global average; Miquelon (Saint-Pierre-et-Miquelon) is first climate-driven relocation in France; 18 t plastic/min into ocean; 37.7% fish stocks overexploited; three-factor MPA effectiveness test (large + strict + connected); first Ocean COP set for early 2027 following BBNJ entry into force
+- **Artificial reefs (LineUp Ocean, Nausicaá):** France coastline erosion affects ~20% (900 km); Cerema €1.2bn property at risk by 2050; storm Goretti destroyed Ambleteuse dike January 2026; Wissant Aval dune –3.7 m/yr; 3D-printed reef modules with oyster-shell mortar; 28 species colonised in 2-yr tank trial; modelled 30–45% wave dampening; Wimereux and Palavas-les-Flots as next open-sea sites
+- **France biomethane:** 820+ injection sites (~½ of European total); 15.9 TWh installed = 3.9% of French gas; 3 Mt CO2 avoided; Ademe says 6× less CO2 than fossil gas; Shell/Nature Energy (Burgundy 230 GWh) France's largest; BioBéarn (TotalEnergies) 160 GWh; 2030 target 50 TWh; Sublime Énergie on-farm liquefaction unlocks +26 TWh potential; feedstock ceiling ~20% of gas demand
+
+### Files created
+
+- 1 new source summary in `wiki/sources/`
+- 2 new own-research pages: `wiki/climate-adaptation/artificial-reefs-coastal-protection.md` and `wiki/solutions/renewables/france-biomethane-boom.md`
+- 1 existing page updated: `wiki/climate-science/record-hot-ocean-el-nino-2026.md` (Miquelon + Mediterranean 20%; also cross-linked to artificial-reefs page)
+- `wiki/index.md` — 1 source row, 1 climate-adaptation row, 1 renewables row added; 1 existing row updated; date bumped to 2026-08-04
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Ocean cluster: Massé ↔ existing record-hot-ocean + WRI ocean + UN World Ocean; European lens complements Anglo-American sources
+- Coastal adaptation cluster: artificial reefs ↔ Solomon Siren (bio-colonising cement); ↔ Taiwan offshore wind reef fish (accidental colonisation on wind foundations); ↔ mangrove-forests-recovery (natural analogue)
+- Renewables cluster: biomethane ↔ manure-digesters (California parallel with leaks/incentive complications); ↔ methane emissions role; ↔ landfill methane capture; ↔ fossil fuel banking (the fossil-gas incumbent it partly displaces)
+
+---
+
+## 2026-08-03 ingest | 5 articles + 1 own-research — bank accountability, cheaper CCS, sand batteries, submerged islands, cigarette butts
+
+Mixed batch: 5 web articles and 1 own-research file. All routed to source summaries plus targeted updates on existing pages; the own-research file was filed directly per CLAUDE.md's own-research rule.
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| French banks support EPH.md | Source summary + update | `wiki/sources/french-banks-eph-reclaim-finance-2026.md` + update to `wiki/climate-finance/fossil-fuel-banking.md` (new "May 2026: French banks fund EPH's gas expansion" section) |
+| Private Prisons complaint UBS.md | Source summary + update | `wiki/sources/ubs-private-prisons-swiss-ncp-2026.md` + update to `fossil-fuel-banking.md` (new "Accountability parallels beyond climate" section) |
+| Scientists Just Made Carbon Capture Cheaper.md | Source summary + Go deeper | `wiki/sources/viciazites-cheaper-ccs-chiba-2026.md` + note in `wiki/myths/carbon-capture-will-fix-it.md` Go deeper section |
+| World's Largest Sand Battery.md | Source summary + Go deeper | `wiki/sources/sand-battery-finland-pornainen-2026.md` + note in `wiki/myths/intermittency-storage-problem.md` Go deeper section |
+| Solomon Siren, Kale Island.md | Source summary + update | `wiki/sources/solomon-siren-kale-island-smithsonian-2026.md` + case added to `wiki/climate-science/record-hot-ocean-el-nino-2026.md` in "Concrete human consequences" |
+| own-research/Cigarette Butts.md | File directly | `wiki/circularity-waste/cigarette-butts-marine-pollution.md` (frontmatter added, `> Editorial summary:` blockquote at top, body preserved verbatim per CLAUDE.md own-research rule) |
+
+### Key numbers this batch introduces
+
+- **EPH deal:** €2.2bn RCF; four French majors + ING, Lloyds, CaixaBank; 11.1 GW gas operated, +5.5 GW planned; 48.1 Mt coal/yr via parent EP Group; TTEP JV with TotalEnergies; loan labelled "green" then removed from database
+- **UBS:** Swiss NCP finds 2 of 3 recommendations "partially addressed"; first European commercial bank to refuse NCP mediation; parallel complaints outstanding against Barclays and HSBC
+- **Viciazites:** carbon adsorbents with adjacent –NH2 groups desorbing CO2 below 60°C (vs 100°C+ for aqueous amine); 76% adjacent-NH2 selectivity, 82% adjacent pyrrolic, 60% adjacent pyridinic; published in *Carbon* (2026)
+- **Sand battery:** 100 MWh, 13m tall, 2,000 t crushed soapstone, 400-600°C; serves 5,000 residents 1 week winter / ~1 month summer; ~70% GHG cut, ~60% wood-chip reduction; 250 MWh Vääksy follow-up 2027
+- **Kale Island:** ~50,000 m² submerged around 2016; 26,000+ Solomon Islanders relocated since 2008; global sea level +5-8 in (13-20 cm) since 1900, rate now roughly 2× a decade ago
+- **Cigarette butts:** 137,000/second worldwide, 20,000 t/yr France; 7,000 chemical compounds per butt; 500 L water contaminated; 12-year breakdown (range 1-15 yr); France's AGEC law + Alcome eco-organisme; EU SUP Directive 2019/904
+
+### Files created
+
+- 5 new source summaries in `wiki/sources/`
+- 1 new own-research page: `wiki/circularity-waste/cigarette-butts-marine-pollution.md`
+- 4 existing pages updated: `fossil-fuel-banking.md`, `carbon-capture-will-fix-it.md`, `intermittency-storage-problem.md`, `record-hot-ocean-el-nino-2026.md`
+- `wiki/index.md` — 5 source rows added, 1 circularity-waste row added, 2 existing rows updated; date bumped to 2026-08-03
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Bank accountability cluster: EPH ↔ UBS ↔ existing Ariana / BP / Banking on Climate Chaos pages — the "voluntary rules with no enforcement" through-line now spans climate, human rights and biodiversity
+- CCS cluster: viciazites source summary ↔ existing `carbon-capture-will-fix-it` myth; the myth's verdict does not change but Go deeper notes a real research direction
+- Storage cluster: Polar Night sand battery ↔ existing `intermittency-storage-problem` myth Go deeper — heat storage was previously abstract in that section, now anchored by a concrete 100 MWh commercial deployment
+- Ocean loss cluster: Solomon Siren ↔ existing Tuvalu / Gambia / oyster hatcheries entries in `record-hot-ocean-el-nino-2026`; a case that ties climate loss to cultural memory and artistic response
+- Circularity: cigarette butts ↔ EU Recycled Plastic misleading-claims, Fashion page, FACTS about Plastic — reinforces the "single-use plastics reach the ocean" theme with a specific under-covered product
+
+---
+
 ## 2026-07-30 ingest | 15 Hannah Ritchie myths — heat pumps, meat substitutes, hard-to-abate industry, minerals
 
 Fourth big Ritchie batch. 15 new myth pages from `raw/myths/`. Routing pass done first — all 15 confirmed as genuine standalone claims, no merges, one duplicate skipped.

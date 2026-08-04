@@ -6,7 +6,7 @@ sources:
   - Hannah Ritchie, Not the End of the World (2024)
   - Oxford University Smith School — cost of CCS pathways
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-03
 cover_image: ""
 summary: CCS, carbon capture and storage, Hannah Ritchie, 45 sites, 0.1% of global emissions, 149 projects, 100 cancelled, 80% US CCS projects failed, cement steel fertiliser 15% emissions, Oxford CCS pathways, $1 trillion per year cost, gas with CCS, silver bullet, delay decarbonisation, fossil fuel industry profits, $4 trillion 2022 profits, $100 per tonne, DAC direct air capture
 claim_id: carbon-capture-will-fix-it
@@ -69,6 +69,8 @@ They can and they should. In 2022 they made **$4 trillion in profit**. At roughl
 There is a specific pattern to watch for. **CCS gets used as a reason to delay cutting emissions today** — a fossil fuel company says "we will keep drilling because we will capture the CO2 eventually." That is the version of CCS the myth is really about. The version climate scientists advocate for is much narrower: a residual solution for the small share of emissions we cannot cut any other way, funded largely by the industry that created the problem.
 
 Direct air capture (DAC) is a related but distinct technology — pulling CO2 out of ambient air rather than from a chimney. It is even more energy-intensive and expensive per tonne, and even further from scale. It has a similar role: keep researching, do not use it as an excuse.
+
+**Research is moving on the cost problem.** In April 2026 a team at **Chiba University** published a new class of solid carbon adsorbents ("viciazites") that release captured CO2 at temperatures below 60°C — well below the 100°C+ needed for conventional aqueous amine scrubbing. That means the material could potentially be regenerated with industrial waste heat instead of active heating, cutting operating costs. This is a lab result, not deployment, and it doesn't shift the verdict on this myth: even a cheaper CCS is still deployed at 45 sites capturing 0.1% of emissions. But it does support the narrower case for CCS in hard-to-abate sectors like cement and steel where alternatives are limited. See [viciazites source summary](../sources/viciazites-cheaper-ccs-chiba-2026.md).
 
 ## Connected topics
 
