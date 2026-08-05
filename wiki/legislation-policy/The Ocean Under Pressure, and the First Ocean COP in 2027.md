@@ -12,8 +12,6 @@ summary: "The ocean covers 71% of the planet, absorbing 25% of human CO2 emissio
 sources:
   - Écologie 360, issue 16, July-August 2026, print magazine, no online link available; Global Carbon Project Budget 2023; IPCC AR6 2021; FAO, The State of World Fisheries and Aquaculture 2024; UNESCO Intergovernmental Oceanographic Commission; UNEP]
 ---
-
-
 ## 1. Why the ocean matters
 
 > The ocean covers 71% of the planet and plays a central role in regulating the climate. It absorbs around 25% of the CO2 emitted by human activities and around 90% of the excess heat caused by climate change, which slows the pace of global warming. 
