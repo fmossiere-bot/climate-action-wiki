@@ -33,4 +33,4 @@ Gives the wiki's existing Ireland climate-plans content a hard, dated accountabi
 
 ## How it connects to the wiki
 
-- Updates `wiki/ireland-hub/DRAFT - IRELAND  Emissions, Climate Plans.md` with a new delivery-tracking section
+- Updates `wiki/ireland-hub/IRELAND Emissions, Climate Plans.md` with a new delivery-tracking section

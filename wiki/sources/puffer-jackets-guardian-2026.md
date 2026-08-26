@@ -55,7 +55,7 @@ Puffers are a **microcosm of the fashion industry's structural problem**: cheap 
 
 ## How it connects to the wiki
 
-- Adds a "puffer jackets" case section to `wiki/circularity-waste/DRAFT - The Environmental Impact of the FASHION industry.md`
+- Adds a "puffer jackets" case section to `wiki/circularity-waste/The Environmental Impact of the FASHION industry.md`
 - Complements `wiki/circularity-waste/seaqual-ocean-plastic-fashion.md`
 - Reinforces `wiki/circularity-waste/plastic-mass-balance-greenwashing.md` (the "100% recycled" caveat)
-- Sits alongside `wiki/circularity-waste/DRAFT - The Rewearable -  Circular Fashion ACTION GUIDE.md`
+- Sits alongside `wiki/circularity-waste/The Rewearable -  Circular Fashion.md`

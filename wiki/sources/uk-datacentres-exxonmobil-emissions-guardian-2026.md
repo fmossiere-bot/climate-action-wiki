@@ -32,4 +32,4 @@ Gives the wiki's UK datacentre coverage a sharp, single comparator: two datacent
 
 ## How it connects to the wiki
 
-- Updates `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` with a new UK case study
+- Updates `wiki/sectors/digital/ai-data-centre-energy-crisis.md` with a new UK case study

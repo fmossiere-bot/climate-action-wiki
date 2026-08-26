@@ -70,7 +70,7 @@ Two contrasting benchmarks:
 
 ## Connected topics
 
-- [FACTS about Plastic](DRAFT - FACTS about Plastic.md)
+- [FACTS about Plastic](FACTS%20about%20Plastic.md)
 - [Seaqual — ocean plastic to fashion](seaqual-ocean-plastic-fashion.md)
 - [Greenwashing](../concepts/key-ideas/Greenwashing.md)
 - [Greenwashing lawsuits on the rise](../concepts/key-ideas/Greenwashing lawsuits on the rise.md)

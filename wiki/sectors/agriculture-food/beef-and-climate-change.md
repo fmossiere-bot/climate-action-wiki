@@ -65,10 +65,10 @@ Not necessarily. Even with high-income countries eating less, global ruminant me
 ## Connected topics
 
 - [Agriculture's planetary footprint](agriculture-planetary-footprint.md)
-- [Is the meat industry following the oil industry?](DRAFT - Is the meat industry following the Oil Industry?.md)
+- [Is the Meat Industry Following the Oil Industry's Climate Playbook?](Is%20the%20meat%20industry%20following%20the%20Oil%20Industry.md)
 - [Why eating less meat is one of the most powerful things you can do for the climate](../../solutions/nature-based-solutions/Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate.md)
 - [Lab-grown meat](../../solutions/food/lab-grown-meat.md)
-- [6 Ways to Reduce Methane from Agriculture](DRAFT - 6 Ways to Reduce Methane from Agriculture.md)
+- [6 Ways to Reduce Methane from Agriculture](6%20Ways%20to%20Reduce%20Methane%20from%20Agriculture.md)
 - [FAO global meat supply 2026](../../sources/fao-global-meat-supply-2026.md)
 
 ## Sources

@@ -95,7 +95,7 @@ Some gas as **rare, occasional backup** is much better than gas as **primary gen
 - [Renewables too expensive (myth)](renewables-too-expensive.md)
 - [Renewables not replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
 - [EVs will break the grid (myth)](evs-will-break-the-grid.md) — V2G as a piece of the storage puzzle
-- [Geothermal energy](../solutions/renewables/DRAFT - Geothermal energy.md)
+- [Geothermal energy](../solutions/renewables/Geothermal energy.md)
 - [The rise of the batteries](../solutions/electrification/The rise of the batteries.md)
 
 ## Sources

@@ -53,6 +53,6 @@ Straight local reporting with civic-service-journalism framing. Not editorialisi
 ## How it connects to the wiki
 
 - Updates `wiki/ireland-hub/IRELAND Climate Adaptation.md` (or its DRAFT equivalent) with the 7–8 mm/year Dublin Bay figure and planned-retreat framing
-- Updates `wiki/ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md` — adds the Dublin city 7% and south county 46% share, plus SDCC's nationwide ban motion
-- Complements `wiki/ireland-hub/DRAFT - IRELAND Transport Emissions.md` (36% of Dublin emissions from transport)
+- Updates `wiki/ireland-hub/IRELAND Data Centre Dilemna.md` — adds the Dublin city 7% and south county 46% share, plus SDCC's nationwide ban motion
+- Complements `wiki/ireland-hub/IRELAND Transport Emissions.md` (36% of Dublin emissions from transport)
 - Feeds into `wiki/climate-adaptation/home-cooling-heatwaves.md` and the wider adaptation strand

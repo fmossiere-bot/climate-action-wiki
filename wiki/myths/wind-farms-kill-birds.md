@@ -96,7 +96,7 @@ Massively. Fossil fuels harm birds through climate change, air pollution, oil sp
 - [Renewables produce too much waste (myth)](renewables-produce-too-much-waste.md)
 - [Renewables too expensive (myth)](renewables-too-expensive.md)
 - [Taiwan offshore wind reef fish (source)](../sources/taiwan-offshore-wind-reef-fish-2026.md)
-- [FACTS about Wind Energy](../solutions/renewables/DRAFT - FACTS about Wind Energy.md)
+- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
 
 ## Sources
 

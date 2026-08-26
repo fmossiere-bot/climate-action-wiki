@@ -69,12 +69,12 @@ Not entirely. The **first 70 to 80% of a power system** can be covered by solar 
 
 ## Connected topics
 
-- [The Energy Supercycle is Unstoppable](../concepts/key-ideas/The Energy Supercycle is Unstoppable.md)
-- [FACTS about Wind Energy](../solutions/renewables/DRAFT - FACTS about Wind Energy.md)
-- [FACTS about Solar Energy](../solutions/renewables/DRAFT - FACTS about Solar Energy.md)
-- [Geothermal energy](../solutions/renewables/DRAFT - Geothermal energy.md)
+- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
+- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
+- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
+- [Geothermal energy](../solutions/renewables/Geothermal energy.md)
 - [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
-- [Renewable on Track to overtake Coal](../concepts/key-ideas/Renewable on Track to overtake Coal.md)
+- [Renewables on Track to Overtake Coal](../solutions/energy-transition/Renewable%20on%20Track%20to%20overtake%20Coal.md)
 
 ## Sources
 

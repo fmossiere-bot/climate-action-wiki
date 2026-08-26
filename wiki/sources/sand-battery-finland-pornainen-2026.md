@@ -65,4 +65,4 @@ Business/energy trade press. Includes the economic and industrial-context reason
 - Adds a real-world example note to `wiki/myths/intermittency-storage-problem.md` in Go deeper — Finland's Pornainen system is exactly the type of long-duration heat storage described theoretically in that myth page
 - Complements `wiki/solutions/electrification/The rise of the batteries.md`
 - Reinforces `wiki/myths/renewables-need-fossil-fuels-to-build.md` — no rare earths, no lithium, no cobalt
-- Fits alongside `wiki/solutions/renewables/DRAFT - Geothermal energy.md` as another non-fossil heat solution
+- Fits alongside `wiki/solutions/renewables/Geothermal energy.md` as another non-fossil heat solution

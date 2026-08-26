@@ -80,9 +80,9 @@ Other figures from the update:
 
 - [Ireland's Data Centre Dilemma](../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
 - [Ireland Emissions and Climate Plans](../ireland-hub/IRELAND%20%20Emissions%2C%20Climate%20Plans.md)
-- [FACTS about Wind Energy](../solutions/renewables/DRAFT%20-%20FACTS%20about%20Wind%20Energy.md)
-- [FACTS about Solar Energy](../solutions/renewables/DRAFT%20-%20FACTS%20about%20Solar%20Energy.md)
-- [FACTS about NUCLEAR energy](../solutions/renewables/DRAFT%20-%20FACTS%20about%20NUCLEAR%20energy.md)
+- [FACTS about Wind Energy](../solutions/renewables/FACTS%20about%20Wind%20Energy.md)
+- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
+- [FACTS about NUCLEAR energy](../solutions/renewables/FACTS%20about%20NUCLEAR%20energy.md)
 
 ## Sources
 

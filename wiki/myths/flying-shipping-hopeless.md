@@ -96,8 +96,8 @@ True and infuriating. **No country is responsible for international flights or s
 - [Low-carbon cement impossible (myth)](low-carbon-cement-impossible.md)
 - [Low-carbon steel impossible (myth)](low-carbon-steel-impossible.md)
 - [Sustainable Aviation Fuel](../solutions/electrification/About Sustainable Aviation Fuel (SAF).md)
-- [FACTS about Air Travel](../sectors/transport/DRAFT - FACTS about Air Travel.md)
-- [Long-Haul SHIPPING](../sectors/transport/Long-Haul SHIPPING.md)
+- [Facts about Air Travel](../sectors/transport/Facts%20about%20Air%20Travel.md)
+- [Long-Haul Shipping](../sectors/transport/Long-Haul%20Shipping.md)
 - [Environmental Impact of football world cups](../sectors/Environmental Impact of football world cups.md)
 
 ## Sources

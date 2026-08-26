@@ -51,7 +51,7 @@ The story lands three specific policy hooks:
 
 1. **Datacentres and households will compete for drinking water in the south-east of England** — because Environment Agency permitting requires datacentres to use drinking water, not recycled water; because 125 proposed datacentres are in one water company's patch; and because a drought hierarchy has not been set
 2. **The "critical national infrastructure" designation may put datacentres ahead of households** in a drought without any public debate about that trade-off
-3. **This is not just a UK story** — Ireland has hit similar tension ([Dublin data-centre concentration](../ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md)), and the [Slough heat-island research](slough-datacentre-heat-island-2026.md) already documented the electricity side. Now the water side lines up.
+3. **This is not just a UK story** — Ireland has hit similar tension ([Dublin data-centre concentration](../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)), and the [Slough heat-island research](slough-datacentre-heat-island-2026.md) already documented the electricity side. Now the water side lines up.
 
 ## Tone and angle
 
@@ -59,7 +59,7 @@ Business/environment reporting: direct, quotes-heavy, sourced to written parliam
 
 ## How it connects to the wiki
 
-- Updates `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` with the water dimension
+- Updates `wiki/sectors/digital/ai-data-centre-energy-crisis.md` with the water dimension
 - Reinforces `wiki/sources/slough-datacentre-heat-island-2026.md` (same Slough cluster, same water company)
-- Complements `wiki/ireland-hub/DRAFT - IRELAND Water Usage and Water Management.md`
-- Complements `wiki/ireland-hub/DRAFT - IRELAND Data Centre Dilemna.md` (parallel Irish story)
+- Complements `wiki/ireland-hub/IRELAND Water Usage and Water Management.md`
+- Complements `wiki/ireland-hub/IRELAND Data Centre Dilemna.md` (parallel Irish story)

@@ -35,5 +35,5 @@ This is a **floating** offshore wind case, distinct from the fixed-bottom Formos
 
 ## How it connects to the wiki
 
-- Updates `wiki/solutions/renewables/DRAFT - FACTS about Wind Energy.md`, adding a floating-wind case alongside the existing Formosa (Taiwan) reef section
+- Updates `wiki/solutions/renewables/FACTS about Wind Energy.md`, adding a floating-wind case alongside the existing Formosa (Taiwan) reef section
 - Cross-links to `wiki/sources/taiwan-offshore-wind-reef-fish-2026.md` and `wiki/climate-adaptation/artificial-reefs-coastal-protection.md`

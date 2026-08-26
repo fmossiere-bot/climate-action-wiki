@@ -35,4 +35,4 @@ This is a distinct biodiversity finding from the wiki's existing [solar-on-peatl
 ## How it connects to the wiki
 
 - New wiki page: `wiki/biodiversity-land/solar-farms-pollinators.md`
-- Cross-links to `wiki/biodiversity-land/solar-on-peatland.md` and `wiki/solutions/renewables/DRAFT - FACTS about Solar Energy.md`
+- Cross-links to `wiki/biodiversity-land/solar-on-peatland.md` and `wiki/solutions/renewables/FACTS about Solar Energy.md`

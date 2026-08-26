@@ -1,72 +1,56 @@
 ---
 title: Greenwashing
 category: concepts
-tags: [greenwashing]
+tags: ["#key-ideas", "#greenwashing", "#eu-policy", "#ireland", "#fossil-fuels", "#plastic"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "What is Greenwashing, What's the legal definition of Greenwashing, Examples of GREENWASHING, The EU anti-Greenwashing rule"
+updated: 2026-08-26
+summary: greenwashing, Corporate Sustainability Reporting Directive, CSRD, Coca-Cola, Evian, Rainforest Alliance, Hersheys, Bud Light Climate Neutral, TotalEnergies, Sitka spruce, Irish schools, Alliance for Responsible Citizenship, Chris Wright, UK heatwave, EU anti-greenwashing rules, ESG
 ---
 
-#greenwashing 
+# Greenwashing
 
-## What is Greenwashing?
-#greenwashing 
+## What is it
 
-> Greenwashing is a term used to describe **a false, misleading or untrue action or set of claims made by an organization about the positive impact that a company, product or service has on the environment**.
-> *Source*: [Investopedia](https://www.investopedia.com/terms/g/greenwashing.asp)
+**Greenwashing** describes a false, misleading or untrue claim made by an organisation about the positive environmental impact of a company, product or service. Despite the term being widely used, there is no firm agreement on what it means in a legal or regulatory sense, which has created real problems for regulators trying to act on it. Policymakers in Europe have been the most aggressive in trying to build a legal framework around it, but complications keep emerging: a company might claim to be cutting its carbon footprint while quietly excluding the emissions produced by its customers or suppliers, or an asset manager might overstate the ESG standards used to allocate clients' money. These claims are often easy to spot in hindsight but hard to define in statute in advance.
 
-![[Screenshot 2023-05-31 at 09.41.14.png]]![[Screenshot 2023-05-31 at 09.41.33.png]]
+## Why it matters
 
-## What's the legal definition of Greenwashing?
-Source: https://www.bloomberg.com/news/articles/2023-01-11/what-s-the-legal-definition-of-greenwashing-green-insight?embedded-checkout=true
+Greenwashing is now considered one of the biggest risks to the credibility of ESG investing and corporate sustainability claims generally. Being able to recognise it protects consumers and investors from being misled, and understanding how regulation is catching up (or failing to) shows where the real accountability gaps still are.
 
-###### Nobody knows for sure, and this is creating legal problems
+## Examples of greenwashing
 
-> Greenwashing may be the biggest risk to the future of ESG investing, but there’s no firm agreement on what it means in a legal or regulatory context.
+- **Coca-Cola's "100% recyclable" packaging claims**: a report found the company had spent millions promoting bottles containing 25% marine plastic, without mentioning that Coca-Cola is identified as the world's biggest plastic polluter.
+- **Evian's "eco-friendly packaging"**: Evian uses recycled plastic in some of its bottles, but the overall environmental impact of bottled water remains significant regardless; reusable bottles and filtered tap water are a more sustainable option.
+- **"Rainforest Alliance Certified" chocolate**: the certification is meant to promote sustainable farming, but critics argue it allows a product containing mostly conventional cocoa to carry the label as long as it includes a small proportion of certified cocoa. In early 2024, the Rainforest Alliance and Hershey's were sued over allegedly false fair-labour and sustainability claims.
+- **Bud Light NEXT "Climate Neutral"**: Anheuser-Busch worked with the certifier Climate Neutral to market its beer as climate neutral, but closer scrutiny showed the claim rested on offsetting current emissions with credits plus unfulfilled future plans to actually reduce them.
 
-Policymakers in Europe have been the most aggressive in trying to flesh out such a framework, but complications continue to emerge.
+### Sitka spruce: greenwashing in Irish schools (2026)
 
-For example, a company says it’s reducing its carbon footprint—but fails to say that the calculation excludes massive emissions produced by its customers or suppliers. Or an asset manager overhypes the environmental, social and governance standards it uses to allocate clients’ money. But know-it-when-you-see-it doesn’t translate well into statutory authority.
+A children's book, *Sitka Spruce: The Amazing Timber Tree*, funded by Irish commercial forestry interests and carrying a foreword by then-minister Michael Healy-Rae, was distributed to Irish primary schools. It depicted Sitka spruce plantations as thriving ecosystems, when in reality these monoculture forests are widely regarded as ecological dead zones. The Irish Wildlife Trust called for the book's removal from schools; the Department of Education said it had no responsibility for materials distributed by industry, revealing a systemic gap in oversight. See [IRELAND Land use, Soil and Forestry](../../ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md).
 
+### TotalEnergies
 
-## Examples of GREENWASHING
+A French court ruled that TotalEnergies misled consumers with claims of carbon neutrality by 2050, marking the first use of France's greenwashing law against an energy company. The court ordered the company to remove the misleading statements, fined it up to **€10,000 per day** for non-compliance, and required it to make payments to the NGOs that brought the case.
 
-> [!List of Examples of GreenWashing from SOMETHING Material:]
->
-> - 100% recyclable packaging at Coca Cola: Claims about plastic packaging being eco-friendly are misleading greenwashing, according to a report. The report says, has spent millions promoting an innovation which says that its bottles are 25% marine plastic, but does not mention that the company [is the world’s biggest plastic polluter.](https://www.breakfreefromplastic.org/wp-content/uploads/2021/10/BRAND-AUDIT-REPORT-2021.pdf)
-> - Eco-Friendly Packaging" on Evian Natural Spring Water:  While Evian uses  recycled plastic for some  of its bottles, the  environmental impact of bottled water  remains significant.  Consider reusable water bottles and filtered tap water for a more sustainable option.
-> - “Rainforest Alliance Certified" Chocolates:  This certification aims to promote sustainable farming practices. However,  critics argue it allows companies to use a small amount of certified cocoa to justify the label  on a product  containing mostly conventional cocoa. Look for brands with a higher percentage of certified cocoa content or explore Fair Trade options that ensure ethical treatment of farmers and workers. In early 2024, Rainforest Alliance and Hersheys are being sued for falsely claiming fair labor and sustainability. 
-> - Bud Light NEXT Climate Neutral: Anheuser-Busch worked with Climate Neutral to claim its beer was ‘climate neutral’, appealing to a climate conscious consumer. Closer exploration of the company’s plans behind this claim show that at the time of writing they had offset current emissions using credits and had ‘plans’ to reduce emissions in the future. 
+### Political denial as greenwashing: the "Anti-Woke Davos" (June 2026)
 
-See the [MURAL Game](https://app.mural.co/t/smartphonefreemetns7241/m/smartphonefreemetns7241/1740669837046/537b5b1fc6dfdaf85005135ad61c4ccea7f2639e) for even more examples to choose from 
+In June 2026, as the UK issued red heat warnings for three consecutive days and a wildfire burned in Derbyshire, a conference in London convened by the Alliance for Responsible Citizenship, a group backed by the owner of GB News and a string of fossil fuel companies, hosted speakers attacking UK climate policy. Delegates reportedly sweltered inside the Olympia venue in temperatures above 35C while applauding Trump's energy secretary Chris Wright, a former fossil fuel executive, who described Britain's green transition as a "tragic mistake." The event's goodie bags included fans bearing the slogan "Free speech never felt so cool", a striking image of an event denying the reality its own attendees were experiencing first-hand.
 
-#### Sitka Spruce — Greenwashing in Irish Schools (2026)
+## The EU anti-greenwashing rule
 
-> A children's book titled *Sitka Spruce – the Amazing Timber Tree*, funded by Irish commercial forestry interests and carrying a foreword by then-minister Michael Healy-Rae, was distributed to Irish primary schools. It depicted Sitka plantations as thriving ecosystems. In reality, these monoculture forests are widely regarded as ecological dead zones. The Irish Wildlife Trust called for its removal. The Department of Education said it had no responsibility for industry-distributed school materials — revealing a systemic gap.
-> *Source: [[sitka-spruce-greenwashing-ireland-2026]] — Irish Times, April 2026. See also [[DRAFT - IRELAND Land use, Soil and Forestry]]*
+EU rules that came into force at the start of 2023, with a gradual rollout, aim to tackle greenwashing by targeting businesses that mislead consumers into believing their products or services are more sustainable than they are. The EU's **Corporate Sustainability Reporting Directive (CSRD)** strengthens the rules around the social and environmental information companies must report. Its rollout caused significant concern among companies in Ireland, particularly around the accuracy of the data they would now be required to disclose.
 
-#### Total Energy
+## Connected topics
 
-> A French court ruled that TotalEnergies misled consumers with claims of carbon neutrality by 2050, marking the first use of France’s greenwashing law on an energy company. The court ordered the company to remove misleading statements, fined it up to €10,000 per day for non-compliance, and required payments to the NGOs that filed the lawsuit.
-> *==Source: [WeDontHaveTime - Lemmo]([https://app.wedonthavetime.org/posts/0c8ff23b-49d0-48d3-a20b-ebe2a4c9b586?utm_source=url-copy&utm_medium=wdht-rn-app-share&utm_campaign=fabien_mossiere](https://app.wedonthavetime.org/posts/0c8ff23b-49d0-48d3-a20b-ebe2a4c9b586?utm_source=url-copy&utm_medium=wdht-rn-app-share&utm_campaign=fabien_mossiere)) | [France24](https://www.france24.com/en/business/20251023-french-court-rules-totalenergies-misled-consumers-in-greenwashing-trial)*
+- [Greenwashing lawsuits on the rise](Greenwashing%20lawsuits%20on%20the%20rise.md)
+- [What is ESG?](What%20is%20ESG%3F.md)
+- [IRELAND Land use, Soil and Forestry](../../ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md)
 
+## Sources
 
-
-
-
-#### Political Denial as Greenwashing: The "Anti-Woke Davos" (June 2026)
-
-> In June 2026, as the UK issued red heat warnings for three consecutive days and an active wildfire burned in Derbyshire, a conference in London convened by the Alliance for Responsible Citizenship — a group backed by the owner of GB News and a string of fossil fuel companies — hosted speakers attacking UK climate policy. Delegates were reportedly sweltering inside the Olympia venue in 35°C+ heat while applauding Trump's energy secretary Chris Wright (a former fossil fuel executive), who described Britain's green transition as a "tragic mistake."
->
-> This is the "Don't Look Up" dynamic in political form: organisations funded by fossil fuel interests attacking climate action while their own delegates experience its direct consequences. The conference's goodie bags included fans bearing the slogan "Free speech never felt so cool."
->
-> *Source: [uk-heatwave-june-2026-guardian](../sources/uk-heatwave-june-2026-guardian.md) — The Guardian, Jonathan Freedland, 26 June 2026*
-
----
-## The EU anti-Greenwashing rule
-
-> The EU rules, which came into force at the start of 2023 with gradual launch, aim to tackle so-called ‘greenwashing’ – when businesses mislead consumers to make them believe their products or services are sustainable, when that is not the case.
-
-The EU’s new Corporate Sustainability Reporting Directive (CSRD) strengthen the rules around the social and environmental information which companies have to report on. 
-
-It has created a lot of worry among companies in Ireland when it was first rolled out, especially around the data accuracy. 
+- Investopedia, "Greenwashing" — https://www.investopedia.com/terms/g/greenwashing.asp
+- Bloomberg, "What's the Legal Definition of Greenwashing?", 11 January 2023 — https://www.bloomberg.com/news/articles/2023-01-11/what-s-the-legal-definition-of-greenwashing-green-insight
+- Break Free From Plastic, Brand Audit Report 2021 — https://www.breakfreefromplastic.org/wp-content/uploads/2021/10/BRAND-AUDIT-REPORT-2021.pdf
+- [Sitka spruce greenwashing in Irish schools (source summary)](../../sources/sitka-spruce-greenwashing-ireland-2026.md) — The Irish Times, April 2026
+- We Don't Have Time / France24, TotalEnergies greenwashing ruling, October 2025 — https://www.france24.com/en/business/20251023-french-court-rules-totalenergies-misled-consumers-in-greenwashing-trial
+- [UK heatwave, June 2026 (source summary)](../../sources/uk-heatwave-june-2026-guardian.md) — The Guardian, Jonathan Freedland, 26 June 2026

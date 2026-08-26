@@ -42,4 +42,4 @@ Straight science-and-tech reporting. Cautious on timing ("may be a while before 
 - Underpins a new page `wiki/sectors/industry/bio-based-resins-composites.md`
 - Complements `wiki/sectors/industry/Cement and Concrete - A Hidden Climate Problem.md` (another hard-to-abate materials story)
 - Reinforces `wiki/circularity-waste/What is the Circular Economy.md` (chemical recyclability of composites)
-- Relevant to `wiki/solutions/renewables/DRAFT - FACTS about Wind Energy.md` (turbine blade end-of-life) and `wiki/sectors/transport/FACTS about Air Travel.md` (composite aerostructures)
+- Relevant to `wiki/solutions/renewables/FACTS about Wind Energy.md` (turbine blade end-of-life) and `wiki/sectors/transport/Facts about Air Travel.md` (composite aerostructures)

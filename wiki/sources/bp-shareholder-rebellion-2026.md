@@ -46,4 +46,4 @@ Business-desk reporting. The framing is that the outcome is genuinely unusual ("
 - Underpins a new page `wiki/climate-finance/bp-shareholder-rebellion-2026.md` on shareholder activism as a climate lever
 - Complements `wiki/climate-finance/fossil-fuel-banking.md` (same industry, different accountability mechanism)
 - Reinforces `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md` (legal + shareholder pressure combined)
-- Adds a specific corporate case to `wiki/concepts/key-ideas/FACTS About Fossil Fuel (Oil and Gaz) Industry.md`
+- Adds a specific corporate case to `wiki/solutions/energy-transition/FACTS About Fossil Fuel (Oil and Gaz) Industry.md`

@@ -80,7 +80,7 @@ Less than you think. **74% of Americans support the US joining international cli
 ## Connected topics
 
 - [Talking about Climate Change ACTION GUIDE](../concepts/behavior-change/Talking about Climate Change ACTION GUIDE.md)
-- [Climate Communications](../concepts/key-ideas/Class 6 - Climate Communications.md)
+- [Climate Communications](../concepts/key-ideas/Climate Communications.md)
 - [Can Everyone Live a Good Life Within Planetary Limits?](../concepts/key-ideas/live-good-life-planetary-boundaries.md)
 - [It's too late (myth)](its-too-late.md)
 

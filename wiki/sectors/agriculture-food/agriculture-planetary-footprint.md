@@ -51,9 +51,9 @@ The biggest single driver is **deforestation**, primarily to create pasture and 
 
 ## Connected topics
 
-- [Food Carbon Footprint](../agriculture-food/food-carbon-footprint.md)
+- [Food Carbon Footprint](../agriculture-food/Food%20Carbon%20FootPrint.md)
 - [Plant-Rich Diets](../../solutions/nature-based-solutions/plant-rich-diets.md)
-- [FACTS about Farming and Food production](../agriculture-food/facts-about-farming-and-food-production.md)
+- [FACTS about Farming and Food Production](../agriculture-food/FACTS%20about%20Farming%20and%20Food%20production.md)
 - [FACTS about Forest, Land Use and Land Management](../../solutions/carbon-removal/facts-about-forest-land-use-and-land-management.md)
 - [Managed Grazing](../../solutions/nature-based-solutions/managed-grazing.md)
 - [Reduced Food Waste](../../solutions/circularity/reduced-food-waste.md)

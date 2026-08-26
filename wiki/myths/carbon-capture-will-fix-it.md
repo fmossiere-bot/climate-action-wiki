@@ -75,7 +75,7 @@ Direct air capture (DAC) is a related but distinct technology — pulling CO2 ou
 ## Connected topics
 
 - [CO2 Capture](../solutions/carbon-removal/CO2 Capture.md)
-- [The Energy Supercycle is Unstoppable](../concepts/key-ideas/The Energy Supercycle is Unstoppable.md)
+- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
 - [Fossil Fuel Banking](../climate-finance/fossil-fuel-banking.md)
 - [Greenwashing](../concepts/key-ideas/Greenwashing.md)
 

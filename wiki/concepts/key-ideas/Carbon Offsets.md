@@ -75,9 +75,9 @@ Several voluntary marketplaces illustrate the range of quality in this space. Se
 - More than 398 million REDD+ credits had been issued on the voluntary carbon market as of early 2022.
 
 ## Connected topics
-- [Flight Carbon Footprint and Offset Guide](../../sectors/transport/DRAFT - Flight Carbon Footprint and Offset Guide.md)
+- [Flight Carbon Footprint and Offset Guide](../../sectors/transport/Flight%20Carbon%20Footprint%20and%20Offset%20Guide.md)
 - [Sustainable Aviation Fuel: A Necessary but Complicated Solution](../../solutions/electrification/Sustainable Aviation Fuel -  A Necessary but Complicated Solution.md)
-- [Sustainable Flights with Hydrogen](../../solutions/renewables/DRAFT - Sustainable FLighs with Hydrogen.md)
+- [Sustainable Flights with Hydrogen](../../solutions/renewables/Sustainable%20FLighs%20with%20Hydrogen.md)
 - [The Economics of Climate Change and Carbon Pricing](The Economics of Climate Change and Carbon Pricing.md)
 
 ## Sources

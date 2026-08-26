@@ -27,4 +27,4 @@ IATA director general Willie Walsh, speaking at the annual IATA summit in Rio de
 
 ## Related wiki pages
 
-- [DRAFT - FACTS about Air Travel](DRAFT%20-%20FACTS%20about%20Air%20Travel.md)
+- [Facts about Air Travel](../sectors/transport/Facts%20about%20Air%20Travel.md)

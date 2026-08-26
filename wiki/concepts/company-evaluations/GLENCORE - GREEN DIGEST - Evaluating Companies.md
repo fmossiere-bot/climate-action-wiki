@@ -49,7 +49,7 @@ Its overall score of -2.59 reflects the severity of these factors, highlighting 
 
 - [Greenwashing](../key-ideas/Greenwashing.md)
 - [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
-- [FACTS About Fossil Fuel (Oil and Gaz) Industry](../key-ideas/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
+- [FACTS About Fossil Fuel (Oil and Gaz) Industry](../../solutions/energy-transition/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
 
 ## Sources
 

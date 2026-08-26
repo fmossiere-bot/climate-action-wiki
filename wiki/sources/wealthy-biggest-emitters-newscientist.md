@@ -34,4 +34,4 @@ The researchers' conclusion: policy change matters more than attitude change. Ta
 
 - [High-Income Carbon Paradox](high-income-carbon-paradox.md)
 - [The Climate Mitigation Gap](wiki/_Archive/The%20climate%20Mitigation%20Gap%20research.md)
-- [DRAFT - FACTS about Air Travel](DRAFT%20-%20FACTS%20about%20Air%20Travel.md)
+- [Facts about Air Travel](../sectors/transport/Facts%20about%20Air%20Travel.md)

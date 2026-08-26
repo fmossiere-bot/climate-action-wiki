@@ -70,7 +70,7 @@ Even the perfect smaller EV rollout does not solve the wider problem of car depe
 
 ## Connected topics
 
-- [CARS Life Cycle Emissions — EV vs Combustion](CARS Life Cycle Emissions - EV vs Combustion.md)
+- [Car Life Cycle Emissions — EV vs Combustion](Car%20Life%20Cycle%20Emissions%20-%20EV%20vs%20Combustion.md)
 - [EV Progress](../../solutions/electrification/EV Progress.md)
 - [The rise of the batteries](../../solutions/electrification/The rise of the batteries.md)
 - [Ariana Mine and Santander](../../climate-finance/ariana-mine-santander.md) — the copper/zinc supply-chain angle

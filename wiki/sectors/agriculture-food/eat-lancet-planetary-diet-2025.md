@@ -118,7 +118,7 @@ India gains economically as well as environmentally; the US and Europe see net c
 
 - [Beef and Climate Change](beef-and-climate-change.md)
 - [Agriculture's planetary footprint](agriculture-planetary-footprint.md)
-- [Is the meat industry following the oil industry?](DRAFT - Is the meat industry following the Oil Industry?.md)
+- [Is the Meat Industry Following the Oil Industry's Climate Playbook?](Is%20the%20meat%20industry%20following%20the%20Oil%20Industry.md)
 - [Why eating less meat is one of the most powerful things you can do for the climate](../../solutions/nature-based-solutions/Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate.md)
 - [Lab-grown meat](../../solutions/food/lab-grown-meat.md)
 - [High-income carbon paradox](../../concepts/behavior-change/high-income-carbon-paradox.md) — evidence for the "policy beats attitude" argument

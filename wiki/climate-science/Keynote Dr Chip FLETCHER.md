@@ -27,7 +27,7 @@ Parts of the central Sahara are already too hot for sustained human survival, wi
 
 ## Water and Food Impacts
 
-Globally, roughly 17% more freshwater is being extracted than natural systems can regenerate; China draws about 22% more than its natural replenishment rate, and India around 52% more. This overdraft cannot be restored, and demand is projected to keep growing, by around 55% by 2050. Roughly a quarter of humanity already faces water shortages every year (see [Ireland Water Usage and Water Management](../ireland-hub/DRAFT%20-%20IRELAND%20Water%20Usage%20and%20Water%20Management.md) for a country-level example).
+Globally, roughly 17% more freshwater is being extracted than natural systems can regenerate; China draws about 22% more than its natural replenishment rate, and India around 52% more. This overdraft cannot be restored, and demand is projected to keep growing, by around 55% by 2050. Roughly a quarter of humanity already faces water shortages every year (see [Ireland Water Usage and Water Management](../ireland-hub/IRELAND%20Water%20Usage%20and%20Water%20Management.md) for a country-level example).
 
 Rising CO2 is also linked to falling nutrient density in major cereal crops, wheat among them, an under-recognised dimension of food security that gets far less attention than yield figures alone.
 

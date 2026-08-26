@@ -47,7 +47,7 @@ A broader review in *Conservation Letters* reaches a similar conclusion: solar d
 ## Connected topics
 
 - [Solar Farms on Peatland: A Triple Win, If Done Right](solar-on-peatland.md)
-- [FACTS about Solar Energy](../solutions/renewables/DRAFT%20-%20FACTS%20about%20Solar%20Energy.md)
+- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
 - [The Importance of Wetlands](The%20importance%20of%20Wetlands.md)
 
 ## Sources

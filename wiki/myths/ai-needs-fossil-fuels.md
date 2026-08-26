@@ -76,10 +76,10 @@ Recent examples: **Meta contracting 10 gas plants for its Hyperion data centre i
 
 ## Connected topics
 
-- [AI Data Centres and the Energy Crisis](../sectors/digital/DRAFT - ai-data-centre-energy-crisis.md)
+- [AI Data Centres and the Energy Crisis](../sectors/digital/ai-data-centre-energy-crisis.md)
 - [PFAS in datacentre cooling (source)](../sources/pfas-datacentre-cooling-guardian-2026.md)
 - [Meta quits RE100 (source)](../sources/meta-quits-re100-rte-2026.md)
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](../sectors/digital/DRAFT - FACTS about AI, Emissions impacts and mitigation potential.md)
+- [FACTS about AI, Emissions Impacts and Mitigation Potential](../sectors/digital/FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
 - [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 - [Renewables aren't replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
 

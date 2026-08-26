@@ -54,8 +54,8 @@ On an unsubsidised basis, wind, solar PV and geothermal are now competitive with
 ## Connected topics
 
 - [Clean Electricity: Why It Has to Come First](../sectors/energy/Clean%20Electricity%20-%20Why%20It%20Has%20to%20Come%20First.md)
-- [FACTS about Solar Energy](../solutions/renewables/DRAFT%20-%20FACTS%20about%20Solar%20Energy.md)
-- [FACTS about Wind Energy](../solutions/renewables/DRAFT%20-%20FACTS%20about%20Wind%20Energy.md)
+- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
+- [FACTS about Wind Energy](../solutions/renewables/FACTS%20about%20Wind%20Energy.md)
 
 ## Sources
 

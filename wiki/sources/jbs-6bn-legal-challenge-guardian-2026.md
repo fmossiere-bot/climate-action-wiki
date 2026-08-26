@@ -56,4 +56,4 @@ Straight environment/business reporting. The Guardian gives space to civil-socie
 - Complements `wiki/sectors/agriculture-food/beef-and-climate-change.md` and `wiki/sectors/agriculture-food/eat-lancet-planetary-diet-2025.md`
 - Reinforces `wiki/climate-finance/fossil-fuel-banking.md` — same corporate-accountability arc, different sector
 - Reinforces `wiki/climate-finance/bp-shareholder-rebellion-2026.md` — shareholder vs court routes to accountability
-- Adds detail to `wiki/sectors/agriculture-food/DRAFT - Is the meat industry following the Oil Industry?.md`
+- Adds detail to `wiki/sectors/agriculture-food/Is the meat industry following the Oil Industry.md`

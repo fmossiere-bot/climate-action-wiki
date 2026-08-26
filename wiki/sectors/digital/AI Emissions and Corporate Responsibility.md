@@ -55,7 +55,7 @@ There is currently no globally accepted standard for measuring AI emissions. The
 - [AI Data Centres and the Energy Crisis](ai-data-centre-energy-crisis.md)
 - [The Environmental Footprint of Data Centers in the United States](../../sources/data-centers-environmental-footprint-us-2021.md)
 - [What is Jevons Paradox](What%20is%20JEVONS%20Paradox.md)
-- [IRELAND Data Centre Dilemma](../../ireland-hub/DRAFT%20-%20IRELAND%20Data%20Centre%20Dilemna.md)
+- [IRELAND Data Centre Dilemma](../../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
 - [Clean Electricity, Why It Has to Come First](../energy/Clean%20Electricity%20-%20Why%20It%20Has%20to%20Come%20First.md)
 - [Scope 3 GHG](../../concepts/key-ideas/Scope%203%20GHG.md)
 

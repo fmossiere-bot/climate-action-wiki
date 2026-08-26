@@ -74,8 +74,8 @@ Because 2.5°C is what happens if we drift. 1.8°C is what happens if we actuall
 
 ## Connected topics
 
-- [How are we doing?](../concepts/key-ideas/How are we doing.md)
-- [The Energy Supercycle is Unstoppable](../concepts/key-ideas/The Energy Supercycle is Unstoppable.md)
+- [Global Progress on Climate Action](../concepts/key-ideas/Global%20Progress%20on%20Climate%20Action.md)
+- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
 - [Emission Gap Report 2024 - UNEP](../concepts/key-ideas/Emission Gap Report 2024 - UNEP.md)
 - [Can Everyone Live a Good Life Within Planetary Limits?](../concepts/key-ideas/live-good-life-planetary-boundaries.md)
 

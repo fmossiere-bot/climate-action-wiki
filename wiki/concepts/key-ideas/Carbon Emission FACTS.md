@@ -19,7 +19,7 @@ Around a third of cropland is used to grow animal feed, and around 17% of all fi
 
 ### Food Mileage
 
-Food mileage, the distance food travels before it reaches a plate, matters for its carbon footprint but not always in the way people assume. See [Food Carbon Footprint](../../sectors/agriculture-food/DRAFT%20-%20Food%20Carbon%20FootPrint.md) for more detail. Comparing potatoes grown and transported differently found that production emissions were broadly similar between options, with transport making the real difference. Buying locally makes intuitive sense, but from a pure emissions standpoint, aggregated delivery systems such as vegetable box door deliveries can produce a smaller total footprint than the equivalent number of individual cars travelling to a farm or shop.
+Food mileage, the distance food travels before it reaches a plate, matters for its carbon footprint but not always in the way people assume. See [Food Carbon Footprint](../../sectors/agriculture-food/Food%20Carbon%20FootPrint.md) for more detail. Comparing potatoes grown and transported differently found that production emissions were broadly similar between options, with transport making the real difference. Buying locally makes intuitive sense, but from a pure emissions standpoint, aggregated delivery systems such as vegetable box door deliveries can produce a smaller total footprint than the equivalent number of individual cars travelling to a farm or shop.
 
 ## Transport
 
@@ -33,7 +33,7 @@ Most of the carbon stored by the natural world sits in the depths of the ocean. 
 
 ## Connected topics
 
-- [Food Carbon Footprint](../../sectors/agriculture-food/DRAFT%20-%20Food%20Carbon%20FootPrint.md)
+- [Food Carbon Footprint](../../sectors/agriculture-food/Food%20Carbon%20FootPrint.md)
 - [Global Emissions in 2022](Global%20Emissions%20in%202022.md)
 - [Carbon Emissions and the Carbon Cycle](Carbon%20Emissions%20and%20the%20Carbon%20Cycle.md)
 

@@ -37,7 +37,7 @@ Three points stand out:
 
 ## How it connects to the wiki
 
-- Updates `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` — adds Meta's July 2026 RE100 exit and the Hyperion Louisiana gas plants
-- Complements `wiki/climate-finance/fossil-fuel-banking.md` and `wiki/sectors/digital/DRAFT - AI Emissions and Corporate Responsibility.md`
+- Updates `wiki/sectors/digital/ai-data-centre-energy-crisis.md` — adds Meta's July 2026 RE100 exit and the Hyperion Louisiana gas plants
+- Complements `wiki/climate-finance/fossil-fuel-banking.md` and `wiki/sectors/digital/AI Emissions and Corporate Responsibility.md`
 - Reinforces `wiki/concepts/key-ideas/Greenwashing.md`
 - Sits alongside `wiki/standards-labels/SBTI - sbti-science-based-targets.md` (SBTi V2 introduces hourly matching for tech companies)

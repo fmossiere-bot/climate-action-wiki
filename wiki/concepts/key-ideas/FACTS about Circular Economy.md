@@ -1,140 +1,66 @@
 ---
 title: FACTS about Circular Economy
 category: concepts
-tags: [circularity]
+tags: ["#key-ideas", "#circularity", "#recycle", "#e-waste", "#eu-policy", "#ireland"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "How much more do we consume than earth can provide, EU transition to Circular economy is behind schedule, There is a long way to go with Circular Economy, Strategic Foresight Board Report, An Irish Waste Action Plan, Sharing is on the rise - the Library of Things, UPDATES, New Law 'right to repair' passed by European Parlement, New EU rule targeting Textile and Food Waste, EU Targets don't properly reflect e0waste recycling efforts, sharing is expanding at an unprecedented pace, increased by 70%, 1.325 stations, 350,000 users, What’s next"
+updated: 2026-08-26
+summary: circular economy, circularity rate, EU circular economy action plan, European Court of Auditors, right to repair, textile waste, food waste, e-waste, WEEE Ireland, sharing economy, Library of Things, Earth Overshoot Day, European Parliament, recycling targets
 ---
 
-#circularity 
+# FACTS about Circular Economy
 
+## What is it
 
-## How much more do we consume than earth can provide? 
-*Source: Earth Overshoot day : [https://www.overshootday.org/](https://www.overshootday.org/)*
-Earth overshoot is an org that provids us informaion on when, in a given year, do we pass the limit of what was available to us in that year. 
+A **circular economy** aims to preserve the value of products, materials and resources for as long as possible, minimising waste rather than the traditional "take, make, dispose" model. **Earth Overshoot Day**, tracked by the organisation of the same name, marks the point in a given year when humanity has used up all the biological resources the planet can regenerate in that year: everything consumed after that date represents ecological overshoot.
 
-![[Screenshot 2023-09-21 at 10.49.12.png]]
+## Why it matters
 
-## EU transition to Circular economy is behind schedule
-*Source: https://www.agriland.ie/farming-news/eu-transition-to-circular-economy-behind-schedule-auditors/
+Circularity is one of the few strategies that tackles both climate change and resource depletion at once, by cutting the emissions and extraction that go into making new products in the first place. But as the evidence below shows, turning the ambition into measurable progress has proven far harder than policymakers expected.
 
-> A circular economy preserves the value of products, materials and resources for as long as possible to minimise waste
+## EU transition to a circular economy is behind schedule
 
+To drive the shift to a circular economy, the European Commission issued two action plans: the first in 2015, with 54 specific actions, and the second in 2020, adding 35 new actions and setting a target of **doubling the EU's "circularity rate"**, the proportion of material recycled and fed back into the economy, by 2030.
 
-To help with the transition to a circular economy, the EU Commission issued two action plans. The first, published in 2015, outlined 54 specific actions.
+Progress has been slow. An audit by the European Court of Auditors found that a large share of the roughly **€10 billion** allocated to favour green investment and recycling had instead been used for general waste management. As the ECA report put it: "achieving the EU's ambition of recycling twice as many materials during the current decade as during the previous one will be like trying to square the circle." Between 2015 and 2021, the average circularity rate across all 27 EU countries increased by only **0.4 percentage points**. Lithuania, Sweden, Romania, Denmark, Luxembourg, Finland and Poland actually regressed over that period.
 
-The second, issued in 2020, added 35 new actions and set a target of doubling ‘circularity rate’ – the proportion of material recycled and fed back into the EU economy – by 2030
+## Sharing is on the rise: the Library of Things
 
-There is evidence that tthere has been little influence and progress with an audit showing that a big part of the 10B$ allocated to favoring green investement and recylcing has been used for Waste management
+A European market study found that community sharing schemes, sometimes called "Libraries of Things", are expanding fast. In the space of a single year, the number of sharing stations in Europe increased by **70%**, with **1,325 stations** now serving more than **350,000 users**.
 
-> “In this context, achieving the EU’s ambition of recycling twice as many materials during the current decade as during the previous one will be like trying to square the circle,” the ECA report said
+## Policy updates
 
-The tranistiion to Circularity has made little progress: Between 2015 and 2021, the average circularity rate for all 27 EU countries increased by only 0.4 percentage points.
+### Right to repair passed by the European Parliament
 
-Lithuania, Sweden, Romania, Denmark, Luxembourg, Finland and Poland actually regressed during that time
+In November 2023, the European Parliament passed new "right to repair" rules making it easier for consumers to have electronic or electrical goods repaired rather than replaced and thrown away. The law requires sellers to repair products unless doing so would cost more than replacing them, and gives consumers rights to make repairs easier and cheaper once guarantees expire. This matters because electronics are the fastest-growing source of waste in the EU: in 2017, more than **3.5 million tonnes** were collected, and only **40%** of that was recycled.
 
+### New EU rules targeting textile and food waste
 
-## There is a long way to go with Circular Economy
+EU lawmakers reached a provisional agreement (still requiring endorsement by all member states) on new rules to meaningfully cut textile and food waste over five years. The EU generates around **59 million tonnes of food waste** each year, an estimated direct economic loss of **€132 billion**, alongside **12.6 million tonnes of wasted textiles**, of which clothing and footwear account for 41%, a trend worsened by fast fashion.
 
-![[Screenshot 2023-10-14 at 14.50.23.png]]
-Source: Lab4 [SLIDES](https://docs.google.com/presentation/d/1tHHu9sdnyM-hRBHIoAwogIVNQPWwZMk5DL41CMj6sLo/edit#slide=id.g2048e4dd829_0_22)
+Under the proposed framework, textile producers and fashion brands would become responsible for their own waste, paying a fee to fund collection and treatment; companies performing poorly on circularity, sustainable design and product durability would pay higher fees (France has already introduced similar legislation). Smaller companies in the sector would be given access to shared waste-treatment facilities. Food manufacturers would need to cut waste by 10% by 2030, while shops, restaurants and households would need to cut food waste by 30% per capita, with retailers and restaurants encouraged to donate unsold food that is still safe to eat. The agreement still needs to be endorsed by the European Council and Parliament and undergo legal-linguistic revision; once formally adopted, member states would have up to 20 months to update national laws.
 
+### EU e-waste targets don't reflect Ireland's recycling efforts
 
-## Strategic Foresight Board Report
-![[SFB-Report-2023.pdf]]
+**WEEE Ireland**, the country's largest e-waste non-profit, marked 20 years in operation highlighting that more than **250 million** old and broken electrical items have been kept out of landfill since 2005. Over that period it has facilitated the collection and recycling of more than **609,000 tonnes** of electrical waste, including 7.6 million large household appliances, 1.8 million fridges, 5.1 million televisions and monitors, 47.5 million lamps, and the equivalent of 725 million used AA batteries.
 
+WEEE Ireland chief executive Leo Donovan argued that Ireland's efforts are not properly recognised within EU targets, because those targets don't account for the improved lifespan of modern technology or for repair and reuse efforts. Under current EU rules, member states must collect a minimum of 65% of the average weight of electrical and electronic equipment placed on the market over the preceding three years, a linear, weight-based target that doesn't reflect that newer appliances such as solar PV panels and heat pumps last 15 to 20 years, delaying when they become eligible for recycling at all.
 
+## Further resources
 
----
-## An Irish Waste Action Plan
-#waste-management #circularity #ireland 
- 
-![[86647_dcf554a4-0fb7-4d9c-9714-0b1fbe7dbc1a.pdf]]
+- Circular Tech Map, an interactive directory of circular economy technology providers — https://circulartechmap.com/
+- Bold Donut, games-based waste management education — https://www.bolddonut.com/
 
+## Connected topics
 
----
-## Sharing is on the rise - the Library of Things
-Source: https://www.interregnorthsea.eu/digital-kiosks/european-market-study
+- [FACTS about Biomass](FACTS%20about%20Biomass.md)
+- [Companies and Communities Driving Sustainability](Companies%20and%20Communities%20Driving%20Sustainability.md)
 
-> The study's key finding is that **sharing is expanding at an unprecedented pace**. In just one year, the number of sharing stations in Europe has **increased by 70%** with **1.325 stations** now serving more than **350,000 users**.
+## Sources
 
-![[Screenshot 2025-05-20 at 17.05.59.png]]
-
-![[Digital Kiosks European Market Study - March 2025.pdf]]
-
-
----
-## UPDATES
-### New Law "right to repair" passed by European Parlement
-*==SOurce: https://www.rte.ie/news/2023/1121/1417605-right-to-repair/==*
-
-> New rules to make it easier for consumers to have electronic or electrical goods repaired rather than replaced and binned were passed by the European Parliament today.
-
-- The law would require sellers to repair products unless it is cheaper to replace them
-- It would also provide rights to make repairs easier and cheaper when guarantees expire
-
-
-> [!NOTE] Why is it important? 
-> Electronics are the fastest growing source of waste in the EU. In 2017, more than 3.5 million tonnes were collected and only 40% recycled.
-
-
-### New EU rule targeting Textile and Food Waste
-Source: https://theprogressplaybook.com/2025/03/18/inside-the-eus-new-rules-targeting-textile-and-food-waste/ 
-
-#circularity #waste #fashion 
-
-This is a provisional proposal only, it needs to be voted by all countries. 
-
-###### Lawmakers in the European Union have reached a provisional agreement on new rules that will require a meaningful reduction in textile and food waste over the next five years.
-
-> [!NOTE] EU Food and Textile Waste
-> Around 59 million tonnes of food waste are generated in the EU each year, representing an estimated direct economic loss of €132 billion. The bloc also generates 12.6 million tonnes of wasted textiles per year, with clothing and footwear accounting for 41% of that amount. The trend towards fast fashion has exacerbated the problem.
-
-Under the frameworks, textile producers and fashion brands will be made responsible for their waste and will have to pay a fee to help fund waste collection and treatment. Companies that perform poorly in terms of circularity, sustainable design, and product durability will pay higher fees ([France has already introduced legislation to this effect](https://theprogressplaybook.com/2024/03/18/frances-pioneering-plan-to-create-a-more-sustainable-fashion-industry/)).
-
-To smooth the way forward, all companies in the sector, including smaller ones, will be given access to waste textile treatment facilities, the European Council says.
-
-> Meanwhile, food manufacturers will need to reduce waste by 10% by 2030, while shops, restaurants and households will need to slash food waste by 30% on a per capita basis. Retailers and restaurants will be prompted to voluntary donate unsold food that’s still safe for human consumption.
-
-
-> Next: **What’s next:** The provisional agreement will now have to be endorsed by the European Council and Parliament before undergoing legal linguistic revision. Once formally adopted, EU member states will have up to 20 months to update their national laws to follow the new rules.
-
-
-### EU Targets don't properly reflect e0waste recycling efforts
-#e-waste 
-
-==*Source: [The Independant](https://m.independent.ie/irish-news/eu-targets-dont-properly-reflect-e-waste-recycling-efforts/a627907177.html)*
-
-A non-profit organisation collecting e-waste, the largest in Ireland, raises concerns about EU recycling targets ignoring the growing circular economy
-
-> Waste Electrical and Electronic Equipment (WEEE) Ireland, which is marking 20 years in operation this year, has highlighted that more than 250 million old and broken electrical items have been prevented from entering landfill since 2005.
-
-WEEE said it has facilitated the collection and recycling of more than 609,000 tonnes of electrical waste i the last 20 years.
-
-That haul included 7.6 million large household appliances, 1.8 million fridges, 5.1 million televisions and monitors, 47.5 million lamps, and the equivalent of 725 million used AA batteries.
-
-> WEEE Ireland chief executive Leo Donovan said Ireland's efforts are not being properly recognised within the targets as they do not account for the improved lifespan of technology, as well as efforts to repair and reuse products.
-
-
-> [!NOTE] What are the EU Rules? 
-> EU member states are required to collect a minimum of 65pc of the average weight of electrical and electronic equipment placed on the market over the preceding three years.
-> 
-
-> The EU's current linear weight-based targets do not consider the extended lifespans of modern electronics or the growing emphasis on repair and reuse, meaning Ireland's true environmental progress goes unrecognised. 
-> "Newer appliances such as solar PV panels and heat pumps last 15 to 20 years, delaying their recycling eligibility, so we need realistic targets to benchmark our systems and drive improvement."
-
-
-
-
-
-
-
----
----
-# References
-
- - [ ] EU Grants application for Circularity - 
- - [ ] Company doing Games for Waste management education - https://www.bolddonut.com/
- - [ ] Circular Tech Map - https://circulartechmap.com/
- - [ ] 
+- Earth Overshoot Day — https://www.overshootday.org/
+- Agriland, "EU transition to circular economy behind schedule: auditors" — https://www.agriland.ie/farming-news/eu-transition-to-circular-economy-behind-schedule-auditors/
+- Interreg North Sea Region, "Digital Kiosks: European Market Study", March 2025 — https://www.interregnorthsea.eu/digital-kiosks/european-market-study
+- RTE, "New right to repair rules pass European Parliament", 21 November 2023 — https://www.rte.ie/news/2023/1121/1417605-right-to-repair/
+- The Progress Playbook, "Inside the EU's new rules targeting textile and food waste", 18 March 2025 — https://theprogressplaybook.com/2025/03/18/inside-the-eus-new-rules-targeting-textile-and-food-waste/
+- The Progress Playbook, "France's pioneering plan to create a more sustainable fashion industry", 18 March 2024 — https://theprogressplaybook.com/2024/03/18/frances-pioneering-plan-to-create-a-more-sustainable-fashion-industry/
+- Irish Independent, "EU targets don't properly reflect e-waste recycling efforts" — https://m.independent.ie/irish-news/eu-targets-dont-properly-reflect-e-waste-recycling-efforts/a627907177.html

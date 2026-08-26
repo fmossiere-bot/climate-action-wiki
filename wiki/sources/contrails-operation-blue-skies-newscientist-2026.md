@@ -31,4 +31,4 @@ Corroborates and adds technical precision to the BBC account of the same trial â
 
 ## How it connects to the wiki
 
-- Same routing as the BBC companion source: updates `wiki/sectors/transport/DRAFT - FACTS about Air Travel.md`
+- Same routing as the BBC companion source: updates `wiki/sectors/transport/Facts about Air Travel.md`

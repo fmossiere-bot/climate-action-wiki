@@ -52,5 +52,5 @@ Straight news reporting. DW gives the industry pushback (HDE) fair space and inc
 
 - Updates `wiki/circularity-waste/The Environmental Impact of the FASHION industry.md`
 - Complements the [Seaqual ocean plastic to fashion](../circularity-waste/seaqual-ocean-plastic-fashion.md) page — different point on the same value chain
-- Fits alongside `wiki/circularity-waste/DRAFT - The Rewearable -  Circular Fashion ACTION GUIDE.md`
+- Fits alongside `wiki/circularity-waste/The Rewearable -  Circular Fashion.md`
 - Reinforces `wiki/circularity-waste/plastic-mass-balance-greenwashing.md` — same "circular economy in EU law" thread

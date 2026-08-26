@@ -1,130 +1,87 @@
 ---
 title: FACTS about Biomass
 category: concepts
-tags: [science, alternative-fuels]
+tags: ["#key-ideas", "#alternative-fuels", "#forest", "#agriculture"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "Introduction to Biomass, Modern Bioenergy, SAF, Risks & Controversies, Emissions impact of Biomass Power Station in the UK, Small Scale, Sustainable Feedstock: A solution for Chemical industry, Energy Strategy and Biomass: An IRISH lens, About Biomethanol, Learn more about Biomethanol production, Biomethanol as a Fuel, The drive for sustainability"
+updated: 2026-08-26
+summary: biomass energy, bioenergy, wood pellets, biofuels, ethanol, biodiesel, algae fuels, electrofuels, sustainable aviation fuel, Drax, BECCS, indirect land use change, corn ethanol, rice husk gasifiers, biogas, biomethane, biomethanol, chemical feedstock, Ireland biomass, deforestation, World Resources Institute
 ---
 
->#biomass #biofuels 
+# FACTS about Biomass
 
-## Introduction to Biomass
+Note: this page covers biomass as a broad concept spanning household energy, aviation fuel, chemical feedstock and land use. For biomass specifically as a renewable electricity source, see the separate page in [wiki/solutions/renewables](../../solutions/renewables/).
 
-> [!About Biomass]
-> Biomass energy is energy from organic matter—both plant materials and animal waste. Plant-based biomass energy is considered a "sustainable" source of energy because plants absorb carbon dioxide from the atmosphere, and when burned, emit the same amount of carbon dioxide back into the air. So in theory, biomass energy is carbon "neutral."
+## What is it
 
-###### About 10% of global primary energy comes from biomass. 
+**Biomass energy** is energy from organic matter, both plant material and animal waste. Plant-based biomass is often described as a "sustainable" energy source because plants absorb carbon dioxide from the atmosphere as they grow, and in theory release the same amount back into the air when burned, making it carbon neutral. About **10% of global primary energy** currently comes from biomass. Many rural communities across the developing world rely on wood, charcoal and animal dung for household cooking and heating, and for small-scale industrial processes like brick-making and food processing.
 
-![[Screenshot 2024-06-17 at 13.50.24.png]]
-*Source: https://ourworldindata.org/energy-mix*
+## Why it matters
 
+Biomass sits in an uncomfortable middle ground in the energy transition. It is genuinely useful at small scale, and it underpins some of the most promising routes to decarbonising hard sectors like aviation and chemicals, but at industrial scale it has repeatedly turned out to carry serious hidden costs in land use, biodiversity and even carbon emissions themselves.
 
-Many rural people around the developing world rely on wood, charcoal, animal dung, and other biomass to provide energy for household cooking and heating, and small-scale rural industrial processes, like brick-making and food processing.
+## Modern bioenergy
 
+Modern bioenergy comes in several forms: solid fuels such as torrefied wood pellets and briquettes, and biofuels, which are grouped into generations. First-generation biofuels (ethanol and biodiesel) are made from food crops. Second-generation biofuels are made from lignocellulosic biomass (woody and fibrous plant matter not used for food). Third-generation fuels are made from algae. Fourth-generation fuels, such as electrofuels and photobiological solar fuels, remain experimental.
 
-## Modern Bioenergy
-_Modern_ bioenergy sources include:
+At home, heating with biomass, typically wood pellets burned in a stove, is one option often marketed as sustainable. As the sections below show, how sustainable it actually is depends heavily on where and how the wood was sourced.
 
-- Solid fuels like torrefied wood pellets or briquettes
-- Biofuels, which include: 
-    - First-generation fuels from food crops (ethanol and biodiesel)
-    - Second-generation fuels from lignocellulosic biomass
-    - Third-generation fuels from algae
-    - Fourth-generation fuels like electrofuels and photobiological solar fuels—these are still experimental systems
+Bioenergy is also a central part of the aviation industry's bet on **Sustainable Aviation Fuel (SAF)** (see [Sustainable Aviation Fuel](../../solutions/electrification/Sustainable%20Aviation%20Fuel%20-%20%20A%20Necessary%20but%20Complicated%20Solution.md)), though this too is not without controversy.
 
- You can read more about biofuels [here](https://link.springer.com/chapter/10.1007/978-981-15-3761-5_8).
+## Risks and controversies
 
+A **2022 five-year study** of corn ethanol, a widely used fuel additive in the US, found it has led to increased fertiliser use and water pollution, and likely produces **at least 24% more emissions than petrol**. The **World Resources Institute** has separately warned that expanding biofuel cultivation takes land away from food production, and that ambitious biofuel targets could significantly widen the gap between the crop calories the world will have available and those it will need by 2050.
 
-> [!Biomass Heating at home]
-> Today heating your home with Biomass is one of the sustainable options. Think Wood Pellet and Stove. See for example this copmany in the UK: https://energysavingtrust.org.uk/advice/biomass/ . Now, as we will see below, you need to do your research about how sustainable the sourcing of Biomass is. 
+The world's largest maker of wood pellets, Enviva, came under scrutiny in a December 2022 Mongabay investigation questioning its environmental claims, at a time when the EU was considering the future of forest biomass burning as a "sustainable" form of renewable energy. A separate study commissioned by the US Southern Environmental Law Center documented the environmental and climate harms the biomass energy industry inflicts on forests in the southern United States.
 
+A related concern is **indirect land use change**: growing biomass crops can simply displace food crop cultivation onto other land, domestically or overseas, which can encroach into rainforest or other natural habitats and result in a net increase in emissions. This effect has been studied in Brazil, though its overall scale remains complicated and difficult to assess. **BECCS** (bioenergy with carbon capture and storage), which features in IPCC 1.5C scenarios, has similarly been shown to be unsustainable from a land-use perspective once the scale of biomass required is accounted for.
 
-## SAF
-Modern Bioenergy is also a intergral part of aviation bet on Sutainable Fuels (See [[Sustainable Aviation Fuel -  A Necessary but Complicated Solution]] ). It is not without controversy
+### Case study: emissions from a UK biomass power station
 
-## Risks & Controversies
-in 2022, a [five-year study](https://civileats.com/2022/02/14/how-corn-ethanol-for-biofuel-fueled-climate-change/) of the impact of corn ethanol—a widely used fuel additive in the U.S.— found that it has led to increased fertilizer use, water pollution, and likely _at least 24 percent more emissions than gasoline._
+The **Drax** power station in North Yorkshire, which burns wood pellets imported from North America to generate electricity, was named Britain's single largest carbon emitter in 2023 by a report from the climate thinktank Ember. According to Guardian reporting on the study, the plant produced **four times the emissions of a UK coal plant**. Drax, which has received billions of pounds in subsidies since it began switching from coal to biomass in 2012, was responsible for **11.5 million tonnes of CO2** in 2023, nearly 3% of the UK's total carbon emissions. Scientists estimate that burning wood pellets generates more emissions per unit of electricity produced than burning gas or oil.
 
-The [World Resources Insitute reports](http://www.wri.org/research/avoiding-bioenergy-competition-food-crops-and-land) that increasing biofuels cultivation takes precious land away from food production and that ambitious biofuel targets could significantly increase the “food gap” between crop calories available vs. those needed in 2050.
+Drax plans to fit carbon capture technology at the plant, at an estimated cost of £40 billion to billpayers, to create a "bioenergy with carbon capture and storage" project and become the world's first "carbon-negative" power plant by the end of the decade, funded by further subsidies. A Drax spokesperson dismissed the Ember report's findings as "flawed" and said the company follows a "widely accepted and internationally recognised approach to carbon accounting", adding that the IPCC "is clear that biomass sourced in line with strict sustainability criteria can be used as a low-carbon source of energy." One critic quoted in the Guardian's coverage countered that burning wood for power is "an expensive risk that limits UK energy independence" and that true energy security comes from wind, solar and a flexible, efficient grid.
 
-And the world's largest maker of wood pellets, which are burned for energy, is [under fire amid reports like this one from Mongabay](https://news.mongabay.com/2022/12/envivas-biomass-lies-whistleblower-account/), which questions the company's environmental claims. "These findings are especially important now, as the EU considers the future of forest biomass burning as a 'sustainable' form of renewable energy," the December 2022 piece notes. A few months earlier, a [study commissioned by the U.S. Southern Environmental Law Center](https://www.southernenvironment.org/news/new-study-confirms-harmful-impacts-of-biomass/) showed "the environmental and climate harms the biomass energy industry inflicts on Southern forests."
+The balanced read: Drax is technically correct that sustainably sourced wood burning is a lower-carbon source of energy than coal, but it is not a sustainable strategy at this scale over the long run without planting far more trees than are currently being replaced, and heavy subsidies risk locking in the wrong behaviour rather than the transition to wind and solar.
 
-> A related problem is the "indirect land use" question: This is a situation in which biocrop cultivation simply displaces other types of cultivation, like food crops, to other lands, in the same country or overseas, that could encroach into former rainforests or other natural habitats, and result in a net increase in greenhouse gas emissions. This has been researched in [Brazil](https://www.pnas.org/doi/10.1073/pnas.0907318107); however, it is [complicated and difficult](https://www.sciencedirect.com/science/article/pii/B9780128039540000073) to assess the extent of this impact. 
+## Small-scale biomass
 
-A type of carbon removal approach called BECCS, or bioenergy with carbon capture and storage, featured in IPCC  scenarios for 1.5 C, is also shown to be unsustainable from a land-use perspective ([X thread](https://twitter.com/threadreaderapp/status/1767324552462233740); [PDF](https://drive.google.com/file/d/1HxHfHb0wQocOeozNIhbijY_Ff0P-K2Sk/view?usp=drive_link); [commentary](https://onlinelibrary.wiley.com/doi/10.1111/gcbb.12798#.YCuLYJT9rTk.twitter)). We discuss this in more detail in another module. 
+While large-scale biofuel use has fallen out of favour, biomass energy from crop residues and animal waste can be used sustainably at a **small scale**, and is often an excellent fit for rural energy needs. Many rice-growing regions produce large amounts of rice husk, which can fuel small gasifiers that generate power; this approach has helped bring electrification to villages in one of India's poorest states. Biogas is a similarly feasible option for some rural communities, though it requires a steady, year-round supply of crop residues and animal waste to work well, a constraint that has been proven manageable in the Indian state of Chhattisgarh.
 
+A French example: the magazine *Ecologie360* profiled a farmer in the Dordogne region who runs all his vehicles on fuel produced by fermenting cow manure into biomethane, a much better outcome for the environment than the alternative some farmers use of simply storing effluent in open reservoirs, which releases methane emissions.
 
-### Emissions impact of Biomass Power Station in the UK
-An other controversy seems to be the impact Biomass industry have in terms of emissions
-==Source: [The Guardian](https://www.theguardian.com/environment/article/2024/aug/09/biomass-power-station-produced-four-times-emissions-of-uk-coal-plant-says-report) - Biomass power station produced four times emissions of UK coal plant, says report==
+## Sustainable feedstock for the chemical industry
 
-> Subsidies can incentives industry to adopt a certain type of energy, and so this is what Drax did. Now a report claim that this particular power station generated 4x the emissions of a traditional Coal plant 
+Manufacturing chemicals is energy intensive, and some critical processes produce large amounts of CO2 as a by-product; because many chemicals are carbon-based, they can also release CO2 or methane when incinerated or decomposed at the end of their lives. As of early 2023, **66% of the largest chemical end-user companies in Europe**, spanning automotive, food and personal-care industries, had committed to reducing greenhouse gas emissions by 2030, and **37% had pledged net-zero targets by 2050**. In Germany, Europe's largest economy, the chemical industry aims to cut CO2 emissions by around 35% by 2030.
 
+One proposed solution for this hard-to-decarbonise sector is **sustainable feedstocks**, including biomass and captured CO2, used as raw material instead of fossil-derived inputs. The approach is not without challenges, particularly matching the right feedstocks and conversion technologies to the right products in the right regions of the world.
 
-###### The [North Yorkshire](https://www.theguardian.com/uk-news/north-yorkshire) power plant, which burns wood pellets imported from North America to generate electricity, was revealed as Britain’s single largest carbon emitter in 2023 by a report from the climate thinktank Ember
+## Ireland lens
 
-> The figures show that [Drax](https://www.theguardian.com/business/draxgroup), which has received billions in subsidies since it began switching from coal to biomass in 2012, was responsible for 11.5m tonnes of CO2 last year, or nearly 3% of the UK’s total carbon emissions
+See [IRELAND Energy and Biomass](../../ireland-hub/IRELAND%20Energy%20and%20Biomass.md) for how biomass and biomethane fit into Ireland's national energy strategy, including the conversion of peat-burning plants to biomass.
 
-###### Scientist estiamte that burning wood pellet generate more emissions per unit of electrictiy produced than burning gas or fuel
+## Biomethanol
 
-The company [plans to fit carbon-capture technology](https://www.theguardian.com/business/2024/jan/16/drax-gets-go-ahead-for-carbon-capture-project-at-estimated-40bn-cost-to-bill-payers) at Drax using more subsidies, to create a “bioenergy with carbon capture and storage” (BECCS) project and become the first “[carbon-negative](https://www.theguardian.com/business/2019/dec/10/drax-owner-plans-worlds-first-carbon-negative-business)” power plant in the world by the end of the decade.
+**Biomethanol**, produced from biomass through gasification, is being explored as an alternative fuel, particularly for shipping and as a chemical building block. Technical detail on production pathways and its use as a transport fuel is covered in reports from IRENA and the European Technology and Innovation Platform for Bioenergy (ETIP Bioenergy), listed under Sources below.
 
-A spokesperson for the company dismissed the thinktank’s findings as “flawed” and accused its authors of ignoring its “widely accepted and internationally recognised approach to carbon accounting”.
+## Connected topics
 
-> “The Intergovernmental Panel for Climate Change is clear that biomass sourced in line with strict sustainability criteria can be used as a low-carbon source of energy. We will continue to monitor biomass electricity generation to ensure it meets required standards,” the spokesman said.
+- [Sustainable Aviation Fuel - A Necessary but Complicated Solution](../../solutions/electrification/Sustainable%20Aviation%20Fuel%20-%20%20A%20Necessary%20but%20Complicated%20Solution.md)
+- [IRELAND Energy and Biomass](../../ireland-hub/IRELAND%20Energy%20and%20Biomass.md)
+- [FACTS about Circular Economy](FACTS%20about%20Circular%20Economy.md)
 
-Mayo said: “Burning wood for power is an expensive risk that limits UK energy independence and has no place in the journey to net zero. True energy security comes from homegrown wind and solar, a healthy grid and robust planning for how to make the power system flexible and efficient.”
+## Sources
 
-> The point is, while Drax is right and, as long as sourced sustainably, burning wood is a low-carbon source of eenergy, it is not really a sustainable one for the long run, you need to plant much more trees, and doesn’t address the long term strategy. Having high subsidies shape the wrong behavior
-
-
----
-## Small Scale
-While large-scale use of biofuels has fallen out of favour, biomass energy based on crop residues and/or animal waste can be sustainably used on a _small scale_, and can often be an excellent solution for rural energy needs. Many rice-growing regions produce a lot of rice husk; this can become a fuel source for small gasifiers that generate power. Check out this great story on [rice husk-based electrification](https://daily.jstor.org/running-on-rice-husks-how-one-entrepreneur-brought-electricity-to-his-village/) from one of India's poorest states. 
-
-
-> [!Ecologie360 -  A positive story of running vehicles with Cows'poo]
-> Source: https://boutique.ecologie360.fr/espace-abonne/ecologie-360-liseuse-numerique-n2/
-> > #france #biofuels A good exemple is a story featured in Ecologie360 (p21) of a farmer running all his vehicles on Cows poos in Dordogne, using all animal wasts  to ferment where it produce Biomethane. Transforming it into fuel is much better for the environment. Other farmer choose to stock the effluents to aliment their reservoir, resulting in emissions of methane
-![[Screenshot 2024-06-17 at 14.19.47.png]]
-
-
-  
-_Biogas_ is also a feasible option for some rural communities, but it has constraints—you need sufficient crop residues and animal waste year-round for it to be an effective solution. However, there are places where it has been proven to work, like in the [Indian state of Chattisgarh](https://www.cwejournal.org/vol11no2/biogas-plants-in-chhattisgarh-india-a-case-study/). 
-
-
-## Sustainable Feedstock: A solution for Chemical industry? 
-Source: https://www.mckinsey.com/industries/chemicals/our-insights/sustainable-feedstocks-accelerating-recarbonization-in-chemicals?stcr=6370ACDF7DED4F0798048A80F78395DA&cid=other-eml-alt-mip-mck&hlkid=2d2918aa423640a7ad2be4287e376d10&hctky=15025199&hdpid=9436117d-5bf4-4e79-b385-73f45db280df
-
-> [!Chemical industry is very present in Europe]
-> **The drive for sustainability** is revolutionizing the chemical industry. Our research shows that as of early 2023, 66 percent of the largest chemical end users in Europe—including players in the automotive, food, and personal-care industries—had committed to reducing greenhouse-gas (GHG) emissions by 2030, and 37 percent have pledged net-zero targets by 2050. In Germany, Europe’s largest economy, the industry aims to reduce CO2 emissions by approximately 35 percent by 2030
-
-
-> Manufacturing chemicals is energy intensive, with some critical processes producing large amounts of CO2 as a by-product. And because many chemicals are made from carbon, products can release CO2 or methane if they are incinerated or decomposed at the end of their lives as part of waste management
-
-Hard to decarbonise industry could leverage Sustainable feedstock? 
-
-
-> One solution to close the gap is the use of sustainable feedstocks, such as biomass and CO2. However, this approach is not without challenges, particularly when it comes to matching the right feedstocks and conversion technologies with the right products in the right regions of the world.
-
-
----
-## Energy Strategy and Biomass: An IRISH lens
-See [[DRAFT - IRELAND Energy and Biomass]]
-
-
-
-
----
-## About Biomethanol
-### Learn more about Biomethanol production
-Source: https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2013/IRENA-ETSAP-Tech-Brief-I08-Production_of_Bio-methanol.pdf?rev=5ea20e7c84c4472f8eeed8111ff8daf9
-
-![[IRENA-ETSAP-Tech-Brief-I08-Production_of_Bio-methanol.pdf]]
-
-
-### Biomethanol as a Fuel
-Source: https://www.etipbioenergy.eu/images/ETIP_Bioenergy_Biomethanol_production_and_use_as_fuel.pdf
-
-![[ETIP_Bioenergy_Biomethanol_production_and_use_as_fuel.pdf]]
+- Our World in Data, "Energy Mix" — https://ourworldindata.org/energy-mix
+- Civil Eats, "How Corn Ethanol for Biofuel Fueled Climate Change", February 2022 — https://civileats.com/2022/02/14/how-corn-ethanol-for-biofuel-fueled-climate-change/
+- World Resources Institute, "Avoiding Bioenergy Competition for Food Crops and Land" — https://www.wri.org/research/avoiding-bioenergy-competition-food-crops-and-land
+- Mongabay, "Enviva's biomass lies: a whistleblower account", December 2022 — https://news.mongabay.com/2022/12/envivas-biomass-lies-whistleblower-account/
+- Southern Environmental Law Center, commissioned study on biomass energy impacts on Southern forests — https://www.southernenvironment.org/news/new-study-confirms-harmful-impacts-of-biomass/
+- PNAS, indirect land use change study, Brazil — https://www.pnas.org/doi/10.1073/pnas.0907318107
+- The Guardian, "Biomass power station produced four times emissions of UK coal plant, says report", 9 August 2024 — https://www.theguardian.com/environment/article/2024/aug/09/biomass-power-station-produced-four-times-emissions-of-uk-coal-plant-says-report
+- The Guardian, "Drax gets go-ahead for carbon capture project at estimated £40bn cost to billpayers", 16 January 2024 — https://www.theguardian.com/business/2024/jan/16/drax-gets-go-ahead-for-carbon-capture-project-at-estimated-40bn-cost-to-bill-payers
+- JSTOR Daily, "Running on Rice Husks: How One Entrepreneur Brought Electricity to His Village" — https://daily.jstor.org/running-on-rice-husks-how-one-entrepreneur-brought-electricity-to-his-village/
+- CWE Journal, "Biogas Plants in Chhattisgarh, India: A Case Study" — https://www.cwejournal.org/vol11no2/biogas-plants-in-chhattisgarh-india-a-case-study/
+- Ecologie360 magazine (subscriber edition, p.21), farmer profile on cow-manure biomethane, Dordogne, France
+- McKinsey & Company, "Sustainable feedstocks: Accelerating recarbonization in chemicals" — https://www.mckinsey.com/industries/chemicals/our-insights/sustainable-feedstocks-accelerating-recarbonization-in-chemicals
+- IRENA, "Production of Bio-methanol" (ETSAP Technology Brief I08) — https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2013/IRENA-ETSAP-Tech-Brief-I08-Production_of_Bio-methanol.pdf
+- ETIP Bioenergy, "Biomethanol Production and Use as Fuel" — https://www.etipbioenergy.eu/images/ETIP_Bioenergy_Biomethanol_production_and_use_as_fuel.pdf

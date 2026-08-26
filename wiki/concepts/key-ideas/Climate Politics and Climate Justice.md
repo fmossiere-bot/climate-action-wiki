@@ -43,7 +43,7 @@ It is not simply the case that addressing poverty and cutting emissions are in t
 On overall progress, the world is doing better than it once was, but is not on track for 1.5°C; current policy most likely puts the world on a path to around 2.5-2.9°C of warming, with a path to around 2.1°C visible if all new pledges are actually delivered. Per the United Nations, **net-zero** means "not adding new emissions to the atmosphere. Emissions will continue, but will be balanced by absorbing an equivalent amount from the atmosphere," achieved through two components: reducing emissions as close to zero as possible, and balancing remaining emissions through carbon removal, whether through natural means like tree planting or technology like direct air capture. Some 151 out of 202 countries have at least proposed or pledged net-zero commitments, per Net Zero Tracker, a collaboration between the University of North Carolina-Chapel Hill, the University of Oxford, and the nonprofits NewClimate Institute and the Energy & Climate Intelligence Unit. These pledges cover 89% of the world's population and 88% of global emissions. Carbon Brief has warned that folding emissions reductions and negative emissions together into a single "net-zero" target risks delaying actual emissions cuts and distracting from the priorities that matter most now. "Carbon neutrality" is often used interchangeably with "net-zero," despite the two terms sometimes meaning different things to different people, itself a small illustration of how definitional confusion complicates this whole debate.
 
 ## Corporate responsibility: fossil fuel companies
-Fossil fuel companies are, in a real sense, the elephant in the room of climate politics: their business model depends on continued extraction and combustion of the product driving the crisis, and their lobbying influence over international negotiations, visible for instance in the more than 2,400 oil and gas attendees at COP28, shapes what governments are able to agree to. See [Facts About the Fossil Fuel Industry](FACTS About Fossil Fuel (Oil and Gaz) Industry.md) for detail on the scale of that industry's impact.
+Fossil fuel companies are, in a real sense, the elephant in the room of climate politics: their business model depends on continued extraction and combustion of the product driving the crisis, and their lobbying influence over international negotiations, visible for instance in the more than 2,400 oil and gas attendees at COP28, shapes what governments are able to agree to. See [Facts About the Fossil Fuel Industry](../../solutions/energy-transition/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md) for detail on the scale of that industry's impact.
 
 ## Citizen power and the climate justice movement
 Regular people are not powerless in this system. Research suggests that sustained political action, meaning strikes, protests and similar activism, by just 3.5% of a population is enough to force governmental change, and separate research finds that social movements have a measurable impact on reducing greenhouse gas emissions.
@@ -74,8 +74,8 @@ Under the policy, properties must be rated for energy efficiency from A (best) t
 
 ## Connected topics
 - [Global Emissions in 2022](Global Emissions in 2022.md)
-- [Facts About the Fossil Fuel Industry](FACTS About Fossil Fuel (Oil and Gaz) Industry.md)
-- [DRAFT - Climate Change Isn't FAIR](DRAFT - Climate Change Isn't FAIR.md)
+- [Facts About the Fossil Fuel Industry](../../solutions/energy-transition/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
+- [Climate Change Isn't Fair](Climate%20Change%20Isn%27t%20Fair.md)
 
 ## Sources
 - UNFCCC, Nationally Determined Contributions — https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs

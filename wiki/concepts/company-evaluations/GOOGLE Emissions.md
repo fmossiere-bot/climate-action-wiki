@@ -29,7 +29,7 @@ Google is also backing a project converting landfill waste into biochar as a car
 
 ## Connected topics
 
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](../../sectors/digital/DRAFT%20-%20FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
+- [FACTS about AI, Emissions Impacts and Mitigation Potential](../../sectors/digital/FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
 - [Net-Zero target explained](../key-ideas/Net-Zero%20target%20explained.md)
 - [Space necessary for the various Energy Sources](../key-ideas/Space%20necessary%20for%20the%20various%20Energy%20Sources.md)
 

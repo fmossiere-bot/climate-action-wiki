@@ -54,7 +54,7 @@ If Quaise or its equivalents actually reach **superhot rock at 10+ km depth**, t
 
 ## How it connects to the wiki
 
-- Directly updates `wiki/solutions/renewables/DRAFT - Geothermal energy.md` with the three new routes and 2026 project status
+- Directly updates `wiki/solutions/renewables/Geothermal energy.md` with the three new routes and 2026 project status
 - Complements `wiki/sectors/industry/bio-based-resins-composites.md` (parallel "adjacent industry technology solving a hard climate problem" story)
-- Complements `wiki/solutions/renewables/DRAFT - FACTS about Wind Energy.md`
+- Complements `wiki/solutions/renewables/FACTS about Wind Energy.md`
 - Reinforces `wiki/climate-adaptation/home-cooling-heatwaves.md` (heat pumps + geothermal for building energy)

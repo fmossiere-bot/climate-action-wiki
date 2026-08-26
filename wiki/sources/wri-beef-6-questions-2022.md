@@ -45,6 +45,6 @@ Article was last updated in **March 2022** and reflects data up to about 2019–
 
 - Underpins a new page `wiki/sectors/agriculture-food/beef-and-climate-change.md`
 - Complements `wiki/sectors/agriculture-food/agriculture-planetary-footprint.md` (updated with 2026 FAO meat supply data)
-- Reinforces `wiki/sectors/agriculture-food/DRAFT - Is the meat industry following the Oil Industry?.md`
+- Reinforces `wiki/sectors/agriculture-food/Is the meat industry following the Oil Industry.md`
 - Fits alongside `wiki/solutions/nature-based-solutions/Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate.md`
 - Adds background numbers to `wiki/solutions/food/lab-grown-meat.md`

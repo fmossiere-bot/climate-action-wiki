@@ -1,84 +1,51 @@
 ---
 title: What is Materiality?
 category: concepts
-tags: [esg]
+tags: ["#key-ideas", "#esg", "#eu-policy"]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "What is Double Materiality, Benefits of an ESG materiality assessment , How to conduct a materiality assessment, Materiality Assessment, Double Materiality - What do you need to know, Benefits of an ESG materiality assessment"
+updated: 2026-08-26
+summary: materiality assessment, double materiality, single materiality, ESG issues, CSRD, stakeholder engagement, CFA Institute material risk, inside-out outside-in, Norton Rose, sustainability reporting, ESG risk ratings, Garst et al research, ESB example
 ---
 
-#esg #sustainability 
+# What is Materiality?
 
-##### The majority of organisations are exposed to a range of ESG issues. With this in mind, it is essential to determine which are the most material and to comprehend how exactly they affect your enterprise.
+## What is it
+Most organisations are exposed to a wide range of ESG issues. **Materiality** is the process of working out which of those issues actually matter to a given business, and how they affect it. A **materiality assessment** is an established tool that helps companies measure their environmental footprint by identifying and categorising the issues that affect their regulatory compliance and performance, considering both environmental and social impact and what stakeholders and investors care about.
 
+At its most basic, materiality is an accounting principle: information is material if misstating or omitting it from a company's financial statements could influence decisions made by the people reading them. In an ESG context this is known as **single materiality**: ESG factors, such as extreme weather, that pose a threat or opportunity to a business's own bottom line. Single materiality does not tell you how "green" a company's practices are, only how exposed its earnings may be to ESG-related risks. Under an ESG Risk Ratings methodology, an issue is considered material if its presence or absence in a company's financial reporting is likely to influence a reasonable investor's decisions.
 
+## Why it matters
+Materiality assessments help businesses set sustainability goals, allocate resources, manage risk and prioritise which issues to act on first. For a curious reader, understanding materiality is the key to understanding why two companies' sustainability reports can look so different: each has typically gone through its own process of deciding what counts as material to it.
 
-> [!What is a Materiality Assessment?]
-> A materiality assessment is an established tool to help companies to measure their environmental footprint. This process enables businesses to identify and categorize material issues that affect their regulatory compliance and performance
-> [Materiality](https://instituteofsustainabilitystudies.com/insights/lexicon/what-is-esg-materiality/) becomes a strategic sustainability tool for those who complete the assessment. A materiality assessment considers environmental and social impact but also what stakeholders and investors care about. Businesses can evaluate their ESG impact and performance through a materiality assessment.
-> In addition, they can determine more considerable emerging challenges that are essential to the organization’s success. The materiality assessment helps businesses set sustainability goals, drive resource allocation, eliminate risks, and prioritize the issues found. Materiality assessments are based mainly on stakeholder feedback.
-> 
-> Source: https://instituteofsustainabilitystudies.com/insights/lexicon/what-is-a-materiality-assessment/
+## Double materiality
+**Double materiality** extends single materiality by asking companies to look outward as well as inward, an "inside-out and outside-in" view, considering both how ESG issues affect the company's bottom line, and how the company's own decisions and operations affect the outside world. The idea that both directions matter has been embraced in Europe, though it has made far less headway in the United States, and the underlying question, what information companies should be required to report, and who gets to decide, remains contested.
 
-> At the basic level it’s an accounting principle, referring to something that may have an impact on -- be material to -- how a company performs. A [material risk](https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-managing-material-risk.pdf "Link to PDF") can threaten targets or goals -- something of keen interest to investors. In the context of ESG, this is known as single materiality and means mainly ESG factors that may pose a threat or opportunity to a business and its bottom line, such as extreme weather. It doesn’t tell you anything about how “green” a company’s business practices are, but rather how vulnerable its earnings may be to ESG risks.
+Almost a decade ago, the EU began requiring companies to report non-financial information in an effort to make them more accountable for ESG issues, the first time disclosure requirements incorporated the concept of double materiality. Wide gaps in the quality and consistency of that reporting soon emerged, with companies and regulators disagreeing on how the rules should be applied. The EU's redrafted rulebook, the Corporate Sustainability Reporting Directive (**CSRD**), gives companies more explicit requirements and brings many more businesses into scope; it has been phased in across the 27 EU member states from 2024. See [What is CSRD?](../../legislation-policy/What%20is%20CSRD%3F.md) for the detail on scope and timelines.
 
-Material issues are relevant in numerous contexts, from financial to legal and accounting. Materiality essentially encompasses all the issues an organisation must take into account when determining its risks and opportunities. These are the issues they absolutely cannot ignore. 
+## Benefits of an ESG materiality assessment
+Businesses today need to be clear about their ESG goals, policies and performance, and a materiality assessment is a practical way to evaluate which ESG factors could affect the business, and how the business itself affects the world around it. Regardless of a company's size, maturity or resources, materiality is worth treating as a core part of corporate decision-making for long-term environmental action: it shows where an organisation is creating or eroding value for society, and helps direct resources more effectively.
 
-> Put simply, in the accounting sphere, information is material if misstating it or omitting it from an entity’s financial statements could influence decisions made by the user. 
+## How to conduct a materiality assessment
+A materiality assessment typically follows four steps:
 
-For businesses and investors intrigued by ESG and sustainability performance, materiality takes on an entirely new meaning concerning [ESG issues](https://instituteofsustainabilitystudies.com/insights/guides/esg-issues-for-businesses/) that impact a business. In an ESG Risk Ratings methodology, an issue is deemed material if its absence or presence in the enterprise’s financial reporting is likely to influence decisions made by a reasonable investor.
+1. **Identify material topics and understand the context.** Define the organisation's approach, purpose and scope; the reporting framework chosen will shape this step.
+2. **Research and list material issues.** Build a comprehensive list of issues relevant to the organisation's location, industry and business, then map out upstream and downstream stakeholders.
+3. **Engage stakeholders.** Ensure a genuinely diverse set of voices is included, then create and carry out an engagement plan, for example through focus groups, questionnaires or interviews, to compile what stakeholders consider most relevant.
+4. **Narrow, visualise and communicate.** Narrow the list down to the issues that are genuinely relevant to the business, then visualise and communicate the resulting material issues to stakeholders.
 
-### What is Double Materiality? 
-###### Included in ESG materiality is an idea referred to as double materiality, which is where a company looks outward to determine how its decisions and operations impact the outside world. INside -out and Outside-in
+Materiality is not a fixed exercise. Research on the topic (Garst et al., see Sources) has been described as more art than science: one interviewee described the evolution of a single company's framework as "we now have 19 issues, and 169 topics underlie those issues. Because some of the topics have now become an issue such as 'biodiversity'. Previously, that was at the topic level, but it has been coming up on the agenda. [The topic] has been promoted [to issue]. And some issues have now become topics within issues and some topics merged, according to changes in the landscape."
 
-Source: https://www.bloomberg.com/news/articles/2022-09-21/what-double-materiality-means-for-esg-and-jpmorgan-quicktake?leadSource=uverify%2520wall
+## Connected topics
+- [What is ESG?](What%20is%20ESG%3F.md)
+- [What is CSRD?](../../legislation-policy/What%20is%20CSRD%3F.md)
+- [Why Reporting - Investors want companies to focus on ESG](../../legislation-policy/Why%20Reporting%20-%20Investors%20want%20companies%20to%20focus%20on%20ESG.md)
 
-> Should a business or an investment fund care only about how environmental, social justice and governance (ESG) issues affect its bottom line, or should they also be attuned to how their operations affect the world? These questions get at the heart of something called “double materiality.” While the idea that both are important has been embraced in Europe, it has yet to make significant inroads in the US. At issue is what information companies should be required to report — and who decides?
-
-That’s where greenness comes in. “Double materiality” adds the risks a company’s activities pose to the environment and society to those that it potentially faces internally. How such things should be accounted for in corporate reports remains the subject of intense debate. For now, [reports vary wildly](https://www.bloomberg.com/news/articles/2022-08-22/eu-watchdog-reacts-to-misleading-interpretation-of-esg-rules "ESG Confusion Prompts Watchdog’s Demand for Rethink of Rules (1)"), making it hard for investors to compare one company or fund with another and make informed decisions.
-
-> [!What is Europe doing?]
->
-> Almost a decade ago, the EU began requiring companies to report non-financial information in an attempt to make them more accountable for ESG issues. That was the first time disclosure requirements included the concept of double materiality. But wide gaps soon emerged in the quality and quantity of information, amid complaints that the rules weren’t well understood or applied. So a [redrafted EU rulebook](https://ec.europa.eu/commission/presscorner/detail/en/QANDA_21_1806 "EU website") provides companies with more explicit requirements and forces many more businesses to comply. That so-called Corporate Sustainability Reporting Directive will be phased in for the 27 EU countries starting in 2024.
-
-
-## **Benefits of an ESG materiality assessment** 
-
-Businesses today must be very clear about their [ESG goals](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/next-in-growth/how-do-esg-goals-impact-a-company), policies, and performance. Therefore, carrying out a [materiality assessment](https://instituteofsustainabilitystudies.com/insights/lexicon/what-is-a-materiality-assessment/) can be a great way to evaluate the ESG factors which can impact your business. In addition, to uncover how your business affects the surrounding world. Despite your goals, maturity, and resources, you should consider materiality as an essential component of corporate decision-making for long-term environmental action. 
-
-
-## **How to conduct a materiality assessment**
-
-There are four main steps to carrying out a materiality assessment. 
-1. The first step is to identify material topics and comprehend the context. In order words, you must define the approach, purpose, and scope the organization wants to set. It’s important to note that the reporting framework will also have an impact. 
-2. Through the assessment, you will be able to conduct research, resulting in a comprehensive list of material issues. These issues are typically relevant to your location, industry, and business. Once you have your list of issues, you will need to map out your downstream and upstream stakeholders. 
-3. However, it is essential to ensure diversity here for an insightful overall perspective. The next stage of the materiality assessment will see you engage your stakeholders. Essentially, you want to compile a list of what is most relevant to your business operations. Then, you must create an engagement plan and carry out the discussions. 
-4. These engagements could include focus groups, questionnaires, or interviews. The next stage will involve narrowing your list of issues further and identifying the real issues that are relevant to your business. Finally, visualize your material issues and then communicate them to your stakeholders.
-
-> A materiality assessment is a strategic business tool and an opportunity for businesses to assess their environmental impact. Doing this helps them mitigate risks, improve their environmental footprint, and seek growth opportunities. 
-> 
-> The assessment also shows organizations where they are creating or reducing value for society. It also includes deeper insights into the operating environment of your business and encourages the effective allocation of its resources.
-
-![[Screenshot 2024-04-15 at 18.16.03.png]]
-![[Screenshot 2024-04-15 at 18.16.17.png]]
-![[Screenshot 2024-04-15 at 18.16.31.png]]
-
-
----
----
-## RESOURCES
-- https://www.youtube.com/watch?v=Q-ZP1jKOdjw&ab_channel=Sustainability
-- https://esb.ie/sustainability/esg-hub/materiality-and-stakeholders | ESB example 
-
-Very extensive research , good read to help choose the relevant topic to be included in the first place. 
-- https://journals.sagepub.com/doi/full/10.1177/00081256221120692 - Materialit assessment is an art, not a science research
-- | We now have 19 issues, and 169 topics underlie those issues. Because some of the topics have now become an issue such as “biodiversity.” Previously, that was at the topic level, but it has been coming up on the agenda. [The topic] has been promoted [to issue]. And some issues have now become topics within issues and some topics merged, according to changes in the landscape. (Interview Case 09)
-
----
----
-### Materiality Assessment
-
-![[garst-et-al-2022-materiality-assessment-is-an-art-not-a-science-selecting-esg-topics-for-sustainability-reports.pdf]]
-
-### Double Materiality - What do you need to know
-Source: ![[double-and-dynamic-materiality.pdf]]
+## Sources
+- Institute of Sustainability Studies, "What is ESG Materiality?" — https://instituteofsustainabilitystudies.com/insights/lexicon/what-is-esg-materiality/
+- Institute of Sustainability Studies, "What is a Materiality Assessment?" — https://instituteofsustainabilitystudies.com/insights/lexicon/what-is-a-materiality-assessment/
+- CFA Institute, "Managing Material Risk" — https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-managing-material-risk.pdf
+- Bloomberg, "What Double Materiality Means for ESG and JPMorgan: QuickTake", 21 September 2022 — https://www.bloomberg.com/news/articles/2022-09-21/what-double-materiality-means-for-esg-and-jpmorgan-quicktake
+- European Commission, Corporate Sustainability Reporting Directive Q&A — https://ec.europa.eu/commission/presscorner/detail/en/QANDA_21_1806
+- McKinsey & Company, "How do ESG goals impact a company?" — https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/next-in-growth/how-do-esg-goals-impact-a-company
+- Garst, Blok, Jansen and Omta, "Materiality Assessment Is an Art, Not a Science: Selecting ESG Topics for Sustainability Reports" — https://journals.sagepub.com/doi/full/10.1177/00081256221120692
+- ESB, "Materiality and Stakeholders" — https://esb.ie/sustainability/esg-hub/materiality-and-stakeholders

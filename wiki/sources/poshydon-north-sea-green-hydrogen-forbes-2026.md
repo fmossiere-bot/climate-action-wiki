@@ -27,9 +27,9 @@ The **PosHYdon** pilot project produced its first batch of green hydrogen in lat
 
 ## Why it matters
 
-Most green hydrogen discussion in the wiki's [FACTS about Clean & GREEN Hydrogen](../solutions/renewables/DRAFT%20-%20FACTS%20about%20Clean%20&%20GREEN%20Hydrogen.md) page is about hydrogen's storage and industrial-decarbonisation potential in the abstract. PosHYdon is a concrete, small-scale but real-world case of **offshore infrastructure reuse**: instead of building new platforms for hydrogen, an active gas platform is retrofitted to also make hydrogen from wind power, offering a template for lower-cost offshore hydrogen scale-up as the North Sea's gas platforms age.
+Most green hydrogen discussion in the wiki's [FACTS about Clean & GREEN Hydrogen](../solutions/renewables/FACTS%20about%20Clean%20&%20GREEN%20Hydrogen.md) page is about hydrogen's storage and industrial-decarbonisation potential in the abstract. PosHYdon is a concrete, small-scale but real-world case of **offshore infrastructure reuse**: instead of building new platforms for hydrogen, an active gas platform is retrofitted to also make hydrogen from wind power, offering a template for lower-cost offshore hydrogen scale-up as the North Sea's gas platforms age.
 
 ## How it connects to the wiki
 
-- Updates `wiki/solutions/renewables/DRAFT - FACTS about Clean & GREEN Hydrogen.md` with a new offshore pilot case study
+- Updates `wiki/solutions/renewables/FACTS about Clean & GREEN Hydrogen.md` with a new offshore pilot case study
 - Related to `wiki/solutions/renewables/france-biomethane-boom.md` and other North Sea / offshore energy infrastructure content

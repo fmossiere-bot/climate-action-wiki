@@ -70,12 +70,12 @@ For a shrinking share, for a shrinking time, yes. The remaining fossil use in su
 
 ## Connected topics
 
-- [FACTS about Solar Energy](../solutions/renewables/DRAFT - FACTS about Solar Energy.md)
-- [FACTS about Wind Energy](../solutions/renewables/DRAFT - FACTS about Wind Energy.md)
+- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
+- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
 - [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 - [Renewables aren't replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
 - [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md) — the mining side of the supply chain
-- [The Energy Supercycle is Unstoppable](../concepts/key-ideas/The Energy Supercycle is Unstoppable.md)
+- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
 
 ## Sources
 

@@ -33,9 +33,9 @@ A £5m UK trial, **Operation Blue Skies**, will test whether AI-generated foreca
 
 ## Why it matters
 
-Contrails are a **non-CO2** aviation warming mechanism that gets far less attention than fuel-burn emissions, despite being roughly as large a contributor to aviation's total climate impact. The existing wiki [FACTS about Air Travel](../sectors/transport/DRAFT%20-%20FACTS%20about%20Air%20Travel.md) page already flagged AI-based contrail avoidance as a "solution" in general terms; this trial gives it a concrete, funded, dated real-world test with specific numbers.
+Contrails are a **non-CO2** aviation warming mechanism that gets far less attention than fuel-burn emissions, despite being roughly as large a contributor to aviation's total climate impact. The existing wiki [FACTS about Air Travel](../sectors/transport/Facts%20about%20Air%20Travel.md) page already flagged AI-based contrail avoidance as a "solution" in general terms; this trial gives it a concrete, funded, dated real-world test with specific numbers.
 
 ## How it connects to the wiki
 
-- Fills in the previously empty "Contrails" placeholder and firms up the AI-contrail-avoidance section in `wiki/sectors/transport/DRAFT - FACTS about Air Travel.md`
-- Related to `wiki/sectors/digital/DRAFT - FACTS about AI, Emissions impacts and mitigation potential.md` (AI applied to emissions reduction, not just AI's own footprint)
+- Fills in the previously empty "Contrails" placeholder and firms up the AI-contrail-avoidance section in `wiki/sectors/transport/Facts about Air Travel.md`
+- Related to `wiki/sectors/digital/FACTS about AI, Emissions impacts and mitigation potential.md` (AI applied to emissions reduction, not just AI's own footprint)

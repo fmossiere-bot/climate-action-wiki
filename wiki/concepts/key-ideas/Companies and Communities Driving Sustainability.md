@@ -23,7 +23,7 @@ The original source material for this page was a set of screenshots of the print
 
 - [Greenwashing](Greenwashing.md)
 - [What is ESG?](What%20is%20ESG%3F.md)
-- [How are we doing?](How%20are%20we%20doing%3F.md)
+- [Global Progress on Climate Action](Global%20Progress%20on%20Climate%20Action.md)
 
 ## Sources
 

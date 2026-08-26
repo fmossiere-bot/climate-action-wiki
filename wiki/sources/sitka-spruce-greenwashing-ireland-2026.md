@@ -38,5 +38,5 @@ An Irish Times article from April 2026 reporting on a children's book, *Sitka Sp
 
 ## Wiki pages informed by this source
 
-- [[DRAFT - IRELAND Land use, Soil and Forestry]] (updated)
+- [IRELAND Land use, Soil and Forestry](../ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md) (updated)
 - [[Greenwashing]] (updated with new example)

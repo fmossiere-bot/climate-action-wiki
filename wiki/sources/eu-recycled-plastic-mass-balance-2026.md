@@ -50,6 +50,6 @@ Investigative and technical, but with a clear editorial line: the investigation 
 
 - Fits directly into a new page `wiki/circularity-waste/plastic-mass-balance-greenwashing.md` OR an update to existing plastic/circularity pages
 - Reinforces `wiki/concepts/key-ideas/Greenwashing.md` and `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md`
-- Connects to `wiki/circularity-waste/DRAFT - FACTS about Plastic.md`
+- Connects to `wiki/circularity-waste/FACTS about Plastic.md`
 - Reinforces `wiki/climate-finance/fossil-fuel-banking.md` — the fossil fuel industry's next revenue pivot
 - Complements `wiki/circularity-waste/seaqual-ocean-plastic-fashion.md` as a counter-example of physical (not mass-balance) recycled content

@@ -79,10 +79,10 @@ Denmark is at the leading edge, but the pattern is very general in Europe. UK, G
 
 ## Connected topics
 
-- [The Energy Supercycle is Unstoppable](../concepts/key-ideas/The Energy Supercycle is Unstoppable.md)
-- [Renewable on Track to overtake Coal](../concepts/key-ideas/Renewable on Track to overtake Coal.md)
-- [FACTS about Solar Energy](../solutions/renewables/DRAFT - FACTS about Solar Energy.md)
-- [FACTS about Wind Energy](../solutions/renewables/DRAFT - FACTS about Wind Energy.md)
+- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
+- [Renewables on Track to Overtake Coal](../solutions/energy-transition/Renewable%20on%20Track%20to%20overtake%20Coal.md)
+- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
+- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
 - [Santa Marta Fossil Fuel Conference 2026](../solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md)
 - [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 

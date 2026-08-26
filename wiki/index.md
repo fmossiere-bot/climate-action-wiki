@@ -164,71 +164,66 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| About Carbon Accounting GHG | GHG accounting frameworks |
-| Avg Carbon Footprint in IRELAND | Irish per-capita carbon footprint data |
-| Carbon Emission FACTS | Core emissions data |
-| Carbon Emissions and Cycle | The carbon cycle explained |
-| Class 10 - Climate Politics and Climate Justice | Politics and justice of climate action |
-| Class 16 - Carbon Offset | Carbon offsets explained and evaluated |
-| Class 6 - Climate Communications | How to talk about climate |
-| Class 8 - Valuing People and the Planet | Economics of wellbeing and nature |
-| Class 9 - The economics of Climate Change & Carbon Pricing | Carbon pricing mechanisms |
+| [[About Carbon Accounting and GHG]] | GHG accounting frameworks, Scope 1/2/3 emissions explained |
+| [[Average Carbon Footprint in Ireland]] | Irish per-capita carbon footprint data |
+| [[Carbon Emission FACTS]] | Core global emissions data |
+| [[Carbon Emissions and the Carbon Cycle]] | The carbon cycle explained |
+| [[Climate Politics and Climate Justice]] | Politics and justice of climate action |
+| [[Carbon Offsets]] | Carbon offsets explained and evaluated |
+| [[Climate Communications]] | Hayhoe's shared-values approach, the Six Americas segments, journalist etiquette, and cognitive-bias research on persuasion |
+| [[Valuing People and the Planet]] | Alternative development models: Sarvodaya, Green New Deal, Costa Rica's forest recovery, Doughnut Economics |
+| [[The Economics of Climate Change and Carbon Pricing]] | Market failure, tragedy of the commons, carbon pricing mechanisms, social cost of carbon estimates |
 | Climate Change Isn't FAIR | Climate justice and unequal impacts |
 | Climate Wins in 2025 | Positive climate progress in 2025 |
 | Companies and Communities are driving sustainability efforts, not governments | Bottom-up climate action |
-| Emission Gap Report 2024 - UNEP | UNEP's annual emissions gap analysis |
-| FACTS - Climate "Myth Busters" & Back Pocket stories | Rebuttals to common climate myths |
-| FACTS About Fossil Fuel (Oil and Gaz) Industry | The fossil fuel industry in numbers |
-| FACTS about DEGROWTH | Degrowth as an economic concept — **updated** August 2026 with a Guardian Q&A critique of GDP-growth economics (Watts & Niranjan; Raworth, McKibben, Hickel, Nordhaus) |
-| FACTS about Biomass | Biomass energy explained |
-| FACTS about Circular Economy | Circular economy principles |
-| FACTS on EVERYTHING - Under the Sky we Make | Broad emissions overview |
-| Global Emissions in 2022 | 2022 global emissions data |
-| Greenwashing | What greenwashing is and how to spot it |
+| [[Emission Gap Report 2024 - UNEP]] | UNEP's annual emissions gap analysis (merged with the near-duplicate legislation-policy draft) |
+| [[FACTS - Climate Myth Busters and Back Pocket Stories]] | Rebuttals to common climate myths on EVs, batteries and recycling (archived) |
+| [[FACTS about  DEGROWTH]] | Degrowth as an economic concept — **updated** August 2026 with a Guardian Q&A critique of GDP-growth economics (Watts & Niranjan; Raworth, McKibben, Hickel, Nordhaus) |
+| [[FACTS about Biomass]] | Biomass energy as a broad concept: household energy, aviation fuel, chemical feedstock, land use — including the Drax UK biomass power station case study |
+| [[FACTS about Circular Economy]] | Circular economy principles |
+| [[FACTS on EVERYTHING - Under the Sky we Make]] | Kimberly Nicholas's *Under the Sky We Make* — full chapter-by-chapter summary |
+| [[Global Emissions in 2022]] | 2022 global emissions data |
+| [[Greenwashing]] | What greenwashing is and how to spot it |
 | Greenwashing lawsuits on the rise | Legal action against greenwashing — **updated** July 2026 with Greenpeace's Dutch petition against JBS ($6bn expansion, Nigeria plan) — first major climate/nature legal challenge against a meat major |
-| How are we doing? | Overall climate progress assessment |
-| Keynote Tom Crowell - Carbon Accounting | Corporate carbon accounting keynote |
-| Net-Zero target explained | What net zero means in practice |
-| Renewable on Track to overtake Coal | Renewables growth trajectory |
+| [[Global Progress on Climate Action]] | Whether the world is on track on climate goals — currently "not great"; links to the Emissions Gap Report and mitigation-gap research for the real data |
+| [[Keynote Tom Crowell - Carbon Accounting]] | Corporate carbon accounting keynote |
+| [[Net-Zero target explained]] | What net zero means in practice |
 | Scope 3 GHG | Scope 3 emissions explained |
-| Space necessary for the various Energy Sources | Land use per energy type |
-| The Al-Gore CLIMATE TRACE is live | Real-time emissions tracking tool |
-| The Carbon Cost Serie - everyday Activities | Carbon footprint of daily activities |
-| The Energy Supercycle is Unstoppable | Long-term energy transition momentum |
-| The climate Mitigation Gap research | Gap between pledges and action |
-| Towards a Wellbeing economy - EEB report | Post-GDP economic models |
+| [[The Al-Gore CLIMATE TRACE is live]] | Real-time emissions tracking tool |
+| [[The Carbon Cost Series - Everyday Activities]] | Carbon footprint of daily activities (source infographic unrecoverable; page redirects to sourced footprint pages) |
+| [[The climate Mitigation Gap research]] | Gap between pledges and action |
+| [[Towards a Wellbeing economy - EEB report]] | Post-GDP economic models |
 | [[live-good-life-planetary-boundaries]] | **NEW** — Can everyone live a "good life" within planetary limits? 7 of 9 boundaries crossed; Millward-Hopkins sufficiency framework; Guimarães as a working "consumption corridor" city (European Green Capital 2026) |
-| What is ESG? | ESG criteria explained |
-| What is Materiality? | Materiality in sustainability reporting |
-| World Resources Institute 2023 report on Progress | WRI global progress review |
-| _Carbon Footprint of the various energies | Emissions per energy source |
+| [[What is ESG?]] | ESG criteria explained |
+| [[What is Materiality?]] | Materiality in sustainability reporting |
+| [[World Resources Institute 2023 report on Progress]] | WRI global progress review |
+| [[Carbon Footprint of Various Energies]] | Emissions per energy source |
+| [[Companies and Communities Driving Sustainability]] | Bottom-up sustainability action versus government policy |
 | _Data 360 - September 2025 | Data snapshot: September 2025 |
 
 ### Behaviour Change (`wiki/concepts/behavior-change/`)
 
 | Page | Description |
 |------|-------------|
-| Class 6 - Climate Communications | Climate communication strategies |
 | How Countries Can Use Behavior Change to Further Reduce Emissions | Policy-level behaviour change |
 | Meat Token ACTION GUIDE | Reducing meat consumption |
 | Talking about Climate Change ACTION GUIDE | Conversation guide for climate |
-| The climate Mitigation Gap research | Research on individual vs systemic action |
 | [[high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
 
 ### Company Evaluations (`wiki/concepts/company-evaluations/`)
 
 | Page | Description |
 |------|-------------|
-| CANVA Scope 3 reduction | Canva's Scope 3 emissions approach |
-| COLGATE | Colgate sustainability evaluation |
-| Coca-Cola - GREEN DIGEST | Coca-Cola sustainability evaluation |
-| DECATHLON | Decathlon sustainability evaluation |
-| GLENCORE - GREEN DIGEST | Glencore sustainability evaluation |
-| GOOGLE Emissions | Google emissions profile |
-| L'OREAL - GREEN DIGEST | L'Oréal sustainability evaluation |
-| NIKE - GREEN DIGEST | Nike sustainability evaluation |
-| STENA Ferry Sustainability Commitment | Stena Line sustainability |
-| [[DRAFT - patagonia-story]] | **NEW** — Yvon Chouinard and Patagonia: from piton-forger to suing the US president, to giving the company to the planet in 2022 |
+| [[CANVA Scope 3 reduction]] | Canva's Scope 3 emissions approach |
+| [[COLGATE]] | Colgate sustainability evaluation |
+| [[Coca-Cola - GREEN DIGEST - evaluating Coca-Cola]] | Coca-Cola sustainability evaluation |
+| [[DECATHLON]] | Decathlon sustainability evaluation |
+| [[GLENCORE - GREEN DIGEST - Evaluating Companies]] | Glencore sustainability evaluation |
+| [[GOOGLE Emissions]] | Google emissions profile |
+| [[L'OREAL - GREEN DIGEST - Evaluating a Company's Impact]] | L'Oréal sustainability evaluation |
+| [[NIKE - GREEN DIGEST - Evaluating Companies 1]] | Nike sustainability evaluation |
+| [[STENA Ferry Sustainability Commitment]] | Stena Line sustainability |
+| [[patagonia-story]] | Yvon Chouinard and Patagonia: from piton-forger to suing the US president, to giving the company to the planet in 2022 |
 
 ---
 
@@ -238,18 +233,19 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| 6 Ways to Reduce Methane from Agriculture | Agricultural methane reduction |
-| Class 14 - About Food and Farming | Terra.do Class 14: food systems |
-| FACTS about CHOCOLATE and CACAO | Environmental impact of chocolate |
-| FACTS about Farming and Food production | Farming's climate footprint |
+| [[6 Ways to Reduce Methane from Agriculture]] | Agricultural methane reduction |
+| [[About Food and Farming]] | Terra.do food systems course: challenges, regenerative agriculture, decarbonisation levers |
+| [[FACTS about CHOCOLATE and CACAO]] | Chocolate's ethics, water/carbon footprint, price surge and lower-impact alternatives |
+| [[FACTS about Farming and Food production]] | Farming's GHG, land, water and feed-conversion footprint |
 | [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
 | [[lab-grown-meat]] | Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
 | [[beef-and-climate-change]] | Six-question WRI framing: methane + land-use change, 20× vs beans, 50 cal/day target reconciles feeding 10bn people with keeping forests |
 | [[eat-lancet-planetary-diet-2025]] | EAT-Lancet 2025 planetary health diet — **updated** July 2026 with LSHTM-Cornell *Nature* economic modelling: –85% land-use emissions, –42% livestock production value, 400M fewer ruminants; regional impacts (USA –21%, India +46%, Europe –35%) |
 | FACTS about RICE production | Rice emissions and impact |
-| Food Carbon FootPrint | Food's overall carbon footprint |
-| Is the meat industry following the Oil Industry? | Parallels between meat and fossil fuels |
-| Some Positive stories of Farming adaptation | Farming adaptation successes |
+| [[Food Carbon FootPrint]] | Food miles vs. diet: what actually drives food's carbon footprint |
+| [[Is the meat industry following the Oil Industry]] | Parallels between meat and fossil-fuel industry disinformation tactics |
+| [[Rice farming, a major Methane emitter, but with clear mitigating solutions]] | Rice's methane/water footprint and mitigation options |
+| [[Some Positive stories of Farming adaptation]] | Solar irrigation in Tanzania and chemical-free farming in France |
 | The Environmental impact of COFFEE | Coffee's environmental footprint |
 | The Power of Meat 2024 | Meat industry emissions data |
 
@@ -266,17 +262,22 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Carbon Footprint of an iPhone | Lifecycle emissions of smartphones |
-| Digital4Sustainability - INTRO / MODULE 1–4 | Digital sustainability course notes |
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
-| [[DRAFT - AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
+| [[AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
+| [[Carbon Footprint of an iPhone]] | Lifecycle carbon footprint of a smartphone |
+| [[What Is Digital Sustainability]] | UNEP/UNSSC Digital4Sustainability free course introduction: the CODES coalition and a systems approach to digital and sustainability |
+| [[Digital Transformation for Sustainable Development]] | Digital transformation fundamentals: CODES, energy/e-waste/misinformation/divide/rights risks |
+| [[Digital Sustainability for Climate Action]] | Digital transformation for climate mitigation and adaptation: smart grids, carbon accounting, early warning systems, resilient infrastructure |
+| [[Digital Sustainability for Biodiversity Action]] | Digital transformation for biodiversity: Global Biodiversity Framework, conservation/restoration/sustainable use across land, ocean, food and cities |
+| [[Digital Sustainability for Pollution Action]] | Digital transformation for pollution prevention and reduction: circular economy, air/water/soil/chemical pollution, waste management |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
-| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island, July 2026 Water UK evidence ("fatally flawed" forecasts, 125 datacentres in Affinity region), Meta's RE100 exit, July 2026 PFAS "waterless" cooling controversy, and August 2026 Foxglove analysis finding two planned UK datacentres will out-emit ExxonMobil's entire UK operations |
+| [[ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island, July 2026 Water UK evidence ("fatally flawed" forecasts, 125 datacentres in Affinity region), Meta's RE100 exit, July 2026 PFAS "waterless" cooling controversy, and August 2026 Foxglove analysis finding two planned UK datacentres will out-emit ExxonMobil's entire UK operations |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
 | FACTS about general Digital Use | Digital activity emissions |
 | The Environmental Impact of Bitcoin | Bitcoin energy use |
-| The Environmental impact of a DIGITAL ACTIVITIES (Draft) | Digital footprint overview |
+| [[The Environmental Impact of Digital Activities]] | Digital footprint overview |
 | What is JEVONS Paradox | Efficiency gains that increase total use |
 
 ### Energy (`wiki/sectors/energy/`)
@@ -306,13 +307,13 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| CARS Life Cycle Emissions - EV vs Combustion | EV vs ICE full lifecycle comparison |
+| [[Car Life Cycle Emissions - EV vs Combustion]] | EV vs ICE full lifecycle comparison |
 | [[smaller-evs-better]] | **NEW** — Smaller EVs are better: 2/3 of BEV models now SUVs/pickups (up from 1/3 in 2017); larger EVs use 20% more energy, need more critical minerals, 45% higher pedestrian fatality risk; France/Norway/Paris policy tools |
-| FACTS about Air Travel | Aviation emissions — **updated** August 2026 with Operation Blue Skies, the £5m AI trial re-routing North Atlantic flights around warming contrails |
-| FACTS about Energy for Transport | Transport energy overview |
+| [[Facts about Air Travel]] | Aviation emissions — **updated** August 2026 with Operation Blue Skies, the £5m AI trial re-routing North Atlantic flights around warming contrails |
+| [[Facts about Energy for Transport]] | Transport energy overview |
 | FACTS about Tyres | Tyre production and emissions |
-| Flight Carbon Footprint and Offset Guide | How to account for flights |
-| Long-Haul SHIPPING | Maritime shipping emissions |
+| [[Flight Carbon Footprint and Offset Guide]] | How to account for flights |
+| [[Long-Haul Shipping]] | Maritime shipping emissions |
 
 ---
 
@@ -330,6 +331,7 @@ Funding the transition — investment, risk, green banking.
 | Methane Digester - Project Drawdown 28 | Anaerobic digestion solution — **updated** with 2026 California study on leaks, perverse herd-size incentives, and ammonia pollution swapping |
 | Methane-eating bacteria are ready to capture landfill emissions | Biological methane capture |
 | Ocean Carbon Removal solutions | Ocean-based carbon removal |
+| [[Carbon Removal - What are we talking about? a guide to the different options]] | Overview of natural and technological CDR: forests, peatlands, oceans, DAC, CCS/CCU, BECCS, and the risks (additionality, leakage, permanence) common to all approaches |
 | [[Ocean-Based Carbon Removal - The Potential of Marine Algae]] | Seaweed and kelp as carbon removal — sequestration potential, permanence challenges, equity questions — **updated** August 2026 with Danish research on growing sugar kelp between offshore wind turbines |
 
 ### Electrification (`wiki/solutions/electrification/`)
@@ -337,38 +339,37 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | About Sustainable Aviation Fuel (SAF) | SAF as aviation decarbonisation |
-| Class 13 - Electrify Everything ++ | Terra.do Class 13: electrification |
-| De-Carbonizing Transport and Shipping | Transport decarbonisation pathways |
-| EV Progress | Electric vehicle adoption data |
-| Efficient Aviation - Project Drawdown 39 | Aviation efficiency improvements |
-| Long-Haul transport - Trucking and trains | Heavy transport electrification |
-| TRUCKING De-carbonization path - BEVs and FCEVs | Truck decarbonisation options |
-| The rise of the batteries | Battery technology progress |
-| Transport Human Powered - ACTION GUIDE | Active travel guide |
+| [[Electrify Everything]] | Electrification across mobility, buildings, heavy industry, fertilisers, plastics and fashion/packaging |
+| [[Decarbonising Aviation and Shipping]] | Aviation and shipping decarbonisation pathways |
+| [[EV Progress]] | Electric vehicle adoption data |
+| [[Efficient Aviation]] | Aviation efficiency improvements |
+| [[Decarbonising Trucking and Rail Freight]] | Truck and rail freight decarbonisation: BEVs vs FCEVs, barriers, policy, battery chemistry |
+| [[The rise of the batteries]] | Battery technology progress |
+| [[Active Travel and Human-Powered Transport]] | Active travel action guide: walking, cycling and human-powered transport |
 
 ### Energy Efficiency (`wiki/solutions/energy-efficiency/`)
 
 | Page | Description |
 |------|-------------|
-| Alternative Cement - Project Drawdown 32 | Low-carbon cement |
-| Building Automation - Project Drawdown 37 | Smart building systems |
+| [[Alternative Cement - Project Drawdown 32]] | Low-carbon cement |
+| [[Building Automation - Project Drawdown 37]] | Smart building systems |
 | Cool Roof | Reflective roofing to cut cooling loads |
-| LED Lighting - Project Drawdown 18 | LED efficiency gains |
-| Low-Flow Fixtures - Project Drawdown 70 | Water-efficient fixtures |
-| Net-Zero Buildings | Net-zero building standards |
-| The Cold Washer ACTION GUIDE | Cold-water laundry guide |
+| [[LED Lighting - Project Drawdown 18]] | LED efficiency gains |
+| [[Low-Flow Fixtures - Project Drawdown 70]] | Water-efficient fixtures |
+| [[Net-Zero Buildings]] | Net-zero building standards |
+| [[The Cold Washer ACTION GUIDE]] | Cold-water laundry guide |
 
 ### Energy Transition (`wiki/solutions/energy-transition/`)
 
 | Page | Description |
 |------|-------------|
-| FACTS About Fossil Fuel (Oil and Gaz) Industry | The fossil fuel sector in numbers |
+| [[FACTS About Fossil Fuel (Oil and Gaz) Industry]] | Denial, broken pledges, subsidies and stranded-asset risk in the fossil fuel industry |
 | Going beyond renewable - non-renewable dichotomy | Rethinking the energy binary |
-| Renewable on Track to overtake Coal | Renewables momentum |
-| SOLUTIONS - Solar Impulse Foundation | Solar Impulse labelled solutions |
-| Space necessary for the various Energy Sources | Land use per energy source |
-| The Energy Supercycle is Unstoppable | The macro energy transition |
-| Where does the Oil goes to? Data | End-use breakdown of oil |
+| [[Renewable on Track to overtake Coal]] | Renewables momentum |
+| [[SOLUTIONS - Solar Impulse Foundation]] | Bertrand Piccard's catalogue of 1,747 clean, profitable solutions |
+| [[Space necessary for the various Energy Sources]] | Land use per energy source |
+| [[The Energy Supercycle is Unstoppable]] | The macro energy transition |
+| [[Where does the Oil goes to? Data]] | End-use breakdown of oil |
 | [[santa-marta-fossil-fuel-conference-2026]] | ~60 nations agree voluntary fossil fuel phaseout roadmaps (Apr 2026) — **updated** with June 2026 Bonn intersessional: TAFF coalition, Iran-war energy crisis, Africa pushback, COP31 Turkey |
 
 ### Nature-Based Solutions (`wiki/solutions/nature-based-solutions/`)
@@ -398,7 +399,7 @@ Funding the transition — investment, risk, green banking.
 | Powering Ships with a kite | Kite propulsion for ships |
 | Renewable energey worldwide capacity and 2024 forecast | Global renewables capacity |
 | Sustainable FLighs with Hydrogen | Hydrogen aviation |
-| The renewable roadmap - ACTION GUIDE | Personal renewables action |
+| [[The renewable roadmap - ACTION GUIDE]] | Personal renewables action |
 
 ---
 
@@ -455,17 +456,16 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Boards need to build competencies for a successful ESG strategy | ESG governance for boards |
-| [[DRAFT - COP30]] | COP30 Belém outcomes (November 2025) — **updated** with Santa Marta follow-up and June 2026 Bonn intersessional (TAFF, COP31 Turkey, adaptation-finance baseline dispute) |
+| [[COP30]] | COP30 Belém outcomes (November 2025) — **updated** with Santa Marta follow-up and June 2026 Bonn intersessional (TAFF, COP31 Turkey, adaptation-finance baseline dispute) |
 | Class 19 - Corporate Climate Action | Terra.do Class 19: corporate action |
-| Emission Gap Report 2024 - UNEP | UNEP emissions gap report |
-| Global spending on subsidies that harm environment rises to $2.6tn | Fossil fuel subsidy data |
-| IMO Compromise deal - Shipping companies to pay for carbon dioxide produced by vessels | IMO shipping carbon deal |
-| Paris Agreement - NDC - where are we 10 years later? | NDC status 10 years on |
-| Sustainable Development Goals SDG | UN SDGs explained |
-| What is CSDDD | EU Corporate Sustainability Due Diligence Directive |
-| What is CSRD? | EU Corporate Sustainability Reporting Directive |
-| Why Reporting - Investors want companies to focus on ESG | Investor ESG demand |
-| Why Reporting is Important? | Case for sustainability reporting |
+| [[Global spending on subsidies that harm environment rises to $2.6tn]] | Fossil fuel subsidy data |
+| [[IMO Compromise deal - Shipping companies to pay for carbon dioxide produced by vessels]] | IMO shipping carbon deal |
+| [[Paris Agreement - NDC - where are we 10 years later?]] | NDC status 10 years on |
+| [[Sustainable Development Goals SDG]] | UN SDGs explained |
+| [[What is CSDDD]] | EU Corporate Sustainability Due Diligence Directive |
+| [[What is CSRD?]] | EU Corporate Sustainability Reporting Directive |
+| [[Why Reporting - Investors want companies to focus on ESG]] | Investor ESG demand — EY Global Institutional Investor Survey 2024, Callan 2024 ESG Survey |
+| [[Why Reporting is Important?]] | Case for sustainability reporting — KPMG "Big Shifts, Small Steps" N100-Ireland statistics |
 
 ---
 
@@ -500,22 +500,24 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| Avg Carbon Footprint in IRELAND | Irish average carbon footprint |
-| Cool Irish Companies | Irish sustainability leaders |
-| IRELAND Emissions, Climate Plans | Ireland's overall climate plans — **updated** July 2026 with a progress report finding only 10 of 74 committed climate measures delivered since 2023 |
-| IRELAND - Climate Change in the Irish Mind | Irish public opinion on climate |
+| [[Average Carbon Footprint in Ireland]] | Irish average carbon footprint (see also the key-ideas page of the same content) |
+| [[Cool Irish Companies]] | Silicate: Sligo carbon-removal start-up using concrete dust and enhanced weathering |
+| [[IRELAND Emissions, Climate Plans]] | Ireland's overall climate plans — **updated** July 2026 with a progress report finding only 10 of 74 committed climate measures delivered since 2023 |
+| [[IRELAND - Climate Change in the Irish Mind]] | Irish public opinion on climate |
 | IRELAND Climate Adaptation | Ireland's adaptation measures — **updated** with Dublin Bay sea level rising 7–8 mm/yr, planned retreat, €230m East Coast Railway Protection, decarbonising zones |
-| IRELAND Data Centre Dilemna | Ireland's data centre energy problem — **updated** with Dublin city 7% and south county 46% emissions shares, SDCC nationwide ban motion |
-| IRELAND Energy Systems | Ireland's energy mix |
+| [[IRELAND Data Centre Dilemna]] | Ireland's data centre energy problem — **updated** with Dublin city 7% and south county 46% emissions shares, SDCC nationwide ban motion |
+| [[IRELAND Energy Systems]] | Ireland's energy mix |
+| [[IRELAND Energy and Biomass]] | Biomass and biomethane in Ireland's energy system, peat-to-biomass conversion |
 | IRELAND Energy and Biomass | Biomass in Ireland's energy |
-| IRELAND Land use, Soil and Forestry | Irish land use and carbon |
+| [[IRELAND Land use, Soil and Forestry]] | Irish land use and carbon |
 | IRELAND National Heat Study 2023 | Irish heat vulnerability study |
-| IRELAND Real-time Emission data with Climate Trace | Ireland on Climate Trace |
-| IRELAND Transport Emissions | Ireland's transport emissions |
+| [[IRELAND Real-time Emission data with Climate Trace]] | Ireland's emissions via Climate TRACE satellite data — agriculture 40%+, possible underestimation |
+| [[IRELAND Transport Emissions]] | Ireland's transport emissions — 2026 CCAC review on fossil fuel exposure, EU comparison, TFI/Local Link ridership |
 | IRELAND Waste Management, Recycling and Plastic | Irish waste data |
-| IRELAND Water Usage and Water Management | Irish water management |
-| IRELAND Wind Energy | Ireland's wind energy sector |
-| Ireland Biodiversity Plan | Ireland's national biodiversity plan |
+| [[IRELAND Water Usage and Water Management]] | Irish water management — includes Dublin water supply and 2026 EPA water quality updates |
+| [[IRELAND Waste Management, Recycling and Plastic]] | Irish waste management, recycling rates and plastic policy |
+| [[IRELAND Wind Energy]] | Ireland's wind energy targets to 2050, offshore/floating wind (EDF-Simply Blue), storage needs |
+| [[Ireland Biodiversity Plan]] | Ireland's national biodiversity plan |
 
 ---
 

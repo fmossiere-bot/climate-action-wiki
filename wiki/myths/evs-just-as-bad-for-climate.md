@@ -72,7 +72,7 @@ Fair. If you barely drive, the climate case for replacing a working petrol car i
 ## Connected topics
 
 - [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
-- [CARS Life Cycle Emissions - EV vs Combustion](../sectors/transport/CARS Life Cycle Emissions - EV vs Combustion.md)
+- [Car Life Cycle Emissions - EV vs Combustion](../sectors/transport/Car%20Life%20Cycle%20Emissions%20-%20EV%20vs%20Combustion.md)
 - [EVs still pollute (myth)](evs-still-pollute.md)
 - [EVs too expensive (myth)](evs-too-expensive.md)
 - [EVs will break the grid (myth)](evs-will-break-the-grid.md)

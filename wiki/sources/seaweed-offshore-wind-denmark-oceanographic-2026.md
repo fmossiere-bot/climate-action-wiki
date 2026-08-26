@@ -33,4 +33,4 @@ This is a distinct case from the wiki's existing seaweed-as-carbon-removal frami
 ## How it connects to the wiki
 
 - Updates `wiki/solutions/carbon-removal/Ocean-Based Carbon Removal - The Potential of Marine Algae.md` with a new multi-use/food section
-- Cross-links to `wiki/solutions/renewables/DRAFT - FACTS about Wind Energy.md` (offshore wind co-benefits pattern)
+- Cross-links to `wiki/solutions/renewables/FACTS about Wind Energy.md` (offshore wind co-benefits pattern)

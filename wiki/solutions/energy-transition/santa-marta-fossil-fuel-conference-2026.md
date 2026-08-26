@@ -51,11 +51,11 @@ The most significant pushback on TAFF came from **African negotiators**. Lead ne
 
 - [COP30](../../legislation-policy/COP30.md) — the November 2025 summit where fossil fuel phaseout was blocked from the formal text, prompting this initiative
 - [Paris Agreement - NDC - where are we 10 years later?](../../legislation-policy/Paris%20Agreement%20-%20NDC%20-%20where%20are%20we%2010%20years%20later%3F.md) — why NDCs alone are insufficient
-- [DRAFT - FACTS About Fossil Fuel (Oil and Gaz) Industry](../../solutions/energy-transition/DRAFT%20-%20FACTS%20About%20Fossil%20Fuel%20(Oil%20and%20Gaz)%20Industry.md) — background on the industry being targeted
+- [FACTS About the Fossil Fuel (Oil and Gas) Industry](FACTS%20About%20Fossil%20Fuel%20(Oil%20and%20Gaz)%20Industry.md) — background on the industry being targeted
 - [Global spending on subsidies that harm environment rises to $2.6tn](../../legislation-policy/Global%20spending%20on%20subsidies%20that%20harm%20environment%20rises%20to%20%242.6tn.md) — fossil fuel subsidies, a key issue at Santa Marta
-- [[IRELAND Emissions, Climate Plans]] — Ireland will co-host the next conference in Tuvalu
-- [[DRAFT - Renewable on Track to overtake Coal]] — the energy transition context
-- [[DRAFT - The Energy Supercycle is Unstoppable]] — why this coalition has economic momentum
+- [Ireland's Emissions and Climate Action Plans](../../ireland-hub/IRELAND%20Emissions%2C%20Climate%20Plans.md) — Ireland will co-host the next conference in Tuvalu
+- [Renewables on Track to Overtake Coal](Renewable%20on%20Track%20to%20overtake%20Coal.md) — the energy transition context
+- [The Energy Supercycle Is Unstoppable](The%20Energy%20Supercycle%20is%20Unstoppable.md) — why this coalition has economic momentum
 
 ## Sources
 

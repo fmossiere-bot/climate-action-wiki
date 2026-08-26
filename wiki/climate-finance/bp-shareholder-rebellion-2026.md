@@ -53,7 +53,7 @@ Nick Mazan of the Australasian Centre for Corporate Responsibility (ACCR) added:
 - [Fossil Fuel Banking — $906bn in 2025](fossil-fuel-banking.md)
 - [Ariana Mine and Santander](ariana-mine-santander.md)
 - [Greenwashing lawsuits on the rise](../concepts/key-ideas/Greenwashing lawsuits on the rise.md)
-- [FACTS About Fossil Fuel (Oil and Gaz) Industry](../concepts/key-ideas/FACTS About Fossil Fuel (Oil and Gaz) Industry.md)
+- [FACTS About Fossil Fuel (Oil and Gaz) Industry](../solutions/energy-transition/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
 - [SBTi Science Based Targets](../standards-labels/SBTI - sbti-science-based-targets.md)
 
 ## Sources

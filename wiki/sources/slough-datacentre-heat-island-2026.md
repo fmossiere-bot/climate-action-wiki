@@ -38,6 +38,6 @@ Combines on-the-ground residents' voices (a shop manager, an industrial-park wor
 
 ## How it connects to the wiki
 
-- Adds a **heat island** dimension to `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md`
+- Adds a **heat island** dimension to `wiki/sectors/digital/ai-data-centre-energy-crisis.md`
 - Connects to the [June 2026 UK heatwave](../sources/uk-heatwave-june-2026-guardian.md) (same week, same red-warning episode)
 - Reinforces calls for waste-heat recovery and stricter siting rules already touched on in UK data centre reporting

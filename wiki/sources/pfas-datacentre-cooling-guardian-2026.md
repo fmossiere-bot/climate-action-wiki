@@ -44,7 +44,7 @@ Environment-desk reporting. Well-sourced (formal EPA comments quoted; ECHA July 
 
 ## How it connects to the wiki
 
-- Updates `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` with a new "chemistry of alternative cooling" section
-- Complements `wiki/circularity-waste/DRAFT - FACTS about Plastic.md` (PFAS = fossil fuel-derived chemistry)
+- Updates `wiki/sectors/digital/ai-data-centre-energy-crisis.md` with a new "chemistry of alternative cooling" section
+- Complements `wiki/circularity-waste/FACTS about Plastic.md` (PFAS = fossil fuel-derived chemistry)
 - Complements `wiki/circularity-waste/plastic-mass-balance-greenwashing.md` (parallel "industry sets its own rules" pattern)
 - Reinforces `wiki/concepts/key-ideas/Greenwashing.md`

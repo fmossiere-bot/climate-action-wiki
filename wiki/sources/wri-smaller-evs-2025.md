@@ -52,7 +52,7 @@ Policy-analysis piece. Balances the pro-electrification framing (EVs are essenti
 ## How it connects to the wiki
 
 - Underpins a new page `wiki/sectors/transport/smaller-evs-better.md`
-- Complements `wiki/sectors/transport/CARS Life Cycle Emissions - EV vs Combustion.md`
+- Complements `wiki/sectors/transport/Car Life Cycle Emissions - EV vs Combustion.md`
 - Reinforces `wiki/solutions/electrification/EV Progress.md`
 - Adds to `wiki/concepts/key-ideas/` — Jevons-style unintended consequence within the transition
 - Adds to `wiki/climate-adaptation/home-cooling-heatwaves.md` (urban design overlap)

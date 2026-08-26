@@ -37,7 +37,7 @@ A summary of new peer-reviewed research on the **Formosa Wind Farm off Miaoli Co
 
 ## Why it matters
 
-Offshore wind is scaling up fast (the [FACTS about Wind Energy](../solutions/renewables/DRAFT - FACTS about Wind Energy.md) page covers the electricity side). This paper adds a **biodiversity co-benefit** to the case: on the right seabed, wind turbine foundations behave as free artificial reefs, without needing a separate marine reserve programme. It also **complements the [solar-on-peatland](../biodiversity-land/solar-on-peatland.md) finding**: some renewable infrastructure, sited correctly, can deliver climate mitigation **and** biodiversity uplift at the same time.
+Offshore wind is scaling up fast (the [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md) page covers the electricity side). This paper adds a **biodiversity co-benefit** to the case: on the right seabed, wind turbine foundations behave as free artificial reefs, without needing a separate marine reserve programme. It also **complements the [solar-on-peatland](../biodiversity-land/solar-on-peatland.md) finding**: some renewable infrastructure, sited correctly, can deliver climate mitigation **and** biodiversity uplift at the same time.
 
 The result is not universal. It applies to hard-vertical-structure sites in previously featureless soft-bottom habitat. Fixed-bottom offshore wind fits this pattern; floating offshore wind, coastal solar, and near-shore energy infrastructure would each need their own evidence.
 
@@ -47,7 +47,7 @@ Popular-science / EcoPortal narrative style with peer-reviewed data. The framing
 
 ## How it connects to the wiki
 
-- Updates `wiki/solutions/renewables/DRAFT - FACTS about Wind Energy.md` with a biodiversity co-benefit section
+- Updates `wiki/solutions/renewables/FACTS about Wind Energy.md` with a biodiversity co-benefit section
 - Complements `wiki/sectors/digital/Underwater Data Centres powered by offshore winds  in China.md` (same offshore-wind buildout region)
 - Reinforces `wiki/biodiversity-land/solar-on-peatland.md` — parallel case of renewables that also improve local biodiversity
 - Fits `wiki/biodiversity-land/ocean-based-climate-solutions.md` (offshore wind was already ranked top)
