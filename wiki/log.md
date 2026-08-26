@@ -4,6 +4,21 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-08-26] ingest | Ben & Jerry's — Free Ben & Jerry's campaign
+
+**Source:** Guardian article (Heather Timmons, 31 Jul 2026) and Zero (Bloomberg Green) podcast interview with Ben Cohen, both supplied directly by Fabien.
+
+**What was done:**
+- Created new wiki page: `wiki/concepts/company-evaluations/ben-jerrys-story.md`
+- Updated `wiki/index.md` — added new company-evaluations entry
+
+**Key content added:**
+- Founding story (1978, Burlington VT), the 1988 Reagan Small Business Persons of the Year award, and the "What's the Doughboy Afraid Of?" campaign against Pillsbury
+- 2000 Unilever acquisition and the independent board structure giving perpetual authority over the brand's social mission
+- 2021 West Bank withdrawal, Unilever's sale of the Israeli trademark, the board's 2024 lawsuit against Unilever, CEO David Stever's 2025 removal, and the foundation's July 2026 closure
+- July 2025 spin-off into the Magnum Ice Cream Company, Jerry Greenfield's September 2025 resignation, and Ben Cohen's "Free Ben & Jerry's" boycott campaign (~200,000 petition signatures)
+- Honest assessment of climate commitments: Caring Dairy programme and non-dairy oat-based range are real, but Cohen's own admission that the company has not addressed dairy's emissions footprint head-on
+
 ## [2026-08-26] maintenance | Re-fixed 2 key-ideas duplicates that reverted
 
 A previous dedupe pass removed `wiki/concepts/key-ideas/Average Carbon Footprint in Ireland.md` and `wiki/concepts/key-ideas/FACTS about Biomass.md` as duplicates of `wiki/ireland-hub/Carbon Footprint in IRELAND.md` and `wiki/solutions/renewables/FACTS about Biomass.md`. That fix was lost when a large separate commit (merging in a parallel DRAFT-cleanup effort) reverted both key-ideas files back to their pre-cleanup raw state, and also reverted `wiki/ireland-hub/Carbon Footprint in IRELAND.md` back to its rough pre-merge draft. Re-applied:

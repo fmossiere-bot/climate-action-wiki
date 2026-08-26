@@ -222,6 +222,7 @@ Funding the transition — investment, risk, green banking.
 | [[NIKE - GREEN DIGEST - Evaluating Companies 1]] | Nike sustainability evaluation |
 | [[STENA Ferry Sustainability Commitment]] | Stena Line sustainability |
 | [[patagonia-story]] | Yvon Chouinard and Patagonia: from piton-forger to suing the US president, to giving the company to the planet in 2022 |
+| [[ben-jerrys-story]] | **NEW** — Ben & Jerry's from 1978 Vermont startup to the 2025 Magnum spin-off: the independent board, the 2021 West Bank withdrawal, Jerry Greenfield's resignation, the "Free Ben & Jerry's" boycott campaign, and an honest look at its dairy emissions gap |
 
 ---
 

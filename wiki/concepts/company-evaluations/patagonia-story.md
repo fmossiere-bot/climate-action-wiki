@@ -58,3 +58,4 @@ The lesson of Chouinard's life is a simple one: it's not the most powerful peopl
 - [The Environmental Impact of the FASHION industry](../../circularity-waste/The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
 - [The Rewearable — Circular Fashion](../../circularity-waste/The%20Rewearable%20-%20%20Circular%20Fashion.md)
 - [High-Income Carbon Paradox](../behavior-change/high-income-carbon-paradox.md)
+- [The Ben & Jerry's Story](ben-jerrys-story.md)
