@@ -4,6 +4,14 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-08-26] maintenance | Re-fixed 2 key-ideas duplicates that reverted
+
+A previous dedupe pass removed `wiki/concepts/key-ideas/Average Carbon Footprint in Ireland.md` and `wiki/concepts/key-ideas/FACTS about Biomass.md` as duplicates of `wiki/ireland-hub/Carbon Footprint in IRELAND.md` and `wiki/solutions/renewables/FACTS about Biomass.md`. That fix was lost when a large separate commit (merging in a parallel DRAFT-cleanup effort) reverted both key-ideas files back to their pre-cleanup raw state, and also reverted `wiki/ireland-hub/Carbon Footprint in IRELAND.md` back to its rough pre-merge draft. Re-applied:
+
+- `wiki/ireland-hub/Carbon Footprint in IRELAND.md` content replaced again with the polished third-person rewrite (frontmatter: title, tags, `updated: 2026-08-26`)
+- Deleted `wiki/concepts/key-ideas/Average Carbon Footprint in Ireland.md` and `wiki/concepts/key-ideas/FACTS about Biomass.md` (no inbound links found to either; `wiki/solutions/renewables/FACTS about Biomass.md` had independently been further improved in the interim and was left as-is)
+- `wiki/index.md` updated: removed the 2 duplicate rows from the Key Ideas table, cleaned up the Ireland Hub row description
+
 ## [2026-08-26] ingest | 10 articles + 2 skips — contrails, offshore wind reefs & seaweed, solar pollinators, EV scrappage, World Cup heat, Ireland climate delivery, UK datacentres vs ExxonMobil, degrowth
 
 Full sweep of `raw/articles/`, `raw/papers/` and `raw/own-research/` against `wiki/log.md`. An audit pass (cross-referencing actual filenames against paraphrased "Source file" references in past log entries) found **12 uningested articles and 1 uningested PDF**; `raw/own-research/` was fully up to date, nothing new there. Two of the 13 files could not be usefully ingested (see Skips below), leaving 11 successfully routed.

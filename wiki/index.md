@@ -165,7 +165,6 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | [[About Carbon Accounting and GHG]] | GHG accounting frameworks, Scope 1/2/3 emissions explained |
-| [[Average Carbon Footprint in Ireland]] | Irish per-capita carbon footprint data |
 | [[Carbon Emission FACTS]] | Core global emissions data |
 | [[Carbon Emissions and the Carbon Cycle]] | The carbon cycle explained |
 | [[Climate Politics and Climate Justice]] | Politics and justice of climate action |
@@ -179,7 +178,6 @@ Funding the transition — investment, risk, green banking.
 | [[Emission Gap Report 2024 - UNEP]] | UNEP's annual emissions gap analysis (merged with the near-duplicate legislation-policy draft) |
 | [[FACTS - Climate Myth Busters and Back Pocket Stories]] | Rebuttals to common climate myths on EVs, batteries and recycling (archived) |
 | [[FACTS about  DEGROWTH]] | Degrowth as an economic concept — **updated** August 2026 with a Guardian Q&A critique of GDP-growth economics (Watts & Niranjan; Raworth, McKibben, Hickel, Nordhaus) |
-| [[FACTS about Biomass]] | Biomass energy as a broad concept: household energy, aviation fuel, chemical feedstock, land use — including the Drax UK biomass power station case study |
 | [[FACTS about Circular Economy]] | Circular economy principles |
 | [[FACTS on EVERYTHING - Under the Sky we Make]] | Kimberly Nicholas's *Under the Sky We Make* — full chapter-by-chapter summary |
 | [[Global Emissions in 2022]] | 2022 global emissions data |
@@ -500,7 +498,7 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| [[Average Carbon Footprint in Ireland]] | Irish average carbon footprint (see also the key-ideas page of the same content) |
+| [[Average Carbon Footprint in Ireland]] | Irish average carbon footprint, production vs consumption-based |
 | [[Cool Irish Companies]] | Silicate: Sligo carbon-removal start-up using concrete dust and enhanced weathering |
 | [[IRELAND Emissions, Climate Plans]] | Ireland's overall climate plans — **updated** July 2026 with a progress report finding only 10 of 74 committed climate measures delivered since 2023 |
 | [[IRELAND - Climate Change in the Irish Mind]] | Irish public opinion on climate |

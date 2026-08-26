@@ -1,178 +1,98 @@
 ---
-title: Avg Carbon Footprint in Ireland
+title: "Average Carbon Footprint in Ireland"
 category: ireland-hub
-tags:
-  - carbon
-  - ireland
-  - carbon-footprint
+tags: ["#carbon", "#ireland", "#agriculture", "#transport"]
 created: 2025-11-01
-updated: 2026-06-28
-summary: "Comparison with EU Neighbors, Consumption-Based Data, Deep Dive into the Categories, Data Consumption separating WASTE. The average carbon footprint in Ireland depends on how you measure it: what we produce (territorial emissions) or what we consume (lifestyle footprint)."
+updated: 2026-08-26
+summary: Ireland carbon footprint, production-based emissions, consumption-based emissions, EPA, ESRI, SEAI, CSO, agriculture methane, transport emissions, housing and energy, food waste, per capita emissions, EU comparison, dispersed housing, oil boilers, embodied carbon, imported emissions
 ---
 
-The average carbon footprint in Ireland depends on how you measure it: what we produce (territorial emissions) or what we consume (lifestyle footprint).
+# Average Carbon Footprint in Ireland
 
-According to the most recent data from the Environmental Protection Agency (EPA) and economic analysis, the breakdown is as follows:
+The average carbon footprint in Ireland depends on how you measure it: what the country produces (territorial emissions) or what its residents consume (lifestyle footprint). According to the most recent data from the Environmental Protection Agency (EPA) and economic analysis, the two measures give quite different pictures.
 
-  
+## Quick Summary: The Numbers
 
-# Quick Summary: The Numbers
-
-|Metric|Estimate (Per Capita)|What it measures|
+| Metric | Estimate (per capita) | What it measures |
 |---|---|---|
-|Production-Based|10.4 tonnes CO_2e|Emissions released within Irish borders (e.g., farming, power plants, driving).|
-|Consumption-Based|~11.5 – 12.5 tonnes CO_2e|Emissions caused by Irish lifestyles, including imported goods (e.g., cars, electronics) minus exports.|
+| Production-based | 10.4 tonnes CO2e | Emissions released within Irish borders (e.g. farming, power plants, driving) |
+| Consumption-based | ~11.5-12.7 tonnes CO2e | Emissions caused by Irish lifestyles, including imported goods (cars, electronics) minus exports |
 
-  
+## Production-Based Footprint (the Official Number)
 
-# 1. Production-Based Footprint (The Official Number)
+The current figure is **10.4 tonnes CO2 equivalent (CO2e)** per person, based on 2023 provisional data from the EPA (July 2024). This is the standard figure reported to the EU and UN. It measures all greenhouse gases emitted within Ireland, divided by the population. Ireland has the highest per capita greenhouse gas emissions in the EU, often around 50% above the EU average.
 
-Current Figure: 10.4 tonnes CO_2 equivalent (CO_2e) (2023 Provisional Data) Source: Environmental Protection Agency (EPA), July 2024
+The main drivers are:
 
-This is the standard figure reported to the EU and UN. It measures all greenhouse gases emitted within Ireland divided by the population.
+- **Agriculture (~38%)**: unlike most wealthy nations, a large share of Ireland's production footprint is methane from cattle and nitrous oxide from fertiliser
+- **Transport (~21%)**: high reliance on private cars and a dispersed population
+- **Energy (~14%)**: renewables are growing, but Ireland still relies on fossil fuels for electricity and heating
 
-> Why is it high? Ireland has the highest per capita greenhouse gas emissions in the EU (often ~50% above the EU average).
+This number fell from 11.4 tonnes in 2022, largely due to imported electricity and reduced lime and fertiliser use.
 
-The Main Drivers:
-- Agriculture (~38%): Unlike most wealthy nations, a huge chunk of Ireland's "production" footprint is methane from cattle and nitrous oxide from fertilizer.
-- **Transport (~21%): High reliance on private cars and a dispersed population.
-- Energy (~14%): While renewables are growing, Ireland still relies on fossil fuels for electricity and heating.
+### Comparison with EU Neighbours
 
+Ireland is an outlier in Europe. The EU average is around 7-8 tonnes per capita, compared with Ireland's 10.4+ tonnes. In most EU countries, agriculture is a small slice of the emissions pie; in Ireland, it is the largest slice. Ireland's dispersed housing model, with a high share of one-off rural housing rather than apartments, also increases transport and heating emissions compared with continental Europe.
 
-Note: This number fell from 11.4 tonnes in 2022, largely due to imported electricity and reduced lime/fertilizer use.
+## Consumption-Based Footprint (the "Real" Lifestyle Impact)
 
-  
+The consumption-based estimate runs roughly 8% to 16% higher than the production figure, based on analysis from the Economic and Social Research Institute (ESRI) and the Global Carbon Project. This metric accounts for trade: it subtracts the emissions of goods Ireland exports (like beef and dairy) and adds the emissions of goods Ireland imports (like cars, clothes, phones and machinery).
 
-## Comparison with EU Neighbors
+It might seem that Ireland's consumption footprint should be lower, since the country exports so much food and, with it, the associated methane emissions. In reality, wealthy Irish lifestyles demand significant imported manufactured goods, and the emissions embedded in those imports, often from China, the UK or elsewhere in the EU, outweigh the emissions "sent away" with beef exports. The average Irish resident is a net importer of emissions: a personal lifestyle footprint is likely closer to 12 tonnes than the official 10.4 tonne figure suggests.
 
-Ireland is an outlier in Europe.
+### Where Your ~12.5 Tonnes Comes From
 
-- EU Average: ~7-8 tonnes per capita.
-    
-- Ireland: ~10.4+ tonnes per capita.
-    
-- Reason: In most EU countries, agriculture is a small slice of the pie. In Ireland, it is the largest slice. Additionally, Ireland has a dispersed housing model (bungalows/one-off housing) which increases transport and heating emissions compared to continental apartment living.
-    
+When the view switches from production to consumption, the large "agriculture" slice shrinks, because most beef is exported, while "transport" and "housing" grow. The estimated breakdown of the average Irish person's roughly 12.5 tonne consumption footprint, based on data from SEAI, the EPA and the ESRI, is as follows:
 
-  
-  
-
-# 2. Consumption-Based Footprint (The "Real" Lifestyle Impact)
-
-Current Estimate: ~8% to 16% higher than production figures Source: Economic and Social Research Institute (ESRI) / Global Carbon Project Analysis
-
-This metric accounts for trade. It subtracts the emissions of goods Ireland exports (like beef and dairy) and adds the emissions of goods Ireland imports (like cars, clothes, phones, and machinery).
-
-- The Trade-Off: You might assume Ireland's consumption footprint would be lower because we export so much food (exporting the associated methane emissions).
-    
-- The Reality: However, wealthy Irish lifestyles demand significant imported manufactured goods. The emissions embedded in these imports (often from China, the UK, or the EU) outweigh the emissions we "send away" with our beef exports.
-    
-- Result: The average Irish resident is a net importer of emissions. Your personal lifestyle footprint is likely closer to 12 tonnes than the official 10.4 figure suggests.
-    
-
-  
-  
-  
-  
-
-## Consumption-Based Data
-
-This is where the data gets interesting—and distinct from the "official" government figures.
-
-While the government tracks Production (what happens on Irish soil), your personal carbon footprint is measured by Consumption (what you buy, eat, and use).
-
-When we switch to a consumption view, the huge "Agriculture" slice of the pie shrinks (because we export most of that beef), and "Transport" and "Housing" explode in size.
-
-Here is the estimated breakdown of the average Irish person’s ~12.5 tonne consumption footprint, based on data from the SEAI, EPA, and ESRI.
-
-#### The Breakdown: Where Your 12.5 Tonnes Comes From
-
-|Category|Share of Footprint|Estimated Impact|Why is it so high?|
+| Category | Share of footprint | Estimated impact | Why is it so high? |
 |---|---|---|---|
-|1. Transport|~30%|3.8 tonnes|Car Dependency. This includes diesel/petrol burned plus the "embodied carbon" of manufacturing the car (imported emissions).|
-|2. Housing & Energy|~25%|3.1 tonnes|Heating Oil & Poor Insulation. Ireland has a unique reliance on oil boilers (36% of new homes in early 2000s) and dispersed housing.|
-|3. Food|~25%|3.1 tonnes|Red Meat & Dairy. While we export beef, we also consume a high-meat diet. This also includes imported foods (fruit/veg out of season).|
-|4. "Stuff" & Services|~20%|2.5 tonnes|Imported Goods. The emissions from making your phone, clothes, and furniture (often in China/Asia) count here.|
+| 1. Transport | ~30% | 3.8 tonnes | Car dependency: diesel and petrol burned, plus the embodied carbon of manufacturing the car (an imported emission) |
+| 2. Housing & energy | ~25% | 3.1 tonnes | Heating oil and poor insulation: Ireland has a unique reliance on oil boilers (36% of new homes in the early 2000s) and dispersed housing |
+| 3. Food | ~25% | 3.1 tonnes | Red meat and dairy: a high-meat diet, plus imported foods such as fruit and vegetables out of season |
+| 4. "Stuff" & services | ~20% | 2.5 tonnes | Imported goods: the emissions from manufacturing phones, clothes and furniture, often in China or elsewhere in Asia |
 
-  
+### Transport: the Biggest Individual Contributor
 
-### Deep Dive into the Categories
+In production statistics, transport is around 21% of emissions; in an individual's lifestyle footprint, it is closer to 30%. The Central Statistics Office (CSO) indicates that 36% of direct household emissions come purely from burning fuel in cars. This category also captures aviation, which is not fully counted in national production totals but is a significant part of an individual's consumption footprint, along with the manufacturing of the vehicle itself. Ireland's highly dispersed population and comparatively poor rural public transport infrastructure lead to higher per-capita driving distances than the EU average.
 
-#### 1. Transport (The Biggest Individual Contributor)
+### Housing & Energy: the "Leaky Sieve" Problem
 
-In production stats, transport is ~21%. In your life, it is likely ~30%.
+According to the CSO, 41% of direct household emissions come from fossil fuels used for heating, and another 21% comes from electricity use. The consumption view also adds the embodied carbon of the cement and steel used to build a house. Ireland has an older housing stock that leaks heat and relies heavily on kerosene (home heating oil) and, in older homes, peat or coal, whereas much of continental Europe relies more on district heating or gas.
 
-- The Commute: The CSO indicates that 36% of direct household emissions come purely from burning fuel in cars.
-    
-- The Hidden Cost: This category also accounts for aviation (flights are not fully counted in national production totals but are a huge part of individual consumption) and the manufacturing of the vehicle itself.
-    
-- Ireland Specific: We have a highly dispersed population with poor public transport infrastructure in rural areas, leading to higher per-capita driving distances than the EU average.
-    
+### Food: the Shift from 38% to 25%
 
-#### 2. Housing & Energy (The "Leaky Sieve" Problem)
+Food's share drops from the national 38% (production) to around 25% (consumption), because the production figure includes the emissions from beef that feeds around 40 million people abroad. Even after removing exports, the average Irish diet remains high in emissions-intensive foods such as dairy, beef and lamb compared with a plant-based baseline. The EPA estimates the average Irish household throws away €700-€1,000 worth of food annually, and the carbon emitted to grow, ship and package that wasted food is part of this figure.
 
-- Direct Emissions: According to the CSO, 41% of direct household emissions come from fossil fuels used for heating.
-    
-- Electricity: Another 21% comes from electricity use.
-    
-- Construction Materials: The consumption view also adds the "embodied carbon" of the cement and steel used to build your house.
-    
-- Key Issue: Ireland has an older housing stock that leaks heat. We rely heavily on kerosene (home heating oil) and peat/coal in older homes, whereas Europe relies more on district heating or gas.
-    
+### "Stuff": the Invisible Emissions
 
-#### 3. Food (The Shift from 38% to 25%)
+Imported goods are the category missing entirely from national production totals. If a fast-fashion item made in Bangladesh or a smartphone made in China is purchased, the emissions were released there, but the responsibility belongs to the consumer. ESRI analysis confirms that Ireland is a net importer of emissions in this category, meaning Irish consumers buy more carbon-intensive manufactured goods than the country sells.
 
-- The Drop: You will notice Food drops from the national 38% (Production) to ~25% (Consumption). This is because the "Production" number includes the emissions for beef that feeds 40 million people abroad.
-    
-- Why still high? Even after removing exports, the average Irish diet is high in emissions-intensive foods (dairy, beef, lamb) compared to a plant-based baseline.
-    
-- Waste: The EPA estimates the average Irish household throws away €700–€1,000 worth of food annually. The carbon emitted to grow, ship, and package that wasted food is part of this figure.
-    
+## Separating Out Waste
 
-#### 4. "Stuff" (The Invisible Emissions)
+A revised view extracts "waste" as its own standalone category, removing the carbon impact of thrown-away food from the "food" category and discarded textiles and packaging from the "consumption" category, to show exactly how much carbon is generated by pure inefficiency.
 
-- Imported Emissions: This is the category completely missing from national production totals. If you buy a fast-fashion item made in Bangladesh or a smartphone made in China, the emissions were released there, but the responsibility belongs to you (the consumer).
-    
-- ESRI Analysis: The ESRI confirms that Ireland is a net importer of emissions in this category—meaning we buy more carbon-intensive manufactured goods than we sell.
-    
+### Revised Irish Consumption Footprint: ~12.7 Tonnes CO2e
 
-  
-  
-
-### Data Consumption separating WASTE 
-
-Here is your revised consumption-based breakdown.
-
-To create this view, I have extracted "Waste" as a standalone category. This means I have removed the carbon impact of thrown-away food from the "Food" category and discarded textiles/packaging from the "Consumption" category to show you exactly how much carbon is generated by inefficiency.
-
-#### Revised Irish Consumption Footprint: ~12.7 Tonnes CO_2e
-
-|Category|Est. Tonnes (CO_2e)|% of Total|What is included here?|
+| Category | Est. tonnes CO2e | % of total | What is included |
 |---|---|---|---|
-|1. Transport|3.8 t|30%|The Commute & Travel. Fuel burned in cars, public transport, the manufacturing of vehicles, and international flights.|
-|2. Housing|3.1 t|24%|Heat & Light. Kerosene/Gas for heating, electricity usage, and the maintenance/materials of the home.|
-|3. Consumption|2.3 t|18%|Stuff you keep. Clothing, electronics, furniture, and services (insurance/banking) that are actually utilized, not discarded.|
-|4. Food|2.4 t|19%|Calories Eaten. The carbon cost of the meat, dairy, and plants that are actually consumed by the household.|
-|5. Waste|1.1 t|9%|Inefficiency. Wasted food, fast fashion discarded quickly, packaging, and the energy used to collect/treat your bins.|
-|TOTAL|~12.7 t|100%|Average Irish Resident|
+| 1. Transport | 3.8 t | 30% | The commute and travel: fuel burned in cars and public transport, vehicle manufacturing, and international flights |
+| 2. Housing | 3.1 t | 24% | Heat and light: kerosene and gas for heating, electricity use, and home maintenance and materials |
+| 3. Consumption | 2.3 t | 18% | Stuff you keep: clothing, electronics, furniture and services (insurance, banking) that are actually used, not discarded |
+| 4. Food | 2.4 t | 19% | Calories eaten: the carbon cost of meat, dairy and plant food actually consumed by the household |
+| 5. Waste | 1.1 t | 9% | Inefficiency: wasted food, fast fashion discarded quickly, packaging, and the energy used to collect and treat household bins |
+| **Total** | **~12.7 t** | **100%** | Average Irish resident |
 
-  
-  
+The 1.1 tonnes of waste breaks down further into roughly 65% food waste (growing, shipping and cooling food that ends up in the bin), 20% material waste (textiles, plastics and tech bought and discarded rapidly), and 15% processing (the emissions from bin collection and incineration or landfill). This is arguably the most frustrating category, since it represents carbon emitted for zero nutritional or lifestyle benefit.
 
-#### Waste (The "New" Category: 1.1 tonnes)
+## Connected topics
 
-- Composition:
-    
+- [About Carbon Accounting and GHG](../concepts/key-ideas/About%20Carbon%20Accounting%20and%20GHG.md)
+- [Carbon Emission FACTS](../concepts/key-ideas/Carbon%20Emission%20FACTS.md)
+- [FACTS about Circular Economy](../concepts/key-ideas/FACTS%20about%20Circular%20Economy.md)
 
-- ~65% Food Waste: Growing, shipping, and cooling food that ends up in the brown or black bin.
-    
-- ~20% Material Waste: Textiles, plastics, and tech bought and discarded rapidly.
-    
-- ~15% Processing: The actual emissions from the garbage truck and the incineration/landfill process.
-    
+## Sources
 
-- Insight: This is the most frustrating category because it represents zero value. It is carbon emitted for no nutritional or lifestyle benefit.
-    
-
-  
-**
+- Environmental Protection Agency (EPA), Ireland's Provisional Greenhouse Gas Emissions, July 2024
+- Economic and Social Research Institute (ESRI) / Global Carbon Project, consumption-based emissions analysis
+- Sustainable Energy Authority of Ireland (SEAI), household energy data
+- Central Statistics Office (CSO), household emissions data
