@@ -42,5 +42,5 @@ Straight news, structured around three arcs: (1) a new coalition growing under t
 ## How it connects to the wiki
 
 - Updates `wiki/solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md` — the Bonn intersessional is the natural follow-up to the April 2026 Santa Marta meeting
-- Updates `wiki/legislation-policy/DRAFT - COP30.md` — adds the "COP31 in Turkey" horizon, adaptation finance baseline dispute, and the implementation vs negotiation framing
+- Updates `wiki/legislation-policy/COP30.md` — adds the "COP31 in Turkey" horizon, adaptation finance baseline dispute, and the implementation vs negotiation framing
 - Provides context for `wiki/climate-finance/fossil-fuel-banking.md` (why oil producers are on edge)

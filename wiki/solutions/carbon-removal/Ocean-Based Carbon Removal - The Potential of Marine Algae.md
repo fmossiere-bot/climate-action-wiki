@@ -7,8 +7,8 @@ tags:
   - seaweed
   - carbon-removal
 created: 2023-06-01
-updated: 2026-06-15
-summary: The ocean has absorbed roughly one third of all human CO2 emissions since the industrial revolution. It is one of the planet's most important carbon sinks, and researchers are increasingly looking at how marine ecosystems, particularly seaweed and kelp, could be actively used to remove more carbon from the atmosphere.
+updated: 2026-08-26
+summary: The ocean has absorbed roughly one third of all human CO2 emissions since the industrial revolution. It is one of the planet's most important carbon sinks, and researchers are increasingly looking at how marine ecosystems, particularly seaweed and kelp, could be actively used to remove more carbon from the atmosphere. Sugar kelp, offshore wind multi-use, Aarhus University, Denmark, nitrogen phosphorus removal, agrivoltaics-style co-location.
 ---
 
 
@@ -42,6 +42,18 @@ Despite the promise, there are significant uncertainties that need to be taken s
 **The ecological impact of large-scale farming is not well understood.** Depositing large quantities of dead biomass on the seafloor could have significant consequences for marine ecosystems. Current seaweed farming is also concentrated on a small number of species, which reduces genetic diversity and makes crops more vulnerable to disease, pests and environmental stress.
 
 **Measurement and verification are difficult.** As with forest-based carbon removal, confirming how much carbon is actually being stored, and for how long, remains a major challenge. Without robust monitoring, there is a risk of overestimating the climate benefit.
+
+---
+
+### 2026 Update: Growing Seaweed Between Wind Turbines
+
+One practical answer to the space and scaling questions above comes from Denmark. Researchers at Aarhus University, led by Annette Bruhn, have spent 15 years refining methods to grow **sugar kelp** in Danish waters and have shown that offshore wind farms can double as seaweed cultivation sites — seaweed lines strung between turbines in the North Sea, sharing the service vessels and infrastructure already built for energy production, with **no additional marine space** needed.
+
+The offshore conditions (high water exchange, stability, nutrient availability) turned out to be among the most productive cultivation settings the researchers have tested. Beyond food and biomaterial uses, the kelp actively removes nitrogen and phosphorus from coastal waters, complementing efforts to cut nutrient pollution. Denmark's offshore wind expansion will dedicate large new areas of the North Sea to energy generation by 2030, and the researchers argue the unused space between turbines is too significant to leave idle.
+
+The bottleneck, Bruhn says, is not the science but the market: food manufacturers, retailers, meal-kit companies and canteens need to create demand, much as they did for legumes, which went from marginal to mainstream in European diets over roughly a decade.
+
+*Source: [Offshore wind seaweed (source summary)](../../sources/seaweed-offshore-wind-denmark-oceanographic-2026.md); Oceanographic Magazine, Rob Hutchins, 4 August 2026*
 
 ---
 

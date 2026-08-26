@@ -119,7 +119,7 @@ So while AI has some very interesting promise for our Climate fight, its use is 
 
 > ## Google and Microsoft just revised their emissions targets, because of AI surge
 
-See [[DRAFT - GOOGLE Emissions#Nuclear Power to the rescue]]
+See [Google's Emissions Profile](../../concepts/company-evaluations/GOOGLE%20Emissions.md#turning-to-nuclear-power)
 
 Google and its cloud computing peers seem to be moving backward on the ambitious decarbonization goals they made in the years before the mad rush to scale artificial intelligence kicked off. 
 

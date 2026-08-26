@@ -3,8 +3,8 @@ title: Ireland Emissions and Climate Plans
 category: ireland-hub
 tags: [ireland, science, adaptation]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "Per Capita in EU - Ireland is 3, Ireland evolution by Gas, Ireland Nitrous Oxide deeper dive, Ireland Methane deeper Dive, Reduction of emissions in 2023 - UPDATED, Our goal is to reach 51% reduction. At the current pace, we might reach only 29%, Land Restoration in Dublin Mountains, EPA says we need to do more to support Waste, Impact of Climate change on Ireland, The 'cold blob', Weather Extremes, Ireland Farming responsible for almost 40% of emissions in 2020, Does Ireland really cares about Climate Change - 180 degrees, Ireland Climate Change Assessment, Ireland Climate Action Plan 2023 CAP23, IRELAND BIODIVERSITY PLAN, Ireland CLimate Change Impact Assessment, Ireland's Environment: An Integrated Assessment 2020- Key Messages Booklet, DLR Climate Action Plan, Dun Laoghare Biodiversity Action Plan 2021-2030, 12pc in late 2022, Ireland is on course to miss its 2030 climate targets, 51% reduction, Agriculture emissions, Transport, Energy, Land use, Agriculture is the highest emitting sector, Wild Atalntic Nature Shceme, Source, Summary"
+updated: 2026-08-26
+summary: "Per Capita in EU - Ireland is 3, Ireland evolution by Gas, Ireland Nitrous Oxide deeper dive, Ireland Methane deeper Dive, Reduction of emissions in 2023 - UPDATED, Our goal is to reach 51% reduction. At the current pace, we might reach only 29%, Land Restoration in Dublin Mountains, EPA says we need to do more to support Waste, Impact of Climate change on Ireland, The 'cold blob', Weather Extremes, Ireland Farming responsible for almost 40% of emissions in 2020, Does Ireland really cares about Climate Change - 180 degrees, Ireland Climate Change Assessment, Ireland Climate Action Plan 2023 CAP23, IRELAND BIODIVERSITY PLAN, Ireland CLimate Change Impact Assessment, Ireland's Environment: An Integrated Assessment 2020- Key Messages Booklet, DLR Climate Action Plan, Dun Laoghare Biodiversity Action Plan 2021-2030, 12pc in late 2022, Ireland is on course to miss its 2030 climate targets, 51% reduction, Agriculture emissions, Transport, Energy, Land use, Agriculture is the highest emitting sector, Wild Atalntic Nature Shceme, Source, Summary, 74 climate commitments, 10 completed, carbon farming framework delay, Department of Climate and the Environment progress report"
 ---
 
 Check this cool website with all information on [Climate Ireland by Sector](https://www.climateireland.ie/) (Agriculture, Forest, Fishery, Water etc...)
@@ -309,6 +309,19 @@ Source: https://www.gov.ie/en/publication/7bd8c-climate-action-plan-2023/
 ![[IRELAND-CAP23.pdf]]
 ![[IRELAND-CAP23-SUMMARY.pdf]]
 
+## July 2026: Only 10 of 74 Climate Commitments Delivered
+
+A progress report from the Department of Climate and the Environment found the government has completed just **10 of the 74 measures** committed to across the 2023, 2024 and 2025 Climate Action Plans. The 2026 plan itself was still unpublished at the time, delayed to Q3 2026.
+
+Completed items: publication of the second Circular Economy Strategy, 200km of cycling infrastructure, a new national demand management strategy for transport. The remaining **64 measures** are attributed to capacity constraints, consultation requirements, funding/procurement issues, and alignment with other national or EU policy — delays the report itself warns "threaten Ireland's ability to meet" its binding emissions targets.
+
+Notably, **neither of the two agriculture-specific commitments** in the 2023-2025 plans has been delivered: a framework to reduce feed costs for organic livestock, and a draft carbon farming framework, now over two years late. This matters because agriculture was Ireland's highest-emitting sector in 2025 at **36% of national emissions**, with methane (mostly cattle, sheep and manure management) making up **70%** of that sector's total.
+
+Other undelivered measures include shared mobility hubs in four cities/towns, ~225 EV charging points at sports clubs, a roadmap to phase out fossil fuel heating in buildings, and an OPW retrofit programme for historic buildings.
+
+Taoiseach Micheál Martin called the findings "a clear reminder that we must move faster"; Climate Minister Darragh O'Brien said there is "no room for delay."
+
+Source: [Ireland climate plan progress (source summary)](../sources/ireland-climate-plan-progress-thejournal-2026.md); TheJournal.ie, Jane Matthews, 29 July 2026
 
 ---
 

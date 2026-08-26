@@ -2,13 +2,13 @@
 title: "Heatwaves and Sport: A Two-Way Problem"
 category: sectors
 tags: ["#sport", "#adaptation", "#behaviour", "#fossil-fuels"]
-sources: ["Bloomberg Green — Zero: The Climate Race podcast, 'Is the world becoming too hot for summer sports?', 2 July 2026"]
+sources: ["Bloomberg Green — Zero: The Climate Race podcast, 'Is the world becoming too hot for summer sports?', 2 July 2026", "Covering Climate Now, 23 July 2026 — https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/"]
 created: 2026-07-06
-updated: 2026-07-06
-summary: sport and climate change, heat health risk, athletes, humidity wet-bulb, cricket, baseball, football soccer, track and field, hydration breaks, Tokyo Olympics marathon relocation, Wimbledon, athlete activism, fossil fuel sponsorship, David Pocock, women's football fossil fuel protest, Jessica Murfree, 2026 World Cup 7.8 million tonnes CO2, Qatar 2022 stadiums, rotation of hosts, IOC, sporting calendar shift, indoor ice hockey, Zero podcast
+updated: 2026-08-26
+summary: sport and climate change, heat health risk, athletes, humidity wet-bulb, cricket, baseball, football soccer, track and field, hydration breaks, Tokyo Olympics marathon relocation, Wimbledon, athlete activism, fossil fuel sponsorship, David Pocock, women's football fossil fuel protest, Jessica Murfree, 2026 World Cup 7.8 million tonnes CO2, Qatar 2022 stadiums, rotation of hosts, IOC, sporting calendar shift, indoor ice hockey, Zero podcast, FIFPRO wet-bulb globe temperature threshold, tennis cooling breaks, LA Marathon heat
 ---
 
-> **Editorial summary:** This page distils a July 2026 episode of Bloomberg's Zero podcast with Jessica Murfree (University of North Carolina) on how sport and climate change now shape each other. It sits alongside the [Environmental Impact of football world cups](Environmental Impact of football world cups.md), [Environmental Impact of the Paris Olympics](Environmental Impact of the Paris Olympics.md) and [Formula 1 Sustainability 2026](formula-1-sustainability-2026.md), and complements the [Wet-Bulb](../climate-science/DRAFT - Wet-Bulb explained.md) explainer on the physiology side.
+> **Editorial summary:** This page distils a July 2026 episode of Bloomberg's Zero podcast with Jessica Murfree (University of North Carolina) on how sport and climate change now shape each other. It sits alongside the [Environmental Impact of football world cups](Environmental Impact of football world cups.md), [Environmental Impact of the Paris Olympics](Environmental Impact of the Paris Olympics.md) and [Formula 1 Sustainability 2026](formula-1-sustainability-2026.md), and complements the [Wet-Bulb](../climate-science/Wet-Bulb%20explained.md) explainer on the physiology side.
 
 ## 1. A problem that runs in both directions
 
@@ -29,6 +29,8 @@ There is no strict ranking of which sports suffer most, but exposure tends to fo
 Several changes are already visible. Some are structural, such as the hydration breaks added to matches at this year's World Cup, or the way the Tokyo Olympics moved its marathon further north to manage heat. Others are more gradual: rule changes to speed up play, shorter formats in cricket, and outdoor winter sports increasingly moving indoors, such as ice hockey, which historically began on frozen outdoor ponds.
 
 Equipment and clothing are shifting too, with lighter padding and less coverage in athletic wear, partly for performance and partly to manage heat exposure. Playing surfaces are also affected. Heat and dryness change how grass and turf behave, which in turn changes ball bounce, player grip, and injury risk, a concern already raised in relation to Wimbledon and to stadiums built for American football being adapted for this year's World Cup.
+
+The 2026 World Cup's hydration breaks trace to a specific, negotiated threshold: FIFPRO (the players' union) proposed breaks at a wet-bulb globe temperature of 26°C and suspending play at 28°C, after a referee fainted mid-match at the 2025 Club World Cup; FIFA wanted breaks only at 32°C, and hydration breaks were the compromise. Tennis (cooling breaks above 30°C WBGT) and the 2026 LA Marathon (runners allowed to officially finish at mile 18 rather than 26 due to heat) show the same kind of threshold-based adaptation spreading to other sports. See [Environmental Impact of football world cups](Environmental%20Impact%20of%20football%20world%20cups.md) for the full detail.
 
 ## 5. Athletes as advocates
 
@@ -65,7 +67,7 @@ Heatwaves are already changing how sport is played, from added hydration breaks 
 - [Environmental Impact of football world cups](Environmental Impact of football world cups.md)
 - [Environmental Impact of the Paris Olympics](Environmental Impact of the Paris Olympics.md)
 - [Formula 1 Sustainability 2026](formula-1-sustainability-2026.md)
-- [Wet-Bulb explained](../climate-science/DRAFT - Wet-Bulb explained.md)
+- [Wet-Bulb explained](../climate-science/Wet-Bulb%20explained.md)
 - [Home cooling and heatwaves](../climate-adaptation/home-cooling-heatwaves.md)
 
 ## Source

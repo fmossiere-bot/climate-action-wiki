@@ -75,7 +75,7 @@ He also notes the jet stream is **shifting northwards in general**, which could 
 - [A Record-Hot Ocean and the 2026 El Niño](record-hot-ocean-el-nino-2026.md)
 - [Wildfires as a Climate Feedback Loop](wildfires-climate-feedback.md)
 - [Home cooling and heatwaves](../climate-adaptation/home-cooling-heatwaves.md)
-- [Wet-Bulb explained](DRAFT - Wet-Bulb explained.md)
+- [Wet-Bulb explained](Wet-Bulb%20explained.md)
 - [Glaciers in Retreat](../biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md) — for the parallel June 2026 Alpine story
 - [Source: UK heatwave June 2026 (Guardian)](../sources/uk-heatwave-june-2026-guardian.md)
 

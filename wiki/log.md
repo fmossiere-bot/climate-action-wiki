@@ -4,6 +4,65 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-08-26] ingest | 10 articles + 2 skips — contrails, offshore wind reefs & seaweed, solar pollinators, EV scrappage, World Cup heat, Ireland climate delivery, UK datacentres vs ExxonMobil, degrowth
+
+Full sweep of `raw/articles/`, `raw/papers/` and `raw/own-research/` against `wiki/log.md`. An audit pass (cross-referencing actual filenames against paraphrased "Source file" references in past log entries) found **12 uningested articles and 1 uningested PDF**; `raw/own-research/` was fully up to date, nothing new there. Two of the 13 files could not be usefully ingested (see Skips below), leaving 11 successfully routed.
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| A robot inspected 41 underwater components... Hywind Scotland.md | Source summary + update | `wiki/sources/hywind-scotland-robot-reef-survey-2026.md` + new floating-wind case added to `wiki/solutions/renewables/DRAFT - FACTS about Wind Energy.md` |
+| AI to help planes avoid climate-warming contrails.md + Contrail-NS.pdf | 2 source summaries + update | `wiki/sources/contrails-operation-blue-skies-bbc-2026.md`, `wiki/sources/contrails-operation-blue-skies-newscientist-2026.md` + filled the empty "Contrails" placeholder in `wiki/sectors/transport/DRAFT - FACTS about Air Travel.md` |
+| Dutch Project Produces First Green Hydrogen... PosHYdon.md | Source summary + update | `wiki/sources/poshydon-north-sea-green-hydrogen-forbes-2026.md` + new case study in `wiki/solutions/renewables/DRAFT - FACTS about Clean & GREEN Hydrogen.md` |
+| It's good for the planet to scrap a new petrol car and buy electric.md | Source summary + update | `wiki/sources/scrap-petrol-car-for-ev-newscientist-2026.md` + new push-back pair and Go deeper detail in `wiki/myths/ev-keep-old-car.md` |
+| Offshore wind farms hold key to sustainable seaweed at scale.md | Source summary + update | `wiki/sources/seaweed-offshore-wind-denmark-oceanographic-2026.md` + new section in `wiki/solutions/carbon-removal/Ocean-Based Carbon Removal - The Potential of Marine Algae.md` |
+| Researchers studied 20 French solar farms... pollinators fell 76%.md | Source summary + new page | `wiki/sources/french-solar-farms-pollinators-2026.md` + `wiki/biodiversity-land/solar-farms-pollinators.md` (genuinely distinct from the existing solar-on-peatland case: different country, different taxa, negative finding) |
+| The World Cup Story (Almost) No One Told.md | Source summary + update | `wiki/sources/world-cup-hydration-breaks-fifpro-ccnow-2026.md` + FIFPRO wet-bulb threshold detail added to `wiki/sectors/Environmental Impact of football world cups.md` and `wiki/sectors/heatwaves-and-sport.md` |
+| The government has completed just 10 of its 74 climate commitments.md | Source summary + update | `wiki/sources/ireland-climate-plan-progress-thejournal-2026.md` + new section in `wiki/ireland-hub/DRAFT - IRELAND  Emissions, Climate Plans.md` |
+| Two planned datacentres will have higher UK carbon emissions than ExxonMobil.md | Source summary + update | `wiki/sources/uk-datacentres-exxonmobil-emissions-guardian-2026.md` + new section in `wiki/sectors/digital/DRAFT - ai-data-centre-energy-crisis.md` |
+| 'The obsession with endless growth can only end in tears'... .md | Source summary + update | `wiki/sources/guardian-extreme-weather-qa-watts-niranjan-2026.md` + new section in `wiki/concepts/key-ideas/FACTS about  DEGROWTH.md` |
+
+### Skips
+
+- **If all car tyres were filled with CO2, would this cut atmospheric carbon significantly?.md** — a Guardian "Notes & Queries" reader question with no expert answer in the clipped content (the piece just poses the question for future reader replies). Ingesting it would have meant inventing an unsourced calculation, which the wiki's citation rule doesn't allow. Skipped; worth revisiting if the Guardian publishes readers' answers later.
+- **Scientists' new method could help cement plants remove CO2 from atmosphere.md** — the clipping captured only the frontmatter (title/description); the article body is empty. No usable content to ingest. Skipped.
+
+### Key facts introduced this batch
+
+- **Hywind Scotland (floating wind reef):** 121 forms of sea life across 5 floating turbines, including soft and possible deep-sea stony corals; reef reaches ~400 feet down; extends the Formosa (Taiwan, fixed-bottom) reef finding to floating turbine technology
+- **Operation Blue Skies (contrails):** £5m UK trial, Shanwick airspace (~5% of global contrail warming), AI forecasts from Google, 2,000ft altitude changes, ~100kg extra fuel vs tonnes of contrail warming avoided saved, 50-70% contrail cuts in prior trials, starts November 2026
+- **PosHYdon:** first green hydrogen produced on an active North Sea gas platform (Q13a-A, Netherlands), offshore wind-powered electrolysis, existing infrastructure reuse
+- **EV scrappage:** Campbell & Geyer (UC Santa Cruz/Santa Barbara) — scrapping even a brand-new petrol car for an EV wins in almost all cases; exceptions are coal-heavy grids or <7,000km/yr driving
+- **Seaweed x offshore wind:** Aarhus University, sugar kelp grown between Danish North Sea turbines, no extra marine space, nitrogen/phosphorus removal; bottleneck is market not science
+- **French solar pollinators:** 20 solar parks, 76% fewer pollinator visits and 86% fewer plant-pollinator interactions under panels; grazing hurts pollinators more than mowing; wildflower-meadow design nearly doubles bumble bee numbers
+- **World Cup heat:** FIFPRO proposed WBGT 26°C/28°C thresholds, FIFA wanted 32°C; Miami heat index ~101°F, Kansas City 88°F/70% humidity; Telemundo's Vanessa Hauc as a rare climate-literate broadcast example
+- **Ireland climate delivery:** only 10 of 74 committed 2023-2025 measures completed; neither agriculture-specific commitment delivered; agriculture 36% of 2025 national emissions, 70% of that methane
+- **UK datacentres vs ExxonMobil:** Wapseys Wood + Quest Park projected at 4.5Mt CO2/yr vs ExxonMobil UK's 3.9Mt; both seeking on-site gas plants; both fast-tracked via the NSIP regime; 315 datacentres queued for UK grid connection (73GW, ~2× UK peak winter demand)
+- **Degrowth Q&A:** Watts & Niranjan (Guardian) — wildfire smoke ~1.5M deaths/yr globally; 40-70% of recent European heatwave deaths attributable to climate change; Raworth/McKibben/Hickel cited against Nordhaus-style growth economics
+
+### Files created
+
+- 10 new source summaries in `wiki/sources/`
+- 1 new wiki page: `wiki/biodiversity-land/solar-farms-pollinators.md`
+- 8 existing pages updated: `DRAFT - FACTS about Wind Energy.md`, `DRAFT - FACTS about Air Travel.md`, `DRAFT - FACTS about Clean & GREEN Hydrogen.md`, `ev-keep-old-car.md`, `Ocean-Based Carbon Removal - The Potential of Marine Algae.md`, `Environmental Impact of football world cups.md`, `heatwaves-and-sport.md`, `DRAFT - IRELAND  Emissions, Climate Plans.md`, `DRAFT - ai-data-centre-energy-crisis.md`, `FACTS about  DEGROWTH.md` (note: 10 pages touched, one miscount avoided by listing all here)
+- `wiki/index.md` — 10 new source rows, 1 new biodiversity-land row, updated descriptions on 9 existing rows (including two pre-existing gaps backfilled: Marine Algae and the `ev-keep-old-car` myth were not previously indexed); date bumped to 2026-08-26
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Offshore wind co-benefits cluster now spans three angles: biodiversity at Formosa (fixed-bottom, Taiwan) and Hywind (floating, Scotland), plus food production via the Danish seaweed multi-use case — all now cross-linked from `DRAFT - FACTS about Wind Energy.md`
+- Solar biodiversity cluster: the new pollinator page cross-links to the existing `solar-on-peatland.md`, together showing that solar's ecological impact depends on siting and management, not just the panels being there
+- World Cup heat cluster: FIFPRO's specific negotiated thresholds now tie together `Environmental Impact of football world cups.md`, `heatwaves-and-sport.md`, and the existing Wet-Bulb explainer
+- Aviation non-CO2 cluster: contrails move from a placeholder/afterthought to a fully sourced section in `DRAFT - FACTS about Air Travel.md`, cross-linked to the AI-emissions-mitigation page
+
+### Process notes
+
+- The routing pass this time required an Explore agent to read all 1,956 lines of the log and match paraphrased "Source file" references against actual raw filenames — a simple filename grep produced false negatives (e.g. the log's "World's Largest Sand Battery.md" vs the raw file "The World's Largest Sand Battery Is Now Online.md")
+- Two pre-existing index.md gaps were noticed and backfilled in passing (Marine Algae page, `ev-keep-old-car` myth) since both received substantial edits this batch — no broader index audit was attempted
+
+---
+
 ## 2026-08-04 ingest | 1 article + 2 own-research — Fondation de la mer interview, artificial reefs, France biomethane
 
 ### Routing decisions

@@ -118,7 +118,7 @@ Humans are destroying nature to overextract Crops,Timber and other materials, st
 > 85% of wetlands (which filter water and provide flood protection) and 50% of Coral reef  (which buffer stroms and are nureseries for life in ocean) are gone #wetlands 
 
 
-> Please also refer to [[DRAFT - Keynote Dr Chip FLETCHER]] where he also talks a lot about the impact Human had, Agriculture had, aNd the biodiversity conSequences. 
+> Please also refer to [Keynote: Dr Chip Fletcher](../../climate-science/Keynote%20Dr%20Chip%20FLETCHER.md) where he also talks a lot about the impact human activity and agriculture have had, and the biodiversity consequences. 
 
 
 ## 3. Uprouting Exploitation, Sowing Regeneration

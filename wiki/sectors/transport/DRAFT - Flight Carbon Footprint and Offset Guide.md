@@ -11,7 +11,7 @@ summary: "How is the Carbon Footprint of a flight is calculated, Results, Compar
 
 *==Source: https://www.offsetguide.org/understanding-carbon-offsets/air-travel-climate/passenger-climate-footprints/*== 
 
-Other references: [[DRAFT - Class 16 - Carbon Offset]]
+Other references: [Carbon Offsets: How They Work and Why They Often Fall Short](../../concepts/key-ideas/Carbon Offsets.md)
 
 ## How is the Carbon Footprint of a flight is calculated?
 It is relatively straightforward to calculate the CO2 emissions of a flight, as it is directly related to the amount of kerosene jet fuel (referred to as ‘jet fuel’) burnt. Yet, assigning the emissions to a single passenger requires taking into account several factors, the most important are:

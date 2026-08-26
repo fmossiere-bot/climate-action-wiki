@@ -39,7 +39,7 @@ For the roughly 60 participating countries — who together represent more than 
 
 ## June 2026 update: TAFF at the Bonn intersessional
 
-By the June 2026 UN climate intersessional in Bonn, the Santa Marta initiative had a working name — the **Transition Away From Fossil Fuels (TAFF)** coalition — and was quietly negotiating its future structures behind closed doors. Reporting by DW's Tim Schauenberg found that petrostates who had opposed phaseout language at [COP30 in Belém](../../legislation-policy/DRAFT - COP30.md) — Saudi Arabia, Iran, China, Russia, Tanzania and Senegal in particular — were becoming "on edge" about the plurilateral coalition growing outside the UNFCCC process.
+By the June 2026 UN climate intersessional in Bonn, the Santa Marta initiative had a working name — the **Transition Away From Fossil Fuels (TAFF)** coalition — and was quietly negotiating its future structures behind closed doors. Reporting by DW's Tim Schauenberg found that petrostates who had opposed phaseout language at [COP30 in Belém](../../legislation-policy/COP30.md) — Saudi Arabia, Iran, China, Russia, Tanzania and Senegal in particular — were becoming "on edge" about the plurilateral coalition growing outside the UNFCCC process.
 
 The **Iran war and the associated energy price shock** added momentum. UN climate chief **Simon Stiell** opened the Bonn talks by arguing that maintaining dependence on fossil fuels now meant "importing inflation and economic instability." IEA director **Fatih Birol** made the same point in economic terms: the current crisis has exposed the vulnerability of energy systems built on fragile fossil supply chains. A New Climate Institute review found the EU, Chile, Indonesia and Vietnam using the crisis to accelerate electrification, while Germany and several others fell back on tax relief for fossil fuels.
 
@@ -49,10 +49,10 @@ The most significant pushback on TAFF came from **African negotiators**. Lead ne
 
 ## Connected topics
 
-- [[DRAFT - COP30]] — the November 2025 summit where fossil fuel phaseout was blocked from the formal text, prompting this initiative
-- [[DRAFT - Paris Agreement - NDC - where are we 10 years later?]] — why NDCs alone are insufficient
-- [[DRAFT - FACTS About Fossil Fuel (Oil and Gaz) Industry]] — background on the industry being targeted
-- [[DRAFT - Global spending on subsidies that harm environment rises to $2.6tn]] — fossil fuel subsidies, a key issue at Santa Marta
+- [COP30](../../legislation-policy/COP30.md) — the November 2025 summit where fossil fuel phaseout was blocked from the formal text, prompting this initiative
+- [Paris Agreement - NDC - where are we 10 years later?](../../legislation-policy/Paris%20Agreement%20-%20NDC%20-%20where%20are%20we%2010%20years%20later%3F.md) — why NDCs alone are insufficient
+- [DRAFT - FACTS About Fossil Fuel (Oil and Gaz) Industry](../../solutions/energy-transition/DRAFT%20-%20FACTS%20About%20Fossil%20Fuel%20(Oil%20and%20Gaz)%20Industry.md) — background on the industry being targeted
+- [Global spending on subsidies that harm environment rises to $2.6tn](../../legislation-policy/Global%20spending%20on%20subsidies%20that%20harm%20environment%20rises%20to%20%242.6tn.md) — fossil fuel subsidies, a key issue at Santa Marta
 - [[IRELAND Emissions, Climate Plans]] — Ireland will co-host the next conference in Tuvalu
 - [[DRAFT - Renewable on Track to overtake Coal]] — the energy transition context
 - [[DRAFT - The Energy Supercycle is Unstoppable]] — why this coalition has economic momentum

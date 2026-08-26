@@ -76,7 +76,7 @@ These events were widely covered as remarkable. They are, in fact, precisely wha
 - [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
 - [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
 - [AMOC Collapse and Carbon Release](amoc-collapse-carbon.md)
-- [DRAFT - Class 5 - Local Impact and Extreme Events Attribution](DRAFT%20-%20Class%205%20-%20Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
+- [Local Impact and Extreme Events Attribution](Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
 
 ## Sources
 

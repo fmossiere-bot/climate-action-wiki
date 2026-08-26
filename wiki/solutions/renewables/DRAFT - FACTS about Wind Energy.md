@@ -2,10 +2,10 @@
 title: FACTS about Wind Energy
 category: solutions
 tags: ["#science", "#carbon", "#phaseout", "#renewables", "#biodiversity"]
-sources: ["Global Wind Energy Council 2022 report", "Frontiers in Marine Science (2026) — https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1733177/full", "EcoPortal, July 2026 — https://www.ecoportal.net/en/divers-went-check-offshore-wind-turbines/29373/"]
+sources: ["Global Wind Energy Council 2022 report", "Frontiers in Marine Science (2026) — https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1733177/full", "EcoPortal, July 2026 — https://www.ecoportal.net/en/divers-went-check-offshore-wind-turbines/29373/", "EcoPortal, 13 August 2026 — https://www.ecoportal.net/en/robot-inspected-underwater-components/32017/", "Karlsson et al., Wind Energ. Sci., 7, 801-814, 2022 — https://doi.org/10.5194/wes-7-801-2022"]
 created: 2026-06-01
-updated: 2026-07-22
-summary: "wind turbines global capacity 837 GW, offshore floating onshore, blade recycling, Sofia Siemens Gamesa recyclable blades, decommissioned wind turbine parking building, China wind cost 1/5 US, France wind energy, Formosa Wind Farm Taiwan 86 species reef fish, Miaoli County SCUBA 2017 2018 2025, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, hard vertical structure attraction production debate"
+updated: 2026-08-26
+summary: "wind turbines global capacity 837 GW, offshore floating onshore, blade recycling, Sofia Siemens Gamesa recyclable blades, decommissioned wind turbine parking building, China wind cost 1/5 US, France wind energy, Formosa Wind Farm Taiwan 86 species reef fish, Miaoli County SCUBA 2017 2018 2025, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, hard vertical structure attraction production debate, Hywind Scotland floating wind pilot park, Equinor, 121 forms of sea life, soft corals deep-sea stony corals, mooring lines suction anchors, robot submersible survey"
 ---
 
 ***Source***: Global Wind Energy Council: https://gwec.net/global-wind-report-2022/
@@ -180,3 +180,13 @@ Scientists still debate whether structures like these **produce new fish** or si
 - Parallel finding on land: [solar farms on rewetted peatland](../../biodiversity-land/solar-on-peatland.md) attracted more diverse bird species than nearby hay fields, but only when peat was rewetted first
 
 *Source: [Taiwan offshore wind reef fish (source summary)](../../sources/taiwan-offshore-wind-reef-fish-2026.md); Frontiers in Marine Science (2026); EcoPortal, 17 July 2026*
+
+## 2026: Floating Wind Gets the Same Result — Scotland's Hywind Pilot Park
+
+A second, separate case now extends the reef effect to **floating** offshore wind, the technology that lets turbines move into deeper water where fixed pylons cannot reach. A remote-controlled submersible robot inspected 41 underwater components across the five floating turbines of **Equinor's Hywind Scotland Pilot Park**, 12 miles off the Scottish coast, anchored by mooring cables and suction anchors rather than seabed pylons.
+
+Biological researchers logged **121 distinct forms of sea life** on the mooring lines, steel frames and anchors: dense clusters of orange starfish, sea urchins and plumose sea anemones near the surface; squat lobsters, brown crabs and large fish sheltering deeper down; and, most notably, **soft corals and possible deep-sea stony corals** — slow-growing, sensitive species — on the frame itself. Together the structures form an artificial reef reaching roughly **400 feet down**, and, as with Formosa, the site's exclusion of bottom-trawling leaves the reef undisturbed.
+
+This is a colder, North Atlantic, deep-water case rather than Formosa's shallow sandy seabed, and it is floating rather than fixed-bottom — so the two findings together suggest the reef effect is not limited to one turbine technology, though each still rests on a single site and needs multi-year follow-up to confirm.
+
+*Source: [Hywind Scotland robot reef survey (source summary)](../../sources/hywind-scotland-robot-reef-survey-2026.md); Karlsson et al., Wind Energ. Sci., 2022; EcoPortal, 13 August 2026*

@@ -45,4 +45,4 @@ A news article reporting the conclusion of a two-day international climate confe
 ## Wiki pages created or updated from this source
 
 - [[santa-marta-fossil-fuel-conference-2026]] (new — solutions/energy-transition)
-- [[DRAFT - COP30]] (updated — legislation-policy)
+- [COP30](../legislation-policy/COP30.md) (updated — legislation-policy)

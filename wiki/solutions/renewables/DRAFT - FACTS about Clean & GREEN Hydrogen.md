@@ -3,8 +3,8 @@ title: FACTS about Clean & Green Hydrogen
 category: solutions
 tags: [alternative-fuels, science, carbon]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "What is Green Hydrogen, Green hydrogen in the context of Storage of energy, Green Hydrogen at hand, Getting more  Hydrogen from Plastic Waste, Getting Geologic Hydrogen from the ground, Biden's administration pledge $7B to boost Hydrogen Hubs, Spain investing massively in Andalucia on Green Hydrogen, France hit the Jackpot with the discovery of massive reserve of Hydrogen, Why, Hydrogen, Clean hydrogen, Green hydrogen, Blue Hydrogen, natural hydrogen, white hydrogen, hydrogen production, energy markets"
+updated: 2026-08-26
+summary: "What is Green Hydrogen, Green hydrogen in the context of Storage of energy, Green Hydrogen at hand, Getting more  Hydrogen from Plastic Waste, Getting Geologic Hydrogen from the ground, Biden's administration pledge $7B to boost Hydrogen Hubs, Spain investing massively in Andalucia on Green Hydrogen, France hit the Jackpot with the discovery of massive reserve of Hydrogen, Why, Hydrogen, Clean hydrogen, Green hydrogen, Blue Hydrogen, natural hydrogen, white hydrogen, hydrogen production, energy markets, PosHYdon, North Sea, Netherlands, Q13a-A platform, offshore gas platform reuse, offshore wind electrolysis, Eni Energy Netherlands"
 ---
 
 #alternative-fuels #green-hydrogen 
@@ -176,6 +176,14 @@ And it is not just France.
 > - The study shows that the conditions for trapping hydrogen exist in many parts of the world, making this a truly global opportunity.
 > - This new research could help industries discover and tap into natural hydrogen reserves, offering a cleaner alternative to current hydrogen production methods that rely on fossil fuels.
 > 
+
+## 2026: The Netherlands Reuses an Active Gas Platform to Make Green Hydrogen at Sea
+
+The **PosHYdon** pilot project produced its first batch of green hydrogen in late July 2026 on the **Q13a-A platform**, an active natural gas platform run by Eni Energy Netherlands about 13km off Scheveningen in the Dutch North Sea. It is the world's first project to combine offshore wind power, green hydrogen production and ongoing natural gas extraction on the same platform — the first "fully electrified production platform" in the Dutch North Sea sector.
+
+The process: offshore wind electricity converts seawater into demineralised water, which is then split into hydrogen via electrolysis, while the platform's gas extraction continues in parallel. Rather than building new infrastructure, the project **reuses an existing offshore gas platform**, which partners describe as a "watershed moment" for the wider energy transition. The consortium (Eni, TNO, Emerson and others, backed by the Dutch Ministry of Economic Affairs and Climate Policy) is now gathering real operational data on cost, maintenance and performance to help offshore hydrogen production scale up.
+
+*Source: [PosHYdon (source summary)](../../sources/poshydon-north-sea-green-hydrogen-forbes-2026.md); Forbes, Gaurav Sharma, 11 August 2026*
 
 
 

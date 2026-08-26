@@ -11,7 +11,7 @@ When we look at global emissions, we often look at purely CO2 emissions, then co
 
 What are CO2 emissions and GHG? 
 [[Facts about the Ozone Layer]]
-[[DRAFT - Methane emissions role in Global Warming]]
+[Methane's Role in Global Warming](../../climate-science/Methane%20emissions%20role%20in%20Global%20Warming.md)
 
 There are different ways to look at emissions: 
 - By country: top 10 countries accout for 

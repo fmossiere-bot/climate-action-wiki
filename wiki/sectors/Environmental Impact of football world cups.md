@@ -2,10 +2,10 @@
 title: "Environmental Impact of Football World Cups"
 category: sectors
 tags: ["#sport", "#carbon", "#aviation", "#adaptation"]
-sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assessment", "Reuters, 10 June 2026 — https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/", "Outrage+Optimism podcast, June 2026", "We Don't Have Time, Markus Lutteman, June 2026 — https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95"]
+sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assessment", "Reuters, 10 June 2026 — https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/", "Outrage+Optimism podcast, June 2026", "We Don't Have Time, Markus Lutteman, June 2026 — https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95", "Covering Climate Now, 23 July 2026 — https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/"]
 created: 2026-06-01
-updated: 2026-06-29
-summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes"
+updated: 2026-08-26
+summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes, FIFPRO, wet-bulb globe temperature thresholds, Telemundo, Vanessa Hauc, Enzo Fernandez, Miami heat, Kansas City heat, tennis cooling breaks, LA Marathon"
 ---
 
 While recent host countries focused heavily on building massive physical infrastructure, the upcoming 2026 World Cup shifts the carbon burden heavily onto **geographic scale and transportation**.
@@ -69,6 +69,12 @@ Physiologists point out that 75% of energy used during exercise is converted to 
 
 The Outrage+Optimism podcast argued that the hydration breaks should be called "extreme heat breaks" or "climate breaks" to make the link explicit for a global audience of billions — but noted that most commentary is unlikely to make that connection. As Christiana Figueres put it: "Climate change is now outpacing athletes’ ability to adapt."
 
+The specific threshold behind the breaks traces back to **FIFPRO**, the players' union, which commissioned a scientific study on extreme heat after brutal conditions at the 2025 FIFA Club World Cup, where a referee fainted mid-match and Argentina's Enzo Fernandez described lying on the ground "really dizzy," calling play "very dangerous." FIFPRO recommended breaks at a WBGT of **26°C (~79°F)** and suspending play entirely at **28°C (~82°F)**; FIFA wanted breaks only at **32°C (~90°F)**. Hydration breaks were the compromise. In practice, conditions during the tournament frequently exceeded FIFPRO's own threshold: Argentina vs Cape Verde in Miami reached a heat-index of roughly 101°F, and Colombia vs Ghana in Kansas City hit 88°F at 70% humidity the same evening. Tennis (cooling breaks above 30°C WBGT) and the 2026 LA Marathon (runners allowed to officially finish at mile 18 rather than 26 due to heat) show the same adaptation playing out across other sports.
+
+Media coverage of the climate link was inconsistent. Covering Climate Now singled out Telemundo's environment reporter Vanessa Hauc as a rare example of US broadcast coverage that named the cause directly on air, tracing the heat back to "the way we produce energy, primarily by burning oil, coal, and natural gas" — while noting most other outlets covered the breaks as a TV-money story without the climate context.
+
+Source: [World Cup hydration breaks (source summary)](../sources/world-cup-hydration-breaks-fifpro-ccnow-2026.md); Covering Climate Now, 23 July 2026
+
 The tournament also exposed the weakness of US public transport. New Jersey Transit surge-priced return tickets from central New York to MetLife Stadium to $150, up from under $15, before scaling back after public pressure. Many international visitors expected European-style public transport and found limited infrastructure and high prices instead.
 
 ## FIFA, Fossil Fuels, and Sportswashing
@@ -100,7 +106,7 @@ Meanwhile, back on local pitches, the consequences of climate change are already
 ## Connected topics
 
 - [Home Cooling and Heatwaves](home-cooling-heatwaves.md)
-- [DRAFT - Wet-Bulb explained](DRAFT%20-%20Wet-Bulb%20explained.md)
+- [Wet-Bulb explained](../climate-science/Wet-Bulb%20explained.md)
 - [DRAFT - FACTS about Air Travel](DRAFT%20-%20FACTS%20about%20Air%20Travel.md)
 
 ## Sources

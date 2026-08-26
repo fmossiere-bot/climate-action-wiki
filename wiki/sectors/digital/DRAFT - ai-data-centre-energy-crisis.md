@@ -8,8 +8,8 @@ tags:
   - energy
   - united-kingdom
 created: 2026-06-06
-updated: 2026-07-28
-summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055
+updated: 2026-08-26
+summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth
 ---
 
 # AI Data Centres and the Energy Crisis
@@ -116,6 +116,16 @@ If two-phase cooling scales as intended, the AI buildout becomes a **drinking-wa
 
 *Source: [PFAS in datacentre cooling (source summary)](../../sources/pfas-datacentre-cooling-guardian-2026.md); Guardian, Tom Perkins, 27 July 2026.*
 
+## August 2026: Two Datacentres, More Emissions Than ExxonMobil's Whole UK Operation
+
+Analysis by non-profit **Foxglove** puts a sharp number on the UK gas-for-datacentres trend already documented above: two planned English sites, **Wapseys Wood** (Buckinghamshire) and **Quest Park** (Bedfordshire), will together use 1.3GW of power and emit more than **4.5 million tonnes of CO2 a year** once fully operational — more than the whole of **ExxonMobil's UK emissions** (3.9 million tonnes in 2023, per Ember).
+
+Both sites are seeking **on-site gas-fired power stations** rather than wait years for a grid connection — one of **315 datacentres** currently queued for UK grid access, representing 73GW of demand, almost double the UK's entire peak winter demand. Both are also among the first projects fast-tracked through the **Nationally Significant Infrastructure Project (NSIP)** regime, which bypasses local planning authorities in favour of central government sign-off. The government disputed Foxglove's figures as assuming unrealistic 100% utilisation; Foxglove and Friends of the Earth say that assumption follows standard industry practice and reflects the industry's actual operating goal.
+
+Caroline Lucas called the projected emissions "absolutely horrifying"; ClientEarth's Sam Hunter-Jones argued "every megawatt powering a datacentre... is a megawatt that could not be used to replace fossil fuels elsewhere."
+
+*Source: [UK datacentres vs ExxonMobil (source summary)](../../sources/uk-datacentres-exxonmobil-emissions-guardian-2026.md); Guardian, Pippa Neill, 25 August 2026.*
+
 ## Connected topics
 - [IRELAND Datacentre Dilemma](../../ireland-hub/IRELAND Datacentre Dilemna.md)
 - [AI Emissions and Corporate Responsibility](../digital/AI Emissions and Corporate Responsibility.md)
@@ -130,6 +140,7 @@ If two-phase cooling scales as intended, the AI buildout becomes a **drinking-wa
 - The Guardian, Aisha Down, 26 June 2026 — https://www.theguardian.com/environment/2026/jun/26/slough-is-like-an-experiment-europes-largest-datacentre-hub-leaves-town-sweltering
 - Cambridge preprint, Marinoni et al., 2026 — https://arxiv.org/pdf/2603.20897
 - The Guardian, Pippa Neill, 21 July 2026 — https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says
+- The Guardian, Pippa Neill, 25 August 2026 — https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil
 - Water UK written evidence to MPs (July 2026) — https://committees.parliament.uk/writtenevidence/164766/html/
 - Affinity Water written evidence to MPs (May 2026) — https://committees.parliament.uk/writtenevidence/166455/pdf/
 - RTÉ News, 25 July 2026 — https://www.rte.ie/news/2026/0725/1585032-meta-pledge/ (Meta quits RE100)

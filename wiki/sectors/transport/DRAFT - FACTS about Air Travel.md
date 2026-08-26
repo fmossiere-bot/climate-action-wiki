@@ -3,8 +3,8 @@ title: FACTS about Air Travel
 category: sectors
 tags: [aviation, carbon, science]
 created: 2026-06-01
-updated: 2026-06-11
-summary: "Progress According to the ClimateActionTracker for the Aviation sector, IATA 2026 net zero admission, SAF production gap, CORSIA undermined, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%"
+updated: 2026-08-26
+summary: "Progress According to the ClimateActionTracker for the Aviation sector, IATA 2026 net zero admission, SAF production gap, CORSIA undermined, Countries actions - EU example, AIRBUS - starting a transition, Recommendations for Government actions, What about Carbon Credits, what is CORSIA, Where Emissions come from, Carbon Calculators, Reducing international aviation, Air traffic is growing and will grow more, Flying is not Equal, Our perception/understanding of its impact is often very wrong, Even if we know, are we willing to reduce our flights, But ... People start to care, The Role of Corporate Travel, SAF, Solution - efficiency and reducing contrail thanks to AI, Carbon Offsets and Flying, Aviation is less ', hard-to-abate, ' and 'not-really-trying-to-abate', CORSIA, global climate scheme for the aviation sector, International Civil Aviation Organization (ICAO), CO₂ emissions from international flights, Buying carbon offsets, Why CORSIA exists, global, harmonised approach, How CORSIA works, Baseline emissions, 2019 only, Monitoring & reporting, monitor, report, and verify (MRV), Offsetting, eligible carbon credits, Phases of CORSIA, Pilot phase (2021–2023), First phase (2024–2026), Second phase (2027–2035), What emissions are covered, Only international flights, emissions growth, What counts as an eligible offset, specific programmes and vintages, Common criticisms, offsets, non-CO₂ impacts, Why this matters (especially in Europe & Ireland), alongside, both, about inequality and how solving our climate issue, Original research, decarbonization within corporate air travel, business travel spending is projected to rebound, failing to measure, report, or set credible targets, significant and rapid cuts, 15–20%, 25–30%, Operation Blue Skies, contrail avoidance, Shanwick airspace, Google AI contrail forecasting, NATS, radiative forcing"
 ---
 
 ## 2026 Update: The Industry Admits the 2050 Target is Slipping
@@ -206,7 +206,14 @@ Source: [https://www.youtube.com/watch?v=poFf8SkYQIo](https://www.youtube.com/wa
 
 
 #### Contrails
-{Insert content about Contrails here}
+Contrails form when hot jet exhaust meets cold high-altitude air and triggers ice crystals. Most vanish quickly, but in cold, humid conditions they persist and spread into cloud that traps outgoing heat. They are estimated to cause **around a third of aviation's total climate warming impact** — roughly as much as the CO2 from burning the fuel itself.
+
+A £5m UK trial called **Operation Blue Skies** (starting November 2026) is the first attempt to tackle this across an entire airspace rather than one airline at a time. Google, the UK government, the Met Office, NATS and researchers at Cambridge and Imperial College London are using AI-generated forecasts of atmospheric conditions to predict where persistent, warming contrails will form over the **Shanwick Oceanic airspace** (eastern North Atlantic, ~5% of global contrail warming, concentrated November-February). Air traffic controllers will then instruct pilots to shift altitude by up to 2,000 feet — the kind of routine adjustment already used to dodge turbulence.
+
+The trade-off is small: re-routing costs about 100kg of extra fuel per aircraft (a CO2 penalty of under 1%), against a contrail warming saving measured in tonnes or tens of tonnes. Earlier single-airline trials of the same AI forecasts cut contrail formation by 50-70%.
+
+Source: [Operation Blue Skies (BBC, source summary)](../../sources/contrails-operation-blue-skies-bbc-2026.md); [Operation Blue Skies (New Scientist, source summary)](../../sources/contrails-operation-blue-skies-newscientist-2026.md)
+
 ### Carbon Calculators
 {Insert Content from NS article on Carbon Calculators}
 
@@ -326,7 +333,7 @@ There is a lot to unpack about SAF, and you can read much more details about it 
 
 ## Solution - efficiency and reducing contrail thanks to AI
 
-Flight carbon calulator and the work Google is doing with AI and imaginery from satelliote to try to solve one of the beggiest impact - constrails or radiative forcing from clouds created by flights. going unnocited, but estimated at 35%, concentrated to 10% of flights and could be solved by seom re-routing. [[DRAFT - FACTS about AI, Emissions impacts and mitigation potential#AI and Flying]]
+Flight carbon calculator and the work Google is doing with AI and satellite imagery to tackle one of aviation's biggest impacts: contrails, the radiative forcing from ice clouds created by flights — often overlooked, but estimated at around a third of aviation's warming, concentrated in a small share of flights, and largely fixable through re-routing. This moved from concept to a funded, dated real-world trial in 2026: **Operation Blue Skies**, a £5m UK programme testing AI-forecast contrail avoidance across the whole Shanwick North Atlantic airspace from November 2026. See the [Contrails section above](#Contrails) for the full detail. [[DRAFT - FACTS about AI, Emissions impacts and mitigation potential#AI and Flying]]
 
 
 ## Carbon Offsets and Flying

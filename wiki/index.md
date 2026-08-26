@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-08-04
+Last updated: 2026-08-26
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -89,6 +89,17 @@ Summaries of every ingested source file.
 | [[sand-battery-finland-pornainen-2026]] | OilPrice.com (Jul 2026): world's largest commercial sand battery online in Pornainen, Finland — 100 MWh in 2,000 tonnes soapstone at 400-600°C; no rare earths; 250 MWh Vääksy follow-up in 2027 |
 | [[solomon-siren-kale-island-smithsonian-2026]] | Smithsonian Magazine (Jul 2026): Jason deCaires Taylor's "Solomon Siren" installed at Kale Island — 50,000 m² Solomon Islands island lost in 2016; 26,000+ Solomon Islanders relocated since 2008; pH-neutral cement designed for coral colonisation |
 | [[anais-masse-fondation-mer-ecologie360-2026]] | Écologie 360 (Jun 2026): interview with Anaïs Massé, scientific director of the Fondation de la mer — Mediterranean 20% faster warming, Miquelon relocation (first for France), 18 t plastic/min, MPA effectiveness three-factor test, BBNJ / Ocean COP 2027 |
+| [[hywind-scotland-robot-reef-survey-2026]] | EcoPortal (Aug 2026): robot survey of Equinor's Hywind Scotland floating wind pilot park finds 121 forms of sea life, including soft and possible deep-sea stony corals, on the mooring lines and anchors |
+| [[contrails-operation-blue-skies-bbc-2026]] | BBC (Aug 2026): Operation Blue Skies — £5m AI trial to reroute North Atlantic flights around warming contrails, worth ~a third of aviation's climate impact |
+| [[contrails-operation-blue-skies-newscientist-2026]] | New Scientist (Aug 2026): companion coverage of the same Operation Blue Skies contrail-avoidance trial, with added technical detail from Contrails.org |
+| [[poshydon-north-sea-green-hydrogen-forbes-2026]] | Forbes (Aug 2026): PosHYdon produces the Netherlands' first green hydrogen on an active North Sea gas platform, reusing offshore infrastructure with wind-powered electrolysis |
+| [[scrap-petrol-car-for-ev-newscientist-2026]] | New Scientist (Aug 2026): Campbell & Geyer study — scrapping even a brand-new petrol car for an EV cuts lifetime emissions in almost all cases, except low-mileage or coal-heavy grids |
+| [[seaweed-offshore-wind-denmark-oceanographic-2026]] | Oceanographic Magazine (Aug 2026): Aarhus University shows offshore wind farms can double as sugar kelp cultivation sites — no extra marine space, nitrogen/phosphorus removal, food and biorefining uses |
+| [[french-solar-farms-pollinators-2026]] | The Economic Times (Aug 2026): 20 French solar parks — pollinator activity fell 76% and plant-pollinator interactions 86% under panels; land management (mowing vs grazing) matters as much as shading |
+| [[world-cup-hydration-breaks-fifpro-ccnow-2026]] | Covering Climate Now (Jul 2026): FIFPRO's negotiated wet-bulb thresholds behind the 2026 World Cup's hydration breaks; Telemundo's Vanessa Hauc as a rare example of on-air climate-linked coverage |
+| [[ireland-climate-plan-progress-thejournal-2026]] | TheJournal.ie (Jul 2026): Ireland has completed only 10 of 74 committed climate measures across the 2023-2025 Climate Action Plans; neither agriculture-specific commitment delivered |
+| [[uk-datacentres-exxonmobil-emissions-guardian-2026]] | Guardian (Aug 2026): Foxglove analysis — two planned English datacentres (Wapseys Wood, Quest Park) will emit more CO2 than the whole of ExxonMobil's UK operations |
+| [[guardian-extreme-weather-qa-watts-niranjan-2026]] | Guardian (Aug 2026): Watts & Niranjan reader Q&A — wildfire smoke deaths (1.5M/yr globally), 40-70% heatwave death toll attribution, degrowth/doughnut economics, reasons for hope |
 
 ---
 
@@ -97,22 +108,22 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 
 | Page | Description |
 |------|-------------|
-| Class 1 - What is Climate Change | Terra.do Class 1 notes |
-| Class 2 - The Work of Climate Science | Terra.do Class 2 notes |
-| Class 3 - Emissions and the Global Carbon Cycle | Terra.do Class 3 notes |
-| Class 4 - Global Impact of Climate Change | Terra.do Class 4 notes |
-| Class 5 - Local Impact and Extreme Events Attribution | Terra.do Class 5 notes |
+| [[What is Climate Change]] | Earth's energy balance, the greenhouse effect, radiative forcing, and how we know human activity is driving today's warming |
+| [[The Work of Climate Science]] | How scientists observe the climate, correlation vs causation, climate models and sensitivity, the IPCC/UNFCCC/COP, and AR6's headline findings and equity critique |
+| [[Emissions and the Global Carbon Cycle]] | GWP and CO2e explained, the methane question, why flat emissions still add warming, carbon stocks/sinks/sources, and why carbon sinks are becoming less reliable |
+| [[Global Impact of Climate Change]] | Why 1.5°C matters, whether warming stops at net-zero, today's Arctic/ocean/glacier/sea-level impacts, the remaining carbon budget, and tipping points including Antarctica and coral reefs |
+| [[Local Impact and Extreme Events Attribution]] | Attribution science and its limits, AR6 confidence by hazard, disaster vulnerability vs exposure, food/migration/infrastructure ripple effects, and case studies on wet-bulb survivability, Delhi, Sicily and Catalunya |
 | Class 7 - Mental Models | Terra.do Class 7 notes |
-| Class 11 - En-ROADS | Climate policy simulator |
-| Energy 101 - Technical and Quantitative Basics | Quantitative energy fundamentals |
+| [[En-ROADS Climate Policy Simulator]] | Climate Interactive's systems-thinking policy simulator, with links to the tool, user guide and training (archived) |
+| [[Energy 101 - Technical and Quantitative Basics]] | Energy vs power, efficiency and capacity factor, load curves and the "duck curve," and how LCOE is used to compare the cost of different generation technologies |
 | How about Volcanoe's Sulphur impact | Volcanic cooling effects on climate |
 | IPCC 10 findings 2023 | Key IPCC AR6 findings |
-| Keynote Dr Chip FLETCHER | Sea level rise keynote |
-| Keynote from Dr Kate Marvel | Climate science keynote |
-| Lab 1 - GWP | Global warming potential calculations |
-| Methane emissions role in Global Warming | Methane as a climate driver |
+| [[Keynote Dr Chip FLETCHER]] | The greenhouse effect, water vapour feedback, heat/humidity extremes making land uninhabitable, and water and food security impacts |
+| [[Keynote from Dr Kate Marvel]] | Cloud feedback as a major source of climate sensitivity uncertainty, the Sherwood cloud-feedback study, CERN's Cloud experiment, and the role of aerosols in cloud formation |
+| [[Global Warming Potential explained]] | Why methane's GWP is 30-80x CO2's: wavelength absorption, concentration saturation, and the MODTRAN/Slugulator interactive climate models |
+| [[Methane emissions role in Global Warming]] | Why methane punches above its weight, super-emitter leaks (Turkmenistan), the IEA's 2024 Global Methane Tracker, COP28/Global Methane Pledge, hydropower's hidden methane, and permafrost methane risk |
 | OZONE Layer FACTS | Ozone layer science |
-| Wet-Bulb explained | Wet-bulb temperature and human survivability |
+| [[Wet-Bulb explained]] | What wet-bulb temperature measures, the 35°C theoretical and ~31°C practical survivability thresholds, and the Probable Futures mapping tool |
 | [[amoc-collapse-carbon]] | AMOC collapse could release 640 billion tonnes of CO₂; already past the 350 ppm irreversibility threshold — **updated** with monitoring defunding crisis and 10× faster Europe scenario |
 | [[wildfires-climate-feedback]] | **NEW** — Wildfires as climate feedback: Europe's 2025 record fires + Arctic fires burning 5,000-year-old carbon; models underestimate emissions |
 | [[indirect-greenhouse-gases]] | Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
@@ -168,7 +179,7 @@ Funding the transition — investment, risk, green banking.
 | Emission Gap Report 2024 - UNEP | UNEP's annual emissions gap analysis |
 | FACTS - Climate "Myth Busters" & Back Pocket stories | Rebuttals to common climate myths |
 | FACTS About Fossil Fuel (Oil and Gaz) Industry | The fossil fuel industry in numbers |
-| FACTS about DEGROWTH | Degrowth as an economic concept |
+| FACTS about DEGROWTH | Degrowth as an economic concept — **updated** August 2026 with a Guardian Q&A critique of GDP-growth economics (Watts & Niranjan; Raworth, McKibben, Hickel, Nordhaus) |
 | FACTS about Biomass | Biomass energy explained |
 | FACTS about Circular Economy | Circular economy principles |
 | FACTS on EVERYTHING - Under the Sky we Make | Broad emissions overview |
@@ -259,7 +270,7 @@ Funding the transition — investment, risk, green banking.
 | FACTS about AI, Emissions impacts and mitigation potential | AI's climate footprint and potential |
 | [[DRAFT - AI Emissions and Corporate Responsibility]] | AI emissions source breakdown, Jevons Paradox, vendor procurement, measurement standards |
 | [[Data Centre environmental footprint]] | US data centre water and carbon footprints; location as the biggest lever (Siddik et al. 2021) |
-| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island, July 2026 Water UK evidence ("fatally flawed" forecasts, 125 datacentres in Affinity region), Meta's RE100 exit, and July 2026 PFAS "waterless" cooling controversy (Chemours Opteon 2P50, ECHA classifies TFA breakdown as hazardous) |
+| [[DRAFT - ai-data-centre-energy-crisis]] | UK and Ireland: grid congestion forcing gas use, emissions 100× larger than estimated, hidden household costs — **updated** with Slough heat island, July 2026 Water UK evidence ("fatally flawed" forecasts, 125 datacentres in Affinity region), Meta's RE100 exit, July 2026 PFAS "waterless" cooling controversy, and August 2026 Foxglove analysis finding two planned UK datacentres will out-emit ExxonMobil's entire UK operations |
 | [[Underwater Data Centres powered by offshore winds  in China]] | **NEW** — World's first underwater data centre off Shanghai: wind-powered, no freshwater, 90%+ less land use |
 | [[Ecosia- The Search Engine That Plants Trees]] | Ecosia: tree-planting search engine; carbon negative, 250m trees planted — **updated** with Climate Nobel Prize campaign (€1m endowment, Nobel Foundation lobbying) |
 | FACTS about Cryptocurrency and the environment | Crypto energy use |
@@ -286,10 +297,10 @@ Funding the transition — investment, risk, green banking.
 
 | Page | Description |
 |------|-------------|
-| [[Environmental Impact of football world cups]] | Carbon footprint of World Cups 2018–2026; heat risk (2× 1994), mandatory heat breaks; **updated** with FIFA-Aramco sportswashing, SGR 30M-tonne finding, 2034 Saudi hosting |
+| [[Environmental Impact of football world cups]] | Carbon footprint of World Cups 2018–2026; heat risk (2× 1994), mandatory heat breaks; **updated** with FIFA-Aramco sportswashing, SGR 30M-tonne finding, 2034 Saudi hosting, and August 2026 detail on FIFPRO's negotiated wet-bulb thresholds and Telemundo's climate-linked coverage |
 | Environmental Impact of the Paris Olympics | Paris 2024 Olympics environmental assessment |
 | [[formula-1-sustainability-2026]] | Formula 1 down 35% on 2018 carbon baseline; SAF mandatory from 2026; net zero by 2030 target on track |
-| [[heatwaves-and-sport]] | **NEW** — Heatwaves and sport as a two-way problem: heat health risk (athletes, humidity, wet-bulb), major-event emissions (2026 World Cup ~7.8 Mt CO2), fossil fuel sponsorship, calendar rethink |
+| [[heatwaves-and-sport]] | Heatwaves and sport as a two-way problem: heat health risk (athletes, humidity, wet-bulb), major-event emissions (2026 World Cup ~7.8 Mt CO2), fossil fuel sponsorship, calendar rethink — **updated** August 2026 with FIFPRO's negotiated wet-bulb thresholds |
 
 ### Transport (`wiki/sectors/transport/`)
 
@@ -297,7 +308,7 @@ Funding the transition — investment, risk, green banking.
 |------|-------------|
 | CARS Life Cycle Emissions - EV vs Combustion | EV vs ICE full lifecycle comparison |
 | [[smaller-evs-better]] | **NEW** — Smaller EVs are better: 2/3 of BEV models now SUVs/pickups (up from 1/3 in 2017); larger EVs use 20% more energy, need more critical minerals, 45% higher pedestrian fatality risk; France/Norway/Paris policy tools |
-| FACTS about Air Travel | Aviation emissions |
+| FACTS about Air Travel | Aviation emissions — **updated** August 2026 with Operation Blue Skies, the £5m AI trial re-routing North Atlantic flights around warming contrails |
 | FACTS about Energy for Transport | Transport energy overview |
 | FACTS about Tyres | Tyre production and emissions |
 | Flight Carbon Footprint and Offset Guide | How to account for flights |
@@ -319,6 +330,7 @@ Funding the transition — investment, risk, green banking.
 | Methane Digester - Project Drawdown 28 | Anaerobic digestion solution — **updated** with 2026 California study on leaks, perverse herd-size incentives, and ammonia pollution swapping |
 | Methane-eating bacteria are ready to capture landfill emissions | Biological methane capture |
 | Ocean Carbon Removal solutions | Ocean-based carbon removal |
+| [[Ocean-Based Carbon Removal - The Potential of Marine Algae]] | Seaweed and kelp as carbon removal — sequestration potential, permanence challenges, equity questions — **updated** August 2026 with Danish research on growing sugar kelp between offshore wind turbines |
 
 ### Electrification (`wiki/solutions/electrification/`)
 
@@ -376,10 +388,10 @@ Funding the transition — investment, risk, green banking.
 | FACTS about BLUE energy and Hydropower | Hydropower data |
 | FACTS about Biomass | Biomass energy |
 | [[france-biomethane-boom]] | **NEW** — France's biomethane industry: 820+ farm and industrial digesters, 15.9 TWh installed (3.9% of national gas), Ademe says 6× less CO2 than fossil gas; Shell (Nature Energy, Burgundy 230 GWh), TotalEnergies (BioBéarn), Engie, Waga Energy (landfill), Sublime Énergie (on-farm liquefaction); 2030 target 50 TWh; feedstock ceiling ~20% of gas demand |
-| FACTS about Clean & GREEN Hydrogen | Green hydrogen |
+| FACTS about Clean & GREEN Hydrogen | Green hydrogen — **updated** August 2026 with PosHYdon, the Netherlands' first green hydrogen produced on an active North Sea gas platform |
 | FACTS about NUCLEAR energy | Nuclear power data |
 | FACTS about Solar Energy | Solar energy data |
-| FACTS about Wind Energy | Wind energy data — **updated** July 2026 with Formosa Wind Farm (Taiwan): 69 turbines, 86 reef fish species not previously recorded; biodiversity co-benefit of offshore wind |
+| FACTS about Wind Energy | Wind energy data — **updated** July 2026 with Formosa Wind Farm (Taiwan): 69 turbines, 86 reef fish species not previously recorded; biodiversity co-benefit of offshore wind. **Updated** August 2026 with a second, floating-wind case: Equinor's Hywind Scotland pilot park, 121 forms of sea life including corals |
 | First Cargo ship running on BioMethanol | Bio-methanol shipping |
 | First Osmotic Power Plants | Osmotic / salinity gradient energy |
 | Geothermal energy | Geothermal power — **updated** July 2026 with three new routes: EGS (Pohang M5.5 quake risk, Iceland's slow-cooling mitigation), AGS closed-loop (Eavor Geretsried Germany, China Huaneng supercritical CO2), superhot rock (Iceland Deep Drilling, Quaise millimetre-wave); IEA's 150× global electricity potential |
@@ -402,7 +414,8 @@ Funding the transition — investment, risk, green banking.
 | FACTS about Wetlands | Wetland ecosystems and climate — **updated** July 2026 with the Copenhagen 10-metre European Wetland Types map (38 countries, *Nature* study); ~5 Gt CO2 already released from degraded wetlands |
 | FACTS about the Ocean | Ocean health data |
 | [[mangrove-forests-recovery]] | **NEW** — Mangrove forests staging a comeback: world gains more than it loses since 2010 |
-| [[solar-on-peatland]] | **NEW** — Solar farms on rewetted peatland: triple win of clean energy, carbon storage and biodiversity — but drained-peat solar can be a net carbon emitter |
+| [[solar-on-peatland]] | Solar farms on rewetted peatland: triple win of clean energy, carbon storage and biodiversity — but drained-peat solar can be a net carbon emitter |
+| [[solar-farms-pollinators]] | **NEW** — 20 French solar parks: pollinator activity fell 76% and plant-pollinator interactions 86% under panels; grazing hurts pollinators more than mowing; wildflower-meadow design nearly doubles bumble bee numbers |
 | [[Ocean Based Climate Solutions]] | **NEW** — Ocean climate solutions ranked: offshore wind top, coastal wetland protection strong, novel mCDR uncertain, some not recommended |
 | OCEAN - Book Notes | Book notes on ocean ecosystems |
 | [[why-bees-matter]] | **NEW** — Why bees matter: pollinators, food system dependence, rooftop hive myths, what actually helps |
@@ -489,7 +502,7 @@ Funding the transition — investment, risk, green banking.
 |------|-------------|
 | Avg Carbon Footprint in IRELAND | Irish average carbon footprint |
 | Cool Irish Companies | Irish sustainability leaders |
-| IRELAND Emissions, Climate Plans | Ireland's overall climate plans |
+| IRELAND Emissions, Climate Plans | Ireland's overall climate plans — **updated** July 2026 with a progress report finding only 10 of 74 committed climate measures delivered since 2023 |
 | IRELAND - Climate Change in the Irish Mind | Irish public opinion on climate |
 | IRELAND Climate Adaptation | Ireland's adaptation measures — **updated** with Dublin Bay sea level rising 7–8 mm/yr, planned retreat, €230m East Coast Railway Protection, decarbonising zones |
 | IRELAND Data Centre Dilemna | Ireland's data centre energy problem — **updated** with Dublin city 7% and south county 46% emissions shares, SDCC nationwide ban motion |
@@ -527,6 +540,7 @@ Common climate myths and misleading claims, one page per claim. Also generate th
 | [[evs-will-break-the-grid]] | **NEW** — "EVs will break the grid." Verdict: false. National Grid: peak rises 25-29% if all UK cars electric; UK was already at that in 2005; smart charging + V2G solve it |
 | [[evs-catch-fire-all-the-time]] | **NEW** — "EVs catch fire all the time." Verdict: false. 19× less often than petrol; but harder to extinguish (needs fire-service training) |
 | [[evs-still-pollute]] | **NEW** — "EVs pollute just as much as petrol cars." Verdict: mostly false. Eliminates tailpipe NOx/PM2.5; slightly worse on tyre wear + road dust because heavier |
+| [[ev-keep-old-car]] | "Keeping my old car running is greener than buying a new EV." Verdict: false. 14-year-old petrol car ≈45t CO2 vs 14t for a new Tesla Model Y; breaks even in ~20-32k miles — **updated** August 2026: 2026 US modelling finds the same holds even for a brand-new petrol car |
 | [[nuclear-too-dangerous]] | **NEW** — "Nuclear power is too dangerous." Verdict: false. <0.1 deaths/TWh vs coal 25, gas 2.8. Perception gap driven by rare dramatic accidents vs quiet fossil fuel death toll |
 | [[nuclear-waste-unsolved]] | **NEW** — "Nuclear waste is an unsolved problem." Verdict: mostly false. Zero deaths in history; 96% recyclable; Finland's Onkalo repository opening; all HLW would fit on a football pitch 5m high |
 | [[nuclear-takes-too-long-to-build]] | **NEW** — "Nuclear takes too long to build to matter." Verdict: mostly false. Global average 6-8 years; China/S. Korea 5-7 years; Hinkley Point at 14 years is a Western outlier |

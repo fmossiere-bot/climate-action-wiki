@@ -3,8 +3,8 @@ title: FACTS about Degrowth
 category: concepts
 tags: [science, finance]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "What is Degrowth, Public Support for Degrowth, As a Mental Model:  Growth vs Degrowth, The green growth mm, The degrowth mm, Less is More - Book Review, Welcome to Anthropocene, Capitalism, About GDP, Rise of the Juggernaut, Tech will 'not' save us, The Secret of a Good Life, Joan Martinez-Alier, degrowth, Ecological Limits, Social Justice, Reduced Throughput, Redefining Well-being, Support for 'Post-Growth' Ideas, Prioritizing Well-being over Wealth, Environmental Protection over Economic Growth, Favorable Opinion of the Term Itself, Simon Kuznets, Meat consumption, Plastic consumption, Material footprint per income, Consumption Overshot, Climate change is not fair (p116), Climate change, Planetary Boundaries(123)/, Energy consumption, MATERIAL FOOTPRINT, The Jevons Paradox"
+updated: 2026-08-26
+summary: "What is Degrowth, Public Support for Degrowth, As a Mental Model:  Growth vs Degrowth, The green growth mm, The degrowth mm, Less is More - Book Review, Welcome to Anthropocene, Capitalism, About GDP, Rise of the Juggernaut, Tech will 'not' save us, The Secret of a Good Life, Joan Martinez-Alier, degrowth, Ecological Limits, Social Justice, Reduced Throughput, Redefining Well-being, Support for 'Post-Growth' Ideas, Prioritizing Well-being over Wealth, Environmental Protection over Economic Growth, Favorable Opinion of the Term Itself, Simon Kuznets, Meat consumption, Plastic consumption, Material footprint per income, Consumption Overshot, Climate change is not fair (p116), Climate change, Planetary Boundaries(123)/, Energy consumption, MATERIAL FOOTPRINT, The Jevons Paradox, Jonathan Watts, Ajit Niranjan, Kate Raworth doughnut economics, Bill McKibben, Jason Hickel, William Nordhaus, Genevieve Guenther, ecological regrowth, climate tipping points economics"
 ---
 
 #degrowth #gdp
@@ -32,6 +32,14 @@ Martinez-Alier's work, which focuses on environmental justice and the critique o
 > 
 >  It advocates for a **planned, democratic reduction of production and consumption** in high-income nations to achieve ecological sustainability and social justice. Instead of measuring success by GDP, degrowth proponents suggest focusing on other metrics of well-being, such as health, education, and leisure time.
 > 
+
+## 2026: "The obsession with endless growth can only end in tears"
+
+In an August 2026 Guardian reader Q&A, environment writers **Jonathan Watts** and **Ajit Niranjan** put the degrowth critique in blunt terms: *"The obsession with endless GDP growth on a finite planet can only end in tears. The only question is when."* Watts pointed to **Kate Raworth's Doughnut Economics**, **Bill McKibben's** *Economics as if the World Mattered*, and **Jason Hickel's** degrowth scholarship as the main academic challenges to growth-first economics, and argued the world needs not just economic degrowth but **ecological regrowth** — a system of trade, taxation and incentives that rewards countries and companies for restoring damaged ecosystems, not just for producing more.
+
+Watts also singled out mainstream climate economics for being "absurdly complacent": Nobel laureate **William Nordhaus** is criticised, via commentator Genevieve Guenther, for modelling a low GDP hit from climate change while omitting the full costs to labour productivity, infrastructure, insurance and non-coastal real estate — and for using models that assume smooth, linear warming even though many climate scientists warn of tipping points that bring sudden jolts and acceleration instead.
+
+*Source: [Guardian extreme weather Q&A (source summary)](../../sources/guardian-extreme-weather-qa-watts-niranjan-2026.md); The Guardian, Ajit Niranjan and Jonathan Watts, 3 August 2026*
 
 The movement's key principles include:
 > 

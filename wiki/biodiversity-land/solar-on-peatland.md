@@ -56,6 +56,7 @@ The UK has restored 2,500 km² of peatland to date — only one-tenth of the are
 - [FACTS about Solar Energy](../solutions/renewables/FACTS about Solar Energy.md)
 - [Nature-Based Solutions](../solutions/nature-based-solutions/The importance of Grassland.md)
 - [Mangrove Forests Recovery](../biodiversity-land/mangrove-forests-recovery.md)
+- [Solar Farms and Pollinators](solar-farms-pollinators.md)
 
 ## Sources
 
