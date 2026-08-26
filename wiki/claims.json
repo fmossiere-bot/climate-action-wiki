@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-04",
+  "updated": "2026-08-26",
   "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
   "verdicts": {
     "false": {
@@ -604,7 +604,8 @@
       "heard_as": [
         "old bangers are the green choice",
         "the greenest car is the one you already own",
-        "manufacturing a new car is worse than running an old one"
+        "manufacturing a new car is worse than running an old one",
+        "it can't be worth scrapping a car that's only a year or two old"
       ],
       "kernel": "It sounds right because you avoid the emissions of building a whole new car, and use what you already have is usually sound environmental advice.",
       "truth": "It holds for most products, but not for cars, because a car keeps emitting every day you drive it. A 14 year old petrol car produces around 45 tonnes of CO2 over its remaining life against 14 tonnes for a new Tesla Model Y, a cut of about 68%. Even accounting for the emissions of building the new car, replacing an old petrol car with an EV breaks even after roughly 20,000 to 32,000 miles, about four years of average UK driving.",
@@ -613,12 +614,20 @@
         {
           "if": "So I should scrap a perfectly good car?",
           "reply": "Not scrap. It gets resold and used. The question is what you buy when the old one is genuinely done, and then the EV wins clearly."
+        },
+        {
+          "if": "Surely that's only true for an old banger, not a car I just bought?",
+          "reply": "2026 US modelling (Campbell & Geyer, UC Santa Cruz / UC Santa Barbara) tested exactly that and found the same result holds \"in the vast majority of cases, and even for a brand new gas vehicle\" — the driving emissions saved by switching outweigh the extra emissions of building the new EV. The main exceptions are a coal-heavy electricity grid, or driving under about 7,000km a year."
         }
       ],
       "sources": [
         {
           "label": "Carbon Brief, 21 EV myths factchecked",
           "url": "https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"
+        },
+        {
+          "label": "New Scientist, Madeleine Cuff, 6 August 2026",
+          "url": "https://www.newscientist.com/article/2583523-its-good-for-the-planet-to-scrap-a-new-petrol-car-and-buy-electric/"
         }
       ],
       "wiki": ""
