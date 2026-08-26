@@ -1727,34 +1727,6 @@
     ]
   },
   {
-    "slug": "average-carbon-footprint-in-ireland",
-    "filename": "concepts/key-ideas/Average Carbon Footprint in Ireland.md",
-    "label": "Average Carbon Footprint in Ireland",
-    "summary": "Ireland carbon footprint, production-based emissions, consumption-based emissions, EPA, ESRI, SEAI, CSO, agriculture methane, transport emissions, housing and energy, food waste, per capita emissions, EU comparison, dispersed housing, oil boilers, embodied carbon, imported emissions",
-    "category": "concepts",
-    "tags": [
-      "key-ideas",
-      "carbon",
-      "ireland",
-      "agriculture",
-      "transport"
-    ],
-    "keywords": [
-      "10.4 tonnes co2 equivalent (co2e)",
-      "agriculture (~38%)",
-      "transport (~21%)",
-      "energy (~14%)",
-      "total",
-      "~12.7 t",
-      "100%",
-      "footprint",
-      "ireland",
-      "food",
-      "average",
-      "irish"
-    ]
-  },
-  {
     "slug": "carbon-emission-facts",
     "filename": "concepts/key-ideas/Carbon Emission FACTS.md",
     "label": "Carbon Emission Facts: Agriculture, Transport and Ocean Carbon",
@@ -2026,33 +1998,6 @@
       "69% in france",
       "the green growth model",
       "romania"
-    ]
-  },
-  {
-    "slug": "facts-about-biomass",
-    "filename": "concepts/key-ideas/FACTS about Biomass.md",
-    "label": "FACTS about Biomass",
-    "summary": "biomass energy, bioenergy, wood pellets, biofuels, ethanol, biodiesel, algae fuels, electrofuels, sustainable aviation fuel, Drax, BECCS, indirect land use change, corn ethanol, rice husk gasifiers, biogas, biomethane, biomethanol, chemical feedstock, Ireland biomass, deforestation, World Resources Institute",
-    "category": "concepts",
-    "tags": [
-      "key-ideas",
-      "alternative-fuels",
-      "forest",
-      "agriculture"
-    ],
-    "keywords": [
-      "biomass energy",
-      "10% of global primary energy",
-      "sustainable aviation fuel (saf)",
-      "2022 five-year study",
-      "at least 24% more emissions than petrol",
-      "world resources institute",
-      "indirect land use change",
-      "beccs",
-      "drax",
-      "11.5 million tonnes of co2",
-      "small scale",
-      "37% had pledged net-zero targets by 2050"
     ]
   },
   {
@@ -2410,23 +2355,28 @@
   {
     "slug": "carbon-footprint-in-ireland",
     "filename": "ireland-hub/Carbon Footprint in IRELAND.md",
-    "label": "Avg Carbon Footprint in Ireland",
-    "summary": "Comparison with EU Neighbors, Consumption-Based Data, Deep Dive into the Categories, Data Consumption separating WASTE. The average carbon footprint in Ireland depends on how you measure it: what we produce (territorial emissions) or what we consume (lifestyle footprint).",
+    "label": "Average Carbon Footprint in Ireland",
+    "summary": "Ireland carbon footprint, production-based emissions, consumption-based emissions, EPA, ESRI, SEAI, CSO, agriculture methane, transport emissions, housing and energy, food waste, per capita emissions, EU comparison, dispersed housing, oil boilers, embodied carbon, imported emissions",
     "category": "ireland-hub",
-    "tags": [],
+    "tags": [
+      "carbon",
+      "ireland",
+      "agriculture",
+      "transport"
+    ],
     "keywords": [
+      "10.4 tonnes co2 equivalent (co2e)",
+      "agriculture (~38%)",
+      "transport (~21%)",
+      "energy (~14%)",
+      "total",
+      "~12.7 t",
+      "100%",
+      "footprint",
       "ireland",
       "food",
-      "footprint",
-      "consumption",
-      "irish",
-      "category",
       "average",
-      "transport",
-      "production",
-      "housing",
-      "imported",
-      "heating"
+      "irish"
     ]
   },
   {
