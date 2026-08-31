@@ -1682,13 +1682,7 @@
     "label": "The Ben & Jerry's Story",
     "summary": "Ben and Jerry's, Ben Cohen, Jerry Greenfield, Unilever, Magnum Ice Cream Company, Free Ben and Jerry's campaign, independent board of directors, social mission, B Corporation, steward ownership, dairy emissions, non-dairy ice cream, Caring Dairy programme, greenwashing, corporate activism, occupied West Bank, Palestine, Gaza, boycott, shareholder capitalism, Vermont, Pillsbury Doughboy campaign, values-led business",
     "category": "concepts",
-    "tags": [
-      "company-evaluations",
-      "cool-companies",
-      "greenwashing",
-      "food",
-      "agriculture"
-    ],
+    "tags": [],
     "keywords": [
       "editorial summary",
       "jerry's",
@@ -2803,6 +2797,28 @@
       "sabrina dekker",
       "coastal property acquisition",
       "planned retreat"
+    ]
+  },
+  {
+    "slug": "ireland-reforestation-on-the-ground",
+    "filename": "ireland-hub/Ireland reforestation on the Ground.md",
+    "label": "Ireland Reforestation on the Ground: Volunteers, Farms and Rewilding",
+    "summary": "A companion piece to the Ireland forestry wiki page, this article follows three ground-level reforestation cases in Ireland: volunteers in County Wicklow planting native oak and cherry from local mother trees, Tibraden Farm's shift from subsidised Sitka spruce toward a mixed \\\"permanent forest\\\" model, and the 650-hectare Dunany Estate, where a third of the land has been left to rewild since 2014. It highlights two recurring barriers: Irish law treats land reclassified as forest as permanently changed, and land prices (around €40,000 per hectare) limit expansion. Based on a single ARTE Info video report, so figures are illustrative rather than verified statistics.",
+    "category": "ireland-hub",
+    "tags": [],
+    "keywords": [
+      "land",
+      "forest",
+      "trees",
+      "forestry",
+      "ireland",
+      "estate",
+      "report",
+      "native",
+      "farm",
+      "private",
+      "farmers",
+      "woodland"
     ]
   },
   {
