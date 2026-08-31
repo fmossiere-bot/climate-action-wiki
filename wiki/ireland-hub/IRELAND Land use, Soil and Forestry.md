@@ -15,7 +15,7 @@ Ireland's soils, forests and peatlands are central to its climate strategy: they
 
 In 2026, a children's book titled *Sitka Spruce – the Amazing Timber Tree* was distributed to Irish primary schools. Written from the perspective of a Sitka spruce tree, it depicted commercial plantations as thriving ecosystems full of wildlife, and carried a foreword by Michael Healy-Rae, then minister of state for forestry.
 
-The Irish Wildlife Trust called for the book's removal, pointing out that Sitka spruce plantations are widely regarded as **ecological dead zones**: they crowd out native plants, support very little wildlife, acidify soils and waterways, and are routinely clear-felled rather than selectively harvested, contrary to what the book implies. Its claim that Sitka spruce stores carbon effectively is also disputed in parts of Ireland where plantations are grown on bogs that would store far more carbon if left undrained.
+> The Irish Wildlife Trust called for the book's removal, pointing out that Sitka spruce plantations are widely regarded as **ecological dead zones**: they crowd out native plants, support very little wildlife, acidify soils and waterways, and are routinely clear-felled rather than selectively harvested, contrary to what the book implies. Its claim that Sitka spruce stores carbon effectively is also disputed in parts of Ireland where plantations are grown on bogs that would store far more carbon if left undrained.
 
 The book was funded by the Society of Irish Foresters, the Irish Timber Council and SEEFA. The Department of Education said it had no role in approving or endorsing material sent directly to schools, exposing a systemic gap: there is currently no safeguard preventing industry from distributing promotional content to classrooms as "environmental education." This is a clear Irish example of [Greenwashing](../concepts/key-ideas/Greenwashing.md), commercially motivated messaging presented to children as fact.
 
@@ -29,7 +29,7 @@ The Irish Soil Information System project has developed a national soil associat
 
 The Climate Action and Low Carbon Development (Amendment) Act 2021 commits Ireland to a 51% reduction in emissions by 2030 and to net-zero emissions no later than 2050, and forests have a key role to play in that transformation.
 
-Forestry currently covers just **10% of Ireland's land area**, up from around 1% at the start of the last century but still far below the **EU average of 39.8%**. Forests, wetlands and bogs remove carbon dioxide from the air and store it, helping to reduce climate change while also providing cleaner air and water and supporting a large diversity of plant and animal species. They also provide timber as a renewable resource, and contribute to air, soil and water quality more broadly.
+> Forestry currently covers just **10% of Ireland's land area**, up from around 1% at the start of the last century but still far below the **EU average of 39.8%**. Forests, wetlands and bogs remove carbon dioxide from the air and store it, helping to reduce climate change while also providing cleaner air and water and supporting a large diversity of plant and animal species. They also provide timber as a renewable resource, and contribute to air, soil and water quality more broadly.
 
 The EU Forest Strategy for 2030 sets an ambitious vision for European forests to be fully compatible with, and supportive of, nature and the environment, while also delivering economic and social benefits to communities.
 

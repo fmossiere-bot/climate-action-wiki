@@ -1,11 +1,18 @@
 ---
-title: "The Ben & Jerry's Story"
+title: The Ben & Jerry's Story
 category: concepts
-tags: ["#company-evaluations", "#cool-companies", "#greenwashing", "#food", "#agriculture"]
-sources: ["The Guardian, Heather Timmons, 31 July 2026", "Zero, Bloomberg Green podcast — interview with Ben Cohen"]
+tags:
+  - "#company-evaluations"
+  - "#cool-companies"
+  - "#greenwashing"
+  - "#food"
+  - "#agriculture"
+sources:
+  - The Guardian, Heather Timmons, 31 July 2026
+  - Zero, Bloomberg Green podcast — interview with Ben Cohen
 created: 2026-08-26
 updated: 2026-08-26
-cover_image: "https://images.unsplash.com/photo-1562790879-dfde82829db0?fm=jpg&q=80&w=1600&fit=crop"
+cover_image:
 summary: Ben and Jerry's, Ben Cohen, Jerry Greenfield, Unilever, Magnum Ice Cream Company, Free Ben and Jerry's campaign, independent board of directors, social mission, B Corporation, steward ownership, dairy emissions, non-dairy ice cream, Caring Dairy programme, greenwashing, corporate activism, occupied West Bank, Palestine, Gaza, boycott, shareholder capitalism, Vermont, Pillsbury Doughboy campaign, values-led business
 ---
 
