@@ -1207,6 +1207,34 @@
     ]
   },
   {
+    "slug": "climate-tipping-points",
+    "filename": "climate-science/climate-tipping-points.md",
+    "label": "Climate Tipping Points — what they are, which are already close, and where the good ones sit",
+    "summary": "climate tipping points, Tim Lenton, John Schellnhuber tipping elements, 16 elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent, wind solar double every 3 years, Wright's Law learning by doing, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent, Subpolar gyre North Atlantic, Amazon savannisation 40 percent, permafrost 2x human emissions, coral reefs 70-90 percent at 1.5C, Dansgaard-Oeschger events, positive tipping points, social tipping points, hothouse Earth, climate niche",
+    "category": "climate-science",
+    "tags": [
+      "science",
+      "key-ideas",
+      "carbon",
+      "ocean",
+      "forest"
+    ],
+    "keywords": [
+      "tipping point",
+      "reinforcing feedback",
+      "tipping elements",
+      "\"positive tipping points\"",
+      "and",
+      "greenland ice sheet",
+      "7 metres of sea-level rise",
+      "1.5°c could be enough to lose it all",
+      "3 metres of sea-level rise",
+      "winter arctic sea ice",
+      "amoc (the big atlantic \"conveyor belt\")",
+      "15% in 50 years"
+    ]
+  },
+  {
     "slug": "indirect-greenhouse-gases",
     "filename": "climate-science/indirect-greenhouse-gases.md",
     "label": "The Forgotten Pollutants: Indirect Greenhouse Gases",
@@ -1425,6 +1453,33 @@
       "behaviour",
       "facts",
       "countries"
+    ]
+  },
+  {
+    "slug": "sustainability-mindset-principles",
+    "filename": "concepts/behavior-change/sustainability-mindset-principles.md",
+    "label": "The Sustainability Mindset Principles (Isabel Rimanoczy)",
+    "summary": "Sustainability Mindset Principles, Isabel Rimanoczy, 12 principles, four areas Ecological Worldview Systems Thinking Emotional Intelligence Spiritual Intelligence, Ecoliteracy My Contribution Long-term Thinking Both+and Thinking Flow in Cycles Interconnectedness Creative Innovation Reflection Self-awareness Purpose Oneness with Nature Mindfulness, information not enough, feelings fuel, inner work, LOHAS Lifestyles of Health and Sustainability, cultural creatives, Sustainability Mindset Indicator, five core principles My Contribution Reflection Self-awareness Purpose Mindfulness, business schools education",
+    "category": "concepts",
+    "tags": [
+      "behaviour",
+      "key-ideas",
+      "nature",
+      "adaptation"
+    ],
+    "keywords": [
+      "editorial summary",
+      "12 thinking habits",
+      "lohas",
+      "note for fabien",
+      "information is not enough",
+      "feelings are the fuel",
+      "it gives power back",
+      "experience first, facts after",
+      "slow down",
+      "stop, reflect, write, share",
+      "ask the contribution question gently",
+      "look at influence, not only control"
     ]
   },
   {
@@ -3959,10 +4014,10 @@
       "the rcp8.5 trap",
       "where the levers actually are",
       "moral licensing",
+      "tipping",
+      "points",
       "we're",
-      "nothing",
-      "actually",
-      "unep"
+      "nothing"
     ]
   },
   {
@@ -5872,16 +5927,16 @@
     "keywords": [
       "sugar kelp",
       "no additional marine space",
+      "unlikely to be a major climate solution",
+      "only a small fraction",
+      "14 million tonnes of co2 per year",
+      "50,000 tonnes/year",
+      "yet only",
+      "-",
+      "running tide",
       "seaweed",
-      "marine",
       "kelp",
-      "ocean",
-      "algae",
-      "coastal",
-      "food",
-      "ecosystems",
-      "benefits",
-      "water"
+      "marine"
     ]
   },
   {
@@ -7897,6 +7952,34 @@
     ]
   },
   {
+    "slug": "ipbes-nexus-assessment-2024",
+    "filename": "sources/ipbes-nexus-assessment-2024.md",
+    "label": "IPBES Nexus Assessment — Interlinkages among Biodiversity, Water, Food and Health (SPM, 2024)",
+    "summary": "IPBES Nexus Assessment 2024, Summary for Policymakers, five nexus elements biodiversity water food health climate, McElwee Harrison co-chairs, 165 authors 70 contributing 6500 publications, Windhoek Namibia December 2024, $7 trillion damaging activities, $0.3-1 trillion biodiversity finance gap, $4 trillion SDG water food health climate, siloed governance failure, 71 response options, integrated landscape seascape approaches, agroecology, sustainable healthy diets, Indigenous local knowledge, delay costs double, freshwater biodiversity fastest decline, 42% cannot afford healthy diet, 80% water demand food, life expectancy 20 year gap, transformative change, agrifood systems, Kunming-Montreal GBF, SDG 17 targets, Paris Agreement alignment",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "food",
+      "nature",
+      "science",
+      "finance"
+    ],
+    "keywords": [
+      "ipbes nexus assessment",
+      "pamela mcelwee (usa)",
+      "paula harrison (uk)",
+      "2 and 6 per cent per decade",
+      "~80% of humanity's water demand",
+      "and",
+      "seventy-one response options",
+      "low-cost",
+      "not primarily designed for biodiversity",
+      "meanwhile",
+      "at least $4 trillion per year",
+      "$7 trillion/year"
+    ]
+  },
+  {
     "slug": "ireland-climate-plan-progress-thejournal-2026",
     "filename": "sources/ireland-climate-plan-progress-thejournal-2026.md",
     "label": "Ireland has completed just 10 of 74 climate commitments (TheJournal.ie, July 2026)",
@@ -8050,6 +8133,34 @@
       "reinforce rather than break",
       "type ii pattern",
       "polewards"
+    ]
+  },
+  {
+    "slug": "lenton-positive-tipping-points-part1-2026",
+    "filename": "sources/lenton-positive-tipping-points-part1-2026.md",
+    "label": "Positive Tipping Points, Part I: Urgency — Tim Lenton (summary, 2026)",
+    "summary": "Tim Lenton, Positive Tipping Points, Simon Sharpe Five Times Faster, John Schellnhuber tipping elements, 16 climate tipping elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve Wright's Law learning by doing, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent 7 years, solar wind double every 3 years, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent 50 years, Subpolar gyre North Atlantic, Amazon 40 percent savannisation, permafrost 2x human emissions, coral reefs 70-90% at 1.5C, climate niche 13C average, wet bulb 35C, 400 million exposed at 1.5C 2 billion at 2.7C, 1.2 Americans push one person into extreme heat, Titanic 3C optimal, Dansgaard-Oeschger events, sulphur pollution 5 million deaths cooling brake, 250 Gt CO2 budget for 1.5C, Five Times Faster",
+    "category": "sources",
+    "tags": [
+      "science",
+      "key-ideas",
+      "carbon",
+      "ocean",
+      "forest"
+    ],
+    "keywords": [
+      "part i (\"urgency\", chapters 1-6)",
+      "and",
+      "reinforcing feedback",
+      "(s-curve growth)",
+      "greenland ice sheet",
+      "7 m of sea-level rise",
+      "west antarctica (thwaites, pine island)",
+      "1.5°c could lose it all",
+      ">3 m of sea-level rise",
+      "winter arctic sea ice",
+      "amoc",
+      "subpolar gyre (north atlantic)"
     ]
   },
   {
@@ -8467,6 +8578,33 @@
       "scrap",
       "electric",
       "life"
+    ]
+  },
+  {
+    "slug": "seaweed-not-a-climate-solution-newscientist-2026",
+    "filename": "sources/seaweed-not-a-climate-solution-newscientist-2026.md",
+    "label": "Why growing seaweed isn't a climate solution (New Scientist, Alec Luhn, September 2026)",
+    "summary": "seaweed climate solution, Karen Filbee-Dexter University of Western Australia, PLOS Biology 2026, kelp forests 640000 square kilometres, 60 percent kelp forests declining, 3.7 billion tonnes CO2 photosynthesis, small fraction blue carbon, 14 million tonnes CO2 kelp loss, 50000 tonnes restoration Norway 70 hectares, Running Tide $70 million shut down, Kelp Blue aquaculture, 9 of 11 seaweed farms emit more than sequester, 4000 square kilometres seaweed farming, preserving 8x cheaper than restoring, only 2 percent kelp forests protected, Pamela Walsh Queen's Belfast, blue carbon debate, macroalgae, phytoplankton, offsets exaggerated",
+    "category": "sources",
+    "tags": [
+      "ocean",
+      "carbon-removal",
+      "biodiversity",
+      "greenwashing"
+    ],
+    "keywords": [
+      "8 september 2026",
+      "arguing that",
+      "only a small fraction",
+      "global kelp forests cover ~640,000 km²",
+      "~60% of kelp forests are in decline",
+      "emit more co2 than they absorb",
+      "14 million tonnes of co2 per year",
+      "70 hectares",
+      "50,000 tonnes co2/year",
+      "at least 8× cheaper per hectare",
+      "-",
+      "in 2025\n-"
     ]
   },
   {
