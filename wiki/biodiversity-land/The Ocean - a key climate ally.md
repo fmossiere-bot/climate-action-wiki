@@ -91,6 +91,10 @@ Coral bleaching is an ongoing problem:
 - major ones happens in 1998, with 8% of worldwide reef bleached
 - This is happening more and more often, mostly  due to climate change and higher water temperature.
 
+> Is there any hope in saving them?
+> **Coral reef — 165,000 km²**
+> 	The Wildlife Conservation Society and Macquarie University have mapped more than 165,000 square kilometres of coral reefs that have a strong chance of surviving global warming. That is three times more than earlier estimates, and an area about the size of Tunisia. These are zones that are spared from extreme heat, corals that resist bleaching, and reefs that are able to recover quickly. "This research shows that there is, on a global scale, a set of coral reefs able to survive and recover from the climate crisis," says Emily Darling, co-author of the study.
+
 
 
 ## Phytoplankton - an essential part of the food chain
