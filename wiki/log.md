@@ -4,6 +4,51 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-09-17] ingest | 3 papers + 1 own-research + 1 skip — IPBES Nexus, Lenton tipping points, kelp reality-check, Sustainability Mindset
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| `raw/papers/EN_SPM_NEXUSASSESSMENT_ENGLISH_FINAL (1).pdf` | Source summary (Paper template) | `wiki/sources/ipbes-nexus-assessment-2024.md` |
+| `raw/papers/Positive Tipping Points – Part I summary.pdf` | Source summary (Paper template) + new wiki page | `wiki/sources/lenton-positive-tipping-points-part1-2026.md` + `wiki/climate-science/climate-tipping-points.md` + Go deeper note in `wiki/myths/its-too-late.md` |
+| `raw/papers/Seaweeds-NS.pdf` | Source summary + update | `wiki/sources/seaweed-not-a-climate-solution-newscientist-2026.md` + new September 2026 Update section in `wiki/solutions/carbon-removal/Ocean-Based Carbon Removal - The Potential of Marine Algae.md` |
+| `raw/own-research/What is a Sustainable Mindset.md` | File directly | `wiki/concepts/behavior-change/sustainability-mindset-principles.md` (frontmatter + `> Editorial summary:` blockquote, body preserved verbatim per CLAUDE.md own-research rule; the raw author's closing note to Fabien is preserved and flagged in the editorial summary) |
+
+### Skips
+
+- **`raw/own-research/About Tipping points.md`** — file frontmatter title reads "What are tipping points?" but the entire body content is **construction reuse material** (Blanchemaille, Ademe 30-40% carbon reduction, Cerema, Kennedy tower demolition, Engie La Garenne-Colombes) that was already ingested on 2026-07-23 as `wiki/sectors/buildings/construction-industry-reuse-target.md`. The file appears to have been created with the wrong content pasted in — likely a copy-paste error from another draft. Skipped without ingest; Fabien should either paste the intended tipping-points content, delete the file, or confirm that the current tipping-points wiki page (created this batch from the Lenton PDF) covers what he had in mind.
+
+### Key facts introduced this batch
+
+- **IPBES Nexus Assessment (December 2024, Windhoek):** landmark UN scientific assessment; 165 authors, 6,500 publications; **$7 trillion/year** currently invested in activities damaging biodiversity vs a **$0.3-1 trillion/year biodiversity finance gap** plus **≥$4 trillion/year** for related SDGs; 42% of global population can't afford a healthy diet (2021); **80% of humanity's water demand goes to food**; costs of biodiversity action double if delayed 10 years, delayed climate action adds ≥$500bn/year; 71 response options assessed, implementing them all supports all 17 SDGs, 23 GBF targets and Paris Agreement together
+- **Tim Lenton, *Positive Tipping Points* (Part I):** 16 climate tipping elements identified, **5 already in the danger zone at today's ~1.25°C**; AMOC has slowed ~15% in 50 years; Subpolar gyre (North Atlantic) may be "one of the nearest tipping points" (1.1-3.8°C, could switch off within 10 years); Greenland holds 7m sea-level rise, West Antarctica >3m at 1.5°C; permafrost holds 2× human emissions to date; every 0.1°C of extra warming puts >100 million more people into extreme heat; **positive side:** Norway EVs 0.25% → 84% in 14 years, UK coal 40% → 2% in 7 years (S-curve dynamics + carbon price); Simon Sharpe's "Five Times Faster" (7%/year cuts) gives good odds of holding 2°C
+- **Seaweed as climate solution (PLOS Biology, Filbee-Dexter UWA):** ~60% of world's kelp forests in decline emitting **14 Mt CO2/yr**; ambitious restoration (Norway 70 ha) draws down only **50,000 tCO2/yr** — a 280:1 ratio in the wrong direction; **preservation 8× cheaper than restoration**, yet only 2% of kelp is protected; **Running Tide's $70m collapse** (kelp buoys in open ocean) as the illustrative case; **9 of 11 seaweed farms studied emit more CO2 than they sequester** after boat fuel and plastic; Kelp Blue's "hundreds of Mt CO2 offset" promise called into question
+- **Sustainability Mindset Principles (Rimanoczy):** 12 principles across 4 areas (Ecological Worldview, Systems Thinking, Emotional Intelligence, Spiritual Intelligence); five essentials for time-limited practice (My Contribution, Reflection, Self-awareness, Purpose, Mindfulness); LOHAS as the outer-behaviour parallel, mindset principles as the inner-values counterpart
+
+### Files created
+
+- 3 new source summaries in `wiki/sources/`
+- 2 new wiki pages: `wiki/climate-science/climate-tipping-points.md`, `wiki/concepts/behavior-change/sustainability-mindset-principles.md`
+- 2 existing pages updated: `wiki/solutions/carbon-removal/Ocean-Based Carbon Removal - The Potential of Marine Algae.md` (September 2026 Update section with Filbee-Dexter caveats), `wiki/myths/its-too-late.md` (Go deeper note on Lenton positive tipping points)
+- `wiki/index.md` — 3 source rows, 1 climate-science row, 1 behaviour-change row added; date bumped to 2026-09-17
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Tipping-points cluster now links: new `climate-tipping-points.md` ↔ existing `amoc-collapse-carbon.md` ↔ `wildfires-climate-feedback.md` ↔ `record-hot-ocean-el-nino-2026.md` ↔ `its-too-late.md` (myth) ↔ Lenton source summary
+- Ocean/seaweed cluster now spans three angles: Danish co-siting (positive), New Scientist reality-check (negative on carbon claims), and the underlying Marine Algae page reconciling both
+- Nexus/systems cluster: IPBES Nexus ↔ existing wetlands, agriculture-planetary-footprint, ocean climate ally, nature-disclosure-frameworks — the "silos are failing" through-line is now anchored in the biggest UN assessment on it
+- Behaviour-change cluster: Sustainability Mindset ↔ Why Knowing Is Not Enough ↔ high-income carbon paradox ↔ live-good-life-planetary-boundaries — the framework fits naturally alongside the existing "inner side" of climate work
+
+### Process notes
+
+- The `About Tipping points.md` mismatch (title vs body) is the second time this year an own-research file has arrived with content that doesn't match its title. Flagging in the log rather than silently fixing the frontmatter, since only Fabien knows what content he intended
+- The IPBES Nexus SPM is 200+ pages; source summary is based on the ~15 pages of Key Messages and Background Messages (sections A-D). Deeper claims in the appendices (e.g. individual response-option scoring, SDG-target mapping) can be added later if a specific wiki page needs them
+- The Positive Tipping Points summary is only Part I ("Urgency"); Part II ("How") is not yet in `raw/papers/`. When Fabien adds it, the tipping-points wiki page can be extended with the positive-tipping-mechanics detail
+
+---
+
 ## [2026-08-26] ingest | Ben & Jerry's — Free Ben & Jerry's campaign
 
 **Source:** Guardian article (Heather Timmons, 31 Jul 2026) and Zero (Bloomberg Green) podcast interview with Ben Cohen, both supplied directly by Fabien.

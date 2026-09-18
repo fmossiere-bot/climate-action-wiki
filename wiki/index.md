@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-08-26
+Last updated: 2026-09-17
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -100,6 +100,9 @@ Summaries of every ingested source file.
 | [[ireland-climate-plan-progress-thejournal-2026]] | TheJournal.ie (Jul 2026): Ireland has completed only 10 of 74 committed climate measures across the 2023-2025 Climate Action Plans; neither agriculture-specific commitment delivered |
 | [[uk-datacentres-exxonmobil-emissions-guardian-2026]] | Guardian (Aug 2026): Foxglove analysis — two planned English datacentres (Wapseys Wood, Quest Park) will emit more CO2 than the whole of ExxonMobil's UK operations |
 | [[guardian-extreme-weather-qa-watts-niranjan-2026]] | Guardian (Aug 2026): Watts & Niranjan reader Q&A — wildfire smoke deaths (1.5M/yr globally), 40-70% heatwave death toll attribution, degrowth/doughnut economics, reasons for hope |
+| [[ipbes-nexus-assessment-2024]] | IPBES (Dec 2024): landmark Nexus Assessment linking biodiversity, water, food, health and climate; 165 authors, 6,500 publications, 71 response options; $7tn/yr in damaging activity vs $0.3-1tn/yr biodiversity finance gap; costs double if biodiversity action delayed 10 years |
+| [[lenton-positive-tipping-points-part1-2026]] | Tim Lenton, *Positive Tipping Points* Part I (Urgency): 16 climate tipping elements, 5 in the danger zone at 1.25°C; Norway EV S-curve (0.25% → 84% in 14 years), UK coal (40% → 2% in 7 years); Sharpe's "Five Times Faster" 7%/yr cuts to hold 2°C |
+| [[seaweed-not-a-climate-solution-newscientist-2026]] | New Scientist (Sep 2026): Filbee-Dexter et al. *PLOS Biology* — kelp restoration and farming will not be a major climate solution; 60% of kelp forests in decline emitting 14 Mt CO2/yr; preservation 8× cheaper than restoration; Running Tide's $70m shutdown |
 
 ---
 
@@ -129,6 +132,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | [[indirect-greenhouse-gases]] | Forgotten pollutants: CO, VOCs and black carbon have caused 15% of all warming; fast-acting, absent from policy, and relevant to hydrogen transition risks |
 | [[record-hot-ocean-el-nino-2026]] | Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off — **updated** July 2026 with WRI's ocean-warming synthesis (91% heat absorption, 11 cm sea rise, Tuvalu Falepili treaty); **updated** August 2026 with the Solomon Islands / Kale Island case (submerged 2016; 26,000+ relocated since 2008; Jason deCaires Taylor's "Solomon Siren" sculpture); **updated** August 2026 with the Miquelon relocation (first for France) and Mediterranean 20% faster warming (Anaïs Massé, Fondation de la mer) |
 | [[jetstream-heatwave-patterns-2026]] | **NEW** — Two jet-stream patterns behind Europe's long heatwaves: omega block (type I) and poleward shift (type II); Pappert & Martius (Bern) simulated 1,900 hot spells; June 2026 heatwave killed ~20,000 |
+| [[climate-tipping-points]] | **NEW** — Climate tipping points explained (Tim Lenton framework): 16 elements, 5 in the danger zone at today's warming; Greenland, West Antarctica, AMOC, Subpolar gyre, Amazon, permafrost, coral reefs; positive tipping points in society/technology (Norway EVs, UK coal, wind/solar S-curves) |
 
 ---
 
@@ -207,6 +211,7 @@ Funding the transition — investment, risk, green banking.
 | Meat Token ACTION GUIDE | Reducing meat consumption |
 | Talking about Climate Change ACTION GUIDE | Conversation guide for climate |
 | [[high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
+| [[sustainability-mindset-principles]] | **NEW** — Isabel Rimanoczy's 12 Sustainability Mindset Principles (Ecoliteracy, My Contribution, Long-term Thinking, Both+and, Flow in Cycles, Interconnectedness, Creative Innovation, Reflection, Self-awareness, Purpose, Oneness with Nature, Mindfulness); LOHAS comparison; five essential principles for time-limited practice |
 
 ### Company Evaluations (`wiki/concepts/company-evaluations/`)
 

@@ -7,7 +7,7 @@ tags:
   - seaweed
   - carbon-removal
 created: 2023-06-01
-updated: 2026-08-26
+updated: 2026-09-17
 summary: The ocean has absorbed roughly one third of all human CO2 emissions since the industrial revolution. It is one of the planet's most important carbon sinks, and researchers are increasingly looking at how marine ecosystems, particularly seaweed and kelp, could be actively used to remove more carbon from the atmosphere. Sugar kelp, offshore wind multi-use, Aarhus University, Denmark, nitrogen phosphorus removal, agrivoltaics-style co-location.
 ---
 
@@ -54,6 +54,26 @@ The offshore conditions (high water exchange, stability, nutrient availability) 
 The bottleneck, Bruhn says, is not the science but the market: food manufacturers, retailers, meal-kit companies and canteens need to create demand, much as they did for legumes, which went from marginal to mainstream in European diets over roughly a decade.
 
 *Source: [Offshore wind seaweed (source summary)](../../sources/seaweed-offshore-wind-denmark-oceanographic-2026.md); Oceanographic Magazine, Rob Hutchins, 4 August 2026*
+
+---
+
+### September 2026 Update: Preservation, not cultivation, is the priority
+
+A **PLOS Biology study led by Karen Filbee-Dexter (University of Western Australia)** published in September 2026 argues that seaweed farming and restoration are **unlikely to be a major climate solution**, and that the priority should shift to preserving the kelp forests we already have.
+
+The key numbers:
+
+- Seaweeds absorb ~3.7 Gt CO2/yr via photosynthesis, but **only a small fraction** ends up as long-term blue carbon in the deep sea
+- **~60% of the world's kelp forests are in decline** due to ocean heat; kelp loss now emits an estimated **14 million tonnes of CO2 per year**, while ambitious restoration in Norway (70 hectares) only drew down **50,000 tonnes/year** — a 280:1 ratio in the wrong direction
+- **Preserving kelp is at least 8× cheaper per hectare than restoring it**, yet only **2% of kelp forests are in protected areas**
+- **9 of 11 seaweed farms studied emit more CO2 than they sequester** once boat fuel and plastic lines are counted
+- **Running Tide** (US start-up, $70m raised to sink kelp buoys in the open ocean) shut down in 2025 after failing to grow kelp at scale
+
+The study does not argue against kelp restoration outright: farming still supports low-carbon alternatives to fossil-based products (fertiliser), and restoration remains valuable for biodiversity. But **the "seaweed will sequester hundreds of millions of tonnes of CO2" claim — used by aquaculture firms like Kelp Blue — does not survive scrutiny.** A dissenting view from Pamela Walsh (Queen's University Belfast) says the sequestration science is not yet strong enough to write the sector off, only to be validated more carefully.
+
+The take-home is the same pattern that shows up for mangroves, wetlands and peatlands: **"don't lose what you have" beats "restore what you lost", every time**, and both are more effective than "grow it in new places". This puts marine algae's climate role somewhere between the ProjectDrawdown 2.5-4.7 Gt CO2/year upside and the on-the-ground evidence that most farms are net emitters. Genuine carbon claims from seaweed need much better measurement, verification and preservation-first framing.
+
+*Source: [Why growing seaweed isn't a climate solution (source summary)](../../sources/seaweed-not-a-climate-solution-newscientist-2026.md); Alec Luhn, New Scientist, 8 September 2026; Filbee-Dexter et al., PLOS Biology, DOI 10.1371/journal.pbio.3003949*
 
 ---
 

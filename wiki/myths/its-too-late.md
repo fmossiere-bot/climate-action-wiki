@@ -8,7 +8,7 @@ sources:
   - UNEP Emissions Gap Report 2024
   - IEA World Energy Outlook 2024
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-09-17
 cover_image: ""
 summary: it's too late, doomism, RCP8.5, 5 degrees, 6 degrees, Mark Lynas Six Degrees, 1.5C dead, 2C unlikely, current policies 2.5 to 3C, net zero pledges 1.8C, every fraction of a degree matters, tipping points not one global switch, Hannah Ritchie, Emissions Gap Report, catastrophism, defeatism, we're doomed, nothing matters, why bother, moral licensing, coral reefs, food security, heatwaves
 claim_id: its-too-late
@@ -71,6 +71,8 @@ Because 2.5°C is what happens if we drift. 1.8°C is what happens if we actuall
 **Where the levers actually are.** Ritchie is blunt that individual choices alone will not get the world where it needs to be. The heavy lifting has to be at the systems level: rolling out low-carbon electricity fast (solar, wind, nuclear, geothermal, with better permitting), speeding up batteries, electrifying cars and home heating and industrial processes, cutting global meat and dairy consumption, restoring forests, and keeping R&D flowing into hard-to-decarbonise sectors (cement, steel, aviation, direct air capture).
 
 **The individual angle, without the guilt spiral.** For personal action, the big-ticket items are transport (drive less, EV over petrol), flying (often the single biggest slice of a personal footprint), and home energy (insulation, electric heat pump instead of a gas boiler). Diet matters, especially cutting beef and lamb. Solar panels are worth it if you can afford them and own your roof. Switching to a renewable energy supplier helps signal demand. What she explicitly warns against is spending emotional energy on the small stuff (plastic bags, standby mode, recycling) because it triggers **moral licensing**: feeling like you have "done your bit" by handling a low-impact thing, and using it as a pass on the high-impact things. Her example: someone feels virtuous about bringing a reusable bag, then fills it with beef and dairy.
+
+**Positive tipping points, not just bad ones.** Tim Lenton (*Positive Tipping Points*, 2024) sets out the same idea in a stronger form. Bad tipping points in climate (AMOC, Greenland, Amazon, permafrost) are our biggest risk. But the same mechanics of reinforcing feedback also produce fast good change: Norway went from 0.25% to 84% EV sales in 14 years, UK coal fell from 40% to 2% of electricity in 7 years, wind and solar double worldwide every 3 years. His colleague Simon Sharpe argues we need to move "Five Times Faster" (7% emissions cuts per year) to stay below 2°C, and ten times faster to keep 1.5°C alive. **The framing shift matters: it's not "how much damage can we avoid" but "which good tipping points can we trigger fastest".** See [Climate Tipping Points](../climate-science/climate-tipping-points.md).
 
 ## Connected topics
 
