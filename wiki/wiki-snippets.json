@@ -1334,8 +1334,8 @@
       "5,000 years ago",
       "black carbon",
       "three consecutive days",
-      "wildfires",
-      "fires"
+      "france: 122,000 hectares",
+      "spain: 240,000 hectares"
     ]
   },
   {
@@ -3156,6 +3156,62 @@
       "average",
       "matters",
       "reports"
+    ]
+  },
+  {
+    "slug": "cop17-biodiversity-yerevan-2026",
+    "filename": "legislation-policy/cop17-biodiversity-yerevan-2026.md",
+    "label": "COP17 Biodiversity (Yerevan, 2026): the first progress check on the global nature targets",
+    "summary": "COP17 Biodiversity Yerevan Armenia 19-30 October 2026 Taking Action for Nature, Kunming-Montreal Global Biodiversity Framework 23 targets, 30x30 protect 30 percent land sea Target 3, restore 30 percent Target 2, pesticides fertilisers Target 7, harmful subsidies $500 billion Target 18, nature finance $200 billion Target 19, Cali Fund digital genetic data, COP16 Cali 2024 Rome 2025, NBSAPs national plans Seventh National Reports 125 of 196, IPBES Nexus Assessment 71 response options, Rio Conventions climate desertification COP31, EU Nature Restoration Law 2026, Ireland 4th National Biodiversity Action Plan, Aichi targets failure, halfway point 2022-2030",
+    "category": "legislation-policy",
+    "tags": [
+      "biodiversity",
+      "cop30",
+      "eu-policy",
+      "nature",
+      "finance"
+    ],
+    "keywords": [
+      "editorial summary",
+      "cop15 (montreal, 2022)",
+      "national plans",
+      "seventh national reports",
+      "the result of the global review",
+      "ambition of national plans",
+      "finance",
+      "harmful subsidies",
+      "30x30",
+      "links with climate and land",
+      "eu nature restoration law",
+      "source quality"
+    ]
+  },
+  {
+    "slug": "cop31-antalya-2026",
+    "filename": "legislation-policy/cop31-antalya-2026.md",
+    "label": "COP31 in Antalya: dates, structure and main topics",
+    "summary": "COP31 Antalya Turkiye 9-20 November 2026, Murat Kurum President-Designate, Chris Bowen Australia President of Negotiations, Pacific Pre-COP Fiji, shared host arrangement first time, implementation COP, ten priorities electrification 35 percent by 2035, zero waste methane 50 percent reduction, buildings 25 percent energy intensity cut, circular materials 15 percent, climate education 2035, food security ocean seas health, Rio synergies, Climate Implementation Bridge, NDCs national climate plans, $300 billion climate finance $1.3 trillion aspiration, adaptation finance tripling, fossil fuel transition, just transition mechanism, thematic days, Global Climate Action Agenda six axes, Türkiye 2053 net zero, Australia coal gas exporter, Istanbul Climate Finance Summit",
+    "category": "legislation-policy",
+    "tags": [
+      "cop30",
+      "diplomacy",
+      "finance",
+      "coalition",
+      "adaptation"
+    ],
+    "keywords": [
+      "editorial summary",
+      "türkiye",
+      "australia",
+      "the pacific",
+      "national climate plans (ndcs)",
+      "climate finance",
+      "adaptation",
+      "fossil fuels",
+      "just transition",
+      "the ambition gap",
+      "finance delivery",
+      "adaptation finance and indicators"
     ]
   },
   {
@@ -6613,12 +6669,12 @@
       "5. cultural and landscape value",
       "6. human wellbeing",
       "current laws",
-      "biodiversity strategy for 2030",
-      "common agricultural policy (cap) 2023–27",
-      "key eu targets",
-      "10% of agricultural land",
-      "310 million tonnes of co₂ equivalent",
-      "with the highest hedgerow density:\n\n-"
+      "and the use of",
+      "shade and shelter",
+      "- develop a",
+      "for your farm's hedges\n-",
+      "develop into treelines",
+      "two- or three-year rotation"
     ]
   },
   {
@@ -7536,6 +7592,34 @@
     ]
   },
   {
+    "slug": "earthshot-positive-tipping-points-guardian-2026",
+    "filename": "sources/earthshot-positive-tipping-points-guardian-2026.md",
+    "label": "Climate solutions most likely to reach positive tipping points (Guardian / Earthshot / University of Exeter, September 2026)",
+    "summary": "positive tipping points, Earthshot Prize Global Systems Institute report, Steve Smith University of Exeter, Tim Lenton, 51 priority areas five environmental goals, clean electricity highest leverage, cascade effect, Africa 2 percent clean energy investment 60 percent solar potential, coordinated policy 2-8 years earlier tipping, commodity supply chains deforestation beef soy palm oil timber cocoa coffee, EU China UK US alignment, clean cooking pay-as-you-go 2.1 billion solid fuels, methane abatement satellites drones, adaptation self-reinforcing insurance, $7.3 trillion damage vs $220 billion nature-based solutions, UN State of Finance for Nature 2026, £30 to £1 ratio degrade vs protect",
+    "category": "sources",
+    "tags": [
+      "science",
+      "renewables",
+      "key-ideas",
+      "nature",
+      "finance"
+    ],
+    "keywords": [
+      "source",
+      "primary report",
+      "lead author",
+      "positive tipping-point science",
+      "51 priority areas",
+      "-",
+      "despite having",
+      "- transforming",
+      "eu, china, uk and us",
+      "2.1 billion people",
+      "methane abatement",
+      "adaptation can become self-reinforcing"
+    ]
+  },
+  {
     "slug": "eat-lancet-2025-carbonbrief",
     "filename": "sources/eat-lancet-2025-carbonbrief.md",
     "label": "EAT-Lancet 2025 report — three key takeaways on climate and diet change (Carbon Brief)",
@@ -7589,6 +7673,33 @@
       "saudi aramco",
       "sabic",
       "at most 5% of feedstock"
+    ]
+  },
+  {
+    "slug": "eu-right-to-repair-rte-2026",
+    "filename": "sources/eu-right-to-repair-rte-2026.md",
+    "label": "EU right-to-repair rules enter force in Ireland (RTÉ, August 2026)",
+    "summary": "EU Right to Repair Directive in force August 2026, 35 million tonnes premature disposal waste, national repair platform RepairMyStuff.ie, repair obligation manufacturers, washing machines vacuum cleaners mobile phones tablets, reasonable price timeframe, spare parts access, €4.8 billion growth investment, Ireland Peter Burke Enterprise Minister, Darragh O'Brien Climate Minister, sellers guarantee period, extended producer responsibility, e-waste, ecodesign for sustainable products regulation ESPR, right to repair",
+    "category": "sources",
+    "tags": [
+      "eu-policy",
+      "circularity",
+      "e-waste",
+      "ireland"
+    ],
+    "keywords": [
+      "source",
+      "the regulation gives consumers",
+      "at a",
+      "35 million tonnes of waste",
+      "35 million tonnes",
+      "€4.8 billion in growth and investment",
+      "easily accessible information",
+      "spare parts at a reasonable price",
+      "repairmystuff.ie",
+      "peter burke",
+      "darragh o'brien",
+      "structural shift in consumer rights"
     ]
   },
   {
@@ -7872,6 +7983,33 @@
       "economics",
       "floods",
       "niranjan"
+    ]
+  },
+  {
+    "slug": "hedgerow-management-farmers-journal-2026",
+    "filename": "sources/hedgerow-management-farmers-journal-2026.md",
+    "label": "Role of hedgerows in enhancing biodiversity cannot be over-emphasised (Farmers Journal / Hedgerows Ireland, August 2026)",
+    "summary": "hedgerow management Ireland, Hedgerows Ireland, songbird species two-thirds, hedge-cutting season winter, flail machine damage, mulching head disease rotting, multi-annual plan, veteran heritage hedgerows townland barony boundaries, treeline development, two-year three-year rotation, cutting height raise, intermittent bushes trees, defer cutting late winter, coppicing hedge-laying rejuvenation, 20 to 40 years cycle, gappy hedges, heatwave livestock shade shelter, flood infiltration nutrients buffer, nitrates derogation",
+    "category": "sources",
+    "tags": [
+      "ireland",
+      "biodiversity",
+      "agriculture",
+      "nature-based-solutions"
+    ],
+    "keywords": [
+      "source",
+      "attribution note",
+      "two-thirds of ireland's songbird species",
+      "mulching heads",
+      "flood control",
+      "nutrients buffering",
+      "shade and shelter",
+      "historically significant hedges",
+      "irreplaceable",
+      "veteran hedgerows",
+      "rejuvenation every 20-40 years",
+      "develop a multi-annual management plan"
     ]
   },
   {
@@ -8483,6 +8621,34 @@
     ]
   },
   {
+    "slug": "refarm-wicklow-farmer-nature-thejournal-2026",
+    "filename": "sources/refarm-wicklow-farmer-nature-thejournal-2026.md",
+    "label": "ReFarm Wicklow — farmer-led wildlife ponds and blended finance for nature (The Journal, September 2026)",
+    "summary": "ReFarm Wicklow, blended finance nature, Anke Heydenreich, Brendan Dunford Burrenbeo Trust, Farming for Nature, Hare's Corner, Trinity College Dublin Jane Stout Martha O'Hagan, wildlife ponds 150 sq m minimum 761 sq m average €3000 per farm, freshwater biodiversity 60 percent native species, John Paul Construction blended finance, Wicklow County Council Hannah O'Kelly, Kate Harrington Aoife O'Rourke ecologists, Hilda Crampton Castleruddery Organic Farm, Paul Carberry, 70 percent Irish land farmed, 80 farms scaled, Leitrim Longford Laois Meath county councils 2026, Wicklow Biodiversity Action Plan 2026-2031, Ireland ponds lost agricultural drainage",
+    "category": "sources",
+    "tags": [
+      "ireland",
+      "biodiversity",
+      "agriculture",
+      "nature-based-solutions",
+      "finance"
+    ],
+    "keywords": [
+      "source",
+      "refarm wicklow",
+      "refarm",
+      "anke heydenreich",
+      "dr brendan dunford",
+      "wildlife ponds",
+      "~80 farms",
+      "due to double",
+      "ponds must be ≥150 m²",
+      "€3,000 per farm",
+      "761 m²",
+      "farmers manage ~70% of ireland's land"
+    ]
+  },
+  {
     "slug": "sand-battery-finland-pornainen-2026",
     "filename": "sources/sand-battery-finland-pornainen-2026.md",
     "label": "World's largest sand battery online in Finland (OilPrice.com, July 2026)",
@@ -8993,6 +9159,33 @@
     ]
   },
   {
+    "slug": "water-vapour-record-copernicus-guardian-2026",
+    "filename": "sources/water-vapour-record-copernicus-guardian-2026.md",
+    "label": "Global atmospheric water vapour record in August 2026 (Copernicus C3S / Guardian, September 2026)",
+    "summary": "water vapour record August 2026, Copernicus C3S ERA5 dataset 1979 baseline, 27.35 kg per square metre, 20 trillion litres, 41 Sydney Harbours, 7 percent per degree warming, Clausius-Clapeyron relationship, El Niño strongest on record forecast, tropical ocean evaporation, water vapour greenhouse gas feedback loop, Andrew Dessler Texas A&M, Julien Nicolas C3S, Steven Sherwood UNSW, Jason Evans UNSW, Kimberley Reid Melbourne, cyclone intensification, night-time cooling loss, heatwave humidity, 170 years hottest month, NOAA record",
+    "category": "sources",
+    "tags": [
+      "science",
+      "ocean",
+      "adaptation",
+      "carbon"
+    ],
+    "keywords": [
+      "source",
+      "primary source",
+      "20 trillion litres",
+      "41 sydney harbours",
+      "and the current",
+      "- august was also the",
+      "and",
+      "-",
+      "6× more likely by global heating",
+      "intensifies rainfall",
+      "adds energy to storms",
+      "moves heat to higher latitudes"
+    ]
+  },
+  {
     "slug": "watershed-ai-emissions-guide-2025",
     "filename": "sources/watershed-ai-emissions-guide-2025.md",
     "label": "AI Emissions: A Practical Guide for Corporate Sustainability Leaders",
@@ -9034,6 +9227,33 @@
       "flying",
       "high-income",
       "facts"
+    ]
+  },
+  {
+    "slug": "wildfires-2026-first-lessons-ecologie360",
+    "filename": "sources/wildfires-2026-first-lessons-ecologie360.md",
+    "label": "Wildfires 2026 — first lessons (Écologie 360, summer 2026)",
+    "summary": "wildfires 2026 France 122000 hectares Spain 240000 Canada 4.1 million United States 2.9 million, rescEU water bombing planes 12 new EU Commission 2028, France Spain Portugal Italy Greece Croatia, Gironde megafire, resilient forests mixed species wetland restoration firebreaks brush clearing, Andalusia grazing sheep goats cattle fuel reduction, FAO United Nations international fire brigade concept, Kirschner Clark Boustras Governing Wildfires Ecology and Society 2023, megafires recurring risk continents",
+    "category": "sources",
+    "tags": [
+      "adaptation",
+      "eu-policy",
+      "coalition",
+      "forest"
+    ],
+    "keywords": [
+      "source",
+      "reference cited",
+      "france: 122,000 hectares",
+      "spain: 240,000 hectares",
+      "canada: 4.1 million hectares",
+      "united states: 2.9 million hectares",
+      "russia and brazil",
+      "resceu system",
+      "12 new water-bombing planes",
+      "with the first delivered in",
+      "- described as",
+      "## building more resilient forests\n\n-"
     ]
   },
   {
