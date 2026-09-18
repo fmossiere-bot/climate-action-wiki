@@ -4,7 +4,7 @@ category: climate-science
 tags: ["#science", "#key-ideas", "#carbon", "#ocean", "#forest"]
 sources: ["raw/papers/Positive Tipping Points – Part I summary.pdf"]
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-18
 summary: climate tipping points, Tim Lenton, John Schellnhuber tipping elements, 16 elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent, wind solar double every 3 years, Wright's Law learning by doing, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent, Subpolar gyre North Atlantic, Amazon savannisation 40 percent, permafrost 2x human emissions, coral reefs 70-90 percent at 1.5C, Dansgaard-Oeschger events, positive tipping points, social tipping points, hothouse Earth, climate niche
 ---
 
@@ -97,6 +97,25 @@ Tipping points have happened before in both climate and society, so they can hap
 Lenton's argument in one line: **bad tipping points in climate and society are our biggest risk; good tipping points in society, technology and nature are our best hope.** The book's premise is that step-by-step change is now too slow, so only tipping points can move fast enough.
 
 **Simon Sharpe** (Lenton's colleague) argues we must go **"Five Times Faster"** — cutting emissions ~7% a year — which gives good odds of staying below 2°C and maybe 1.7°C if we get there fast. **Ten times faster** would keep 1.5°C alive; the UK power sector already cut 10% a year for a while, so it has been done, but not across every sector at once.
+
+## September 2026: which positive tipping points are closest?
+
+A follow-up **University of Exeter–Earthshot Prize report** (September 2026, lead author Dr Steve Smith) applies Lenton's framework to **51 priority areas** across five environmental goals: protecting nature, cleaning the air, reviving oceans, eliminating waste and tackling the climate crisis.
+
+Its headline finding: **clean electricity is the highest-leverage transition**, because cheaper solar and wind unlock a cascade — better EV economics, cheaper heat pumps, cleaner industry, reduced air pollution — that then reinforces demand for more renewables. Solar and wind have **already crossed positive tipping points in many major markets**. Coordinated policies across power, transport and heating could bring forward tipping points in each sector by **2 to 8 years**.
+
+Other levers close to their positive tipping points:
+
+- **Global commodity supply chains** (beef, soy, palm oil, timber, cocoa, coffee) — a small number of firms, banks and regulators control the trade. Aligning EU / China / UK / US standards could make deforestation-free products the global norm
+- **Clean cooking and household energy** — pay-as-you-go and decentralised solar are close to a tipping point for the 2.1 billion people still cooking with solid fuels
+- **Methane abatement** — Smith: *"one of the fastest levers we have available for limiting peak warming"* — satellites and drones now expose leaks previously invisible
+- **Adaptation itself** — flood defences and resilient infrastructure lower losses, which cuts insurance and borrowing costs, which attracts more investment
+
+**The bottleneck is finance direction, not finance volume.** The report cites UN State of Finance for Nature 2026: **$7.3 trillion per year flows to activities that degrade nature** vs **$220 billion per year for nature-based solutions** — a ratio of ~£30 spent trying to degrade nature for every £1 spent protecting it. Smith's framing: *"That's a political choice and it's not a lack of finance. It's where it's used."*
+
+The blocker for the biggest lever (clean electricity) is **investment allocation**: Africa has **60% of the world's best solar resources but attracts under 2% of global clean-energy investment**.
+
+*Source: [Earthshot Positive Tipping Points (source summary)](../sources/earthshot-positive-tipping-points-guardian-2026.md); Guardian, Matthew Pearce, 10 September 2026*
 
 ## Connected topics
 

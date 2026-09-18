@@ -4,7 +4,7 @@ category: climate-science
 tags: ["#science", "#ocean", "#adaptation", "#key-ideas", "#coalition"]
 sources: ["Forbes — Ingmar Rentzhog, 9 July 2026 — https://www.forbes.com/sites/we-dont-have-time/2026/07/09/why-a-record-hot-ocean-is-supercharging-the-el-nio-effect/"]
 created: 2026-07-13
-updated: 2026-08-03
+updated: 2026-09-18
 summary: ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-99%, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment
 ---
 
@@ -42,6 +42,14 @@ The headline framing is that El Niño drives weather. The deeper finding is that
 ## Even without El Niño, a hot sea rewrites the weather
 
 Warmer water evaporates faster, and warmer air holds more moisture. That loads the odds toward heavier rain and hands extra energy to storms that form over hot water. It also takes away the **cool nights** that coastlines rely on — the quiet killer in this year's June heatwave. The Mediterranean showed the pattern clearly: a sea running 5 to 6°C above normal in early summer is a huge store of moisture that often falls later in the year as **sudden, violent autumn rain**. Europe saw this in 2023, when a record-hot North Atlantic was followed by brutal heat, deadly Spanish floods and fierce fires around the Mediterranean. The Mediterranean is **warming ~20% faster than the global ocean average** — a European-specific acceleration flagged by Anaïs Massé, scientific director at Fondation de la mer, in a June 2026 interview.
+
+### August 2026: atmospheric water vapour record
+
+The evaporation-into-rain feedback is now visible in the record itself. **In August 2026, the planet's atmosphere held more water vapour than any month on record** — 27.35 kg/m² per Copernicus C3S, 0.04 kg/m² above the previous record (July 2024). That 0.04 kg/m² equals roughly **20 trillion litres or 41 Sydney Harbours** of additional water in the air. Two drivers: **August was also the hottest month in NOAA's record (since 1850)**, and the **historic El Niño** is dumping vast moisture from evaporating tropical oceans into the atmosphere. The rule of thumb: **~7% more water vapour per °C of warming** (Clausius-Clapeyron).
+
+**This is the feedback loop in action.** Water vapour is itself a greenhouse gas: more CO2 → more warming → more atmospheric water → more warming. Dr Kimberley Reid (Melbourne): *"The root cause is the extra CO2 and methane."* Dr Andrew Dessler (Texas A&M) called it *"unimaginable that any month in the last few thousand years, maybe 100,000 years"* had more atmospheric water than August 2026.
+
+What extra water vapour does: intensifies rainfall (including cyclones), adds energy to storms as heat is released when water condenses, moves heat to higher latitudes, and — crucially for mortality — **stops night-time cooling during heatwaves**. See [water vapour record (source)](../sources/water-vapour-record-copernicus-guardian-2026.md).
 
 ## Coral, fisheries, and the permanent bill
 

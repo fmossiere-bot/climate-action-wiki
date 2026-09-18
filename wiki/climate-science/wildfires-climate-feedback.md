@@ -10,7 +10,7 @@ sources:
   - New Scientist, Alec Luhn, 29 April 2026 — from raw/papers/New Scientist 2.pdf
   - New Scientist, Michael Le Page, 13 May 2026 — from raw/papers/New Scientist 2.pdf and raw/papers/Artic-Fires.pdf
 created: 2026-06-12
-updated: 2026-06-29
+updated: 2026-09-18
 summary: "wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record, UK heatwave 2026, red warning, Derbyshire wildfire, 35°C, temperate country, June 2026, Met Office, record heat, European heatwave 40°C, Germany, Poland"
 ---
 
@@ -59,6 +59,30 @@ Wildfires also release **black carbon** — fine soot particles. Black carbon ha
 The 2025 wildfire season's extremes continued into 2026. In the last week of June 2026, the UK Met Office issued red heat warnings for **three consecutive days** — the first time that has ever happened in Britain. Temperatures exceeded 35°C and overnight lows met the technical definition of "tropical." An active wildfire burned across moorland in Derbyshire — extraordinary for a temperate country in early summer. Germany and Poland were bracing for 40°C.
 
 These events were widely covered as remarkable. They are, in fact, precisely what climate science has been projecting for years: extreme heat events that were once rare are becoming routine, and they are moving into the calendar months and geographic regions previously considered safe.
+
+## Summer 2026: an even worse record and the policy response
+
+Summer 2026 broke the 2025 European record. Up to mid-August 2026:
+
+- **France: 122,000 hectares** — a record for the country
+- **Spain: 240,000 hectares**
+- **Canada: 4.1 million hectares**
+- **United States: 2.9 million hectares**
+- Also very large fires in **Russia and Brazil**
+
+**The rescEU system** — the EU's shared civil-protection reserve — was used during the Gironde megafire and now pools water-bombing planes, helicopters and hundreds of pre-positioned expert firefighters. The European Commission is paying for **12 new water-bombing planes** to be shared between **France, Spain, Portugal, Italy, Greece and Croatia**, with the first delivered in **2028**. This is described as *"the first permanent response to a risk that is now continent-wide."*
+
+On the prevention side, foresters and land managers are shifting toward more resilient landscapes:
+
+- **Mixed tree species** rather than uniform stands
+- **Restoring wetlands** as natural fire breaks and moisture reservoirs
+- **Wider firebreaks**
+- **Clearing brush around homes** (still one of the most effective single measures)
+- **Grazing as a strategic tool** — Andalusia is putting sheep, goats and cattle back onto fire-prone landscapes to keep vegetation down and reduce fuel load
+
+Longer term, the **FAO and UN** have raised since the early 2000s the idea of a **dedicated international fire brigade** able to act anywhere in the world during major crises, modelled on how emergency aid works after natural disasters. Scientists back it; it has not happened. The European rescEU experience shows permanent cross-border cooperation is possible, and 2026's global fire toll may finally give the international-brigade concept credibility.
+
+*Source: [Wildfires 2026 first lessons (source summary)](../sources/wildfires-2026-first-lessons-ecologie360.md); Écologie 360 summer 2026*
 
 ## Summary findings
 

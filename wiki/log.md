@@ -4,6 +4,57 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-09-18] ingest | 8 articles + 1 own-research — Earthshot tipping points, water vapour record, ReFarm Wicklow, EU Right to Repair, hedgerows, wildfires 2026, CBD COP17 Yerevan, COP31 Antalya, bee hotels
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| `raw/articles/Climate solutions most likely to reach 'positive tipping points'.md` | Source summary + update | `wiki/sources/earthshot-positive-tipping-points-guardian-2026.md` + new "September 2026: which positive tipping points are closest?" section in `wiki/climate-science/climate-tipping-points.md` |
+| `raw/articles/El Niño...water vapour...record levels in August.md` | Source summary + update | `wiki/sources/water-vapour-record-copernicus-guardian-2026.md` + new "August 2026: atmospheric water vapour record" subsection in `wiki/climate-science/record-hot-ocean-el-nino-2026.md` |
+| `raw/articles/Ireland's nature heroes...farmers turning corners...wildlife havens.md` | Source summary | `wiki/sources/refarm-wicklow-farmer-nature-thejournal-2026.md` |
+| `raw/articles/New EU-wide product repair rules come into force.md` | Source summary | `wiki/sources/eu-right-to-repair-rte-2026.md` |
+| `raw/articles/Old concrete blocks are quietly becoming five-star hotels for native bees.md` | Update only | New "Practical: solitary bee shelters at home" section in `wiki/biodiversity-land/why-bees-matter.md` (light how-to, no standalone source summary — EcoPortal is a weak-standalone source but the practical detail is worth keeping) |
+| `raw/articles/Role of hedgerows in enhancing biodiversity 'cannot be over-emphasised'.md` | Source summary + update | `wiki/sources/hedgerow-management-farmers-journal-2026.md` + new "How hedgerows are cut matters as much as whether they exist" section in `wiki/solutions/nature-based-solutions/The importance of Hedgerows.md` |
+| `raw/articles/Wild fires 2026 first lessons.md` | Source summary + update | `wiki/sources/wildfires-2026-first-lessons-ecologie360.md` + new "Summer 2026: an even worse record and the policy response" section in `wiki/climate-science/wildfires-climate-feedback.md` |
+| `raw/articles/cop17-biodiversity-yerevan-2026.md` | File directly | `wiki/legislation-policy/cop17-biodiversity-yerevan-2026.md` (structure and content are clearly Fabien's own synthesis with 10 sections + credibility notes, treated as own-research even though the file sits in `raw/articles/` — editorial-summary blockquote added per CLAUDE.md own-research rule) |
+| `raw/own-research/cop31-antalya-overview.md` | File directly | `wiki/legislation-policy/cop31-antalya-2026.md` (frontmatter + editorial-summary blockquote, body preserved verbatim; also cross-linked from `COP30.md`'s existing COP31 subsection) |
+
+### Key facts introduced this batch
+
+- **Earthshot positive tipping points (Steve Smith / Univ. Exeter):** 51 priority areas across 5 environmental goals; clean electricity is "highest-leverage" transition (cascades into EVs, heat pumps, industry, cleaner air); coordinated policy could bring tipping points forward 2-8 years; commodity supply chains (beef, soy, palm oil, timber, cocoa, coffee) as second-highest lever if EU/China/UK/US align; Africa gets <2% of global clean-energy investment despite 60% of best solar; $7.3tn/yr flows to activities degrading nature vs $220bn/yr to nature-based solutions (UN State of Finance for Nature 2026); "£30 spent to degrade for every £1 to protect"
+- **Water vapour record (Copernicus C3S, August 2026):** 27.35 kg/m² global mean = ~20 trillion litres above previous record (July 2024) = ~41 Sydney Harbours; August also joint-hottest month on ERA5 (since 1940) and hottest in NOAA (since 1850); ~7% more water per °C of warming (Clausius-Clapeyron); Dessler: "unimaginable that any month in the last few thousand years, maybe 100,000 years" had more atmospheric water; feedback loop visible in the record — water vapour is itself a greenhouse gas
+- **ReFarm Wicklow:** 80 farms across Ireland, doubling in 2026; ponds ≥150 m² (Wicklow average 761 m²), up to €3,000 per farm; support 60% of Ireland's native freshwater species; funded by Wicklow County Council + John Paul Construction; Trinity College Dublin (Stout, O'Hagan) as independent research partner; now spreading to Leitrim, Longford, Laois, Meath; blended-finance model (public + private + philanthropic)
+- **EU Right to Repair (in force August 2026):** targets 35 Mt/yr of premature-disposal waste EU-wide; €4.8bn growth expected; RepairMyStuff.ie as Ireland's national platform; obligation covers washing machines, vacuum cleaners, phones, tablets; repair-on-request after guarantee period, "reasonable price and timeframe", spare-parts access
+- **Hedgerows (Hedgerows Ireland):** two-thirds of Irish songbird species use hedgerows in intensive farm landscapes; annual flail-cutting to same height damages growing points; mulching heads shatter stems; 20-40 year rejuvenation cycle via coppicing or hedge-laying; treat townland/barony-boundary hedges as irreplaceable; heatwave livestock-shade benefit now visible (2026 European summer)
+- **Wildfires 2026:** France 122,000 ha (record), Spain 240,000 ha, Canada 4.1 M ha, US 2.9 M ha (mid-August 2026); rescEU expanding with 12 new water-bombers from 2028 shared across France/Spain/Portugal/Italy/Greece/Croatia; grazing (sheep, goats, cattle in Andalusia) returning as strategic fuel-reduction tool; FAO/UN international-brigade concept gaining credibility
+- **CBD COP17 Yerevan (19-30 October 2026):** first global review of Kunming-Montreal Framework at halfway point; 125 of 196 Parties submitted 7th National Reports on time; IPBES Nexus Assessment as scientific toolbox with 71 response options; Target 18 (harmful subsidies -$500bn/yr) as politically hardest; 30x30 quality/management as much as quantity; EU negotiates as bloc, Ireland's angle via 4th National Biodiversity Action Plan and EU Nature Restoration Law
+- **COP31 Antalya (9-20 November 2026):** first COP with shared host arrangement (Türkiye Presidency + Australia negotiations lead + Fiji Pre-COP); framed as "implementation COP"; Presidency's 10 priorities with 5 measurable 2035 targets (35% electrification, 50% waste-growth cut, 25% building-energy-intensity cut, 15% circular materials, climate education for all); Leaders' Summit 11-12 November; harder tests remain: NDC ambition gap, $300bn/$1.3tn finance delivery, adaptation-finance tripling, fossil-fuel transition, EU CBAM tensions
+
+### Files created
+
+- 6 new source summaries in `wiki/sources/` (Earthshot tipping points, water vapour record, ReFarm Wicklow, EU Right to Repair, hedgerow management, Wildfires 2026)
+- 2 new wiki pages in `wiki/legislation-policy/` (COP17 Yerevan, COP31 Antalya) — both filed as own-research per structure/content
+- 4 existing pages updated: `climate-tipping-points.md` (Earthshot section), `record-hot-ocean-el-nino-2026.md` (water vapour), `wildfires-climate-feedback.md` (2026 lessons), `The importance of Hedgerows.md` (cutting practice), `why-bees-matter.md` (concrete-block bee shelters), `COP30.md` (cross-link to new COP31 page) — 6 pages touched
+- `wiki/index.md` — 6 source rows, 2 legislation-policy rows added; 1 COP30 row updated; date bumped to 2026-09-18
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Positive-tipping-points cluster (this batch's biggest theme): Earthshot source ↔ Lenton source (last batch) ↔ new `climate-tipping-points.md` page ↔ IPBES Nexus source ↔ its-too-late myth. The framework is now anchored in three complementary sources: the Lenton book (theory), the Earthshot 51-priorities report (applied), and the IPBES Nexus (integrated across biodiversity/water/food/health)
+- El Niño / hot ocean cluster: water vapour record ↔ existing record-hot-ocean page ↔ jetstream heatwave patterns ↔ wet-bulb explainer — the feedback loop (CO2 → warming → water vapour → more warming) is now visible in a specific 2026 monthly record
+- Ireland biodiversity cluster: ReFarm ↔ hedgerows ↔ bees; farmer-led nature restoration now has three distinct blended-finance/management/habitat angles
+- COP diplomacy cluster: COP30 → COP31 Antalya → CBD COP17 Yerevan → 2027 Ocean COP (existing page); COP31 and COP17 both cross-linked to the "Rio synergies" theme
+- Wildfires cluster: 2025 (Europe record) → 2026 (worse, plus policy response); Arctic-fires ancient carbon; record-hot ocean as one driver
+
+### Process notes
+
+- The article `cop17-biodiversity-yerevan-2026.md` was in `raw/articles/` but had the structure and depth of Fabien's own research files (numbered 10-section format with credibility/limitations section). Treated as own-research (file directly, editorial summary blockquote) rather than as article-summary — the honest fit for the content
+- The bee-hotel piece was ingested as an update-only rather than a standalone source summary. EcoPortal is SEO-heavy and doesn't merit a wiki source page, but the practical solitary-bee-shelter detail is a rare "what can a reader actually do" addition to the bees page. Judgment call worth logging
+- No skips this batch
+
+---
+
 ## [2026-09-17] ingest | 3 papers + 1 own-research + 1 skip — IPBES Nexus, Lenton tipping points, kelp reality-check, Sustainability Mindset
 
 ### Routing decisions

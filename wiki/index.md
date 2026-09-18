@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-09-17
+Last updated: 2026-09-18
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -103,6 +103,12 @@ Summaries of every ingested source file.
 | [[ipbes-nexus-assessment-2024]] | IPBES (Dec 2024): landmark Nexus Assessment linking biodiversity, water, food, health and climate; 165 authors, 6,500 publications, 71 response options; $7tn/yr in damaging activity vs $0.3-1tn/yr biodiversity finance gap; costs double if biodiversity action delayed 10 years |
 | [[lenton-positive-tipping-points-part1-2026]] | Tim Lenton, *Positive Tipping Points* Part I (Urgency): 16 climate tipping elements, 5 in the danger zone at 1.25°C; Norway EV S-curve (0.25% → 84% in 14 years), UK coal (40% → 2% in 7 years); Sharpe's "Five Times Faster" 7%/yr cuts to hold 2°C |
 | [[seaweed-not-a-climate-solution-newscientist-2026]] | New Scientist (Sep 2026): Filbee-Dexter et al. *PLOS Biology* — kelp restoration and farming will not be a major climate solution; 60% of kelp forests in decline emitting 14 Mt CO2/yr; preservation 8× cheaper than restoration; Running Tide's $70m shutdown |
+| [[earthshot-positive-tipping-points-guardian-2026]] | Guardian (Sep 2026): University of Exeter–Earthshot report (Steve Smith, extending Lenton) — clean electricity is the "highest-leverage" positive tipping point; 51 priority areas; Africa gets 2% of clean-energy investment despite 60% of best solar; $7.3tn/yr flows to damaging vs $220bn/yr to nature |
+| [[water-vapour-record-copernicus-guardian-2026]] | Guardian (Sep 2026): Copernicus C3S — August 2026 broke the global atmospheric water-vapour record (27.35 kg/m², ~20 trillion litres above the 2024 record); 7% more water per °C warming; feedback-loop mechanism now visible in the record itself |
+| [[refarm-wicklow-farmer-nature-thejournal-2026]] | The Journal / The Rewildlife (Sep 2026): ReFarm Wicklow — blended finance pays farmers (up to €3,000) to dig wildlife ponds; Anke Heydenreich + Brendan Dunford; Trinity research partner; 80 farms → doubling in 2026; Leitrim/Longford/Laois/Meath now launching |
+| [[eu-right-to-repair-rte-2026]] | RTÉ (Aug 2026): EU Right to Repair Directive enters force in Ireland; repair-on-request obligation after guarantee period; RepairMyStuff.ie as national platform; targets 35 Mt/yr EU waste from premature disposal |
+| [[hedgerow-management-farmers-journal-2026]] | Farmers Journal / Hedgerows Ireland (Aug 2026): how you cut hedges matters as much as whether they exist; annual flail-cutting damages hedges; mulching heads shatter stems; multi-annual plan, two-year rotation, raise cutting height each year, defer to late winter |
+| [[wildfires-2026-first-lessons-ecologie360]] | Écologie 360 (Summer 2026): 2026 fire season — France 122,000 ha (record), Spain 240,000 ha, Canada 4.1 M ha, US 2.9 M ha; rescEU expanding with 12 new water-bombers from 2028; grazing returns as fuel-reduction tool; FAO/UN international-brigade proposal gains credibility |
 
 ---
 
@@ -460,7 +466,9 @@ Funding the transition — investment, risk, green banking.
 | Page | Description |
 |------|-------------|
 | Boards need to build competencies for a successful ESG strategy | ESG governance for boards |
-| [[COP30]] | COP30 Belém outcomes (November 2025) — **updated** with Santa Marta follow-up and June 2026 Bonn intersessional (TAFF, COP31 Turkey, adaptation-finance baseline dispute) |
+| [[COP30]] | COP30 Belém outcomes (November 2025) — **updated** with Santa Marta follow-up and June 2026 Bonn intersessional (TAFF, COP31 Turkey, adaptation-finance baseline dispute); now cross-linked to dedicated COP31 Antalya page |
+| [[cop17-biodiversity-yerevan-2026]] | **NEW** — CBD COP17 Yerevan (19-30 Oct 2026): first global review of Kunming-Montreal Framework at its halfway point; IPBES Nexus toolbox; harmful-subsidies Target 18 ($500bn/yr) and 30x30 as the hardest tests; Ireland/EU angle via Nature Restoration Law |
+| [[cop31-antalya-2026]] | **NEW** — COP31 Antalya (9-20 Nov 2026): unusual shared Türkiye + Australia + Fiji arrangement; "implementation COP"; ten Presidency priorities (35% electrification, 25% building-energy cut, 15% circular materials, zero-waste/methane); harder tests remain finance delivery, adaptation, fossil-fuel transition |
 | Class 19 - Corporate Climate Action | Terra.do Class 19: corporate action |
 | [[Global spending on subsidies that harm environment rises to $2.6tn]] | Fossil fuel subsidy data |
 | [[IMO Compromise deal - Shipping companies to pay for carbon dioxide produced by vessels]] | IMO shipping carbon deal |

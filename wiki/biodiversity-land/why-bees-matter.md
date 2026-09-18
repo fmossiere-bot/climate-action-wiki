@@ -7,7 +7,7 @@ tags:
   - nature
   - science
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-09-18
 summary: bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss. What about Ireland Pollinator plan, what is ireland implmeenting to support pollinators, and what is dun laoghaire plan
 ---
 
@@ -165,6 +165,23 @@ DLR recognizes that private gardens, balconies, and patios are vital for connect
 #### **D. Infrastructure and Planning**
 
 - **Pollinator Areas:** DLR is establishing pollinator zones not just in parks, but in urban environments like shopping centers and on "brown roofs" (biodiversity roofs) on new developments.
+
+## Practical: solitary bee shelters at home
+
+**Solitary bees don't build hives** — mason and leafcutter bees search for existing cavities (hollow stems, dead wood, crevices). Modern tidy gardens have removed most of the natural options. A very simple, low-cost shelter uses **an old hollow concrete block** packed with hollow tubes:
+
+- Fill the block's opening with **bamboo, reeds or empty plant stems** — up to 100 tubes per block (some species, including blue orchard bees, avoid structures with many more openings than that)
+- **Tube width** should range 1/16 to 1/2 inch, **depth** 3-4 inches for narrow tubes, 5-6 inches for wider (never over 8 inches — female bees lay eggs deep in the tunnel)
+- Position holes **at least 3/4 inch from the block's outer edge** — this cuts exposure to parasitic wasps
+- Mount **south- or southeast-facing**, off the ground, with some overhead shelter, and **close to flowering plants**
+- **Plugged holes are your confirmation** that a female has been there
+- To deter birds, stretch chicken wire across the front; to deter parasitic wasps in autumn (when overwintering eggs are most vulnerable), cover openings with gauze
+
+Concrete has a poor climate reputation (energy-intensive to make, high CO2 per tonne). But once the block exists, repurposing it adds no new emissions, and its **thermal mass keeps the interior warm and stable** — which is exactly what cavity-nesting bees look for.
+
+Distributing several compact shelters around a garden tends to attract more species than a single large "hotel". A pollinator garden beside the shelter creates a self-contained habitat system.
+
+*Source: EcoPortal, Carlos Albero Rojas, 1 September 2026 — https://www.ecoportal.net/en/concrete-blocks-bee-hotels-garden/35212/*
 
 # Sources
 [Pollinators](https://pollinators.ie/all-ireland-pollinator-plan-business-supporters-annual-review-2025/)

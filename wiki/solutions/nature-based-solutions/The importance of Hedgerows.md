@@ -9,7 +9,7 @@ tags:
   - biodiversity
   - france
 created: 2025-09-01
-updated: 2026-06-14
+updated: 2026-09-18
 summary: Hedgerows are a powerful nature-based solution, storing carbon, supporting biodiversity, improving water quality, and protecting farmland. The EU Biodiversity Strategy and CAP 2023–27 target at least 10% of agricultural land under landscape features including hedgerows, as part of broader climate goals. In Ireland, around 689,000 km of hedgerows exist but are declining, with the Climate Action Plan 2024 targeting 40,000 km of new planting. France faces similar pressure, having lost over 40% of its hedgerows since the 1970s. Its 2023 Hedgerow Pact aims for a net gain of 50,000 km by 2030.
 ---
 # SUMMARY
@@ -65,6 +65,27 @@ In summary, planting hedgerows and trees in Irish grasslands supports carbon cap
 **Current laws:** The Wildlife Act already protects hedgerows from cutting between 1st March and 31st August (to protect nesting birds), but there are lots of exemptions for agriculture, which means the protection isn't very strong.
 
 > The situation: Ireland has about 689,000km of hedgerows, but they're being removed at an alarming rate. Less than one third of remaining hedgerows are in good condition. The Irish Government's Climate Action Plan explicitly integrates hedgerows into its broader goals to reduce emissions and improve land use.
+
+### How hedgerows are cut matters as much as whether they exist
+
+Hedgerows Ireland (via the Farmers Journal, August 2026) warns that the shift toward **annual flail-cutting of every farm hedge to the same low height**, and the use of **powerful mulching heads on track machines** to reduce mature tall hedges to stumps, is thinning hedges out and shortening their lives. Repeated same-height cutting damages growing points and thins the base; mulching heads shatter stems and let rotting and disease in. In heatwaves — including the 2026 European summer — hedgerows provide the **shade and shelter** that stops livestock heat-stress, so the management question is now farm-financial, not just conservation.
+
+**Hedgerows Ireland's practical recommendations:**
+
+- Develop a **multi-annual management plan** for your farm's hedges
+- **Identify historically significant hedges** (townland or barony boundaries, double ditches) — treat as irreplaceable
+- Let some hedges **develop into treelines** — may never need cutting or only side-cutting for access
+- Cut some hedges on a **two- or three-year rotation** — allows more plants to flower and fruit
+- For annually-cut hedges, **raise the cutting height by a few centimetres each year** to prevent the damaging "knuckle"
+- **Leave intermittent bushes to mature into trees** at intervals
+- **Defer cutting as long as you can** — ideally late winter, to give birds and wildlife the feeding and shelter
+- **Do not use mulching heads** — "they have no place in hedge management"
+- Manage hedges on a **20-40 year rejuvenation cycle** using coppicing or hedge-laying
+- **Leave veteran hedges alone** — minimum intervention
+
+Two-thirds of Ireland's songbird species feed and breed in hedgerows in intensively-managed landscapes. Hedgerow management is Ireland's second-largest live nature lever, alongside peatland.
+
+*Source: [Hedgerow management (source summary)](../../sources/hedgerow-management-farmers-journal-2026.md); Farmers Journal / Hedgerows Ireland, 30 August 2026*
 
 
 Here is a clear summary covering the EU picture and then France specifically.
