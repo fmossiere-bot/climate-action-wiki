@@ -84,6 +84,7 @@ At the UN Water Conference in 2023, the first such international gathering in ne
 ---
 
 ### Water in Ireland
+#ireland 
 
 Ireland has some of the best water quality and cleanest beaches in Europe. The country's climate has historically meant enough rainfall to meet most needs. However, Ireland's per capita water usage is significantly higher than the European average, and the combination of climate change and a growing population is expected to put that supply under increasing pressure in the medium to long term.
 
@@ -94,6 +95,17 @@ Groundwater in Ireland originates from rainfall that seeps through soil and bedr
 On drinking water, the EPA conducts audits, maintains a Remedial Action List for supplies that fall below standard, and works to eliminate risks from harmful bacteria, disinfection by-products, lead in old pipework and pesticide contamination. It publishes an annual report on the quality of both public and private water supplies.
 
 Half of septic tank systems in Ireland fail inspection, which is a significant risk to both groundwater and public health in rural areas where connection to mains drainage is not available.
+
+> **An example of recent problems: Lough Neagh** 
+> Lough Neagh faced an unprecedented crisis, with the development of Algae affecting the quality of the water, and putting at risk its biodiversity.
+> 
+>  **Lough Neagh is the biggest freshwater lake, by surface area, in Ireland and Britain, supplies 40 per cent of the North’s drinking water, and sustains a major eel-fishing industry.**
+>  
+>  **What has been causing this?** 
+> - Noxious blooms covered large parts of the lough last summer, and also affected other waterways and beaches in the region
+> - Nitrogen and phosphorus from agricultural fertiliser running off fields were believed to be a major contributory factor.
+> - The spread of the invasive zebra mussel species is also understood to have played a role, as they have made the water clearer, allowing more sunlight to penetrate, stimulating more algal photosynthesis.
+> - Climate change is another factor cited, with the highest water temperature at Lough Neagh recorded last June.
 
 ---
 

@@ -4,6 +4,7 @@ category: solutions
 tags:
   - carbon
   - carbon-removal
+  - cool-companies
 created: 2026-06-01
 updated: 2026-06-01
 summary: Technologie - Carbon removal is a growing field, but it is still far from the scale needed to make a real difference. This article looks at four examples of companies and research projects working on it, using very different approaches. Terra Fertilis uses biochar to store carbon in soil while improving its health. Silicate, an Irish start-up, spreads cement dust on farmland to trigger natural mineral absorption of CO2. Heirloom Carbon pulls CO2 directly from the air using processed limestone. A separate research team is developing an electrically charged mist to capture carbon from power plant emissions. Each approach has promise, and each has limits.
@@ -26,7 +27,8 @@ Biochar also offers a potential alternative to synthetic fertilisers, which are 
 
 ---
 
-### Silicate - Enhanced Rock Weathering (Ireland)
+### Silicate - Enhanced Rock Weathering
+#ireland 
 
 Silicate is an Irish start-up with a distinctive approach: it uses cement dust, a waste product from the construction industry, to enhance soil and capture CO2. The process is based on mineral weathering, a natural phenomenon where certain rocks absorb carbon dioxide over time. Silicate accelerates this process by spreading fine mineral particles on agricultural land, which also improves soil fertility as a by-product.
 
