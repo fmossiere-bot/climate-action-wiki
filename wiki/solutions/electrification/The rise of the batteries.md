@@ -3,7 +3,7 @@ title: The Rise of Batteries
 category: solutions
 tags: ["#battery", "#ev", "#energy-transition", "#phaseout"]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-10-08
 summary: battery sales growth, S-curves, battery cost decline, energy density, battery domino effect, fossil fuel phase-out, lithium-ion batteries, RMI X-Change Batteries report, BNEF forecasts, electric vehicles, stationary storage, shipping and aviation batteries, lithium mining myths
 ---
 
@@ -33,6 +33,12 @@ Modellers have consistently underestimated how fast batteries would grow. Superi
 
 The most effective strategy to rapidly phase out fossil fuels is to accelerate deployment of technologies that reduce fossil fuel demand directly, and batteries are doing exactly that. RMI estimates batteries are on track to displace **86 exajoules of fossil fuel demand from road transport** (avoiding around 6 gigatonnes of CO2 per year), and to put a further **23 exajoules** (1.6 GtCO2/year) at risk in shipping and aviation. In electricity generation, by synchronising the variable rhythms of solar and wind supply with the timing of demand, batteries could help displace a further **175 exajoules** of fossil fuel demand, or almost 15 gigatonnes of CO2 per year. Batteries have got this far through sustained effort from companies, governments, researchers and climate advocates, and continued growth will require that effort to continue, whatever the underlying motivation: lower prices, geopolitical advantage, or climate.
 
+## A second chemistry: sodium-ion goes commercial
+
+For a decade the storage conversation was about one battery chemistry. That changed in 2024-2026. **Sodium-ion batteries** — using sodium instead of lithium, iron-based cathodes instead of nickel and cobalt, and aluminium current collectors instead of copper — crossed from pilot into commercial-scale deployment. The world's largest battery maker (CATL) launched a field-validated sodium grid storage system in June 2026; BYD broke ground on a 30 GWh dedicated sodium plant; GM is prototyping sodium cells for US data centres through its Peak Energy partnership.
+
+Sodium-ion has lower energy density than lithium (~160-175 Wh/kg vs 205 for LFP, 255+ for NMC), so it will not replace lithium in long-range EVs. But it is well-suited to **stationary grid storage, entry-level urban EVs and cold-climate home storage**, where its advantages (abundant and cheap raw material, no cobalt or nickel, 90% capacity down to -40°C, zero-volt shipping safety) matter more than weight. **The strategic effect: the storage half of the energy transition is no longer dependent on a single battery chemistry.** See the dedicated [sodium-ion batteries](sodium-ion-batteries.md) page.
+
 ## Understanding the lithium battery: the mining myth
 
 A common objection to the battery transition is that mining the materials for batteries, particularly lithium, will end up being worse for the climate and environment than continuing to burn fossil fuels. This claim does not hold up: even accounting for the mining and processing required, batteries deliver a large net reduction in lifecycle emissions compared with the fossil fuels they displace, and battery materials can be recycled repeatedly, unlike coal, oil or gas, which are burned once and gone. See the myth-busting discussion in [Climate Myth Busters: EVs, Batteries and Recycling](../../_Archive/FACTS%20-%20Climate%20Myth%20Busters%20and%20Back%20Pocket%20Stories.md) for a fuller treatment of this and other common battery and mining objections.
@@ -42,6 +48,8 @@ A common objection to the battery transition is that mining the materials for ba
 - [EV Progress](EV%20Progress.md)
 - [Decarbonising Trucking and Rail Freight](Decarbonising%20Trucking%20and%20Rail%20Freight.md)
 - [Smaller EVs Are Better](../../sectors/transport/smaller-evs-better.md)
+- [Sodium-ion batteries](sodium-ion-batteries.md)
+- [Sand battery, Pornainen (source)](../../sources/sand-battery-finland-pornainen-2026.md)
 
 ## Sources
 

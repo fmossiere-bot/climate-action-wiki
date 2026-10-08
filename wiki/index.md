@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-09-18
+Last updated: 2026-10-08
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -109,6 +109,9 @@ Summaries of every ingested source file.
 | [[eu-right-to-repair-rte-2026]] | RTÉ (Aug 2026): EU Right to Repair Directive enters force in Ireland; repair-on-request obligation after guarantee period; RepairMyStuff.ie as national platform; targets 35 Mt/yr EU waste from premature disposal |
 | [[hedgerow-management-farmers-journal-2026]] | Farmers Journal / Hedgerows Ireland (Aug 2026): how you cut hedges matters as much as whether they exist; annual flail-cutting damages hedges; mulching heads shatter stems; multi-annual plan, two-year rotation, raise cutting height each year, defer to late winter |
 | [[wildfires-2026-first-lessons-ecologie360]] | Écologie 360 (Summer 2026): 2026 fire season — France 122,000 ha (record), Spain 240,000 ha, Canada 4.1 M ha, US 2.9 M ha; rescEU expanding with 12 new water-bombers from 2028; grazing returns as fuel-reduction tool; FAO/UN international-brigade proposal gains credibility |
+| [[solar-foods-electro-ag-newscientist-2026]] | New Scientist (Sep 2026): Michael Le Page on "solar foods" — Solar Foods / Solein approved in US and Singapore; UC Riverside shows solar→acetate→yeast ~18× more efficient than farming; Jinkerson's Nolux spin-out growing plants in the dark on acetate; Calysta/Unibio already at 20-50k t/yr but on fossil methane |
+| [[alps-glaciers-record-loss-newscientist-2026]] | New Scientist (Aug/Sep 2026): Alec Luhn with ETH Zurich (Bauder) on the Rhône glacier — 30 Mt lost = 12,000 Olympic pools; melt line above 3,100 m; Alps on track to beat 2022 (6% of ice lost in a year); 97% of Alps glaciers gone by 2100 under current policies, vs 269 surviving at 2°C; Rhône river sustains 19 hydro plants + 4 nuclear + Côtes du Rhône wine |
+| [[sodium-ion-batteries-notebooklm-2026]] | Two NotebookLM reports (Oct 2026) on sodium-ion batteries — CATL TENER 30 MWh grid blocks, BYD Xuzhou 30 GWh plant, GM/Peak Energy prototyping; cheaper, cold-tolerant, cobalt-free; EV range limited to 250-350 km; 95% of planned capacity in China. **AI-generated source: specific numbers need primary-source verification** |
 
 ---
 
@@ -249,6 +252,7 @@ Funding the transition — investment, risk, green banking.
 | [[FACTS about Farming and Food production]] | Farming's GHG, land, water and feed-conversion footprint |
 | [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
 | [[lab-grown-meat]] | Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
+| [[solar-foods-electro-agriculture]] | **NEW** — Solar foods and electro-agriculture: making food directly from renewable electricity, water, CO2 and nitrogen. Gas fermentation (Solar Foods / Solein, Calysta, Unibio); acetate-based microbes and plants (Jinkerson, Boom, Nolux); Savor's syngas-to-fat; why vertical farming fails but electro-ag could decouple food from land |
 | [[beef-and-climate-change]] | Six-question WRI framing: methane + land-use change, 20× vs beans, 50 cal/day target reconciles feeding 10bn people with keeping forests |
 | [[eat-lancet-planetary-diet-2025]] | EAT-Lancet 2025 planetary health diet — **updated** July 2026 with LSHTM-Cornell *Nature* economic modelling: –85% land-use emissions, –42% livestock production value, 400M fewer ruminants; regional impacts (USA –21%, India +46%, Europe –35%) |
 | FACTS about RICE production | Rice emissions and impact |
@@ -354,7 +358,8 @@ Funding the transition — investment, risk, green banking.
 | [[EV Progress]] | Electric vehicle adoption data |
 | [[Efficient Aviation]] | Aviation efficiency improvements |
 | [[Decarbonising Trucking and Rail Freight]] | Truck and rail freight decarbonisation: BEVs vs FCEVs, barriers, policy, battery chemistry |
-| [[The rise of the batteries]] | Battery technology progress |
+| [[The rise of the batteries]] | Battery technology progress — **updated** October 2026 with a new "A second chemistry" section introducing sodium-ion |
+| [[sodium-ion-batteries]] | **NEW** — Sodium-ion batteries: a second chemistry at commercial scale (CATL TENER, BYD Xuzhou, GM/Peak Energy); best fit for grid storage, urban EVs, cold-climate home storage; cobalt-free; 95% of planned capacity in China; Ireland angle (Eleven Energy's Galvani, TRIDENT project) |
 | [[Active Travel and Human-Powered Transport]] | Active travel action guide: walking, cycling and human-powered transport |
 
 ### Energy Efficiency (`wiki/solutions/energy-efficiency/`)

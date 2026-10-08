@@ -4,6 +4,109 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-10-08] ingest (2nd batch today) | 2 NotebookLM reports — sodium-ion batteries
+
+Both new files are NotebookLM-generated reports on sodium-ion batteries, exported minutes apart on 8 October 2026. One is pitched as educational ("Beyond Lithium"), the other as an executive briefing on the climate-action case.
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| `raw/articles/notebooklm-report-beyond-lithium-understanding-the-sodium-ion-batter-2026-10-08.md` + `raw/articles/notebooklm-report-executive-briefing-how-sodium-ion-batteries-are-tr-2026-10-08.md` | **One** combined source summary (both files cover the same topic in overlapping ways) + **one** new wiki page + update to existing batteries page | `wiki/sources/sodium-ion-batteries-notebooklm-2026.md` + new `wiki/solutions/electrification/sodium-ion-batteries.md` + new "A second chemistry: sodium-ion goes commercial" section in `wiki/solutions/electrification/The rise of the batteries.md` |
+
+### Judgment calls (both documented in the source summary)
+
+- **AI-generated provenance.** Both files are NotebookLM reports — AI syntheses from unspecified source documents, not primary journalism or peer-reviewed research. The source summary carries an explicit provenance caveat at the top warning that specific company numbers (CATL TENER 30 MWh blocks, HyperStrong's 60 GWh contract, BYD's Xuzhou plant, Ireland's TRIDENT project, Eleven Energy's Galvani battery) are presented as fact but have not been verified against primary filings in this ingest.
+- **One combined source summary, not two.** The two reports are complementary rather than independent — same topic, overlapping content, same export session. Keeping them separate would duplicate the provenance caveat and the connected-topics list without adding substance.
+- **The new wiki page keeps hard numbers to a minimum.** It is written to survive if any individual company figure proves inaccurate: the physical / chemical story (hard carbon anode, aluminium current collectors, no cobalt, zero-volt shipping, cold-tolerance) is robust; specific CATL/BYD/HyperStrong capacity numbers are mentioned but with soft framing. Ireland-specific claims (Galvani home battery, TRIDENT project) are flagged as "reportable from the current source material but not independently verified".
+- **Ireland paragraph tagging.** The Ireland section on the new wiki page carries a `<!-- tag: ireland -->` paragraph tag per the updated CLAUDE.md paragraph-tagging rules.
+
+### Key facts introduced this batch (per the reports; verify before citing)
+
+- **Chemistry:** sodium-ion uses hard carbon anodes (not graphite), iron-based Prussian blue or layered oxide cathodes (not NMC), and cheap aluminium current collectors on both electrodes
+- **Density gap:** ~160-175 Wh/kg (sodium-ion) vs 200-205 (LFP) vs 255+ (NMC); SUV range on sodium alone ~250-350 km
+- **Raw materials:** sodium >1,000× more abundant in Earth's crust, 60,000× in seawater; ~$500/tonne vs ~$20,000/tonne for lithium
+- **Cold tolerance:** retains ~90% of nominal capacity at -40°C; operates to 70°C
+- **Transport safety:** can be shipped at 0 Volts, chemically inert, non-flammable
+- **Ethics:** no cobalt or nickel in the cleanest formulations — directly removes the DRC cobalt dependency
+- **Commercial scale:** CATL TENER Sodium BESS (>30 MWh per block, launched Munich June 2026, first deliveries China September 2026); HyperStrong 60 GWh 3-year contract with CATL (April 2026); BYD 30 GWh Xuzhou plant; Qingna 20 GWh Sichuan; GM + Peak Energy prototyping in Warren, Michigan
+- **TRL and cost:** TRL 3-4 (2020) → TRL 8 (2024); global sodium-ion stationary capacity projected 10 GWh (2025) → 150 GWh (2030), a 15× expansion; pack-cost target ~$40/kWh
+- **Geographic concentration:** >95% of planned 2030 sodium-ion manufacturing capacity in China; Natron Energy (US) closed; LG Energy Solution's sodium pilot in Nanjing
+- **Ireland angle:** Eleven Energy's "Galvani" home battery (sodium-ion) reportedly distributed via Midsummer Ireland; TRIDENT project (Disruptive Technologies Innovation Fund + International Energy Research Centre) integrates sodium-ion with inverters for domestic microgrids
+
+### Files created
+
+- 1 new source summary in `wiki/sources/`
+- 1 new wiki page in `wiki/solutions/electrification/`
+- 1 existing page updated (`The rise of the batteries.md`)
+- `wiki/index.md` — 1 source row added, 1 electrification row added, existing "rise of the batteries" row annotated; date already at 2026-10-08
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Sodium-ion is now connected to five existing wiki pages: `The rise of the batteries` (new "second chemistry" section), `intermittency-storage-problem` myth (second battery chemistry strengthens the storage answer), `renewables-more-mining` myth (sodium removes cobalt and nickel), `clean-energy-child-labour` myth (same ethical angle), and `mineral-dependency-same-as-oil` myth. Also tied laterally to `sand-battery-finland-pornainen-2026` as another non-lithium storage story
+- The source summary itself is cross-linked from the new wiki page, so readers who want the provenance caveat can find it one click away
+
+### Process notes
+
+- This is the second ingest today (after the solar foods / Alps glaciers batch earlier). Date stamp kept as 2026-10-08 for both; log entries are stacked so each is distinct
+- NotebookLM content is unusual in this corpus. Treated it as a legitimate but secondary source — not refused, but caveated. If more NotebookLM reports appear in future, the same pattern applies: preserve the content, flag the AI provenance, keep the wiki page itself defensive about specific manufacturer-level numbers
+
+---
+
+## [2026-10-08] ingest | 2 New Scientist papers — solar foods / electro-ag, Alps glaciers record loss
+
+Small batch. Both new files are New Scientist pieces in `raw/papers/`.
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| `raw/papers/Food-growing-NS.pdf` | Source summary + new wiki page | `wiki/sources/solar-foods-electro-ag-newscientist-2026.md` + new wiki page `wiki/solutions/food/solar-foods-electro-agriculture.md` (genuinely new concept, distinct from the existing `lab-grown-meat.md`) |
+| `raw/papers/Glacier-NS.pdf` | Source summary + update | `wiki/sources/alps-glaciers-record-loss-newscientist-2026.md` + new "September 2026 update: the Alps on track for record ice loss" section in `wiki/biodiversity-land/Glaciers in Retreat - Facts, Risks, and What Can Be Done.md` (section carries `<!-- tag: france, eu -->` for the Rhône river downstream content) |
+
+### Key facts introduced this batch
+
+- **Solar foods / electro-ag (Michael Le Page column, NS 22 September 2026):**
+  - Plants capture <1% of solar energy as food; solar panels >20% (some experimental >40%); UC Riverside (Robert Jinkerson, 2022) showed solar → acetate → yeast is **~18× more efficient than standard farming**; 2024 follow-up projects another 10× boost with improvements
+  - **Vertical farming is a non-starter**: 13 hectares of solar needed per hectare of growing area
+  - **Solar Foods (Finland)** demonstrator "5× more productive than expected" (CEO Pasi Vainikka); second factory planned at 6,400 t/yr; Solein approved in US and Singapore, EU approval pending 5+ years
+  - **Historical scale proof: Norferm (Norway, 1999-2005)** produced 110,000 t microbial protein from methane
+  - **Currently at scale on fossil methane**: Calysta 20,000 t/yr China; Unibio 50,000 t/yr Saudi Arabia; Calysta "looking at biogas instead"
+  - Acetate Consortium (U. Copenhagen, Remko Boom); Nolux (Jinkerson spin-out, GM plants on acetate); Savor (syngas → butter)
+  - Other players: Jooules, Air Protein, Aerbio
+- **Alps glaciers record loss (Alec Luhn field report, NS 27 Aug / upd 3 Sep 2026):**
+  - **Rhône glacier: 30 million tonnes of ice lost in 2026 = 12,000 Olympic pools**; >9 m of ice melted off the surface
+  - **Summer melt line above 3,100 m** on the Rhône (historically rarely passed 2,600 m)
+  - **Glacier loss day for Swiss Alps came on 2 July 2026** — "should be in late September" (Rainer Prinz, Innsbruck)
+  - **2026 on track to beat 2022 record** = another 6% of all Alps glacier ice gone in one year; ~30 more Swiss glaciers could vanish this summer
+  - **Under current policies, >97% of Alps glaciers gone by 2100; only 5% of Rhône glacier remains. At 2°C, 269 Alps glaciers survive**
+  - **Rhône river** sustains 19 hydroelectric plants, 4 nuclear cooling systems, 5 Mt/yr barge freight, Côtes du Rhône wine (Grenache, Viognier, Syrah), much of French fruit production
+  - **Fibre-optic crevasse detection** (ETH Zurich, Hudson et al., July 2026): **8% of a Valais glacier's volume is empty crevasses** hidden up to 25 m down — glacier instability is under-measured
+  - **Birch glacier / Blatten collapse (May 2025)**: 20 Mt rock + ice buried the village; 300 evacuated 9 days earlier
+  - **Geotextile cover**: £1.3 bn/year for Swiss large glaciers, slows but does not stop loss
+  - Werder (ETH): *"All other solutions are pretty desperate. We really should just reduce CO2 fast."*
+
+### Files created
+
+- 2 new source summaries in `wiki/sources/`
+- 1 new wiki page: `wiki/solutions/food/solar-foods-electro-agriculture.md`
+- 1 existing page updated: `wiki/biodiversity-land/Glaciers in Retreat - Facts, Risks, and What Can Be Done.md` (September 2026 update section + source added to Sources list)
+- `wiki/index.md` — 2 source rows added, 1 solutions/food row added; date bumped to 2026-10-08
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Food cluster: solar foods ↔ lab-grown meat (adjacent "food in vats" family); ↔ not-enough-land-for-plant-based + meat-substitutes-worse-for-climate myths (electro-ag strengthens the land-use case); ↔ France Biomethane Boom (biogas as decarbonised feedstock for gas fermentation); ↔ IPBES Nexus Assessment (decoupling food from land as a nexus win)
+- Glacier/water cluster: Alps glaciers ↔ existing swiss-glaciers-heatwave-2026 (same topic, earlier summer); ↔ Pine Island Glacier attribution (same anthropogenic driver); ↔ record-hot ocean 2026 (June European heatwave kicked off the melt); ↔ climate-tipping-points (mountain glaciers are a Lenton tipping element); ↔ AMOC collapse + UN World Ocean (sea-level rise contribution)
+
+### Process notes
+
+- Solar foods warranted a new wiki page rather than squeezing it into `lab-grown-meat.md`: it's a genuinely distinct technology family (microbes/plants on electricity vs animal cell culture), with its own commercial track record (Norferm, Calysta, Unibio, Solar Foods) and distinct research frontier (Jinkerson's acetate work)
+- The Glaciers in Retreat update includes a `<!-- tag: france, eu -->` paragraph tag for the Rhône-river / downstream-economy content — per the updated CLAUDE.md paragraph-tagging rules
+
+---
+
 ## [2026-09-18] ingest | 8 articles + 1 own-research — Earthshot tipping points, water vapour record, ReFarm Wicklow, EU Right to Repair, hedgerows, wildfires 2026, CBD COP17 Yerevan, COP31 Antalya, bee hotels
 
 ### Routing decisions

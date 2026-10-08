@@ -7,7 +7,7 @@ tags:
   - "#adaptation"
   - "#water"
 created: 2025-09-01
-updated: 2026-06-29
+updated: 2026-10-08
 summary: |-
   Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, why glacier matters, gl;aciers and fresh water impact,There are around **192,870 glaciers** in the world. (Counts vary between scientific inventories. The UN and the World Meteorological Organisation cite more than 275,000.)
   - Mountain glaciers cover about **664,000 square kilometres**, which is roughly 1.2 times the size of France. This figure does not include the much larger polar ice caps.
@@ -98,6 +98,31 @@ Beyond cutting emissions, several local engineering ideas are being tested. They
 - **Snow cannons.** These spray man-made snow onto a glacier. To stabilise Antarctica's glaciers this way, alongside emission cuts, would mean spraying an estimated 7,400 billion tonnes of snow, with a very high cost in energy and water. The Les Deux Alpes resort in France installed 6 snow cannons at 3,600 metres, using meltwater, to protect a glacier losing 1 to 2 metres a year.
 - **Thickening the ice.** The company Real Ice proposes drilling through sea ice, pumping seawater up, and letting it freeze to add a new layer. This is aimed at sea ice but could indirectly protect coastal glaciers. The cost would be very high, around 6 billion dollars a year for 1 million square kilometres. In a test at Cambridge Bay on Victoria Island in the Canadian Arctic, on an area about the size of a football pitch, the company said it thickened the ice by 50 centimetres between January and May.
 
+## September 2026 update: the Alps on track for record ice loss
+
+A long New Scientist field report by Alec Luhn (27 August 2026, updated 3 September 2026), following ETH Zurich glaciologist Andreas Bauder on the Rhône glacier, shows the 2026 melt season is on track to beat even 2022 as the worst year ever recorded for ice loss in the Alps.
+
+<!-- tag: france, eu -->
+
+The specific numbers:
+
+- **The Rhône glacier lost 30 million tonnes of ice in 2026** — enough to fill **12,000 Olympic swimming pools**
+- More than **9 metres of ice** have melted off the surface this year
+- The summer melt line has climbed above **3,100 metres** (the glacier top is 3,600 m); in previous decades it rarely passed 2,600 m
+- **Glacier loss day for the Swiss Alps came on 2 July 2026** — the point when summer melt exceeds winter snowfall. Rainer Prinz (Innsbruck): "It should be in late September"
+- **If the 2026 record falls, that is another 6% of all Alps glacier ice gone in a single year**
+- Another ~30 Swiss glaciers could vanish this summer, in what Swiss media has called a **"massacre"**
+- **Under current climate policies, >97% of Alps glaciers will be gone by 2100**; **only 5% of the Rhône glacier** would remain
+- **At 2°C warming, surviving glaciers would almost double, including 269 in the Alps**
+
+The piece connects the field science to the downstream economy. The Rhône river, fed by the Rhône glacier, sustains **19 major hydroelectric power plants**, cooling water for **4 nuclear plants**, up to **5 million tonnes of goods on barges per year**, and the Côtes du Rhône wine region (Grenache, Viognier, Syrah) plus much of France's fruit production. Alps glaciers have already passed **"peak water"** — the melt contribution to summer river flow is now declining.
+
+A fibre-optic crevasse study by ETH Zurich (July 2026) found that **8% of the volume of a Valais glacier was empty crevasses**, hidden up to 25 metres down. Scientists may be underestimating the damage to glacier stability — relevant for both drought planning (less water downstream) and disaster planning (more Blatten-type collapses like the May 2025 Birch glacier event).
+
+Mauro Werder (ETH Zurich): *"All other solutions are pretty desperate. We really should just reduce CO2 fast."*
+
+*Source: [Alps glaciers record loss (source summary)](../sources/alps-glaciers-record-loss-newscientist-2026.md); Alec Luhn, New Scientist, 27 August 2026 (updated 3 September 2026).*
+
 ## Protecting glaciers
 
 There is growing political attention on glaciers. At the request of Tajikistan, the United Nations declared **2025 the International Year of Glaciers' Preservation**, co-led by UNESCO and the World Meteorological Organisation. The 21st of March is now marked each year as World Day for Glaciers. The UN has also declared 2025 to 2034 a **Decade of Action for Cryospheric Sciences**.
@@ -117,4 +142,5 @@ Public support is strong. According to a Eurobarometer survey, **85% of European
 - International Year of Glaciers' Preservation 2025: [UN News](https://news.un.org/en/story/2025/01/1159236), [UNESCO and WMO](https://wmo.int/news/media-centre/unesco-and-wmo-launch-international-year-of-glaciers-preservation-2025)
 - Global glacier numbers and fresh water role: [UNESCO and WMO](https://wmo.int/news/media-centre/unesco-and-wmo-launch-international-year-of-glaciers-preservation-2025)
 - June 2026 Swiss glacier loss day: RTÉ News / AFP, 27 June 2026 — https://www.rte.ie/news/2026/0627/1580624-glaciers-heatwave/ (interview with Matthias Huss, GLAMOS)
+- 2026 Alps record ice loss, Rhône glacier field reporting: New Scientist, Alec Luhn, 27 August 2026 (updated 3 September 2026) — "Glaciers in the Alps are on track for record-breaking ice loss"
 - June 2026 Pine Island Glacier attribution: Phys.org / King's College London / British Antarctic Survey, 28 June 2026 — https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html (peer-reviewed in *The Cryosphere*, Bradley et al. 2026)
