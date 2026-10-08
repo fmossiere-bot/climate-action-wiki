@@ -19,10 +19,12 @@ Greenwashing is now considered one of the biggest risks to the credibility of ES
 
 ## Examples of greenwashing
 
+<!-- tag-start: company-evaluations -->
 - **Coca-Cola's "100% recyclable" packaging claims**: a report found the company had spent millions promoting bottles containing 25% marine plastic, without mentioning that Coca-Cola is identified as the world's biggest plastic polluter.
 - **Evian's "eco-friendly packaging"**: Evian uses recycled plastic in some of its bottles, but the overall environmental impact of bottled water remains significant regardless; reusable bottles and filtered tap water are a more sustainable option.
 - **"Rainforest Alliance Certified" chocolate**: the certification is meant to promote sustainable farming, but critics argue it allows a product containing mostly conventional cocoa to carry the label as long as it includes a small proportion of certified cocoa. In early 2024, the Rainforest Alliance and Hershey's were sued over allegedly false fair-labour and sustainability claims.
 - **Bud Light NEXT "Climate Neutral"**: Anheuser-Busch worked with the certifier Climate Neutral to market its beer as climate neutral, but closer scrutiny showed the claim rested on offsetting current emissions with credits plus unfulfilled future plans to actually reduce them.
+<!-- tag-end -->
 
 ### Sitka spruce: greenwashing in Irish schools (2026)
 <!-- tag: ireland -->
@@ -30,7 +32,7 @@ Greenwashing is now considered one of the biggest risks to the credibility of ES
 A children's book, *Sitka Spruce: The Amazing Timber Tree*, funded by Irish commercial forestry interests and carrying a foreword by then-minister Michael Healy-Rae, was distributed to Irish primary schools. It depicted Sitka spruce plantations as thriving ecosystems, when in reality these monoculture forests are widely regarded as ecological dead zones. The Irish Wildlife Trust called for the book's removal from schools; the Department of Education said it had no responsibility for materials distributed by industry, revealing a systemic gap in oversight. See [IRELAND Land use, Soil and Forestry](../../ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md).
 
 ### TotalEnergies
-<!-- tag: france -->
+<!-- tag: france, company-evaluations -->
 
 A French court ruled that TotalEnergies misled consumers with claims of carbon neutrality by 2050, marking the first use of France's greenwashing law against an energy company. The court ordered the company to remove the misleading statements, fined it up to **€10,000 per day** for non-compliance, and required it to make payments to the NGOs that brought the case.
 

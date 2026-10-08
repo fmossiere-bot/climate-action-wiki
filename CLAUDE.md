@@ -285,7 +285,7 @@ Relative markdown links to other wiki pages.
   #recycle #phaseout #coalition #diplomacy #sport #agriculture 
   #digital #energy #buildings #industry #transport #carbon-removal #electrification
   #energy-efficiency #energy-transition #nature-based-solutions #renewables #company-evaluations
-  #key-ideas #myth
+  #key-ideas #myth #individual-actions
 
   ## Cross-cutting
   #ireland #cop30 #fossil-fuels #greenwashing #eu-policy
@@ -363,6 +363,20 @@ Example (a company entry that is Irish):
   cool company inside some other article, tag that paragraph or section
   #cool-companies, and add its country tag as well, e.g.
   `<!-- tag: cool-companies, ireland -->`.
+- #individual-actions marks passages that tell a person what they can do in
+  daily life: food, travel, home energy, shopping, money and banking, talking to
+  others. Tag a "What you can do" section as a section, a tip list or a
+  single practical paragraph as a block. Do NOT tag policy, government
+  measures, business strategy, technology roll-out or background, the app is
+  for individuals and the Companion answers "what can I do" questions from
+  these passages alone. If most of a page is already about personal steps, tag
+  nothing: the whole page is then sent anyway.
+- #company-evaluations marks a passage that assesses ONE named company's
+  climate claims or performance (a ruling, an emissions figure, a pledge, a
+  greenwashing case) inside a page that is not itself about that company.
+  Pages that are wholly about one company already carry the page tag in the
+  frontmatter and need nothing more. When the passage is also tied to a country,
+  add it: `<!-- tag: company-evaluations, france -->`.
 - The category comes first. A page in ireland-hub is sent whole for an Ireland
   question, whatever paragraph tags it carries, and a page in eu-hub is sent
   whole for any EU or member-state question. Paragraph tags matter on pages

@@ -284,6 +284,45 @@
         "startup",
         "start-up"
       ]
+    },
+    "individual-actions": {
+      "kind": "topic",
+      "aliases": [
+        "what can i do",
+        "what should i do",
+        "what can we do",
+        "how can i reduce",
+        "how can i cut",
+        "how can i lower",
+        "how can i help",
+        "how do i reduce",
+        "things i can do",
+        "ways to reduce",
+        "individual action",
+        "individual actions",
+        "personal action",
+        "personal actions",
+        "simple actions",
+        "tips",
+        "tip"
+      ]
+    },
+    "company-evaluations": {
+      "kind": "topic",
+      "aliases": [
+        "company evaluation",
+        "company evaluations",
+        "evaluate a company",
+        "evaluating a company",
+        "evaluating companies",
+        "is this company",
+        "is the company",
+        "which companies",
+        "brand",
+        "brands",
+        "corporate",
+        "corporation"
+      ]
     }
   }
 }

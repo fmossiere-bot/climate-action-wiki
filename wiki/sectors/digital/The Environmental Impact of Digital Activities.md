@@ -41,6 +41,7 @@ Our appetite for connectivity, instant information, entertainment and gratificat
 
 A small but growing group of companies are building tools specifically to help individuals and businesses manage their digital footprint. **elow** (elow.energy) offers a digital solution for both consumers and businesses that automatically reduces emissions from everyday digital use and reports back on the impact of a user's digital footprint.
 
+<!-- tag: individual-actions -->
 Longevity-focused approaches matter here too: choosing refurbished devices over new ones, and designing hardware for repair rather than replacement, follows the same logic that makes keeping a phone in use for longer such an effective lever (see [Carbon Footprint of an iPhone](Carbon%20Footprint%20of%20an%20iPhone.md) for the Fairphone comparison and the numbers behind it).
 
 ## Connected topics

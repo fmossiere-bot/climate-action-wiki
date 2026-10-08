@@ -35,7 +35,9 @@ If you find yourself speaking to a journalist, it is worth asking your own quest
 Simplicity itself is a communication strategy. The IPCC's 2021 Summary for All, a plain-language distillation of its Sixth Assessment Report, runs to just 16 pages and features as many illustrative doodles as charts, proof that even the most technical climate science can be made genuinely accessible.
 
 ## Personal conversations and the psychology of change
+<!-- tag-start: individual-actions -->
 Talking about climate change with people around you can lead to real change, and doing it well follows a fairly consistent pattern: share your own personal connection to the issue; link it to what already matters to the other person, whether family, the economy, or health; look for common ground in shared values; point to impacts that are already visible now, rather than only distant future ones; make the positive case for clean energy's economic and health benefits; mention the direct cost savings of sustainable choices; convey genuine urgency without descending into fatalism; share concrete examples of climate action that has worked; and talk about how today's choices shape tomorrow.
+<!-- tag-end -->
 
 There is real evidence for why small-scale, personal conversations matter so much. The IPCC's Sixth Assessment Report suggests that shifting societal norms may require only 10-30% of individuals to be deeply committed, a claim reinforced by researcher Damon Centola's finding that once roughly 25% of a group adopts a new behaviour or belief, the majority is likely to follow, a pattern sometimes called the "25% Revolution."
 

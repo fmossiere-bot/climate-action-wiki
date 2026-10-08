@@ -36,17 +36,21 @@ The certificates that make this legal come from the **industry-led International
 
 ## Trick two: avoided emissions
 
+<!-- tag-start: company-evaluations -->
 The **carbon accounting** side of the story uses **life-cycle assessments (LCAs)**. Sabic's own LCA admits that the whole pyrolysis-to-cracking process **emits 6 to 8% more than making plastic from fossil fuel in the first place**. The net numbers only turn positive when the accounting **credits the emissions that would have been released if the equivalent volume of waste had been incinerated instead** — creating "avoided emissions."
 
 That single accounting move flips a slightly worse process into a headline number of "about 2 kg less CO₂ per kg of recycled plastic." As Maurer says: *"What matters is not hypothetical emissions from incineration that are 'avoided' on paper, but what is actually emitted in reality."*
 
 Sabic's LCA claims a "rigorous critical review" by experts including the co-founder of **Plastic Energy**, which is Sabic's main feedstock supplier — a business relationship that raises obvious impartiality questions. Sabic and Plastic Energy declined to disclose full LCAs to the investigation. The named brands did not respond.
+<!-- tag-end -->
 
 Peter Quicker, professor of emission control at Aachen University, is blunter: *"LCA documents serve no purpose other than advertising, because companies control the parameters to achieve desired results."*
 
 ## Who benefits
 
+<!-- tag-start: company-evaluations -->
 The story sits inside a bigger corporate ownership picture. The plastic manufacturing arm behind many of these products is **Sabic**, a **subsidiary of Saudi Aramco** — the world's largest corporate greenhouse gas emitter, at over 70 million tonnes CO₂e up to 2023, and one of the loudest opponents of production cuts under the UN plastic treaty. Public records suggest **Sabic used 2,600 tonnes of pyrolysis oil in 2022** against roughly **4 million tonnes of virgin naphtha** at its Netherlands cracking plants. Recycled content is a rounding error.
+<!-- tag-end -->
 
 Behind the scenes, petrochemical firms have intensified lobbying of EU institutions to ensure the upcoming rules accommodate mass-balance accounting, and have rushed to sign offtake deals with pyrolysis oil suppliers. So the timing lines up: as the regulatory train pulls in, the industry sits ready with pre-built compliance paths that require **no material change in what actually goes into the plastic**.
 

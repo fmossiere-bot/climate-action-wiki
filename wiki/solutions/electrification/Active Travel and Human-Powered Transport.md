@@ -21,6 +21,7 @@ Transport is the largest emitting sector in the UK, producing 24% of the country
 
 Reducing car noise has real benefits for wildlife and people alike. Noisy environments are linked to decreased insect health, lower bird birth rates and loss of wildlife populations, while noisy roads and airports are linked to stress and to impairments in memory, attention and reading skill in children. Active travel is also a chance to reconnect with your surroundings: walking supports local high streets, with people who walk there spending 40% more than those who drive. A generation ago 70% of British children walked to school; now it is under half, despite evidence that children who walk or cycle to school tend to be more focused and less likely to be overweight. Time spent walking has also been shown to increase pro-social and pro-environmental behaviours such as kindness and empathy, yet surveys suggest we rarely make time for it: around 80% of people say they rarely or never watch wildlife, smell wildflowers, or draw or photograph nature, and 62% rarely or never stop to listen to birdsong or notice butterflies and bees.
 
+<!-- tag: individual-actions -->
 **Tips:** look for local walking paths, gardens or parks, and use resources such as London's Great Green Routes to find green walking and cycling trails. Look for small joys along the way, stop and admire the view, and use those minutes to properly reconnect with your surroundings.
 
 ## The economics of car dependence
@@ -33,9 +34,11 @@ Cutting car use for short trips means no more petrol costs, parking fees or as m
 
 The health case is just as strong. Just 30 minutes of moderate exercise most days can significantly cut the risk of heart disease, and regular physical activity can also reduce the risk of type 2 diabetes by up to 58%, strengthen muscles and bones, and reduce the risk of falls as we age. Air pollution has also been linked to raised cancer and dementia risk. A University of Glasgow study published in the British Medical Journal in 2017 found that people who commuted by bike had a 41% lower risk of premature death, a 45% lower risk of developing cancer and a 46% lower risk of developing heart disease. The Royal College of Physicians estimates up to 40,000 early deaths a year in the UK are attributable to air pollution, second only to smoking as a cause of early death.
 
+<!-- tag: individual-actions -->
 **Tips:** start small with your closest, most frequent journeys, the school run, the bakery, the pub with friends, and build stamina from there. Connect with neighbours to find the best local routes, and consider getting involved with pedestrian and cycling advocacy groups active in your area.
 
 ## A four-week action guide
+<!-- tag: individual-actions -->
 
 **Week 1: learning and preparing.** Plan routes using a map or app that highlights pedestrian and cycling paths, favouring quieter streets and good signage. Brush up on cycling or walking safety and local traffic rules, for example Transport for London's cycling safety guidance or Madrid's official cycling advice. Start small, such as a ten-minute walk to the local shop instead of driving, and if you plan to cycle after a long break, try a bike rental scheme before committing to buying a bike.
 

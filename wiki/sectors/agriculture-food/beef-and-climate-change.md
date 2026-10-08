@@ -44,6 +44,7 @@ Concrete examples cited by WRI:
 Efficiency helps, but it does not solve the land question on its own if demand keeps rising.
 
 ## 5. Do we all need to stop eating beef?
+<!-- tag: individual-actions -->
 
 No. WRI's Sustainable Food Future scenario is that **ruminant meat consumption in high-consuming countries falls to about 50 calories per day, or roughly 1.5 burgers per person per week**. That is about half current US levels and 25% below current European levels, but still comfortably above the world average. At that level, and even in a world of 10 billion people by 2050, no further net agricultural land expansion is needed and the temperature targets remain reachable through diet alone. US per capita beef consumption has already fallen by about a third since the 1970s. The decline just needs to be about **1.5 times faster** across high-consuming regions.
 

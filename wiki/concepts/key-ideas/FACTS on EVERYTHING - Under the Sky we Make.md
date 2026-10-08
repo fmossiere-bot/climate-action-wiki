@@ -83,7 +83,9 @@ On how change spreads, research estimates it takes around **25% of a population*
 
 ## Slowing down and staying grounded
 
+<!-- tag-start: individual-actions -->
 High emitters need to reduce their carbon overconsumption, chiefly by flying less (the single most intense source of pollution for those who fly), going car-free, supporting regulation and standards to electrify everything on zero-carbon energy, installing solar panels and improving home energy efficiency, and cutting back on heating and cooling.
+<!-- tag-end -->
 
 **On flying:** a single flight can cancel out the savings of recycling 10,000 plastic bottles, and hour by hour, flying is the fastest way to heat the planet. Globally, aviation's share of emissions looks small (1.7-2.4%), but that has to be weighed against how few people fly: only **11% of the world's population flew in 2018**, more than two-thirds of Germans never fly, and more than half of US and UK adults never fly. The top 1% of frequent flyers cause about half of all aviation emissions, and **68% of flights are taken by just 12% of adults** who fly six or more times a year. A single return trip from New York to London emits roughly eight months' worth of a sustainable carbon budget. While tourism overall causes about 8% of global climate pollution, aviation alone can make up about 50% of a wealthy individual's household carbon footprint; in Europe, **Ryanair has joined the EU's top 10 climate polluters, alongside nine coal-fired power plants**. See [Decarbonising Aviation and Shipping](../../solutions/electrification/Decarbonising%20Aviation%20and%20Shipping.md) for more.
 
@@ -95,7 +97,9 @@ High emitters need to reduce their carbon overconsumption, chiefly by flying les
 
 ## Food shouldn't come from a factory
 
+<!-- tag-start: individual-actions -->
 Dietary recommendations from the book: eat a largely plant-based diet, try going vegan for a month, and if eating animal products, keep them to roughly one glass of milk or one ounce of cheese a day, two eggs and two servings of chicken or fish a week, and two burgers a month; eat more non-tropical fruit, vegetables, legumes and nuts (limiting coffee and chocolate); support reform of farm subsidies; grow food where possible; and support protecting and restoring nature.
+<!-- tag-end -->
 
 Livestock production causes the majority of harm in today's food system. A comprehensive 2018 study in *Science* found that animal agriculture occupies **83% of farmland**, produces **58%** of agriculture's greenhouse gas emissions, **57%** of its water pollution and **56%** of its air pollution, and uses more than a third of the fresh water withdrawn for agriculture. Beef cattle convert only about **3% of the calories and 5% of the protein** they eat into food for people; redirecting that feed directly to humans could feed an additional 4 billion people, roughly half as many as are alive today. Another study found that if the whole world ate the average Indian diet, the world could be fed on less than half of today's cropland.
 

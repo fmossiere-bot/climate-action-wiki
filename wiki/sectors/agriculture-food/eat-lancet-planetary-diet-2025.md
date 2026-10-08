@@ -26,6 +26,7 @@ Two features of the 2025 update matter for readers who followed the 2019 debate:
 - The report explicitly documents the **richest 30% of the world's population contributing more than 70% of environmental pressures from food systems** — so the argument becomes distributional, not "everyone must change equally."
 
 ## What the planetary health diet actually looks like
+<!-- tag: individual-actions -->
 
 The recommended diet totals about **2,400 kcal/day** for an average adult and is designed to be **flexible across cultures and food traditions**. Ranges rather than fixed amounts are given for each food group. The largest categories are whole grains, plant oils, nuts and legumes. Animal-source foods are limited but not excluded: roughly **one glass of milk per day, and about two servings of meat and two eggs per week** for those whose diets include them.
 

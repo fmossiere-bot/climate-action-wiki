@@ -15,6 +15,7 @@ We know that behavioural change is critical in order to achieve net-zero by 2050
 Are the highest emitting countries trying to influence Consumer behaviour as part of their NDC commitments? 
 
 #### High-impact behaviours to focus on according to Project Drawdown
+<!-- tag: individual-actions -->
 
 > Individual behaviours, referred to as “Priority Practices,” include reducing air travel and promoting more sustainable local transport, such as using electric or hybrid vehicles, relying on mass transportation, or encouraging more active mobility like walking or biking. Additional practices include reducing food loss and waste and eating more plant-based foods. Other behaviours include adopting residential roofing solar for home energy needs, using clean cookstoves and switching to more energy-efficient appliances
 
