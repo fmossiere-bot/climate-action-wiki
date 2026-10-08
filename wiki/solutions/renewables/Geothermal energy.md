@@ -61,6 +61,7 @@ The idea borrows drilling techniques pioneered by the oil and gas industry to he
 Proving EGS can work at scale is a genuine challenge, given the cost and difficulty of operating machinery miles underground at high temperatures. The US Department of Energy has spent hundreds of millions of dollars in recent years on FORGE, the Frontier Observatory for Research in Geothermal Energy, a Utah-based effort to de-risk EGS, which reported early success proving a key part of the process. In Nevada, the geothermal startup Fervo Energy touted its own win with a successful full-scale well test. "There's a virtually unlimited resource down there if we can get at it," Fervo CEO Tim Latimer told the New York Times. "Everyone who looks into it gets obsessed with it."
 
 ## Geothermal Energy in Ireland
+<!-- tag: ireland -->
 
 Ireland has excellent shallow geothermal energy reserves across the country. Shallow groundwater provides a stable resource of thermal energy that can supply heating at very high efficiencies, and Ground Source Heat Pumps (GSHPs) are becoming more popular; with sufficient insulation, they can be a very efficient way to heat homes and businesses (see the Geological Survey Ireland [homeowners manual](https://www.gsi.ie/en-ie/publications/Pages/Ground-Source-Heat-and-Shallow-Geothermal-Energy-Homeowner-Manual.aspx), which also includes a [video overview](https://youtu.be/mCRDf7QxjDk)).
 

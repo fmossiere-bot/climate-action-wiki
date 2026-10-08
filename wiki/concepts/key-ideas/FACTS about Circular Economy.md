@@ -18,28 +18,33 @@ A **circular economy** aims to preserve the value of products, materials and res
 Circularity is one of the few strategies that tackles both climate change and resource depletion at once, by cutting the emissions and extraction that go into making new products in the first place. But as the evidence below shows, turning the ambition into measurable progress has proven far harder than policymakers expected.
 
 ## EU transition to a circular economy is behind schedule
+<!-- tag: eu -->
 
 To drive the shift to a circular economy, the European Commission issued two action plans: the first in 2015, with 54 specific actions, and the second in 2020, adding 35 new actions and setting a target of **doubling the EU's "circularity rate"**, the proportion of material recycled and fed back into the economy, by 2030.
 
 Progress has been slow. An audit by the European Court of Auditors found that a large share of the roughly **€10 billion** allocated to favour green investment and recycling had instead been used for general waste management. As the ECA report put it: "achieving the EU's ambition of recycling twice as many materials during the current decade as during the previous one will be like trying to square the circle." Between 2015 and 2021, the average circularity rate across all 27 EU countries increased by only **0.4 percentage points**. Lithuania, Sweden, Romania, Denmark, Luxembourg, Finland and Poland actually regressed over that period.
 
 ## Sharing is on the rise: the Library of Things
+<!-- tag: eu -->
 
 A European market study found that community sharing schemes, sometimes called "Libraries of Things", are expanding fast. In the space of a single year, the number of sharing stations in Europe increased by **70%**, with **1,325 stations** now serving more than **350,000 users**.
 
 ## Policy updates
 
 ### Right to repair passed by the European Parliament
+<!-- tag: eu -->
 
 In November 2023, the European Parliament passed new "right to repair" rules making it easier for consumers to have electronic or electrical goods repaired rather than replaced and thrown away. The law requires sellers to repair products unless doing so would cost more than replacing them, and gives consumers rights to make repairs easier and cheaper once guarantees expire. This matters because electronics are the fastest-growing source of waste in the EU: in 2017, more than **3.5 million tonnes** were collected, and only **40%** of that was recycled.
 
 ### New EU rules targeting textile and food waste
+<!-- tag: eu -->
 
 EU lawmakers reached a provisional agreement (still requiring endorsement by all member states) on new rules to meaningfully cut textile and food waste over five years. The EU generates around **59 million tonnes of food waste** each year, an estimated direct economic loss of **€132 billion**, alongside **12.6 million tonnes of wasted textiles**, of which clothing and footwear account for 41%, a trend worsened by fast fashion.
 
 Under the proposed framework, textile producers and fashion brands would become responsible for their own waste, paying a fee to fund collection and treatment; companies performing poorly on circularity, sustainable design and product durability would pay higher fees (France has already introduced similar legislation). Smaller companies in the sector would be given access to shared waste-treatment facilities. Food manufacturers would need to cut waste by 10% by 2030, while shops, restaurants and households would need to cut food waste by 30% per capita, with retailers and restaurants encouraged to donate unsold food that is still safe to eat. The agreement still needs to be endorsed by the European Council and Parliament and undergo legal-linguistic revision; once formally adopted, member states would have up to 20 months to update national laws.
 
 ### EU e-waste targets don't reflect Ireland's recycling efforts
+<!-- tag: ireland -->
 
 **WEEE Ireland**, the country's largest e-waste non-profit, marked 20 years in operation highlighting that more than **250 million** old and broken electrical items have been kept out of landfill since 2005. Over that period it has facilitated the collection and recycling of more than **609,000 tonnes** of electrical waste, including 7.6 million large household appliances, 1.8 million fridges, 5.1 million televisions and monitors, 47.5 million lamps, and the equivalent of 725 million used AA batteries.
 

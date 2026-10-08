@@ -31,6 +31,7 @@ The Climate Action and Low Carbon Development (Amendment) Act 2021 commits Irela
 
 > Forestry currently covers just **10% of Ireland's land area**, up from around 1% at the start of the last century but still far below the **EU average of 39.8%**. Forests, wetlands and bogs remove carbon dioxide from the air and store it, helping to reduce climate change while also providing cleaner air and water and supporting a large diversity of plant and animal species. They also provide timber as a renewable resource, and contribute to air, soil and water quality more broadly.
 
+<!-- tag: eu -->
 The EU Forest Strategy for 2030 sets an ambitious vision for European forests to be fully compatible with, and supportive of, nature and the environment, while also delivering economic and social benefits to communities.
 
 Ireland's national forest estate is also a significant **carbon reservoir**, holding an estimated **312 million tonnes of carbon in 2017**, with an average of around 3 million tonnes captured per year. Ireland has a thriving conifer industry, and wood is increasingly seen as a solution to the housing crisis: conifer grows quickly and different parts of the tree can be used for multiple purposes. Since steel and concrete are highly carbon-intensive to produce, wood is both a lower-carbon and recyclable alternative for construction.

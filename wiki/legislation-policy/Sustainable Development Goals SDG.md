@@ -24,6 +24,7 @@ On 28 June 2024, the UN published **The Sustainable Development Goals Report 202
 With only six years left to 2030 at the time of the report, current progress was found to fall far short of what is required to meet the SDGs. Without massive investment and scaled-up action, the report warned, achieving the goals, described as the blueprint for a more resilient and prosperous world and the roadmap out of current global crises, will remain elusive. The lingering impacts of the COVID-19 pandemic, escalating conflicts, geopolitical tensions and growing climate chaos have all severely hindered progress. The report sets out the urgent priorities needed for stronger, more effective action to honour the 2030 promise to end poverty, protect the planet and leave no one behind.
 
 ## Ireland's SDG progress
+<!-- tag: ireland -->
 
 The UN Statistics Division publishes country-level data tracking each nation's progress against the SDGs, including a full breakdown of Ireland's commitments and progress by thematic area. This is a useful reference point for readers who want to see how Ireland is performing goal by goal, rather than relying on national headline figures alone.
 

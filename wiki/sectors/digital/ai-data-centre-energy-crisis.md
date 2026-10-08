@@ -18,12 +18,14 @@ The rapid expansion of AI infrastructure is creating a collision between tech am
 AI data centres are rewriting national energy equations. Ireland already uses 22% of its electricity for data centres — more than all urban homes combined. The UK government revised its estimate of AI-related carbon emissions upward by a factor of over 100 after the original figure was found to be a serious undercount. If left unchecked, this buildout could undermine clean energy progress in both countries, pushing up household bills and locking grids into decades of fossil fuel dependency.
 
 ## The UK: gas as a permanent solution
+<!-- tag: uk -->
 
 The UK National Grid has a backlog of 100 GW of data centre projects queued for connection — far more than can be accommodated. Faced with waits of years for grid access, over 100 data centre operators requested gas network connections in the two years to 2026. These requests total more than 15 TWh per year, enough to power London for four and a half months. Some operators are requesting 100 MW+ of gas power not as a temporary measure but permanently.
 
 The UK's Clean Power 2030 target aims to reduce unabated gas to less than 5% of electricity supply. Regulator Ofgem acknowledged this raises "an interesting question about what that means for the target." Meanwhile, 11 US data centres built for Meta, OpenAI, Microsoft and xAI are reportedly on track to emit more carbon than the entire country of Morocco.
 
 ## Emissions 100× larger than thought
+<!-- tag: uk -->
 
 In April 2026, the UK government quietly revised its estimate of the carbon impact of its planned AI data centre buildout — upward by a factor of more than 100. The original figure (0.142 million tonnes CO₂ per year maximum) had been published in the UK Compute Roadmap; it was deleted after an investigation by Foxglove and Carbon Brief exposed it as a serious undercount.
 
@@ -32,6 +34,7 @@ The revised estimate: **34–123 million tonnes CO₂ over 2025–2035** — equ
 Foxglove's head of strategy: *"The government has a legally binding commitment to reach net zero by 2050. This already sat awkwardly alongside its hell-for-leather embrace of a hyperscale AI data centre buildout, which unchecked could double the electricity consumption of the entire country."*
 
 ## Ireland: a 'hidden data centre tax'
+<!-- tag: ireland -->
 
 Ireland offers the starkest example of what unmanaged data centre growth looks like for ordinary households. Data centres consumed **22% of Ireland's electricity in 2025** — more than all urban homes combined. A 2026 report commissioned by Friends of the Earth Ireland and Beyond Fossil Fuels found this had:
 
@@ -44,6 +47,7 @@ The mechanism is straightforward: data centres have high and inflexible electric
 Ireland requires new data centres to source 80% of their energy from additional renewable capacity — the strictest regime in Europe — but industry groups dispute the cost-to-households finding, citing economic contributions and corporate tax revenues.
 
 ## Slough: a hyperscale heat island
+<!-- tag: uk -->
 
 Reporting from the UK's June 2026 heatwave has added a new local dimension to the data centre debate: **the heat radiating from the clusters themselves**. Slough, 16 km west of Heathrow, hosts an estimated **30 to 40 large data centres totalling roughly 1 gigawatt of capacity** — Europe's largest hub — owned by operators like Equinix and Digital Realty and serving Amazon, Google, Oracle and Microsoft. Further expansion is already planned on the same campus.
 
@@ -65,6 +69,7 @@ The heat comes from the **cooling systems** that keep AI chips and dense server 
 - Globally: nearly **7,000 of 8,808 data centres** are built in climatically inefficient locations.
 
 ## UK data centres and water: 'fatally flawed' government forecasts
+<!-- tag: uk -->
 
 In July 2026, **Water UK** — the trade body for water companies in Britain and Northern Ireland — submitted written evidence to MPs describing the government's water forecasts as **"fatally flawed"** because they **explicitly exclude datacentre demand**. The trade body's punchline: *"There appears to be an assumption that the country will always have enough water for its economic needs. Nothing could be further from the truth."*
 
@@ -112,6 +117,7 @@ If two-phase cooling scales as intended, the AI buildout becomes a **drinking-wa
 *Source: [PFAS in datacentre cooling (source summary)](../../sources/pfas-datacentre-cooling-guardian-2026.md); Guardian, Tom Perkins, 27 July 2026.*
 
 ## August 2026: Two Datacentres, More Emissions Than ExxonMobil's Whole UK Operation
+<!-- tag: uk -->
 
 Analysis by non-profit **Foxglove** puts a sharp number on the UK gas-for-datacentres trend already documented above: two planned English sites, **Wapseys Wood** (Buckinghamshire) and **Quest Park** (Bedfordshire), will together use 1.3GW of power and emit more than **4.5 million tonnes of CO2 a year** once fully operational — more than the whole of **ExxonMobil's UK emissions** (3.9 million tonnes in 2023, per Ember).
 

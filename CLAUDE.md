@@ -49,6 +49,9 @@ wiki/                   → Everything here is written and maintained by you.
                           fossil fuel subsidies, TCFD, stranded assets, VPPA.
   ireland-hub/          → Ireland-specific content. All country and Ireland 
                           files plus Ireland-tagged content from other categories.
+  eu-hub/               → Content about the European Union and its member states
+                          (EU-level policy, and country pages for France,
+                          Germany and so on). Same logic as ireland-hub.
   myths/                → One page per common climate myth or misleading claim.
                           Never bundle several myths onto one page: the AI
                           Companion retrieves whole pages, so a page covering
@@ -92,7 +95,7 @@ Both templates share the same frontmatter block:
 title: [Page Title]
 category: [concepts / sectors / solutions / biodiversity-land / 
            circularity-waste / legislation / standards / climate-science /
-           climate-adaptation / climate-finance / ireland-hub]
+           climate-adaptation / climate-finance / ireland-hub / eu-hub]
 tags: [relevant tags]
 sources: [list of source files this page draws from]
 created: [YYYY-MM-DD]
@@ -287,8 +290,111 @@ Relative markdown links to other wiki pages.
   ## Cross-cutting
   #ireland #cop30 #fossil-fuels #greenwashing #eu-policy
   #nature #finance #adaptation #science #circularity #food
+
+  ## Geography (country and region tags, also usable on paragraphs and sections)
+  #eu #ireland #uk #us #india #china
+  #austria #belgium #bulgaria #croatia #cyprus #czechia #denmark #estonia
+  #finland #france #germany #greece #hungary #italy #latvia #lithuania
+  #luxembourg #malta #netherlands #poland #portugal #romania #slovakia
+  #slovenia #spain #sweden
+  Hierarchy: #eu > every EU member state (#france, #ireland...). #uk, #us,
+  #india and #china are standalone. The master list, with the words that
+  count as each tag in a user's question, is wiki/tags-vocabulary.json.
   
   
+## Paragraph and Section Tags
+
+Page tags (in the frontmatter) say what a whole page is about. Paragraph and
+section tags say which PARTS of a page belong to a country, region or topic.
+The AI Companion uses them: when a user asks about Ireland, it sends the model
+only the passages tagged #ireland from each retrieved page. If a page has no
+passage tagged for the country asked about, the whole page is sent, so tagging
+is never required, it only sharpens answers.
+
+Hierarchy, from broad to narrow:
+1. Category (folder), e.g. ireland-hub, eu-hub
+2. Page tag in the frontmatter, e.g. #ireland, #cool-companies
+3. Paragraph or section tag, in the body
+
+### How to write them
+
+Use the invisible comment form. It does not show on GitHub or in the app:
+
+    <!-- tag: ireland -->
+    This paragraph is about Ireland.
+
+Several tags: `<!-- tag: ireland, cool-companies -->`.
+
+Fabien may also type a hashtag by hand in Obsidian. Both forms are read the
+same way, so leave hand-typed hashtags as they are:
+- `#ireland` at the end of a paragraph tags that paragraph
+- `#ireland` alone on its own line tags the next paragraph, list or table
+
+The position sets the scope:
+- Directly UNDER A HEADING: the tag covers that heading and everything below
+  it, until the next heading of the same or a higher level, or a horizontal
+  rule (---). Use this for entries such as one company per heading.
+- ANYWHERE ELSE: the tag covers the next paragraph, list or table only.
+- For a stretch that does not follow a heading, wrap it:
+  `<!-- tag-start: ireland -->` ... `<!-- tag-end -->`
+
+Example (a company entry that is Irish):
+
+    ## Silicate - Enhanced Rock Weathering
+    <!-- tag: ireland -->
+    Silicate is an Irish start-up that uses cement dust ...
+
+    ---
+
+### When to tag at ingest
+
+- Tag a passage when it is mainly about one country or region: national
+  figures, national law or policy, case studies, companies, places.
+  Example: an Irish emissions figure inside a general water article.
+- Do NOT tag general explanations, definitions or global figures.
+- Tag the narrowest scope that fits. A single Irish paragraph gets a
+  paragraph tag, not a section tag.
+- A passage about the EU as a whole gets #eu. A passage about one member state
+  gets that state's tag (the system already treats #eu-wide passages as
+  relevant to a member state, and a member-state passage as relevant to a
+  question about the EU).
+- #cool-companies works the same way. If the whole page is about cool
+  companies, the page tag is enough. If only a paragraph or a section lists a
+  cool company inside some other article, tag that paragraph or section
+  #cool-companies, and add its country tag as well, e.g.
+  `<!-- tag: cool-companies, ireland -->`.
+- The category comes first. A page in ireland-hub is sent whole for an Ireland
+  question, whatever paragraph tags it carries, and a page in eu-hub is sent
+  whole for any EU or member-state question. Paragraph tags matter on pages
+  outside the matching hub, and for questions about a different place.
+- The Companion only narrows a page when it has a passage tagged for the
+  place asked about (or for something under it). A page whose only tags are
+  broader, such as one #eu paragraph on an Irish page, is still sent whole for
+  an Ireland question, so a single broad tag never hides the rest of a page.
+- Only use tags that exist in wiki/tags-vocabulary.json. Unknown tags are
+  ignored by the Companion.
+- Do not tag content you are unsure about. Missing a tag costs nothing (the
+  whole page is still available), a wrong one hides content.
+- Never remove or change tags that Fabien wrote by hand.
+- In the ingest report, list every passage tagged, with its tag and the first
+  few words, so Fabien can correct it before the commit.
+
+### Adding a new country or region tag
+
+When a page needs a country that is not yet a tag:
+1. Add it to wiki/tags-vocabulary.json: its slug, kind (country, region or
+   topic), `parent` if it belongs to a broader tag (an EU member state has
+   parent `eu`), and `aliases`, the lowercase words a user would type
+   (name, adjective, common alternatives).
+2. Add it to the Geography list under Standard Tags above, and to the
+   hierarchy note if it has a parent.
+3. If it is a new region, mention it in the ingest report.
+4. Keep both in step: a tag in the vocabulary but not in this file (or the
+   other way round) is a mistake to fix at the next ingest.
+For a large country that will get its own hub, propose a new category in the
+ingest report as described under Creating New Categories. Do not create the
+folder without approval.
+
 ## Handling Multiple Sources on the Same Topic
 
 Before creating a new wiki page, always check if a relevant page 

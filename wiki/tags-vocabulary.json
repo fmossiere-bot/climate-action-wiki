@@ -1,0 +1,289 @@
+{
+  "_readme": "Vocabulary for paragraph/section tags. Used by api-proxy.php to (1) spot tags in a question and (2) understand #hashtags and <!-- tag: x --> markers in wiki pages. kind: region | country | topic. parent: a broader tag; a paragraph tagged with a parent matches questions about its children, and vice versa. aliases: lowercase words that count as this tag in a question. Add a new country by adding an entry here AND listing it in CLAUDE.md.",
+  "tags": {
+    "eu": {
+      "kind": "region",
+      "aliases": [
+        "eu",
+        "european union",
+        "europe",
+        "european"
+      ]
+    },
+    "austria": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "austria",
+        "austrian"
+      ]
+    },
+    "belgium": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "belgium",
+        "belgian"
+      ]
+    },
+    "bulgaria": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "bulgaria",
+        "bulgarian"
+      ]
+    },
+    "croatia": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "croatia",
+        "croatian"
+      ]
+    },
+    "cyprus": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "cyprus",
+        "cypriot"
+      ]
+    },
+    "czechia": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "czechia",
+        "czech republic",
+        "czech"
+      ]
+    },
+    "denmark": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "denmark",
+        "danish"
+      ]
+    },
+    "estonia": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "estonia",
+        "estonian"
+      ]
+    },
+    "finland": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "finland",
+        "finnish"
+      ]
+    },
+    "france": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "france",
+        "french"
+      ]
+    },
+    "germany": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "germany",
+        "german"
+      ]
+    },
+    "greece": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "greece",
+        "greek"
+      ]
+    },
+    "hungary": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "hungary",
+        "hungarian"
+      ]
+    },
+    "ireland": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "ireland",
+        "irish",
+        "republic of ireland",
+        "eire"
+      ]
+    },
+    "italy": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "italy",
+        "italian"
+      ]
+    },
+    "latvia": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "latvia",
+        "latvian"
+      ]
+    },
+    "lithuania": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "lithuania",
+        "lithuanian"
+      ]
+    },
+    "luxembourg": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "luxembourg"
+      ]
+    },
+    "malta": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "malta",
+        "maltese"
+      ]
+    },
+    "netherlands": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "netherlands",
+        "dutch",
+        "holland"
+      ]
+    },
+    "poland": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "poland",
+        "polish"
+      ]
+    },
+    "portugal": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "portugal",
+        "portuguese"
+      ]
+    },
+    "romania": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "romania",
+        "romanian"
+      ]
+    },
+    "slovakia": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "slovakia",
+        "slovak"
+      ]
+    },
+    "slovenia": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "slovenia",
+        "slovenian"
+      ]
+    },
+    "spain": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "spain",
+        "spanish"
+      ]
+    },
+    "sweden": {
+      "kind": "country",
+      "parent": "eu",
+      "aliases": [
+        "sweden",
+        "swedish"
+      ]
+    },
+    "uk": {
+      "kind": "country",
+      "aliases": [
+        "uk",
+        "united kingdom",
+        "britain",
+        "british",
+        "great britain",
+        "england",
+        "scotland",
+        "wales",
+        "united-kingdom"
+      ]
+    },
+    "us": {
+      "kind": "country",
+      "aliases": [
+        "usa",
+        "united states",
+        "u.s.",
+        "u.s.a.",
+        "america",
+        "american",
+        "americans"
+      ],
+      "case_sensitive_aliases": [
+        "US"
+      ]
+    },
+    "india": {
+      "kind": "country",
+      "aliases": [
+        "india",
+        "indian"
+      ]
+    },
+    "china": {
+      "kind": "country",
+      "aliases": [
+        "china",
+        "chinese"
+      ]
+    },
+    "cool-companies": {
+      "kind": "topic",
+      "aliases": [
+        "cool companies",
+        "cool company",
+        "climate startups",
+        "climate start-ups",
+        "startups",
+        "start-ups",
+        "startup",
+        "start-up"
+      ]
+    }
+  }
+}

@@ -25,18 +25,22 @@ Greenwashing is now considered one of the biggest risks to the credibility of ES
 - **Bud Light NEXT "Climate Neutral"**: Anheuser-Busch worked with the certifier Climate Neutral to market its beer as climate neutral, but closer scrutiny showed the claim rested on offsetting current emissions with credits plus unfulfilled future plans to actually reduce them.
 
 ### Sitka spruce: greenwashing in Irish schools (2026)
+<!-- tag: ireland -->
 
 A children's book, *Sitka Spruce: The Amazing Timber Tree*, funded by Irish commercial forestry interests and carrying a foreword by then-minister Michael Healy-Rae, was distributed to Irish primary schools. It depicted Sitka spruce plantations as thriving ecosystems, when in reality these monoculture forests are widely regarded as ecological dead zones. The Irish Wildlife Trust called for the book's removal from schools; the Department of Education said it had no responsibility for materials distributed by industry, revealing a systemic gap in oversight. See [IRELAND Land use, Soil and Forestry](../../ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md).
 
 ### TotalEnergies
+<!-- tag: france -->
 
 A French court ruled that TotalEnergies misled consumers with claims of carbon neutrality by 2050, marking the first use of France's greenwashing law against an energy company. The court ordered the company to remove the misleading statements, fined it up to **€10,000 per day** for non-compliance, and required it to make payments to the NGOs that brought the case.
 
 ### Political denial as greenwashing: the "Anti-Woke Davos" (June 2026)
+<!-- tag: uk -->
 
 In June 2026, as the UK issued red heat warnings for three consecutive days and a wildfire burned in Derbyshire, a conference in London convened by the Alliance for Responsible Citizenship, a group backed by the owner of GB News and a string of fossil fuel companies, hosted speakers attacking UK climate policy. Delegates reportedly sweltered inside the Olympia venue in temperatures above 35C while applauding Trump's energy secretary Chris Wright, a former fossil fuel executive, who described Britain's green transition as a "tragic mistake." The event's goodie bags included fans bearing the slogan "Free speech never felt so cool", a striking image of an event denying the reality its own attendees were experiencing first-hand.
 
 ## The EU anti-greenwashing rule
+<!-- tag: eu -->
 
 EU rules that came into force at the start of 2023, with a gradual rollout, aim to tackle greenwashing by targeting businesses that mislead consumers into believing their products or services are more sustainable than they are. The EU's **Corporate Sustainability Reporting Directive (CSRD)** strengthens the rules around the social and environmental information companies must report. Its rollout caused significant concern among companies in Ireland, particularly around the accuracy of the data they would now be required to disclose.
 
