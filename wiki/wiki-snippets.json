@@ -1,5 +1,32 @@
 [
   {
+    "slug": "france-urban-transport",
+    "filename": "EU-hub/france-urban-transport.md",
+    "label": "France: how cities are changing urban transport",
+    "summary": "French urban transport innovations, cable cars Câble C1 Val-de-Marne Villeneuve-Saint-Georges Créteil, Poma Grenoble 1934 bubbles 1976, Brest 2016 Toulouse Téléo 2022 Saint-Denis Réunion Ajaccio Angelo 2025, free public transport Compiègne 1975 Dunkerque 2018 Patrice Vergriete Montpellier 2020 Michaël Delafosse, Cour des comptes Montpellier 40 million euros 1258 euros, French Senate reduced fares, on-demand transport Padam Mobility 200 urban areas, Saint-Brieuc Taxitub Proxitub, Cerema 6 of 10 rural council groups, Fonds vert, Navya EasyMile self-driving shuttles, transport 34 percent French emissions 54 percent private cars 24 percent lorries, 62.8 percent car 23.7 percent walking 9.1 percent train 2.7 percent bike, CO2 per passenger km TGV 2.9 bike 11 electric train 27.5 electric car 67 bus 122 petrol 142 plane",
+    "category": "eu-hub",
+    "tags": [
+      "france",
+      "transport",
+      "eu-policy",
+      "individual-actions"
+    ],
+    "keywords": [
+      "val-de-marne, paris region (câble c1)",
+      "40%",
+      "33%",
+      "18%",
+      "compiègne (1975)",
+      "dunkerque (2018)",
+      "montpellier (from 2020)",
+      "€1,258/year",
+      "~€40 million in 2026",
+      "(cour des comptes)\n- the scheme is",
+      "honest summary",
+      "saint-brieuc (1990)"
+    ]
+  },
+  {
     "slug": "biodiversity-for-business-101",
     "filename": "biodiversity-land/Biodiversity for Business 101.md",
     "label": "Biodiversity for Business 101",
@@ -1232,6 +1259,33 @@
       "winter arctic sea ice",
       "amoc (the big atlantic \"conveyor belt\")",
       "15% in 50 years"
+    ]
+  },
+  {
+    "slug": "heatwave-myths-hawkins",
+    "filename": "climate-science/heatwave-myths-hawkins.md",
+    "label": "Heatwave myths and how to bust them (Ed Hawkins / Guardian, 2026)",
+    "summary": "heatwave myths kit, Ed Hawkins University of Reading climate stripes, Guy Callendar 1938 steam engineer 0.3C, 1850s physics 1890s quantification, El Niño vs climate change, Earth orbit timescales cooler path 18th century, 1976 UK heatwave 32C 250 extra deaths 2 degrees cooler, attribution studies amplification, 125000 years ice core CO2 record, elderly children heart disease diabetes hospital workers vulnerable, UK homes winter not summer no shutters AC Mediterranean, 2003 European heatwave 40000-70000 deaths warning systems, CO2 plant food harvests suffering, net zero human choice, concede first correct second",
+    "category": "climate-science",
+    "tags": [
+      "science",
+      "adaptation",
+      "uk",
+      "myth"
+    ],
+    "keywords": [
+      "guardian article by jonathan watts",
+      "say this",
+      "1850s",
+      "1890s",
+      "1938",
+      "tens of thousands of years",
+      "250 extra people per day",
+      "attribution studies",
+      "early 1800s",
+      "125,000 years ago",
+      "no. they save lives",
+      "40,000-70,000 people"
     ]
   },
   {
@@ -5137,6 +5191,33 @@
     ]
   },
   {
+    "slug": "pet-food-climate-impact",
+    "filename": "sectors/agriculture-food/pet-food-climate-impact.md",
+    "label": "Pet food and climate: the overlooked slice of the agricultural footprint",
+    "summary": "pet food climate footprint, dog food cat food, plant-based vegan vegetarian pet food, Rebecca Brociek David Gardner Nottingham, Andrew Knight Murdoch, PLOS One 2025, nutritional complete labelling, iodine seaweed vitamin B supplementation, European Pet Food Industry Federation, dogs omnivores cats obligate carnivores, livestock emissions, individual actions diet, pet food industry environmental impact, 25 commercial dry foods analysis",
+    "category": "sectors",
+    "tags": [
+      "food",
+      "agriculture",
+      "individual-actions",
+      "research"
+    ],
+    "keywords": [
+      "the brociek study found that",
+      "dogs are omnivores",
+      "cats are obligate carnivores",
+      "taurine",
+      "arachidonic acid",
+      "pre-formed vitamin a",
+      "vitamin b12",
+      "25 commercial dry dog foods analysed",
+      "iodine gap",
+      "seaweed is a simple supplement",
+      "vitamin b gap",
+      "veterinary supervision helps"
+    ]
+  },
+  {
     "slug": "ai-emissions-and-corporate-responsibility",
     "filename": "sectors/digital/AI Emissions and Corporate Responsibility.md",
     "label": "AI Emissions and Corporate Responsibility",
@@ -6086,6 +6167,16 @@
       "electrification"
     ],
     "keywords": [
+      "on current pace",
+      "passed their peak worldwide",
+      "- not alarmist",
+      "under €20,000",
+      "china",
+      "europe",
+      "sales",
+      "france",
+      "batteries",
+      "electric",
       "growth",
       "million"
     ]
@@ -6189,8 +6280,8 @@
       "23 exajoules",
       "175 exajoules",
       "sodium-ion batteries",
-      "battery",
-      "batteries"
+      "lithium-air batteries",
+      "lightweight carbon structure"
     ]
   },
   {
@@ -7965,6 +8056,33 @@
     ]
   },
   {
+    "slug": "france-urban-transport-eco360-2026",
+    "filename": "sources/france-urban-transport-eco360-2026.md",
+    "label": "Ça bouge en ville — how French cities are changing transport (Eco360, Marc Lomazzi, September 2026)",
+    "summary": "French urban transport cable cars free public transport on-demand, Câble C1 Villeneuve-Saint-Georges Créteil Val-de-Marne 4.5 km, Poma Grenoble 1934 bubbles, Brest 2016 Penfeld, Toulouse Téléo 2022, Saint-Denis Réunion Ajaccio Angelo 2025, Compiègne 1975 first free bus, Dunkerque 2018 Patrice Vergriete, Montpellier Michaël Delafosse 2020, Cour des comptes 40 million euros 1258 euros family saving, French Senate carefully targeted reduced fares, Padam Mobility 200 urban areas on-demand, Saint-Brieuc Taxitub 1990 Proxitub, Cerema 6 of 10 rural council groups, Fonds vert, Navya EasyMile self-driving shuttles, Ecov Mobicoop car-pooling, 34 percent French GHG from transport, 54 percent private cars, 62.8 percent travel by car, 23.7 percent walking, 9.1 percent train, 2.7 percent bike, CO2 per passenger km TGV 2.9 bike 11 electric train 27.5 electric car 67 bus 122 petrol 142 plane 178-225",
+    "category": "sources",
+    "tags": [
+      "france",
+      "transport",
+      "eu-policy",
+      "individual-actions"
+    ],
+    "keywords": [
+      "source",
+      "urban cable cars",
+      "fully free public transport",
+      "app-driven on-demand transport",
+      "câble c1 (val-de-marne, paris region)",
+      "grenoble (1934)",
+      "poma",
+      "brest (2016)",
+      "1 million passengers in 2024",
+      "toulouse téléo (2022)",
+      "angelo in ajaccio (corsica, 2025)",
+      "10 to 50× fewer passengers per day"
+    ]
+  },
+  {
     "slug": "french-banks-eph-reclaim-finance-2026",
     "filename": "sources/french-banks-eph-reclaim-finance-2026.md",
     "label": "French banks support EPH, contrary to their commitments (BankTrack / Reclaim Finance, July 2026)",
@@ -8070,6 +8188,33 @@
     ]
   },
   {
+    "slug": "heatwave-myths-hawkins-guardian-2026",
+    "filename": "sources/heatwave-myths-hawkins-guardian-2026.md",
+    "label": "The 13 biggest myths about heatwaves — and how to bust them (Guardian, Jonathan Watts & Ed Hawkins, July 2026)",
+    "summary": "13 heatwave myths Guardian Jonathan Watts Ed Hawkins University of Reading, climate stripes, 1850s physics chemistry greenhouse gases, Guy Callendar 1938 steam engineer 0.3C warming, El Niño vs climate change, Earth orbit timescales, 1976 UK heatwave 32C 250 extra deaths, attribution studies amplification, 125000 years ice-core CO2 record, vulnerable groups elderly children heat health, UK homes winter not summer no shutters AC, 2003 European heatwave 40000-70000 deaths warning systems, CO2 plant food myth, net zero emissions human choice, 11 of 13 myths captured",
+    "category": "sources",
+    "tags": [
+      "myth",
+      "science",
+      "adaptation",
+      "uk"
+    ],
+    "keywords": [
+      "source",
+      "scientific authority",
+      "for rebuttal",
+      "note on capture",
+      "no",
+      "guy callendar (steam engineer, 1938)",
+      "cooler",
+      "2°c hotter than june 1976",
+      "early 1800s",
+      "125,000 years ago",
+      "more balanced images",
+      "no. they save lives"
+    ]
+  },
+  {
     "slug": "hedgerow-management-farmers-journal-2026",
     "filename": "sources/hedgerow-management-farmers-journal-2026.md",
     "label": "Role of hedgerows in enhancing biodiversity cannot be over-emphasised (Farmers Journal / Hedgerows Ireland, August 2026)",
@@ -8094,6 +8239,32 @@
       "veteran hedgerows",
       "rejuvenation every 20-40 years",
       "develop a multi-annual management plan"
+    ]
+  },
+  {
+    "slug": "honeybees-crowd-wild-pollinators-guardian-2026",
+    "filename": "sources/honeybees-crowd-wild-pollinators-guardian-2026.md",
+    "label": "Honeybees outcompete wild pollinators at flowers — Anglia Ruskin study (Guardian, October 2026)",
+    "summary": "honeybees wild pollinators competition, Anglia Ruskin University Cambridgeshire Victoria Buckle PhD, Ecological Entomology study DOI 10.1111/een.70139, 300 interactions bramble ivy, bumblebees solitary bees hoverflies butterflies beetles wasps, interference competition direct chasing displacement, National Bee Unit 19000 to 47000 registered beekeepers 2010-2025, save the bees hobbyist beehives boom, ivy bee 2001 UK displacing honeybees, temperature stress heat nectar drying, UK summer +4C 2080, Dr Tom Ings, hive density competition disease",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "research",
+      "uk"
+    ],
+    "keywords": [
+      "source",
+      "journal reference",
+      "by lead author",
+      "(phd researcher) and colleagues",
+      "the study documented",
+      "300 competitive interactions documented",
+      "honeybees won most encounters",
+      "-",
+      "in",
+      "- study documents",
+      "\"exploitation competition\"",
+      "4°c by 2080"
     ]
   },
   {
@@ -8599,6 +8770,33 @@
     ]
   },
   {
+    "slug": "philibert-ev-ifri-interview-2026",
+    "filename": "sources/philibert-ev-ifri-interview-2026.md",
+    "label": "Why the electric car is good for the climate — Cédric Philibert interview (IFRI, 2026)",
+    "summary": "Cédric Philibert IFRI Institute of International Relations, Ademe International Energy Agency, Pourquoi la voiture électrique est bonne pour le climat Les Petits Matins Institut Veblen 2024, electric car peak petrol diesel, France 30 percent new EV sales, 80 percent in ten years, 2050 majority switched, Strait of Hormuz Middle East crisis petrol prices, plug-in hybrids heavier not emit less CO2 charging rare, Zoé Tesla first generation, lithium-ion batteries divided by ten in ten years, European carmakers Chinese competition, Stellantis Renault strategy, nine of ten best-selling French EVs European Tesla American, less than 20000 euros small electric cars grants",
+    "category": "sources",
+    "tags": [
+      "ev",
+      "battery",
+      "france",
+      "eu-policy"
+    ],
+    "keywords": [
+      "source",
+      "related book",
+      "cédric philibert",
+      "ademe",
+      "international energy agency",
+      "ifri",
+      "ev sales grow every year\n-",
+      "-",
+      "- shift has sped up since the",
+      "plug-in hybrids are heavier",
+      "do not emit less co2",
+      "made a strategic mistake"
+    ]
+  },
+  {
     "slug": "pine-island-glacier-attribution-2026",
     "filename": "sources/pine-island-glacier-attribution-2026.md",
     "label": "Human activity has driven retreat of Antarctica's fastest melting glacier (Phys.org / King's College London, June 2026)",
@@ -8622,6 +8820,33 @@
       "human",
       "ocean",
       "warming"
+    ]
+  },
+  {
+    "slug": "plant-based-dog-food-newscientist-2025",
+    "filename": "sources/plant-based-dog-food-newscientist-2025.md",
+    "label": "Plant-based dog foods provide almost all the nutrients pets need (New Scientist / PLOS One, September 2025)",
+    "summary": "plant-based dog food vegan vegetarian pet food, Rebecca Brociek David Gardner University of Nottingham, Andrew Knight Murdoch University Australia, Lucia Casini University of Pisa, PLOS One 2025 DOI 10.1371/journal.pone.0328506, 25 dry dog foods analysed 19 meat 6 plant-based, protein fatty acids essential amino acids sufficient, iodine deficiency seaweed, vitamin B deficiency supplementation, European Pet Food Industry Federation, Association of American Feed Control Officials, dog omnivore, nutritional testing commercial pet food, environmental impact meat production",
+    "category": "sources",
+    "tags": [
+      "food",
+      "research",
+      "agriculture",
+      "individual-actions"
+    ],
+    "keywords": [
+      "source",
+      "journal reference",
+      "25 commercial dry dog foods",
+      "covered by new scientist",
+      "## key facts\n\n-",
+      "all foods had acceptable concentrations",
+      "governance context",
+      "per gardner\n- published in",
+      "rebecca brociek",
+      "david gardner",
+      "andrew knight",
+      "lucia casini"
     ]
   },
   {
@@ -9036,6 +9261,33 @@
       "intertidal zone",
       "ph-neutral cement and biochar",
       "marine colonisation"
+    ]
+  },
+  {
+    "slug": "swiss-glaciers-19-percent-glamos-guardian-2026",
+    "filename": "sources/swiss-glaciers-19-percent-glamos-guardian-2026.md",
+    "label": "Switzerland has lost 20% of its glaciers in five years — GLAMOS annual report (Guardian, October 2026)",
+    "summary": "Swiss glaciers 19.4 percent lost since 2021 five years, GLAMOS annual report 2026, Matthias Huss ETH Zurich, 5.5 percent 2026 just under 2022 record, mean thickness drop 2.5 to 4 metres, Plattalvafirn Griess glacier 99 percent area lost 20 years, Scex Rouge Les Diablerets, Rhône glacier Obergoms, Swiss Commission for Cryosphere Observation, cheese-hole collapse internal streams caverns, Europe twice global warming average, MeteoSwiss hottest driest summer since 1864, 1.8 trillion tonnes CO2 1.4C warming, Saharan dust 2022, moonlike rock desert, glacier disintegration",
+    "category": "sources",
+    "tags": [
+      "science",
+      "adaptation",
+      "france",
+      "eu"
+    ],
+    "keywords": [
+      "source",
+      "primary source",
+      "co-authored by lead glaciologist",
+      "— about one-fifth in five years\n-",
+      "(just under the 2022 record)\n-",
+      "-",
+      "lost",
+      "meteoswiss finding (october 2026)",
+      "cumulatively and warmed the planet by",
+      "initiated inside the glacier",
+      "matthias huss",
+      "huss on failure mode"
     ]
   },
   {
