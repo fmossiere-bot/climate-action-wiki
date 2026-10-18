@@ -6188,9 +6188,37 @@
       "5.5 to 8 twh per year",
       "23 exajoules",
       "175 exajoules",
+      "sodium-ion batteries",
       "battery",
-      "batteries",
-      "fossil"
+      "batteries"
+    ]
+  },
+  {
+    "slug": "sodium-ion-batteries",
+    "filename": "solutions/electrification/sodium-ion-batteries.md",
+    "label": "Sodium-ion batteries: a second chemistry comes of age",
+    "summary": "sodium-ion battery Na-ion, hard carbon anode aluminium current collectors, Prussian blue iron cathodes, no cobalt no nickel, DRC cobalt human rights, 90 percent capacity at -40C, 0 Volt shipping, 1000x more abundant than lithium, 60000x in seawater, 500 per tonne, lower energy density 160-175 Wh/kg, urban EVs 250-350 km, grid-scale stationary storage BESS, CATL TENER 30 MWh blocks, BYD Xuzhou, Peak Energy GM Ventures, HyperStrong contract, 150 GWh 2030, Technology Readiness Level TRL 8, pack cost $40 per kWh target, dual-chemistry hybrid AB battery packs, Ireland Eleven Energy Galvani Midsummer, TRIDENT project domestic microgrids, Natron Energy closure, 95 percent capacity China geographic concentration",
+    "category": "solutions",
+    "tags": [
+      "battery",
+      "renewables",
+      "electrification",
+      "ev",
+      "ireland"
+    ],
+    "keywords": [
+      "sodium-ion battery",
+      "sodium (na) instead of lithium (li)",
+      "hard carbon",
+      "iron-based cathode",
+      "cheap aluminium foil",
+      "range of around 250 to 350 km",
+      "inside the same battery enclosure",
+      "premium long-range evs",
+      "portable electronics",
+      "grid storage lasting more than ~8 hours",
+      "neither cobalt nor nickel",
+      "geographic concentration"
     ]
   },
   {
@@ -6587,6 +6615,34 @@
       "euros",
       "already",
       "plant-based"
+    ]
+  },
+  {
+    "slug": "solar-foods-electro-agriculture",
+    "filename": "solutions/food/solar-foods-electro-agriculture.md",
+    "label": "Solar foods and electro-agriculture: making food directly from electricity",
+    "summary": "solar foods electro-agriculture, gas fermentation, microbial protein, Solein Solar Foods Finland Pasi Vainikka, hydrogen bacteria vats, Robert Jinkerson UC Riverside Nolux acetate pathway, Remko Boom Copenhagen Acetate Consortium, Feng Jiao, Savor syngas butter, Jooules Air Protein Aerbio Calysta Unibio Norferm, vertical farming non-starter, 1 percent plant photosynthesis vs 20 percent solar panel, 18x more efficient, 10x food per land, decoupling food from land, GM plants acetate dark, culture medium footprint, fossil methane transition, EU novel food approval, US Singapore Solein approved",
+    "category": "solutions",
+    "tags": [
+      "food",
+      "agriculture",
+      "research",
+      "carbon-removal",
+      "electrification"
+    ],
+    "keywords": [
+      "solar foods",
+      "electro-agriculture (electro-ag)",
+      "while",
+      "hydrogen",
+      "co2 as a carbon source",
+      "ammonia as a nitrogen source",
+      "solar foods (finland)",
+      "solein",
+      "6,400 tonnes a year",
+      "jooules, air protein, aerbio",
+      "already scaled historically",
+      "norferm"
     ]
   },
   {
@@ -7080,6 +7136,34 @@
       "production",
       "sector",
       "waste"
+    ]
+  },
+  {
+    "slug": "alps-glaciers-record-loss-newscientist-2026",
+    "filename": "sources/alps-glaciers-record-loss-newscientist-2026.md",
+    "label": "Glaciers in the Alps on track for record-breaking ice loss (New Scientist, Alec Luhn, August 2026)",
+    "summary": "Rhône glacier 30 million tonnes lost 12000 Olympic pools, Alps glacier record ice loss 2026, Andreas Bauder ETH Zurich 100 glacier monitoring, Rainer Prinz University Innsbruck Austria, Ilaria Santin ETH, Mauro Werder ETH, Matthias Huss ETH, Thomas Hudson ETH fibre-optic crevasses, glacier loss day 2 July 2026, 2022 record 6 percent Alps ice, 97 percent Alps glaciers gone 2100, 269 glaciers survive 2C limit, Rhône river 19 hydroelectric plants 4 nuclear reactors cooling 5 million tonnes barges Côtes du Rhône Grenache Viognier Syrah wine, Birch glacier Blatten May 2025 20 million tonnes rock village buried, geotextiles £1.3 billion year, 9 metres ice melted, 3100m melt line, Belvédère Hotel Goldfinger, peak water passed, 1000 Swiss glaciers vanished 50 years, 2600m icefall, Matterhorn ski area closed, Chamonix ice tunnel closed, 8 percent Valais glacier empty crevasses, Saharan dust 2022",
+    "category": "sources",
+    "tags": [
+      "science",
+      "adaptation",
+      "france",
+      "ocean",
+      "eu"
+    ],
+    "keywords": [
+      "source",
+      "during the summer 2026 melt season",
+      "the rhône glacier alone has lost",
+      "= 12,000 olympic swimming pools\n-",
+      "2026 could beat the 2022 record",
+      "-",
+      "only",
+      "will remain\n-",
+      "19 major hydroelectric power plants",
+      "4 nuclear plants",
+      "fibre-optic cable crevasse detection",
+      "geotextile cover cost estimate"
     ]
   },
   {
@@ -8847,6 +8931,62 @@
       "2°c on average and up to 9°c",
       "equinix and digital realty",
       "local adaptation problem"
+    ]
+  },
+  {
+    "slug": "sodium-ion-batteries-notebooklm-2026",
+    "filename": "sources/sodium-ion-batteries-notebooklm-2026.md",
+    "label": "Sodium-ion batteries — two NotebookLM reports (October 2026)",
+    "summary": "sodium-ion battery Na-ion, CATL TENER Sodium BESS 30 MWh, HyperStrong 60 GWh contract, BYD Xuzhou 30 GWh, Qingna Sichuan 20 GWh, hard carbon anode aluminium current collectors, Prussian blue analogues iron cathodes, no cobalt no nickel, DRC human rights, 90 percent capacity at -40C, 70C high temperature, 0 Volt shipping, zero volt transport safety, lithium 20000 per tonne vs sodium 500 per tonne, 1000x more abundant 60000x in seawater, 160-175 Wh/kg density vs LFP 205 vs NMC 255, 250-350 km EV range SUV, Peak Energy GM Ventures Wallace, hybrid AB dual-chemistry packs, Natron Energy closure US, LG Energy Solution Nanjing, 95 percent capacity in China, Technology Readiness Level TRL 8 2024, 10 GWh 2025 to 150 GWh 2030 15x, Levelised Cost of Storage LCOS, pack cost $40/kWh target, Eleven Energy Galvani Ireland Midsummer, TRIDENT project Disruptive Technologies Innovation Fund International Energy Research Centre, William Wu CATL, Amanda Xu CATL, Kurt Kelty GM, IEA Nature David Castelvecchi",
+    "category": "sources",
+    "tags": [
+      "battery",
+      "renewables",
+      "electrification",
+      "ev",
+      "ireland"
+    ],
+    "keywords": [
+      "source note (important)",
+      "notebooklm-generated reports",
+      "secondary, ai-generated syntheses",
+      "source files",
+      "physically larger and heavier",
+      "hard carbon anodes",
+      "(not nmc)\n-",
+      "(lab targets 200), vs",
+      "and",
+      "- an suv on pure sodium-ion gets",
+      "-",
+      "eliminates cobalt and nickel"
+    ]
+  },
+  {
+    "slug": "solar-foods-electro-ag-newscientist-2026",
+    "filename": "sources/solar-foods-electro-ag-newscientist-2026.md",
+    "label": "How turning electricity directly into food could help save the planet (New Scientist, Michael Le Page, September 2026)",
+    "summary": "solar foods electro-agriculture, gas fermentation microbial protein, Solar Foods Finland Pasi Vainikka Solein 6400 tonnes, hydrogen electrolysis bacteria, Jooules Air Protein Aerbio Calysta Unibio Norferm, Robert Jinkerson UC Riverside acetate electrolysis yeast mushrooms algae 18x more efficient, Nolux spin-out, Remko Boom Copenhagen Acetate Consortium, Feng Jiao 2024 follow-up tenfold efficiency, Savor syngas butter, Rafflesia parasitic plants, vertical farming failure 13 hectares solar per hectare growing, 1 percent photosynthesis efficiency, 20 percent solar panel efficiency, Finland EU approval 5 years, US Singapore Solein approved, decoupling food from land, rewilding, carbon neutral renewable electricity, acetate soluble vs hydrogen methane, GM casein cheese",
+    "category": "sources",
+    "tags": [
+      "food",
+      "agriculture",
+      "research",
+      "carbon-removal",
+      "electrification"
+    ],
+    "keywords": [
+      "source",
+      "\"solar foods\" and \"electro-agriculture\"",
+      "reaching a crop as edible food\n-",
+      "vertical farming is a non-starter",
+      "~13 hectares of solar panels",
+      "solar foods",
+      "solein",
+      "us and singapore",
+      "6,400 tonnes/year",
+      "5× more productive",
+      "norferm",
+      "— proof that gas fermentation scales\n-"
     ]
   },
   {
