@@ -3,7 +3,7 @@ title: The Rise of Batteries
 category: solutions
 tags: ["#battery", "#ev", "#energy-transition", "#phaseout"]
 created: 2026-06-01
-updated: 2026-10-08
+updated: 2026-10-18
 summary: battery sales growth, S-curves, battery cost decline, energy density, battery domino effect, fossil fuel phase-out, lithium-ion batteries, RMI X-Change Batteries report, BNEF forecasts, electric vehicles, stationary storage, shipping and aviation batteries, lithium mining myths
 ---
 
@@ -33,11 +33,20 @@ Modellers have consistently underestimated how fast batteries would grow. Superi
 
 The most effective strategy to rapidly phase out fossil fuels is to accelerate deployment of technologies that reduce fossil fuel demand directly, and batteries are doing exactly that. RMI estimates batteries are on track to displace **86 exajoules of fossil fuel demand from road transport** (avoiding around 6 gigatonnes of CO2 per year), and to put a further **23 exajoules** (1.6 GtCO2/year) at risk in shipping and aviation. In electricity generation, by synchronising the variable rhythms of solar and wind supply with the timing of demand, batteries could help displace a further **175 exajoules** of fossil fuel demand, or almost 15 gigatonnes of CO2 per year. Batteries have got this far through sustained effort from companies, governments, researchers and climate advocates, and continued growth will require that effort to continue, whatever the underlying motivation: lower prices, geopolitical advantage, or climate.
 
+## The one-decade price fall, in one line
+
+Cédric Philibert (associate researcher at IFRI, formerly Ademe and the IEA, author of *Pourquoi la voiture électrique est bonne pour le climat*, 2024) sums up the lithium-ion cost curve in a single phrase: **"the price of batteries has been divided by ten in ten years"**. That is why fully electric has taken over the new-car market in Europe, including for buses and lorries, and why plug-in hybrids are now a fading transitional product — they are heavier than straight ICE cars and in practice do not emit less CO2, because drivers rarely charge from the grid.
+
+*Source: [Cédric Philibert IFRI interview (source)](../../sources/philibert-ev-ifri-interview-2026.md).*
+
 ## A second chemistry: sodium-ion goes commercial
 
 For a decade the storage conversation was about one battery chemistry. That changed in 2024-2026. **Sodium-ion batteries** — using sodium instead of lithium, iron-based cathodes instead of nickel and cobalt, and aluminium current collectors instead of copper — crossed from pilot into commercial-scale deployment. The world's largest battery maker (CATL) launched a field-validated sodium grid storage system in June 2026; BYD broke ground on a 30 GWh dedicated sodium plant; GM is prototyping sodium cells for US data centres through its Peak Energy partnership.
 
 Sodium-ion has lower energy density than lithium (~160-175 Wh/kg vs 205 for LFP, 255+ for NMC), so it will not replace lithium in long-range EVs. But it is well-suited to **stationary grid storage, entry-level urban EVs and cold-climate home storage**, where its advantages (abundant and cheap raw material, no cobalt or nickel, 90% capacity down to -40°C, zero-volt shipping safety) matter more than weight. **The strategic effect: the storage half of the energy transition is no longer dependent on a single battery chemistry.** See the dedicated [sodium-ion batteries](sodium-ion-batteries.md) page.
+
+## A new revolutionary breakthrough: lithium-air announcement by CATL
+**Lithium-air batteries** represent a revolutionary breakthrough in energy storage because they completely eliminate heavy transition metals like cobalt and nickel from the cathode, replacing them with a **lightweight carbon structure** that breathes in oxygen directly from the surrounding air. This innovative design allows the battery to achieve a **staggering theoretical energy density** that rivals fossil fuels, potentially granting electric vehicles the ability to travel massive distances without ever needing a recharge (up to 3000km!!). Although major engineering hurdles remain—such as protecting internal components from ambient humidity and preventing dangerous **lithium dendrite formation**—recent laboratory successes using **solid electrolytes** are successfully bridging the gap between solid-state and air-breathing technologies. Ultimately, while industry leaders like CATL view this chemistry as a **long-term strategic frontier** that will not reach commercial vehicles until the mid-2030s, ongoing global research demonstrates that it holds the **ultimate potential** to completely eradicate consumer range anxiety. See[ this video detailing](https://www.youtube.com/watch?v=0TPsgZHPOEI&list=WL&index=1&t=124s) this announcement from CATL
 
 ## Understanding the lithium battery: the mining myth
 

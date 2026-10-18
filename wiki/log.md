@@ -4,6 +4,60 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-10-18] ingest | 6 files + 2 duplicate skips — dog food, French transport, pollinators, EVs, heatwave myths, Swiss glaciers
+
+Reviewed with user before writing: proposed routing presented, user approved "own article" for both dog food and heatwave myths, "duplicates, discard" for the two PDF duplicates.
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| `raw/papers/NS-DogsPlantBasedFood.pdf` | Source summary + new wiki page | `wiki/sources/plant-based-dog-food-newscientist-2025.md` + `wiki/sectors/agriculture-food/pet-food-climate-impact.md` |
+| `raw/articles/Ça bouge en ville, how French cities are changing transport.md` | Source summary + new wiki page (seeds the previously-empty `eu-hub` folder) | `wiki/sources/france-urban-transport-eco360-2026.md` + `wiki/eu-hub/france-urban-transport.md` |
+| `raw/articles/Honeybees are barging aside wild pollinators...md` | Source summary + update | `wiki/sources/honeybees-crowd-wild-pollinators-guardian-2026.md` + new "October 2026 update" section in `wiki/biodiversity-land/why-bees-matter.md` |
+| `raw/articles/interview with Cédric Philibert, associate researcher at IFRI.md` | Source summary + 2 wiki page updates | `wiki/sources/philibert-ev-ifri-interview-2026.md` + updates to `wiki/solutions/electrification/The rise of the batteries.md` (lithium ÷10 in a decade + PHEV critique) and `wiki/solutions/electrification/EV Progress.md` (France 30% EV sales, Europe-vs-China framing) |
+| `raw/articles/The 13 biggest myths about heatwaves – and how to bust them.md` | Source summary + new wiki page | `wiki/sources/heatwave-myths-hawkins-guardian-2026.md` + `wiki/climate-science/heatwave-myths-hawkins.md` (placed in climate-science, not myths/, because it bundles multiple myths per CLAUDE.md "one myth per page" rule) |
+| `raw/articles/'Explosion of melt rates' 20% of Swiss glaciers lost in five years.md` | Source summary + update | `wiki/sources/swiss-glaciers-19-percent-glamos-guardian-2026.md` + new "October 2026 update: GLAMOS annual report" section in `wiki/biodiversity-land/Glaciers in Retreat...md` |
+
+### Skips (2 duplicates)
+
+- **`raw/papers/NS-ElectricitytoFood.pdf`** — same Michael Le Page article as `Food-growing-NS.pdf`, ingested 2026-10-08. User confirmed to discard as duplicate without diffing. Current PDF is labelled "updated 1 October 2026" but no substantive changes assumed.
+- **`raw/papers/NS-scrapYourPetrolCar.pdf`** — same Madeleine Cuff article as the `.md` clipping, already ingested 2026-08-26 as `scrap-petrol-car-for-ev-newscientist-2026`. User confirmed to discard.
+
+### Process notes
+
+- **One mid-turn recovery.** The "13 heatwave myths" clipping initially only captured the 27-line Guardian preamble. I flagged it as a skip and attempted WebFetch — the Guardian is blocked for WebFetch. User re-clipped the full article mid-turn ("i can get it back. just added the content"); re-read gave 11-12 of the 13 myth-rebuttal pairs. Wiki page notes the gap honestly.
+- **New folder created.** `wiki/eu-hub/` was defined in CLAUDE.md's directory structure but had no files. The France urban-transport page seeds it. Schema-sanctioned, not a new category.
+- **Paragraph tags used.** Four new paragraph tags added this batch: `<!-- tag: individual-actions -->` in pet-food and france-urban-transport pages; `<!-- tag: uk -->` in the why-bees-matter update; `<!-- tag: france, eu -->` in the Glaciers in Retreat and EV Progress updates (per the updated CLAUDE.md paragraph-tagging rules).
+
+### Key facts introduced this batch
+
+- **Plant-based dog food (Brociek et al., PLOS One 2025):** 25 commercial dry dog foods analysed (19 meat, 6 plant); all 25 had acceptable protein/fat/amino acids; none fully met official guidelines; main gaps for plant-based were iodine (seaweed fixes) and vitamin B (needs supplementation). **Does not apply to cats** (obligate carnivores)
+- **France urban transport (Eco360):** Câble C1 Val-de-Marne 4.5 km opened 13 Dec 2025 (longest urban cable car in France); 10+ French cities with cable cars; Dunkerque went fully-free 2018; Montpellier fully-free from 2020 costing €40M/yr; Cour des comptes finds "mixed" climate results — new transit users are mostly walkers/cyclists, not drivers; 200+ French urban areas run on-demand transport via Padam Mobility; 6 of 10 rural council groups adopted; **transport = 34% of French GHG, cars = 54% of that**; CO2/pkm: TGV 2.9, bike 11, electric train 27.5, EV 67, bus 122, petrol 142, plane 178-225
+- **Honeybees vs wild pollinators (Buckle et al., *Ecological Entomology* 2026):** 300 interactions tracked in Cambridgeshire; honeybees won most, actively displaced or chased in ~20% of their wins; UK registered beekeepers 2.5× from 2010 (19k) to 2025 (47k); only the ivy bee holds its own; hot summers worsen competition
+- **Cédric Philibert (IFRI, EV interview):** France EVs >30% of new sales today, 80% in 10 years at current pace; lithium-ion battery prices divided by 10 in a decade; plug-in hybrids heavier and don't actually emit less; 9 of 10 best-selling French EVs European, 10th Tesla, none Chinese; sub-€20,000 small EVs with grants
+- **13 heatwave myths (Ed Hawkins / Guardian):** 1850s physics, 1890s quantification, Guy Callendar 1938 first observational link; June 2026 was ~2°C hotter than June 1976 in the UK; 1976 killed 250 extra per day; 2003 European heatwave killed 40-70k; CO2 125k-year high; UK homes built for cooler past
+- **GLAMOS 2026 (Huss / Guardian):** Switzerland has lost **19.4% of its glacier ice in 5 years** (since 2021); 2026 alone 5.5% (just short of 2022 record); mean thickness drop 2.5-4 m in 2026; Plattalvafirn (Griess) lost 99% of its area in 20 years; MeteoSwiss hottest/driest summer half-year since 1864; new failure mode = internal "cheese hole" collapse from subglacial streams
+
+### Files created
+
+- 6 new source summaries in `wiki/sources/`
+- 3 new wiki pages: `wiki/sectors/agriculture-food/pet-food-climate-impact.md`, `wiki/eu-hub/france-urban-transport.md`, `wiki/climate-science/heatwave-myths-hawkins.md`
+- 4 existing pages updated: `wiki/biodiversity-land/why-bees-matter.md`, `wiki/solutions/electrification/The rise of the batteries.md`, `wiki/solutions/electrification/EV Progress.md`, `wiki/biodiversity-land/Glaciers in Retreat...md`
+- `wiki/index.md` — 6 source rows added, 1 agriculture-food row + 1 climate-science row + new EU Hub section with 1 row added; date bumped to 2026-10-18
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- Food cluster: pet-food ↔ lab-grown-meat ↔ solar-foods / electro-agriculture ↔ EAT-Lancet ↔ beef-and-climate — pet food was previously missing from this cluster
+- EV cluster: Philibert interview ↔ The rise of the batteries ↔ EV Progress ↔ sodium-ion batteries ↔ France urban transport — the Cédric Philibert interview strengthens the lithium-ion story just as the sodium-ion page describes the second chemistry
+- France cluster (new): France urban transport is the first eu-hub page; links out to transport pages, EV progress, Ireland transport parallels
+- Glacier cluster: GLAMOS annual report ↔ Luhn NS field report ↔ Swiss glaciers heatwave 2026 ↔ Pine Island Glacier attribution ↔ record-hot ocean ↔ climate-tipping-points
+- Pollinator cluster: honeybees competition study ↔ why-bees-matter (existing) ↔ solar-farms-pollinators ↔ french solar farms source
+- Heatwave myths page cross-links to its-too-late myth, record-hot-ocean, jetstream-heatwave-patterns, wildfires-climate-feedback, Wet-Bulb explained, home-cooling-heatwaves
+
+---
+
 ## [2026-10-08] ingest (2nd batch today) | 2 NotebookLM reports — sodium-ion batteries
 
 Both new files are NotebookLM-generated reports on sodium-ion batteries, exported minutes apart on 8 October 2026. One is pitched as educational ("Beyond Lithium"), the other as an executive briefing on the climate-action case.

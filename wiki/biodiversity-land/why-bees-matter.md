@@ -7,7 +7,7 @@ tags:
   - nature
   - science
 created: 2026-06-06
-updated: 2026-09-18
+updated: 2026-10-18
 summary: bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss. What about Ireland Pollinator plan, what is ireland implmeenting to support pollinators, and what is dun laoghaire plan
 ---
 
@@ -165,6 +165,29 @@ DLR recognizes that private gardens, balconies, and patios are vital for connect
 #### **D. Infrastructure and Planning**
 
 - **Pollinator Areas:** DLR is establishing pollinator zones not just in parks, but in urban environments like shopping centers and on "brown roofs" (biodiversity roofs) on new developments.
+
+## October 2026 update: honeybees are actively pushing wild pollinators off flowers
+
+A two-year Anglia Ruskin University study in Cambridgeshire (Buckle et al., *Ecological Entomology*, DOI 10.1111/een.70139, October 2026) adds hard evidence to the "the beekeeping boom isn't helping wild bees" argument.
+
+<!-- tag: uk -->
+
+The study tracked **300 competitive interactions** between flower visitors (honeybees, bumblebees, solitary bees, hoverflies, "other") foraging on bramble and ivy near honeybee colonies. The findings:
+
+- **Areas with more honeybees had fewer wild pollinators** overall
+- **Honeybees won most competitive interactions** across both plant species
+- In honeybee-won interactions, the honeybee **displaced or chased** the other pollinator in **about 20% of cases** — "interference competition" (direct aggression), not just the previously-known "exploitation competition" (using up resources first)
+- Other flower visitors **actively avoided honeybees** in **28.4% of interactions on bramble, 35.6% on ivy**
+- UK **registered beekeepers more than doubled** from 19,000 (2010) to 47,000 (2025) per the National Bee Unit
+- **Higher temperatures = more competitive interactions** (nectar dries, plants heat-stress). UK mean summer temperatures could rise by up to **4°C by 2080** — pollinator competition is likely to get worse
+
+The only pollinator seen holding its own against honeybees was the **ivy bee** (first recorded in UK in 2001), which displaced and chased honeybees.
+
+**Victoria Buckle** (Anglia Ruskin, lead author): *"With the honeybees, the aggression was more overt. You could tell that they're specifically trying to move the other one off the flower."* Honeybees' capacity for aggression likely stems from their social-group organisation — some castes act as guard bees for the hive.
+
+**The practical takeaway:** before setting up a hive in a garden, allotment or city, think about whether the surrounding area has enough flowers to support both the new honeybees and the wild pollinators that are already there. In most urban and suburban settings, it probably doesn't.
+
+*Source: [Honeybees outcompete wild pollinators (source)](../sources/honeybees-crowd-wild-pollinators-guardian-2026.md); Guardian, Rebecca Ratcliffe, 17 October 2026.*
 
 ## Practical: solitary bee shelters at home
 

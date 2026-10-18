@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-10-08
+Last updated: 2026-10-18
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -112,6 +112,12 @@ Summaries of every ingested source file.
 | [[solar-foods-electro-ag-newscientist-2026]] | New Scientist (Sep 2026): Michael Le Page on "solar foods" — Solar Foods / Solein approved in US and Singapore; UC Riverside shows solar→acetate→yeast ~18× more efficient than farming; Jinkerson's Nolux spin-out growing plants in the dark on acetate; Calysta/Unibio already at 20-50k t/yr but on fossil methane |
 | [[alps-glaciers-record-loss-newscientist-2026]] | New Scientist (Aug/Sep 2026): Alec Luhn with ETH Zurich (Bauder) on the Rhône glacier — 30 Mt lost = 12,000 Olympic pools; melt line above 3,100 m; Alps on track to beat 2022 (6% of ice lost in a year); 97% of Alps glaciers gone by 2100 under current policies, vs 269 surviving at 2°C; Rhône river sustains 19 hydro plants + 4 nuclear + Côtes du Rhône wine |
 | [[sodium-ion-batteries-notebooklm-2026]] | Two NotebookLM reports (Oct 2026) on sodium-ion batteries — CATL TENER 30 MWh grid blocks, BYD Xuzhou 30 GWh plant, GM/Peak Energy prototyping; cheaper, cold-tolerant, cobalt-free; EV range limited to 250-350 km; 95% of planned capacity in China. **AI-generated source: specific numbers need primary-source verification** |
+| [[plant-based-dog-food-newscientist-2025]] | NS (Sep 2025) + PLOS One: 25 dry dog foods analysed by Rebecca Brociek (Nottingham); plant-based options meet protein, fat and amino-acid needs with iodine (seaweed) and vitamin B supplementation; none of the 25 foods fully met official guidelines, meat or plant |
+| [[france-urban-transport-eco360-2026]] | Eco360 (Sep 2026): French urban transport innovations — Câble C1 Val-de-Marne (Dec 2025), Montpellier free public transport, 200+ on-demand transport networks (Padam Mobility); Cour des comptes finds free transit shifts walkers/cyclists not drivers; national CO2/pkm table |
+| [[philibert-ev-ifri-interview-2026]] | Cédric Philibert (IFRI, 2026): France EVs >30% of new sales, 80% in ten years; lithium-ion battery prices divided by 10 in a decade; plug-in hybrids are a fake solution; 9 of 10 best-selling French EVs are European; sub-€20,000 small EVs with grants |
+| [[honeybees-crowd-wild-pollinators-guardian-2026]] | Guardian (Oct 2026): Anglia Ruskin Cambridgeshire study — honeybees actively bump and chase wild pollinators off flowers (interference competition); UK registered beekeepers doubled 2010-2025 (19,000 to 47,000); hot summers make it worse |
+| [[heatwave-myths-hawkins-guardian-2026]] | Guardian (Jul 2026): Jonathan Watts with Prof Ed Hawkins (Reading) — 11-12 of 13 heatwave sceptic myths rebutted (1976 UK vs 2026, El Niño, orbital, 2003 heatwave 40-70k deaths, UK homes built for cooler past, CO2-as-plant-food) |
+| [[swiss-glaciers-19-percent-glamos-guardian-2026]] | Guardian (Oct 2026): GLAMOS annual report — Swiss glaciers lost 19.4% of ice in 5 years (since 2021); 5.5% in 2026 alone; Plattalvafirn gone (99% in 20 years); new failure mode: internal "cheese-hole" collapse from subglacial streams |
 
 ---
 
@@ -142,6 +148,7 @@ Fundamentals of how the climate works, IPCC findings, measurement, and physical 
 | [[record-hot-ocean-el-nino-2026]] | Record-hot ocean and the 2026 El Niño: 82% marine heatwave coverage in H1, NOAA's 63% odds of a very strong event; deep-ocean warming makes extreme El Niños 40–80% more likely; High Seas Treaty in force; ship-sulphur trade-off — **updated** July 2026 with WRI's ocean-warming synthesis (91% heat absorption, 11 cm sea rise, Tuvalu Falepili treaty); **updated** August 2026 with the Solomon Islands / Kale Island case (submerged 2016; 26,000+ relocated since 2008; Jason deCaires Taylor's "Solomon Siren" sculpture); **updated** August 2026 with the Miquelon relocation (first for France) and Mediterranean 20% faster warming (Anaïs Massé, Fondation de la mer) |
 | [[jetstream-heatwave-patterns-2026]] | **NEW** — Two jet-stream patterns behind Europe's long heatwaves: omega block (type I) and poleward shift (type II); Pappert & Martius (Bern) simulated 1,900 hot spells; June 2026 heatwave killed ~20,000 |
 | [[climate-tipping-points]] | **NEW** — Climate tipping points explained (Tim Lenton framework): 16 elements, 5 in the danger zone at today's warming; Greenland, West Antarctica, AMOC, Subpolar gyre, Amazon, permafrost, coral reefs; positive tipping points in society/technology (Norway EVs, UK coal, wind/solar S-curves) |
+| [[heatwave-myths-hawkins]] | **NEW** — Heatwave myths and how to bust them (Ed Hawkins, Reading): 12 short rebuttals for sceptic lines on heatwaves (1976 UK vs 2026, El Niño, orbit, 2003's 40-70k deaths, UK homes built for cooler past, CO2-as-plant-food, "it's too late"). Companion to the wiki/myths/ folder |
 
 ---
 
@@ -253,6 +260,7 @@ Funding the transition — investment, risk, green banking.
 | [[agriculture-planetary-footprint]] | Agriculture as the single largest planetary disruptor: land use, water, biodiversity, emissions |
 | [[lab-grown-meat]] | Lab-grown and plant-based meat: science, promises, costs, and why it won't solve the problem soon |
 | [[solar-foods-electro-agriculture]] | **NEW** — Solar foods and electro-agriculture: making food directly from renewable electricity, water, CO2 and nitrogen. Gas fermentation (Solar Foods / Solein, Calysta, Unibio); acetate-based microbes and plants (Jinkerson, Boom, Nolux); Savor's syngas-to-fat; why vertical farming fails but electro-ag could decouple food from land |
+| [[pet-food-climate-impact]] | **NEW** — Pet food and climate: the overlooked slice of the agricultural footprint. Peer-reviewed PLOS One study finds plant-based dog food meets nutritional needs with iodine + vitamin B supplementation. Cats are different (obligate carnivores): do not generalise |
 | [[beef-and-climate-change]] | Six-question WRI framing: methane + land-use change, 20× vs beans, 50 cal/day target reconciles feeding 10bn people with keeping forests |
 | [[eat-lancet-planetary-diet-2025]] | EAT-Lancet 2025 planetary health diet — **updated** July 2026 with LSHTM-Cornell *Nature* economic modelling: –85% land-use emissions, –42% livestock production value, 400M fewer ruminants; regional impacts (USA –21%, India +46%, Europe –35%) |
 | FACTS about RICE production | Rice emissions and impact |
@@ -510,6 +518,16 @@ Funding the transition — investment, risk, green banking.
 | Which Reporting Standard? Top 7 Sustainability Reporting Standards in 2024 | Reporting standard comparison |
 | [[SBTI - sbti-science-based-targets]] | SBTi Science Based Targets explained — **updated** July 2026 with the final Corporate Net-Zero Standard V2.0: OER framework, Category A/B, mandatory carbon removals from 2035, $80/tonne Leadership tier, effective 1 Feb 2027 |
 | [[issb-nature-practice-statement-2026]] | **NEW** — ISSB chooses a non-mandatory "practice statement" over a mandatory nature standard (IFRS S3); WWF, Rockström, Polman, Nature Finance push back; October 2026 consultation ahead of COP17 |
+
+---
+
+## EU Hub (`wiki/eu-hub/`)
+
+Content about the European Union and its member states. Same logic as the Ireland Hub.
+
+| Page | Description |
+|------|-------------|
+| [[france-urban-transport]] | **NEW** — France: how cities are changing urban transport. Câble C1 Val-de-Marne (Dec 2025), free public transit (Dunkerque, Montpellier), 200+ on-demand transport areas; Cour des comptes finds free transit shifts walkers/cyclists not drivers; national CO2/pkm table |
 
 ---
 

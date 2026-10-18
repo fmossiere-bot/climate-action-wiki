@@ -7,7 +7,7 @@ tags:
   - "#adaptation"
   - "#water"
 created: 2025-09-01
-updated: 2026-10-08
+updated: 2026-10-18
 summary: |-
   Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, why glacier matters, gl;aciers and fresh water impact,There are around **192,870 glaciers** in the world. (Counts vary between scientific inventories. The UN and the World Meteorological Organisation cite more than 275,000.)
   - Mountain glaciers cover about **664,000 square kilometres**, which is roughly 1.2 times the size of France. This figure does not include the much larger polar ice caps.
@@ -123,6 +123,26 @@ Mauro Werder (ETH Zurich): *"All other solutions are pretty desperate. We really
 
 *Source: [Alps glaciers record loss (source summary)](../sources/alps-glaciers-record-loss-newscientist-2026.md); Alec Luhn, New Scientist, 27 August 2026 (updated 3 September 2026).*
 
+### October 2026 update: GLAMOS annual report confirms 19.4% ice loss in five years
+
+The **Swiss Glacier Monitoring Network (GLAMOS)** published its 2026 annual report on 1 October (lead author Matthias Huss, ETH Zurich; collaboration with the Swiss Commission for Cryosphere Observation). The headline numbers:
+
+<!-- tag: france, eu -->
+
+- **Switzerland has lost 19.4% of its glacier ice in five years (since 2021)** — nearly one-fifth
+- **2026 alone accounted for a 5.5% drop** in the first eight months of the year, just short of the 2022 record
+- **Mean thickness of individual glaciers fell by 2.5 to 4 metres in 2026**
+- The former **Plattalvafirn (Griess) glacier**, intensively monitored in the 1950s, has lost **99% of its area in 20 years** — now a "moonlike rock desert" (Huss)
+- **MeteoSwiss**: the April-September 2026 half-year was the **hottest and driest since Swiss records began in 1864**
+
+Why 2026 fell just short of the 2022 record despite worse heat: **limited Saharan dust deposits** (dust fouls the snow and prevents it reflecting sunlight), slightly more snow at end-of-winter, and more sunlight in summer.
+
+**A new failure mode: internal collapse.** Huss describes glaciers increasingly collapsing from inside — subglacial streams excavate caverns ("cheese holes") and the ice above caves in. This echoes the ETH fibre-optic crevasse study (July 2026) which found **8% of a Valais glacier's volume is empty crevasses** hidden up to 25 m down. Surface-only monitoring is likely underestimating glacier instability.
+
+Huss: *"What we are seeing now is a complete explosion of these melt rates, leading to the disintegration of glaciers. They're really just falling apart."*
+
+*Source: [Swiss glaciers 19% in 5 years (source summary)](../sources/swiss-glaciers-19-percent-glamos-guardian-2026.md); Guardian, Ajit Niranjan, 1 October 2026.*
+
 ## Protecting glaciers
 
 There is growing political attention on glaciers. At the request of Tajikistan, the United Nations declared **2025 the International Year of Glaciers' Preservation**, co-led by UNESCO and the World Meteorological Organisation. The 21st of March is now marked each year as World Day for Glaciers. The UN has also declared 2025 to 2034 a **Decade of Action for Cryospheric Sciences**.
@@ -143,4 +163,5 @@ Public support is strong. According to a Eurobarometer survey, **85% of European
 - Global glacier numbers and fresh water role: [UNESCO and WMO](https://wmo.int/news/media-centre/unesco-and-wmo-launch-international-year-of-glaciers-preservation-2025)
 - June 2026 Swiss glacier loss day: RTÉ News / AFP, 27 June 2026 — https://www.rte.ie/news/2026/0627/1580624-glaciers-heatwave/ (interview with Matthias Huss, GLAMOS)
 - 2026 Alps record ice loss, Rhône glacier field reporting: New Scientist, Alec Luhn, 27 August 2026 (updated 3 September 2026) — "Glaciers in the Alps are on track for record-breaking ice loss"
+- GLAMOS 2026 annual report: Guardian, Ajit Niranjan, 1 October 2026 — "'Explosion of melt rates': 20% of Swiss glaciers lost in five years"; primary source https://www.glamos.ch/en/#/A10g-05
 - June 2026 Pine Island Glacier attribution: Phys.org / King's College London / British Antarctic Survey, 28 June 2026 — https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html (peer-reviewed in *The Cryosphere*, Bradley et al. 2026)
