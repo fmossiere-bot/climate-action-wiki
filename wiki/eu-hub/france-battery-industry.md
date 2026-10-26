@@ -14,7 +14,7 @@ related:
   - philibert-ev-ifri-interview-2026
 ---
 
-> **Editorial summary:** Fabien's translation of Nathalie Mayer's article on France's battery industry (2026). Preserved verbatim per the own-research rule. **The piece covers the state of play of Battery Valley in Hauts-de-France: four gigafactories now operating or being built — ACC (Stellantis / TotalEnergies / Mercedes), Verkor (Renault / Schneider / Arkema), AESC (Chinese Envision), and ProLogium (Taiwanese, solid-state). The challenge is ramping up production, dealing with the China gap, and training enough skilled workers.** Key framing from Sébastien Patoux (CEA): the real gap with China is industrial culture — Europeans build small, then plan the next scale-up; the Chinese build at scale from the start. Of the ~50 gigafactory projects announced a few years ago, only 6-7 remain, but "more solid". The École de la batterie aims to train 10,000-20,000 people by 2030 — a tough target against CATL's single-firm total of ~30,000 R&D engineers.
+> France battery Valley in Hauts-de-France: four gigafactories now operating or being built:ACC (Stellantis / TotalEnergies / Mercedes), Verkor (Renault / Schneider / Arkema), AESC (Chinese Envision), and ProLogium (Taiwanese, solid-state) are a sign of the rise interest in bringing battery production back on our continent. The challenge is ramping up production, dealing with the China gap, and training enough skilled workers. The École de la batterie aims to train 10,000-20,000 people by 2030, a tough target against CATL's single-firm total of ~30,000 R&D engineers.
 
 # The Race for a Battery Made in France
 
@@ -34,7 +34,7 @@ The slowdown in electric car sales in Europe in 2023 and 2024 did not help eithe
 
 Still, Sébastien Patoux does not believe the gap is for good. "A sector is being built, and there are always difficult moments to get through. China went through it too. The ones who survived, like BYD, are stronger today. Let's bet the same thing will happen in Europe." Of the fifty or so projects announced a few years ago, only six or seven are left, but they are "more solid". The scientist thinks the industry landscape should settle by 2027.
 
-The other battle is about raw materials. Lithium, nickel, cobalt and graphite are still mostly imported, and China controls most of the refining of these key materials. To depend less on others, Europe is counting on recycling, on making batteries last longer and on using a wider range of battery chemistries. Some French companies, like Tokai Cobex for the graphite used in anodes, are also starting to get into this market.
+> The other battle is about raw materials. Lithium, nickel, cobalt and graphite are still mostly imported, and China controls most of the refining of these key materials. To depend less on others, Europe is counting on recycling, on making batteries last longer and on using a wider range of battery chemistries. Some French companies, like Tokai Cobex for the graphite used in anodes, are also starting to get into this market.
 
 Faced with China's strength, some companies are choosing to work with them instead. Orano has teamed up with the Chinese company XTC New Energy to make cathode materials near Dunkirk. Sébastien Patoux is open about this practical approach: "We were happy enough when Toyota made cars in Europe..." The CEA expert stays hopeful: "Maybe in two or three years, we will be better than we think today."
 
@@ -44,4 +44,6 @@ Faced with China's strength, some companies are choosing to work with them inste
 
 ## Box: A training challenge
 
-Some numbers hurt. In France, fewer than 1,000 people work on developing batteries, while the Chinese leader CATL alone employs nearly 30,000 engineers in research and development. So the French sector has to catch up. To close the gap, the École de la batterie (Battery School), a national network of companies and schools set up in 2022, and several training programmes aim to train between 10,000 and 20,000 people by 2030. The jobs needed cover the whole chain of value: engineers in electrochemistry, materials specialists, automation technicians, production technicians, maintenance experts, quality control staff, and also battery recycling staff.
+Some numbers hurt. 
+
+> In France, fewer than 1,000 people work on developing batteries, while the Chinese leader CATL alone employs nearly 30,000 engineers in research and development. So the French sector has to catch up. To close the gap, the École de la batterie (Battery School), a national network of companies and schools set up in 2022, and several training programmes aim to train between 10,000 and 20,000 people by 2030. The jobs needed cover the whole chain of value: engineers in electrochemistry, materials specialists, automation technicians, production technicians, maintenance experts, quality control staff, and also battery recycling staff.

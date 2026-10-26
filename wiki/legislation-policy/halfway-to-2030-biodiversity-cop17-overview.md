@@ -1,8 +1,14 @@
 ---
 title: "Halfway to 2030: what the biodiversity COP17 in Armenia is about"
 category: legislation-policy
-tags: ["#biodiversity", "#cop30", "#nature", "#finance", "#ireland"]
-sources: ["raw/own-research/Halfway to 2030, what the biodiversity COP17 in Armenia is about.md"]
+tags:
+  - "#biodiversity"
+  - "#nature"
+  - "#finance"
+  - "#ireland"
+  - COP17
+sources:
+  - raw/own-research/Halfway to 2030, what the biodiversity COP17 in Armenia is about.md
 created: 2026-10-26
 updated: 2026-10-26
 summary: COP17 Yerevan biodiversity Armenia 19-30 October 2026, Kunming-Montreal Global Biodiversity Framework 23 targets 2030, 196 parties CBD 1992 Rio, 10000 delegates Taking Action for Nature, Guterres State of Biodiversity Action, 90 percent countries targets 60 percent plans 70 percent reports 83 percent aligned, 22 of 23 targets off track, 30x30 land 18-19 percent sea 23 percent protected, Cali Fund $1 billion target $7085 raised big pharma free-riding, 175x shareholder dividends, Ireland Christopher O'Sullivan Nature Restoration Law first EU plan Fintan Kelly Jane Stout Trinity, Teresa Ribera Jessika Roswall nature credits, Armenia Amulsar gold mine Garni Greenpeace, Yerevan Declaration 14 decisions, Yerevan Pathway, Robert Kim 14 year old, $1.7-3.2 trillion fossil subsidies, €30 harm €1 protect, 73 percent wildlife decline 1 million species extinction
@@ -16,11 +22,7 @@ related:
 
 # Halfway to 2030: what the biodiversity COP17 in Armenia is about
 
-> **Editorial summary:** Original synthesis by Fabien Mossière, written on 26 October 2026 while the talks are still ongoing. Pulls together the main pre-summit reporting and first-week reporting from the Guardian (Patrick Greenfield, Rebecca Ratcliffe), We Don't Have Time (Robert Kim), the CBD's own State of Biodiversity Action report, the European Commission, Mongabay, the Irish Times, Carbon Brief, Al Jazeera, Nature World News, Down To Earth, WWF and Greenpeace. **The core argument: COP17 is the first global review of progress on the 2030 nature targets agreed at COP15 in Montreal in 2022. Nearly 90% of countries now have targets, but fewer than half of those targets are on track; the hardest fight is money, with €30 flowing to activities that damage nature for every €1 spent protecting it; the Cali Fund asked for about €890m from big pharma and got €6,300; and Ireland pushed hard for the EU Nature Restoration Law but admits it is not on track at home.** The final COP17 deal is expected on 30 October 2026, four days from this write-up.
-
-**Money in this article:** source figures in US dollars are converted to euros at the ECB rate of 23 October 2026 (1 euro = 1.12 dollars), so they are rounded and marked "about".
-
-**Written on 26 October 2026, while the talks are still going on.** The summit ends on 30 October, so the final deal is not known yet.
+> COP17 is the first global review of progress on the 2030 nature targets agreed at COP15 in Montreal in 2022. Nearly 90% of countries now have targets, but fewer than half of those targets are on track; the hardest fight is money, with €30 flowing to activities that damage nature for every €1 spent protecting it; the Cali Fund asked for about €890m from big pharma and got €6,300; and Ireland pushed hard for the EU Nature Restoration Law but admits it is not on track at home.** The final COP17 deal is expected on 30 October 2026, four days from this write-up.
 
 ## What is a biodiversity COP?
 

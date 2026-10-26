@@ -1,8 +1,20 @@
 ---
 title: "COP31 in Antalya: dates, structure and main topics"
 category: legislation-policy
-tags: ["#cop30", "#diplomacy", "#finance", "#coalition", "#adaptation"]
-sources: ["raw/own-research/cop31-antalya-overview.md", "UNFCCC COP31 3rd Presidency Letter (24 August 2026)", "cop31.tr", "IISD SDG Knowledge Hub", "DCCEEW Australia", "edie", "The Climate Watch"]
+tags:
+  - "#diplomacy"
+  - "#finance"
+  - "#coalition"
+  - "#adaptation"
+  - cop31
+sources:
+  - raw/own-research/cop31-antalya-overview.md
+  - UNFCCC COP31 3rd Presidency Letter (24 August 2026)
+  - cop31.tr
+  - IISD SDG Knowledge Hub
+  - DCCEEW Australia
+  - edie
+  - The Climate Watch
 created: 2026-09-18
 updated: 2026-09-18
 summary: COP31 Antalya Turkiye 9-20 November 2026, Murat Kurum President-Designate, Chris Bowen Australia President of Negotiations, Pacific Pre-COP Fiji, shared host arrangement first time, implementation COP, ten priorities electrification 35 percent by 2035, zero waste methane 50 percent reduction, buildings 25 percent energy intensity cut, circular materials 15 percent, climate education 2035, food security ocean seas health, Rio synergies, Climate Implementation Bridge, NDCs national climate plans, $300 billion climate finance $1.3 trillion aspiration, adaptation finance tripling, fossil fuel transition, just transition mechanism, thematic days, Global Climate Action Agenda six axes, Türkiye 2053 net zero, Australia coal gas exporter, Istanbul Climate Finance Summit
@@ -16,7 +28,7 @@ related:
 
 # COP31 in Antalya: dates, structure and main topics
 
-> **Editorial summary:** Original overview by Fabien Mossière, built from the UNFCCC COP31 Presidency's third Letter to Parties (24 August 2026) and cross-checked against COP31.tr, IISD SDG Knowledge Hub, edie, and Australia's DCCEEW. **COP31 is unusual for two reasons: it is the first COP hosted jointly by two countries plus a region (Türkiye hosts and holds the Presidency, Australia leads the negotiations, Fiji hosts the Pre-COP), and it is framed as an "implementation COP" — less about new promises, more about delivering what was agreed at Belém (COP30) and Baku (COP29).** The Presidency has set ten priorities, five with measurable 2035 targets. But those targets sit in the voluntary Action Agenda, not the negotiated text — so the harder tests are still national climate plans, the delivery of the $300bn / $1.3tn finance goals, adaptation, and whether the fossil-fuel transition enters the formal outcome.
+> **COP31 is unusual for two reasons: it is the first COP hosted jointly by two countries plus a region (Türkiye hosts and holds the Presidency, Australia leads the negotiations, Fiji hosts the Pre-COP), and it is framed as an "implementation COP" : less about new promises, more about delivering what was agreed at Belém (COP30) and Baku (COP29).** The Presidency has set ten priorities, five with measurable 2035 targets. But those targets sit in the voluntary Action Agenda, not the negotiated text, so the harder tests are still national climate plans, the delivery of the $300bn / $1.3tn finance goals, adaptation, and whether the fossil-fuel transition enters the formal outcome.
 
 ## 1. Key facts at a glance
 
@@ -48,11 +60,11 @@ The Presidency describes this as the first time that two countries and a region 
 
 COP31 does not start from a blank page. Several open questions come from previous summits:
 
-- **National climate plans (NDCs).** Countries were due to submit new plans covering the period to 2035. Taken together, the plans submitted so far do not put the world on track to limit warming to 1.5°C. Some countries have still not submitted. The Presidency's letter asks them to do so, along with their Biennial Transparency Reports.
-- **Climate finance.** COP29 in Baku set a goal of at least USD 300 billion per year by 2035 for developing countries, with a wider aspiration of USD 1.3 trillion per year from all sources. The question now is how this money will actually be delivered.
-- **Adaptation.** COP30 called for a tripling of adaptation finance by 2035 and adopted a first set of indicators to measure progress on adaptation. Both need follow-up.
-- **Fossil fuels.** COP30 did not agree a formal roadmap for the transition away from fossil fuels. The topic continues through voluntary initiatives outside the negotiated text and is likely to return in Antalya.
-- **Just transition.** COP30 agreed to develop a mechanism to support a fair transition for workers and communities. Its design is still to be worked out.
+> - **National climate plans (NDCs).** Countries were due to submit new plans covering the period to 2035. Taken together, the plans submitted so far do not put the world on track to limit warming to 1.5°C. Some countries have still not submitted. The Presidency's letter asks them to do so, along with their Biennial Transparency Reports.
+> - **Climate finance.** COP29 in Baku set a goal of at least USD 300 billion per year by 2035 for developing countries, with a wider aspiration of USD 1.3 trillion per year from all sources. The question now is how this money will actually be delivered.
+> - **Adaptation.** COP30 called for a tripling of adaptation finance by 2035 and adopted a first set of indicators to measure progress on adaptation. Both need follow-up.
+> - **Fossil fuels.** COP30 did not agree a formal roadmap for the transition away from fossil fuels. The topic continues through voluntary initiatives outside the negotiated text and is likely to return in Antalya.
+> - **Just transition.** COP30 agreed to develop a mechanism to support a fair transition for workers and communities. Its design is still to be worked out.
 
 ## 4. The ten priorities of the Presidency
 
@@ -124,14 +136,14 @@ The letter lists several meetings before the summit where initiatives will be pr
 
 Based on the agenda and on what was left open in Belém, these are the areas where COP31 will most likely be judged:
 
-1. **The ambition gap.** How the summit responds to national plans that remain, together, too weak for the Paris goals.
-2. **Finance delivery.** Whether there is a credible path from the USD 300 billion goal towards USD 1.3 trillion, and whether the Climate Implementation Bridge attracts real money.
-3. **Adaptation finance and indicators.** Whether the tripling goal gets a clear baseline and timeline.
-4. **Fossil fuel transition.** Whether the topic enters the formal outcome or stays in voluntary side processes.
-5. **Electrification.** The 35% target is the headline number of the Action Agenda. The test is which countries and companies sign up and how progress will be tracked.
-6. **Waste and methane.** A less common COP topic, with potential for quick gains because methane has a strong short-term warming effect.
-7. **Pacific priorities.** Loss and damage, the 1.5°C limit and ocean protection, carried by Australia and the Pacific envoys.
-8. **Trade.** "Finance and Trade" shares a thematic day. Carbon border measures such as the EU CBAM remain a point of tension between countries.
+> 1. **The ambition gap.** How the summit responds to national plans that remain, together, too weak for the Paris goals.
+> 2. **Finance delivery.** Whether there is a credible path from the USD 300 billion goal towards USD 1.3 trillion, and whether the Climate Implementation Bridge attracts real money.
+> 3. **Adaptation finance and indicators.** Whether the tripling goal gets a clear baseline and timeline.
+> 4. **Fossil fuel transition.** Whether the topic enters the formal outcome or stays in voluntary side processes.
+> 5. **Electrification.** The 35% target is the headline number of the Action Agenda. The test is which countries and companies sign up and how progress will be tracked.
+> 6. **Waste and methane.** A less common COP topic, with potential for quick gains because methane has a strong short-term warming effect.
+> 7. **Pacific priorities.** Loss and damage, the 1.5°C limit and ocean protection, carried by Australia and the Pacific envoys.
+> 8. **Trade.** "Finance and Trade" shares a thematic day. Carbon border measures such as the EU CBAM remain a point of tension between countries.
 
 ## 9. Credibility and limitations
 

@@ -1,8 +1,17 @@
 ---
 title: "COP17 Biodiversity (Yerevan, 2026): the first progress check on the global nature targets"
 category: legislation-policy
-tags: ["#biodiversity", "#cop30", "#eu-policy", "#nature", "#finance"]
-sources: ["raw/articles/cop17-biodiversity-yerevan-2026.md", "Écologie 360 n°17 (Christophe Doré)", "Convention on Biological Diversity — cbd.int", "IPBES Nexus Assessment (2024)"]
+tags:
+  - "#biodiversity"
+  - "#eu-policy"
+  - "#nature"
+  - "#finance"
+  - COP17
+sources:
+  - raw/articles/cop17-biodiversity-yerevan-2026.md
+  - Écologie 360 n°17 (Christophe Doré)
+  - Convention on Biological Diversity — cbd.int
+  - IPBES Nexus Assessment (2024)
 created: 2026-09-18
 updated: 2026-10-26
 summary: COP17 Biodiversity Yerevan Armenia 19-30 October 2026 Taking Action for Nature, Kunming-Montreal Global Biodiversity Framework 23 targets, 30x30 protect 30 percent land sea Target 3, restore 30 percent Target 2, pesticides fertilisers Target 7, harmful subsidies $500 billion Target 18, nature finance $200 billion Target 19, Cali Fund digital genetic data, COP16 Cali 2024 Rome 2025, NBSAPs national plans Seventh National Reports 125 of 196, IPBES Nexus Assessment 71 response options, Rio Conventions climate desertification COP31, EU Nature Restoration Law 2026, Ireland 4th National Biodiversity Action Plan, Aichi targets failure, halfway point 2022-2030

@@ -28,13 +28,13 @@ If the climate finance system is systematically mis-allocating money toward fore
 
 ## The Cerrado as a specific case
 
-- Covers much of central Brazil; the **most biodiverse savanna in the world**
-- Home to **>4,000 native plant species, >1,000 animal species** (pumas, tapirs, maned wolves, giant anteaters)
-- **Soils store up to 1,200 tonnes of carbon per hectare — six times the above-ground carbon of Amazon rainforest vegetation**
-- Some of this soil carbon is **~20,000 years old**. If released, it does not come back
-- Feeds the **headwaters of two-thirds of Brazil's major waterways**, including the Amazon River
-- **>46% of the Cerrado has been cleared** for crops and pasture (per 2022 study), mostly for soybean cultivation to feed livestock
-- Agribusiness logic: "sacrifice the Cerrado to protect the Amazon". **The water hydrology makes that logic wrong** — clearing Cerrado dries out the Amazon
+> - Covers much of central Brazil; the **most biodiverse savanna in the world**
+> - Home to **>4,000 native plant species, >1,000 animal species** (pumas, tapirs, maned wolves, giant anteaters)
+> - **Soils store up to 1,200 tonnes of carbon per hectare — six times the above-ground carbon of Amazon rainforest vegetation**
+> - Some of this soil carbon is **~20,000 years old**. If released, it does not come back
+> - Feeds the **headwaters of two-thirds of Brazil's major waterways**, including the Amazon River
+> - **>46% of the Cerrado has been cleared** for crops and pasture (per 2022 study), mostly for soybean cultivation to feed livestock
+> - Agribusiness logic: "sacrifice the Cerrado to protect the Amazon". **The water hydrology makes that logic wrong** — clearing Cerrado dries out the Amazon
 
 ## Why open ecosystems don't fit current carbon finance
 

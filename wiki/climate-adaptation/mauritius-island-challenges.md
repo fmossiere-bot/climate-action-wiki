@@ -12,21 +12,23 @@ related:
   - Ocean Based Climate Solutions
 ---
 
-> **Editorial summary:** This page is Fabien's translation of Françoise Blind-Kempinski's feature in *Écologie 360* n°17 (September-October 2026) on Mauritius as a case study of small-island-state climate challenges. Preserved verbatim per the own-research rule, including the translator's gap-check notes and the author's byline. **The piece shows the compounding pressures on a small island state: overtourism (sperm-whale harassment at Flic en Flac is the vivid lead), climate adaptation (80% of coral already dead, €9.8bn of infrastructure needed over 25 years), the water-and-waste gap (95% of waste to one landfill at capacity), and the macroeconomic puzzle of a government aiming for 3.2 million tourists on an island of 1.2 million people.** Mauritian conservation voices (Murali Krishna Appandi / #Savetheblu) and former minister Sydney Pierre are the counterpoints.
-
+> Mauritius is a case study of small-island-state climate challenges. It shows the compounding pressures on a small island state: overtourism (sperm-whale harassment at Flic en Flac is the vivid lead), climate adaptation (80% of coral already dead, €9.8bn of infrastructure needed over 25 years), the water-and-waste gap (95% of waste to one landfill at capacity), and the macroeconomic puzzle of a government aiming for 3.2 million tourists on an island of 1.2 million people.** 
+> 
 # Mauritius: an island facing its challenges
 
 **This small paradise in the Indian Ocean shows the challenges that island states face. It is looking for solutions to cope with climate disruption and overtourism.**
 
-Since she landed in Mauritius, this young Chinese tourist from Hong Kong cannot wait. Only a few hours left before she takes the boat on the beach at Flic en Flac. It is still dark when she gets on board with about ten friends. The skipper races at full speed towards the lagoon of Tamarin. The goal: sperm whales. Mauritius is very lucky to have these cetaceans along its coasts all year round. They find plenty of squid there, between 500 and 1,500 metres deep.
+## What is happening with the sperm whales
 
-Day breaks and a few boats set off to look for the marine mammals. With the camera rolling, the tourist puts on a mermaid tail. Then she shouts at the crew to get closer to the animals, before dozens of boats packed with tourists in flippers come and spoil the video she will later share on social media. The competition is fierce between the divers who, ignoring all the rules, jump in the middle of the sperm whales, almost close enough to touch them. An unbelievable sight, which on its own shows the lure of profit and the failure of a development model.
+Sperm whales live off the coast of Mauritius all year round, because they find plenty of squid there, between 500 and 1,500 metres deep. They are listed as vulnerable on the Red List of the International Union for Conservation of Nature (IUCN).
 
-Sperm whales are listed as vulnerable on the Red List of the International Union for Conservation of Nature (IUCN). "In Mauritius, they are seen as a resource, not as living beings to be respected," says the oceanographer François Sarano, a specialist of the species (1). The scientist, head of the Longitude 181 association, has identified several clans, counted about forty individuals and learnt their language... With the cameraman René Heuzey, they have seen what is happening and raised the alarm. "In each of the groups, sperm whales have died, mostly young ones. There are the fishermen's long lines, but also overtourism, which breaks up the clans, disturbs the way the mother and the nanny protect the young, stops the calves feeding and resting, and causes injuries from boat propellers," the scientist lists. According to the local daily Lexpress.mu, only 25 of these animals are left...
+Watching them has become a big tourist business, especially since the end of Covid. Boats leave every morning from the west coast, around Flic en Flac and Tamarin, and dozens of them can surround the same group of whales. Many tourists jump into the water among the animals to swim with them and film videos for social media. These "sperm whale trips" are very popular with Chinese and Russian visitors.
 
-Yet in Mauritius, since 2012, the rules forbid diving with sperm whales and forbid boats from coming closer than 100 metres. Fines to match are even planned. But nobody cares. Since the end of Covid, "sperm whale trips", very popular with Chinese and Russian tourists, have been doing real damage.
+> The oceanographer François Sarano, who has studied these whales for years (1) with the Longitude 181 association, has identified several family groups (clans) and counted about forty whales. He says young whales have died in every group. The causes are fishing lines, but also the tourist boats and swimmers: they break up the groups, stop the mothers from protecting and feeding their calves, stop the whales from resting, and injure them with boat propellers. "In Mauritius, they are seen as a resource, not as living beings to be respected," he says. According to the local newspaper Lexpress.mu, only 25 sperm whales are left.
 
-The subject embarrasses the Mauritian government, because it gives a bad image of the country. Many local associations have got involved. One of them is the #Savetheblu community, founded by Murali Krishna Appandi, which is very active with the authorities and with foreign embassies, and which brings together local players whose interests are sometimes opposed... a real achievement! Last March, the founder of the NGO gave a white paper to the President of the Republic. In this document, called "Taking our future back into our own hands as a maritime state", he sets out a list of recommendations, in particular on protecting marine mammals. "We were listened to, and a first big step was taken when the Minister of Education announced marine education programmes in primary school," says a happy Appandi. He is also campaigning for scientific training for skippers, and for permits to be strictly limited to forty people.
+The law is already there. Since 2012, it has been forbidden in Mauritius to swim with sperm whales, and boats must stay at least 100 metres away. Fines are planned too. But in practice, the rules are not respected.
+
+The problem gives the country a bad image, and local groups are pushing for change. The #Savetheblu community, founded by Murali Krishna Appandi, works with the authorities and foreign embassies. In March, it gave the President of Mauritius a list of recommendations to protect marine mammals. One result so far: the Minister of Education has announced marine education lessons in primary schools. Appandi also wants proper training for boat skippers and permits strictly limited to forty people.
 
 ## 3.2 million tourists in 2033?
 
@@ -65,25 +67,8 @@ The AFD is also involved in waste management. Today, more than 95%...
 
 Sorting waste at source becomes compulsory in 2027. But until then, and with no proper recycling channels in place, the goal is to produce as little waste as possible, whatever its type. "The Oberoi Beach Resort has brought in a zero-plastic policy," explains Natacha Tunda, deputy director of the hotel, which sits by the protected marine park of Turtle Bay. The hotel gives guests bottles of drinking water from Be.eau, a Mauritian eco-company. Made from sugar cane bagasse (the fibre left after the juice is pressed out), these 100% plant-based bottles break down naturally and can be personalised for each guest. But the hotel mainly uses glass bottles, which it washes and refills itself with properly filtered water. The small shower gel bottles and other products are made of recycled aluminium.
 
-> **Box: Glass deposit and recycling**
+> **Glass deposit and recycling**
 >
 > On the island, recycling is still in its early days. Phoenix Beverages Group (PBG), which brews the most popular beer in Mauritius and sells big brands, has run a deposit return scheme for its glass bottles since 2022. The bottles that cannot be reused are recycled by Mauritius Glass Gallery, a PBG company that makes craft products from them. A good example of a circular economy, which makes PBG the leader in glass recycling. On the plastic side, Polypet Recyclers Ltd, part of a South African group, turns PET bottles and containers into pellets, but exports them for the final processing, because there is no complete recycling chain on the island.
 
 Hotels, at the centre of many tensions linked to overtourism, are mostly owned by a few Mauritian-Indian conglomerates, which also share the island's other economic assets between them. This concentration could help solutions emerge at a large scale, even if Mauritius's future suffers from a lack of dialogue and coordination between private companies, public institutions, NGOs and civil society.
-
-*Françoise Blind-Kempinski*
-
----
-
-**Notes from the article**
-
-(1) *"S'il te plaît, dessine-moi un cachalot"* ("Please, draw me a sperm whale"), by Pome Bernos and François Sarano, Actes Sud, 2024.
-
-(2) According to the Mauritius Meteorological Services, the sea level is rising faster in Mauritius than in the rest of the world: 4.5 millimetres a year (compared with 3.3 millimetres a year elsewhere).
-
-**Translator's notes**
-
-- "Ministre délégué" is translated as "junior minister" (in Ireland, the closest is a Minister of State). The big quote on the page calls him simply "former minister for Tourism".
-- The heading says "3.2 million tourists in 2033?", but the text says the World Bank sees 3.2 million arrivals "within four years". That is how the French reads, so it is worth checking against the World Bank source before using the figure.
-- Money is kept as the article gives it: 11.3 billion dollars (9.8 billion euros), and 200 million euros for the AFD loan.
-- The photo caption reads: "Wind farm in the tropical forest of Bras d'Eau National Park, on the island in the Indian Ocean."

@@ -73,16 +73,16 @@ Behind the scenes, petrochemical firms have intensified lobbying of EU instituti
 
 ## October 2026 update: Coca-Cola, Nestlé and Danone agree to change the labels
 
-Following the January 2026 Guardian/IJ4EU investigation and a November 2023 BEUC complaint, the **European Commission announced on 25 October 2026 (press release IP/26/2238)** that **Coca-Cola, Nestlé Waters and Danone** have committed to change the recycling claims on their plastic bottle labels:
+> Following the January 2026 Guardian/IJ4EU investigation and a November 2023 BEUC complaint, the **European Commission announced on 25 October 2026 (press release IP/26/2238)** that **Coca-Cola, Nestlé Waters and Danone** have committed to change the recycling claims on their plastic bottle labels:
 
-- Claims like *"I am a bottle made from 100% recycled plastic"* will be replaced with *"This bottle is 100% recycled. Excluding cap and label"*
-- Claims like *"Recycle me again"* become *"Recycle me"* — removing the false impression that the bottle was previously recycled and will become another bottle
-- Overall label and marketing impression must not be misleading on environmental benefits
-- Digital marketing campaigns on websites and social media must reflect the same commitments
+> - Claims like *"I am a bottle made from 100% recycled plastic"* will be replaced with *"This bottle is 100% recycled. Excluding cap and label"*
+> - Claims like *"Recycle me again"* become *"Recycle me"* — removing the false impression that the bottle was previously recycled and will become another bottle
+> - Overall label and marketing impression must not be misleading on environmental benefits
+> - Digital marketing campaigns on websites and social media must reflect the same commitments
 
 The dialogue was led by the **Swedish Consumer Agency** and the **Hungarian Competition Authority** under the Consumer Protection Cooperation (CPC) network. **Coca-Cola and Nestlé have already implemented some of the commitments**, particularly on digital campaigns.
 
-**What this changes.** The new "excluding cap and label" wording makes clear what the "100%" claim actually covers (the cap and label are usually not recycled). "Recycle me" instead of "Recycle me again" is more honest about the one-way nature of most plastic bottle recycling. But these are labelling fixes — the underlying mass-balance accounting that lets 95%-virgin-naphtha pyrolysis plastic count as "recycled" is untouched. The problem flagged by the Guardian/IJ4EU investigation and by Helmut Maurer, Lauriane Veillard and Peter Quicker remains. See [EU recycling claims commitments (source)](../sources/eu-recycling-claims-commitments-ec-2026.md).
+> **What this changes.** The new "excluding cap and label" wording makes clear what the "100%" claim actually covers (the cap and label are usually not recycled). "Recycle me" instead of "Recycle me again" is more honest about the one-way nature of most plastic bottle recycling. But these are labelling fixes — the underlying mass-balance accounting that lets 95%-virgin-naphtha pyrolysis plastic count as "recycled" is untouched. The problem flagged by the Guardian/IJ4EU investigation and by Helmut Maurer, Lauriane Veillard and Peter Quicker remains. See [EU recycling claims commitments (source)](../sources/eu-recycling-claims-commitments-ec-2026.md).
 
 ## What good looks like
 
