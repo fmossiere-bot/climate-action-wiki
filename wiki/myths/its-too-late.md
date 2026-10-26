@@ -8,7 +8,7 @@ sources:
   - UNEP Emissions Gap Report 2024
   - IEA World Energy Outlook 2024
 created: 2026-07-27
-updated: 2026-09-17
+updated: 2026-10-26
 cover_image: ""
 summary: it's too late, doomism, RCP8.5, 5 degrees, 6 degrees, Mark Lynas Six Degrees, 1.5C dead, 2C unlikely, current policies 2.5 to 3C, net zero pledges 1.8C, every fraction of a degree matters, tipping points not one global switch, Hannah Ritchie, Emissions Gap Report, catastrophism, defeatism, we're doomed, nothing matters, why bother, moral licensing, coral reefs, food security, heatwaves
 claim_id: its-too-late
@@ -30,13 +30,13 @@ Because part of it is true. The **1.5°C target is now out of reach**. Even 2°C
 
 ## What is actually true
 
-Recent projections narrow the realistic range considerably:
+Recent projections narrow the realistic range. The **UNEP Emissions Gap Report 2026** (October 2026) is the latest:
 
-- **Current policies (nothing new, nothing better)**: about **2.5 to 3°C** by 2100 (UNEP Emissions Gap Report 2024).
-- **Countries hit their 2030 targets but do nothing more**: about **2.4°C**.
-- **Every mid-century net zero pledge is actually delivered**: about **1.8°C**.
+- **Current policies (nothing new, nothing better)**: about **2.8°C** by 2100.
+- **Every current national pledge delivered**: about **2.1°C** — worse than 2024's projection of 1.9°C, "driven mainly by the US's exit from the UN climate process".
+- **"Lowest possible overshoot" path**: peak warming at **1.7-1.8°C**, with a 50% chance of falling back to 1.5°C by 2100, but only if emissions fall **18% by 2030, 45% by 2035, and 69% by 2040** — vs current pledges that deliver only 5-8% by 2030.
 
-So the realistic range is roughly **1.8 to 3°C**, not 5 or 6. The extreme scenario often cited in older modelling, labelled **RCP8.5**, is now considered implausible. That does not make 2.5°C safe. It still means most coral reefs lost, worse heatwaves, and serious pressure on food systems, especially in poorer countries. But it is a very different world from the "civilisation collapse" framing, and every fraction of a degree we prevent is a measurable win. There is no single global switch that flips at 1.5 or 2°C.
+So the realistic range is roughly **1.8 to 2.8°C**, not 5 or 6. The extreme scenario often cited in older modelling, labelled **RCP8.5**, is now considered implausible. That does not make 2.1 or 2.8°C safe. It still means most coral reefs lost, worse heatwaves, and serious pressure on food systems, especially in poorer countries. But it is a very different world from the "civilisation collapse" framing, and every fraction of a degree we prevent is a measurable win. There is no single global switch that flips at 1.5 or 2°C.
 
 ## If they push back
 
@@ -51,6 +51,10 @@ Tipping points are real, and they matter for specific systems like the Amazon, t
 **"So why bother, if we're still heading for 2.5°C?"**
 
 Because 2.5°C is what happens if we drift. 1.8°C is what happens if we actually push. The gap between those two worlds is the difference between coral reefs surviving, food systems coping, and hundreds of millions of people staying in their homes.
+
+**"1.5°C is officially over now — doesn't that prove it's too late?"**
+
+The UN Emissions Gap Report 2026 does say 1.5°C can only now be reached via "overshoot" — temporarily breaching 1.5°C and then using massive mechanical and natural cooling (direct air capture, afforestation, etc.) to bring temperatures back down later. **Bob Watson, former IPCC chair, calls that scenario "cuckoo land"** because the required cooling technologies don't yet exist at scale. But the UN Secretary-General's framing still applies: "Overshoot is not surrender. We can still keep it as small and as short as possible." The question has moved from "can we hit 1.5°C" to "how small and short can we keep the overshoot" — but that is still a debate about how much damage to avoid, not whether to try. See [UN overshoot 2.8°C source](../sources/un-overshoot-2.8c-newscientist-2026.md).
 
 ## Also heard as
 

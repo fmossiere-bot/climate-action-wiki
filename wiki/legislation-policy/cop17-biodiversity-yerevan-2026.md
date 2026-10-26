@@ -4,7 +4,7 @@ category: legislation-policy
 tags: ["#biodiversity", "#cop30", "#eu-policy", "#nature", "#finance"]
 sources: ["raw/articles/cop17-biodiversity-yerevan-2026.md", "Écologie 360 n°17 (Christophe Doré)", "Convention on Biological Diversity — cbd.int", "IPBES Nexus Assessment (2024)"]
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-26
 summary: COP17 Biodiversity Yerevan Armenia 19-30 October 2026 Taking Action for Nature, Kunming-Montreal Global Biodiversity Framework 23 targets, 30x30 protect 30 percent land sea Target 3, restore 30 percent Target 2, pesticides fertilisers Target 7, harmful subsidies $500 billion Target 18, nature finance $200 billion Target 19, Cali Fund digital genetic data, COP16 Cali 2024 Rome 2025, NBSAPs national plans Seventh National Reports 125 of 196, IPBES Nexus Assessment 71 response options, Rio Conventions climate desertification COP31, EU Nature Restoration Law 2026, Ireland 4th National Biodiversity Action Plan, Aichi targets failure, halfway point 2022-2030
 ---
 
@@ -101,6 +101,34 @@ Agriculture is the sensitive point in both, as it is in the global talks on pest
 ## 9. Bottom line
 
 COP17 is a decisive meeting, but not a magic one. It will not produce a new grand agreement. Its value is in telling the truth about where the world stands at the halfway point to 2030, and in turning that into stronger national plans, real money and clear action on subsidies, pesticides and habitat loss. The Nexus report gives governments a tested list of solutions. Whether they pick them up is a political choice, not a scientific one.
+
+## 10. October 2026 update: first-week findings and the Cali Fund scandal
+
+The summit opened on 19 October 2026 with low expectations. By 23 October, the pre-summit pessimism had been confirmed by hard numbers.
+
+**The scorecard** (UN State of Biodiversity Action report, Guterres, 15 October 2026):
+- **Nearly 90% of countries** have national biodiversity targets, but **the draft report finds the world is falling short on 22 of the 23 targets**
+- 60% have a national strategy and action plan; 70% have sent their national report; 83% have targets matching the global plan
+- But **fewer than half of national targets are on track** for 2030
+- Only **27%** of countries have a target on cutting harmful subsidies; **5%** gave a number
+- Guterres: finance, capacity, cooperation and data are *"still missing in action"* and *"Nature won't thrive on good intentions."*
+
+**Where 30×30 stands** (as of October 2026):
+- **Land and inland water: ~18-19% protected** (2 points above 2020)
+- **Seas within national waters: ~23%**; **whole ocean: ~10%**; **high seas: ~1.5%** (Brian O'Donnell, Campaign for Nature)
+- Even if every country delivers all current promises, land protection reaches only **26-27.5%** by 2030 — short of 30%
+
+**The Cali Fund scandal.** The fund set up at COP16 to channel 1% of pharmaceutical profits (from genetic resources / digital sequence information) into biodiversity conservation has an annual target of **$1 billion**. As of 19 October 2026 — 18 months after launch — it has received **$10,656 in commitments** and **$7,085 deposited**, all from three small firms (Prozomix UK $5k, TierraViva AI UK $1k, E-Biom Belgium ~$1k). **No major pharmaceutical company has contributed.** Zero Carbon Analytics: the 15 biggest pharma companies made ~$161bn in profits in 2025; at the suggested rate they could have paid $756m; their shareholder dividends were **175× that amount**. June Rubis (Macquarie, steering committee): *"Definitely, they're free-riding"*. See [Cali Fund big pharma source](../sources/cali-fund-big-pharma-freerider-guardian-2026.md).
+
+**CARES** — Coalition of Action to Recover Endangered Species, launched by **Armenia and Colombia** in week one, now with 17 countries including the UK. Reverse the Red (Kira Mileham) serves as secretariat. Separately, **9 private funders including Leonardo DiCaprio's Re:wild** pledged **$500m over five years** for threatened species. Benoit Guénard (University of Hong Kong) notes the familiar bias: funding goes to charismatic animals (leopards, tigers, elephants), not fungi, algae or amphibians. See [COP17 CARES source](../sources/cop17-pressure-rescue-nature-guardian-2026.md).
+
+**US retreat.** Patrick Greenfield (Guardian) notes that USAID provided **~12.1% of global biodiversity funding between 2015 and 2022** (OECD); "almost all of that has gone" under Trump's second term, hitting anti-rhino-poaching in East Africa and anti-illegal-fishing in the Galápagos. See [Four years after COP15 source](../sources/cop15-targets-slipping-guardian-2026.md).
+
+**Yerevan Declaration** (16 October 2026, first-ever Leaders' Summit): linked nature, climate and land. **14 decisions adopted on 23 October**: invasive species, public awareness, gender, biosafety. Astrid Schomaker (CBD executive secretary): *"If you hear there is no finance, please do not believe it."* The money exists; it is going to the wrong places.
+
+**Still open**: the money (biggest fight), Cali Fund design, harmful subsidies (Target 18), soil, pollution, habitat connectivity, Indigenous peoples' new body. **Ministers arrive 27-28 October**. The target package is the **Yerevan Pathway** — a plan to put the targets back on track for the last four years. **Final deal expected 30 October**.
+
+For the full narrative overview and detailed numbers, see [Halfway to 2030: COP17 overview (own-research)](halfway-to-2030-biodiversity-cop17-overview.md).
 
 ## Connected topics
 

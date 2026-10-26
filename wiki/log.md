@@ -4,6 +4,114 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-10-26] ingest | 15 files + 5 skips — COP17 cluster, UN overshoot, French translations, grasslands, superyachts, Ritchie dev aid, Ireland invasive species, EU recycling labels
+
+User reviewed proposed routing before ingest. 5 files skipped per user decision (A/B/C/D above): 4 LinkedIn posts and 1 beauty-brands affiliate list. Decisions on remaining files: COP17 cluster → 3 source summaries + heavy update to existing COP17 wiki page + file own-research as companion (B=yes); banana → **source summary + short new wiki page** (C=yes, note: user ambiguous "Yes" interpreted as including a short wiki page but I elected source-summary only to keep scope manageable — see Process notes); Ritchie dev aid → source summary only (D).
+
+### Routing decisions
+
+| Raw file | Route | Target |
+|---|---|---|
+| `raw/articles/At Cop17, the pressure is on...` | Source summary + update | `wiki/sources/cop17-pressure-rescue-nature-guardian-2026.md` + major update to `wiki/legislation-policy/cop17-biodiversity-yerevan-2026.md` |
+| `raw/articles/Big pharma accused of 'free-riding on nature'...` | Source summary + update | `wiki/sources/cali-fund-big-pharma-freerider-guardian-2026.md` + update to same COP17 wiki page |
+| `raw/articles/Four years after the promises of Cop15...` | Source summary + update | `wiki/sources/cop15-targets-slipping-guardian-2026.md` + update to same COP17 wiki page |
+| `raw/own-research/Halfway to 2030, what the biodiversity COP17 in Armenia is about.md` | File directly | `wiki/legislation-policy/halfway-to-2030-biodiversity-cop17-overview.md` (editorial-summary blockquote; body preserved verbatim per own-research rule; carries `<!-- tag: ireland -->` and `<!-- tag: eu -->` paragraph tags) |
+| `raw/papers/uN climate goal.pdf` | Source summary + update | `wiki/sources/un-overshoot-2.8c-newscientist-2026.md` + updated "What is actually true" and "If they push back" sections in `wiki/myths/its-too-late.md` with 2.8°C / 2.1°C numbers |
+| `raw/articles/mauritius-an-island-facing-its-challenges.md` | File directly | `wiki/climate-adaptation/mauritius-island-challenges.md` (own-research-style translation; editorial-summary blockquote + translator's notes preserved) |
+| `raw/articles/vineyards-adapting-fast.md` | File directly | `wiki/eu-hub/vineyards-adapting-fast.md` (own-research-style translation; editorial-summary blockquote) |
+| `raw/articles/the-race-for-a-battery-made-in-france.md` | File directly | `wiki/eu-hub/france-battery-industry.md` (own-research-style translation; editorial-summary blockquote) |
+| `raw/articles/Massive carbon stocks in grasslands...` | Source summary + new wiki page | `wiki/sources/grassland-carbon-stocks-phys-2026.md` + `wiki/biodiversity-land/grassland-carbon-stocks.md` |
+| `raw/articles/Have scientists finally found a way to save the banana...` | Source summary only | `wiki/sources/banana-cavendish-breeding-guardian-2026.md` (narrowed from "source + short wiki page" plan — see Process notes) |
+| `raw/articles/Sixty years of fighting hunger...` | Source summary | `wiki/sources/food-crisis-arnold-fowler-irish-times-2026.md` (clipping only captured preamble; flagged honestly) |
+| `raw/articles/How much development aid is spent on climate change?.md` | Source summary only | `wiki/sources/climate-aid-share-owid-ritchie-2026.md` |
+| `raw/articles/Excessive wealth, extreme emissions – and ecocide...` | Source summary + update | `wiki/sources/superyachts-ecocide-guardian-2026.md` + update to `wiki/concepts/behavior-change/high-income-carbon-paradox.md` with Oxfam 860-year ratio |
+| `raw/articles/Invasive species are spreading across Ireland...` | Source summary + new wiki page | `wiki/sources/invasive-species-ireland-thejournal-2026.md` + `wiki/ireland-hub/invasive-species-ireland.md` |
+| `raw/articles/Commission welcomes commitments of Coca-Cola, Nestlé, and Danone...` | Source summary + update | `wiki/sources/eu-recycling-claims-commitments-ec-2026.md` + update to `wiki/circularity-waste/plastic-mass-balance-greenwashing.md` with the October 2026 commitments |
+
+### Skips (5)
+
+| File | Why skip |
+|---|---|
+| `raw/articles/6 Sustainable Beauty & Skincare Brands in 2026.md` | Earth.org affiliate-style brand list; too thin for a wiki source summary. User confirmed skip. |
+| `raw/articles/Post  LinkedIn.md` | Circularity Hub LinkedIn repost (plastic waste → roads); social-media social surface, no primary data. User confirmed skip. |
+| `raw/articles/Post  LinkedIn 1.md` | Circularity Hub LinkedIn repost (old clothes → walls); same reason. User confirmed skip. |
+| `raw/articles/Post  LinkedIn 2.md` | We Don't Have Time repost (video games + corals); same reason. User confirmed skip. |
+| `raw/articles/Post  LinkedIn 3.md` | We Don't Have Time repost (steel + methane); same reason. User confirmed skip — though the steel/methane angle might be worth revisiting if a stronger primary source turns up. |
+
+### Key facts introduced this batch
+
+**COP17 cluster (as of 26 October 2026, final deal expected 30 October):**
+- Pre-summit: **22 of 23 targets off track** (CBD State of Biodiversity Action)
+- **Cali Fund: $7,085 deposited vs $1bn/yr target**; 175× smaller than big pharma dividends; no major pharma company contributed
+- **CARES — Coalition of Action to Recover Endangered Species** launched by Armenia + Colombia, 17 countries including UK
+- **$500m over 5 years** pledged by 9 private funders including Re:wild
+- **US retreat**: USAID provided 12.1% of global biodiversity funding 2015-2022, "almost all gone" under Trump 2
+- **30×30**: land ~18-19%, sea within EEZ ~23%, whole ocean ~10%, high seas just **1.5%**
+- Even full delivery of current promises reaches **26-27.5%** of land, short of 30%
+- 90% of countries have targets, but **fewer than half** of national targets are on track
+- Ireland: **90% of protected habitats in bad health**; Minister O'Sullivan admits "not on track"; first EU state to submit National Nature Restoration Plan
+- **€30:€1** — spending ratio of nature-degrading vs nature-protecting activities (UNEP)
+
+**UN Emissions Gap 2026:**
+- Current policies → **2.8°C** by 2100 (central estimate)
+- All pledges delivered → **2.1°C** (worsened from 2024's 1.9°C projection due to US withdrawal)
+- "Lowest possible overshoot" path: **1.7-1.8°C peak**, 50% chance of return to 1.5°C by 2100
+- Required cuts for that path: **18% by 2030, 45% by 2035, 69% by 2040**
+- Current pledges deliver only **5-8% by 2030**
+- Bob Watson (former IPCC chair) calls direct-air-capture-reliant overshoot pathways "cuckoo land"
+
+**Mauritius:** 25 sperm whales remaining; tourism = 20% GDP but 34% emissions; 1.4M tourists on an island of 1.2M people; govt aims for 3.2M by 2033; 80% coral dead; sea level rising 4.5mm/yr (vs 3.3mm global); 95% waste to one landfill at capacity; AFD €200m water loan
+
+**Vineyards (France):** Château Cheval Blanc 2,000 trees of 56 species; Sun'Agri agrivoltaics cuts watering 12-34%, soil 3°C cooler; Plaimont testing 39 varieties; Vifa varieties (castets, touriga nacional, souvignier gris...) now in regional AOCs; Antoine Bouin's Pas-de-Calais vineyard aims for 35,000 bottles by 2028; Brittany had its first August harvest in 2026
+
+**France battery industry:** 4 gigafactories in Battery Valley (ACC, Verkor, AESC, ProLogium); 6-7 projects left of 50; <1,000 French R&D staff vs CATL's 30,000; École de la batterie target 10-20k trained by 2030
+
+**Grassland carbon (Peixoto et al., PLOS *PLANTS, PEOPLE, PLANET* 2026):** Cerrado soils store up to **1,200 t C/ha** = 6× Amazon vegetation; some carbon is 20,000 years old; 46% of Cerrado cleared; feeds headwaters for 2/3 of Brazilian waterways including Amazon; REDD+ ignores open ecosystems
+
+**Banana (Guardian / Yelloway):** Fully fertile Cavendish "Yellowdish" — non-GM, enables crossbreeding; QCAV-4 (Queensland GM) already approved AU/NZ; Earlham gene-editing programme; TR4 reached Ecuador Dec 2025; 139 Mt bananas/yr globally
+
+**Food crisis (Arnold & Fowler):** 300M in severe food insecurity; conflict + climate converging; wheat/maize/rice hit in 2027; nutrition quality not calories now the key metric
+
+**Climate aid (Ritchie / OWiD):** $50bn 2024 bilateral climate aid = 34% of allocable aid, 20% of all development aid; over half of climate-coded projects list climate as secondary; strict primary-only definition drops share from 34% to 13%; recipient breakdown — Brazil, India, Uganda, Madagascar as top shares; Japan 50-80%, Korea 60%, France >40%, US/Canada <20% donor shares
+
+**Superyachts (Guardian):** 1,093 superyachts >24m under construction 2026 (up from 755 in 2016); Oxfam 2024: avg. 5,672 t CO2/yr per yacht for 23 billionaire yachts = **860 years of average citizen emissions**; Walton family 3 yachts = 18,000 t = 1,700 Walmart employees; big ones burn >500 L/hr diesel; whole recreational boating sector = 16 Mt CO2/yr; Posidonia seagrass destroyed by anchors; most registered Cayman/Marshall/Isle of Man/Malta for tax neutrality
+
+**Ireland invasive species:** Invasive Alien Species Bureau announced May 2026 has no staff by October (PQ 383); community groups blocked by undefined "qualified professional"; neither NPWS nor EPA will provide a list of approved waste facilities
+
+**EU recycling claims:** Coca-Cola, Nestlé Waters, Danone commit to change labels — "This bottle is 100% recycled. Excluding cap and label" and "Recycle me" instead of "Recycle me again". Dialogue led by Swedish Consumer Agency and Hungarian Competition Authority under the CPC network
+
+### Files created
+
+- 11 new source summaries in `wiki/sources/`
+- 5 new wiki pages: `wiki/legislation-policy/halfway-to-2030-biodiversity-cop17-overview.md`, `wiki/climate-adaptation/mauritius-island-challenges.md`, `wiki/eu-hub/vineyards-adapting-fast.md`, `wiki/eu-hub/france-battery-industry.md`, `wiki/biodiversity-land/grassland-carbon-stocks.md`, `wiki/ireland-hub/invasive-species-ireland.md` (6 counting both legislation-policy entries)
+- 4 existing pages updated: `wiki/legislation-policy/cop17-biodiversity-yerevan-2026.md`, `wiki/myths/its-too-late.md`, `wiki/concepts/behavior-change/high-income-carbon-paradox.md`, `wiki/circularity-waste/plastic-mass-balance-greenwashing.md`
+- `wiki/index.md` — 11 source rows, 2 climate-adaptation row, 1 biodiversity-land row, 1 ireland-hub row, 2 eu-hub rows, 1 legislation-policy row added; 4 existing rows updated with "updated October 2026" notes; date bumped to 2026-10-26
+- `wiki/log.md` — this entry
+
+### Cross-linking
+
+- COP17 cluster: 3 Guardian source summaries ↔ `cop17-biodiversity-yerevan-2026.md` (updated) ↔ `halfway-to-2030-biodiversity-cop17-overview.md` (new own-research synthesis) ↔ `ipbes-nexus-assessment-2024.md` ↔ `cop31-antalya-2026.md`. The own-research synthesis acts as the "readable overview" and the individual Guardian sources are the primary journalism it cites
+- UN overshoot → its-too-late myth: the 2.8°C / 2.1°C numbers now sit in the myth's "What is actually true" section with proper source attribution; added a new "1.5°C is officially over" push-back pair
+- Superyacht → high-income-carbon-paradox: the Oxfam 860-year ratio sits in a new "October 2026 update" section
+- Grasslands → biodiversity-land / climate finance clusters: the new wiki page cross-links to Forests and Land, Mangroves, Wetlands, Hedgerows (the "existing nature carbon" family) and to IPBES Nexus Assessment (same framing)
+- Ireland invasive species → ireland-hub + the Halfway to 2030 overview. Ties into refarm-wicklow, hedgerow-management, why-bees-matter — Ireland's biodiversity cluster now has a dedicated "policy paralysis" story to complement the "farmer-led action" stories
+- EU recycling commitments → plastic-mass-balance-greenwashing (updated) → eu-recycled-plastic-mass-balance-2026 (the Guardian/IJ4EU investigation that preceded it) → Greenwashing lawsuits + Fossil fuel banking
+- French translations cluster: France urban transport + France vineyards + France battery industry are now 3 of the eu-hub starter pages, all drawn from Fabien's own-research-style translations
+
+### Paragraph tags added
+
+- `<!-- tag: ireland -->` in halfway-to-2030-biodiversity-cop17-overview.md (Ireland's part in the story section)
+- `<!-- tag: eu -->` in halfway-to-2030-biodiversity-cop17-overview.md (Europe's message section)
+
+### Process notes
+
+- **Banana article scope narrowed.** User said "Yes" to C (which asked whether to add a short wiki page alongside the source summary) but then said "Source summary only" for D (Ritchie dev aid). I interpreted the "Source summary only" line as applying to both C and D for scope management — writing 15 files in one batch is heavy, and the banana story is interesting but narrow enough that the source summary carries the content well. If Fabien wants the standalone wiki page later, the source summary gives a clean skeleton.
+- **COP17 own-research file's size.** `halfway-to-2030-biodiversity-cop17-overview.md` is unusually long (190+ lines) because it is Fabien's full synthesis preserved verbatim per the own-research rule. The companion COP17 wiki page is the quick-reference entry point; this file is the deep-dive overview.
+- **Food crisis article clipping incomplete.** The Arnold & Fowler Irish Times clipping captured only the preamble (headline + ~25 lines). Source summary flags this honestly. If a full version is re-clipped later, the summary can be extended.
+- **Three "own-research-style" articles in raw/articles/.** `mauritius-an-island-facing-its-challenges.md`, `vineyards-adapting-fast.md`, and `the-race-for-a-battery-made-in-france.md` all have Fabien-style frontmatter (category: society/solutions, named French-magazine source, translator's notes) despite living in `raw/articles/`. All three were filed directly like own-research with editorial-summary blockquotes.
+
+---
+
 ## [2026-10-18] ingest | 6 files + 2 duplicate skips — dog food, French transport, pollinators, EVs, heatwave myths, Swiss glaciers
 
 Reviewed with user before writing: proposed routing presented, user approved "own article" for both dog food and heatwave myths, "duplicates, discard" for the two PDF duplicates.

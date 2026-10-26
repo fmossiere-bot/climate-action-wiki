@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-10-18
+Last updated: 2026-10-26
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -117,6 +117,17 @@ Summaries of every ingested source file.
 | [[philibert-ev-ifri-interview-2026]] | Cédric Philibert (IFRI, 2026): France EVs >30% of new sales, 80% in ten years; lithium-ion battery prices divided by 10 in a decade; plug-in hybrids are a fake solution; 9 of 10 best-selling French EVs are European; sub-€20,000 small EVs with grants |
 | [[honeybees-crowd-wild-pollinators-guardian-2026]] | Guardian (Oct 2026): Anglia Ruskin Cambridgeshire study — honeybees actively bump and chase wild pollinators off flowers (interference competition); UK registered beekeepers doubled 2010-2025 (19,000 to 47,000); hot summers make it worse |
 | [[heatwave-myths-hawkins-guardian-2026]] | Guardian (Jul 2026): Jonathan Watts with Prof Ed Hawkins (Reading) — 11-12 of 13 heatwave sceptic myths rebutted (1976 UK vs 2026, El Niño, orbital, 2003 heatwave 40-70k deaths, UK homes built for cooler past, CO2-as-plant-food) |
+| [[cop17-pressure-rescue-nature-guardian-2026]] | Guardian (Oct 2026): Ratcliffe from Yerevan — Persian leopard sighting + CARES coalition (Armenia/Colombia, 17 countries); $500m over 5 years pledged by 9 private funders (incl. DiCaprio's Re:wild); conservation funding still biased to charismatic species |
+| [[cali-fund-big-pharma-freerider-guardian-2026]] | Guardian (Oct 2026): Cali Fund target $1bn/yr, 18 months in: $7,085 deposited, all from small firms. No big pharma contribution. 15 biggest companies' shareholder dividends 175× what Cali asked. June Rubis: "free-riding" |
+| [[cop15-targets-slipping-guardian-2026]] | Guardian (Oct 2026): Greenfield four years after Montreal — world "lost its way on nature"; traffic-light scorecard awash with red; US retreat (12.1% of global biodiversity funding gone under Trump 2); Zac Goldsmith's "massive gap" quote |
+| [[un-overshoot-2.8c-newscientist-2026]] | NS (Oct 2026): UN Emissions Gap 2026 — 1.5°C now impossible without overshoot; 2.8°C under current policies; 2.1°C if pledges delivered (worse than 1.9°C last year, driven by US exit); Bob Watson calls DAC-reliant pathway "cuckoo land" |
+| [[grassland-carbon-stocks-phys-2026]] | Phys.org / PLANTS, PEOPLE, PLANET (Oct 2026): Peixoto, Zanne, Pilon — Brazil's Cerrado soils store 1,200 t C/ha, 6× Amazon vegetation, with 20,000-year-old carbon. REDD+ ignores open ecosystems; 46% of Cerrado already cleared for soy |
+| [[banana-cavendish-breeding-guardian-2026]] | Guardian (Oct 2026): Yelloway's "Yellowdish" — a fully fertile Cavendish, non-GM; also QCAV-4 (Queensland GM) and Earlham gene-editing; TR4 fungus spread to Ecuador Dec 2025. Stedman (Chiquita): "trying to replace Cavendish, not preserve it" |
+| [[food-crisis-arnold-fowler-irish-times-2026]] | Irish Times (Oct 2026): Tom Arnold & Cary Fowler — 300M in severe food insecurity; conflict + climate converging; wheat/maize/rice hit in 2027; nutrition quality not calories now the key metric |
+| [[climate-aid-share-owid-ritchie-2026]] | OWiD (Oct 2026): Hannah Ritchie — $50bn 2024 bilateral climate aid = 34% of allocable aid, 20% of total. But over half of climate-coded projects list climate as secondary; strict definition drops share from 34% to 13%. Displacement vs relabelling both happening |
+| [[superyachts-ecocide-guardian-2026]] | Guardian (Oct 2026): Wollaston at Monaco Yacht Show — Oxfam 2024 study: 23 superyachts owned by 18 billionaires average 5,672 t CO2/yr each; 860 years of average citizen emissions per yacht. Grégory Salle: "conspicuous seclusion", "super-bourgeoisie" |
+| [[invasive-species-ireland-thejournal-2026]] | The Journal / Orla ní Dhúill (Oct 2026): Ireland's Invasive Alien Species Bureau announced May 2026, still has no staff by October (PQ 383); community groups blocked by unclear "qualified" rules and no NPWS/EPA waste-facility list |
+| [[eu-recycling-claims-commitments-ec-2026]] | EU Commission IP/26/2238 (Oct 2026): Coca-Cola, Nestlé, Danone commit to change bottle labels — "100% recycled. Excluding cap and label"; "Recycle me" instead of "Recycle me again". CPC network led by Swedish & Hungarian authorities |
 | [[swiss-glaciers-19-percent-glamos-guardian-2026]] | Guardian (Oct 2026): GLAMOS annual report — Swiss glaciers lost 19.4% of ice in 5 years (since 2021); 5.5% in 2026 alone; Plattalvafirn gone (99% in 20 years); new failure mode: internal "cheese-hole" collapse from subglacial streams |
 
 ---
@@ -160,6 +171,7 @@ Adapting to unavoidable climate impacts.
 | Class 20 - Adaptation and Resilience | Terra.do Class 20: adaptation strategies |
 | [[home-cooling-heatwaves]] | How to keep homes cool during heatwaves — fans, AC, heat pumps, passive cooling |
 | [[artificial-reefs-coastal-protection]] | **NEW** — Blue Living Reef (LineUp Ocean, Nausicaá): 3D-printed reef modules from low-carbon oyster-shell mortar; 28 species colonised in a 2-year tank trial; modelled 30–45% wave-dampening; open-sea trials at Wimereux (Opale coast) and Palavas-les-Flots next; Cerema projects €1.2bn French property at risk by 2050 |
+| [[mauritius-island-challenges]] | **NEW** — Mauritius: a small-island-state climate case study. Overtourism harming sperm whales (25 left), 80% of coral dead, €9.8bn infrastructure needed over 25 years, 95% of waste to one landfill at capacity, 42% of electricity to air conditioning. Government aims for 3.2M tourists on an island of 1.2M people |
 
 ---
 
@@ -226,7 +238,7 @@ Funding the transition — investment, risk, green banking.
 | How Countries Can Use Behavior Change to Further Reduce Emissions | Policy-level behaviour change |
 | Meat Token ACTION GUIDE | Reducing meat consumption |
 | Talking about Climate Change ACTION GUIDE | Conversation guide for climate |
-| [[high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns |
+| [[high-income-carbon-paradox]] | **NEW** — High-income environmentalists emit more than high-income peers due to frequent flying; policy beats attitude campaigns — **updated** October 2026 with the Oxfam superyacht ratio: 23 billionaire yachts avg. 5,672 t CO2/yr each = 860 years of an average citizen |
 | [[sustainability-mindset-principles]] | **NEW** — Isabel Rimanoczy's 12 Sustainability Mindset Principles (Ecoliteracy, My Contribution, Long-term Thinking, Both+and, Flow in Cycles, Interconnectedness, Creative Innovation, Reflection, Self-awareness, Purpose, Oneness with Nature, Mindfulness); LOHAS comparison; five essential principles for time-limited practice |
 
 ### Company Evaluations (`wiki/concepts/company-evaluations/`)
@@ -440,6 +452,7 @@ Funding the transition — investment, risk, green banking.
 | [[mangrove-forests-recovery]] | **NEW** — Mangrove forests staging a comeback: world gains more than it loses since 2010 |
 | [[solar-on-peatland]] | Solar farms on rewetted peatland: triple win of clean energy, carbon storage and biodiversity — but drained-peat solar can be a net carbon emitter |
 | [[solar-farms-pollinators]] | **NEW** — 20 French solar parks: pollinator activity fell 76% and plant-pollinator interactions 86% under panels; grazing hurts pollinators more than mowing; wildflower-meadow design nearly doubles bumble bee numbers |
+| [[grassland-carbon-stocks]] | **NEW** — Brazil's Cerrado soils store 1,200 t C/hectare — 6× the Amazon vegetation — in 20,000-year-old carbon that cannot be replaced. 46% already cleared for soy and pasture. REDD+ ignores open ecosystems because carbon-credit methods were built for forests. Tree-planting projects on grasslands may do more harm than good |
 | [[Ocean Based Climate Solutions]] | **NEW** — Ocean climate solutions ranked: offshore wind top, coastal wetland protection strong, novel mCDR uncertain, some not recommended |
 | OCEAN - Book Notes | Book notes on ocean ecosystems |
 | [[why-bees-matter]] | **NEW** — Why bees matter: pollinators, food system dependence, rooftop hive myths, what actually helps |
@@ -467,7 +480,7 @@ Funding the transition — investment, risk, green banking.
 | Reduced Food Waste - Project Drawdown 1 | Food waste reduction |
 | The Environmental Impact of the FASHION industry | Fashion's climate footprint — **updated** July 2026 with the EU's ESPR ban on destroying unsold clothes (in force from 19 July 2026) and a puffer-jackets case section (down/wool welfare, "100% recycled" caveats, 1-in-10 repair rate) |
 | [[seaqual-ocean-plastic-fashion]] | Seaqual: industrial analysis of turning ocean plastic into recycled textile yarn; LCA data, supply chain, take-back programmes |
-| [[plastic-mass-balance-greenwashing]] | **NEW** — Mass-balance accounting and the pyrolysis loophole: how Kraft Heinz, Mondelēz and others can label plastic "recycled" while it's 95% virgin naphtha; EU PPWR legalises the trick in 2026 |
+| [[plastic-mass-balance-greenwashing]] | **NEW** — Mass-balance accounting and the pyrolysis loophole: how Kraft Heinz, Mondelēz and others can label plastic "recycled" while it's 95% virgin naphtha; EU PPWR legalises the trick in 2026 — **updated** October 2026 with EU Commission commitments from Coca-Cola, Nestlé and Danone to change bottle labels ("Recycle me", "excluding cap and label") |
 | [[cigarette-butts-marine-pollution]] | **NEW** — Cigarette butts as marine pollution: 137,000 dropped per second worldwide; 20,000 t/yr in France; cellulose acetate microplastics + 7,000 chemicals per butt; 500 L water contaminated; France's AGEC/Alcome scheme, EU SUP Directive, Surfrider filter-ban call, disposable vapes as new waste stream |
 | The Rewearable - Circular Fashion ACTION GUIDE | Circular fashion guide |
 | Waste to Energy - Project Drawdown 58 | Waste-to-energy systems |
@@ -480,7 +493,8 @@ Funding the transition — investment, risk, green banking.
 |------|-------------|
 | Boards need to build competencies for a successful ESG strategy | ESG governance for boards |
 | [[COP30]] | COP30 Belém outcomes (November 2025) — **updated** with Santa Marta follow-up and June 2026 Bonn intersessional (TAFF, COP31 Turkey, adaptation-finance baseline dispute); now cross-linked to dedicated COP31 Antalya page |
-| [[cop17-biodiversity-yerevan-2026]] | **NEW** — CBD COP17 Yerevan (19-30 Oct 2026): first global review of Kunming-Montreal Framework at its halfway point; IPBES Nexus toolbox; harmful-subsidies Target 18 ($500bn/yr) and 30x30 as the hardest tests; Ireland/EU angle via Nature Restoration Law |
+| [[cop17-biodiversity-yerevan-2026]] | **NEW** — CBD COP17 Yerevan (19-30 Oct 2026): first global review of Kunming-Montreal Framework at its halfway point; IPBES Nexus toolbox; harmful-subsidies Target 18 ($500bn/yr) and 30x30 as the hardest tests; Ireland/EU angle via Nature Restoration Law — **updated** October 2026 with first-week findings: 22 of 23 targets off-track, Cali Fund scandal ($7k deposited vs $1bn target), CARES alliance, Yerevan Declaration |
+| [[halfway-to-2030-biodiversity-cop17-overview]] | **NEW** — Own-research synthesis (26 Oct 2026, during the talks): COP17 halfway check, 90% of countries have targets but <50% on track, €30 flows to damaging nature for every €1 to protect, Cali Fund €6,300 vs €890m target, Ireland's record, Yerevan Pathway target package for 27-30 October |
 | [[cop31-antalya-2026]] | **NEW** — COP31 Antalya (9-20 Nov 2026): unusual shared Türkiye + Australia + Fiji arrangement; "implementation COP"; ten Presidency priorities (35% electrification, 25% building-energy cut, 15% circular materials, zero-waste/methane); harder tests remain finance delivery, adaptation, fossil-fuel transition |
 | Class 19 - Corporate Climate Action | Terra.do Class 19: corporate action |
 | [[Global spending on subsidies that harm environment rises to $2.6tn]] | Fossil fuel subsidy data |
@@ -528,6 +542,8 @@ Content about the European Union and its member states. Same logic as the Irelan
 | Page | Description |
 |------|-------------|
 | [[france-urban-transport]] | **NEW** — France: how cities are changing urban transport. Câble C1 Val-de-Marne (Dec 2025), free public transit (Dunkerque, Montpellier), 200+ on-demand transport areas; Cour des comptes finds free transit shifts walkers/cyclists not drivers; national CO2/pkm table |
+| [[vineyards-adapting-fast]] | **NEW** — France: vineyards adapting fast — agroforestry (Château Cheval Blanc 2,000 trees), agrivoltaics (Sun'Agri AI panels cut watering 12-34%), new Vifa grape varieties (Plaimont testing 39 varieties, foreign imports now in regional AOCs), northward expansion (Pas-de-Calais, Brittany, Normandy) |
+| [[france-battery-industry]] | **NEW** — France: Battery Valley in Hauts-de-France (ACC, Verkor, AESC, ProLogium), the production ramp challenge, 6-7 projects left of 50, raw-material dependence on China, École de la batterie target 10-20k trained by 2030 vs CATL's 30k R&D engineers |
 
 ---
 
@@ -540,6 +556,7 @@ Content about the European Union and its member states. Same logic as the Irelan
 | [[IRELAND Emissions, Climate Plans]] | Ireland's overall climate plans — **updated** July 2026 with a progress report finding only 10 of 74 committed climate measures delivered since 2023 |
 | [[IRELAND - Climate Change in the Irish Mind]] | Irish public opinion on climate |
 | IRELAND Climate Adaptation | Ireland's adaptation measures — **updated** with Dublin Bay sea level rising 7–8 mm/yr, planned retreat, €230m East Coast Railway Protection, decarbonising zones |
+| [[invasive-species-ireland]] | **NEW** — Ireland's invasive species response: Invasive Alien Species Bureau announced May 2026 has no staff by October; community groups blocked by unclear "qualified professional" rules and no NPWS/EPA waste-facility list. Rhododendron, Japanese knotweed, gunnera, Spanish bluebells, Asian hornets, box tree moth |
 | [[IRELAND Data Centre Dilemna]] | Ireland's data centre energy problem — **updated** with Dublin city 7% and south county 46% emissions shares, SDCC nationwide ban motion |
 | [[IRELAND Energy Systems]] | Ireland's energy mix |
 | [[IRELAND Energy and Biomass]] | Biomass and biomethane in Ireland's energy system, peat-to-biomass conversion |
@@ -561,7 +578,7 @@ Common climate myths and misleading claims, one page per claim. Also generate th
 
 | Page | Description |
 |------|-------------|
-| [[its-too-late]] | "It's too late, we're heading for 5 or 6 degrees, so nothing matters." Verdict: mostly false. Current policies point to 2.5-3°C; net-zero pledges deliver 1.8°C; every fraction of a degree matters |
+| [[its-too-late]] | "It's too late, we're heading for 5 or 6 degrees, so nothing matters." Verdict: mostly false. Current policies point to **2.8°C** (UNEP Emissions Gap 2026); pledges deliver 2.1°C; every fraction of a degree matters. **Updated** October 2026 with Emissions Gap 2026 overshoot framing |
 | [[carbon-capture-will-fix-it]] | **NEW** — "We can just keep burning fossil fuels and capture the CO2." Verdict: mostly false. CCS captures ~0.1% of global emissions today; realistic role is cement/steel/fertiliser only |
 | [[not-enough-clean-energy]] | **NEW** — "There isn't enough clean energy to replace fossil fuels." Verdict: false. 1 unit of solar/wind replaces 2-3 units of coal because burning wastes so much; total energy demand falls ~40% after electrification |
 | [[not-enough-public-support]] | **NEW** — "There isn't enough public support to tackle climate change." Verdict: false. 86-89% of people worldwide want action; the silent majority thinks it's the minority (perception gap / pluralistic ignorance) |

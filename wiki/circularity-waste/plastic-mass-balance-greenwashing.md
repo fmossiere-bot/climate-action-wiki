@@ -4,7 +4,7 @@ category: circularity-waste
 tags: ["#plastic", "#circularity", "#greenwashing", "#eu-policy", "#fossil-fuels"]
 sources: ["The Guardian, Stefano Valentino, 27 January 2026 — https://www.theguardian.com/environment/2026/jan/27/recycled-plastic-packaging-claims-misleading-say-experts", "IJ4EU cross-border investigation"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-10-26
 summary: mass-balance bookkeeping, pyrolysis oil, chemical recycling, ISCC certification, avoided emissions, Sabic Aramco, Kraft Heinz Beanz, Mondelēz Philadelphia, PPWR EU 2026, UK plastic packaging tax mass balance 2027, Zero Waste Europe, Ecos, Helmut Maurer, Lauriane Veillard, Peter Quicker, Plastic Energy, virgin naphtha, plastic industry lobbying, LCA critiqued, Guardian investigation, IJ4EU, fossil fuel plastic pivot
 ---
 
@@ -64,6 +64,19 @@ Behind the scenes, petrochemical firms have intensified lobbying of EU instituti
 - **Saudi Aramco** (Sabic's parent) is the world's largest corporate GHG emitter and opposes UN plastic-treaty production cuts
 - IEA *World Energy Outlook 2025*: plastic set to become a critical growth engine for oil majors' future profits
 - Named consumer brands: **Kraft Heinz Beanz, Mondelēz Philadelphia** — did not respond to the investigation
+
+## October 2026 update: Coca-Cola, Nestlé and Danone agree to change the labels
+
+Following the January 2026 Guardian/IJ4EU investigation and a November 2023 BEUC complaint, the **European Commission announced on 25 October 2026 (press release IP/26/2238)** that **Coca-Cola, Nestlé Waters and Danone** have committed to change the recycling claims on their plastic bottle labels:
+
+- Claims like *"I am a bottle made from 100% recycled plastic"* will be replaced with *"This bottle is 100% recycled. Excluding cap and label"*
+- Claims like *"Recycle me again"* become *"Recycle me"* — removing the false impression that the bottle was previously recycled and will become another bottle
+- Overall label and marketing impression must not be misleading on environmental benefits
+- Digital marketing campaigns on websites and social media must reflect the same commitments
+
+The dialogue was led by the **Swedish Consumer Agency** and the **Hungarian Competition Authority** under the Consumer Protection Cooperation (CPC) network. **Coca-Cola and Nestlé have already implemented some of the commitments**, particularly on digital campaigns.
+
+**What this changes.** The new "excluding cap and label" wording makes clear what the "100%" claim actually covers (the cap and label are usually not recycled). "Recycle me" instead of "Recycle me again" is more honest about the one-way nature of most plastic bottle recycling. But these are labelling fixes — the underlying mass-balance accounting that lets 95%-virgin-naphtha pyrolysis plastic count as "recycled" is untouched. The problem flagged by the Guardian/IJ4EU investigation and by Helmut Maurer, Lauriane Veillard and Peter Quicker remains. See [EU recycling claims commitments (source)](../sources/eu-recycling-claims-commitments-ec-2026.md).
 
 ## What good looks like
 
