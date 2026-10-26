@@ -12,6 +12,12 @@ summary: wind farms birds, cats 2.4 billion buildings 600 million cars 200 milli
 claim_id: wind-farms-kill-birds
 verdict: mostly-false
 topic: energy
+related:
+  - renewables-take-too-much-land
+  - renewables-produce-too-much-waste
+  - renewables-too-expensive
+  - taiwan-offshore-wind-reef-fish-2026
+  - FACTS about Wind Energy
 ---
 
 # Myth: wind farms kill huge numbers of birds
@@ -89,14 +95,6 @@ Massively. Fossil fuels harm birds through climate change, air pollution, oil sp
 **Painting blades black.** Almost every serious mitigation proposal for wind-farm bird deaths starts here. Spinning white blades blur into a moving grey that birds can't see. Painting one blade in high contrast breaks the visual pattern. A Norwegian test on Smøla wind farm cut bird deaths by more than 70%. The paint costs very little. This should be a standard requirement in high-risk locations.
 
 **Where fossil fuels really do worse.** Coal mining destroys bird habitat directly. Oil spills kill millions of birds directly, quickly, and photogenically — but they get quickly forgotten. Climate change is projected to push large numbers of bird species toward extinction. The comparison "wind turbines vs no energy" is silly. The real comparison is "wind turbines vs fossil fuels," and fossil fuels lose it by a wide margin.
-
-## Connected topics
-
-- [Renewables take too much land (myth)](renewables-take-too-much-land.md)
-- [Renewables produce too much waste (myth)](renewables-produce-too-much-waste.md)
-- [Renewables too expensive (myth)](renewables-too-expensive.md)
-- [Taiwan offshore wind reef fish (source)](../sources/taiwan-offshore-wind-reef-fish-2026.md)
-- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
 
 ## Sources
 

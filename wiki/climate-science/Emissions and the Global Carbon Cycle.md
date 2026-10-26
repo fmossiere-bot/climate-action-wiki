@@ -5,6 +5,10 @@ tags: ["#science", "#carbon", "#methane"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: global warming potential, GWP, CO2 equivalent, CO2e, methane lifetime 12 years, radiative efficiency, halocarbons, HFC-134a, CFC-11, Kigali Amendment, refrigerant management, carbon sinks, carbon sources, carbon stocks and flows, ocean acidification, permafrost thaw, Amazon rainforest carbon source, California wildfires, net-zero emissions, Climate TRACE, atmospheric CO2 concentration, IEA Global Methane Tracker
+related:
+  - What is Climate Change
+  - The Work of Climate Science
+  - Methane emissions role in Global Warming
 ---
 
 # Emissions and the Global Carbon Cycle
@@ -54,12 +58,6 @@ Several of the natural systems the planet relies on to absorb carbon are showing
 ## Tracking Emissions in Real Time
 
 Two tools are useful for anyone who wants to see this data directly rather than take it on trust. [Climate TRACE](https://climatetrace.org/map) uses satellite imagery and independent monitoring to track greenhouse gas emissions facility-by-facility worldwide, offering a check on self-reported national inventories. A separate visualisation, the ["climate spiral"](https://openclimatedata.net/climate-spirals/from-emissions-to-global-warming-line-chart/) style chart popularised by climate scientist Ed Hawkins, traces the link between rising emissions, rising atmospheric concentration, and rising temperature over time.
-
-## Connected topics
-
-- [What is Climate Change](What%20is%20Climate%20Change.md)
-- [The Work of Climate Science](The%20Work%20of%20Climate%20Science.md)
-- [Methane emissions role in Global Warming](Methane%20emissions%20role%20in%20Global%20Warming.md)
 
 ## Sources
 

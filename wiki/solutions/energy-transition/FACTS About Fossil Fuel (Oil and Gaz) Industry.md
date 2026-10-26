@@ -5,6 +5,10 @@ tags: ["#fossil-fuels", "#phaseout", "#finance", "#greenwashing", "#energy-trans
 created: 2026-06-01
 updated: 2026-08-26
 summary: fossil fuel industry, denial and disinformation, ExxonMobil, TotalEnergies, tobacco industry parallel, Big Oil Reality Check 2022, BP, Chevron, Eni, Repsol, Shell, fossil fuel subsidies, IMF, World Bank, Ajay Banga, bank financing, InfluenceMap, Rainforest Action Network, stranded assets, Carbon Tracker, transition risk, Fossil Fuel Non-Proliferation Treaty, climate justice, Michael Mann, greenwashing, BP shareholder rebellion April 2026, Albert Manifold, Meg O'Neill, Legal General Investment Management, Follow This
+related:
+  - Climate Politics and Climate Justice
+  - Renewable on Track to overtake Coal
+  - climate-finance/bp-shareholder-rebellion-2026
 ---
 
 # FACTS About the Fossil Fuel (Oil and Gas) Industry
@@ -55,12 +59,6 @@ Carbon Tracker's key finding is that these flows, the rents, capital spending an
 - Fossil fuel assets are valued at $39 trillion (World Bank), with a further $32 trillion in supply and demand infrastructure and up to $18 trillion in listed equity exposed to transition risk (Carbon Tracker, 2020).
 - Research suggests half the world's fossil fuel assets could be worthless by 2036 in a net-zero transition; $1.35 trillion in bank-held fossil assets has been flagged as exposed (Finance Watch).
 - At least 53 countries reformed fossil fuel subsidies between 2015 and 2020 (Global Subsidies Initiative), and campaigns such as the Fossil Fuel Non-Proliferation Treaty are pushing for the phase-out the Paris Agreement and COP27 outcome text never explicitly named.
-
-## Connected topics
-
-- [Climate Politics and Climate Justice](../../concepts/key-ideas/Climate%20Politics%20and%20Climate%20Justice.md)
-- [Renewable on Track to Overtake Coal](Renewable%20on%20Track%20to%20overtake%20Coal.md)
-- [BP board suffers triple climate rebellion from shareholders](../../climate-finance/bp-shareholder-rebellion-2026.md)
 
 ## Sources
 

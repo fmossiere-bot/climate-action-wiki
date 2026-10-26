@@ -5,6 +5,9 @@ tags: ["#ireland", "#renewables", "#energy-transition", "#energy"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Ireland wind energy, offshore wind, floating wind, renewable energy targets 2030 2050, electricity demand growth, EDF, Simply Blue, Emerald Floating Wind, Western Star, energy storage, batteries, renewable capacity, electricity grid, decarbonisation, energy security
+related:
+  - IRELAND Energy and Biomass
+  - FACTS about Wind Energy
 ---
 
 # Ireland Wind Energy
@@ -30,11 +33,6 @@ For more detail on Ireland's wind energy capacity and plans, see [FACTS about Wi
 ## The Storage Challenge
 
 Scaling wind to the levels Ireland's targets require will also depend on building out sufficient energy storage capacity, since wind output is variable and a much larger share of the grid running on wind makes storage essential for reliability.
-
-## Connected topics
-
-- [Ireland Energy and Biomass](IRELAND%20Energy%20and%20Biomass.md)
-- [FACTS about Wind Energy](../solutions/renewables/FACTS%20about%20Wind%20Energy.md)
 
 ## Sources
 

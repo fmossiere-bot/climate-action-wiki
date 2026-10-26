@@ -12,6 +12,11 @@ summary: EV cold weather, 10 to 20% range drop winter, NAF 50 cars test, Tesla M
 claim_id: evs-dont-work-in-cold
 verdict: mostly-false
 topic: transport
+related:
+  - evs-just-as-bad-for-climate
+  - evs-only-good-for-short-trips
+  - not-enough-ev-chargers
+  - smaller-evs-better
 ---
 
 # Myth: electric cars don't work in cold weather
@@ -70,13 +75,6 @@ Range drops further and public infrastructure gets patchy. The Norwegian tests d
 **What car labels should really show.** Advertised range is usually a warm-weather, ideal-condition number. Manufacturers should publish honest **"cold range"** figures alongside the summer number so buyers know what to expect. This is a regulatory question, not a technical one — nothing stops manufacturers publishing it today.
 
 **Cold slows charging too.** If you know you'll fast-charge in winter, pre-heat the battery for 20-30 minutes before you arrive. Most modern EVs let you schedule this from the navigation system automatically as you approach a charger.
-
-## Connected topics
-
-- [EVs just as bad for climate (myth)](evs-just-as-bad-for-climate.md)
-- [EVs only good for short trips (myth)](evs-only-good-for-short-trips.md)
-- [Not enough EV chargers (myth)](not-enough-ev-chargers.md)
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
 
 ## Sources
 

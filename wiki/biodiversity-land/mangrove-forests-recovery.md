@@ -10,6 +10,8 @@ tags:
 created: 2026-06-06
 updated: 2026-06-06
 summary: mangroves, mangrove forests, coastal ecosystems, carbon storage, blue carbon, coastal protection, storm surge, tsunami, Indonesia, Myanmar, Niger Delta, Africa, deforestation, fish farms, aquaculture, habitat restoration, natural regeneration, Landsat satellite, closed canopy, net gain, oil pollution, tropical cyclones, biodiversity, marine nursery, carbon sink
+related:
+  - Ireland Climate Adaptation
 ---
 
 # Mangrove Forests Recovery
@@ -47,10 +49,6 @@ There is also a caution about the new growth in some regions. In Brazil, new man
 - Indonesia and Myanmar lead the recovery; **Niger Delta** and West/Central Africa remain under threat.
 - Oil pipeline pollution causes particularly severe damage in the Niger Delta.
 - Natural regeneration — not replanting — is the main driver of recovery. ([BBC, 2026](https://www.bbc.com/news/articles/cn4pk07npvvo))
-
-## Connected topics
-- [Ocean Carbon Removal Solutions](../solutions/carbon-removal/Ocean Carbon Removal solutions.md)
-- [Ireland Climate Adaptation](../ireland-hub/IRELAND Climate Adaptation.md)
 
 ## Sources
 - BBC News, Matt McGrath and Esme Stallard, 5 June 2026 — https://www.bbc.com/news/articles/cn4pk07npvvo

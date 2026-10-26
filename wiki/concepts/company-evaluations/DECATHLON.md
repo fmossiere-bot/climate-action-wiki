@@ -5,6 +5,10 @@ tags: ["#company-evaluations", "#esg", "#circularity", "#carbon", "#recycle"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Decathlon, sport equipment, Scope 1 2 3 emissions, Net Zero 2050, SBTi science-based targets, raw materials extraction, ecodesign, repairability index ADEME, circular business models, rental Belgium, buy-back system, second life products, durability testing, AFNOR certification, GHG Protocol, absolute emissions reduction, supplier decarbonisation, coal phase-out, in-store repair workshops
+related:
+  - FACTS about Circular Economy
+  - Net-Zero target explained
+  - The Environmental Impact of the FASHION industry
 ---
 
 
@@ -84,13 +88,6 @@ For anyone assessing Decathlon's commitments from an ESG risk or opportunity per
 - **Transparency and reporting:** how clear is the company's disclosure on scope definitions, baseline year, methodology and external assurance?
 - **Business model growth risk:** as Decathlon expands into new markets, stores and product categories, is that growth decoupled from emissions, and are there externalities, such as built-environment carbon or logistics, that could offset any gains made elsewhere?
 
-## Connected topics
-
-- [Scope 3 GHG](../key-ideas/Scope%203%20GHG.md)
-- [FACTS about Circular Economy](../key-ideas/FACTS%20about%20Circular%20Economy.md)
-- [Net-Zero target explained](../key-ideas/Net-Zero%20target%20explained.md)
-- [The Environmental Impact of the FASHION industry](../../circularity-waste/The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
-
 ## Sources
 
 - Decathlon, "What action plan is needed to reduce absolute CO2 equivalent emissions" — https://sustainability.decathlon.com/what-action-plan-is-needed-to-reduce-absolute-co2-eq-emissions
@@ -98,4 +95,3 @@ For anyone assessing Decathlon's commitments from an ESG risk or opportunity per
 - Decathlon, "Going circular: transition towards a circular economy" — https://sustainability.decathlon.com/going-circular-transition-towards-a-circular-economy
 - Decathlon, "Repairability scoring at Decathlon" — https://sustainability.decathlon.com/repairability-scoring-at-decathlon
 - Decathlon, EcoDesign — https://www.decathlon.ie/content/41-eco-design
-

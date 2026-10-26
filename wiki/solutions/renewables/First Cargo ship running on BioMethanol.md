@@ -5,6 +5,10 @@ tags: ["#shipping", "#alternative-fuels", "#carbon"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: green methanol, biomethanol, e-methanol, ammonia shipping fuel, methanol production, landfill methane, South Korea, Denmark, Egypt refuelling, shipping emissions, biomass feedstock, carbon-neutral fuel, kite-assisted shipping, Beyond the Sea, Team for the Planet, maritime decarbonisation
+related:
+  - Powering Ships with a kite
+  - Carbon Footprint of Various Energies
+  - Space necessary for the various Energy Sources
 ---
 
 # First Cargo Ship Running on BioMethanol
@@ -24,12 +28,6 @@ The success of this voyage raises an obvious question: with a long list of metha
 A different approach to the same problem is reducing how much fuel ships need in the first place. [Team for the Planet is investing in kite-assisted cargo shipping](https://team-planet.com/en/innovations/125-beyond-the-sea) through its Beyond the Sea project (see also [ecosources.org on ship traction by kite](https://www.ecosources.org/traction-de-navire-par-voile-libre-kite)), which alone can cut fuel consumption by close to 20%. That kind of efficiency gain could ease some of the future strain on methanol demand. For more on this approach, see [Powering Ships with a Kite](Powering%20Ships%20with%20a%20kite.md).
 
 **Ammonia** made with renewable energy is another potentially carbon-neutral shipping fuel, and one that could plausibly be produced at scale. The problem is that ammonia is poisonous. There are currently no in-service ships running on ammonia: ammonia-fuelled engines are not yet commercially available, and no existing vessels are equipped for ammonia propulsion. Two-stroke and four-stroke ammonia engines are under development, alongside the regulations needed to handle ammonia safely as a fuel. More detail is available from the [Global Maritime Forum](https://www.globalmaritimeforum.org/news/ammonia-as-a-shipping-fuel).
-
-## Connected topics
-
-- [Powering Ships with a Kite](Powering%20Ships%20with%20a%20kite.md)
-- [Carbon Footprint of the Various Energies](../../concepts/key-ideas/Carbon%20Footprint%20of%20Various%20Energies.md)
-- [Space Needed for Various Energy Sources](../../concepts/key-ideas/Space%20necessary%20for%20the%20various%20Energy%20Sources.md)
 
 ## Sources
 

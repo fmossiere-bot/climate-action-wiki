@@ -5,6 +5,9 @@ tags: ["#eu-policy", "#esg"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Corporate Sustainability Due Diligence Directive, CSDDD, EU directive, human rights due diligence, environmental due diligence, value chains, civil liability, omnibus reforms, ACCA Ireland, PwC, sustainability reporting, corporate accountability, turnover thresholds, employee thresholds
+related:
+  - What is CSRD?
+  - What is ESG?
 ---
 
 # What is CSDDD? The EU Corporate Sustainability Due Diligence Directive
@@ -32,11 +35,6 @@ Under the EU's omnibus reform package, CSDDD's scope was significantly narrowed.
 - Under the 2025 omnibus reform, the threshold rose to 5,000 employees and €1.5 billion turnover.
 - Forward-looking risk assessment requirements and a proposed common civil liability framework were removed under the omnibus deal.
 - Companies were due to comply in phases, with full compliance originally required by 2028.
-
-## Connected topics
-
-- [What is CSRD?](What%20is%20CSRD%3F.md)
-- [What is ESG?](../concepts/key-ideas/What%20is%20ESG%3F.md)
 
 ## Sources
 

@@ -11,6 +11,12 @@ summary: plant-based diets land use, 4 billion hectares current vs 1 billion veg
 claim_id: not-enough-land-for-plant-based
 verdict: false
 topic: food
+related:
+  - eat-lancet-planetary-diet-2025
+  - beef-and-climate-change
+  - lab-grown-meat
+  - meat-substitutes-worse-for-climate
+  - meat-substitutes-too-expensive
 ---
 
 # Myth: there isn't enough land for everyone to go plant-based
@@ -79,16 +85,6 @@ Some, yes — more fruit and vegetables would be needed. But the drop in animal-
 **Improving crop yields matters too.** Higher yields on existing farmland means more food from less land. Better seeds, irrigation, fertiliser, and pest control — plus climate-resilient varieties — let farmers grow more without expanding. Combined with dietary shifts, this can free up hundreds of millions of hectares for nature.
 
 **The "natural is better" bias.** Many people intuitively feel that lab-made food is worse than farmed food. Ritchie admits she feels this too sometimes. But it's a bias, not a fact. Lab-made proteins can be nutritionally identical to (or better than) their animal equivalents, with a fraction of the land, water and emissions footprint. Overcoming that cultural bias is one of the biggest barriers to a food system that fits on the planet.
-
-## Connected topics
-
-- [The EAT-Lancet Planetary Health Diet](../sectors/agriculture-food/eat-lancet-planetary-diet-2025.md)
-- [Beef and Climate Change](../sectors/agriculture-food/beef-and-climate-change.md)
-- [Lab-grown meat](../solutions/food/lab-grown-meat.md)
-- [Meat substitutes worse for climate (myth)](meat-substitutes-worse-for-climate.md)
-- [Meat substitutes too expensive (myth)](meat-substitutes-too-expensive.md)
-- [Meat substitutes unhealthy (myth)](meat-substitutes-unhealthy.md)
-- [Renewables take too much land (myth)](renewables-take-too-much-land.md)
 
 ## Sources
 

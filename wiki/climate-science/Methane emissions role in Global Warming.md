@@ -5,6 +5,10 @@ tags: ["#methane", "#science", "#carbon"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: methane GWP-100, atmospheric lifetime, super-emitters, Turkmenistan methane leaks, US oil and gas methane underestimate, IEA Global Methane Tracker 2024, top 10 methane emitting countries, Global Methane Pledge, Oil and Gas Decarbonization Charter, COP28, Kayrros, GHGSat, Methane Alert and Response System, hydropower reservoir methane, livestock methane, permafrost methane Svalbard, Bluemethane
+related:
+  - Emissions and the Global Carbon Cycle
+  - Global Warming Potential explained
+  - Global Impact of Climate Change
 ---
 
 # Methane's Role in Global Warming: Sources, Super-Emitters and Solutions
@@ -54,12 +58,6 @@ Start-ups are beginning to treat this as an opportunity rather than just a liabi
 ## Permafrost: An Emerging Wildcard
 
 Thawing permafrost is one of the climate tipping points under active scientific monitoring, carrying the risk of a self-reinforcing carbon feedback loop (see [Global Impact of Climate Change](Global%20Impact%20of%20Climate%20Change.md)). A study led by geologist Thomas Birchall at the University Center in Svalbard found natural gas deposits, richer in methane than previously assumed, trapped in pockets beneath the permafrost, formed where the undulating base of the permafrost layer creates spaces for gas to accumulate from below. Leakage today is very low, but the researchers warn that continued glacial retreat and permafrost thaw could "lift the lid" on these reserves, potentially releasing methane on the order of several million cubic feet at the single site they were able to measure. Because Svalbard shares a similar geological and glacial history with much of the wider Arctic, similar hidden reserves may exist elsewhere across the region. The risk, if the permafrost seal fails, is a vicious cycle: escaping methane accelerates warming, which thaws more permafrost, which releases more methane.
-
-## Connected topics
-
-- [Emissions and the Global Carbon Cycle](Emissions%20and%20the%20Global%20Carbon%20Cycle.md)
-- [Global Warming Potential explained](Global%20Warming%20Potential%20explained.md)
-- [Global Impact of Climate Change](Global%20Impact%20of%20Climate%20Change.md)
 
 ## Sources
 

@@ -5,6 +5,12 @@ tags: ["#ai", "#ireland", "#carbon", "#energy", "#united-kingdom"]
 created: 2026-06-06
 updated: 2026-08-26
 summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth, PFAS forever chemicals, two-phase cooling, TFA trifluoroacetic acid, Meta RE100 exit, natural gas power purchase agreements
+related:
+  - IRELAND Data Centre Dilemna
+  - AI Emissions and Corporate Responsibility
+  - FACTS about AI, Emissions impacts and mitigation potential
+  - What is JEVONS Paradox
+  - The Energy Supercycle is Unstoppable
 ---
 
 # AI Data Centres and the Energy Crisis
@@ -126,13 +132,6 @@ Both sites are seeking **on-site gas-fired power stations** rather than wait yea
 Caroline Lucas called the projected emissions "absolutely horrifying"; ClientEarth's Sam Hunter-Jones argued "every megawatt powering a datacentre... is a megawatt that could not be used to replace fossil fuels elsewhere."
 
 *Source: [UK datacentres vs ExxonMobil (source summary)](../../sources/uk-datacentres-exxonmobil-emissions-guardian-2026.md); Guardian, Pippa Neill, 25 August 2026.*
-
-## Connected topics
-- [IRELAND Data Centre Dilemma](../../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
-- [AI Emissions and Corporate Responsibility](AI%20Emissions%20and%20Corporate%20Responsibility.md)
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
-- [What is Jevons Paradox](What%20is%20JEVONS%20Paradox.md)
-- [The Energy Supercycle Is Unstoppable](../../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
 
 ## Sources
 - The Guardian, Aisha Down, 18 May 2026 — https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity

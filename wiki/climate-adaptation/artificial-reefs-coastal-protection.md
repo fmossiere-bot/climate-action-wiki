@@ -6,6 +6,12 @@ sources: ["raw/own-research/Artificial Reefs for Coastal Protection and Marine B
 created: 2026-08-04
 updated: 2026-08-04
 summary: artificial reefs, coastal erosion France 20% coastline 900 km, Cerema 5200 homes 1400 businesses €1.2 billion by 2050, storm Goretti Ambleteuse Pas-de-Calais January 2026, Wissant Aval dune 3.7 metres per year, Blue Living Reef project, LineUp Ocean, Blue Living Lab, Nausicaá Boulogne-sur-Mer, BPCE banking, 3D printing low-carbon mortar recycled oyster shells, 28 species colonisation, diadem sea urchins Tubastraea coccinea sergeant major fish, wave dampening 30-45%, Surfreef Palavas-les-Flots Hérault, Robin Alauze oceanographer, mangrove root systems, Posidonia seagrass, Wimereux Opale coast, nature-based solutions
+related:
+  - taiwan-offshore-wind-reef-fish-2026
+  - mangrove-forests-recovery
+  - Ocean Based Climate Solutions
+  - dublin-sea-rise-emissions-2026
+  - solomon-siren-kale-island-smithsonian-2026
 ---
 
 # Artificial Reefs for Coastal Protection and Marine Biodiversity
@@ -55,11 +61,3 @@ The results reported here come from a single case study, described in a magazine
 ## 7. Bottom line
 
 Artificial reefs made from low-carbon, oyster-shell-based mortar show early promise as a way to combine coastal erosion protection with marine biodiversity restoration. A two-year trial in a controlled aquarium environment recorded encouraging results, with 28 species colonising the test structures. The next and more important test will be in open sea conditions, where the approach has not yet been proven. If successful, this kind of nature-based solution could offer an alternative, or a complement, to traditional hard coastal defences such as dikes and breakwaters.
-
-## Connected topics
-
-- [Taiwan Offshore Wind Reef Fish (source)](../sources/taiwan-offshore-wind-reef-fish-2026.md) — an accidental parallel: 86 species colonising wind-turbine foundations
-- [Mangrove Forests Recovery](../biodiversity-land/mangrove-forests-recovery.md) — the natural analogue
-- [Ocean Based Climate Solutions](../biodiversity-land/Ocean%20Based%20Climate%20Solutions.md)
-- [Dublin Sea Rise Emissions (source)](../sources/dublin-sea-rise-emissions-2026.md) — parallel European coastal-rise pressure
-- [Solomon Siren / Kale Island (source)](../sources/solomon-siren-kale-island-smithsonian-2026.md) — bio-colonising sculpture, adjacent nature-based framing

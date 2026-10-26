@@ -5,6 +5,10 @@ tags: ["#aviation", "#carbon-offset", "#carbon", "#transport"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: flight carbon footprint calculation, jet fuel burn, great circle distance, aircraft and engine type, cargo vs passenger allocation, seat occupancy rate, passenger load factor, seat class multiplier, carbon calculators comparison, Google Flights, ICAO methodology, MyClimate, CarbonFootprint.com, contrails, radiative forcing, net cooling research, carbon offsetting, CORSIA, EU ETS, EasyJet, offset price, additionality
+related:
+  - Facts about Air Travel
+  - Carbon Offsets
+  - Carbon Footprint Calculator
 ---
 
 # Flight Carbon Footprint and Offset Guide
@@ -73,12 +77,6 @@ Offset prices vary enormously, from just a few euros on some budget airlines to 
 - A 2024 study of 700,000 contrails found most daytime contrails have a net cooling effect, while night-forming contrails (62% of those studied) warm.
 - Rerouting to avoid contrail-forming air can add roughly 30 minutes to a long-haul flight.
 - One documented case: an offset of 1.7 tonnes CO2 cost £27, against an actual footprint of around 6 tonnes for the trip.
-
-## Connected topics
-
-- [Facts about Air Travel](FACTS%20about%20Air%20Travel.md)
-- [Carbon Offsets: How They Work and Why They Often Fall Short](../../concepts/key-ideas/Carbon%20Offsets.md)
-- [Carbon Footprint Calculator](../../concepts/Carbon%20Footprint%20Calculator.md)
 
 ## Sources
 

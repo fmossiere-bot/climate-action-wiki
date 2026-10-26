@@ -6,6 +6,12 @@ sources: ["raw/articles/Invasive species are spreading across Ireland. So why is
 created: 2026-10-26
 updated: 2026-10-26
 summary: Ireland invasive species response, Invasive Alien Species Bureau NPWS NBDC May 2026, Collette O'Flynn, Giant Hogweed Japanese knotweed rhododendron ponticum Spanish bluebells gunnera, Asian hornet, Killarney Achill, Jennifer Whitmore parliamentary question 383 no staff no hiring, EU regulation third schedule species licence, Local Environmental Action Fund LEAF €9000 qualified professional, glyphosate herbicide professional pesticide licence, NPWS licensing EPA approved waste facility no list, box tree moth, community groups volunteers, Kunming-Montreal Framework COP15 2022, nature restoration law, EPA Environmental Protection Agency, Orla ní Dhúill Achill Island
+related:
+  - invasive-species-ireland-thejournal-2026
+  - halfway-to-2030-biodiversity-cop17-overview
+  - cop17-biodiversity-yerevan-2026
+  - refarm-wicklow-farmer-nature-thejournal-2026
+  - hedgerow-management-farmers-journal-2026
 ---
 
 # Ireland and invasive species: a bureaucratic paralysis
@@ -68,16 +74,6 @@ Three concrete things, drawn from ní Dhúill's reporting:
 ## Context from the broader Irish biodiversity picture
 
 Ireland's record on biodiversity is poor: an assessment published in 2024-2025 found **90% of Ireland's protected habitats** in bad health. Ireland was the first EU member state to submit its National Nature Restoration Plan to Brussels, pushed for the EU Nature Restoration Law in 2024, and holds the EU Council Presidency through the end of 2026. But the gap between legal framework and operational implementation is the same at national and EU level — the Fintan Kelly / Jane Stout observations from COP17 Yerevan (see [Halfway to 2030: COP17](../legislation-policy/halfway-to-2030-biodiversity-cop17-overview.md)) make the same point about the EU Nature Restoration Law lacking funds.
-
-## Connected topics
-
-- [Invasive species in Ireland (source)](../sources/invasive-species-ireland-thejournal-2026.md)
-- [Halfway to 2030: COP17 overview](../legislation-policy/halfway-to-2030-biodiversity-cop17-overview.md)
-- [COP17 Biodiversity Yerevan](../legislation-policy/cop17-biodiversity-yerevan-2026.md)
-- [ReFarm Wicklow (source)](../sources/refarm-wicklow-farmer-nature-thejournal-2026.md)
-- [Hedgerow management (source)](../sources/hedgerow-management-farmers-journal-2026.md)
-- [Why bees matter](../biodiversity-land/why-bees-matter.md)
-- [Honeybees crowd wild pollinators (source)](../sources/honeybees-crowd-wild-pollinators-guardian-2026.md)
 
 ## Sources
 

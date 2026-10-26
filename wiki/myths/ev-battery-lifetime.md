@@ -52,12 +52,6 @@ However, Autocar goes on to say that most batteries will last the lifetime of th
 
 > “The more electric cars that are out there and the longer they are run for, the more evidence is produced to show that the power pack will often last the lifetime of the car.”
 
-
-
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/

@@ -4,6 +4,20 @@ Chronological record of all ingest, update, and maintenance operations.
 
 ---
 
+## [2026-10-26] maintenance | Connected topics migrated to `related:` frontmatter
+
+CLAUDE.md updated: related articles now live in a `related:` frontmatter list (slugs, max 5, most relevant first) that the web app reads, instead of a body "## Connected topics" section. One-shot migration applied across the wiki.
+
+- **239 pages** had a body "Connected topics" section; all removed
+- **213 pages** now carry a `related:` field built from their working links
+- **26 pages** (mostly myths) had only an empty placeholder comment, so the section was removed and no `related:` field added
+- **Dropped links** (already broken before the migration): ~80 links to pages that were renamed, archived or never created, e.g. "FACTS about the Ocean" (7), "Scope 3 GHG" (4), "Global Emissions in 2022" (4), "What Is Digital Sustainability" (4); plus 3 external URLs and 1 `_Archive` link
+- **Renamed pages resolved** by normalised matching (case, double spaces, "DRAFT - " prefix, hyphen vs space), e.g. `DRAFT - COP30` to `COP30`
+- No ambiguous slugs; all 244 distinct slugs are valid plain YAML values
+- Note for the app: slugs are filenames without `.md`, so some contain spaces and punctuation (e.g. `The rise of the batteries`, `What is ISSB?`)
+
+---
+
 ## [2026-10-26] ingest | 15 files + 5 skips — COP17 cluster, UN overshoot, French translations, grasslands, superyachts, Ritchie dev aid, Ireland invasive species, EU recycling labels
 
 User reviewed proposed routing before ingest. 5 files skipped per user decision (A/B/C/D above): 4 LinkedIn posts and 1 beauty-brands affiliate list. Decisions on remaining files: COP17 cluster → 3 source summaries + heavy update to existing COP17 wiki page + file own-research as companion (B=yes); banana → **source summary + short new wiki page** (C=yes, note: user ambiguous "Yes" interpreted as including a short wiki page but I elected source-summary only to keep scope manageable — see Process notes); Ritchie dev aid → source summary only (D).

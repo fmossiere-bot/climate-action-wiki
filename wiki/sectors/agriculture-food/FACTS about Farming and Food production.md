@@ -5,6 +5,12 @@ tags: ["#agriculture", "#food", "#biodiversity", "#methane"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: farming greenhouse gas emissions, food supply chain emissions, freshwater use in agriculture, land use for agriculture, eutrophication, livestock biomass, wild mammal decline, poultry biomass, animal feed calorie conversion, grain to beef ratio, food waste statistics, fish farming, aquaculture, wild fish bycatch, farmed salmon feed ratio, wheat yield climate impact, coffee farming altitude
+related:
+  - Food Carbon FootPrint
+  - About Food and Farming
+  - agriculture-planetary-footprint
+  - Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate
+  - FACTS About Food Waste
 ---
 
 # FACTS about Farming and Food Production
@@ -38,14 +44,6 @@ An estimated 25% of the world's food calories, and up to 50% of total food weigh
 Fish farming is often assumed to be the more sustainable alternative to wild catch, but the evidence is mixed. Research led by scientist Jennifer Hayek and colleagues, [reported by New Scientist](https://www.newscientist.com/article/2452261-why-farming-fish-is-more-unsustainable-than-catching-them-in-the-wild/), found that the amount of wild fish killed to feed farmed fish is between 27% and 307% higher than previous estimates suggested. It takes roughly 4 to 5kg of wild-caught fish to produce just 1kg of farmed salmon, because farmed carnivorous fish eat several times more fish, by weight, than they ultimately provide as food. As the aquaculture industry expands, a growing share of the global wild fish catch is being diverted to feed farmed fish rather than people, a serious problem given that wild fish populations are already declining, and one that also raises the price of fish for people in south-east Asia and other poorer regions who depend on it directly for food.
 
 Switching to plant-based alternatives is not a straightforward fix either: it would require more land to grow the substitute crops, risking further deforestation. As Hayek put it, "you can't get away from impacts somewhere as long as you're eating animals. Farming animals requires more resources to raise and grow their bodies than you can get from eating them. That's a basic fact of biology."
-
-## Connected topics
-
-- [Food Carbon Footprint](Food%20Carbon%20FootPrint.md)
-- [About Food and Farming](About%20Food%20and%20Farming.md)
-- [Agriculture's Planetary Footprint](agriculture-planetary-footprint.md)
-- [Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate](../../solutions/nature-based-solutions/Why%20Eating%20Less%20Meat%20Is%20One%20of%20the%20Most%20Powerful%20Things%20You%20Can%20Do%20for%20the%20Climate.md)
-- [FACTS About Food Waste](../../circularity-waste/FACTS%20About%20Food%20Waste.md)
 
 ## Sources
 

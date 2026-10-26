@@ -51,12 +51,6 @@ Two barriers recur across all three cases. First, Irish law currently treats a c
 
 Behind Ireland's national forestry targets are individual decisions shaped by land law, subsidy history and land prices. Volunteers plant native woodland by hand, a working farm is trying to shift from pure commercial conifer to a more mixed permanent forest model, and a private estate has rewilded a third of its land despite early scepticism from neighbours. All three point to the same underlying constraints: forest status is legally hard to reverse, and land itself is expensive, which slows down reforestation regardless of how motivated individual landowners or volunteers are.
 
-## Connected Topics
-
-- [Ireland Land Use, Soil and Forestry](https://github.com/fmossiere-bot/climate-action-wiki/blob/main/wiki/ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md)
-- [Forests and Land: Our Most Important Carbon Sink](https://github.com/fmossiere-bot/climate-action-wiki/blob/main/wiki/biodiversity-land/Forests%20and%20Land%20-%20Our%20Most%20Important%20Carbon%20Sink.md)
-- [Ireland Emissions and Climate Plans](https://github.com/fmossiere-bot/climate-action-wiki/blob/main/wiki/ireland-hub/IRELAND%20%20Emissions%2C%20Climate%20Plans.md)
-
 ## Sources
 
 - ARTE Info — "Irlande : reboiser l'île d'émeraude" (video report),  August 2026

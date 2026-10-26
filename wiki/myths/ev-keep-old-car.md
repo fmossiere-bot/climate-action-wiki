@@ -49,10 +49,6 @@ Not scrap. It gets resold and used. The question is what you buy when the old on
 
 2026 research from Elliott Campbell (UC Santa Cruz) and Roland Geyer (UC Santa Barbara) modelled scrapping a petrol car at different points in its life — from 1-2 years old through to end-of-life — accounting for manufacturing emissions, grid mix, efficiency and mileage. Their conclusion: there is essentially no scenario, short of a coal-heavy grid or very low annual mileage, where it makes sense to keep driving a petrol car to the end of its life instead of switching. The researchers frame this as support for subsidised scrappage schemes, not a call for individuals to scrap brand-new cars on the spot. One caveat raised by other academics: scrapped petrol cars often re-enter the second-hand market, and the knock-on effects of that (e.g. cheaper second-hand petrol cars pulling people away from public transport) are not yet well studied.
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/

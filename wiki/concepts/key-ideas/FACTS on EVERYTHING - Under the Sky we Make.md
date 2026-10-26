@@ -5,6 +5,12 @@ tags: ["#key-ideas", "#eco-anxiety", "#fossil-fuels", "#agriculture", "#behaviou
 created: 2026-06-01
 updated: 2026-08-26
 summary: Under the Sky We Make, Kimberly Nicholas, carbon budget, planetary boundaries, biomass breakdown, extinction, deforestation, coral bleaching, Great Barrier Reef, grief, climate privilege, Paris Agreement pledges, per capita emissions, flying emissions, SUVs, electric vehicles, industrial agriculture, food subsidies, fossil fuel subsidies, divestment, Svante Arrhenius, Kevin Anderson, Stefan Gossling, 25 percent tipping point
+related:
+  - Keynote Dr Chip FLETCHER
+  - Decarbonising Aviation and Shipping
+  - Car Life Cycle Emissions - EV vs Combustion
+  - Clean Electricity - Why It Has to Come First
+  - IRELAND Water Usage and Water Management
 ---
 
 # Under the Sky We Make: Book Summary
@@ -118,15 +124,6 @@ On the economy: become a "growth agnostic", recognising that growth in wellbeing
 Governments globally spent almost **$500 billion in 2019** on subsidies making fossil fuels artificially cheaper to produce and consume. A 2020 analysis by the International Renewable Energy Agency found it is now often cheaper to build new solar and wind projects than to build new fossil energy capacity, or even to keep running existing coal plants; replacing the costliest quarter of global coal power with solar and wind could cut system costs by up to **$23 billion a year**.
 
 On political engagement, the book calls for voting for candidates with strong climate records who have taken the No Fossil Fuel Money Pledge, getting active in climate organisations and non-violent movements, demanding that corporate and government leaders deliver credible plans to reduce (not just offset) their pollution toward zero, supporting fair citizen involvement in climate decision-making, backing a just transition for workers in declining industries, supporting independent climate journalism, and supporting the growing wave of legal cases being brought, and won, on climate grounds.
-
-## Connected topics
-
-- [Keynote: Dr Chip Fletcher](../../climate-science/Keynote%20Dr%20Chip%20FLETCHER.md)
-- [Decarbonising Aviation and Shipping](../../solutions/electrification/Decarbonising%20Aviation%20and%20Shipping.md)
-- [Car Life Cycle Emissions: EV vs Combustion](../../sectors/transport/Car%20Life%20Cycle%20Emissions%20-%20EV%20vs%20Combustion.md)
-- [Clean Electricity - Why It Has to Come First](../../sectors/energy/Clean%20Electricity%20-%20Why%20It%20Has%20to%20Come%20First.md)
-- [IRELAND Water Usage and Water Management](../../ireland-hub/IRELAND%20Water%20Usage%20and%20Water%20Management.md)
-- [Climate Change Isn't Fair](Climate%20Change%20Isn%27t%20Fair.md)
 
 ## Sources
 

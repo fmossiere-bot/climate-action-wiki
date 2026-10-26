@@ -11,6 +11,10 @@ summary: EV air pollution, tailpipe emissions NOx PM2.5, brake wear regenerative
 claim_id: evs-still-pollute
 verdict: mostly-false
 topic: transport
+related:
+  - smaller-evs-better
+  - evs-just-as-bad-for-climate
+  - indirect-greenhouse-gases-newscientist-2026
 ---
 
 # Myth: electric cars pollute just as much as petrol cars
@@ -70,12 +74,6 @@ The right framing is "much cleaner than petrol on the biggest source, slightly w
 **Regenerative braking helps.** Because EVs recover energy through the motor when slowing down, they use their friction brakes far less than petrol cars. This dramatically reduces brake dust — one of the worst non-exhaust PM sources. Some new designs are exploring **brake drums** that capture particles at the source, easier to fit on EVs because their brakes run cooler.
 
 **The real fix is fewer cars.** Cutting exhaust emissions is a huge health win. But the biggest air-quality win is still reducing the number of car journeys — through public transport, cycling infrastructure and denser cities. That's the top of the ladder, regardless of what fuel the cars use.
-
-## Connected topics
-
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
-- [EVs just as bad for climate (myth)](evs-just-as-bad-for-climate.md)
-- [Forgotten pollutants (source)](../sources/indirect-greenhouse-gases-newscientist-2026.md)
 
 ## Sources
 

@@ -5,6 +5,10 @@ tags: ["#company-evaluations", "#fossil-fuels", "#greenwashing", "#esg"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Glencore, mining, metals, energy, agriculture, Green Digest impact score, MSCI ESG rating, Mount Isa Mines Australia, bribery corruption Cameroon Guinea Ivory Coast Nigeria South Sudan Brazil Venezuela DRC, water contamination 336000 people, 433 million tonnes CO2, coal-fired power plants equivalent, land rehabilitation, Sustainable Development Goals, double materiality, second largest mining company
+related:
+  - Greenwashing
+  - What is ESG?
+  - FACTS About Fossil Fuel (Oil and Gaz) Industry
 ---
 
 Source: Green Digest — https://www.greendigest.co/
@@ -44,12 +48,6 @@ Glencore's key social and environmental impact lies in its critical role in the 
 However, Glencore's operations come with substantial socio-economic and environmental costs. The company has faced serious allegations of corruption, unethical practices and human rights abuses, particularly in developing countries, resulting in billions of dollars in fines. Its mining activities have also had devastating effects on local communities, including contaminating water sources that have negatively affected the health of hundreds of thousands of people. Environmentally, Glencore is a major greenhouse gas emitter, releasing over 433 million tonnes of CO2 annually, generates vast amounts of waste with only a small fraction managed sustainably, and leaves a significant portion of its disturbed land unrestored.
 
 Its overall score of -2.59 reflects the severity of these factors, highlighting the considerable challenges Glencore faces in balancing its essential role in the global economy with the pressing need for ethical practices and environmental stewardship.
-
-## Connected topics
-
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
-- [FACTS About Fossil Fuel (Oil and Gaz) Industry](../../solutions/energy-transition/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
 
 ## Sources
 

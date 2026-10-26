@@ -5,6 +5,9 @@ tags: ["#digital", "#circularity", "#plastic", "#ai"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: pollution, air pollution, chemical pollution, land and soil pollution, plastic pollution, waste management, circular economy, Montreal Protocol, ozone layer, Rachel Carson, Silent Spring, Oxfam Climate Equality, IQAir, Circularity Gap Report, sustainable lifestyles, IoT sensors, remote sensing, GIS, freshwater ecosystems, ocean pollution, mismanaged waste
+related:
+  - Digital Transformation for Sustainable Development
+  - Digital Sustainability for Biodiversity Action
 ---
 
 # Digital Sustainability for Pollution Action
@@ -45,12 +48,6 @@ Beyond prevention, digital tools also help reduce pollution levels and clean up 
 - **Optimising waste management.** By 2025, the world's cities alone are projected to produce 2.2 billion tonnes of waste annually, more than three times the amount generated in 2009, with mining contributing significantly to the problem. Between 400,000 and 1 million people die in the Global South each year from diseases related to mismanaged waste. AI-powered inventory management systems can reduce food waste through improved tracking and smart logistics, while real-time data analytics can optimise waste collection routes, reducing fuel consumption and emissions, and smart sensors can monitor waste levels to prevent overflows and enable timely pickups.
 
 Digital transformation's own environmental costs, its energy and material use, e-waste, and its effect on the digital divide, are covered in more depth in [Digital Transformation for Sustainable Development](Digital%20Transformation%20for%20Sustainable%20Development.md), alongside its potential for pollution action described here.
-
-## Connected topics
-
-- [What Is Digital Sustainability?](What%20Is%20Digital%20Sustainability.md)
-- [Digital Transformation for Sustainable Development](Digital%20Transformation%20for%20Sustainable%20Development.md)
-- [Digital Sustainability for Biodiversity Action](Digital%20Sustainability%20for%20Biodiversity%20Action.md)
 
 ## Sources
 

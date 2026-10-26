@@ -5,6 +5,8 @@ tags: ["#ireland", "#biodiversity", "#nature", "#agriculture"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Ireland's 4th National Biodiversity Action Plan 2023-2030, National Parks and Wildlife Service, NPWS, Wildlife Amendment Act 2023, peatland restoration and rewetting, Marine Protected Areas, invasive species, Japanese knotweed, rhododendron, nature-friendly farming, pesticide reduction, native bee species, pollinator corridors, industrial estates rewilding, Maynooth University, farm ponds, pollinators
+related:
+  - Water - A Finite Resource We Cannot Afford to Ignore
 ---
 
 # Ireland Biodiversity Plan
@@ -40,10 +42,6 @@ Two 2026 articles illustrate how the plan's ambitions are playing out in practic
 **Industrial estates as bee habitat.** Over 30 of Ireland's 100 native bee species are now threatened with extinction, making action urgent. Industrial estates, which cover a large share of Ireland's developed land, have been largely absent from national biodiversity conversations, yet they could form a network of pollinator corridors across the country. Researchers at Maynooth University have produced a practical guide for industrial estates with three levels of action: quick wins such as bee hotels and no-mow patches, a mid-level "building up" phase, and more ambitious rewilding efforts designed to work in real-world conditions rather than ideal ones.
 
 **Farm ponds and pollinators.** A new four-year research project is examining an overlooked feature of Irish farmland, the humble pond, and its potential to support struggling pollinator species. The severity of pollinator decline has already led County Wicklow to establish Ireland's first dedicated Bee Sanctuary. The Ponds for Pollinators Project will assess how pond size, age and surrounding vegetation affect pollinator numbers and diversity on working farms, and will explore why some farmers choose to create ponds while others do not.
-
-## Connected topics
-
-- [Water: A Finite Resource We Cannot Afford to Ignore](../biodiversity-land/Water%20-%20A%20Finite%20Resource%20We%20Cannot%20Afford%20to%20Ignore.md)
 
 ## Sources
 

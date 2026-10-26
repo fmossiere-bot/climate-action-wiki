@@ -13,6 +13,11 @@ summary: heat pumps cold weather, COP coefficient of performance 2.7, Nordic cou
 claim_id: heat-pumps-dont-work-in-cold
 verdict: false
 topic: energy
+related:
+  - heat-pumps-too-expensive
+  - air-conditioning-luxury
+  - home-cooling-heatwaves
+  - not-enough-clean-energy
 ---
 
 # Myth: heat pumps don't work in cold climates
@@ -79,13 +84,6 @@ This is the real bottleneck. A poorly installed heat pump underperforms badly. I
 1. **Insulate homes over time** — it helps regardless of heating source
 2. **Train enough installers** — the UK needs a 5–10× increase in the next five years
 3. **Standard, reliable installation practices** — quality inconsistency is the main real complaint
-
-## Connected topics
-
-- [Heat pumps too expensive (myth)](heat-pumps-too-expensive.md)
-- [Air conditioning is a luxury (myth)](air-conditioning-luxury.md)
-- [Home cooling and heatwaves](../climate-adaptation/home-cooling-heatwaves.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 
 ## Sources
 

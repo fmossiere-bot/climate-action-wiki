@@ -5,6 +5,12 @@ tags: ["#agriculture", "#food", "#methane", "#nature-based-solutions"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: global food system emissions, food and farm worker exploitation, food inequality, farmer livelihoods, off-farm income, Sri Lanka organic farming ban, regenerative agriculture, soil health principles, soil carbon sequestration, 4 per mille initiative, cover cropping, biochar, crop rotation, carbon offsets for farmers, soil carbon measurement tools, chemical fertiliser emissions, nitrous oxide, vertical farming, precision fermentation, alternative proteins, food transport and refrigeration, dietary shift, seaweed farming, food waste, composting, agroecology, cultured meat, dairy farm transition
+related:
+  - Food Carbon FootPrint
+  - FACTS about Farming and Food production
+  - agriculture-planetary-footprint
+  - beef-and-climate-change
+  - lab-grown-meat
 ---
 
 # About Food and Farming: Challenges, Regenerative Agriculture and Decarbonisation Levers
@@ -78,16 +84,6 @@ Food waste occurs at every stage, from the farm to retail to the household, and 
 Diversification reduces a farm's exposure to any single point of failure, whether that is weather, pests or market price. More farmers are practising agroecology than is commonly assumed, though the total land area involved remains small next to large conventional farms. A recurring question for anyone considering land management is what the native ecosystem for that land actually was, was it forest before it became farmland, for instance, and what restoring some of that might mean. In the EU, the Climate Farm Academy helps farmers navigate this kind of transition. In the US, some dairy farms have shifted away from dairy infrastructure toward non-animal alternatives, a transition that often starts from a crop failure or other shock and then expands gradually through practices like cover cropping and no-till farming.
 
 Cultured (lab-grown) meat is one response to the scale of current meat production, in which roughly 95% of farmed animals are raised in factory farm conditions. The consensus among researchers working in this space is that cultured meat should not be seen as a single replacement for all meat production, but as one part of a more sustainable protein mix that coexists with other approaches; it also remains an energy-intensive production process in its own right. Vertical farming shows similar nuance: it makes sense for some crops, such as lettuce, but others, like carrots, still need to grow in open ground, and the economics of vertical farming remain a significant challenge to viability at scale. On the food waste side, start-ups including Too Good To Go, Mill and Bokashi Living are among those building businesses around reducing what gets thrown away.
-
-## Connected topics
-
-- [Food Carbon Footprint](Food%20Carbon%20FootPrint.md)
-- [FACTS about Farming and Food Production](FACTS%20about%20Farming%20and%20Food%20production.md)
-- [Agriculture's Planetary Footprint](agriculture-planetary-footprint.md)
-- [Beef and Climate Change: Six Questions, Answered Plainly](beef-and-climate-change.md)
-- [Lab-Grown Meat - Revolution or Distant Promise?](../../solutions/food/lab-grown-meat.md)
-- [FACTS About Food Waste](../../circularity-waste/FACTS%20About%20Food%20Waste.md)
-- [Electrify Everything - fertiliser section](../../solutions/electrification/Electrify%20Everything.md#fertilisers)
 
 ## Sources
 

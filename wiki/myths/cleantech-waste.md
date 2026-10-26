@@ -49,10 +49,6 @@ Argument is that producing those tech produce Carbon, which it does, but it is g
 - Electric vehicles, over their lifecycle, from manufacturing to disposal, produce about half the carbon emissions of the average internal combustion engine car, with the potential for a further 25 per cent reduction with low-carbon electricity. [(IEA)](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions/executive-summary)<!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - MIT Technology Review, GEM battery recycling — https://www.technologyreview.com/2023/10/04/1080126/2023-climate-tech-companies-gem-battery-recycling-factory-electronic-waste/

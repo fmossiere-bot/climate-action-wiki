@@ -5,6 +5,12 @@ tags: ["#key-ideas", "#degrowth", "#finance", "#research"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: degrowth, green growth, decoupling, Joan Martinez-Alier, Jason Hickel, Kate Raworth doughnut economics, Bill McKibben, William Nordhaus, Genevieve Guenther, planetary boundaries, Johan Rockstrom, Paul Crutzen, GDP, Simon Kuznets, Genuine Progress Indicator, material footprint, Jevons paradox, BECCS, Romania decoupling, George Monbiot, IPCC 1.5C target, post-growth public opinion
+related:
+  - Valuing People and the Planet
+  - Towards a Wellbeing economy - EEB report
+  - The Economics of Climate Change and Carbon Pricing
+  - Climate Change Isn't Fair
+  - guardian-extreme-weather-qa-watts-niranjan-2026
 ---
 
 # FACTS about Degrowth
@@ -113,14 +119,6 @@ Watts also criticised mainstream climate economics as "absurdly complacent". Nob
 Hickel's *Less Is More* defines degrowth as "a planned reduction of excess energy and resource use to bring the economy back into balance with the living world in a safe, just and equitable way." Crucially, this doesn't mean stopping production altogether: it means choosing which parts of the economy need to grow (clean energy, healthcare, essential services) and which don't (the SUV sector, private jets).
 
 Hickel argues capitalism, which has existed for around 500 years and is often (wrongly) conflated with open markets that predate it by far longer, is fundamentally structured around constant growth over time. It can accelerate the deployment of clean energy, he writes, but "it does nothing to reverse deforestation, overfishing, soil depletion and mass extinction." In 2019, **11,000 scientists from 150 countries** published an article calling on governments to shift from pursuing GDP growth and affluence toward sustaining ecosystems and improving wellbeing.
-
-## Connected topics
-
-- [Valuing People and the Planet](Valuing%20People%20and%20the%20Planet.md)
-- [Towards a Wellbeing economy - EEB report](Towards%20a%20Wellbeing%20economy%20-%20EEB%20report.md)
-- [The Economics of Climate Change and Carbon Pricing](The%20Economics%20of%20Climate%20Change%20and%20Carbon%20Pricing.md)
-- [Climate Change Isn't Fair](Climate%20Change%20Isn%27t%20Fair.md)
-- [Guardian extreme weather Q&A (source summary)](../../sources/guardian-extreme-weather-qa-watts-niranjan-2026.md)
 
 ## Sources
 

@@ -12,6 +12,11 @@ summary: EV range, 2010 average 80 miles, 2021 average 220 miles, US average 450
 claim_id: evs-only-good-for-short-trips
 verdict: false
 topic: transport
+related:
+  - evs-dont-work-in-cold
+  - not-enough-ev-chargers
+  - evs-will-break-the-grid
+  - smaller-evs-better
 ---
 
 # Myth: electric cars are only good for short trips
@@ -77,13 +82,6 @@ By about 2% a year, on average. Over 10 years that's 20% off the starting range.
 **Not everyone actually needs 500 miles of range.** There's a tendency to design EVs for the very edge case (long road trip) rather than the daily reality (short commute). This makes cars heavier, more expensive and more mineral-intensive than they need to be. The [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md) argument applies here: 250 miles of range is enough for almost everyone, and building beyond that has costs.
 
 **The record will keep moving.** Battery energy density has been improving by roughly 5-8% per year for a decade. Ranges will keep growing.
-
-## Connected topics
-
-- [EVs don't work in cold (myth)](evs-dont-work-in-cold.md)
-- [Not enough EV chargers (myth)](not-enough-ev-chargers.md)
-- [EVs will break the grid (myth)](evs-will-break-the-grid.md)
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
 
 ## Sources
 

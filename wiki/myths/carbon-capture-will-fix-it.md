@@ -12,6 +12,10 @@ summary: CCS, carbon capture and storage, Hannah Ritchie, 45 sites, 0.1% of glob
 claim_id: carbon-capture-will-fix-it
 verdict: mostly-false
 topic: energy
+related:
+  - The Energy Supercycle is Unstoppable
+  - fossil-fuel-banking
+  - Greenwashing
 ---
 
 # Myth: we can just keep burning fossil fuels and capture the CO2
@@ -71,13 +75,6 @@ There is a specific pattern to watch for. **CCS gets used as a reason to delay c
 Direct air capture (DAC) is a related but distinct technology — pulling CO2 out of ambient air rather than from a chimney. It is even more energy-intensive and expensive per tonne, and even further from scale. It has a similar role: keep researching, do not use it as an excuse.
 
 **Research is moving on the cost problem.** In April 2026 a team at **Chiba University** published a new class of solid carbon adsorbents ("viciazites") that release captured CO2 at temperatures below 60°C — well below the 100°C+ needed for conventional aqueous amine scrubbing. That means the material could potentially be regenerated with industrial waste heat instead of active heating, cutting operating costs. This is a lab result, not deployment, and it doesn't shift the verdict on this myth: even a cheaper CCS is still deployed at 45 sites capturing 0.1% of emissions. But it does support the narrower case for CCS in hard-to-abate sectors like cement and steel where alternatives are limited. See [viciazites source summary](../sources/viciazites-cheaper-ccs-chiba-2026.md).
-
-## Connected topics
-
-- [CO2 Capture](../solutions/carbon-removal/CO2 Capture.md)
-- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
-- [Fossil Fuel Banking](../climate-finance/fossil-fuel-banking.md)
-- [Greenwashing](../concepts/key-ideas/Greenwashing.md)
 
 ## Sources
 

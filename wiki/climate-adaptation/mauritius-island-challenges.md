@@ -6,6 +6,10 @@ sources: ["raw/articles/mauritius-an-island-facing-its-challenges.md", "Françoi
 created: 2026-10-26
 updated: 2026-10-26
 summary: Mauritius Indian Ocean small island state, François Sarano Longitude 181 sperm whales 40 individuals 25 remaining Red List IUCN, overtourism Flic en Flac Tamarin lagoon, Murali Krishna Appandi Savetheblu, 3.2 million tourists 2033 target 1.4 million current 1.2 million population, 20% GDP 13.5% jobs 37% exports 34% emissions, Sydney Pierre former tourism minister, World Bank 4% GDP drop by 2050, 11.3 billion dollars 9.8 billion euros infrastructure, 80% coral dead, sea level 4.5mm per year, 82% fossil fuels 17.6% renewables 60% target 2030, 42% electricity air conditioning, water shortage 60% runoff 10% groundwater, AFD French Development Agency 200 million euros, Mare Chicose landfill 95% waste 5% recycled sorting at source 2027, Oberoi Beach Resort zero plastic Be.eau bagasse bottles, Phoenix Beverages Group Mauritius Glass Gallery Polypet Recyclers PET
+related:
+  - record-hot-ocean-el-nino-2026
+  - artificial-reefs-coastal-protection
+  - Ocean Based Climate Solutions
 ---
 
 > **Editorial summary:** This page is Fabien's translation of Françoise Blind-Kempinski's feature in *Écologie 360* n°17 (September-October 2026) on Mauritius as a case study of small-island-state climate challenges. Preserved verbatim per the own-research rule, including the translator's gap-check notes and the author's byline. **The piece shows the compounding pressures on a small island state: overtourism (sperm-whale harassment at Flic en Flac is the vivid lead), climate adaptation (80% of coral already dead, €9.8bn of infrastructure needed over 25 years), the water-and-waste gap (95% of waste to one landfill at capacity), and the macroeconomic puzzle of a government aiming for 3.2 million tourists on an island of 1.2 million people.** Mauritian conservation voices (Murali Krishna Appandi / #Savetheblu) and former minister Sydney Pierre are the counterpoints.
@@ -83,10 +87,3 @@ Hotels, at the centre of many tensions linked to overtourism, are mostly owned b
 - The heading says "3.2 million tourists in 2033?", but the text says the World Bank sees 3.2 million arrivals "within four years". That is how the French reads, so it is worth checking against the World Bank source before using the figure.
 - Money is kept as the article gives it: 11.3 billion dollars (9.8 billion euros), and 200 million euros for the AFD loan.
 - The photo caption reads: "Wind farm in the tropical forest of Bras d'Eau National Park, on the island in the Indian Ocean."
-
-## Connected topics
-
-- [Record-hot ocean and the 2026 El Niño](../climate-science/record-hot-ocean-el-nino-2026.md) — the Solomon Islands and Tuvalu cases are parallel small-island-state climate stories
-- [Artificial Reefs for Coastal Protection](artificial-reefs-coastal-protection.md) — different approach to coastal adaptation
-- [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [Ocean Based Climate Solutions](../biodiversity-land/Ocean%20Based%20Climate%20Solutions.md)

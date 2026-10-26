@@ -5,6 +5,9 @@ tags: ["#ireland", "#transport", "#ev", "#fossil-fuels"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Ireland transport emissions, fossil fuel dependence, price shocks, Climate Change Advisory Council, CCAC, EV uptake, public transport, active travel, DART+ South West, Luas Finglas, Local Link, Transport for Ireland, TFI, car dependency, electrification, EV charging infrastructure, scrappage scheme, road emissions, rail electrification, EU comparison
+related:
+  - IRELAND - Climate Change in the Irish Mind
+  - IRELAND Wind Energy
 ---
 
 # Ireland Transport Emissions
@@ -42,11 +45,6 @@ The Climate Change Advisory Council (CCAC) 2026 Annual Review issued a stark war
 - The CCAC called for accelerated delivery of DART+ South West, Luas Finglas, and the NTA Park and Ride Investment Programme to add capacity.
 
 CCAC Chair Alex White put it bluntly: "Fossil fuel shocks are not one-off events. Giving alternatives is the way to reduce exposure. That means sustained investment in public transport, a charging network people can rely on, and the grid capacity needed to support the switch to electric across cars, buses and commercial fleets. This transition also has to be fair."
-
-## Connected topics
-
-- [Ireland - Climate Change in the Irish Mind](IRELAND%20-%20Climate%20Change%20in%20the%20Irish%20Mind.md)
-- [Ireland Wind Energy](IRELAND%20Wind%20Energy.md)
 
 ## Sources
 

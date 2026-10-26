@@ -12,6 +12,10 @@ sources:
 created: 2026-06-12
 updated: 2026-09-18
 summary: "wildfires, climate feedback, Europe fires 2025, Arctic fires, boreal forest, peat, ancient carbon, black carbon, soot, carbon emissions, Portugal, Spain, Scandinavia, Arctic heatwave, marine heatwave, Mediterranean, soil combustion, peatland, carbon sink, climate models underestimate, Greenland fires, Quebec boreal, Northwest Territories, fire regime, biomass burning, albedo, ice melt, European wildfire emissions record, UK heatwave 2026, red warning, Derbyshire wildfire, 35°C, temperate country, June 2026, Met Office, record heat, European heatwave 40°C, Germany, Poland"
+related:
+  - The importance of Wetlands
+  - amoc-collapse-carbon
+  - Local Impact and Extreme Events Attribution
 ---
 
 # Wildfires as a Climate Feedback
@@ -93,14 +97,6 @@ Longer term, the **FAO and UN** have raised since the early 2000s the idea of a 
 - Climate models assume only recent plant growth burns — this means they underestimate actual wildfire emissions.
 - Black carbon from wildfires accelerates ice and snow melt at high latitudes.
 - The ocean around Europe set a new annual sea surface temperature record for the fourth consecutive year; 86% of European seas suffered marine heatwaves.
-
-## Connected topics
-
-- [DRAFT - FACTS about Glacier](DRAFT%20-%20FACTS%20about%20Glacier.md)
-- [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
-- [AMOC Collapse and Carbon Release](amoc-collapse-carbon.md)
-- [Local Impact and Extreme Events Attribution](Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
 
 ## Sources
 

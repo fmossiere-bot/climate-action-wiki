@@ -5,6 +5,9 @@ tags: ["#key-ideas", "#carbon", "#science"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: carbon stock, carbon budget, 1.5 degree target, net-zero, bathtub metaphor, atmospheric CO2 concentration, ocean carbon sink, plant and tree carbon sink, carbon spiral, Ed Hawkins, Climate Adam
+related:
+  - Emissions and the Global Carbon Cycle
+  - Carbon Emission FACTS
 ---
 
 # Carbon Emissions and the Carbon Cycle
@@ -22,12 +25,6 @@ Not all of the extra carbon humans emit stays in the air. About a quarter of it 
 ## Further Tools
 
 [This interactive "climate spiral"](https://openclimatedata.net/climate-spirals/from-emissions-to-global-warming-line-chart/) visualises the link between the carbon budget, CO2 concentration and global mean temperature over time. For a video explanation of emissions, what happens when the world stops emitting, and how other greenhouse gases fit in, see [this video from Climate Adam](https://www.youtube.com/watch?v=Q3Gol-EK1uE&ab_channel=ClimateAdam).
-
-## Connected topics
-
-- [Emissions and the Global Carbon Cycle](../../climate-science/Emissions%20and%20the%20Global%20Carbon%20Cycle.md)
-- [Carbon Emission FACTS](Carbon%20Emission%20FACTS.md)
-- [Global Emissions in 2022](Global%20Emissions%20in%202022.md)
 
 ## Sources
 

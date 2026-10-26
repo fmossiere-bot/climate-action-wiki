@@ -5,6 +5,9 @@ tags: ["#key-ideas", "#carbon", "#agriculture", "#transport", "#aviation", "#oce
 created: 2026-06-01
 updated: 2026-08-26
 summary: agriculture emissions, livestock emissions, methane, beef production, meat consumption, food technology, fish meal, food mileage, vegetable box deliveries, EU transport emissions, private car use, flying emissions, aviation, ocean carbon storage, whales, carbon sinks
+related:
+  - Food Carbon FootPrint
+  - Carbon Emissions and the Carbon Cycle
 ---
 
 # Carbon Emission Facts: Agriculture, Transport and Ocean Carbon
@@ -30,12 +33,6 @@ Within the European Union, transport contributes 27% of overall carbon dioxide e
 ## Did You Know?
 
 Most of the carbon stored by the natural world sits in the depths of the ocean. Where a tree can absorb around 20kg of CO2 a year, a whale can store an average of 33 tonnes over its lifetime, underlining how much marine ecosystems, not just forests, matter for the carbon cycle.
-
-## Connected topics
-
-- [Food Carbon Footprint](../../sectors/agriculture-food/Food%20Carbon%20FootPrint.md)
-- [Global Emissions in 2022](Global%20Emissions%20in%202022.md)
-- [Carbon Emissions and the Carbon Cycle](Carbon%20Emissions%20and%20the%20Carbon%20Cycle.md)
 
 ## Sources
 

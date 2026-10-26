@@ -9,6 +9,10 @@ tags:
 created: 2025-06-01
 updated: 2026-06-01
 summary: About Whales, About Coral Reef, Phytoplankton - an essential part of the food chain, Mangroves, Incredible Adaptations, Vital Ecosystem Services, Oceanic Island and Seamounts, Southern Ocean, Krills, 2030 goal - protect 30% of the ocean, Blue whales, win for both nature and local communities, piangua, sustainable income, ecologically and economically viable, Saltwater Specialists, 'Breathing' Roots, Sturdy Support Systems, Unique Reproduction, Coastal Protection, Biodiversity Hotspots, Natural Water Filters, Carbon Sinks, Importance for Biodiversity, High Endemism, endemic, Apex Predator Dominance, apex predators, Critical Habitat, Coral Reefs, How it is Protected, Marine National Monument, Co-Management, No-Take Policy, National Marine Sanctuary, Cultural Heritage, Scientific Reference Site, Global Conservation Model, How many seamounts are there, over 100,000, Why are they important, Habitat for Deep-Sea Life, Nutrient Upwelling, 'Oases in the Desert', Can they be protected, Marine Protected Areas (MPAs), International Efforts, New Treaties
+related:
+  - Ocean Based Climate Solutions
+  - mangrove-forests-recovery
+  - amoc-collapse-carbon
 ---
 
 
@@ -262,14 +266,6 @@ The UN's third World Ocean Assessment, published on World Oceans Day 2026 and dr
 
 More than a third of the world's population lives within 100km of coastlines. Eleven per cent live on land less than 10 metres above sea level — directly exposed to rising seas.
 
-
-
-## Connected topics
-
-- [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)
-- [Mangrove Forests Recovery](mangrove-forests-recovery.md)
-- [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md)
-- 
 # SOURCE
 - Ocean - a book by David Attenborough
 - [The Guardian](../sources/un-world-ocean-assessment-2026.md)
@@ -280,4 +276,3 @@ More than a third of the world's population lives within 100km of coastlines. El
 - Marine protected area coverage (8% designated, 2.8% effective) and 30x30 target: [Earth.org](https://earth.org/what-was-achieved-at-the-un-ocean-conference-in-france/)
 - France sustainable fishing figures: [Ifremer 2022 review](https://www.ifremer.fr/en/news/2022-review-half-volumes-fish-caught-come-sustainably-fished-stocks)
 - China's fishing fleet (44% of visible activity): [Oceana](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
-

@@ -14,6 +14,10 @@ summary: it's too late, doomism, RCP8.5, 5 degrees, 6 degrees, Mark Lynas Six De
 claim_id: its-too-late
 verdict: mostly-false
 topic: systemic
+related:
+  - The Energy Supercycle is Unstoppable
+  - Emission Gap Report 2024 - UNEP
+  - live-good-life-planetary-boundaries
 ---
 
 # Myth: it's too late, we're heading for 5 or 6 degrees, so nothing matters
@@ -77,13 +81,6 @@ The UN Emissions Gap Report 2026 does say 1.5°C can only now be reached via "ov
 **The individual angle, without the guilt spiral.** For personal action, the big-ticket items are transport (drive less, EV over petrol), flying (often the single biggest slice of a personal footprint), and home energy (insulation, electric heat pump instead of a gas boiler). Diet matters, especially cutting beef and lamb. Solar panels are worth it if you can afford them and own your roof. Switching to a renewable energy supplier helps signal demand. What she explicitly warns against is spending emotional energy on the small stuff (plastic bags, standby mode, recycling) because it triggers **moral licensing**: feeling like you have "done your bit" by handling a low-impact thing, and using it as a pass on the high-impact things. Her example: someone feels virtuous about bringing a reusable bag, then fills it with beef and dairy.
 
 **Positive tipping points, not just bad ones.** Tim Lenton (*Positive Tipping Points*, 2024) sets out the same idea in a stronger form. Bad tipping points in climate (AMOC, Greenland, Amazon, permafrost) are our biggest risk. But the same mechanics of reinforcing feedback also produce fast good change: Norway went from 0.25% to 84% EV sales in 14 years, UK coal fell from 40% to 2% of electricity in 7 years, wind and solar double worldwide every 3 years. His colleague Simon Sharpe argues we need to move "Five Times Faster" (7% emissions cuts per year) to stay below 2°C, and ten times faster to keep 1.5°C alive. **The framing shift matters: it's not "how much damage can we avoid" but "which good tipping points can we trigger fastest".** See [Climate Tipping Points](../climate-science/climate-tipping-points.md).
-
-## Connected topics
-
-- [Global Progress on Climate Action](../concepts/key-ideas/Global%20Progress%20on%20Climate%20Action.md)
-- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
-- [Emission Gap Report 2024 - UNEP](../concepts/key-ideas/Emission Gap Report 2024 - UNEP.md)
-- [Can Everyone Live a Good Life Within Planetary Limits?](../concepts/key-ideas/live-good-life-planetary-boundaries.md)
 
 ## Sources
 

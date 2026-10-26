@@ -5,6 +5,12 @@ tags: ["#aviation", "#shipping", "#alternative-fuels", "#transport"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: aviation emissions, shipping emissions, IEA, battery electric ships, China electric container ship, wind-powered cargo ships, green hydrogen, electrolysis, hydrogen fuel cells, hydrogen electric plane, sustainable aviation fuel, SAF, drop-in fuel, Climate Action 100+, decarbonisation pathways
+related:
+  - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
+  - Powering Ships with a kite
+  - Sustainable FLighs with Hydrogen
+  - Decarbonising Trucking and Rail Freight
+  - Efficient Aviation
 ---
 
 # Decarbonising Aviation and Shipping
@@ -30,14 +36,6 @@ Green hydrogen is another major piece of the puzzle for both sectors. In simple 
 ## Sustainable aviation fuel
 
 In the meantime, many airlines are turning to SAF, or sustainable aviation fuel, a "drop-in" replacement that can be made from corn stalks or municipal solid waste, but which most often derives from used cooking oil. Climate Action 100+ has reported that a massive, rapid scale-up of SAF production is crucial to keeping global warming below 1.5°C above pre-industrial levels. For a fuller treatment of SAF's promise and its real limitations, see [Sustainable Aviation Fuel: A Necessary but Complicated Solution](Sustainable%20Aviation%20Fuel%20-%20%20A%20Necessary%20but%20Complicated%20Solution.md).
-
-## Connected topics
-
-- [Sustainable Aviation Fuel: A Necessary but Complicated Solution](Sustainable%20Aviation%20Fuel%20-%20%20A%20Necessary%20but%20Complicated%20Solution.md)
-- [Powering Ships with a Kite](../renewables/Powering%20Ships%20with%20a%20kite.md)
-- [Sustainable Flights with Hydrogen](../renewables/Sustainable%20FLighs%20with%20Hydrogen.md)
-- [Decarbonising Trucking and Rail Freight](Decarbonising%20Trucking%20and%20Rail%20Freight.md)
-- [Efficient Aviation](Efficient%20Aviation.md)
 
 ## Sources
 

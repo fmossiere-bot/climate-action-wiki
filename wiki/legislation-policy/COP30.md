@@ -5,6 +5,10 @@ tags: ["#cop30", "#diplomacy", "#finance", "#adaptation", "#fossil-fuels", "#pha
 created: 2026-06-01
 updated: 2026-08-26
 summary: COP30, Belem, Brazil, Paris Agreement 10th anniversary, NDCs, nationally determined contributions, climate finance, New Collective Quantified Goal, NCQG, Baku to Belem Roadmap, adaptation finance, Tropical Forests Forever Facility, TFFF, just transition mechanism, fossil fuel phase-out roadmap, UAE consensus, deforestation, Amazon, Santa Marta conference, Transition Away From Fossil Fuels, TAFF, COP31 Turkey, South Korea coal phase-out, Powering Past Coal Alliance, Indigenous Peoples land rights, Sustainable Ocean Plans, Ireland
+related:
+  - santa-marta-fossil-fuel-conference-2026
+  - dw-oil-nations-taff-2026
+  - Paris Agreement - NDC - where are we 10 years later?
 ---
 
 # COP30
@@ -68,12 +72,6 @@ At COP30, South Korea announced it was joining the Powering Past Coal Alliance, 
 - The final COP30 text contained no direct mention of fossil fuels; a coalition of around 90 countries is pursuing a phase-out roadmap outside the UN process instead.
 - Brazil launched the Tropical Forests Forever Facility with a $125 billion target, aiming to raise $10 billion initially from governments and philanthropies.
 - South Korea joined the Powering Past Coal Alliance, pledging to close all coal plants by 2040.
-
-## Connected topics
-
-- [Santa Marta fossil fuel conference (2026)](../solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md)
-- [DW: oil nations and TAFF (2026)](../sources/dw-oil-nations-taff-2026.md)
-- [Paris Agreement - NDC - where are we 10 years later?](Paris%20Agreement%20-%20NDC%20-%20where%20are%20we%2010%20years%20later%3F.md)
 
 ## Sources
 

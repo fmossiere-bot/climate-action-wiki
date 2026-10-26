@@ -7,6 +7,10 @@ created: 2026-08-18
 updated: 2026-08-26
 cover_image: "https://images.unsplash.com/photo-1626251376234-8bc112f0bcd5?fm=jpg&q=80&w=1600&fit=crop"
 summary: "solar farms, pollinators, bees, hoverflies, butterflies, shading, agrivoltaics, France, southern France, Biological Conservation, Arnaud Lec'hvien, grazing vs mowing, wildflower meadows, pollinator-friendly solar, Minnesota, Illinois, Maryland, bumble bees, Conservation Letters, solar park land management, inter-row"
+related:
+  - solar-on-peatland
+  - FACTS about Solar Energy
+  - The importance of Wetlands
 ---
 
 # Solar Farms and Pollinators: Why Panel Shade Isn't the Whole Story
@@ -43,12 +47,6 @@ A broader review in *Conservation Letters* reaches a similar conclusion: solar d
 - Solar sites with full wildflower meadows hosted **~2x more bumble bees** than sites with only narrow wildflower strips (*Environmental Research Letters*)
 - Minnesota, Illinois and Maryland run voluntary pollinator-friendly solar standards
 - *Conservation Letters* review: design and mitigation can minimise most impacts; comparative solar-biodiversity data is still sparse
-
-## Connected topics
-
-- [Solar Farms on Peatland: A Triple Win, If Done Right](solar-on-peatland.md)
-- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
-- [The Importance of Wetlands](The%20importance%20of%20Wetlands.md)
 
 ## Sources
 

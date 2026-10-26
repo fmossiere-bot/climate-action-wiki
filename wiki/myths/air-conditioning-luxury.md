@@ -12,6 +12,12 @@ summary: air conditioning demand, 2 billion AC units today 6 billion 2050, 3-4% 
 claim_id: air-conditioning-luxury
 verdict: false
 topic: energy
+related:
+  - heat-pumps-dont-work-in-cold
+  - home-cooling-heatwaves
+  - poor-countries-need-fossil-fuels
+  - record-hot-ocean-el-nino-2026
+  - heatwaves-and-sport
 ---
 
 # Myth: air conditioning is a luxury the climate can't afford
@@ -80,14 +86,6 @@ Rich people already have it. The people who most urgently need it — for basic 
 **The efficient-unit gap.** The typical Indian AC market example: a 3-star efficiency unit costs ~$350; a 5-star costs ~$100 more. A **20-35% price jump** most low-income households can't pay. Efficiency labels help, but the underlying problem is affordability of the efficient models. Subsidies, financing schemes and bulk procurement (like the EU's proposed CPO cooling equivalent) can close this gap.
 
 **Solar aligns with cooling almost perfectly.** The hottest hours of the day are also the sunniest. Solar generation lines up with cooling demand better than with almost any other use. A grid that pairs efficient AC with distributed solar — either rooftop or utility-scale — can meet a large share of cooling load with new emissions close to zero.
-
-## Connected topics
-
-- [Heat pumps don't work in cold (myth)](heat-pumps-dont-work-in-cold.md)
-- [Home cooling and heatwaves](../climate-adaptation/home-cooling-heatwaves.md)
-- [Poor countries need fossil fuels (myth)](poor-countries-need-fossil-fuels.md)
-- [Record-hot ocean and 2026 El Niño](../climate-science/record-hot-ocean-el-nino-2026.md)
-- [Heatwaves and Sport](../sectors/heatwaves-and-sport.md)
 
 ## Sources
 

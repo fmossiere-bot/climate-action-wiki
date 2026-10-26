@@ -5,6 +5,9 @@ tags: ["#cop30", "#diplomacy", "#adaptation", "#ireland"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Nationally Determined Contributions, NDCs, Paris Agreement 10th anniversary, COP30, emissions gap, global mutirao, AOSIS, Like-Minded Developing Countries, LMDCs, China NDC, India NDC, United States withdrawal, agriculture and food systems, blue NDC challenge, ocean climate action, Paris Performance Ranking, University of Liege, Degroof Petercam, Austria, Germany, Ireland adaptation ranking, 1.5C target
+related:
+  - COP30
+  - Emission Gap Report 2024 - UNEP
 ---
 
 # Paris Agreement - NDC - Where Are We 10 Years Later?
@@ -55,11 +58,6 @@ NDCs are the climate action plans that countries develop under the Paris Agreeme
 - AOSIS pushed for a dedicated COP agenda item on NDC ambition; the LMDC bloc (China, India, Saudi Arabia) and the African group blocked annual review mechanisms.
 - 93% of new NDCs address agriculture or food systems; over 90% of coastal and island countries' NDCs include ocean-based actions.
 - In a 23-country Paris Agreement performance ranking by the University of Liège and Degroof Petercam, Austria ranks first, Germany second, and Ireland 16th, with particularly weak adaptation performance.
-
-## Connected topics
-
-- [COP30](COP30.md)
-- [Emission Gap Report 2024 - UNEP](../concepts/key-ideas/Emission%20Gap%20Report%202024%20-%20UNEP.md)
 
 ## Sources
 

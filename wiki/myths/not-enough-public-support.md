@@ -13,6 +13,11 @@ summary: public support climate action, pluralistic ignorance, 86% humans causin
 claim_id: not-enough-public-support
 verdict: false
 topic: systemic
+related:
+  - Talking about Climate Change ACTION GUIDE
+  - Climate Communications
+  - live-good-life-planetary-boundaries
+  - its-too-late
 ---
 
 # Myth: there isn't enough public support to tackle climate change
@@ -76,13 +81,6 @@ Less than you think. **74% of Americans support the US joining international cli
 - Lead by visible action yourself — climate behaviour is locally contagious
 
 **Why this matters strategically.** If most people already agree on the goal, the political fight is not about persuasion — it is about **making the majority visible**. That reframes what climate campaigning has to do: less "convincing sceptics", more "helping supporters realise they are not alone".
-
-## Connected topics
-
-- [Talking about Climate Change ACTION GUIDE](../concepts/behavior-change/Talking about Climate Change ACTION GUIDE.md)
-- [Climate Communications](../concepts/key-ideas/Climate Communications.md)
-- [Can Everyone Live a Good Life Within Planetary Limits?](../concepts/key-ideas/live-good-life-planetary-boundaries.md)
-- [It's too late (myth)](its-too-late.md)
 
 ## Sources
 

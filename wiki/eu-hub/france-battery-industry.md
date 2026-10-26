@@ -6,6 +6,12 @@ sources: ["raw/articles/the-race-for-a-battery-made-in-france.md", "Nathalie May
 created: 2026-10-26
 updated: 2026-10-26
 summary: France battery gigafactory Hauts-de-France Battery Valley, ACC Stellantis TotalEnergies Mercedes Peugeot Citroën, Verkor Renault Schneider Arkema Dunkirk 2025, AESC Envision Douai 2025, ProLogium Taiwan solid-state Dunkirk 2029, Sébastien Patoux CEA, lithium nickel cobalt graphite raw materials, Tokai Cobex, Orano XTC New Energy, École de la batterie 10000-20000 trained 2030, CATL 30000 R&D engineers, less than 1000 French battery R&D, slowdown EV sales 2023 2024, six to seven projects left of fifty
+related:
+  - france-urban-transport
+  - vineyards-adapting-fast
+  - The rise of the batteries
+  - sodium-ion-batteries
+  - philibert-ev-ifri-interview-2026
 ---
 
 > **Editorial summary:** Fabien's translation of Nathalie Mayer's article on France's battery industry (2026). Preserved verbatim per the own-research rule. **The piece covers the state of play of Battery Valley in Hauts-de-France: four gigafactories now operating or being built — ACC (Stellantis / TotalEnergies / Mercedes), Verkor (Renault / Schneider / Arkema), AESC (Chinese Envision), and ProLogium (Taiwanese, solid-state). The challenge is ramping up production, dealing with the China gap, and training enough skilled workers.** Key framing from Sébastien Patoux (CEA): the real gap with China is industrial culture — Europeans build small, then plan the next scale-up; the Chinese build at scale from the start. Of the ~50 gigafactory projects announced a few years ago, only 6-7 remain, but "more solid". The École de la batterie aims to train 10,000-20,000 people by 2030 — a tough target against CATL's single-firm total of ~30,000 R&D engineers.
@@ -39,13 +45,3 @@ Faced with China's strength, some companies are choosing to work with them inste
 ## Box: A training challenge
 
 Some numbers hurt. In France, fewer than 1,000 people work on developing batteries, while the Chinese leader CATL alone employs nearly 30,000 engineers in research and development. So the French sector has to catch up. To close the gap, the École de la batterie (Battery School), a national network of companies and schools set up in 2022, and several training programmes aim to train between 10,000 and 20,000 people by 2030. The jobs needed cover the whole chain of value: engineers in electrochemistry, materials specialists, automation technicians, production technicians, maintenance experts, quality control staff, and also battery recycling staff.
-
-## Connected topics
-
-- [France urban transport](france-urban-transport.md)
-- [France vineyards adapting fast](vineyards-adapting-fast.md)
-- [The rise of the batteries](../solutions/electrification/The%20rise%20of%20the%20batteries.md)
-- [Sodium-ion batteries](../solutions/electrification/sodium-ion-batteries.md)
-- [Cédric Philibert interview (IFRI)](../sources/philibert-ev-ifri-interview-2026.md)
-- [For Electric Vehicles, Smaller Is Better](../sources/wri-smaller-evs-2025.md)
-- [Clean energy and minerals (myth)](../myths/renewables-more-mining.md)

@@ -12,6 +12,12 @@ summary: nuclear cost, US 1960s $1000 per kW, Vogtle $6000 per kW, South Korea Â
 claim_id: nuclear-too-expensive
 verdict: mostly-false
 topic: energy
+related:
+  - nuclear-takes-too-long-to-build
+  - nuclear-too-dangerous
+  - nuclear-waste-unsolved
+  - renewables-too-expensive
+  - intermittency-storage-problem
 ---
 
 # Myth: nuclear power is too expensive
@@ -82,14 +88,6 @@ Currently, yes. But that's a consequence of decades of not building. South Korea
 **One-off exception, one-off cost.** The West is essentially treating every new nuclear plant as a first-of-a-kind project. First-of-a-kind is always expensive in any industry. The way to get to cheap nuclear is to make sure the fifth, tenth, twentieth plant of a given design is being built.
 
 **The finance side.** Nuclear has high upfront capital and long payback. Modern financial markets are structured for shorter payback windows, which biases against nuclear as an investment. **Regulated Asset Base (RAB)** models and government-backed loans are the standard fix. The UK has adopted RAB for Sizewell C.
-
-## Connected topics
-
-- [Nuclear takes too long to build (myth)](nuclear-takes-too-long-to-build.md)
-- [Nuclear too dangerous (myth)](nuclear-too-dangerous.md)
-- [Nuclear waste unsolved (myth)](nuclear-waste-unsolved.md)
-- [Renewables too expensive (myth)](renewables-too-expensive.md)
-- [Intermittency / storage (myth)](intermittency-storage-problem.md)
 
 ## Sources
 

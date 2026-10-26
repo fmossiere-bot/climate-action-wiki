@@ -11,6 +11,12 @@ summary: mineral dependency, China rare earths 80% refining, DRC cobalt 70%, Sou
 claim_id: mineral-dependency-same-as-oil
 verdict: mostly-false
 topic: materials
+related:
+  - running-out-of-minerals
+  - renewables-more-mining
+  - clean-energy-child-labour
+  - clean-energy-uses-too-much-water
+  - poor-countries-need-fossil-fuels
 ---
 
 # Myth: we'll just swap fossil fuel dependency for mineral dependency
@@ -92,16 +98,6 @@ Yes. That's why the diversification push matters. **US, Australia, Norway, Swede
 **AI-driven mineral discovery.** Startups like **KoBold Metals** and **HyperSpectral** use satellite imaging, geochemistry and machine learning to identify deposits humans might have missed. This has already led to significant new mineral finds and is expected to accelerate. Caveat: AI itself uses a lot of energy, so its own footprint has to be part of the calculation.
 
 **Refining, not mining, is the real chokehold.** Even when countries diversify mining, refining is often still done in China (~80% of rare earths, most cobalt). Refining capacity outside China is what's actually short. Building non-Chinese refining is politically and environmentally complicated (it's dirty, energy-intensive work) but it's happening — new plants are being built in Malaysia, Australia, France and the US.
-
-## Connected topics
-
-- [Running out of minerals (myth)](running-out-of-minerals.md)
-- [Renewables and more mining (myth)](renewables-more-mining.md)
-- [Clean energy child labour (myth)](clean-energy-child-labour.md)
-- [Clean energy uses too much water (myth)](clean-energy-uses-too-much-water.md)
-- [Poor countries need fossil fuels (myth)](poor-countries-need-fossil-fuels.md)
-- [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md)
-- [Fossil Fuel Banking](../climate-finance/fossil-fuel-banking.md)
 
 ## Sources
 

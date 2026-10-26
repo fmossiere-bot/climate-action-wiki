@@ -11,6 +11,10 @@ sources:
 created: 2026-06-12
 updated: 2026-08-03
 summary: fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of America, MUFG, Barclays, Citigroup, net zero banking alliance, fossil fuel financing, $906 billion, dirty dozen, Paris Agreement, oil and gas lending, coal financing, Net-Zero Banking Alliance, voluntary commitments, financial regulation, Venture Global, Enbridge, climate chaos, stranded assets, fossil fuel subsidies
+related:
+  - Greenwashing lawsuits on the rise
+  - santa-marta-fossil-fuel-conference-2026
+  - ariana-mine-santander
 ---
 
 # Fossil Fuel Banking
@@ -68,13 +72,6 @@ Many banks had previously announced net zero lending targets and joined voluntar
 - Net-Zero Banking Alliance disbanded 2025 after mass departures.
 - **May 2026:** €2.2bn RCF to Czech coal-and-gas group EPH from all four French majors, plus ING, Lloyds, CaixaBank — labelled a "green loan" under LMA principles.
 - **Aug 2026:** Swiss NCP finds UBS failed on 2 of 3 human-rights recommendations; a parallel accountability failure to the climate case.
-
-## Connected topics
-
-- [Finance and Climate Change — Risk](wiki/climate-finance/#%20Climate%20Change%20and%20Financial%20Risk%20-%20What%20Is%20at%20Stake.md)
-- [Greenwashing Lawsuits on the Rise](../concepts/key-ideas/Greenwashing%20lawsuits%20on%20the%20rise.md)
-- [Fossil Fuel Phaseout — Santa Marta Conference 2026](santa-marta-fossil-fuel-conference-2026.md)
-- [Ariana Mine and Santander](ariana-mine-santander.md) — a non-fossil case of the same pattern: European bank finance enabling a project judged an "imminent threat" to drinking water for 10 million people
 
 ## Sources
 

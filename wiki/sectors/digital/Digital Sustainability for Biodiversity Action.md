@@ -5,6 +5,11 @@ tags: ["#digital", "#biodiversity", "#nature", "#ocean", "#forest", "#agricultur
 created: 2026-06-01
 updated: 2026-08-26
 summary: biodiversity, ecosystems, Kunming-Montreal Global Biodiversity Framework, GBF, 30x30, Biodiversity Intactness Index, deforestation, mining-related deforestation, marine heatwaves, Digital Twin of the Ocean, precision agriculture, urbanisation, IUCN Red List, ecosystem restoration, Earth Overshoot Day, overfishing, food waste, UN Biodiversity Lab, WWF Living Planet Report, remote sensing, AI-driven conservation
+related:
+  - Digital Sustainability for Climate Action
+  - Digital Sustainability for Pollution Action
+  - FACTS on EVERYTHING - Under the Sky we Make
+  - Ocean Based Climate Solutions
 ---
 
 # Digital Sustainability for Biodiversity Action
@@ -66,14 +71,6 @@ Sustainable use involves the responsible, balanced use of natural resources to m
 **Food systems.** The world is severely off track in its efforts to halve per capita food waste and losses by 2030, a problem driven significantly by inefficient supply chain and distribution systems that cause considerable food loss at every stage, from production to consumption. AI-driven analytics help minimise food waste through efficient supply chain management and inventory tracking, while digital tools optimise water usage, reduce chemical inputs and enhance overall agricultural sustainability. TCS Research's digital twin technology platform, for example, helps tackle food waste by estimating the freshness of fruits and vegetables in real time.
 
 **Cities and infrastructure.** Cities, with their rapid urbanisation and expanding populations, are drivers of unsustainable resource use. The rising demand for energy, water and raw materials to support infrastructure, housing and transportation places immense stress on ecosystems.
-
-## Connected topics
-
-- [What Is Digital Sustainability?](What%20Is%20Digital%20Sustainability.md)
-- [Digital Sustainability for Climate Action](Digital%20Sustainability%20for%20Climate%20Action.md)
-- [Digital Sustainability for Pollution Action](Digital%20Sustainability%20for%20Pollution%20Action.md)
-- [FACTS on EVERYTHING - Under the Sky we Make](../../concepts/key-ideas/FACTS%20on%20EVERYTHING%20-%20Under%20the%20Sky%20we%20Make.md)
-- [Ocean Based Climate Solutions](../../biodiversity-land/Ocean%20Based%20Climate%20Solutions.md)
 
 ## Sources
 

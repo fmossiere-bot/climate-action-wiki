@@ -5,6 +5,9 @@ tags: ["#aviation", "#alternative-fuels", "#carbon"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: hydrogen aviation, ZeroAvia, green hydrogen, hydrogen storage logistics, APUS aircraft, Germany, zero-emission flight, hydrogen fuel cells, sustainable aviation fuel, small aircraft, cargo planes
+related:
+  - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
+  - FACTS about Clean & GREEN Hydrogen
 ---
 
 # Sustainable Flights with Hydrogen
@@ -26,11 +29,6 @@ Coverage of ZeroAvia's progress has carried headlines promising carbon-free flig
 A separate development comes from Germany, where the **APUS** aircraft has been presented as the first plane with genuinely zero emissions, no CO2 and no NOx (source: *Ecologie360*, Winter 2024-2025). It can cruise at 300km/h and fly as far as 900km, performance that compares well to similar existing four-seater aircraft.
 
 APUS is able to carry **25% more hydrogen** than earlier designs, thanks to careful integration of the storage system into the aircraft's design and a higher compression rate. Hydrogen takes up considerably more space than conventional jet fuel for the same amount of energy, so this kind of packaging improvement is central to making hydrogen aviation practical.
-
-## Connected topics
-
-- [Sustainable Aviation Fuel: A Necessary but Complicated Solution](../electrification/Sustainable%20Aviation%20Fuel%20-%20%20A%20Necessary%20but%20Complicated%20Solution.md)
-- [FACTS about Clean & GREEN Hydrogen](FACTS%20about%20Clean%20%26%20GREEN%20Hydrogen.md)
 
 ## Sources
 

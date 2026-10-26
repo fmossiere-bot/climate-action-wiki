@@ -12,6 +12,11 @@ summary: EV cost, running costs, 100 miles £6 vs £12-£18 petrol, £1000 annua
 claim_id: evs-too-expensive
 verdict: mostly-false
 topic: transport
+related:
+  - smaller-evs-better
+  - EV Progress
+  - not-enough-ev-chargers
+  - evs-just-as-bad-for-climate
 ---
 
 # Myth: electric cars are too expensive for the average driver
@@ -74,13 +79,6 @@ Yes, and this is a policy choice that hurts consumers. Some governments have put
 **Home vs. public charging inequality.** The single biggest split in EV economics right now is whether you can charge at home. UK data: ~70% of homes have off-street parking where they *could* charge, but only 30% of EV drivers living in cities have that option. Fixing public and workplace charging affordability is the most important cost-of-ownership question for the next five years.
 
 **Energy tax fairness.** Petrol is often taxed lower than electricity for driving, because petrol tax structures were built decades ago and haven't kept up. That distorts the comparison — a fairer energy tax would make the switch more worthwhile still.
-
-## Connected topics
-
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
-- [EV Progress](../solutions/electrification/EV Progress.md)
-- [Not enough EV chargers (myth)](not-enough-ev-chargers.md)
-- [EVs just as bad for climate (myth)](evs-just-as-bad-for-climate.md)
 
 ## Sources
 

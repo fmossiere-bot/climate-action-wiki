@@ -5,6 +5,9 @@ tags: ["#key-ideas", "#behaviour", "#esg"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: François Gemenne, IPCC AR6, Sciences Po, HEC, University of Liège, 2050 climate target, bottom-up climate action, corporate sustainability, community-led action, Ecologie360, climate governance, government inaction
+related:
+  - Greenwashing
+  - What is ESG?
 ---
 
 # Companies and Communities Are Driving Sustainability, Not Governments
@@ -18,12 +21,6 @@ Government climate policy tends to move slowly, shaped by electoral cycles and c
 ## Go deeper
 
 The original source material for this page was a set of screenshots of the printed interview, which are not available in a form that can be reproduced here. Readers who want the full detail of Gemenne's argument should consult the original winter 2024 issue of *Ecologie360*.
-
-## Connected topics
-
-- [Greenwashing](Greenwashing.md)
-- [What is ESG?](What%20is%20ESG%3F.md)
-- [Global Progress on Climate Action](Global%20Progress%20on%20Climate%20Action.md)
 
 ## Sources
 

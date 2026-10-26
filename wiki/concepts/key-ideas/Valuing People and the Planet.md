@@ -5,6 +5,8 @@ tags: ["#key-ideas", "#nature-based-solutions", "#forest", "#finance"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Sarvodaya Shramadana movement Sri Lanka, Dr A.T. Ariyaratne, Green New Deal United States, Alexandria Ocasio-Cortez, Costa Rica sustainable development, carbon neutrality, petrol tax reforestation, forest coverage recovery, Doughnut Economics, Kate Raworth, Doughnut Economics Action Lab, planetary boundaries, Rockstrom 2009, ecological overshoot, social foundation, GDP growth critique, wellbeing economy, degrowth
+related:
+  - live-good-life-planetary-boundaries
 ---
 
 # Valuing People and the Planet: Four Models of Development Beyond GDP
@@ -45,9 +47,6 @@ Doughnut Economics builds directly on the concept of **planetary boundaries**, f
 - The richest 20% of nations (15% of global population) produce over 40% of annual ecological overshoot; the poorest 40% of countries (42% of population) bear over 60% of the world's social shortfall.
 - Six of the nine planetary boundaries identified by Rockström et al. (2009) are currently being exceeded by human activity.
 - Research finds "no evidence" of sustained absolute decoupling between economic growth and environmental impact.
-
-## Connected topics
-- [Live the Good Life Within Planetary Boundaries](live-good-life-planetary-boundaries.md)
 
 ## Sources
 - Sarvodaya, philosophy and approach — https://www.sarvodaya.org/philosophy-and-approach

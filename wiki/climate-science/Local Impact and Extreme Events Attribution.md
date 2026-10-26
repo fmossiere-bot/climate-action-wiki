@@ -5,6 +5,10 @@ tags: ["#science", "#adaptation", "#agriculture"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: extreme event attribution, World Weather Attribution, Friederike Otto, Pacific Northwest heat dome, AR6 attribution confidence, Hurricane Harvey, climate justice, disaster vulnerability and exposure, Pakistan floods 2022, non-linearity, food security, migration, critical infrastructure, wet-bulb survivability threshold, heat-related deaths Europe, Delhi heatwave, Sicily drought tourism, Catalunya water restrictions, water scarcity Spain, desalination
+related:
+  - What is Climate Change
+  - Global Impact of Climate Change
+  - Wet-Bulb explained
 ---
 
 # Local Impact and Extreme Events Attribution: When Climate Change Hits Home
@@ -64,12 +68,6 @@ Sicily and southern Italy are experiencing some of their worst droughts in decad
 Catalunya, where 80% of the region's roughly 6 million residents depend on the Ter-Llobregat river basin, has adopted some of the most aggressive water-restriction measures in the region. Reservoir levels fell below 16% in February before recovering to around 25% by May after heavy rain; back in 2008, authorities had to spend €500 million shipping drinking water to Barcelona by boat. Current restrictions cap daily consumption at 230 litres per person, with a further cut to 160 litres possible if conditions worsen; industrial water use has been cut 25%, cattle farming 50%, and agriculture 80%, with wine production expected to fall around 30% as a result. Luxury hotel guests in the region use roughly five times as much water as an average resident, a stark illustration of what campaigners have called "the injustice in the use of water."
 
 The region's response spans five strands: regenerating water basins to prevent saltwater intrusion as flows drop, optimising water use sector by sector (including restrictions on filling pools, spas and golf courses), expanding desalination (already around 23% of supply), a major push to fix leaking infrastructure, and expanding wastewater reuse, with Israel's roughly 70% water-reuse rate held up as the benchmark to aim for.
-
-## Connected topics
-
-- [What is Climate Change](What%20is%20Climate%20Change.md)
-- [Global Impact of Climate Change](Global%20Impact%20of%20Climate%20Change.md)
-- [Wet-Bulb explained](Wet-Bulb%20explained.md)
 
 ## Sources
 

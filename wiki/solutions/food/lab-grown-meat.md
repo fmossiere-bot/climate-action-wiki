@@ -5,6 +5,9 @@ tags: [food, methane, carbon, science, research]
 created: 2026-06-06
 updated: 2026-06-06
 summary: lab-grown meat, cultured meat, in vitro meat, plant-based meat, bioreactor, cellular agriculture, meat emissions, livestock emissions, agricultural land use, water footprint, antimicrobial resistance, food innovation, meat alternatives, investment decline, food security, Singapore, UK, US, Israel, Mark Post, energy-intensive production, food system transformation
+related:
+  - agriculture-planetary-footprint
+  - FACTS about Farming and Food production
 ---
 
 # Summary
@@ -100,9 +103,3 @@ Plant-based alternatives are not perfect either, but they are here now, they are
 Perhaps the most useful thing to take away from all of this is that there is no single technological fix waiting to arrive and make the problem disappear. The food system is changing, and the most realistic version of that change involves eating a bit less meat, wasting less of it, and gradually shifting towards alternatives that are already available.
 
 The mammoth meatball was a clever way to get people talking. But the real work is happening in much less dramatic places.
-
-## Connected topics
-- [Agriculture and the Planetary Footprint](agriculture-planetary-footprint.md)
-- [FACTS about Farming and Food Production](../agriculture-food/FACTS about Farming and Food production.md)
-- [Plant-Rich Diets - Project Drawdown 3](../../solutions/nature-based-solutions/Plant-Rich Diets  - Project Drawdown  3.md)
-- [The Power of Meat 2024](../agriculture-food/The Power of Meat 2024.md)

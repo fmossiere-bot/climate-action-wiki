@@ -5,6 +5,9 @@ tags: ["#ireland", "#alternative-fuels", "#energy", "#energy-transition"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Ireland peat-fired power stations, Edenderry power plant, peatland restoration, bioenergy, biomass renewable energy supply, biomass imports and production, biomethane, Gas Networks Ireland, anaerobic digesters, farming and food waste, natural gas replacement, biomethane strategy, Commission for the Regulation of Utilities, sustainable feedstock, Friends of the Earth Ireland
+related:
+  - FACTS about Biomass
+  - IRELAND Wind Energy
 ---
 
 # Ireland Energy and Biomass
@@ -42,11 +45,6 @@ Ireland has large quantities of farming waste suitable for biomethane production
 ## Ireland's Draft Biomethane Strategy
 
 Ireland's biomethane action plan sets out an integrated strategy for the collective delivery of bioenergy resources across the agriculture, enterprise, transport, environment and energy sectors.
-
-## Connected topics
-
-- [FACTS about Biomass](../concepts/key-ideas/FACTS%20about%20Biomass.md)
-- [Ireland Wind Energy](IRELAND%20Wind%20Energy.md)
 
 ## Sources
 

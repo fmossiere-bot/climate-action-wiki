@@ -6,6 +6,12 @@ sources: ["raw/own-research/France's Biomethane Boom.md", "Nathalie Mayer, La ru
 created: 2026-08-04
 updated: 2026-08-04
 summary: France biomethane, 820 injection sites, 15.9 TWh green gas capacity 2025, 3.9% French gas consumption, 3 million tonnes CO2 avoided, 1 million households heated, bioGNV vehicles, Quaak brothers Chaumes-en-Brie Arcy farm, GRDF grid injection, Ademe six times less CO2, Naskeo methanisation exports, Waga Energy landfill gas, Shell Nature Energy Burgundy 230 GWh, TotalEnergies BioBéarn Pyrénées-Atlantiques 160 GWh, Engie Montauban-de-Bretagne, Sublime Énergie liquefied biogas Côtes-d'Armor, 50 TWh 2030 target, digestate fertiliser, methane leaks
+related:
+  - manure-digesters-newscientist-2026
+  - FACTS about Biomass
+  - Methane emissions role in Global Warming
+  - 6 Ways to Reduce Methane from Agriculture
+  - fossil-fuel-banking
 ---
 
 # France's Biomethane Boom: Farm Waste Becomes a National Energy Source
@@ -73,12 +79,3 @@ This article is based on a single magazine source (Écologie 360, issue 16) with
 ## 10. Bottom line
 
 France has built a substantial biomethane industry from a mix of small farm digesters and large industrial plants, supported by guaranteed gas grid access and public financing. The sector delivers real emissions savings and supports circular farming practices through digestate use, but it faces a hard ceiling: limited feedstock means it can only ever cover a modest share of national gas demand. Continued growth will likely depend on regulatory stability, new collection models for farms far from the grid, and further capture of landfill and urban organic waste.
-
-## Connected topics
-
-- [Manure Digesters (source)](../../sources/manure-digesters-newscientist-2026.md) — California parallel; leaks, ammonia and herd-size incentives complicate the picture
-- [FACTS about Biomass](../../concepts/key-ideas/FACTS%20about%20Biomass.md)
-- [Methane emissions role in Global Warming](../../climate-science/Methane%20emissions%20role%20in%20Global%20Warming.md)
-- [6 Ways to Reduce Methane from Agriculture](../../sectors/agriculture-food/6%20Ways%20to%20Reduce%20Methane%20from%20Agriculture.md)
-- [Fossil Fuel Banking](../../climate-finance/fossil-fuel-banking.md) — the fossil gas incumbent this partly displaces
-- [Landfill Methane Capture — Project Drawdown 56](../../circularity-waste/Landfill%20Methane%20Capture%20-%20Project%20Drawdown%2056.md)

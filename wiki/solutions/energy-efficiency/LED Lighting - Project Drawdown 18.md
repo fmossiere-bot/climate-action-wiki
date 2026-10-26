@@ -5,6 +5,9 @@ tags: ["#building-industry", "#energy-efficiency", "#eu-policy"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: LED lighting, light-emitting diodes, incandescent bulbs, halogen bulbs, kerosene lamps, off-grid lighting, total addressable market, EU energy labels, Single Lighting Regulation, Energy Label Regulation, halogen ban 2018, incandescent ban 2009, compact fluorescent lamps, CFL, colour temperature, lumens, IP rating, ADEME, household energy savings
+related:
+  - Building Automation - Project Drawdown 37
+  - Net-Zero Buildings
 ---
 
 # LED Lighting: Project Drawdown 18
@@ -55,11 +58,6 @@ A few practical points to keep in mind when choosing bulbs:
 - The EU's 2018 halogen ban is estimated to prevent over 15 million tonnes of CO2 a year, roughly equal to Portugal's total annual electricity emissions.
 - Commercial LED luminaires reach 100-140 lumens per watt, about 75% more efficient than halogen equivalents.
 - Lighting represents around 12% of a typical household energy bill, and switching to LEDs can cut that by 60-90%.
-
-## Connected topics
-
-- [Building Automation: Project Drawdown 37](Building%20Automation%20-%20Project%20Drawdown%2037.md)
-- [Net-Zero Buildings](Net-Zero%20Buildings.md)
 
 ## Sources
 

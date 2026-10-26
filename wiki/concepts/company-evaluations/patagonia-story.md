@@ -7,6 +7,12 @@ created: 2026-06-12
 updated: 2026-08-26
 cover_image: ""
 summary: Patagonia, Yvon Chouinard, company ownership transfer, One Percent for the Planet, organic cotton, repair culture, Don't Buy This Jacket, national monuments Utah, Trump lawsuit, climate activism, outdoor industry, greenwashing criticism, circular fashion, anti-consumerism, B Corp, purpose-driven business, clothing brand, pitons, climbing, Fitz Roy, Earth as shareholder
+related:
+  - Greenwashing
+  - The Environmental Impact of the FASHION industry
+  - The Rewearable -  Circular Fashion
+  - high-income-carbon-paradox
+  - ben-jerrys-story
 ---
 
 > **Editorial summary:** A portrait of Yvon Chouinard, founder of Patagonia, tracing how a self-taught climber who never wanted to run a company built one of the most environmentally radical businesses in history, from forging pitons in the 1960s to suing the US President over national monument protections, to giving the entire company away to an environmental trust in 2022. The piece also acknowledges the tensions and contradictions in Patagonia's model honestly.
@@ -51,11 +57,3 @@ The story is not without contradictions. Patagonia still makes and ships clothes
 The lesson of Chouinard's life is a simple one: it's not the most powerful people who change the world: it's the most consistent. He built an empire he never wanted, then handed it to the planet.
 
 ---
-
-## Connected topics
-
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [The Environmental Impact of the FASHION industry](../../circularity-waste/The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
-- [The Rewearable — Circular Fashion](../../circularity-waste/The%20Rewearable%20-%20%20Circular%20Fashion.md)
-- [High-Income Carbon Paradox](../behavior-change/high-income-carbon-paradox.md)
-- [The Ben & Jerry's Story](ben-jerrys-story.md)

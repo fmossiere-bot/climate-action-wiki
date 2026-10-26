@@ -5,6 +5,10 @@ tags: ["#research", "#science", "#carbon", "#cop30"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: UNEP, Emissions Gap Report 2024, No More Hot Air Please, nationally determined contributions, NDCs, Paris Agreement, 1.5 degrees, global warming projections, greenhouse gas emissions, top emitters, China, United States, India, European Union, Russia, LULUCF, land use, mitigation potential, techno-economic, decarbonisation costs, emissions gap, 2030 targets, 2035 targets
+related:
+  - COP30
+  - Paris Agreement - NDC - where are we 10 years later?
+  - its-too-late
 ---
 
 # Emission Gap Report 2024 - UNEP
@@ -37,12 +41,6 @@ Based on current policies, the report estimates that global warming is on track 
 - A 28% cut by 2030 is needed for 2°C alignment; a 42% cut is needed for 1.5°C.
 - Current policies put the world on track for up to 3.1°C of warming (range 1.9 to 3.8°C).
 - Available low-cost mitigation potential (below $200/tCO2e) is technically sufficient to close the gap: 31 GtCO2e/year by 2030, 41 GtCO2e/year by 2035.
-
-## Connected topics
-
-- [COP30](../../legislation-policy/COP30.md)
-- [Paris Agreement - NDC - where are we 10 years later?](../../legislation-policy/Paris%20Agreement%20-%20NDC%20-%20where%20are%20we%2010%20years%20later%3F.md)
-- [It's too late to do anything](../../myths/its-too-late.md)
 
 ## Sources
 

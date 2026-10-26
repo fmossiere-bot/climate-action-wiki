@@ -12,6 +12,10 @@ sources:
 created: 2026-06-11
 updated: 2026-06-11
 summary: ocean climate solutions, offshore wind, coastal wetlands, salt marshes, seagrasses, mangroves, seaweed, marine carbon removal, mCDR, ocean alkalinity enhancement, ocean fertilisation, artificial upwelling, overfishing, seafloor protection, aquaculture, Project Drawdown, 30x30, ocean funding, carbon sequestration, blue carbon, nature-based solutions
+related:
+  - mangrove-forests-recovery
+  - The importance of Wetlands
+  - amoc-collapse-carbon
 ---
 
 # Ocean-Based Climate Solutions
@@ -59,12 +63,6 @@ One warning from Project Drawdown: mCDR funding should not divert money from pro
 - Ocean biomass sinking, artificial upwelling, ocean fertilisation: not recommended.
 - Ocean protection funding gap: ~$1.2bn/year actual vs ~$16bn/year needed for 30x30.
 - Dismantling ocean science observatories (a trend under the Trump administration as of 2026) undermines the ability to evaluate any of these approaches.
-
-## Connected topics
-
-- [Mangrove Forests Recovery](mangrove-forests-recovery.md)
-- [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
-- [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md)
 
 ## Sources
 

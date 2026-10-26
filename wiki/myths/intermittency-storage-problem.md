@@ -12,6 +12,12 @@ summary: intermittency storage, three time windows minutes hours days months, ba
 claim_id: intermittency-storage-problem
 verdict: mostly-false
 topic: energy
+related:
+  - not-enough-clean-energy
+  - renewables-too-expensive
+  - renewables-not-replacing-fossil-fuels
+  - evs-will-break-the-grid
+  - Geothermal energy
 ---
 
 # Myth: what happens when the sun doesn't shine and the wind doesn't blow?
@@ -88,15 +94,6 @@ Some gas as **rare, occasional backup** is much better than gas as **primary gen
 **The near-term push.** Wealthier countries need to prove 100% clean power at scale in the next 5-10 years. That proof — one country running cleanly through a full winter — is what unlocks the confidence and finance for everyone else to follow.
 
 **A concrete example of heat storage in action.** In July 2026, Finnish firm **Polar Night Energy** commissioned the world's largest commercial sand battery in **Pornainen**, Finland — a 13-metre-tall silo holding 2,000 tonnes of crushed soapstone at 400-600°C. Rated at **100 MWh**, it charges on surplus grid electricity and feeds district heating for the town's 5,000 residents for a week in winter or a month in summer. AI runs the charging on the spot market. No rare earths, no lithium, no degradation. A 250 MWh follow-up is planned in Vääksy for 2027. It's not a lithium replacement — it puts out heat, not electricity — but for heat-heavy regions (Nordic and industrial), it's exactly the kind of long-duration storage this myth's answer requires. See [sand battery source summary](../sources/sand-battery-finland-pornainen-2026.md).
-
-## Connected topics
-
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
-- [Renewables too expensive (myth)](renewables-too-expensive.md)
-- [Renewables not replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
-- [EVs will break the grid (myth)](evs-will-break-the-grid.md) — V2G as a piece of the storage puzzle
-- [Geothermal energy](../solutions/renewables/Geothermal energy.md)
-- [The rise of the batteries](../solutions/electrification/The rise of the batteries.md)
 
 ## Sources
 

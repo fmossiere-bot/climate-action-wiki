@@ -5,6 +5,12 @@ tags: ["#key-ideas", "#esg", "#eu-policy", "#greenwashing"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: ESG, environmental social governance, ESG investing, ESG reporting, CSRD, EU Taxonomy, NFRD, net-zero business strategy, ESG litigation, greenwashing lawsuits, Norton Rose Fulbright litigation survey, McKinsey net-zero economy, Deloitte green skills maturity matrix, Tony's Chocolonely golden shares, materiality
+related:
+  - What is Materiality?
+  - What is CSRD?
+  - Why Reporting - Investors want companies to focus on ESG
+  - Greenwashing
+  - Greenwashing lawsuits on the rise
 ---
 
 # What is ESG?
@@ -35,13 +41,6 @@ One example of a company trying to lock in its sustainability commitments struct
 - Only 8% of those surveyed were actually involved in ESG-related class actions, but 37% of the wary group saw ESG as a major litigation driver.
 - The CSRD removes the previous 500-employee threshold, extending mandatory sustainability reporting to all large EU companies meeting two of three size criteria.
 - The EU Taxonomy's reporting requirements began phasing in from January 2022, with fuller application from January 2023.
-
-## Connected topics
-- [What is Materiality?](What%20is%20Materiality%3F.md)
-- [What is CSRD?](../../legislation-policy/What%20is%20CSRD%3F.md)
-- [Why Reporting - Investors want companies to focus on ESG](../../legislation-policy/Why%20Reporting%20-%20Investors%20want%20companies%20to%20focus%20on%20ESG.md)
-- [Greenwashing](Greenwashing.md)
-- [Greenwashing lawsuits on the rise](Greenwashing%20lawsuits%20on%20the%20rise.md)
 
 ## Sources
 - Harvard Law School Forum on Corporate Governance, "EU Finalizes ESG Reporting Rules With International Impacts", 30 January 2023 — https://corpgov.law.harvard.edu/2023/01/30/eu-finalizes-esg-reporting-rules-with-international-impacts/

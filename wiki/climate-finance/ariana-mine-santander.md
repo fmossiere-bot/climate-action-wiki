@@ -6,6 +6,12 @@ sources: ["BankTrack — https://www.banktrack.org/project/ariana_copper_and_zin
 created: 2026-07-01
 updated: 2026-07-01
 summary: Ariana mine, Peru, Alpayana, Marcapomacocha, Lima water supply, Trans-Andean Tunnel, SEDAPAL, tailings dam, seismic risk, Santander, Ana Botín, USD 100 million loan, LXG Capital, Constitutional Chamber of Lima, Environmental Impact Study, CooperAcción, Ekō petition, transition minerals, bank accountability, copper, zinc, human rights, drinking water, high-altitude wetlands, bofedales
+related:
+  - fossil-fuel-banking
+  - Is your Bank Is Funding Climate Change. Here Is What You Can Do About It.
+  - Climate and Finance - Why Money Is at the Heart of the Climate Crisis
+  - santa-marta-fossil-fuel-conference-2026
+  - Greenwashing
 ---
 
 # Ariana Mine and Santander: When a $100m Loan Meets Lima's Water Supply
@@ -39,14 +45,6 @@ Copper and zinc are on many "critical minerals" lists for the [energy transition
 - Alpayana bought the project in **March 2025 for US$200 million**; LXG Capital advised
 - **Banco Santander** provided a **US$100 million refinancing facility** to Alpayana in **August 2025**
 - Ariana is untouched by construction so far — the current window is when public and financial pressure can still matter
-
-## Connected topics
-
-- [Fossil Fuel Banking — $906bn in 2025](fossil-fuel-banking.md)
-- [Is your Bank Funding Climate Change](Is your Bank Is Funding Climate Change. Here Is What You Can Do About It..md)
-- [Climate and Finance — Why Money Is at the Heart of the Climate Crisis](Climate and Finance - Why Money Is at the Heart of the Climate Crisis.md)
-- [Santa Marta Fossil Fuel Conference 2026](../solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md)
-- [Greenwashing](../concepts/key-ideas/Greenwashing.md)
 
 ## Sources
 

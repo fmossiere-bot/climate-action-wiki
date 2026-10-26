@@ -5,6 +5,10 @@ tags: ["#carbon", "#ireland", "#agriculture", "#transport"]
 created: 2025-11-01
 updated: 2026-08-26
 summary: Ireland carbon footprint, production-based emissions, consumption-based emissions, EPA, ESRI, SEAI, CSO, agriculture methane, transport emissions, housing and energy, food waste, per capita emissions, EU comparison, dispersed housing, oil boilers, embodied carbon, imported emissions
+related:
+  - About Carbon Accounting and GHG
+  - Carbon Emission FACTS
+  - FACTS about Circular Economy
 ---
 
 # Average Carbon Footprint in Ireland
@@ -83,12 +87,6 @@ A revised view extracts "waste" as its own standalone category, removing the car
 | **Total** | **~12.7 t** | **100%** | Average Irish resident |
 
 The 1.1 tonnes of waste breaks down further into roughly 65% food waste (growing, shipping and cooling food that ends up in the bin), 20% material waste (textiles, plastics and tech bought and discarded rapidly), and 15% processing (the emissions from bin collection and incineration or landfill). This is arguably the most frustrating category, since it represents carbon emitted for zero nutritional or lifestyle benefit.
-
-## Connected topics
-
-- [About Carbon Accounting and GHG](../concepts/key-ideas/About%20Carbon%20Accounting%20and%20GHG.md)
-- [Carbon Emission FACTS](../concepts/key-ideas/Carbon%20Emission%20FACTS.md)
-- [FACTS about Circular Economy](../concepts/key-ideas/FACTS%20about%20Circular%20Economy.md)
 
 ## Sources
 

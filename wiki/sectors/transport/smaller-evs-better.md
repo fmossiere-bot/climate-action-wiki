@@ -6,6 +6,12 @@ sources: ["WRI — Zhang-Billert, Cassius & Albuquerque, 28 July 2025 — https:
 created: 2026-07-26
 updated: 2026-07-26
 summary: EV size trend, SUV pickup dominance BEV, lifecycle emissions, battery mineral demand lithium cobalt, pedestrian safety, urban mobility, EU fleet CO2 compliance flexibility, Norway weight-based EV tax, France 1600 kg weight tax, Paris SUV parking triple, 320 low-emission zones Europe, BYD Seagull Wuling Bingo, Volkswagen Renault Stellantis, sub-25000 euro EVs, average daily travel 12 km Europe, IEA mineral demand 18-20% cut
+related:
+  - Car Life Cycle Emissions - EV vs Combustion
+  - EV Progress
+  - The rise of the batteries
+  - ariana-mine-santander
+  - home-cooling-heatwaves
 ---
 
 # Smaller EVs Are Better — Why Bigger Batteries Undermine the Transition
@@ -67,14 +73,6 @@ Even the perfect smaller EV rollout does not solve the wider problem of car depe
 - Larger vehicles raise fatal pedestrian collision risk by **45%**
 - Average European daily travel: **12.4 km/person** — well within compact EV range
 - **>320 European cities** now have low-emission zones
-
-## Connected topics
-
-- [Car Life Cycle Emissions — EV vs Combustion](Car%20Life%20Cycle%20Emissions%20-%20EV%20vs%20Combustion.md)
-- [EV Progress](../../solutions/electrification/EV Progress.md)
-- [The rise of the batteries](../../solutions/electrification/The rise of the batteries.md)
-- [Ariana Mine and Santander](../../climate-finance/ariana-mine-santander.md) — the copper/zinc supply-chain angle
-- [Home cooling and heatwaves](../../climate-adaptation/home-cooling-heatwaves.md) — the urban design overlap
 
 ## Sources
 

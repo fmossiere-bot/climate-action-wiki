@@ -5,6 +5,10 @@ tags: ["#company-evaluations", "#greenwashing", "#plastic", "#esg", "#food"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Coca-Cola, Green Digest impact score, MSCI ESG rating AAA, Sustainable Development Goals, water stewardship, 100 percent water return, packaging recycled content, Scope 1 2 3 emissions, World Without Waste, reusable packaging target dropped, BEUC ClientEarth ECOS complaint, 100 percent recycled label, plastic pollution, greenhushing, 64 million tonnes CO2, sugary soft drinks, 2.2 billion servings daily, bottling partners
+related:
+  - Greenwashing
+  - What is ESG?
+  - The Environmental Impact of the FASHION industry
 ---
 
 Source: Green Digest, "Evaluating a Company's Impact: The Case of Coca-Cola" — https://www.greendigest.co/p/cocacola-environmental-and-social-impact
@@ -66,12 +70,6 @@ In 2024, Coca-Cola updated its voluntary environmental goals, extending many obj
 ## Overall assessment
 
 There is substantial evidence that Coca-Cola is making genuine efforts: returning water, using recycled materials, setting science-aligned targets, and renewing its goals. But there are also valid criticisms, particularly around the shift away from reuse, ambiguity in claims, and whether commitments will translate into real, measurable reductions in harm, especially in regions with less recycling infrastructure. Much of the company's public messaging leans heavily on recyclability and collection rather than acknowledging trade-offs and limits, such as plastic leakage or the limits of recycling systems, which carries a real risk of over-simplified claims. There is also a plausible greenwashing risk in how ambitious goals are stated without always showing concrete intermediate results, or in how previous plans have quietly been modified or removed.
-
-## Connected topics
-
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
-- [The Environmental Impact of the FASHION industry](../../circularity-waste/The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
 
 ## Sources
 

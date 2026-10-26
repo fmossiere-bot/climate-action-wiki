@@ -5,6 +5,12 @@ tags: ["#aviation", "#carbon", "#carbon-offset", "#ai", "#transport", "#eu-polic
 created: 2026-06-01
 updated: 2026-08-26
 summary: aviation emissions, IATA net zero 2050 target, sustainable aviation fuel, SAF production gap, CORSIA, EU ETS, ICAO, Airbus, contrails, radiative forcing, Operation Blue Skies, Shanwick airspace, Google AI contrail forecasting, NATS, air traffic growth, frequent flyer inequality, private jets, corporate travel emissions, carbon offsetting, Dublin Airport expansion, Amsterdam Schiphol, Wynes and Nicholas study
+related:
+  - Flight Carbon Footprint and Offset Guide
+  - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
+  - Jet Fuel from Captured CO2
+  - Sustainable FLighs with Hydrogen
+  - Efficient Aviation
 ---
 
 ## 2026 Update: The Industry Admits the 2050 Target Is Slipping
@@ -174,15 +180,6 @@ Carbon offsetting is part of the net-zero picture, since aviation is unlikely ev
 - Private jet emissions rose 46% between 2019 and 2023.
 - Avoiding one transatlantic round-trip flight saves an estimated 1.6 tonnes CO2e (Wynes & Nicholas, 2017).
 - Business travel drives 15-20% of global aviation emissions and 25-30% in Europe, despite being a minority of passengers.
-
-## Connected topics
-
-- [Flight Carbon Footprint and Offset Guide](Flight%20Carbon%20Footprint%20and%20Offset%20Guide.md)
-- [Sustainable Aviation Fuel: A Necessary but Complicated Solution](../../solutions/electrification/Sustainable%20Aviation%20Fuel%20-%20A%20Necessary%20but%20Complicated%20Solution.md)
-- [Jet Fuel from Captured CO2](../../solutions/carbon-removal/Jet%20Fuel%20from%20Captured%20CO2.md)
-- [Sustainable Flights with Hydrogen](../../solutions/renewables/Sustainable%20FLighs%20with%20Hydrogen.md)
-- [Efficient Aviation](../../solutions/electrification/Efficient%20Aviation.md)
-- [Facts about AI, Emissions Impacts and Mitigation Potential](../digital/FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
 
 ## Sources
 

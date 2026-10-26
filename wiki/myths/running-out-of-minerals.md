@@ -13,6 +13,12 @@ summary: minerals running out, lithium reserves growing 20 million tonnes 2022, 
 claim_id: running-out-of-minerals
 verdict: false
 topic: materials
+related:
+  - renewables-more-mining
+  - clean-energy-child-labour
+  - mineral-dependency-same-as-oil
+  - clean-energy-uses-too-much-water
+  - ariana-mine-santander
 ---
 
 # Myth: we're going to run out of the minerals needed for clean energy
@@ -83,15 +89,6 @@ Substitution and recycling ease the picture over time. Tesla now uses **lithium 
 **Recycling as a decade-out solution.** The clean-energy build-out is producing a stock of solar panels, wind turbines and batteries that will need recycling in 20-30 years. Once at scale, recycled materials will meet a large share of demand for new clean-tech, dramatically reducing the pressure to mine fresh. The recycling economy for these materials doesn't fully exist yet, but it's growing.
 
 **The 5-10 year window is where policy matters most.** The genuine choke point isn't geology, it's mine permitting and refining capacity. Countries that streamline permitting for critical minerals will build the transition faster. Countries that don't will have to import at premium prices. This is the actual live policy question, not "have we got enough."
-
-## Connected topics
-
-- [Renewables and more mining (myth)](renewables-more-mining.md)
-- [Clean energy child labour (myth)](clean-energy-child-labour.md)
-- [Mineral dependency same as oil (myth)](mineral-dependency-same-as-oil.md)
-- [Clean energy uses too much water (myth)](clean-energy-uses-too-much-water.md)
-- [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md)
-- [Renewables need fossil fuels to build (myth)](renewables-need-fossil-fuels-to-build.md)
 
 ## Sources
 

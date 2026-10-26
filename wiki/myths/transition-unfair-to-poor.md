@@ -44,10 +44,6 @@ Often true. Which is the thing to campaign on, because the alternative on offer 
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - RTE, CCAC 2026 Annual Review — https://www.rte.ie/news/

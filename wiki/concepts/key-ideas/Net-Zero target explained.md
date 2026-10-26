@@ -5,6 +5,10 @@ tags: ["#key-ideas", "#carbon", "#science", "#energy-transition"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: net zero, carbon neutral, climate neutral, GHG neutral, IPCC 1.5C pathway, 2050 target, 45% emissions cut by 2030, carbon budget, carbon sinks, ocean and forest sinks, durable net zero, thermal equilibrium, radiative equilibrium, atmospheric CO2 concentration, ppm to gigatonnes conversion, IEA Net Zero Roadmap, UNEP Emissions Gap Report
+related:
+  - Emission Gap Report 2024 - UNEP
+  - Carbon Offsets
+  - Net-Zero Buildings
 ---
 
 # Net-Zero Target Explained
@@ -42,11 +46,6 @@ Carbon and CO2 are not the same thing, though they are often used interchangeabl
 The standard conversion between concentration and mass is 1 ppm equals 2.13 GtC. At a current atmospheric concentration of around 412 ppm, that implies a stock of roughly 878 GtC.
 
 Because scientists know how much further concentration can rise before it drives a given amount of extra warming, it is possible to calculate how much more net-positive carbon the world can still add to the atmosphere before breaching a given temperature limit. This remaining allowance is the **carbon budget**. Current estimates put it at under 420 Gt of CO2 over the next decade, though some researchers argue the true figure is considerably lower, with estimates as low as 200 Gt also in circulation.
-
-## Connected topics
-- [Emission Gap Report 2024 - UNEP](Emission%20Gap%20Report%202024%20-%20UNEP.md)
-- [Carbon Offsets: How They Work and Why They Often Fall Short](Carbon%20Offsets.md)
-- [Net-Zero Buildings](../../solutions/energy-efficiency/Net-Zero%20Buildings.md)
 
 ## Sources
 - UN, "What is net zero?" — https://www.un.org/en/climatechange/net-zero-coalition

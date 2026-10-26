@@ -6,6 +6,12 @@ sources: ["raw/own-research/What is a Sustainable Mindset.md", "Isabel Rimanoczy
 created: 2026-09-17
 updated: 2026-09-17
 summary: Sustainability Mindset Principles, Isabel Rimanoczy, 12 principles, four areas Ecological Worldview Systems Thinking Emotional Intelligence Spiritual Intelligence, Ecoliteracy My Contribution Long-term Thinking Both+and Thinking Flow in Cycles Interconnectedness Creative Innovation Reflection Self-awareness Purpose Oneness with Nature Mindfulness, information not enough, feelings fuel, inner work, LOHAS Lifestyles of Health and Sustainability, cultural creatives, Sustainability Mindset Indicator, five core principles My Contribution Reflection Self-awareness Purpose Mindfulness, business schools education
+related:
+  - Why Knowing Is Not Enough - How Our Brains Get in the Way of Climate Action
+  - How Countries Can Use Behavior Change to Further Reduce Emissions
+  - high-income-carbon-paradox
+  - live-good-life-planetary-boundaries
+  - Talking about Climate Change ACTION GUIDE
 ---
 
 # The Sustainability Mindset Principles (Isabel Rimanoczy)
@@ -95,11 +101,3 @@ The principles also bring a useful challenge to LOHAS. Principle 5 (Flow in Cycl
 Isabel Rimanoczy, _The Sustainability Mindset Principles_ (Routledge). A related self-assessment tool, the Sustainability Mindset Indicator, is based on the same 12 principles.
 
 Three things to check before you publish, Fabien. First, this is built on the summary notes, which had gaps (the key components of Principle 7 and a few pages of Chapter 1), so the one-liner for Creative Innovation is worth checking against the book. Second, I worded the research claims as "the book reports", because I have not checked the studies myself, and I left out the publication year for the same reason. Third, a small challenge: a neutral wiki article should probably carry a short "Limits and criticism" section (the framework comes from a small study of 16 leaders and was built for business schools), and I can add that if you agree.
-
-## Connected topics
-
-- [Why Knowing Is Not Enough - How Our Brains Get in the Way of Climate Action](Why%20Knowing%20Is%20Not%20Enough%20-%20How%20Our%20Brains%20Get%20in%20the%20Way%20of%20Climate%20Action.md)
-- [How Countries Can Use Behavior Change to Further Reduce Emissions](How%20Countries%20Can%20Use%20Behavior%20Change%20to%20Further%20Reduce%20Emissions.md)
-- [High-Income Carbon Paradox](high-income-carbon-paradox.md)
-- [Live Good Life Within Planetary Boundaries](../key-ideas/live-good-life-planetary-boundaries.md)
-- [Talking about Climate Change ACTION GUIDE](Talking%20about%20Climate%20Change%20ACTION%20GUIDE.md)

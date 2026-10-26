@@ -11,6 +11,12 @@ summary: cobalt DRC child labour, 74% cobalt from Congo, 45% cobalt use EVs 26% 
 claim_id: clean-energy-child-labour
 verdict: mostly-false
 topic: materials
+related:
+  - running-out-of-minerals
+  - renewables-more-mining
+  - mineral-dependency-same-as-oil
+  - clean-energy-uses-too-much-water
+  - ariana-mine-santander
 ---
 
 # Myth: clean energy relies on child labour and exploitation
@@ -84,16 +90,6 @@ Also true. The rich countries buying phones and EVs know what's happening in DRC
 **Supply chain traceability is now legally required in the EU.** The **EU Critical Raw Materials Act (2023)** forces companies importing critical minerals to audit their supply chains regularly. Companies that can't demonstrate ethical sourcing face restrictions. Similar rules are being adopted in the US and Japan. This is the first time major economies have put real teeth behind ethical mineral requirements.
 
 **Boycotting the DRC would make things worse for the workers.** Mining is 90% of DRC exports and directly supports a large share of the population. Cutting the country out of global supply chains would collapse incomes and push more workers into worse (often illegal) informal mining. The right lever is pressure on the mine operators and mineral buyers to improve conditions — pay, safety, no child labour — not on the country to stop mining altogether.
-
-## Connected topics
-
-- [Running out of minerals (myth)](running-out-of-minerals.md)
-- [Renewables and more mining (myth)](renewables-more-mining.md)
-- [Mineral dependency same as oil (myth)](mineral-dependency-same-as-oil.md)
-- [Clean energy uses too much water (myth)](clean-energy-uses-too-much-water.md)
-- [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md) — a live mining vs water rights case
-- [Poor countries need fossil fuels (myth)](poor-countries-need-fossil-fuels.md)
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
 
 ## Sources
 

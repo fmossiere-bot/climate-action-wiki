@@ -6,6 +6,12 @@ sources: ["Forbes — Ingmar Rentzhog, 9 July 2026 — https://www.forbes.com/si
 created: 2026-07-13
 updated: 2026-09-18
 summary: ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-99%, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment
+related:
+  - amoc-collapse-carbon
+  - amoc-monitoring-guardian-2026
+  - Ocean Based Climate Solutions
+  - wildfires-climate-feedback
+  - Glaciers in Retreat -  Facts, Risks, and What Can Be Done
 ---
 
 # A Record-Hot Ocean, Rising Seas, and the 2026 El Niño
@@ -131,18 +137,6 @@ The World Resources Institute's Global Director of Ocean, **Tom Pickerell**, pub
 WRI's Pickerell is blunt about what is now baked in: **"deep ocean warming and interior ocean acidification are effectively irreversible on our timescales."** That does not mean giving up — it means protecting natural buffers, planning coastal infrastructure realistically, and cutting emissions to slow how fast the ocean keeps changing.
 
 *Source: [WRI ocean warming (source summary)](../sources/wri-ocean-warming-2026.md); Tom Pickerell, WRI, 22 July 2026.*
-
-## Connected topics
-
-- [FACTS about the Ocean](../biodiversity-land/FACTS about the Ocean.md)
-- [AMOC Collapse and Carbon Release](amoc-collapse-carbon.md)
-- [AMOC Monitoring under Threat (source)](../sources/amoc-monitoring-guardian-2026.md)
-- [Ocean-based Climate Solutions](../biodiversity-land/ocean-based-climate-solutions.md)
-- [Wildfires as a Climate Feedback Loop](wildfires-climate-feedback.md)
-- [Glaciers in Retreat](../biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md)
-- [UN World Ocean Assessment III (source)](../sources/un-world-ocean-assessment-2026.md)
-- [Anaïs Massé — Fondation de la mer interview (source)](../sources/anais-masse-fondation-mer-ecologie360-2026.md)
-- [Artificial Reefs for Coastal Protection and Marine Biodiversity](../climate-adaptation/artificial-reefs-coastal-protection.md)
 
 ## Sources
 

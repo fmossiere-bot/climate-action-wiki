@@ -6,6 +6,12 @@ sources: ["raw/articles/notebooklm-report-beyond-lithium-understanding-the-sodiu
 created: 2026-10-08
 updated: 2026-10-08
 summary: sodium-ion battery Na-ion, hard carbon anode aluminium current collectors, Prussian blue iron cathodes, no cobalt no nickel, DRC cobalt human rights, 90 percent capacity at -40C, 0 Volt shipping, 1000x more abundant than lithium, 60000x in seawater, 500 per tonne, lower energy density 160-175 Wh/kg, urban EVs 250-350 km, grid-scale stationary storage BESS, CATL TENER 30 MWh blocks, BYD Xuzhou, Peak Energy GM Ventures, HyperStrong contract, 150 GWh 2030, Technology Readiness Level TRL 8, pack cost $40 per kWh target, dual-chemistry hybrid AB battery packs, Ireland Eleven Energy Galvani Midsummer, TRIDENT project domestic microgrids, Natron Energy closure, 95 percent capacity China geographic concentration
+related:
+  - The rise of the batteries
+  - intermittency-storage-problem
+  - renewables-more-mining
+  - clean-energy-child-labour
+  - mineral-dependency-same-as-oil
 ---
 
 # Sodium-ion batteries: a second chemistry comes of age
@@ -99,20 +105,8 @@ The one-line summary: **sodium-ion means the storage half of the energy transiti
 
 That strengthens the answer to the [intermittency-storage-problem](../../myths/intermittency-storage-problem.md) myth. It weakens the "renewables need too much mining" line in [renewables-more-mining](../../myths/renewables-more-mining.md). It takes some of the heat out of [clean-energy-child-labour](../../myths/clean-energy-child-labour.md), because the cobalt dependency is no longer baked into every battery. And it adds a second tool to the kit alongside sand batteries (see [sand-battery-finland-pornainen-2026](../../sources/sand-battery-finland-pornainen-2026.md)) and the existing lithium-ion stack described on [The rise of the batteries](The%20rise%20of%20the%20batteries.md).
 
-## Connected topics
-
-- [The rise of the batteries](The%20rise%20of%20the%20batteries.md) — the storage overview this page extends
-- [Intermittency and the storage problem (myth)](../../myths/intermittency-storage-problem.md)
-- [Renewables and mining (myth)](../../myths/renewables-more-mining.md)
-- [Clean energy and child labour (myth)](../../myths/clean-energy-child-labour.md)
-- [Mineral dependency and oil (myth)](../../myths/mineral-dependency-same-as-oil.md)
-- [Sand battery, Pornainen (source)](../../sources/sand-battery-finland-pornainen-2026.md)
-- [EV progress](EV%20Progress.md)
-- [Sodium-ion batteries — NotebookLM reports (source)](../../sources/sodium-ion-batteries-notebooklm-2026.md) — primary source for this page, with important provenance caveats
-
 ## Sources
 
 - [Climate Adam]([https://www.youtube.com/watch?v=weYg88FCHWg](https://www.youtube.com/watch?v=weYg88FCHWg)) YouTube video 
 - CATL TENER Sodium BESS launch (Munich, June 2026) — manufacturer announcement
 - International Energy Agency commentary on sodium-ion as a strategic hedge against lithium price spikes
-

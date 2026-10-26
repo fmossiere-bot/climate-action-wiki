@@ -6,6 +6,12 @@ sources: ["New Scientist, April Reese, 14 July 2026 (updated 15 July 2026) — '
 created: 2026-07-26
 updated: 2026-07-26
 summary: planetary boundaries, safe operating space, Rockström Potsdam Institute, seven boundaries crossed, decent living standards, useless overconsumption, consumption corridor, Joel Millward-Hopkins Lausanne, Guimarães Portugal, European Green Capital 2026, Landscape Laboratory Carlos Ribeiro, Sara Pires University of Aveiro, 2.3 Earths, pay-as-you-throw, One Planet City, waste circularity 2.5x, 18% waste per person cut since 2018, Global Justice Report World Inequality Lab, Cornelia Mohren, Tim Lenton Exeter social tipping points, sufficiency, wealthy environmentalists larger footprint
+related:
+  - high-income-carbon-paradox
+  - FACTS about  DEGROWTH
+  - What is the Circular Economy
+  - construction-industry-reuse-target
+  - eat-lancet-planetary-diet-2025
 ---
 
 # Can Everyone Live a 'Good Life' Within Planetary Limits? Guimarães as a Working Case
@@ -89,16 +95,6 @@ In **June 2026, the World Inequality Lab published its Global Justice Report**, 
 - Guimarães per-capita waste: **–18% since 2018**
 - Guimarães green space restored: **95 hectares since 2012**
 - Under the Global Justice Report scenario, average per-capita income could reach **~€5,000/month** globally by end of century within planetary limits
-
-## Connected topics
-
-- [High-income carbon paradox](../behavior-change/high-income-carbon-paradox.md)
-- [FACTS about DEGROWTH](FACTS about DEGROWTH.md)
-- [What is the Circular Economy](../../circularity-waste/What is the Circular Economy.md)
-- [Construction industry: the reuse target](../../sectors/buildings/construction-industry-reuse-target.md)
-- [The EAT-Lancet Planetary Health Diet](../../sectors/agriculture-food/eat-lancet-planetary-diet-2025.md)
-- [Towards a Wellbeing economy - EEB report](Towards a Wellbeing economy - EEB report.md)
-- [Heatwaves and Sport](../../sectors/heatwaves-and-sport.md) — practical adaptation
 
 ## Sources
 

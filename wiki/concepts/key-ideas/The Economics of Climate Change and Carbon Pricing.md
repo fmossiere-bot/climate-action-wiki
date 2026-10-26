@@ -5,6 +5,9 @@ tags: ["#carbon", "#finance", "#key-ideas", "#energy-transition"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: environmental economics, GDP, human wellbeing, unpaid labour, social capital, ecological economics, market failure, tragedy of the commons, exploitation mindset, carbon pricing, carbon markets, carbon taxes, EU ETS Emissions Trading System, World Bank State and Trends of Carbon Pricing, Social Cost of Carbon SCC, Integrated Assessment Models, Climate Impact Lab, Gilets Jaunes protests, carbon leakage, equity and justice in carbon pricing
+related:
+  - Carbon Offsets
+  - FACTS on EVERYTHING - Under the Sky we Make
 ---
 
 # The Economics of Climate Change and Carbon Pricing
@@ -54,10 +57,6 @@ An alternative approach, pursued by the **Climate Impact Lab**, uses empirically
 - The Climate Impact Lab's empirically-derived Social Cost of Carbon estimate is around $185 per tonne, roughly triple earlier recommendations.
 - The EU ETS, the world's largest carbon market, has struggled with permit oversupply and persistently low prices.
 - France's Gilets Jaunes protests illustrate the political risk of carbon taxes that ignore distributional equity.
-
-## Connected topics
-- [Carbon Offsets: How They Work and Why They Often Fall Short](Carbon Offsets.md)
-- [Facts on Everything: Under the Sky We Make](FACTS on EVERYTHING - Under the Sky we Make.md)
 
 ## Sources
 - World Bank, State and Trends of Carbon Pricing 2022 — https://openknowledge.worldbank.org/handle/10986/37455

@@ -5,6 +5,8 @@ tags: ["#ireland", "#behaviour", "#research", "#eco-anxiety"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Climate Change in the Irish Mind Wave 2 Report, EPA survey, public opinion on climate change, theory of planned behaviour, climate denial, perceived agency, pluralistic ignorance, government climate priorities, trust in scientists, Peritia Research, RedC survey, Irish commuters, climate communication
+related:
+  - IRELAND Transport Emissions
 ---
 
 # Ireland - Climate Change in the Irish Mind
@@ -37,10 +39,6 @@ The report identifies scientists as being in a strong position to close this gap
 ## Also Noted: Peritia Research and RedC Survey
 
 Two further surveys were flagged alongside the EPA report as related sources worth tracking: Peritia Research's work on trust and climate change across the UK and Ireland, and a RedC survey of Irish commuters' attitudes to transport and climate. Both are listed in Sources below for reference; neither had further detail captured in this note at time of writing.
-
-## Connected topics
-
-- [Ireland Transport Emissions](IRELAND%20Transport%20Emissions.md)
 
 ## Sources
 

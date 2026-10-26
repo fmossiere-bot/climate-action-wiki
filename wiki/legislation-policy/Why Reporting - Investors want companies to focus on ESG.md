@@ -5,6 +5,10 @@ tags: ["#esg", "#finance"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: investors, ESG reporting, institutional investors, EY Global Institutional Investor Survey, ESG integration, financial materiality, risk-adjusted returns, sustainability disclosure, CSRD, SFDR, investment decisions
+related:
+  - What is CSRD?
+  - Why Reporting is Important?
+  - What is ESG?
 ---
 
 # Why Investors Want Companies to Focus on ESG Reporting
@@ -26,12 +30,6 @@ This demand is not unconditional. The same body of investor research shows real 
 - 77% of investors prioritise ESG issues with clear financial relevance.
 - 71% of investors using ESG criteria for over seven years report improved risk-adjusted returns.
 - Formal ESG adoption in investment decisions has fluctuated, from a high in 2021 down to 35% in 2022 and 38% in 2024, showing investor appetite is real but not steadily rising every year.
-
-## Connected topics
-
-- [What is CSRD?](What%20is%20CSRD%3F.md)
-- [Why Reporting is Important](Why%20Reporting%20is%20Important%3F.md)
-- [What is ESG?](../concepts/key-ideas/What%20is%20ESG%3F.md)
 
 ## Sources
 

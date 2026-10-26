@@ -5,6 +5,9 @@ tags: ["#renewables", "#energy", "#energy-efficiency"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: floating solar farms, SolarisFloat, agrivoltaics, co-locating crops and solar, photovoltaics, silicon solar cells, thin-film solar cells, cadmium telluride, III-V solar cells, perovskites, quantum dots, organic solar cells, land use, evapotranspiration, Netherlands
+related:
+  - FACTS about NUCLEAR energy
+  - FACTS about Wind Energy
 ---
 
 # Facts about Solar Energy
@@ -28,11 +31,6 @@ According to the [US National Renewable Energy Laboratory (NREL)](https://www.nr
 - **III-V solar cells**: named for the elements that make them up, mainly from Group III (such as gallium and indium) and Group V (such as arsenic and antimony) of the periodic table. These [cells](https://www.nrel.gov/pv/high-efficiency-iii-v-solar-cells.html) are considerably more expensive to manufacture than the alternatives, but convert sunlight into electricity at much higher efficiencies. That makes them the preferred choice for satellites, unmanned aerial vehicles, and other applications where the ratio of power to weight matters most.
 
 Researchers at NREL and elsewhere are also pursuing newer photovoltaic technologies, including cells made from [organic materials](https://www.nrel.gov/pv/organic-photovoltaic-solar-cells.html), [quantum dots](https://www.nrel.gov/news/press/2017/scientists-elevate-quantum-dot-solar-cell-world-record.html), and hybrid organic-inorganic materials known as [perovskites](https://www.nrel.gov/pv/perovskite-solar-cells.html). These next-generation technologies may eventually offer lower costs or easier manufacturing, though further research is needed to confirm whether these promises hold up.
-
-## Connected topics
-
-- [FACTS about NUCLEAR energy](FACTS%20about%20NUCLEAR%20energy.md)
-- [FACTS about Wind Energy](FACTS%20about%20Wind%20Energy.md)
 
 ## Sources
 

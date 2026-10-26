@@ -5,6 +5,9 @@ tags: ["#renewables", "#ocean", "#nature"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: blue energy, wave power, ocean current energy, ocean thermal energy, hydropower, mega dams, deforestation, biodiversity loss, displacement, methane emissions from dams, mini-hydro, micro-hydro, Hydro Empowerment Network, Seabased, China dam building, protected areas
+related:
+  - First Osmotic Power Plants
+  - FACTS about NUCLEAR energy
 ---
 
 # Facts about Blue Energy and Hydropower
@@ -22,11 +25,6 @@ Large dams are also not automatically climate-friendly. In tropical regions, lar
 ## Companies to watch
 
 [Seabased](https://seabased.com/) is a solution provider worth watching in the wave power space, offering a mix of energy solutions built around wave energy conversion.
-
-## Connected topics
-
-- [First Osmotic Power Plants](First%20Osmotic%20Power%20Plants.md)
-- [FACTS about NUCLEAR energy](FACTS%20about%20NUCLEAR%20energy.md)
 
 ## Sources
 

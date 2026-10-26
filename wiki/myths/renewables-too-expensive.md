@@ -13,6 +13,12 @@ summary: renewable costs, solar 85% cost drop since 2010, 96% new solar wind che
 claim_id: renewables-too-expensive
 verdict: false
 topic: energy
+related:
+  - not-enough-clean-energy
+  - renewables-not-replacing-fossil-fuels
+  - intermittency-storage-problem
+  - renewables-take-too-much-land
+  - renewables-need-fossil-fuels-to-build
 ---
 
 # Myth: renewable energy is too expensive
@@ -74,15 +80,6 @@ Because your bill doesn't include the air-pollution deaths, the healthcare costs
 **The finance gap.** Solar and wind have most of their cost upfront (capital) and very low ongoing cost (fuel = zero). That makes them very sensitive to interest rates. In rich countries with cheap capital, they're a bargain. In poorer countries paying 12% interest instead of 5%, the upfront cost problem is much harder. This is why [climate finance for poorer countries](poor-countries-need-fossil-fuels.md) matters so much.
 
 **Fossil fuels won't get cheaper.** After decades of declining, coal, oil and gas prices have not fallen structurally. They swing on wars, cartels and speculation. Renewables have declined every year of the last decade and are expected to keep declining. The lines have already crossed.
-
-## Connected topics
-
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
-- [Renewables not replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
-- [Intermittency / storage (myth)](intermittency-storage-problem.md)
-- [Renewables take too much land (myth)](renewables-take-too-much-land.md)
-- [Renewables need fossil fuels to build (myth)](renewables-need-fossil-fuels-to-build.md)
-- [Poor countries need fossil fuels (myth)](poor-countries-need-fossil-fuels.md)
 
 ## Sources
 

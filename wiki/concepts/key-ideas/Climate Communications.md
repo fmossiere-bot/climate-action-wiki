@@ -5,6 +5,9 @@ tags: ["#behaviour", "#key-ideas", "#eco-anxiety", "#science"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Katharine Hayhoe, Yale Global Warming's Six Americas, dismissives deniers doubters, World Risk Poll, shared values communication, farmers climate variability language, solutions-focused messaging, Media Matters climate coverage study, journalist background vs off the record, IPCC Summary for All, 25% Revolution social tipping point, Damon Centola research, cognitive biases hyperbolic discounting, bystander effect, sunk-cost fallacy, Dunbar's number, endowment effect, social comparison theory, Exposure Labs Chasing Ice, energy bill nudges
+related:
+  - Talking about Climate Change ACTION GUIDE
+  - IRELAND - Climate Change in the Irish Mind
 ---
 
 # Climate Communications: How to Talk About Climate Change So People Listen
@@ -54,10 +57,6 @@ Finally, framing matters. People respond better to positively framed messages, s
 - Damon Centola's research finds that once roughly 25% of a group adopts a new belief, the majority tends to follow.
 - "Dunbar's number" puts the limit on an individual's stable social relationships at around 150 people, beyond which trust and cooperation weaken.
 - The IPCC's 2021 Summary for All distilled its full Sixth Assessment Report into just 16 pages for general audiences.
-
-## Connected topics
-- [Talking about Climate Change Action Guide](../behavior-change/Talking about Climate Change ACTION GUIDE.md)
-- [Ireland - Climate Change in the Irish Mind](../../ireland-hub/IRELAND%20-%20Climate%20Change%20in%20the%20Irish%20Mind.md)
 
 ## Sources
 - TED, Katharine Hayhoe talk — https://www.youtube.com/watch?v=-BvcToPZCLI

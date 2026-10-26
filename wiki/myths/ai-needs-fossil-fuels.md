@@ -13,6 +13,12 @@ summary: AI energy demand, data centres 1 to 3 percent of world electricity, Goo
 claim_id: ai-needs-fossil-fuels
 verdict: mostly-false
 topic: energy
+related:
+  - ai-data-centre-energy-crisis
+  - pfas-datacentre-cooling-guardian-2026
+  - meta-quits-re100-rte-2026
+  - FACTS about AI, Emissions impacts and mitigation potential
+  - not-enough-clean-energy
 ---
 
 # Myth: AI will need so much energy we have to burn more fossil fuels to keep up
@@ -73,15 +79,6 @@ Recent examples: **Meta contracting 10 gas plants for its Hyperion data centre i
 **The nuclear angle.** Big Tech is investing in nuclear too — Amazon, Microsoft and Google have all placed bets. New nuclear is slow, so the fastest route is **reopening existing plants**: Microsoft is doing exactly that at Three Mile Island. This is arguably the most productive use of the AI capital surge, but it doesn't help fast enough on its own.
 
 **AI as a climate tool.** The Ritchie extract also lists specific ways AI could help: **finding hidden mineral deposits** needed for clean energy, **balancing electricity grids** with more variable renewables, and **forecasting weather** more accurately to support renewable planning and adaptation. Whether these gains outweigh the extra emissions from running AI is an open question — the honest answer is that it depends on how AI is powered.
-
-## Connected topics
-
-- [AI Data Centres and the Energy Crisis](../sectors/digital/ai-data-centre-energy-crisis.md)
-- [PFAS in datacentre cooling (source)](../sources/pfas-datacentre-cooling-guardian-2026.md)
-- [Meta quits RE100 (source)](../sources/meta-quits-re100-rte-2026.md)
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](../sectors/digital/FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
-- [Renewables aren't replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
 
 ## Sources
 

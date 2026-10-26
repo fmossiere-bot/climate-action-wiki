@@ -5,6 +5,9 @@ tags: ["#fossil-fuels", "#energy-transition", "#transport"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: global oil demand, road transport, petrochemicals, plastics, aviation, shipping, heating, non-energy uses, International Energy Agency, oil end use
+related:
+  - FACTS About Fossil Fuel (Oil and Gaz) Industry
+  - Renewable on Track to overtake Coal
 ---
 
 # Where Does Oil Actually Go? A Breakdown of Global Demand
@@ -23,11 +26,6 @@ Understanding where oil actually goes matters for the energy transition because 
 - Petrochemical feedstock, used to make plastics, fertilisers and other materials, is a major and growing share of oil demand that is not addressed by electrifying transport.
 - Aviation and shipping rely heavily on oil-derived fuels and are among the hardest sectors to decarbonise with current technology.
 - Because oil serves such different end uses, the energy transition needs sector-specific solutions rather than a single fix.
-
-## Connected topics
-
-- [FACTS About the Fossil Fuel (Oil and Gas) Industry](FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
-- [Renewables on Track to Overtake Coal](Renewable%20on%20Track%20to%20overtake%20Coal.md)
 
 ## Sources
 

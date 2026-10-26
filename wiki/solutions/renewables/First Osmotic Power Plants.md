@@ -5,6 +5,8 @@ tags: ["#renewables", "#ocean", "#nature"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: osmotic power, salinity gradient energy, Fukuoka Japan, Denmark osmotic plant, desalination, membrane technology, freshwater seawater energy, renewable electricity, 2050 energy demand
+related:
+  - FACTS about BLUE energy and Hydropower
 ---
 
 # First Osmotic Power Plants
@@ -24,10 +26,6 @@ Fukuoka's plant is expected to generate about **880,000 kilowatt-hours of electr
 The process is entirely renewable and produces no carbon dioxide. Because oceans and seas are effectively boundless for this purpose, osmotic power is considered a genuinely stable source of electricity that can operate around the clock, every day of the year.
 
 Today, osmotic power still contributes only a microscopic fraction of global electricity generation. But researchers believe that if the remaining technical challenges can be solved, it could eventually meet up to **15% of global energy demand by 2050**.
-
-## Connected topics
-
-- [FACTS about BLUE energy and Hydropower](FACTS%20about%20BLUE%20energy%20and%20Hydropower.md)
 
 ## Sources
 

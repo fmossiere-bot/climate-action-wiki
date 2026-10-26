@@ -7,6 +7,9 @@ created: 2026-06-11
 updated: 2026-10-26
 cover_image: ""
 summary: "carbon footprint, high income, environmental values, frequent flying, ecological footprint, behaviour change, policy vs attitude, Cambridge study, socioeconomic status, individual responsibility, aviation tax, degrowth, BP carbon footprint, environmentalists, emissions inequality, individual action vs system change"
+related:
+  - Facts about Air Travel
+  - How Countries Can Use Behavior Change to Further Reduce Emissions
 ---
 
 What is it
@@ -44,12 +47,6 @@ Sam Wollaston's Guardian field report from the Monaco Yacht Show 2026 (20 Octobe
 Grégory Salle (CNRS, author of *Superyachts: Luxury, Tranquility and Ecocide*) calls the pattern "conspicuous seclusion": visible, famous, named vessels that are simultaneously untouchable because of tax-neutral flag states (Cayman, Marshall, Isle of Man, Malta) and shell-company ownership. Beyond the carbon numbers, the physical harm is specific: anchors are destroying Mediterranean **Posidonia seagrass**, a vital marine habitat and oxygen source.
 
 This case extends the paradox beyond the high-income-environmentalist research. The super-rich do not need pro-environmental attitudes to generate huge emissions — the fleet is growing regardless. See [superyachts ecocide (source)](../../sources/superyachts-ecocide-guardian-2026.md).
-
-## Connected topics
-
-- [The Climate Mitigation Gap](wiki/_Archive/The%20climate%20Mitigation%20Gap%20research.md)
-- [Facts about Air Travel](../../sectors/transport/Facts%20about%20Air%20Travel.md)
-- [How Countries Can Use Behaviour Change to Further Reduce Emissions](How%20Countries%20Can%20Use%20Behavior%20Change%20to%20Further%20Reduce%20Emissions.md)
 
 ## Sources
 

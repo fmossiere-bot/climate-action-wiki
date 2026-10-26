@@ -12,6 +12,9 @@ sources:
 created: 2026-06-11
 updated: 2026-06-15
 summary: AMOC, Atlantic Meridional Overturning Circulation, Gulf Stream, ocean current, collapse, Southern Ocean, carbon release, CO2, tipping point, Greenland meltwater, irreversible, sea level rise, Antarctic ice sheet, European winters, monsoons, 640 billion tonnes, Potsdam Institute, Johan Rockstrom, Da Nian, ocean circulation, climate feedback, deep water, plankton carbon, AMOC monitoring, defunding, NASA, NOAA, NSF, OceanEye, Trump budget cuts, 10x faster, Ocean Observatories Initiative, Penny Holliday, Femke de Jong, Sjoerd Groeskamp
+related:
+  - Ocean Based Climate Solutions
+  - Global Impact of Climate Change
 ---
 
 # AMOC Collapse and Carbon Release
@@ -65,13 +68,6 @@ Systematic AMOC monitoring only began around two decades ago, stitched together 
 The European Commission launched the **OceanEye** initiative in 2026, committing €50 million to ocean observation. But OceanEye is not yet operational, and the research vessels servicing current monitoring need bridging funding right now.
 
 The total cost of all AMOC monitoring globally is roughly **€25 million per year** — about five cents per EU citizen. The authors urge the EU, the UK, and international partners to treat AMOC monitoring as an urgent global priority before continuity is broken and the data record is permanently lost.
-
-## Connected topics
-
-- [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [Ocean-Based Climate Solutions](Ocean%20Based%20Climate%20Solutions.md)
-- [DRAFT - FACTS about Glacier](DRAFT%20-%20FACTS%20about%20Glacier.md)
-- [Global Impact of Climate Change](Global%20Impact%20of%20Climate%20Change.md)
 
 ## Sources
 

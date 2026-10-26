@@ -6,6 +6,12 @@ sources: ["The Guardian, Stefano Valentino, 27 January 2026 — https://www.theg
 created: 2026-07-13
 updated: 2026-10-26
 summary: mass-balance bookkeeping, pyrolysis oil, chemical recycling, ISCC certification, avoided emissions, Sabic Aramco, Kraft Heinz Beanz, Mondelēz Philadelphia, PPWR EU 2026, UK plastic packaging tax mass balance 2027, Zero Waste Europe, Ecos, Helmut Maurer, Lauriane Veillard, Peter Quicker, Plastic Energy, virgin naphtha, plastic industry lobbying, LCA critiqued, Guardian investigation, IJ4EU, fossil fuel plastic pivot
+related:
+  - FACTS about Plastic
+  - seaqual-ocean-plastic-fashion
+  - Greenwashing
+  - Greenwashing lawsuits on the rise
+  - fossil-fuel-banking
 ---
 
 # The 'Recycled' Plastic That Isn't: Mass-Balance Accounting and the Pyrolysis Loophole
@@ -84,15 +90,6 @@ Two contrasting benchmarks:
 
 - **Physical recycled content**: recycled material is actually and traceably present in the final product, e.g. **[Seaqual ocean plastic yarn](seaqual-ocean-plastic-fashion.md)** using 10% upcycled marine plastic + 90% land-based rPET, with an LCA showing 37% GWP reduction and third-party certification
 - **Genuine chemical recyclability**: bio-based composites like the new [wood-based epoxy/polyester resins](../sectors/industry/bio-based-resins-composites.md) from the University of Oulu, which are designed to be chemically broken down into their original raw materials
-
-## Connected topics
-
-- [FACTS about Plastic](FACTS%20about%20Plastic.md)
-- [Seaqual — ocean plastic to fashion](seaqual-ocean-plastic-fashion.md)
-- [Greenwashing](../concepts/key-ideas/Greenwashing.md)
-- [Greenwashing lawsuits on the rise](../concepts/key-ideas/Greenwashing lawsuits on the rise.md)
-- [Fossil fuel banking](../climate-finance/fossil-fuel-banking.md)
-- [Bio-based resins and composites](../sectors/industry/bio-based-resins-composites.md)
 
 ## Sources
 

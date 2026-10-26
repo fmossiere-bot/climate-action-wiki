@@ -5,6 +5,9 @@ tags: ["#transport", "#behaviour"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: active travel, walking, cycling, short car journeys, transport emissions UK, SUV emissions, noise pollution, road infrastructure cost, fourth-power law, cycling to work, health benefits of cycling, air pollution deaths, road safety, 15-minute city, behaviour change
+related:
+  - Electrify Everything
+  - EV Progress
 ---
 
 # Active Travel and Human-Powered Transport
@@ -57,11 +60,6 @@ The health case is just as strong. Just 30 minutes of moderate exercise most day
 - *Happy City: Transforming Our Cities for People and Planet* by Charles Montgomery
 - Not Just Bikes, YouTube channel and podcast on car-free urban design
 - Cycling UK's campaigning resources — https://www.cyclinguk.org/cycle-campaigning
-
-## Connected topics
-
-- [Electrify Everything](Electrify%20Everything.md)
-- [EV Progress](EV%20Progress.md)
 
 ## Sources
 

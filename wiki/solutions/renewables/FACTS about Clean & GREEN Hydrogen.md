@@ -5,6 +5,11 @@ tags: ["#alternative-fuels", "#energy-transition", "#renewables", "#science"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: "green hydrogen, clean hydrogen, blue hydrogen, grey hydrogen, white hydrogen, natural hydrogen, electrolysis, round-trip efficiency, hydrogen storage, fuel cells, ammonia, steel, shipping, aviation, freight transport, hydrogen leaks, HEVO-Solar concentrated photovoltaic, hydrogen from plastic waste, graphene, geologic hydrogen, Folschviller France hydrogen deposit, Hydrogen Hubs United States, Cepsa Andalusia Spain, PosHYdon, North Sea, Netherlands, Q13a-A platform, offshore gas platform reuse, offshore wind electrolysis, Eni Energy Netherlands"
+related:
+  - FACTS about Wind Energy
+  - Geothermal energy
+  - FACTS about Plastic
+  - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
 ---
 
 ## What is Green Hydrogen
@@ -84,13 +89,6 @@ The **PosHYdon** pilot project produced its first batch of green hydrogen in lat
 The process: offshore wind electricity converts seawater into demineralised water, which is then split into hydrogen via electrolysis, while the platform's gas extraction continues in parallel. Rather than building new infrastructure, the project **reuses an existing offshore gas platform**, which partners describe as a "watershed moment" for the wider energy transition. The consortium (Eni, TNO, Emerson and others, backed by the Dutch Ministry of Economic Affairs and Climate Policy) is now gathering real operational data on cost, maintenance and performance to help offshore hydrogen production scale up.
 
 *Source: [PosHYdon (source summary)](../../sources/poshydon-north-sea-green-hydrogen-forbes-2026.md); Forbes, Gaurav Sharma, 11 August 2026*
-
-## Connected topics
-
-- [FACTS about Wind Energy](FACTS about Wind Energy.md)
-- [Geothermal energy](Geothermal energy.md)
-- [FACTS about Plastic](../../circularity-waste/FACTS about Plastic.md)
-- [Sustainable Aviation Fuel - A Necessary but Complicated Solution](../electrification/Sustainable Aviation Fuel -  A Necessary but Complicated Solution.md)
 
 ## Sources
 

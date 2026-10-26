@@ -12,6 +12,12 @@ summary: EROI energy return on investment, solar payback less than one year, win
 claim_id: renewables-need-fossil-fuels-to-build
 verdict: false
 topic: energy
+related:
+  - FACTS about Solar Energy
+  - FACTS about Wind Energy
+  - not-enough-clean-energy
+  - renewables-not-replacing-fossil-fuels
+  - ariana-mine-santander
 ---
 
 # Myth: we need fossil fuels to build renewable energy
@@ -67,15 +73,6 @@ For a shrinking share, for a shrinking time, yes. The remaining fossil use in su
 **Where the myth usually comes from.** It appears most often in one of two places: **industry-linked commentary** that wants to frame renewables as parasitic on fossil fuels, and **honest technical scepticism** from people who read decades-old EROI papers where solar and wind really were lower. Both are answered by looking at current numbers. Modern silicon solar and modern wind turbines dominate the older estimates by wide margins.
 
 **One genuine caveat.** The EROI story works well for solar, wind and nuclear. It works less well for **biofuels** — some biofuel pathways have EROI values close to 1, meaning the "clean" credit vanishes once the full lifecycle is counted. That is a real reason to be cautious about biofuel-heavy climate plans, but it is not an argument against the transition as a whole.
-
-## Connected topics
-
-- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
-- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
-- [Renewables aren't replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
-- [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md) — the mining side of the supply chain
-- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
 
 ## Sources
 

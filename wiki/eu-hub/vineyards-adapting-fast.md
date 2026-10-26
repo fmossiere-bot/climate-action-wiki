@@ -6,6 +6,12 @@ sources: ["raw/articles/vineyards-adapting-fast.md", "Pauline Garaude, French ma
 created: 2026-10-26
 updated: 2026-10-26
 summary: French vineyards adaptation climate change, Jonas Dubois Pyrénées-Orientales, Juliette Combe Château Cheval Blanc Saint-Émilion Bordeaux agroforestry 2000 trees 56 species, Alain Canet, Konrad Schreiber La Belle Vigne Beaujolais ground cover, Sun'Agri agrivoltaics mobile solar panels AI 12-34 percent less watering 5 degrees cooler, Olivier Bourdet-Pees Plaimont 39 grape varieties, Manseng noir tardif, Vifa varieties of interest for adaptation, Christian Paly Inao, touriga nacional alvarinho Portugal nebbiolo Italy souvignier gris Germany, castets floréal xinomavro marselan voltis Champagne, Vitilience IFV 2024 Melissa Merdy, rootstocks drought, Hauts-de-France Brittany Normandy 0.1 percent vineyards chardonnay chenin solaris, Antoine Bouin Mentque-Nortbécourt Pas-de-Calais 2021 150 hectares PGI, Aurélien Berthou Saint-Goustan Morbihan 2022 mildew oidium
+related:
+  - france-urban-transport
+  - france-battery-industry
+  - The importance of Hedgerows
+  - france-biomethane-boom
+  - record-hot-ocean-el-nino-2026
 ---
 
 > **Editorial summary:** Fabien's translation of Pauline Garaude's feature in a French magazine (September-October 2026, pp. 65-67) on how French winegrowers are adapting to heatwaves, drought and a shifted calendar. Preserved verbatim per the own-research rule, including the translator's gap-check notes. **The piece covers four tracks: agroforestry (Juliette Combe at Château Cheval Blanc planting 2,000 trees of 56 species), agrivoltaics (Sun'Agri's AI-controlled solar panels cutting watering 12-34% and keeping vines 3-5°C cooler), new "Vifa" grape varieties (Plaimont testing 39 varieties, with foreign imports like touriga nacional from Portugal and souvignier gris from Germany now approved in regional AOCs), and the northward march (Hauts-de-France, Brittany, Normandy now making wine — including the Pas-de-Calais vineyard of Antoine Bouin, 20km from Calais, aiming for 35,000 bottles by 2028).** The adaptation isn't optional: even northern France saw its first August harvest in Brittany in 2026.
@@ -104,12 +110,3 @@ The Hauts-de-France vineyard now covers nearly 150 hectares across five departme
 - **Grape variety names** (touriga nacional, alvarinho, manseng noir, etc.) and appellation names stay as in French, as they are the official names.
 - **AOC** is the French protected designation of origin (PDO). **IGP** is the French name for PGI (protected geographical indication). Each wine area has a strict "rulebook" (cahier des charges) about which grapes and methods are allowed, which is why new grape varieties are a big deal.
 - **Vifa** stands for "variétés d'intérêt à fins d'adaptation", which I translated as "varieties of interest for adaptation".
-
-## Connected topics
-
-- [France urban transport](france-urban-transport.md)
-- [France battery industry](france-battery-industry.md)
-- [Hedgerows](../solutions/nature-based-solutions/The%20importance%20of%20Hedgerows.md)
-- [France Biomethane Boom](../solutions/renewables/france-biomethane-boom.md)
-- [Record-hot ocean and 2026 El Niño](../climate-science/record-hot-ocean-el-nino-2026.md)
-- [Climate tipping points](../climate-science/climate-tipping-points.md)

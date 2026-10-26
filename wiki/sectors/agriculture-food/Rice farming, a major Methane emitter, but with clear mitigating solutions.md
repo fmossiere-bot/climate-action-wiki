@@ -5,6 +5,10 @@ tags: ["#food", "#methane", "#agriculture", "#carbon"]
 created: 2025-06-01
 updated: 2026-08-26
 summary: rice paddy methane, enteric fermentation comparison, nitrous oxide, Alternate Wetting and Drying, AWD, integrated rice-fish farming, fertiliser management, straw burning, rice water footprint, rice soil degradation, Asia rice consumption, global carbon footprint of rice, rice fertiliser use
+related:
+  - 6 Ways to Reduce Methane from Agriculture
+  - Methane emissions role in Global Warming
+  - About Food and Farming
 ---
 
 # FACTS about Rice Production
@@ -33,12 +37,6 @@ The two biggest levers for reducing rice's environmental footprint are the exces
 - **Integrated rice-fish farming:** introducing fish into rice paddies naturally controls pests and reduces methane emissions by altering the paddy's microbial communities.
 - **Improved fertiliser management:** precision application of fertiliser minimises nitrous oxide emissions and prevents nutrient runoff.
 - **Straw management:** rather than burning leftover rice straw, it can be repurposed as livestock feed or for mushroom cultivation, cutting air pollution while adding economic value for farmers.
-
-## Connected topics
-
-- [6 Ways to Reduce Methane from Agriculture](6%20Ways%20to%20Reduce%20Methane%20from%20Agriculture.md)
-- [Methane's Role in Global Warming: Sources, Super-Emitters and Solutions](../../climate-science/Methane%20emissions%20role%20in%20Global%20Warming.md)
-- [About Food and Farming](About%20Food%20and%20Farming.md)
 
 ## Sources
 

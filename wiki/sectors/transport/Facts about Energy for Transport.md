@@ -5,6 +5,11 @@ tags: ["#transport", "#ev", "#alternative-fuels", "#energy-transition"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: transport energy consumption, final energy use, renewable energy in transport, Nationally Determined Contributions, electric car sales, EV fleet share, SUV electric models, biofuels, hard-to-decarbonise sectors, aviation shipping long-haul, renewable electricity-based fuels, hydrogen, biomethane, REN21
+related:
+  - Car Life Cycle Emissions - EV vs Combustion
+  - Long-Haul Shipping
+  - Decarbonising Aviation and Shipping
+  - First Cargo ship running on BioMethanol
 ---
 
 # Facts about Energy for Transport
@@ -38,13 +43,6 @@ Aviation, shipping and other long-haul transport remain the most difficult parts
 - More than half of electric car models on the market in 2021 were SUVs.
 - Biofuels, not electricity, remain the largest renewable energy source within transport overall.
 - Aviation, shipping and long-haul transport are the hardest sub-sectors to decarbonise, needing large infrastructure investment in renewable electricity-based fuels, hydrogen or biomethane.
-
-## Connected topics
-
-- [Car Life Cycle Emissions: EV vs Combustion](Car%20Life%20Cycle%20Emissions%20-%20EV%20vs%20Combustion.md)
-- [Long-Haul Shipping](Long-Haul%20Shipping.md)
-- [Decarbonising Aviation and Shipping](../../solutions/electrification/Decarbonising%20Aviation%20and%20Shipping.md)
-- [First Cargo Ship Running on Bio-Methanol](../../solutions/renewables/First%20Cargo%20ship%20running%20on%20BioMethanol.md)
 
 ## Sources
 

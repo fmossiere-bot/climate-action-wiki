@@ -5,6 +5,10 @@ tags: ["#food", "#carbon", "#transport"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: food miles, food transport emissions, tonne-kilometre, field to fork study, air freight emissions, sea freight emissions, tomatoes UK glasshouse, beef carbon footprint, peas carbon footprint, lamb cheese emissions, poultry pork emissions, land use change emissions, enteric fermentation, Poore and Nemecek 2018, Our World in Data, EU diet footprint study, international food trade
+related:
+  - About Food and Farming
+  - FACTS about Farming and Food production
+  - beef-and-climate-change
 ---
 
 # Food Carbon Footprint: Does Food Mileage Really Matter?
@@ -30,12 +34,6 @@ The gap between foods is enormous: producing a kilogram of beef emits around 60k
 For most foods, and especially the largest emitters, the bulk of emissions come not from transport but from land-use change and from processes at the farm stage itself, including the application of fertilisers (both synthetic and organic, via manure management) and enteric fermentation, the methane produced in the stomachs of cattle. Combined, land use and farm-stage emissions account for more than 80% of the footprint of most foods. Transport, by contrast, is a small contributor: for most food products it accounts for less than 10% of emissions, and the share shrinks further for the largest emitters, in beef from beef herds it is just 0.5%. Everything that happens after food leaves the farm, processing, transport, retail and packaging combined, mostly accounts for a small share of the total footprint.
 
 This pattern holds not just for individual products but for whole diets. Researchers Vilma Sandström and colleagues [studied the footprint of diets across the EU](https://www.sciencedirect.com/science/article/pii/S2211912418300361) and found that food transport accounted for only 6% of emissions, while dairy, meat and eggs together accounted for 83%. What you eat, in other words, matters far more to your food footprint than how far it travelled to reach you, though for a smaller category of highly perishable, air-freighted produce, transport mode can still make a meaningful difference.
-
-## Connected topics
-
-- [About Food and Farming](About%20Food%20and%20Farming.md)
-- [FACTS about Farming and Food Production](FACTS%20about%20Farming%20and%20Food%20production.md)
-- [Beef and Climate Change: Six Questions, Answered Plainly](beef-and-climate-change.md)
 
 ## Sources
 

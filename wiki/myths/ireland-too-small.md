@@ -45,10 +45,6 @@ Everyone under 2% together is about a third of global emissions. If they all wai
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Irish Independent, Ireland data centre boom (Jun 2026) — https://www.independent.ie/

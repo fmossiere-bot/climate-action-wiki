@@ -5,6 +5,11 @@ tags: ["#shipping", "#carbon", "#alternative-fuels", "#transport"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: maritime shipping emissions, electric cargo ships, battery electric ships, hydrogen shipping, wind-powered cargo ships, green ammonia, nitrogen cycle, International Maritime Organization, IMO carbon intensity targets, onboard carbon capture, Seabound, sailing cargo ships, fossil fuel tonnage, hard-to-decarbonise sectors
+related:
+  - Facts about Energy for Transport
+  - Decarbonising Aviation and Shipping
+  - First Cargo ship running on BioMethanol
+  - Powering Ships with a kite
 ---
 
 # Long-Haul Shipping
@@ -50,13 +55,6 @@ In 2024, the largest sailing cargo ship in existence completed its maiden transa
 - Green ammonia, while promoted as a shipping fuel, risks disturbing the nitrogen cycle at scale (Nature Energy).
 - Seabound's onboard carbon capture claims up to 95% CO2 capture per ship.
 - The world's largest sailing cargo ship has a carbon footprint around 10 times smaller than an equivalent container ship.
-
-## Connected topics
-
-- [Facts about Energy for Transport](FACTS%20about%20Energy%20for%20Transport.md)
-- [Decarbonising Aviation and Shipping](../../solutions/electrification/Decarbonising%20Aviation%20and%20Shipping.md)
-- [First Cargo Ship Running on Bio-Methanol](../../solutions/renewables/First%20Cargo%20ship%20running%20on%20BioMethanol.md)
-- [Powering Ships with a Kite](../../solutions/renewables/Powering%20Ships%20with%20a%20kite.md)
 
 ## Sources
 

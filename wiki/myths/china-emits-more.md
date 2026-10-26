@@ -83,10 +83,6 @@ Every country under 2% adds up to about a third of global emissions. If small me
 
 China's emissions don't have to keep rising. If China's clean energy keeps growing fast enough to meet its rising demand for power, coal use will fall. Because China is so big, when its emissions reach the peak and start dropping, the world's emissions will follow.
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Our World in Data, CO2 emissions — https://ourworldindata.org/co2-emissions

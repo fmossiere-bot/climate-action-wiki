@@ -14,6 +14,12 @@ summary: nuclear safety, deaths per TWh, coal 25 to 33 nuclear 0.1 solar wind 0.
 claim_id: nuclear-too-dangerous
 verdict: false
 topic: energy
+related:
+  - nuclear-too-expensive
+  - nuclear-takes-too-long-to-build
+  - nuclear-waste-unsolved
+  - not-enough-clean-energy
+  - indirect-greenhouse-gases-newscientist-2026
 ---
 
 # Myth: nuclear power is too dangerous
@@ -83,14 +89,6 @@ Modern containment structures are extremely hard to breach. Water reservoirs beh
 **Chernobyl was an outlier, not the norm.** The RBMK reactor design at Chernobyl had specific flaws (a positive void coefficient, no proper containment building) that were known to Soviet designers and would never be permitted today. Modern reactors are fundamentally different. Comparing all future nuclear risk to Chernobyl is like judging modern aviation by 1970s crash statistics.
 
 **The three points that matter.** (1) Nuclear is dramatically safer than fossil fuels. (2) Nuclear is roughly as safe as solar and wind. (3) Zooming into the tiny difference between nuclear/solar/wind is not useful — the data isn't precise enough, and the gap with fossil fuels dwarfs it.
-
-## Connected topics
-
-- [Nuclear too expensive (myth)](nuclear-too-expensive.md)
-- [Nuclear takes too long to build (myth)](nuclear-takes-too-long-to-build.md)
-- [Nuclear waste unsolved (myth)](nuclear-waste-unsolved.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
-- [Forgotten pollutants (source)](../sources/indirect-greenhouse-gases-newscientist-2026.md)
 
 ## Sources
 

@@ -5,6 +5,9 @@ tags: ["#science", "#research"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Kate Marvel, cloud feedback, water vapour evaporation, climate sensitivity uncertainty, Steven Sherwood cloud study, CERN Cloud experiment, aerosols and cloud formation, cloud brightness, air pollution reduction knock-on effects
+related:
+  - Global Impact of Climate Change
+  - The Work of Climate Science
 ---
 
 # Keynote: Dr Kate Marvel on Clouds and Climate Uncertainty
@@ -20,11 +23,6 @@ That may be starting to change. A landmark study led by Steven Sherwood (Univers
 Physical experiments are helping too. A cloud chamber experiment at CERN has, for the first time, been able to recreate atmospheric cloud conditions in a lab setting, offering climate models a much-needed empirical input where they previously had to rely on a wide range of assumptions. Other researchers are approaching the problem from different angles, studying ice crystal formation directly or building their own cloud chambers.
 
 Aerosols add a further layer of complexity. Dust, soot from power plants, and even airborne fungi act as the seeds around which water droplets or ice crystals form clouds in the first place. As atmospheric scientist Graham Feingold has put it, "clouds have a very, very difficult time forming in the absence of these particles." The size, type and number of aerosol particles present all affect how bright a cloud is, by changing how many droplets or crystals it contains. Current climate models handle the direct brightness effect of aerosols reasonably well, but do a poorer job capturing their knock-on effects, such as how they alter a cloud's lifetime. This matters increasingly as air pollution is cut for public health reasons: fewer aerosol particles in the atmosphere means the clouds that depend on them will change too, in ways models don't yet fully capture.
-
-## Connected topics
-
-- [Global Impact of Climate Change](Global%20Impact%20of%20Climate%20Change.md)
-- [The Work of Climate Science](The%20Work%20of%20Climate%20Science.md)
 
 ## Sources
 

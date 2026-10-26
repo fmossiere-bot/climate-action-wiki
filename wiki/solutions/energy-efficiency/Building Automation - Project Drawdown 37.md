@@ -5,6 +5,9 @@ tags: ["#building-industry", "#energy-efficiency", "#buildings"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: building automation systems, BAS, centralised control systems, heating and cooling, HVAC, lighting control, appliances, commercial buildings, residential buildings, energy efficiency, worker productivity, Project Drawdown, return on investment, operating costs
+related:
+  - Net-Zero Buildings
+  - Cool Roofs - A Simple Idea with a Surprisingly Large Impact
 ---
 
 # Building Automation: Project Drawdown 37
@@ -25,11 +28,6 @@ Heating, cooling and lighting waste a huge amount of energy in buildings that ar
 - Residential and commercial buildings together account for around a third of global carbon dioxide emissions, largely because of their share of energy consumption.
 - Under Project Drawdown's central scenario, wider adoption of building automation could avoid 9.55 gigatons of carbon dioxide equivalent greenhouse gas emissions by 2050.
 - That scenario requires an initial additional investment of US$287.70 billion above the reference case, but saves an estimated US$2.27 trillion in operating costs over the lifetime of the technology.
-
-## Connected topics
-
-- [Net-Zero Buildings](Net-Zero%20Buildings.md)
-- [Cool Roofs: A Simple Idea with a Surprisingly Large Impact](Cool%20Roofs%20-%20A%20Simple%20Idea%20with%20a%20Surprisingly%20Large%20Impact.md)
 
 ## Sources
 

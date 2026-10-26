@@ -5,6 +5,9 @@ tags: ["#energy-transition", "#renewables", "#research"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: land use, land footprint, energy density, solar power, wind power, nuclear power, fossil fuels, bioenergy, agrivoltaics, offshore wind
+related:
+  - Renewable on Track to overtake Coal
+  - The Energy Supercycle is Unstoppable
 ---
 
 # Space Necessary for the Various Energy Sources
@@ -25,11 +28,6 @@ Land-use footprint is one of the practical constraints that shapes which energy 
 - Wind and solar require considerably more land per unit of energy generated than fossil fuels or nuclear, since they harvest a diffuse resource spread across an area.
 - Bioenergy has by far the largest land footprint of any major energy source per unit of energy, because it depends on growing biomass before it can be converted into usable energy.
 - Offshore wind and agrivoltaics (solar panels combined with farming) are two practical ways to reduce the land trade-off associated with renewable energy.
-
-## Connected topics
-
-- [Renewables on Track to Overtake Coal](Renewable%20on%20Track%20to%20overtake%20Coal.md)
-- [The Energy Supercycle Is Unstoppable](The%20Energy%20Supercycle%20is%20Unstoppable.md)
 
 ## Sources
 

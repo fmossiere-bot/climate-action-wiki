@@ -5,6 +5,10 @@ tags: ["#company-evaluations", "#greenwashing", "#plastic", "#recycle", "#circul
 created: 2026-06-01
 updated: 2026-08-26
 summary: Colgate-Palmolive, toothpaste tube recycling, greenwashing lawsuit, Reuters, monomaterial HDPE tube, Break Free From Plastic Audit 2019, plastic footprint 287000 tonnes, virgin plastic reduction target, MacArthur Foundation Global Commitment, Ann Tracy CSO, Talking Trash report, recycled content 7 percent, curb-side recycling, TerraCycle Loop, packaging lightweighting
+related:
+  - Greenwashing
+  - Greenwashing lawsuits on the rise
+  - FACTS about Circular Economy
 ---
 
 ## Some facts about Colgate-Palmolive
@@ -56,12 +60,6 @@ The NGO report "Talking Trash" (2020) offers a more critical view, though much o
 ## Sustainability report targets
 
 Colgate-Palmolive's own sustainability reporting reiterates its headline target of reducing virgin plastic use by one third by 2025, compared with 2019.
-
-## Connected topics
-
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [Greenwashing lawsuits on the rise](../key-ideas/Greenwashing%20lawsuits%20on%20the%20rise.md)
-- [FACTS about Circular Economy](../key-ideas/FACTS%20about%20Circular%20Economy.md)
 
 ## Sources
 

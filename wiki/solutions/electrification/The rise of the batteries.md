@@ -5,6 +5,12 @@ tags: ["#battery", "#ev", "#energy-transition", "#phaseout"]
 created: 2026-06-01
 updated: 2026-10-18
 summary: battery sales growth, S-curves, battery cost decline, energy density, battery domino effect, fossil fuel phase-out, lithium-ion batteries, RMI X-Change Batteries report, BNEF forecasts, electric vehicles, stationary storage, shipping and aviation batteries, lithium mining myths
+related:
+  - EV Progress
+  - Decarbonising Trucking and Rail Freight
+  - smaller-evs-better
+  - sodium-ion-batteries
+  - sand-battery-finland-pornainen-2026
 ---
 
 # The Rise of Batteries
@@ -51,14 +57,6 @@ Sodium-ion has lower energy density than lithium (~160-175 Wh/kg vs 205 for LFP,
 ## Understanding the lithium battery: the mining myth
 
 A common objection to the battery transition is that mining the materials for batteries, particularly lithium, will end up being worse for the climate and environment than continuing to burn fossil fuels. This claim does not hold up: even accounting for the mining and processing required, batteries deliver a large net reduction in lifecycle emissions compared with the fossil fuels they displace, and battery materials can be recycled repeatedly, unlike coal, oil or gas, which are burned once and gone. See the myth-busting discussion in [Climate Myth Busters: EVs, Batteries and Recycling](../../_Archive/FACTS%20-%20Climate%20Myth%20Busters%20and%20Back%20Pocket%20Stories.md) for a fuller treatment of this and other common battery and mining objections.
-
-## Connected topics
-
-- [EV Progress](EV%20Progress.md)
-- [Decarbonising Trucking and Rail Freight](Decarbonising%20Trucking%20and%20Rail%20Freight.md)
-- [Smaller EVs Are Better](../../sectors/transport/smaller-evs-better.md)
-- [Sodium-ion batteries](sodium-ion-batteries.md)
-- [Sand battery, Pornainen (source)](../../sources/sand-battery-finland-pornainen-2026.md)
 
 ## Sources
 

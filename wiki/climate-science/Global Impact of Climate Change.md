@@ -5,6 +5,11 @@ tags: ["#science", "#adaptation", "#ocean"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: 1.5 degrees Celsius threshold, Paris Agreement, net-zero emissions, carbon budget, Shared Socioeconomic Pathways, SSPs, Integrated Assessment Models, Arctic amplification, ocean heat uptake, ocean acidification, extreme precipitation, glacier retreat, Greenland ice sheet, Antarctic sea ice, sea-level rise, AMOC Atlantic overturning circulation, tipping points, carbon cycle feedbacks, permafrost thaw, coral bleaching, warm-water coral dieback, aerosols cooling effect, Climate Action Tracker
+related:
+  - What is Climate Change
+  - Emissions and the Global Carbon Cycle
+  - amoc-collapse-carbon
+  - record-hot-ocean-el-nino-2026
 ---
 
 # Global Impact of Climate Change: 1.5°C, Tipping Points and What's Already Happening
@@ -64,13 +69,6 @@ Two systems illustrate what's at stake:
 **Carbon cycle feedbacks** connect directly to tipping-point risk. The carbon cycle describes the constant exchange of carbon between atmosphere, land, ocean and living organisms; a feedback is a change in those exchanges triggered by warming itself. Feedbacks can be negative, such as the CO2 fertilisation effect, where more atmospheric CO2 boosts plant growth, which then absorbs more CO2, or positive, such as permafrost thaw releasing methane, which accelerates further warming. Positive feedbacks raise the odds of crossing a tipping point, and crossing one can in turn trigger further feedbacks. As climate scientist Andrew Dessler [has written](https://www.theclimatebrink.com/p/a-truly-worst-case-climate-scenario), "the exact threshold at which carbon-cycle feedbacks become significant remains uncertain and we really don't know how close we are to reaching it."
 
 Human-emitted aerosols, tiny sulfur or nitrogen particles that reflect sunlight back to space, add one more layer of uncertainty: they have a real cooling effect on the planet, though its exact size is uncertain, and a short atmospheric lifetime, meaning that if aerosol-producing activity (largely fossil fuel combustion) stops, that cooling effect disappears quickly, potentially unmasking additional warming that fossil fuels had inadvertently been suppressing.
-
-## Connected topics
-
-- [What is Climate Change](What%20is%20Climate%20Change.md)
-- [Emissions and the Global Carbon Cycle](Emissions%20and%20the%20Global%20Carbon%20Cycle.md)
-- [AMOC Collapse and Carbon](amoc-collapse-carbon.md)
-- [Record-Hot Ocean and the 2026 El Niño](record-hot-ocean-el-nino-2026.md)
 
 ## Sources
 

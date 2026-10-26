@@ -5,6 +5,12 @@ tags: ["#ireland", "#science", "#adaptation", "#agriculture", "#energy-transitio
 created: 2026-06-01
 updated: 2026-08-26
 summary: greenhouse gas emissions, EPA, SEAI, per capita emissions, emissions by gas, carbon budgets, 2030 targets, 51% reduction target, Climate Action Plan CAP23, agriculture emissions, transport emissions, energy emissions, LULUCF, Dublin mountains land restoration, waste separation, cold blob, Gulf Stream, Storm Éowyn, weather extremes, Wild Atlantic Nature Scheme, blanket bogs, Climate in the Irish Mind, Ireland's Climate Change Assessment, biodiversity plan, 74 climate commitments, carbon farming framework
+related:
+  - IRELAND Land use, Soil and Forestry
+  - IRELAND Waste Management, Recycling and Plastic
+  - IRELAND Energy Systems
+  - IRELAND Data Centre Dilemna
+  - Carbon Emission FACTS
 ---
 
 # Ireland's Emissions and Climate Action Plans
@@ -129,14 +135,6 @@ A number of other official reports and plans feed into Ireland's climate picture
 - **Ireland's Environment: An Integrated Assessment 2020 – Key Messages Booklet**, EPA. This summary outlines the state of Ireland's environment at a strategic, national level, covering key messages, chapter highlights, a current assessment and outlook, and actions for a cleaner, greener environment. — https://www.epa.ie/publications/monitoring--assessment/assessment/state-of-the-environment/soer-2020---key-messages-booklet.php
 - **Dún Laoghaire-Rathdown (DLR) Climate Action Plan 2024-2029**
 - **Dún Laoghaire-Rathdown Biodiversity Action Plan 2021-2030** — https://actionforbiodiversity.ie/app/uploads/2023/08/Dun-Laoghaoire-Rathdown-Biodiversity-Action-Plan-2021-2025.pdf
-
-## Connected topics
-
-- [Ireland Land Use, Soil and Forestry](../ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md)
-- [Ireland's Waste Management, Recycling and Plastic Problem](../ireland-hub/IRELAND%20Waste%20Management%2C%20Recycling%20and%20Plastic.md)
-- [Ireland's Energy System](../ireland-hub/IRELAND%20Energy%20Systems.md)
-- [Ireland's Data Centre Dilemma](../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
-- [Carbon Emission FACTS](../concepts/key-ideas/Carbon%20Emission%20FACTS.md)
 
 ## Sources
 

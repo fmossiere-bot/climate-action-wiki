@@ -12,6 +12,11 @@ summary: EV grid impact, 33 million UK cars, 20 miles per day average, 230 GW th
 claim_id: evs-will-break-the-grid
 verdict: false
 topic: transport
+related:
+  - smaller-evs-better
+  - not-enough-ev-chargers
+  - intermittency-storage-problem
+  - renewables-not-replacing-fossil-fuels
 ---
 
 # Myth: electric cars will break the electricity grid
@@ -69,13 +74,6 @@ The Texas grid failed because it was under-invested, not because of EVs. But it 
 **Cutting demand still helps.** Even the best-managed EV fleet still adds demand. Walking, cycling, public transport and just driving less all reduce the electrification burden on the grid. Smaller EVs help too — they use less electricity per mile.
 
 **The infrastructure question isn't cars, it's connections.** The real grid bottleneck for EV rollout is often **local distribution network capacity** (the transformer at your street corner), not national generation capacity. That is a solvable engineering problem with time and money.
-
-## Connected topics
-
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
-- [Not enough EV chargers (myth)](not-enough-ev-chargers.md)
-- [Intermittency / storage (myth)](intermittency-storage-problem.md)
-- [Renewables not replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
 
 ## Sources
 

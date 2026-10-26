@@ -6,6 +6,12 @@ sources: ["New Scientist — Alec Luhn, 13 July 2026", "Environmental Research L
 created: 2026-07-22
 updated: 2026-07-22
 summary: jet stream heatwave, Rossby waves, polar jet stream, omega blocking, heat dome, Duncan Pappert Olivia Martius University of Bern, Tim Woollings Oxford, type I omega pattern, type II poleward shift, 1900 simulated hot spells, June 2026 heatwave 20000 deaths, hydroelectric dams agriculture, air conditioning demand, jet stream shifting northwards, forecasting long heatwaves, Environmental Research Letters
+related:
+  - record-hot-ocean-el-nino-2026
+  - wildfires-climate-feedback
+  - home-cooling-heatwaves
+  - Wet-Bulb explained
+  - Glaciers in Retreat -  Facts, Risks, and What Can Be Done
 ---
 
 # How the Jet Stream Makes Long European Heatwaves — Two Patterns Explained
@@ -69,15 +75,6 @@ He also notes the jet stream is **shifting northwards in general**, which could 
 - **June 2026** European heatwave killed ~**20,000 people**; started as type II, morphed into type I
 - Jet stream is **shifting northwards** in general, likely drying southern Europe
 - **Trend in blocking patterns is not yet resolved** — some studies find more, some no change
-
-## Connected topics
-
-- [A Record-Hot Ocean and the 2026 El Niño](record-hot-ocean-el-nino-2026.md)
-- [Wildfires as a Climate Feedback Loop](wildfires-climate-feedback.md)
-- [Home cooling and heatwaves](../climate-adaptation/home-cooling-heatwaves.md)
-- [Wet-Bulb explained](Wet-Bulb%20explained.md)
-- [Glaciers in Retreat](../biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md) — for the parallel June 2026 Alpine story
-- [Source: UK heatwave June 2026 (Guardian)](../sources/uk-heatwave-june-2026-guardian.md)
 
 ## Sources
 

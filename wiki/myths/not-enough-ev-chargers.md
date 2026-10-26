@@ -12,6 +12,11 @@ summary: EV chargers, charger anxiety, 41% drivers want parity with petrol stati
 claim_id: not-enough-ev-chargers
 verdict: mostly-false
 topic: transport
+related:
+  - evs-too-expensive
+  - evs-only-good-for-short-trips
+  - evs-will-break-the-grid
+  - EV Progress
 ---
 
 # Myth: there aren't enough EV chargers
@@ -80,13 +85,6 @@ The clearest inequality in the EV story. Fixing it needs **street-side and neigh
 **Reliability matters more than raw count.** A charger that works 60% of the time serves fewer drivers than a smaller number of chargers that work 95% of the time. Public procurement should measure and enforce uptime, not just numbers installed.
 
 **Public + private.** Charger build-out needs public money to reach places private operators wouldn't (rural, low-income) and private operators to run at scale in profitable places. It's not one or the other.
-
-## Connected topics
-
-- [EVs too expensive (myth)](evs-too-expensive.md)
-- [EVs only good for short trips (myth)](evs-only-good-for-short-trips.md)
-- [EVs will break the grid (myth)](evs-will-break-the-grid.md)
-- [EV Progress](../solutions/electrification/EV Progress.md)
 
 ## Sources
 

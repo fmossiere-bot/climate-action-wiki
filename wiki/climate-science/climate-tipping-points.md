@@ -6,6 +6,12 @@ sources: ["raw/papers/Positive Tipping Points – Part I summary.pdf"]
 created: 2026-09-17
 updated: 2026-09-18
 summary: climate tipping points, Tim Lenton, John Schellnhuber tipping elements, 16 elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent, wind solar double every 3 years, Wright's Law learning by doing, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent, Subpolar gyre North Atlantic, Amazon savannisation 40 percent, permafrost 2x human emissions, coral reefs 70-90 percent at 1.5C, Dansgaard-Oeschger events, positive tipping points, social tipping points, hothouse Earth, climate niche
+related:
+  - amoc-collapse-carbon
+  - amoc-monitoring-guardian-2026
+  - record-hot-ocean-el-nino-2026
+  - wildfires-climate-feedback
+  - its-too-late
 ---
 
 # Climate Tipping Points — what they are, which are already close, and where the good ones sit
@@ -116,17 +122,6 @@ Other levers close to their positive tipping points:
 The blocker for the biggest lever (clean electricity) is **investment allocation**: Africa has **60% of the world's best solar resources but attracts under 2% of global clean-energy investment**.
 
 *Source: [Earthshot Positive Tipping Points (source summary)](../sources/earthshot-positive-tipping-points-guardian-2026.md); Guardian, Matthew Pearce, 10 September 2026*
-
-## Connected topics
-
-- [AMOC Collapse and Carbon Release](amoc-collapse-carbon.md)
-- [AMOC Monitoring Under Threat (source)](../sources/amoc-monitoring-guardian-2026.md)
-- [Record-Hot Ocean and Rising Seas (2026 El Niño)](record-hot-ocean-el-nino-2026.md)
-- [Wildfires as a Climate Feedback](wildfires-climate-feedback.md)
-- [Its too late (myth)](../myths/its-too-late.md) — the "5-6°C" pessimism this book rebuts
-- [Renewables Not Replacing Fossil Fuels (myth)](../myths/renewables-not-replacing-fossil-fuels.md) — UK coal and Norway EV data
-- [The Energy Supercycle is Unstoppable](../concepts/key-ideas/The%20Energy%20Supercycle%20is%20Unstoppable.md)
-- [Lenton Positive Tipping Points Part I (source)](../sources/lenton-positive-tipping-points-part1-2026.md)
 
 ## Sources
 

@@ -6,6 +6,12 @@ sources: ["raw/papers/Nature&BiodiversityResearch-Reuters.pdf"]
 created: 2026-07-13
 updated: 2026-07-13
 summary: ISSB IFRS S3, TNFD, nature practice statement, Emmanuel Faber, Julie McCarthy Nature Finance, Gavin Edwards Nature Positive Initiative, Marco Lambertini, Johan Rockström, Paul Polman, Pavan Sukhdev, IFRS S1 S2, biodiversity disclosure, corporate nature reporting, $44 trillion GDP nature-dependent, PwC 12-17% GDP nature loss, University of Sussex $2 trillion, ISSB Board April 2024, TNFD 2025 Status Report 620 organisations, Japan China Asia-Pacific, EU mandatory nature standard, ISO biodiversity, Business for Nature, IFRS practice statement critique, COP17, Nature Finance $44 trillion, nature-related risks
+related:
+  - What is  TNFD?
+  - What is ISSB?
+  - Ocean Based Climate Solutions
+  - mangrove-forests-recovery
+  - fossil-fuel-banking
 ---
 
 # Nature at a Crossroads — Reuters Events (2026)
@@ -85,16 +91,6 @@ The report signposts several **new nature-related tools published in early 2026*
 - Critics — including **WWF, BirdLife International, Johan Rockström, Paul Polman, Pavan Sukhdev, Marco Lambertini, Julie McCarthy** — argue the practice statement undermines IFRS S2 by ignoring that carbon sinks are collapsing
 - **China's Environmental and Ecological code** takes effect 15 August 2026, unifying climate and nature rules for all companies operating in China
 - **October 2026:** ISSB exposure-draft consultation on the practice statement, ahead of **COP17 biodiversity negotiations**
-
-## Connected topics
-
-- [What is TNFD?](../standards-labels/What is TNFD.md) (if it exists)
-- [What is ISSB?](../standards-labels/What is ISSB.md) (if it exists)
-- [Ocean-based Climate Solutions](../biodiversity-land/ocean-based-climate-solutions.md)
-- [Mangrove forests recovery](../biodiversity-land/mangrove-forests-recovery.md)
-- [Fossil fuel banking](../climate-finance/fossil-fuel-banking.md)
-- [SBTi Science-Based Targets](../standards-labels/SBTI - sbti-science-based-targets.md)
-- [BP shareholder rebellion](../climate-finance/bp-shareholder-rebellion-2026.md)
 
 ## Sources
 

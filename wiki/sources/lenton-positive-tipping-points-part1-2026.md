@@ -6,6 +6,12 @@ sources: ["raw/papers/Positive Tipping Points – Part I summary.pdf"]
 created: 2026-09-17
 updated: 2026-09-17
 summary: Tim Lenton, Positive Tipping Points, Simon Sharpe Five Times Faster, John Schellnhuber tipping elements, 16 climate tipping elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve Wright's Law learning by doing, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent 7 years, solar wind double every 3 years, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent 50 years, Subpolar gyre North Atlantic, Amazon 40 percent savannisation, permafrost 2x human emissions, coral reefs 70-90% at 1.5C, climate niche 13C average, wet bulb 35C, 400 million exposed at 1.5C 2 billion at 2.7C, 1.2 Americans push one person into extreme heat, Titanic 3C optimal, Dansgaard-Oeschger events, sulphur pollution 5 million deaths cooling brake, 250 Gt CO2 budget for 1.5C, Five Times Faster
+related:
+  - amoc-collapse-carbon
+  - amoc-monitoring-guardian-2026
+  - record-hot-ocean-el-nino-2026
+  - wildfires-climate-feedback
+  - its-too-late
 ---
 
 # Positive Tipping Points, Part I: Urgency — Tim Lenton
@@ -62,15 +68,6 @@ Lenton compares the climate to the Titanic: **six ice warnings ignored, radio op
 - Norway EVs 0.25% → 84% in 14 years; UK coal 40% → 2% in 7 years; wind and solar **double every 3 years**
 - **~250 Gt CO2 budget** for 1.5°C at start of 2023; **8%/year cuts needed** (COVID gave 5%)
 - **Sulphur cooling brake:** cleaning air removes ~0.4°C of hidden warming — makes methane cuts more urgent, not less
-
-## Connected topics
-
-- [AMOC Collapse and Carbon Release](../climate-science/amoc-collapse-carbon.md)
-- [AMOC Monitoring Under Threat (source)](amoc-monitoring-guardian-2026.md)
-- [Record-Hot Ocean and Rising Seas (2026 El Niño)](../climate-science/record-hot-ocean-el-nino-2026.md)
-- [Wildfires as a Climate Feedback](../climate-science/wildfires-climate-feedback.md)
-- [Its too late (myth)](../myths/its-too-late.md)
-- [Climate Tipping Points (new page)](../climate-science/climate-tipping-points.md)
 
 ## Sources
 

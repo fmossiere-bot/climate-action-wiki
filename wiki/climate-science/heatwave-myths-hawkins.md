@@ -6,6 +6,12 @@ sources: ["raw/articles/The 13 biggest myths about heatwaves – and how to bust
 created: 2026-10-18
 updated: 2026-10-18
 summary: heatwave myths kit, Ed Hawkins University of Reading climate stripes, Guy Callendar 1938 steam engineer 0.3C, 1850s physics 1890s quantification, El Niño vs climate change, Earth orbit timescales cooler path 18th century, 1976 UK heatwave 32C 250 extra deaths 2 degrees cooler, attribution studies amplification, 125000 years ice core CO2 record, elderly children heart disease diabetes hospital workers vulnerable, UK homes winter not summer no shutters AC Mediterranean, 2003 European heatwave 40000-70000 deaths warning systems, CO2 plant food harvests suffering, net zero human choice, concede first correct second
+related:
+  - heatwave-myths-hawkins-guardian-2026
+  - record-hot-ocean-el-nino-2026
+  - jetstream-heatwave-patterns-2026
+  - wildfires-climate-feedback
+  - Wet-Bulb explained
 ---
 
 # Heatwave myths and how to bust them
@@ -79,18 +85,6 @@ Heatwaves are the climate impact most people have direct experience of in Europe
 ## Note on this page
 
 This page sits in `wiki/climate-science/` rather than `wiki/myths/` because it bundles multiple myth-rebuttal pairs on one page. Per CLAUDE.md's "one myth per page" rule for `wiki/myths/`, each of these 12 could in principle become a standalone Myth-template page — but doing all 12 at once would dilute the folder, and most of them already connect to existing wiki pages (see Connected topics). This explainer page is the lightweight-coverage version; standalone myth pages can be spun off later if any individual claim comes up often enough.
-
-## Connected topics
-
-- [Heatwave myths source summary](../sources/heatwave-myths-hawkins-guardian-2026.md)
-- [Record-hot ocean and 2026 El Niño](record-hot-ocean-el-nino-2026.md) — directly answers myth #3
-- [Jet-stream heatwave patterns 2026](jetstream-heatwave-patterns-2026.md) — the mechanism behind myth #6 (attribution)
-- [Wildfires as a climate feedback](wildfires-climate-feedback.md)
-- [Wet-Bulb explained](Wet-Bulb%20explained.md) — the physiology behind why heat kills
-- [Its too late (myth)](../myths/its-too-late.md) — directly answers myth #12
-- [Home cooling in heatwaves](../climate-adaptation/home-cooling-heatwaves.md) — the adaptation side of myth #9
-- [UK heatwave June 2026 (source)](../sources/uk-heatwave-june-2026-guardian.md)
-- [Jet stream heatwave patterns source](../sources/jetstream-heatwave-patterns-newscientist-2026.md)
 
 ## Sources
 

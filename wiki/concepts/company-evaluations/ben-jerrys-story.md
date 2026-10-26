@@ -14,6 +14,12 @@ created: 2026-08-26
 updated: 2026-08-26
 cover_image:
 summary: Ben and Jerry's, Ben Cohen, Jerry Greenfield, Unilever, Magnum Ice Cream Company, Free Ben and Jerry's campaign, independent board of directors, social mission, B Corporation, steward ownership, dairy emissions, non-dairy ice cream, Caring Dairy programme, greenwashing, corporate activism, occupied West Bank, Palestine, Gaza, boycott, shareholder capitalism, Vermont, Pillsbury Doughboy campaign, values-led business
+related:
+  - patagonia-story
+  - Greenwashing
+  - beef-and-climate-change
+  - What is ESG?
+  - Methane emissions role in Global Warming
 ---
 
 > **Editorial summary:** Ben & Jerry's built its reputation as proof that a company could sell ice cream and fight for social causes at the same time. This page traces that story from a Vermont petrol station in 1978, through its unusual 2000 sale to Unilever with an independent board written into the deal, to the 2025 spin-off into the Magnum Ice Cream Company and the bitter, ongoing "Free Ben & Jerry's" campaign that followed. It draws on a July 2026 Guardian investigation and a Bloomberg Green podcast interview with co-founder Ben Cohen, and looks honestly at where the brand's climate commitments hold up and where they do not.
@@ -59,14 +65,6 @@ Magnum rejects all of this. A company spokesperson told the Guardian that "Ben &
 ## The honest picture
 
 Ben & Jerry's is a genuine outlier: a mass-market food brand that spent decades taking real, sometimes costly, public positions rather than simply running feel-good adverts, and it built a fifty-year, largely credible reputation doing so. The current fight shows both the strength and the fragility of that model. The independent board structure, unusual and hard-won in 2000, did protect the brand's mission for two decades, but it has proven unable to survive a determined owner once a genuinely divisive issue, Israel and Palestine, was on the table. And on its own core environmental footprint, dairy, the company has offered a real alternative in its non-dairy range but has not been willing to say plainly what it says about almost everything else: that the status quo has a cost. Readers should treat Ben & Jerry's as a useful example of both what values-led business can achieve, and where its limits sit once ownership, or the product itself, is the thing being asked to change.
-
-## Connected topics
-
-- [A Patagonia Story](patagonia-story.md)
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [Beef and Climate Change](../../sectors/agriculture-food/beef-and-climate-change.md)
-- [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
-- [Methane Emissions Role in Global Warming](../../climate-science/Methane%20emissions%20role%20in%20Global%20Warming.md)
 
 ## Sources
 

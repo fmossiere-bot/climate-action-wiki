@@ -6,6 +6,11 @@ sources: ["Ecologie360 magazine (2025)"]
 created: 2026-07-13
 updated: 2026-07-13
 summary: reuse in construction, France, Ademe 30-40% reduction, Blanchemaille Roubaix, La Redoute headquarters, Neo-Eco, Kennedy tower Loos, Engie La Garenne-Colombes, Saint-Gobain Eurocoustic Clipper Coramine, RE2020 regulation, zero-carbon reused materials, Bouygues Immobilier Opaline Green Fabrik, Cyneo platform, BTP Match, Recyclo'Bat, CD2E Loos en Gohelle, Circable Vinci, insurance certification, selective removal, planned deconstruction, circular economy construction, cement steel reuse
+related:
+  - Cement and Concrete - A Hidden Climate Problem
+  - bio-based-resins-composites
+  - The incredible environmental properties of Bamboo
+  - What is the Circular Economy
 ---
 
 > **Editorial summary:** Reuse — as opposed to recycling — is emerging as one of the most concrete ways for French construction to cut its carbon footprint. Ademe estimates a **30–40% cut** is achievable if doors, tiles, sanitary ware, panels and other elements are taken straight from demolition sites and refitted into new projects. This page files the original own-research write-up on the topic, drawing on Ecologie360 (2025) and covering the Blanchemaille project in Roubaix, Engie's new head office, RE2020 policy support, and the practical bottlenecks (insurance, certification, supply/demand matching). It sits alongside [Cement and Concrete — A Hidden Climate Problem](../industry/Cement and Concrete - A Hidden Climate Problem.md), [Bio-based resins and composites](../industry/bio-based-resins-composites.md), and the [Bamboo for construction update](../../solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md).
@@ -37,13 +42,6 @@ The environmental case is well established. Reuse avoids the emissions tied to e
 Even so, several obstacles remain. Selective removal of materials takes longer, costs more and requires specific training compared with standard demolition. Once removed, materials need cleaning, refurbishing, testing and often certification before they can be insured again, and insurance remains one of the hardest parts of the process. Certification has become somewhat easier over recent years, but most projects are still insured on a case by case basis. Not every material makes economic sense once these extra steps are costed in. Electrical and electronic products tend to remain attractive because they contain valuable materials, which is why Circable, a venture born inside construction group Vinci, has focused specifically on reusing electrical cables.
 
 Reuse began in the office and retail sector, where budgets and timelines leave more room for it, and has been slower to reach housing. Bouygues Immobilier is trying to change that: its Opaline Green Fabrik' building in Pierrefitte sur Seine, with 1,000 square metres of reused bricks on the facade, is presented as proof that reused materials can look good and help shift public perception. Matching supply and demand remains the main practical challenge. Physical platforms such as Cyneo, set up by Bouygues, and digital ones such as BTP Match in the Paris region or Recyclo'Bat in Toulouse, are starting to address this, though industry figures argue that a national digital platform is still missing. Regional initiatives, including events run by the CD2E sustainable building centre in Loos en Gohelle, aim to bring buyers and sellers together and build new ways of managing building projects before shortages of key materials force the issue.
-
-## Connected topics
-
-- [Cement and Concrete — A Hidden Climate Problem](../industry/Cement and Concrete - A Hidden Climate Problem.md)
-- [Bio-based resins and composites](../industry/bio-based-resins-composites.md)
-- [Bamboo for construction (nature-based solutions)](../../solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md)
-- [What is the Circular Economy](../../circularity-waste/What is the Circular Economy.md)
 
 ## Source
 

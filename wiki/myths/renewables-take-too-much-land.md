@@ -11,6 +11,12 @@ summary: renewable land use, nuclear 0.3 m2 per MWh, gas 1, rooftop solar 3, gro
 claim_id: renewables-take-too-much-land
 verdict: mostly-false
 topic: energy
+related:
+  - renewables-too-expensive
+  - renewables-not-replacing-fossil-fuels
+  - renewables-produce-too-much-waste
+  - wind-farms-kill-birds
+  - not-enough-clean-energy
 ---
 
 # Myth: solar and wind take up too much land
@@ -92,15 +98,6 @@ Some farmland is being converted, but it's a small share of total farmland. And 
 **The half-of-land comparison.** Half of Earth's habitable land is already used for farming. Renewables scaling to 3-5% of land in the most demanding scenarios is a fraction of the land we already use to grow food. The "renewables will take over the planet" framing doesn't survive the numbers.
 
 **Where the case is weaker.** Very small, very dense countries (Singapore, South Korea, parts of coastal Japan) genuinely struggle to fit enough renewables domestically. For these, imports via long-distance power lines and cross-border grid links are the answer. Everywhere else, land isn't the binding constraint.
-
-## Connected topics
-
-- [Renewables too expensive (myth)](renewables-too-expensive.md)
-- [Renewables not replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
-- [Renewables produce too much waste (myth)](renewables-produce-too-much-waste.md)
-- [Wind farms kill birds (myth)](wind-farms-kill-birds.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
-- [Solar on peatland](../biodiversity-land/solar-on-peatland.md)
 
 ## Sources
 

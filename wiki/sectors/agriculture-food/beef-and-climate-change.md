@@ -6,6 +6,12 @@ sources: ["WRI — Waite, Searchinger, Ranganathan & Zionts (updated Mar 2022) �
 created: 2026-07-06
 updated: 2026-07-06
 summary: beef emissions, ruminant methane, enteric fermentation, cattle burps, manure nitrous oxide, land use change, deforestation, pastureland expansion, WRI Sustainable Food Future, 20x land 20x GHG per gram protein, 50 calories per day, 1.5 burgers per week, Colombia silvopasture, Kenya dairy Calliandra, 3-NOP, seaweed feed additive, COP26 methane pledge, Amazon deforestation, dietary shift, plant-based burgers, developing country livelihoods, 10 billion people 2050
+related:
+  - agriculture-planetary-footprint
+  - Is the meat industry following the Oil Industry
+  - Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate
+  - lab-grown-meat
+  - 6 Ways to Reduce Methane from Agriculture
 ---
 
 # Beef and Climate Change: Six Questions, Answered Plainly
@@ -62,15 +68,6 @@ Not necessarily. Even with high-income countries eating less, global ruminant me
 - A target of **~50 calories of ruminant meat per person per day** in high-consuming countries would remove most of the pressure on forests
 - Silvopasture and improved feeds have cut methane per kilo of meat or milk by **8–60%** in field trials
 - COP26 (2021) committed to a **30% methane cut and an end to deforestation by 2030** — both of which turn on beef
-
-## Connected topics
-
-- [Agriculture's planetary footprint](agriculture-planetary-footprint.md)
-- [Is the Meat Industry Following the Oil Industry's Climate Playbook?](Is%20the%20meat%20industry%20following%20the%20Oil%20Industry.md)
-- [Why eating less meat is one of the most powerful things you can do for the climate](../../solutions/nature-based-solutions/Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate.md)
-- [Lab-grown meat](../../solutions/food/lab-grown-meat.md)
-- [6 Ways to Reduce Methane from Agriculture](6%20Ways%20to%20Reduce%20Methane%20from%20Agriculture.md)
-- [FAO global meat supply 2026](../../sources/fao-global-meat-supply-2026.md)
 
 ## Sources
 

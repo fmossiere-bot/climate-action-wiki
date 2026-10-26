@@ -6,6 +6,12 @@ sources: ["Carbon Brief — https://www.carbonbrief.org/eat-lancet-report-three-
 created: 2026-07-06
 updated: 2026-07-26
 summary: EAT-Lancet 2025, planetary health diet, Johan Rockström, Line Gordon, Shakuntala Thilsted, plant-rich diet, 2400 calories, whole grains legumes nuts, methane nitrous oxide, non-CO2 agricultural emissions cut 15%, 15 million avoidable deaths, food system emissions one third, dietary shift plus mitigation 34% cut, planetary boundaries five breaches, food justice, richest 30% cause 70% food environmental pressure, meat industry disinformation backlash, DeSmog Animal Agriculture Alliance, land use savings 3.4 million km2, subsidies taxes food labelling
+related:
+  - beef-and-climate-change
+  - agriculture-planetary-footprint
+  - Is the meat industry following the Oil Industry
+  - Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate
+  - lab-grown-meat
 ---
 
 # The EAT-Lancet Planetary Health Diet (2025 Update)
@@ -114,16 +120,6 @@ India gains economically as well as environmentally; the US and Europe see net c
 - **~15 million avoidable deaths/year** if adopted widely
 - **Richest 30% of the world's population = 70%+ of food-system environmental pressure**
 - Food systems are the **largest driver of five out of nine planetary boundaries** being breached
-
-## Connected topics
-
-- [Beef and Climate Change](beef-and-climate-change.md)
-- [Agriculture's planetary footprint](agriculture-planetary-footprint.md)
-- [Is the Meat Industry Following the Oil Industry's Climate Playbook?](Is%20the%20meat%20industry%20following%20the%20Oil%20Industry.md)
-- [Why eating less meat is one of the most powerful things you can do for the climate](../../solutions/nature-based-solutions/Why Eating Less Meat Is One of the Most Powerful Things You Can Do for the Climate.md)
-- [Lab-grown meat](../../solutions/food/lab-grown-meat.md)
-- [High-income carbon paradox](../../concepts/behavior-change/high-income-carbon-paradox.md) — evidence for the "policy beats attitude" argument
-- [FAO global meat supply 2026](../../sources/fao-global-meat-supply-2026.md)
 
 ## Sources
 

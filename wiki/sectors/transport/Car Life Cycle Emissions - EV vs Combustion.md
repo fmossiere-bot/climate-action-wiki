@@ -5,6 +5,10 @@ tags: ["#ev", "#battery", "#transport", "#carbon"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: EV lifecycle emissions, ICE comparison, battery electric vehicles, BEV production emissions, McKinsey study, lithium cobalt nickel mining, electricity grid decarbonisation, SUV EVs, battery size, small petrol car comparison, electric pickup trucks, EV charging infrastructure, Norway EV adoption, vehicle weight, IPCC transport decarbonisation, IEA transport emissions, recycling end-of-life vehicles
+related:
+  - The Environmental Impact of Car Tyres
+  - smaller-evs-better
+  - Electrify Everything
 ---
 
 # Car Life Cycle Emissions: EV vs Combustion
@@ -53,12 +57,6 @@ Crucially, EV sales alone do not translate quickly into lower national emissions
 - Electric SUVs and large-battery EVs (above roughly 60 kWh) can lose much of their lifecycle advantage over small petrol cars.
 - One in seven cars sold globally in 2022 was electric, up from one in 70 five years earlier.
 - In Norway, 65% of 2021 car sales were electric, yet oil demand fell less than 10% since 2013, showing how slowly fleet turnover translates into emissions cuts.
-
-## Connected topics
-
-- [The Environmental Impact of Car Tyres](The%20Environmental%20Impact%20of%20Car%20Tyres.md)
-- [Smaller EVs Are Better](smaller-evs-better.md)
-- [Electrify Everything](../../solutions/electrification/Electrify%20Everything.md)
 
 ## Sources
 

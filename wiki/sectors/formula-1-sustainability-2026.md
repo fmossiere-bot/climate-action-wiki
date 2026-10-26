@@ -7,6 +7,9 @@ created: 2026-06-22
 updated: 2026-06-22
 cover_image: ""
 summary: Formula 1, net zero 2030, carbon footprint reduction, sustainable aviation fuel, SAF, sea freight, logistics emissions, calendar rationalisation, factory emissions, greenhouse gas, sport sustainability, Stefano Domenicali, Ellen Jones, third-party reporting
+related:
+  - Environmental Impact of football world cups
+  - Environmental Impact of the Paris Olympics
 ---
 
 # Formula 1: On Track for Net Zero by 2030
@@ -43,12 +46,6 @@ The sport is on track: a 35% reduction in seven years, with four years remaining
 - Logistics emissions down 21% year on year, 29% since 2018
 - From 2026: sustainable fuels mandatory in races, cutting per-race fuel GHG emissions by 80%
 - Net zero target = minimum 50% absolute reduction vs 2018; remaining unavoidable emissions offset
-
-## Connected topics
-
-- [Environmental Impact of Football World Cups](../sectors/Environmental Impact of football world cups.md)
-- [Environmental Impact of the Paris Olympics](../sectors/Environmental Impact of the Paris Olympics.md)
-- [About Sustainable Aviation Fuel (SAF)](../solutions/electrification/About Sustainable Aviation Fuel (SAF).md)
 
 ## Sources
 

@@ -5,6 +5,9 @@ tags: ["#energy-transition", "#electrification", "#ai"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: energy supercycle, electrification, clean energy generation, artificial intelligence, data centres, grid resilience, transportation electrification, industry electrification, Global Electricity Review
+related:
+  - Renewable on Track to overtake Coal
+  - SOLUTIONS - Solar Impulse Foundation
 ---
 
 # The Energy Supercycle Is Unstoppable
@@ -22,11 +25,6 @@ Framing the energy transition as a "supercycle" rather than a single technology 
 - The shift towards electrification and clean energy generation is described as a long-term structural "supercycle" rather than a short-term trend.
 - Electricity is becoming the common energy carrier across transport, industry and data centres.
 - Artificial intelligence is a double-edged factor in this shift: it drives a sharp rise in electricity demand from data centres, while also enabling new efficiency gains and improved grid resilience.
-
-## Connected topics
-
-- [Renewables on Track to Overtake Coal](Renewable%20on%20Track%20to%20overtake%20Coal.md)
-- [SOLUTIONS - Solar Impulse Foundation](SOLUTIONS%20-%20Solar%20Impulse%20Foundation.md)
 
 ## Sources
 

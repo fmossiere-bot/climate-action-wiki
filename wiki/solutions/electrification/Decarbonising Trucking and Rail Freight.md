@@ -5,6 +5,11 @@ tags: ["#transport", "#ev", "#alternative-fuels", "#battery"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: medium and heavy duty trucks, battery electric trucks, BEV trucks, fuel cell electric trucks, FCEV, hydrogen trucks, electrofuels, rail electrification, battery trains, India rail electrification, California Advanced Clean Trucks, Advanced Clean Fleets, diesel particulate matter, environmental justice, graphene batteries, total cost of ownership, TCO, IDTechEx, TNO report, Flipturn
+related:
+  - Electrify Everything
+  - EV Progress
+  - The rise of the batteries
+  - Decarbonising Aviation and Shipping
 ---
 
 # Decarbonising Trucking and Rail Freight
@@ -44,13 +49,6 @@ A study by TNO, cited by Transport & Environment, found that by 2035 all new ele
 ## The role of fleet charging management
 
 As regulation forces fleets to switch, managing charging is becoming a core operational competency in its own right. Flipturn, an EV charging management platform for fleets, was profiled on the *My Climate Journey* podcast: co-founder and CEO Katie Siegel, who previously helped grow Samsara (a telematics and IoT platform for trucking and logistics) through its IPO, discussed how California's Advanced Clean Fleets law is forcing fleet managers to treat power procurement and efficient charging as central to running a freight business, not an afterthought.
-
-## Connected topics
-
-- [Electrify Everything](Electrify%20Everything.md)
-- [EV Progress](EV%20Progress.md)
-- [The Rise of Batteries](The%20rise%20of%20the%20batteries.md)
-- [Decarbonising Aviation and Shipping](Decarbonising%20Aviation%20and%20Shipping.md)
 
 ## Sources
 

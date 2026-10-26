@@ -45,10 +45,6 @@ There was a slower decade, then a surge. Ocean heat kept rising throughout, whic
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - UN Climate Mythbusters — https://www.un.org/en/climatechange/science/mythbusters

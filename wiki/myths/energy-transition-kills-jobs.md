@@ -12,6 +12,11 @@ summary: energy jobs, 63 to 68 million energy jobs 2019 to 2023, clean energy jo
 claim_id: energy-transition-kills-jobs
 verdict: mostly-false
 topic: systemic
+related:
+  - renewables-too-expensive
+  - poor-countries-need-fossil-fuels
+  - not-enough-public-support
+  - santa-marta-fossil-fuel-conference-2026
 ---
 
 # Myth: the energy transition will destroy jobs
@@ -77,13 +82,6 @@ They will if they wait until closure is a few months away. The Ratcliffe example
 **The wage gap needs an honest conversation.** Some transitions will genuinely leave workers earning less. That is a policy problem that policy has to fix — through wage top-ups, union representation in new sectors, and honest siting of new industries in the places old ones are closing. Pretending this problem doesn't exist is why populist backlash finds so many recruits.
 
 **The 0.4% framing.** Ritchie is blunt: 32 million fossil fuel workers is 0.4% of humanity. Climate change affects the other 99.6%. That does not mean the 32 million can be ignored — but it does mean we can't hold climate action hostage to protecting a specific slice of jobs indefinitely. The right answer is "we cannot stop, and we will support the 0.4% properly through the change."
-
-## Connected topics
-
-- [Renewables too expensive (myth)](renewables-too-expensive.md)
-- [Poor countries need fossil fuels (myth)](poor-countries-need-fossil-fuels.md)
-- [There isn't enough public support (myth)](not-enough-public-support.md)
-- [Santa Marta Fossil Fuel Conference 2026](../solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md)
 
 ## Sources
 

@@ -5,6 +5,8 @@ tags: ["#ireland", "#carbon-removal", "#cool-companies", "#industry"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Silicate, Irish start-up, concrete dust, enhanced weathering, carbon removal, concrete waste, Sligo, farm fields, soil enhancement, cement industry emissions, limestone, carbon sequestration, carbon credits, construction waste, climate tech
+related:
+  - Cement and Concrete - A Hidden Climate Problem
 ---
 
 # Cool Irish Companies
@@ -30,10 +32,6 @@ Enhanced weathering is a strategy that greatly accelerates the Earth's natural r
 ## Concrete as a Waste Stream
 
 Around 2 billion tonnes of concrete are created globally through the demolition of buildings. Companies like Silicate take this abundant waste stream from the construction sector and process it to better harness its carbon removal properties, then work with farmers to apply it to their fields.
-
-## Connected topics
-
-- [Cement and Concrete: A Hidden Climate Problem](../sectors/industry/Cement%20and%20Concrete%20-%20A%20Hidden%20Climate%20Problem.md)
 
 ## Sources
 

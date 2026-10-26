@@ -5,6 +5,10 @@ tags: ["#key-ideas", "#esg", "#eu-policy"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: materiality assessment, double materiality, single materiality, ESG issues, CSRD, stakeholder engagement, CFA Institute material risk, inside-out outside-in, Norton Rose, sustainability reporting, ESG risk ratings, Garst et al research, ESB example
+related:
+  - What is ESG?
+  - What is CSRD?
+  - Why Reporting - Investors want companies to focus on ESG
 ---
 
 # What is Materiality?
@@ -34,11 +38,6 @@ A materiality assessment typically follows four steps:
 4. **Narrow, visualise and communicate.** Narrow the list down to the issues that are genuinely relevant to the business, then visualise and communicate the resulting material issues to stakeholders.
 
 Materiality is not a fixed exercise. Research on the topic (Garst et al., see Sources) has been described as more art than science: one interviewee described the evolution of a single company's framework as "we now have 19 issues, and 169 topics underlie those issues. Because some of the topics have now become an issue such as 'biodiversity'. Previously, that was at the topic level, but it has been coming up on the agenda. [The topic] has been promoted [to issue]. And some issues have now become topics within issues and some topics merged, according to changes in the landscape."
-
-## Connected topics
-- [What is ESG?](What%20is%20ESG%3F.md)
-- [What is CSRD?](../../legislation-policy/What%20is%20CSRD%3F.md)
-- [Why Reporting - Investors want companies to focus on ESG](../../legislation-policy/Why%20Reporting%20-%20Investors%20want%20companies%20to%20focus%20on%20ESG.md)
 
 ## Sources
 - Institute of Sustainability Studies, "What is ESG Materiality?" — https://instituteofsustainabilitystudies.com/insights/lexicon/what-is-esg-materiality/

@@ -11,6 +11,12 @@ summary: renewable waste, coal 89 kg per MWh vs solar 2 kg vs wind 0.2 kg, 25-ye
 claim_id: renewables-produce-too-much-waste
 verdict: false
 topic: energy
+related:
+  - renewables-too-expensive
+  - renewables-take-too-much-land
+  - renewables-need-fossil-fuels-to-build
+  - bio-based-resins-composites
+  - FACTS about Circular Economy
 ---
 
 # Myth: solar panels and wind turbines create huge amounts of waste
@@ -89,14 +95,6 @@ Aluminium and glass in solar panels can already be recycled — the main materia
 **Solar recycling is more advanced than most people think.** Aluminium frames and glass are already collected and recycled in mature markets. Silicon wafers can be reused in new panels. Rare earths in modules can be recovered. Getting recycling rates up in every country is a policy priority (EU WEEE Directive, updated 2024), not an unsolved technical problem.
 
 **Look ahead**: even if solar and wind use doubles, the waste they produce will still be tiny next to coal, plastic, or household waste. This is a manageable industrial challenge, not a runaway problem.
-
-## Connected topics
-
-- [Renewables too expensive (myth)](renewables-too-expensive.md)
-- [Renewables take too much land (myth)](renewables-take-too-much-land.md)
-- [Renewables need fossil fuels to build (myth)](renewables-need-fossil-fuels-to-build.md)
-- [Bio-based resins and composites](../sectors/industry/bio-based-resins-composites.md) — the recyclable blade angle
-- [FACTS about Circular Economy](../concepts/key-ideas/FACTS about Circular Economy.md)
 
 ## Sources
 

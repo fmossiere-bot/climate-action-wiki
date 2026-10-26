@@ -5,6 +5,10 @@ tags: ["#agriculture", "#methane", "#food", "#ireland"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: enteric fermentation, ruminant burping, manure management, rice cultivation methane, crop residue burning, methane-inhibiting feed additives, 3-nitroxypropanol, 3-NOP, red seaweed, Asparagopsis, low-methane cattle breeding, anti-methane vaccines, biogas digesters, digestate, Alternate Wetting and Drying, SUSIBA 2 rice variety, GasAbate, Glasport Bio, Ireland slurry emissions, Teagasc, EPA agricultural emissions, co-digestion
+related:
+  - Rice farming, a major Methane emitter, but with clear mitigating solutions
+  - Methane emissions role in Global Warming
+  - beef-and-climate-change
 ---
 
 # 6 Ways to Reduce Methane from Agriculture
@@ -52,12 +56,6 @@ Several approaches can lower methane from rice farming. Adopting high-yielding r
 A Galway-based company, **Glasport Bio**, has developed **GasAbate**, a non-invasive additive capable of cutting greenhouse gas emissions from manure by more than 80%, as [reported by RTE in March 2025](https://www.rte.ie/news/environment/2025/0311/1501355-farms-environment/). The liquid is added to slurry tanks, raising the oxygen level in the slurry pits and preventing the anaerobic microbes that produce methane, nitrous oxide, hydrogen sulphide and ammonia from working. According to Glasport Bio's McCarthy, the economics compare favourably with other abatement routes: the Climate Change Advisory Council estimated that paying €3 billion to get 700,000 people into electric cars would cut around 4 million tonnes of emissions, working out at roughly €750 per tonne of carbon abated. Rolling GasAbate out across all Irish farms, by contrast, would cost an estimated €75 per tonne. About 11% of Irish agricultural emissions come directly from manure, and treating all livestock slurry from cattle and pigs with GasAbate could cut Ireland's agricultural emissions by 1.8 million tonnes a year, roughly 30% of the overall reduction Ireland needs from agriculture.
 
 Anaerobic digesters offer a complementary route. In the US, digesters that convert manure into biogas do reduce methane emissions from livestock, but as [New Scientist has reported](https://www.newscientist.com/article/2522081-are-manure-digesters-a-real-solution-to-dairy-farm-emissions/), the financial incentives built around them have also encouraged factory farms to grow larger. Manure that has gone through a digester [emits 91% less methane](https://link.springer.com/article/10.1007/s40572-025-00512-8) during storage, and the process can also replace fossil gas or diesel, produce digestate for use as fertiliser, and create an extra income stream for farms. In Ireland, the Environmental Protection Agency's 2023 breakdown of agricultural emissions shows that enteric fermentation (methane from cattle and sheep digestion) accounts for 63.1% of agricultural emissions, while manure management accounts for 11.9%, meaning methane from the animals themselves is roughly five times larger than manure-related emissions, reflecting the country's large dairy and beef herd. Teagasc notes that 90 to 95% of livestock methane linked to ruminants is enteric methane, with the rest coming from manure systems. The catch for Ireland is that cattle slurry here is wet and relatively low-energy, so digesting slurry alone often gives poor economics; Teagasc recommends **co-digestion**, mixing slurry with grass silage, food waste or other residues, to improve gas yield and viability.
-
-## Connected topics
-
-- [Rice Farming and Methane](Rice%20farming%2C%20a%20major%20Methane%20emitter%2C%20but%20with%20clear%20mitigating%20solutions.md)
-- [Methane's Role in Global Warming: Sources, Super-Emitters and Solutions](../../climate-science/Methane%20emissions%20role%20in%20Global%20Warming.md)
-- [Beef and Climate Change: Six Questions, Answered Plainly](beef-and-climate-change.md)
 
 ## Sources
 

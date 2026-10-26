@@ -5,6 +5,9 @@ tags: ["#key-ideas", "#carbon", "#adaptation", "#finance"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: emissions inequality, top 1% emitters, IEA, country pledges, Gambia, household consumption, income and emissions, carbon budget, Stockholm Environment Institute, richest decile, United States emissions, European Union emissions, China emissions, India emissions, within-country inequality, Guardian carbon divide, millionaires, billionaires, philanthropy, Jeff Bezos, Elon Musk, climate finance shortfall
+related:
+  - FACTS on EVERYTHING - Under the Sky we Make
+  - Carbon Emission FACTS
 ---
 
 # Climate Change Isn't Fair: The Inequality of Who Emits and Who Pays
@@ -74,12 +77,6 @@ A 2022 report found that billionaires are not saving the planet, despite their l
 Philanthropy is often used to build a positive public image and extend political influence, a pattern seen frequently with fossil fuel companies. Total philanthropy directed towards climate causes reached **$13 billion** in a recent year, a large-sounding figure that is small compared with overall global philanthropic giving of around **$822 billion**. Even a headline donation like Bezos's $10 billion, pledged over 10 years, needs context: up to 60% of global greenhouse gas emissions can be traced back to the products and services people consume, and Amazon is by far the world's most popular place to consume products and services.
 
 Billionaires do have a part to play, but meaningful investment is needed to match the scale of the challenge. According to the Climate Policy Initiative, actually solving climate change is estimated to cost at least **$4.3 trillion per year**. The International Monetary Fund reports the world is currently spending only around **$630 billion a year** on climate finance, a shortfall measured in the trillions.
-
-## Connected topics
-
-- [FACTS on EVERYTHING - Under the Sky we Make](FACTS%20on%20EVERYTHING%20-%20Under%20the%20Sky%20we%20Make.md)
-- [Global Emissions in 2022](Global%20Emissions%20in%202022.md)
-- [Carbon Emission FACTS](Carbon%20Emission%20FACTS.md)
 
 ## Sources
 

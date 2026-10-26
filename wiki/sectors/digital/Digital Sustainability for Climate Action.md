@@ -5,6 +5,10 @@ tags: ["#digital", "#adaptation", "#energy-efficiency", "#ai"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: climate change mitigation, climate change adaptation, digital transformation, smart grids, IoT, carbon accounting, circular economy, data centre electricity, e-waste, early warning systems, disaster mortality, remote sensing, GIS, climate resilient infrastructure, virtual and augmented reality, community engagement, Climate Action Tracker, World Bank climate data, WRI, Climate Watch
+related:
+  - Digital Transformation for Sustainable Development
+  - Digital Sustainability for Biodiversity Action
+  - Adaptation and Resilience
 ---
 
 # Digital Sustainability for Climate Action
@@ -59,13 +63,6 @@ Virtual reality (VR) and augmented reality (AR) have real potential to revolutio
 ### Community engagement
 
 Community engagement is vital for systemic change, as it puts people at the centre of societal transformation. Grassroots-level actions are the initial sparks for transformative movements, complementing top-down mandates and political action, and engaging diverse community groups helps ensure equity by giving everyone a voice. Isolated government action, by contrast, can lead to poorly planned policies that face resistance. Engagement fosters a strong social mandate, paving the way for transformative climate policies and encouraging businesses, governments and civil society to align on choices that benefit the wider community.
-
-## Connected topics
-
-- [What Is Digital Sustainability?](What%20Is%20Digital%20Sustainability.md)
-- [Digital Transformation for Sustainable Development](Digital%20Transformation%20for%20Sustainable%20Development.md)
-- [Digital Sustainability for Biodiversity Action](Digital%20Sustainability%20for%20Biodiversity%20Action.md)
-- [Adaptation and Resilience](../../climate-adaptation/Adaptation%20and%20Resilience.md)
 
 ## Sources
 

@@ -12,6 +12,12 @@ summary: clean energy replace fossil fuels, efficiency, coal one third efficient
 claim_id: not-enough-clean-energy
 verdict: false
 topic: energy
+related:
+  - The Energy Supercycle is Unstoppable
+  - FACTS about Wind Energy
+  - FACTS about Solar Energy
+  - Geothermal energy
+  - smaller-evs-better
 ---
 
 # Myth: there isn't enough clean energy to replace fossil fuels
@@ -66,15 +72,6 @@ Not entirely. The **first 70 to 80% of a power system** can be covered by solar 
 **Where the transition is now.** Sales of new petrol and diesel cars already peaked in **2017** globally. In **2022, renewables supplied 92% of new global electricity demand**. Analysts expect coal, oil and gas to each hit their global peak within about five years of that. That is what the transition looks like in flight — not a switch flipped, but curves crossing.
 
 **One important caveat.** Closing existing nuclear plants early (as Germany and Japan did) generally leaves the transition worse off — renewables then just replace nuclear rather than fossil fuels, so total emissions do not fall as much. Keeping existing low-carbon capacity online while building new renewables is a much faster path.
-
-## Connected topics
-
-- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
-- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
-- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
-- [Geothermal energy](../solutions/renewables/Geothermal energy.md)
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
-- [Renewables on Track to Overtake Coal](../solutions/energy-transition/Renewable%20on%20Track%20to%20overtake%20Coal.md)
 
 ## Sources
 

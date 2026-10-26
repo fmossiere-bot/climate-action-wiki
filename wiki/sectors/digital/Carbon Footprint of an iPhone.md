@@ -6,6 +6,10 @@ created: 2026-06-01
 updated: 2026-08-26
 cover_image: https://images.unsplash.com/photo-1609692814858-f7cd2f0afa4f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 summary: iPhone carbon footprint, smartphone manufacturing emissions, rare-earth metals, iPhone 14, iPhone 13, iPhone 13 Pro, storage capacity and emissions, cloud storage energy, mobile network emissions, phone charging emissions, Apple recycled materials, Samsung recycled materials, Fairphone, modular phone design, phone longevity, e-waste, carbon-neutral supply chain, planned obsolescence, 8 Billion Trees
+related:
+  - The Environmental Impact of Digital Activities
+  - FACTS about AI, Emissions impacts and mitigation potential
+  - The Environmental Impact of Bitcoin
 ---
 
 ## What is it
@@ -49,12 +53,6 @@ Manufacturers are not equally transparent or ambitious about tackling this footp
 Because manufacturing dominates the footprint, how long a phone stays in use matters more than almost anything else a consumer can control. **Fairphone**, a company based in Amsterdam, builds phones with easily replaceable components specifically to extend usable life and combat planned obsolescence. On its most recent model, 70% of materials and components come from Fairtrade sources and/or recycling. Fairphone is targeting **net-zero by 2045** on scope 1 and 2 emissions; scope 3, where roughly 98% of its footprint sits, is being addressed by working with suppliers to increase recycled content over time.
 
 The headline number worth remembering: because around 75% of a phone's emissions come from production, keeping a phone for **5 years instead of 3 cuts its annual carbon footprint by more than 30%**. A phone built to last, and used for longer, beats almost any other single intervention available to an individual owner.
-
-## Connected topics
-
-- [The Environmental Impact of Digital Activities](The%20Environmental%20Impact%20of%20Digital%20Activities.md)
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
-- [The Environmental Impact of Bitcoin](The%20Environmental%20Impact%20of%20Bitcoin.md)
 
 ## Sources
 

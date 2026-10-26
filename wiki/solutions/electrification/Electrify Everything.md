@@ -5,6 +5,11 @@ tags: ["#electrification", "#energy-transition", "#transport", "#buildings", "#i
 created: 2026-06-01
 updated: 2026-08-26
 summary: electrify everything, renewable electricity share, Mark Jacobson Stanford, IEA net zero roadmap, EV sales, EU 2035 fossil fuel car ban, UK 2030 ICE phase-out, China EV targets, building decarbonisation, operational carbon, embodied carbon, heavy industry emissions, steel, cement, plastics, fertilisers, nitrogen fertiliser emissions, biochar, plastic pollution, bioplastics, fashion industry emissions, greenwashing, packaging, reusable bags
+related:
+  - Car Life Cycle Emissions - EV vs Combustion
+  - Cement and Concrete - A Hidden Climate Problem
+  - FACTS about Plastic
+  - Decarbonising Aviation and Shipping
 ---
 
 # Electrify Everything
@@ -50,13 +55,6 @@ A UN report on plastics outlines how pollution could be cut by 80% through incre
 ## Fashion and packaging
 
 The fashion industry alone accounts for around **10% of global CO2 emissions** ([Zurich Insurance](https://www.zurich.com/en/media/magazine/2021/fast-fashion-5-practical-ways-to-cut-the-carbon-from-your-closet)), with McKinsey's report on climate and fashion a useful starting point for further reading. Staying alert to greenwashing matters here too: fast fashion giants such as H&M have come under fire for [misrepresenting their environmental credentials](https://qz.com/2180075/hm-showed-bogus-environmental-higg-index-scores-for-its-clothing/) through the Higg Index. Packaging overlaps significantly with the plastics problem, and McKinsey's report on sustainability in packaging is a useful place to start for anyone looking at that space specifically.
-
-## Connected topics
-
-- [CARS: Life Cycle Emissions, EV vs Combustion](../../sectors/transport/Car%20Life%20Cycle%20Emissions%20-%20EV%20vs%20Combustion.md)
-- [Cement and Concrete: A Hidden Climate Problem](../../sectors/industry/Cement%20and%20Concrete%20-%20A%20Hidden%20Climate%20Problem.md)
-- [FACTS about Plastic](../../circularity-waste/FACTS%20about%20Plastic.md)
-- [Decarbonising Aviation and Shipping](Decarbonising%20Aviation%20and%20Shipping.md)
 
 ## Sources
 

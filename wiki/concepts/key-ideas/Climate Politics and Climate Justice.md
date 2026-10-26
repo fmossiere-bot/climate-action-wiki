@@ -5,6 +5,9 @@ tags: ["#diplomacy", "#cop30", "#eu-policy", "#key-ideas", "#ireland"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: UNFCCC, Paris Agreement, COP27, COP28, loss and damage fund, Nationally Determined Contributions NDCs, CBDR-RC common but differentiated responsibilities, cumulative emissions since 1751, per capita emissions, fair shares, net-zero commitments, climate litigation, Montana youth case, Ecuador tribal land case, polluting elite, Stockholm Environment Institute Oxfam carbon inequality, 3.5% rule social tipping points, France energy efficiency housing rules, Sultan Ahmed Al-Jaber
+related:
+  - FACTS About Fossil Fuel (Oil and Gaz) Industry
+  - Climate Change Isn't Fair
 ---
 
 # Climate Politics and Climate Justice: Who Is Responsible, and Who Pays
@@ -72,11 +75,6 @@ Under the policy, properties must be rated for energy efficiency from A (best) t
 - The richest 1% of people emit as much carbon pollution as the poorest 5 billion combined (Stockholm Environment Institute and Oxfam).
 - Sustained protest by just 3.5% of a population has historically been enough to force government change.
 - 1,587 climate court cases were documented between 1986 and 2020, over three-quarters of them in the US.
-
-## Connected topics
-- [Global Emissions in 2022](Global Emissions in 2022.md)
-- [Facts About the Fossil Fuel Industry](../../solutions/energy-transition/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
-- [Climate Change Isn't Fair](Climate%20Change%20Isn%27t%20Fair.md)
 
 ## Sources
 - UNFCCC, Nationally Determined Contributions — https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs

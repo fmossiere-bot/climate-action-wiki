@@ -6,6 +6,10 @@ sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assess
 created: 2026-06-01
 updated: 2026-08-26
 summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes, FIFPRO, wet-bulb globe temperature thresholds, Telemundo, Vanessa Hauc, Enzo Fernandez, Miami heat, Kansas City heat, tennis cooling breaks, LA Marathon"
+related:
+  - home-cooling-heatwaves
+  - Wet-Bulb explained
+  - Facts about Air Travel
 ---
 
 While recent host countries focused heavily on building massive physical infrastructure, the upcoming 2026 World Cup shifts the carbon burden heavily onto **geographic scale and transportation**.
@@ -102,12 +106,6 @@ Freddie Daley of the sport climate action network Cool Down described Infantino'
 This sits alongside FIFA's own stated targets: a 50% emissions reduction by 2030 and net zero by 2040. A separate SGR 2025 report estimated that the total carbon footprint of the 2026 World Cup could reach **9 million tonnes of CO₂e** — a figure somewhat higher than earlier projections, and almost double the average of the past four World Cups.
 
 Meanwhile, back on local pitches, the consequences of climate change are already tangible. Across Great Britain, a growing number of football matches are being cancelled due to extreme weather, particularly flooding. The UK Met Office projects that under a high-emissions scenario, winters could become up to 30% wetter by 2070.
-
-## Connected topics
-
-- [Home Cooling and Heatwaves](home-cooling-heatwaves.md)
-- [Wet-Bulb explained](../climate-science/Wet-Bulb%20explained.md)
-- [Facts about Air Travel](transport/Facts%20about%20Air%20Travel.md)
 
 ## Sources
 

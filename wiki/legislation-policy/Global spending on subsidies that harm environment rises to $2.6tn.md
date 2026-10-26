@@ -5,6 +5,9 @@ tags: ["#fossil-fuels", "#agriculture", "#finance", "#biodiversity"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: environmentally harmful subsidies, fossil fuel subsidies, agricultural subsidies, deforestation, water pollution, groundwater pumping, beef production Amazon, Earth Track, IMF, Kunming-Montreal agreement, Paris Agreement, farm subsidies, smallholder farmers, biodiversity loss, tax breaks, government spending
+related:
+  - Clean Electricity - Why It Has to Come First
+  - FACTS on EVERYTHING - Under the Sky we Make
 ---
 
 # Global Spending on Subsidies That Harm the Environment Rises to $2.6tn
@@ -37,11 +40,6 @@ Agricultural subsidies are a major share of the total, but a UN report found tha
 - A 2021 IMF report separately found fossil fuel industry subsidies worth $5.9 trillion in 2020, mostly reflecting unpriced hidden costs such as pollution deaths and global heating.
 - Almost 90% of subsidies paid to farmers globally are harmful, according to a UN report, damaging health, the climate, nature and equity.
 - In the EU, more than 80% of farm subsidies go to just 20% of farmers.
-
-## Connected topics
-
-- [Clean Electricity - Why It Has to Come First](../sectors/energy/Clean%20Electricity%20-%20Why%20It%20Has%20to%20Come%20First.md)
-- [FACTS on Everything - Under the Sky We Make](../concepts/key-ideas/FACTS%20on%20EVERYTHING%20-%20Under%20the%20Sky%20we%20Make.md)
 
 ## Sources
 

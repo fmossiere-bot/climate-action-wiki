@@ -5,6 +5,10 @@ tags: ["#key-ideas", "#research", "#science", "#cop30"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: State of Climate Action 2023, World Resources Institute, WRI, Global Stocktake, Paris Agreement 1.5C, electric vehicle sales, coal phase-out, deforestation, rapid transit infrastructure, plant-based diet shift, fossil fuel subsidies, Systems Change Lab, Bezos Earth Fund, Climate Action Tracker, ClimateWorks Foundation, solar and wind power growth, corporate climate risk disclosure
+related:
+  - Emission Gap Report 2024 - UNEP
+  - COP30
+  - Paris Agreement - NDC - where are we 10 years later?
 ---
 
 # World Resources Institute 2023 — State of Climate Action
@@ -35,11 +39,6 @@ The *State of Climate Action* series is published under Systems Change Lab, a jo
 - Coal needs to be phased out of power generation seven times faster, equivalent to retiring around 240 coal plants a year through 2030.
 - Rapid transit infrastructure needs to expand six times faster than current rates.
 - Diet shifts towards lower meat consumption need to happen eight times faster to meet 2030 targets.
-
-## Connected topics
-- [Emission Gap Report 2024 - UNEP](Emission%20Gap%20Report%202024%20-%20UNEP.md)
-- [COP30](../../legislation-policy/COP30.md)
-- [Paris Agreement - NDC - where are we 10 years later?](../../legislation-policy/Paris%20Agreement%20-%20NDC%20-%20where%20are%20we%2010%20years%20later%3F.md)
 
 ## Sources
 - World Resources Institute, "State of Climate Action 2023" — https://www.wri.org/research/state-climate-action-2023

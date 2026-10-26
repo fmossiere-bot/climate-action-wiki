@@ -6,6 +6,10 @@ sources: ["Project Drawdown 31 — Bamboo Production", "La Bambouseraie en Céve
 created: 2026-06-01
 updated: 2026-07-13
 summary: "bamboo carbon sequestration, Project Drawdown solution 31, La Bambouseraie, Cobratex composites, Vendée Globe sailboat, Fiboo insulation, Horizom France, Bamboo Village Trust Indonesia, ISO 22156 bamboo structures manual, Institution of Structural Engineers, Kempegowda airport Bengaluru, Ninghai bamboo tower China, Green School Bali, composite bamboo shear walls, Colombia Philippines earthquake housing, David Trujillo Warwick, Neil Thomas Atelier One, bamboo two-storey limit, Portugal European bamboo crop"
+related:
+  - Cement and Concrete - A Hidden Climate Problem
+  - bio-based-resins-composites
+  - bamboo-construction-guardian-2026
 ---
 # Summary
 Bamboo plantations have incredible environmental properties: with their expansive underground stems, they reduce soil erosion and prevent sediments from entering streams and rivers. Fallen leaves carpet the ground, which reduces water evaporation. Their hollow stems retain water into the dry season, thus increasing environmental humidity. Dense bamboo vegetation also captures water droplets from fog.
@@ -80,10 +84,3 @@ Growing bamboo can also help **recover soil degraded by monoculture**, which lin
 Bamboo is not just a tropical story any more. **Portugal** is growing larger bamboo varieties as a crop, partly in response to Mediterranean climate shifts. The French firm **Horizom** manages 460 hectares across 34 departments with a target of 50,000 hectares by 2050, and **Fiboo** opened a bamboo fibre insulation panel factory in northern France in November 2024 with a target of 10,000 tonnes/year from 2028 — the year low-carbon construction materials become mandatory. If this scales, the material self-sufficiency argument for the EU strengthens, similar to the one made for [bio-based resins from the University of Oulu](../../sectors/industry/bio-based-resins-composites.md).
 
 The Institution's manual pairs with an educational push: Trujillo wants lecturers to teach bamboo alongside steel and timber, so that "the next generation of engineers and architects" is trained to be "**bamboo-ready**."
-
-## Connected topics
-
-- [Cement and Concrete — A Hidden Climate Problem](../../sectors/industry/Cement and Concrete - A Hidden Climate Problem.md)
-- [Bio-based resins and composites](../../sectors/industry/bio-based-resins-composites.md)
-- [FACTS about Forest, Land Use and Land management](../../biodiversity-land/FACTS about Forest, Land Use and Land management.md)
-- [Source: Bamboo construction manual (Guardian)](../../sources/bamboo-construction-guardian-2026.md)

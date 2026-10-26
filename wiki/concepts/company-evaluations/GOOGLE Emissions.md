@@ -5,6 +5,10 @@ tags: ["#ai", "#digital", "#energy", "#esg", "#carbon-removal", "#company-evalua
 created: 2025-01-01
 updated: 2026-08-26
 summary: Google, AI emissions rise 48 percent, data centre electricity demand, 2024 environmental report, 14.3 million metric tons CO2, net zero 2019 baseline, International Energy Agency data centre forecast, SemiAnalysis 4.5 percent global energy 2030, nuclear power Elementl Power, Kairos Power small modular reactor, biochar carbon capture, landfill waste, artificial intelligence energy demand
+related:
+  - FACTS about AI, Emissions impacts and mitigation potential
+  - Net-Zero target explained
+  - Space necessary for the various Energy Sources
 ---
 
 ## Google's emissions rise 48% as AI demand grows
@@ -26,12 +30,6 @@ This is not Google's only nuclear investment. In October 2024, Google teamed up 
 Source: We Don't Have Time — https://app.wedonthavetime.org/posts/e4989d8d-9c22-4fcd-a63b-ee133d5f73d2
 
 Google is also backing a project converting landfill waste into biochar as a carbon capture measure, with the aim of capturing around 200,000 tonnes of carbon. Biochar is a charcoal-like material produced by heating organic waste in a low-oxygen environment; once spread over agricultural fields, it locks carbon into the soil for long periods while also improving soil quality, making it a promising carbon capture option.
-
-## Connected topics
-
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](../../sectors/digital/FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
-- [Net-Zero target explained](../key-ideas/Net-Zero%20target%20explained.md)
-- [Space necessary for the various Energy Sources](../key-ideas/Space%20necessary%20for%20the%20various%20Energy%20Sources.md)
 
 ## Sources
 

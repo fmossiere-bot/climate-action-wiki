@@ -45,10 +45,6 @@ Completely fair, and that is the argument we should be having. Retraining and re
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - ScienceDirect, employment effects of energy spending — https://www.sciencedirect.com/science/article/abs/pii/S026499931630709X

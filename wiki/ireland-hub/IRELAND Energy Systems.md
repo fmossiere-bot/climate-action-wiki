@@ -5,6 +5,12 @@ tags: ["#ireland", "#energy", "#energy-transition", "#renewables", "#fossil-fuel
 created: 2026-06-01
 updated: 2026-08-26
 summary: installed electricity capacity, dispatchable generation, wind energy, solar PV, energy storage, energy imports, natural gas, Moffat pipeline, oil, biomass, peat, electricity interconnectors, net-zero pathway, energy consumption per capita, SEAI, EirGrid, CRU, data centres, renewable energy targets, decarbonisation
+related:
+  - IRELAND Data Centre Dilemna
+  - IRELAND Emissions, Climate Plans
+  - FACTS about Wind Energy
+  - FACTS about Solar Energy
+  - FACTS about NUCLEAR energy
 ---
 
 # Ireland's Energy System
@@ -75,14 +81,6 @@ Other figures from the update:
 - Interconnector imports supplied **14%** of electricity, with SEAI expecting that to rise above **16%**.
 - Diesel and petrol made up **93%** of transport fuel.
 - Oil and gas provided **90%** of the heat used to warm homes and run factories.
-
-## Connected topics
-
-- [Ireland's Data Centre Dilemma](../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
-- [Ireland Emissions and Climate Plans](../ireland-hub/IRELAND%20%20Emissions%2C%20Climate%20Plans.md)
-- [FACTS about Wind Energy](../solutions/renewables/FACTS%20about%20Wind%20Energy.md)
-- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
-- [FACTS about NUCLEAR energy](../solutions/renewables/FACTS%20about%20NUCLEAR%20energy.md)
 
 ## Sources
 

@@ -5,6 +5,9 @@ tags: ["#company-evaluations", "#esg", "#carbon", "#energy-transition", "#renewa
 created: 2026-06-01
 updated: 2026-08-26
 summary: Canva, Scope 3 emissions, print suppliers, Watershed, Virtual Power Purchase Agreement, VPPA, Renewable Energy Certificates, RECs, additionality, solar projects, Illinois community solar, market-based Scope 2, supply-chain decarbonisation, GHG Protocol, SBTi, CDP, TCFD, carbon accounting, 15000 tonnes CO2 avoided
+related:
+  - What is ESG?
+  - Greenwashing
 ---
 
 *Source: [Watershed, Canva case study](https://watershed.com/en-GB/customers/canva)*
@@ -54,12 +57,6 @@ For each MWh generated, the company receives the associated RECs. These are used
 Short answer: no. VPPAs are not automatically additional. They can provide additionality, but only when structured carefully. A VPPA provides additionality only if it is signed before the project is financed or built, and if the revenue certainty from the VPPA is material to enabling the project's construction. If a VPPA is signed with an already-operational project, or with a project that had already secured financing without the VPPA, it does not create additional renewable capacity. In that case, the buyer is essentially purchasing RECs linked to an existing asset.
 
 Market standards reflect this scepticism: the Greenhouse Gas Protocol (GHGP) does not treat VPPAs with existing projects as additional, the SBTi emphasises real emission reductions over market-based claims, and CDP and investor expectations look for evidence that a VPPA supported a genuinely new project, sometimes described as "new build" RECs.
-
-## Connected topics
-
-- [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [Scope 3 GHG](../key-ideas/Scope%203%20GHG.md)
 
 ## Sources
 

@@ -9,6 +9,10 @@ tags:
 created: 2026-06-06
 updated: 2026-10-18
 summary: bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss. What about Ireland Pollinator plan, what is ireland implmeenting to support pollinators, and what is dun laoghaire plan
+related:
+  - Biodiversity for Business 101
+  - Ireland Biodiversity Plan
+  - FACTS about Farming and Food production
 ---
 
 
@@ -208,8 +212,3 @@ Distributing several compact shelters around a garden tends to attract more spec
 
 # Sources
 [Pollinators](https://pollinators.ie/all-ireland-pollinator-plan-business-supporters-annual-review-2025/)
-
-## Connected topics
-- [Biodiversity for Business 101](../biodiversity-land/Biodiversity for Business 101.md)
-- [Ireland Biodiversity Plan](../ireland-hub/Ireland Biodiversity Plan.md)
-- [FACTS about Farming and Food Production](../sectors/agriculture-food/FACTS about Farming and Food production.md)

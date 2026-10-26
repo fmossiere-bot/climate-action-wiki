@@ -13,6 +13,12 @@ summary: energy transition, renewables replacing fossil fuels, energy addition v
 claim_id: renewables-not-replacing-fossil-fuels
 verdict: mostly-false
 topic: energy
+related:
+  - The Energy Supercycle is Unstoppable
+  - Renewable on Track to overtake Coal
+  - FACTS about Solar Energy
+  - FACTS about Wind Energy
+  - santa-marta-fossil-fuel-conference-2026
 ---
 
 # Myth: renewables aren't replacing fossil fuels, they're just being added on top
@@ -76,15 +82,6 @@ Denmark is at the leading edge, but the pattern is very general in Europe. UK, G
 **The countries closest to real transition are worth knowing.** Denmark, UK, Finland, Germany, Portugal and Spain have all cut fossil fuel electricity substantially since their local peaks. Their trick has been: keep existing low-carbon capacity online (nuclear, hydro where they have it), build renewables fast, phase out coal aggressively, and use gas as a shrinking backup. Where Germany closed nuclear plants early, its transition slowed noticeably — a lesson repeated in Japan.
 
 **What has to happen next.** Two transitions have to run in parallel. The first, cleaning up electricity, is well under way. The second, **electrifying everything else** (cars, heating, industry), is much earlier. The UK's own target (fully low-carbon electricity by 2030) implies building offshore wind and solar about **three times faster** than the pace of the last 20 years — technically possible, but demanding.
-
-## Connected topics
-
-- [The Energy Supercycle Is Unstoppable](../solutions/energy-transition/The%20Energy%20Supercycle%20is%20Unstoppable.md)
-- [Renewables on Track to Overtake Coal](../solutions/energy-transition/Renewable%20on%20Track%20to%20overtake%20Coal.md)
-- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
-- [FACTS about Wind Energy](../solutions/renewables/FACTS about Wind Energy.md)
-- [Santa Marta Fossil Fuel Conference 2026](../solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 
 ## Sources
 

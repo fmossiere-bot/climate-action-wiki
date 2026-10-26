@@ -6,6 +6,12 @@ sources: ["Bloomberg Green — Zero: The Climate Race podcast, 'Is the world bec
 created: 2026-07-06
 updated: 2026-08-26
 summary: sport and climate change, heat health risk, athletes, humidity wet-bulb, cricket, baseball, football soccer, track and field, hydration breaks, Tokyo Olympics marathon relocation, Wimbledon, athlete activism, fossil fuel sponsorship, David Pocock, women's football fossil fuel protest, Jessica Murfree, 2026 World Cup 7.8 million tonnes CO2, Qatar 2022 stadiums, rotation of hosts, IOC, sporting calendar shift, indoor ice hockey, Zero podcast, FIFPRO wet-bulb globe temperature threshold, tennis cooling breaks, LA Marathon heat
+related:
+  - Environmental Impact of football world cups
+  - Environmental Impact of the Paris Olympics
+  - formula-1-sustainability-2026
+  - Wet-Bulb explained
+  - home-cooling-heatwaves
 ---
 
 > **Editorial summary:** This page distils a July 2026 episode of Bloomberg's Zero podcast with Jessica Murfree (University of North Carolina) on how sport and climate change now shape each other. It sits alongside the [Environmental Impact of football world cups](Environmental Impact of football world cups.md), [Environmental Impact of the Paris Olympics](Environmental Impact of the Paris Olympics.md) and [Formula 1 Sustainability 2026](formula-1-sustainability-2026.md), and complements the [Wet-Bulb](../climate-science/Wet-Bulb%20explained.md) explainer on the physiology side.
@@ -61,14 +67,6 @@ Qatar already demonstrated that a summer tournament can be moved to autumn to av
 ## Bottom line
 
 Heatwaves are already changing how sport is played, from added hydration breaks to shifting event dates and locations. The health risks to athletes are real and, in some cases, life-threatening, particularly where heat combines with humidity. At the same time, sport itself contributes to the problem through travel, construction and sponsorship tied to fossil fuels. There is no single fix, but smaller, less frequent events, reuse of existing infrastructure, and a gradual shift away from fossil fuel sponsorship were all raised as realistic ways forward, alongside a growing, if still limited, willingness among athletes to speak up.
-
-## Connected topics
-
-- [Environmental Impact of football world cups](Environmental Impact of football world cups.md)
-- [Environmental Impact of the Paris Olympics](Environmental Impact of the Paris Olympics.md)
-- [Formula 1 Sustainability 2026](formula-1-sustainability-2026.md)
-- [Wet-Bulb explained](../climate-science/Wet-Bulb%20explained.md)
-- [Home cooling and heatwaves](../climate-adaptation/home-cooling-heatwaves.md)
 
 ## Source
 

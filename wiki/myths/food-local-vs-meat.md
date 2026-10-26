@@ -45,10 +45,6 @@ It is better than feedlot beef on some measures, and still many times the footpr
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - WRI, 6 questions about beef and climate — https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered

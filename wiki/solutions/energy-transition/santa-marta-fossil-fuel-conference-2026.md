@@ -6,6 +6,12 @@ sources: ["raw/articles/'Historic breakthrough' Colombia climate talks end with 
 created: 2026-05-29
 updated: 2026-07-06
 summary: "Santa Marta, TAFF, Transition Away From Fossil Fuels, roadmap, ~60 countries, more than 50% of global GDP, Almost half producers, Major absentees, France, Colombia, Netherlands, second conference, Tuvalu, co-hosted by Ireland, Bonn 2026 intersessional, COP31 Turkey, Iran war energy crisis, Simon Stiell, Africa negotiator concerns, adaptation finance tripling"
+related:
+  - COP30
+  - Paris Agreement - NDC - where are we 10 years later?
+  - FACTS About Fossil Fuel (Oil and Gaz) Industry
+  - Global spending on subsidies that harm environment rises to $2.6tn
+  - IRELAND Emissions, Climate Plans
 ---
 
 # Santa Marta Conference — Building a Coalition to Phase Out Fossil Fuels (2026)
@@ -46,16 +52,6 @@ The **Iran war and the associated energy price shock** added momentum. UN climat
 The most significant pushback on TAFF came from **African negotiators**. Lead negotiator **Antwi Boasiako Amoah** warned that a coalition of the willing risks bypassing the multilateral process: *"It is a multilateral process and we shouldn't engage outside the process and later come and then probably push those outcomes on others who are not part of the willing."* African positions on phaseout remain complicated because some countries export fossil fuels and others rely on them for energy-access finance. Amoah also insisted that Africa cannot fund adaptation through additional debt — the continent needs public grants and international finance, not loans.
 
 **Outgoing COP30 President André Correa do Lago** framed the moment as a shift: *"We are moving from COPs focused on negotiations to COPs focused on implementation."* [COP31 will be held in Turkey](https://www.dw.com/en/turkey-to-host-cop31-after-australia-concedes/a-74814390) in November 2026, followed by the second TAFF conference in Tuvalu in early 2027 (co-hosted by Ireland).
-
-## Connected topics
-
-- [COP30](../../legislation-policy/COP30.md) — the November 2025 summit where fossil fuel phaseout was blocked from the formal text, prompting this initiative
-- [Paris Agreement - NDC - where are we 10 years later?](../../legislation-policy/Paris%20Agreement%20-%20NDC%20-%20where%20are%20we%2010%20years%20later%3F.md) — why NDCs alone are insufficient
-- [FACTS About the Fossil Fuel (Oil and Gas) Industry](FACTS%20About%20Fossil%20Fuel%20(Oil%20and%20Gaz)%20Industry.md) — background on the industry being targeted
-- [Global spending on subsidies that harm environment rises to $2.6tn](../../legislation-policy/Global%20spending%20on%20subsidies%20that%20harm%20environment%20rises%20to%20%242.6tn.md) — fossil fuel subsidies, a key issue at Santa Marta
-- [Ireland's Emissions and Climate Action Plans](../../ireland-hub/IRELAND%20Emissions%2C%20Climate%20Plans.md) — Ireland will co-host the next conference in Tuvalu
-- [Renewables on Track to Overtake Coal](Renewable%20on%20Track%20to%20overtake%20Coal.md) — the energy transition context
-- [The Energy Supercycle Is Unstoppable](The%20Energy%20Supercycle%20is%20Unstoppable.md) — why this coalition has economic momentum
 
 ## Sources
 

@@ -5,6 +5,10 @@ tags: ["#science", "#research", "#key-ideas"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Global Climate Observing System, essential climate variables, ice cores, satellite data, temperature anomalies, aerosols cooling effect, correlation versus causation, climate models, integrated assessment models, climate sensitivity, equilibrium climate sensitivity, transient climate response, Earth system sensitivity, CMIP, IPCC, UNFCCC, COP, AR6, Carbon Brief, Global South climate science, Zeke Hausfather, Joeri Rogelj
+related:
+  - What is Climate Change
+  - IPCC 10 findings 2023
+  - Cool Roofs - A Simple Idea with a Surprisingly Large Impact
 ---
 
 # The Work of Climate Science: Observation, Statistics and Models
@@ -66,12 +70,6 @@ AR6 was published in instalments starting August 2021, concluding with a [Synthe
 The report isn't purely bleak. It also notes real progress: between 2010 and 2019, unit costs fell 85% for solar energy, 55% for wind energy, and 85% for lithium-ion batteries, with large increases in deployment across all three. As climate scientist Joeri Rogelj [told the New York Times](https://www.nytimes.com/2023/03/20/climate/global-warming-ipcc-earth.html), "it's not that if we go past 1.5 degrees everything is lost... there's clear evidence that 1.5 is better than 1.6, which is better than 1.7, and so on. The point is we need to do everything we can to keep warming as low as possible."
 
 A significant critique of AR6 concerns equity. Its integrated assessment models factor in human and Earth systems together but do not weight which countries bear the most historic responsibility for emissions, and their underlying assumptions arguably lean on developing countries taking disproportionate future action. The wording of IPCC summary reports is also shaped by intense international lobbying; in the 2023 report's case, [the final draft was largely shaped by rich countries](https://carboncopy.info/ipccs-climate-reports-reveal-an-unequal-science/) that remained in negotiations after delegates from many poorer countries had already left. Critics argue this means the report may understate how much urgent action is genuinely needed.
-
-## Connected topics
-
-- [What is Climate Change](What%20is%20Climate%20Change.md)
-- [IPCC 10 Findings 2023](IPCC%2010%20findings%202023.md)
-- [Cool Roofs: A Simple Idea with a Surprisingly Large Impact](../solutions/energy-efficiency/Cool%20Roofs%20-%20A%20Simple%20Idea%20with%20a%20Surprisingly%20Large%20Impact.md)
 
 ## Sources
 

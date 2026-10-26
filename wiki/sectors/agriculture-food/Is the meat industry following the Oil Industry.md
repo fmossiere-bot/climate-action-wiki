@@ -5,6 +5,9 @@ tags: ["#food", "#fossil-fuels", "#greenwashing", "#science"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: animal agriculture climate disinformation, industry-funded research, Jennifer Jacquet, Climatic Change journal study, IPCC meat and dairy language lobbying, litigation against oil and gas, The Playbook, Is Shame Necessary, fossil fuel industry delay tactics, Ireland farmer climate misinformation, dietary change emissions research
+related:
+  - beef-and-climate-change
+  - eat-lancet-planetary-diet-2025
 ---
 
 # Is the Meat Industry Following the Oil Industry's Climate Playbook?
@@ -24,11 +27,6 @@ This is why a growing number of scientists and activists argue that [wealthy nat
 It is perhaps understandable, from a narrow business perspective, that parts of the meat industry would choose the route of scientific obfuscation: it is what the fossil fuel industry did for decades, and doing so allowed it to keep growing and profiting despite clear scientific warnings. But Jennifer Jacquet, a professor of environmental science and policy at the University of Miami and a co-author of the *Climatic Change* study, argues there is a more lucrative and creative option available to animal agriculture: suing the fossil fuel industry for damages. Her reasoning is that meat and dairy would not be under this pressure at all if fossil fuel companies had acted on climate science decades ago. "Meat and dairy should be suing oil and gas," Jacquet has said. "Because part of the reason that we're in this position is because we did nothing about oil and gas."
 
 Jacquet is the author of two related books: *The Playbook*, which examines how corporations lie about climate change, and *Is Shame Necessary?*, about using public shame to push corporations toward better environmental policy.
-
-## Connected topics
-
-- [Beef and Climate Change: Six Questions, Answered Plainly](beef-and-climate-change.md)
-- [EAT-Lancet Planetary Diet 2025](eat-lancet-planetary-diet-2025.md)
 
 ## Sources
 

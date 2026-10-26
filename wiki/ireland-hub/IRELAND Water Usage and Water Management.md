@@ -5,6 +5,10 @@ tags: ["#ireland", "#nature", "#adaptation", "#agriculture"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Ireland water quality, EPA water report, nitrates, phosphorous, rivers, lakes, nutrient pollution, agriculture runoff, wastewater infrastructure, Lough Neagh, algae bloom, zebra mussels, climate change and water resources, freshwater scarcity, flooding, Dublin water supply, River Shannon, Uisce Éireann, Water Supply Project, Parteen Basin, Lough Derg, pipeline leakage, climate-resilient infrastructure, Greater Dublin, irrigated agriculture
+related:
+  - Water - A Finite Resource We Cannot Afford to Ignore
+  - Keynote Dr Chip FLETCHER
+  - FACTS on EVERYTHING - Under the Sky we Make
 ---
 
 # Ireland Water Usage and Water Management
@@ -66,12 +70,6 @@ Freshwater is a far more limited resource than most people realise, and Ireland'
 Agriculture dominates global water consumption: 87% of the water people consume goes to irrigated agriculture, which uses 22 times more water than the households of the world's 7.8 billion people combined. To put the scarcity of fresh water in perspective, the US Geological Survey has visualised what it would look like if all the Earth's surface fresh water in lakes and rivers were collected into a single sphere: a bubble only 35 miles in diameter. That is the entire fresh water supply available to the planet.
 
 ### See [Keynote: Dr Chip Fletcher](../climate-science/Keynote%20Dr%20Chip%20FLETCHER.md) on important facts about water usage
-
-## Connected topics
-
-- [Water: A Finite Resource We Cannot Afford to Ignore](../biodiversity-land/Water%20-%20A%20Finite%20Resource%20We%20Cannot%20Afford%20to%20Ignore.md)
-- [Keynote: Dr Chip Fletcher on the Greenhouse Effect and Its Consequences](../climate-science/Keynote%20Dr%20Chip%20FLETCHER.md)
-- [FACTS on Everything: Under the Sky We Make](../concepts/key-ideas/FACTS%20on%20EVERYTHING%20-%20Under%20the%20Sky%20we%20Make.md)
 
 ## Sources
 

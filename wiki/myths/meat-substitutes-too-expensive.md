@@ -11,6 +11,12 @@ summary: meat substitutes cost, plant-based bacon burgers more expensive, chicke
 claim_id: meat-substitutes-too-expensive
 verdict: mostly-false
 topic: food
+related:
+  - not-enough-land-for-plant-based
+  - meat-substitutes-worse-for-climate
+  - meat-substitutes-unhealthy
+  - lab-grown-meat
+  - beef-and-climate-change
 ---
 
 # Myth: meat substitutes are too expensive
@@ -76,15 +82,6 @@ At $10-100/kg it's still expensive, but the cost has fallen faster than any food
 **Precision fermentation.** Microorganisms are already used to produce specific proteins (like insulin), fats, vitamins and flavours cheaply. Applied to food, this could make protein at very low cost — potentially cheaper than plant-based products. Companies like Perfect Day (dairy proteins), Formo (cheese) and Nature's Fynd are already commercial. This is the technology most likely to drop food-substitute prices below meat within a decade.
 
 **What individuals can do.** Buy meat substitutes now. Every kilo of demand signals the market, encourages more competition, and drives further price drops. That is the same mechanism that made solar cheap: consumers buying early. The individual purchasing decision isn't just personal — it's a small nudge on the whole industry's cost curve.
-
-## Connected topics
-
-- [Not enough land for plant-based (myth)](not-enough-land-for-plant-based.md)
-- [Meat substitutes worse for climate (myth)](meat-substitutes-worse-for-climate.md)
-- [Meat substitutes unhealthy (myth)](meat-substitutes-unhealthy.md)
-- [Lab-grown meat](../solutions/food/lab-grown-meat.md)
-- [Beef and Climate Change](../sectors/agriculture-food/beef-and-climate-change.md)
-- [The EAT-Lancet Planetary Health Diet](../sectors/agriculture-food/eat-lancet-planetary-diet-2025.md)
 
 ## Sources
 

@@ -6,6 +6,12 @@ sources: ["raw/articles/Massive carbon stocks in grasslands are ignored by clima
 created: 2026-10-26
 updated: 2026-10-26
 summary: grassland carbon stocks open ecosystems savanna shrubland, Brazil Cerrado 1200 tonnes per hectare 6x Amazon, 20000 year old soil carbon, 46 percent cleared agribusiness soy livestock, REDD+ forest bias, carbon credit methodology belowground soil roots, water security headwaters two-thirds Brazil waterways groundwater, tree-planting projects risk, Franciele Peixoto Amy Zanne Natashi Pilon, Campos do Cerrado national strategy, COP16 COP30, pampas Argentina Kazakh steppe African savanna Mongolian grasslands, charismatic ecosystem bias colonial era wasteland framing
+related:
+  - grassland-carbon-stocks-phys-2026
+  - Forests and Land - Our Most Important Carbon Sink
+  - The importance of Wetlands
+  - mangrove-forests-recovery
+  - The importance of Hedgerows
 ---
 
 # Grassland carbon stocks: the overlooked climate ally
@@ -61,17 +67,6 @@ What is needed next:
 - National strategies that explicitly include open ecosystems in climate and biodiversity targets
 - Protection from tree-planting programmes
 - Better scientific data (open ecosystems are historically under-studied)
-
-## Connected topics
-
-- [Grassland carbon stocks (source)](../sources/grassland-carbon-stocks-phys-2026.md)
-- [Forests and Land - Our Most Important Carbon Sink](Forests%20and%20Land%20-%20Our%20Most%20Important%20Carbon%20Sink.md)
-- [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
-- [Mangrove Forests Recovery](mangrove-forests-recovery.md)
-- [Hedgerows (nature-based solutions)](../solutions/nature-based-solutions/The%20importance%20of%20Hedgerows.md)
-- [Seaweed is not a climate solution (source)](../sources/seaweed-not-a-climate-solution-newscientist-2026.md) — parallel "preserve first, don't restore everywhere" argument
-- [Halfway to 2030: COP17 overview](../legislation-policy/halfway-to-2030-biodiversity-cop17-overview.md)
-- [IPBES Nexus Assessment 2024 (source)](../sources/ipbes-nexus-assessment-2024.md)
 
 ## Sources
 

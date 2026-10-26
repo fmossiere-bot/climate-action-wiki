@@ -5,6 +5,10 @@ tags: ["#science", "#methane", "#carbon"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Global Warming Potential, GWP, radiative efficiency, atmospheric lifetime, wavelength absorption, infrared radiation, MODTRAN model, Slugulator model, water vapour absorption, methane concentration saturation, CO2 absorption bands, shallow and deep ocean heat reservoirs, University of Chicago climate models
+related:
+  - Emissions and the Global Carbon Cycle
+  - Methane emissions role in Global Warming
+  - What is Climate Change
 ---
 
 # Global Warming Potential Explained: Why Methane Punches Above Its Weight
@@ -23,12 +27,6 @@ The University of Chicago hosts two browser-based teaching models that make thes
 
 - **[MODTRAN](https://climatemodels.uchicago.edu/modtran/)** simulates the emission and absorption of infrared radiation through the atmosphere. It plots theoretical blackbody emission spectra at different temperatures alongside the actual, jagged spectrum of infrared light escaping at the top of the atmosphere, with the total energy flux reported as the Upward IR Heat Flux (in W/m²). Adjusting gas concentrations in the model shows directly how wavelength-selective greenhouse gases reshape Earth's outgoing infrared spectrum.
 - **[Slugulator](https://climatemodels.uchicago.edu/slugulator/)** simulates how the climate responds to a sudden ("spike") release of CO2 or methane. Per gigatonne of carbon released, methane's radiative impact is initially much stronger than CO2's, again because CO2's absorption bands are already closer to saturated while methane's are not. The two gases also differ sharply in how long they last: methane breaks down, mostly into CO2 (an effect the model accounts for), over roughly a decade, while CO2 is removed far more slowly, through ocean dissolution and, eventually, chemical weathering reactions that operate on much longer timescales. The model represents the resulting temperature response using two heat reservoirs, a shallow ocean that equilibrates to new radiative forcing within about a decade, and a deep ocean that exchanges heat with it far more slowly, effectively setting the pace at which the whole planet's temperature catches up, and accumulating the long-term "heat pollution" that persists even after atmospheric concentrations stabilise.
-
-## Connected topics
-
-- [Emissions and the Global Carbon Cycle](Emissions%20and%20the%20Global%20Carbon%20Cycle.md)
-- [Methane emissions role in Global Warming](Methane%20emissions%20role%20in%20Global%20Warming.md)
-- [What is Climate Change](What%20is%20Climate%20Change.md)
 
 ## Sources
 

@@ -5,6 +5,9 @@ tags: ["#building-industry", "#energy-efficiency", "#renewables"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: net-zero buildings, zero net energy, onsite renewables, passive solar design, natural air conditioning, rainwater harvesting, high-performance glass, green and cool roofs, insulation, distributed energy storage, Project Drawdown
+related:
+  - Cool Roofs - A Simple Idea with a Surprisingly Large Impact
+  - Building Automation - Project Drawdown 37
 ---
 
 # Net-Zero Buildings
@@ -25,11 +28,6 @@ Buildings are responsible for a large share of global energy use and emissions, 
 - Design strategies include passive solar design, natural cooling and ventilation instead of mechanical air conditioning, and rainwater harvesting.
 - Project Drawdown accounts for the emissions and financial impact of net-zero buildings within its related solutions, including high-performance glass, green and cool roofs, insulation, and distributed energy storage, rather than as a separate total.
 - [Cool Roofs](Cool%20Roofs%20-%20A%20Simple%20Idea%20with%20a%20Surprisingly%20Large%20Impact.md), one of the building blocks of net-zero design, can cut roof surface temperatures and significantly reduce cooling energy demand.
-
-## Connected topics
-
-- [Cool Roofs: A Simple Idea with a Surprisingly Large Impact](Cool%20Roofs%20-%20A%20Simple%20Idea%20with%20a%20Surprisingly%20Large%20Impact.md)
-- [Building Automation: Project Drawdown 37](Building%20Automation%20-%20Project%20Drawdown%2037.md)
 
 ## Sources
 

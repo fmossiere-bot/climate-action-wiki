@@ -6,6 +6,12 @@ sources: ["raw/papers/Food-growing-NS.pdf", "New Scientist, Michael Le Page, 22 
 created: 2026-10-08
 updated: 2026-10-08
 summary: solar foods electro-agriculture, gas fermentation, microbial protein, Solein Solar Foods Finland Pasi Vainikka, hydrogen bacteria vats, Robert Jinkerson UC Riverside Nolux acetate pathway, Remko Boom Copenhagen Acetate Consortium, Feng Jiao, Savor syngas butter, Jooules Air Protein Aerbio Calysta Unibio Norferm, vertical farming non-starter, 1 percent plant photosynthesis vs 20 percent solar panel, 18x more efficient, 10x food per land, decoupling food from land, GM plants acetate dark, culture medium footprint, fossil methane transition, EU novel food approval, US Singapore Solein approved
+related:
+  - lab-grown-meat
+  - not-enough-land-for-plant-based
+  - meat-substitutes-worse-for-climate
+  - meat-substitutes-too-expensive
+  - france-biomethane-boom
 ---
 
 # Solar foods and electro-agriculture: making food directly from electricity
@@ -74,16 +80,6 @@ Solar foods are not a replacement for cutting meat and dairy demand, nor for sca
 - **Decoupling production from land** entirely (electro-ag and gas fermentation)
 
 If any serious share of global protein can be produced this way in the next few decades, it opens up large tracts of farmland for rewilding and takes pressure off the climate-biodiversity-food nexus flagged in the [IPBES Nexus Assessment](../../sources/ipbes-nexus-assessment-2024.md).
-
-## Connected topics
-
-- [Lab-grown meat](lab-grown-meat.md)
-- [Not enough land for plant-based (myth)](../../myths/not-enough-land-for-plant-based.md)
-- [Meat substitutes worse for climate (myth)](../../myths/meat-substitutes-worse-for-climate.md)
-- [Meat substitutes too expensive (myth)](../../myths/meat-substitutes-too-expensive.md)
-- [France Biomethane Boom](../renewables/france-biomethane-boom.md) — biogas as a feedstock alternative to fossil methane
-- [IPBES Nexus Assessment (source)](../../sources/ipbes-nexus-assessment-2024.md)
-- [Agriculture Planetary Footprint](../../sectors/agriculture-food/agriculture-planetary-footprint.md)
 
 ## Sources
 

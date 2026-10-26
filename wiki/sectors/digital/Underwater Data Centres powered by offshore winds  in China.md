@@ -12,6 +12,9 @@ tags:
 created: 2026-06-06
 updated: 2026-06-06
 summary: underwater data centre powered by offshore wind energy, UDC, China, offshore wind, seawater cooling, freshwater, land use, Shanghai, Lin-gang, China Communications Construction, Tsinghua University, 192 server racks, 24 MW capacity, heat exchange, data centre innovation, AI infrastructure, marine environment, ecological impact, copper pipe cooling, energy efficiency
+related:
+  - ai-data-centre-energy-crisis
+  - AI Emissions and Corporate Responsibility
 ---
 
 
@@ -50,12 +53,6 @@ The UDC concept has not yet been tested at full commercial scale. Two key questi
 - Current capacity: **2.3 MW**; planned capacity: **24 MW**.
 - Potential global saving if scaled: **50 billion kWh/year** in cooling electricity.
 - Open questions remain on marine ecological effects. ([New Atlas, 2026](https://newatlas.com/energy/china-underwater-data-center-opens/))
-
-## Connected topics
-- [AI Data Centres and the Energy Crisis](ai-data-centre-energy-crisis.md)
-- [AI Emissions and Corporate Responsibility](../digital/AI Emissions and Corporate Responsibility.md)
-- [IRELAND Datacentre Dilemma](../../ireland-hub/IRELAND Datacentre Dilemna.md)
-- [FACTS about the Ocean](../../biodiversity-land/FACTS about the Ocean.md)
 
 ## Sources
 - New Atlas, Bronwyn Thompson, 1 June 2026 — https://newatlas.com/energy/china-underwater-data-center-opens/

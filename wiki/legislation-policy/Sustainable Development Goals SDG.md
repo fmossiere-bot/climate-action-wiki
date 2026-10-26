@@ -5,6 +5,9 @@ tags: ["#esg", "#ireland", "#sdg"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Sustainable Development Goals, SDGs, Global Goals, United Nations, 2030 Agenda, poverty, hunger, AIDS, gender equality, justice and equity, Sustainable Development Goals Report 2024, child mortality, HIV, energy access, mobile broadband, climate change, peace and security, inequality, Ireland SDG progress, UN Statistics Division
+related:
+  - What is CSRD?
+  - What is ESG?
 ---
 
 # The Sustainable Development Goals (SDGs)
@@ -35,11 +38,6 @@ The UN Statistics Division publishes country-level data tracking each nation's p
 - The report found progress on child mortality reduction, HIV prevention, and access to energy and mobile broadband, but urgent shortfalls on climate change, peace and security, and inequality.
 - Without massive additional investment and scaled-up action, the UN says the 2030 goals will remain out of reach.
 - Ireland's goal-by-goal SDG progress is tracked by the UN Statistics Division's country data portal.
-
-## Connected topics
-
-- [What is CSRD?](What%20is%20CSRD%3F.md)
-- [What is ESG?](../concepts/key-ideas/What%20is%20ESG%3F.md)
 
 ## Sources
 

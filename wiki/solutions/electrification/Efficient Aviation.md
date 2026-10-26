@@ -5,6 +5,10 @@ tags: ["#aviation", "#alternative-fuels", "#transport"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Project Drawdown, aircraft efficiency, winglets, fuel-efficient engines, aircraft retrofitting, early retirement of older aircraft, air freight, belly freight, aviation emissions share, fuel burn improvement, lightweight interiors
+related:
+  - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
+  - Decarbonising Aviation and Shipping
+  - Facts about Air Travel
 ---
 
 # Efficient Aviation
@@ -20,12 +24,6 @@ The number of flights globally may double between 2020 and 2040, so efficiency i
 ## The scale of the opportunity
 
 Project Drawdown's analysis found that over 30 years, and for a net first cost of **US$3.47 to 3.79 trillion**, adopting these efficiency measures could avoid **5.29 to 5.82 gigatons of CO2-equivalent emissions** and save **US$1.59 to 2.24 trillion** in lifetime jet fuel and operating costs, as over 80% of the global aircraft fleet is converted to more efficient types. Fuel burn could plausibly be improved by around 13%, with roughly 100 aircraft retrofitted annually under this scenario. This analysis deliberately excludes well-publicised but not yet commercially proven technologies such as aviation biofuels; more dramatic aircraft redesigns and sustainable jet fuels made from sources like algae are still in development, alongside national and international aviation industry regulation.
-
-## Connected topics
-
-- [Sustainable Aviation Fuel: A Necessary but Complicated Solution](Sustainable%20Aviation%20Fuel%20-%20%20A%20Necessary%20but%20Complicated%20Solution.md)
-- [Decarbonising Aviation and Shipping](Decarbonising%20Aviation%20and%20Shipping.md)
-- [Facts about Air Travel](../../sectors/transport/Facts%20about%20Air%20Travel.md)
 
 ## Sources
 

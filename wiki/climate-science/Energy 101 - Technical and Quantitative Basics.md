@@ -5,6 +5,10 @@ tags: ["#science", "#energy"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: energy versus power, watts, watt-hours, energy content of fuels, carbon intensity of fuels, unit conversions, efficiency, capacity factor, load curve, load duration curve, duck curve, solar generation midday, grid capacity planning, 100% renewable studies, levelized cost of energy, LCOE, capital costs, fixed and variable operation costs, fuel costs, transmission costs
+related:
+  - Clean Electricity - Why It Has to Come First
+  - FACTS about Solar Energy
+  - FACTS about Wind Energy
 ---
 
 # Energy 101: Technical and Quantitative Basics
@@ -50,12 +54,6 @@ Building and running any power generation facility involves five distinct types 
 Because comparing five different cost categories across technologies is unwieldy, the industry combines them into a single metric: the **levelized cost of energy** or **levelized cost of electricity (LCOE)**, a facility's cost to generate one unit of electricity averaged over its entire lifetime. Whenever electricity costs are quoted in the media as $/kWh or similar, this is almost always LCOE.
 
 On an unsubsidised basis, wind, solar PV and geothermal are now competitive with, and often cheaper than, fossil fuel generation. Solar paired with storage is cheaper than most coal, gas peaking plants and nuclear power, and highly competitive with gas combined-cycle plants, even before any subsidies or tax incentives are factored in.
-
-## Connected topics
-
-- [Clean Electricity: Why It Has to Come First](../sectors/energy/Clean%20Electricity%20-%20Why%20It%20Has%20to%20Come%20First.md)
-- [FACTS about Solar Energy](../solutions/renewables/FACTS%20about%20Solar%20Energy.md)
-- [FACTS about Wind Energy](../solutions/renewables/FACTS%20about%20Wind%20Energy.md)
 
 ## Sources
 

@@ -11,6 +11,12 @@ summary: meat substitutes carbon footprint, Impossible Beyond Meat Quorn tofu pe
 claim_id: meat-substitutes-worse-for-climate
 verdict: false
 topic: food
+related:
+  - not-enough-land-for-plant-based
+  - meat-substitutes-too-expensive
+  - meat-substitutes-unhealthy
+  - beef-and-climate-change
+  - lab-grown-meat
 ---
 
 # Myth: meat substitutes are worse for the climate because they're processed
@@ -69,15 +75,6 @@ Yes, in almost every case. Even the most climate-efficient beef producers still 
 **Lab-grown meat is a young technology.** Currently produced at very small scale. Standard cultivated meat processes have emissions closer to chicken than to beef. The "25× worse than beef" claim referenced a biopharmaceutical production style that no serious commercial producer uses. Studies of realistic industrial-scale processes find lower emissions than beef even on today's fossil-heavy grid — and much lower on clean electricity.
 
 **Where the real hierarchy sits.** Best to worst on emissions per 100 g protein: peas/beans/lentils → tofu, tempeh → most meat substitutes → efficient chicken → average chicken/pork → cultivated meat → efficient beef → average beef → high-emission beef. Substitutes sit comfortably in the low-emission zone.
-
-## Connected topics
-
-- [Not enough land for plant-based (myth)](not-enough-land-for-plant-based.md)
-- [Meat substitutes too expensive (myth)](meat-substitutes-too-expensive.md)
-- [Meat substitutes unhealthy (myth)](meat-substitutes-unhealthy.md)
-- [Beef and Climate Change](../sectors/agriculture-food/beef-and-climate-change.md)
-- [Lab-grown meat](../solutions/food/lab-grown-meat.md)
-- [The EAT-Lancet Planetary Health Diet](../sectors/agriculture-food/eat-lancet-planetary-diet-2025.md)
 
 ## Sources
 

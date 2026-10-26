@@ -5,6 +5,10 @@ tags: ["#science", "#ocean", "#adaptation"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Chip Fletcher, greenhouse effect, Arctic sea ice, water vapour feedback, CO2 growth rate 420ppm, photosynthesis respiration balance, plants as carbon source, heat humidity extremes, Sahara uninhabitable, climate displacement, water overdraft, China India water extraction, cereal nutrient decline, wheat protein
+related:
+  - FACTS on EVERYTHING - Under the Sky we Make
+  - Global Impact of Climate Change
+  - Local Impact and Extreme Events Attribution
 ---
 
 # Keynote: Dr Chip Fletcher on the Greenhouse Effect and Its Consequences
@@ -30,12 +34,6 @@ Parts of the central Sahara are already too hot for sustained human survival, wi
 Globally, roughly 17% more freshwater is being extracted than natural systems can regenerate; China draws about 22% more than its natural replenishment rate, and India around 52% more. This overdraft cannot be restored, and demand is projected to keep growing, by around 55% by 2050. Roughly a quarter of humanity already faces water shortages every year (see [Ireland Water Usage and Water Management](../ireland-hub/IRELAND%20Water%20Usage%20and%20Water%20Management.md) for a country-level example).
 
 Rising CO2 is also linked to falling nutrient density in major cereal crops, wheat among them, an under-recognised dimension of food security that gets far less attention than yield figures alone.
-
-## Connected topics
-
-- [FACTS on Everything: Under the Sky We Make](../concepts/key-ideas/FACTS%20on%20EVERYTHING%20-%20Under%20the%20Sky%20we%20Make.md)
-- [Global Impact of Climate Change](Global%20Impact%20of%20Climate%20Change.md)
-- [Local Impact and Extreme Events Attribution](Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
 
 ## Sources
 

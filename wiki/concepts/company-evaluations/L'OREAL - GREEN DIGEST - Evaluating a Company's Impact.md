@@ -5,6 +5,10 @@ tags: ["#company-evaluations", "#greenwashing", "#esg", "#plastic"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: L'Oreal, beauty industry, Green Digest impact score, MSCI ESG rating, harmful chemicals lead PFAS formaldehyde, child labour forced labour supply chain, 11.5 million tonnes CO2, packaging recyclability 44 percent, water stress regions, industrial waste recovery 97 percent, Sustainable Development Goals, Eugene Schueller, animal testing ban 1989, double materiality
+related:
+  - Greenwashing
+  - What is ESG?
+  - FACTS about Circular Economy
 ---
 
 *Source: Green Digest, "Evaluating a Company's Impact: The Case of L'Oréal" — https://www.greendigest.co/p/evaluating-a-company-s-impact-the-case-of-l-or-al*
@@ -38,12 +42,6 @@ ESG ratings from MSCI ESG Research are designed to measure a company's resilienc
 Positively, and weighted by significance, L'Oréal scores highest on No Poverty (+3.01), followed by Partnership for the Goals (+2.88). Negatively, it scores worst on Good Health and Well-being (-0.21), followed by Responsible Consumption and Production (-2.32) and Decent Work and Economic Growth (-1.49).
 
 L'Oréal positively impacts SDG 3, Good Health and Well-being, by providing products that support personal hygiene, self-care and confidence, contributing to overall well-being. However, it also impacts the same SDG negatively, due to cases of harmful chemicals in its products, such as lead and PFAS, which raise concerns about consumer safety and health risks.
-
-## Connected topics
-
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
-- [FACTS about Circular Economy](../key-ideas/FACTS%20about%20Circular%20Economy.md)
 
 ## Sources
 

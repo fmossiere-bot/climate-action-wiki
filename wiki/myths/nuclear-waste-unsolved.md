@@ -12,6 +12,11 @@ summary: nuclear waste, low intermediate high level, 96% recyclable France Japan
 claim_id: nuclear-waste-unsolved
 verdict: mostly-false
 topic: energy
+related:
+  - nuclear-too-dangerous
+  - nuclear-too-expensive
+  - nuclear-takes-too-long-to-build
+  - not-enough-clean-energy
 ---
 
 # Myth: nuclear waste is an unsolved problem
@@ -80,13 +85,6 @@ It is, and this is where scientists genuinely disagree. Direct radiation exposur
 **The volume comparison.** All the high-level nuclear waste produced worldwide since the 1950s would fit on a football pitch, five metres deep. A single coal power plant produces more waste ash in a month than that. The "vast quantities of nuclear waste" framing is not consistent with the actual volumes.
 
 **The one real recommendation.** Finland's Onkalo needs to open, work, and be measured, so that other countries can replicate the model with realistic costs and public confidence. Everything else — reprocessing, standards, monitoring — is already well-established.
-
-## Connected topics
-
-- [Nuclear too dangerous (myth)](nuclear-too-dangerous.md)
-- [Nuclear too expensive (myth)](nuclear-too-expensive.md)
-- [Nuclear takes too long to build (myth)](nuclear-takes-too-long-to-build.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 
 ## Sources
 

@@ -5,6 +5,10 @@ tags: ["#eu-policy", "#esg", "#greenwashing"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Corporate Sustainability Reporting Directive, CSRD, Non-Financial Reporting Directive, NFRD, EFRAG, European Sustainability Reporting Standards, ESRS, double materiality, European Green Deal, greenwashing, Sustainable Finance Disclosure Regulation, SFDR, omnibus reforms, Ireland companies, climate transition plans, Extended Producer Responsibility, textiles, food waste
+related:
+  - What is CSDDD
+  - What is ESG?
+  - Sustainable Development Goals SDG
 ---
 
 # What is CSRD? The EU Corporate Sustainability Reporting Directive
@@ -47,12 +51,6 @@ Separately, the EU also agreed new waste reduction measures for textiles and foo
 - Companies report under the European Sustainability Reporting Standards (ESRS), developed by EFRAG; the first standards were adopted by the European Commission by mid-2023.
 - CSRD replaced the NFRD, which introduced the "double materiality" reporting principle but produced information investors found unreliable and hard to compare.
 - The 2025 omnibus reform narrowed CSRD's scope from about 11,000 to about 4,700 companies, raising the threshold to 1,000+ employees and €450m+ revenue, and softened climate transition plan and double materiality requirements.
-
-## Connected topics
-
-- [What is CSDDD? The EU Corporate Sustainability Due Diligence Directive](What%20is%20CSDDD.md)
-- [What is ESG?](../concepts/key-ideas/What%20is%20ESG%3F.md)
-- [The Sustainable Development Goals (SDGs)](Sustainable%20Development%20Goals%20SDG.md)
 
 ## Sources
 

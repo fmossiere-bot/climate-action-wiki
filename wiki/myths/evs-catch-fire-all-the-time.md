@@ -13,6 +13,10 @@ summary: EV fires, 0.004% vs 0.08% petrol, 19 times higher petrol, Norway 4 per 
 claim_id: evs-catch-fire-all-the-time
 verdict: false
 topic: transport
+related:
+  - evs-just-as-bad-for-climate
+  - evs-too-expensive
+  - evs-will-break-the-grid
 ---
 
 # Myth: electric cars catch fire all the time
@@ -65,12 +69,6 @@ Partly true. EVs on the road are younger on average than petrol cars, and older 
 **The real gap is fire-service capability.** Many fire services around the world have not yet had specific EV battery-fire training. Groups like EV FireSafe already offer it. As the EV fleet grows, this training needs to reach every fire service. That is a real investment issue — not a reason to keep buying petrol cars.
 
 **Media accuracy matters.** When any car fire happens, reporters often assume it's an EV before the facts are confirmed. That amplifies the perception gap. A confirmed diesel fire rarely gets corrected on the front page.
-
-## Connected topics
-
-- [EVs just as bad for climate (myth)](evs-just-as-bad-for-climate.md)
-- [EVs too expensive (myth)](evs-too-expensive.md)
-- [EVs will break the grid (myth)](evs-will-break-the-grid.md)
 
 ## Sources
 

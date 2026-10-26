@@ -5,6 +5,9 @@ tags: ["#shipping", "#company-evaluations", "#esg", "#greenwashing"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Stena Line, ferry industry, IMO 2023 GHG strategy, net-zero 2050, e-methanol, battery-powered vessels, Stena Futuro concept ship, shore power, ISO14001, Green Marine certification, carbon intensity reduction 40 percent, greenwashing communication chaos, One Percent for the Planet comparison, Brittany Ferries, MSC certified seafood, energy saving programme 4.5 million dollars, propeller alternation, solar panels, LED technology
+related:
+  - Greenwashing
+  - What is ESG?
 ---
 
 ## The industry backdrop: IMO targets
@@ -73,11 +76,6 @@ Travelling by ferry from Ireland to France, as I do most summers, I usually take
 **On the greenwashing question:** the external validation, the reported figures, and the scale of investment all point to genuine effort, so this does not read as greenwashing in the deliberate sense. But the scattershot communication approach makes it look more like greenwashing than the substance warrants. Overwhelming an audience with dozens of minor initiatives alongside major technological shifts, without a clear hierarchy or narrative, creates suspicion rather than trust, even when the underlying work is real.
 
 **Open questions:** Does listing every initiative, no matter how small, help or hurt a company's credibility? What would better communication look like, perhaps a clearer priority ranking that foregrounds the big-impact initiatives? Is this level of granular detail standard across the maritime and logistics sector, or is Stena Line's approach unusually fragmented?
-
-## Connected topics
-
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
 
 ## Sources
 

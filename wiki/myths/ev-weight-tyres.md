@@ -45,10 +45,6 @@ Yes, a two and a half tonne electric SUV is a bad answer. So is a two and a half
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - MIT Technology Review, huge EVs — https://www.technologyreview.com/2023/02/16/1068708/huge-evs-safety-climate/

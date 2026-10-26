@@ -6,6 +6,9 @@ sources: ["Geological Survey Ireland", "Terra.do Climate Switch newsletter", "Ne
 created: 2026-06-01
 updated: 2026-08-26
 summary: "geothermal basics, shallow and deep geothermal, closed-loop open-loop systems, ground source heat pumps, Ireland geothermal potential, Trinity College Dublin, Rubrics refurbishment, Geological Survey Ireland, enhanced geothermal systems EGS, advanced geothermal systems AGS, supercritical geothermal, superhot rock, Quaise Energy, Eavor Geretsried, Iceland Deep Drilling Project, HS Orka, Pohang earthquake 2017 M5.5, IEA 150x global electricity demand, dispatchable clean energy, GA Drilling, China Huaneng supercritical CO2, Iain Staffell Imperial College, Bill Ellsworth Stanford"
+related:
+  - FACTS about Wind Energy
+  - FACTS about Clean & GREEN Hydrogen
 ---
 
 ## What Is Geothermal Energy
@@ -115,11 +118,6 @@ Geothermal is dispatchable, available on demand day or night whatever the weathe
 - **Iain Staffell** (Imperial College London): geothermal is "really well placed to be the glue that will make low-carbon electricity systems work."
 - **Sanjeev Kumar** (European Geothermal Energy Council): "It's very, very costly. But once you've drilled that hole in the ground, that lasts for over 100 years."
 - **Bill Ellsworth** (Stanford), summing up the state of play: "We know that very deep geothermal energy would be fabulous if we could reach it. We just don't yet know if it's possible."
-
-## Connected topics
-
-- [FACTS about Wind Energy](FACTS about Wind Energy.md)
-- [FACTS about Clean & GREEN Hydrogen](FACTS about Clean & GREEN Hydrogen.md)
 
 ## Sources
 

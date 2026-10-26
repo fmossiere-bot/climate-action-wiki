@@ -12,6 +12,12 @@ summary: low-carbon cement, 7% of global emissions, 1 tonne CO2 per tonne concre
 claim_id: low-carbon-cement-impossible
 verdict: false
 topic: materials
+related:
+  - low-carbon-steel-impossible
+  - flying-shipping-hopeless
+  - carbon-capture-will-fix-it
+  - construction-industry-reuse-target
+  - Cement and Concrete - A Hidden Climate Problem
 ---
 
 # Myth: we'll never be able to make low-carbon cement
@@ -77,16 +83,6 @@ You don't have to. Use less cement in every mix (route 1) — that alone cuts 40
 **Basalt cement is more than a cost play.** The Brimstone-style process produces magnesium compounds as a by-product. Those compounds can be used in concrete themselves, and some of them **absorb CO2 from air**. In principle, a basalt-cement building could be carbon-negative over its lifetime. That is a genuinely different proposition from "cement, but less bad."
 
 **The finished-product effect.** Even at CCS-cement's higher per-tonne cost, the added cost of a finished house is small because cement is a small share of overall costs. Consumer-facing prices barely move. That is why "decarbonising cement is unaffordable" doesn't survive the maths — the affordability question is about who pays the extra per-tonne cost between producers, governments, and construction customers, not whether the sector as a whole can bear it.
-
-## Connected topics
-
-- [Low-carbon steel impossible (myth)](low-carbon-steel-impossible.md)
-- [Flying and shipping hopeless (myth)](flying-shipping-hopeless.md)
-- [Carbon capture will fix it (myth)](carbon-capture-will-fix-it.md)
-- [Construction industry — the reuse target](../sectors/buildings/construction-industry-reuse-target.md)
-- [Cement and Concrete — A Hidden Climate Problem](../sectors/industry/Cement and Concrete - A Hidden Climate Problem.md)
-- [Bio-based resins and composites](../sectors/industry/bio-based-resins-composites.md)
-- [Bamboo for construction](../solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md)
 
 ## Sources
 

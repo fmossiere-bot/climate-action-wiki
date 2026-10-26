@@ -5,6 +5,10 @@ tags: ["#shipping", "#transport", "#carbon", "#alternative-fuels"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: International Maritime Organisation, IMO, shipping emissions, carbon price, net zero 2050, carbon intensity targets, e-fuels, green ammonia, methanol, biofuels, Paris Agreement, petrostates, Saudi Arabia, Russia, United Arab Emirates, gross tonnage, fuel intensity, low-carbon fuels, decarbonisation, climate levy
+related:
+  - First Cargo ship running on BioMethanol
+  - Powering Ships with a kite
+  - Decarbonising Aviation and Shipping
 ---
 
 # IMO Compromise Deal - Shipping Companies to Pay for Carbon Dioxide Produced by Vessels
@@ -47,12 +51,6 @@ A significant concern is that the rules could unintentionally encourage a surge 
 - The scheme is forecast to raise about $10 billion a year, versus the $60 billion a year that a straightforward carbon levy could have raised.
 - Projected emissions cuts of about 8% by 2030 fall well short of the IMO's own 20% target.
 - Biofuel is expected to be the lowest-cost compliance option for 85% of the fleet in the first five years, raising concerns about a biofuel demand surge.
-
-## Connected topics
-
-- [First Cargo ship running on BioMethanol](../solutions/renewables/First%20Cargo%20ship%20running%20on%20BioMethanol.md)
-- [Powering Ships with a kite](../solutions/renewables/Powering%20Ships%20with%20a%20kite.md)
-- [Decarbonising Aviation and Shipping](../solutions/electrification/Decarbonising%20Aviation%20and%20Shipping.md)
 
 ## Sources
 

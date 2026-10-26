@@ -12,6 +12,12 @@ summary: aviation shipping decarbonisation, 2-3% global emissions each, contrail
 claim_id: flying-shipping-hopeless
 verdict: mostly-false
 topic: transport
+related:
+  - carbon-capture-will-fix-it
+  - low-carbon-cement-impossible
+  - low-carbon-steel-impossible
+  - Facts about Air Travel
+  - Long-Haul Shipping
 ---
 
 # Myth: there's no hope for low-carbon flying and shipping
@@ -89,16 +95,6 @@ True and infuriating. **No country is responsible for international flights or s
 **Shipping's advantage: methanol works today.** Unlike aviation, shipping has a working near-drop-in fuel: green methanol. Maersk's 18 methanol ships come online in 2025. Cost gap is closing. Shipping may actually decarbonise faster than aviation for this reason.
 
 **What individuals can do.** Fly less where you can — replace short business trips with video calls, take trains for European trips. Accept some flying is going to happen. Pay a real offset price on essential flights, not the cheap greenwash offsets. Push governments to bring aviation and shipping under UN climate accountability.
-
-## Connected topics
-
-- [Carbon capture will fix it (myth)](carbon-capture-will-fix-it.md)
-- [Low-carbon cement impossible (myth)](low-carbon-cement-impossible.md)
-- [Low-carbon steel impossible (myth)](low-carbon-steel-impossible.md)
-- [Sustainable Aviation Fuel](../solutions/electrification/About Sustainable Aviation Fuel (SAF).md)
-- [Facts about Air Travel](../sectors/transport/Facts%20about%20Air%20Travel.md)
-- [Long-Haul Shipping](../sectors/transport/Long-Haul%20Shipping.md)
-- [Environmental Impact of football world cups](../sectors/Environmental Impact of football world cups.md)
 
 ## Sources
 

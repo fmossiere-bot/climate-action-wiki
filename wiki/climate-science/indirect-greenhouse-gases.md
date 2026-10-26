@@ -7,6 +7,11 @@ created: 2026-06-22
 updated: 2026-06-22
 cover_image: ""
 summary: indirect greenhouse gases, carbon monoxide, volatile organic compounds, VOCs, black carbon, soot, ozone, hydroxyl radicals, methane, 15% warming, forgotten pollutants, Ilissa Ocko, Spark Climate Solutions, air pollution, fossil fuels, gas boilers, agricultural burning, hydrogen leakage, Paris Agreement, nitrogen oxides, aerosols
+related:
+  - Methane emissions role in Global Warming
+  - wildfires-climate-feedback
+  - FACTS about Biomass
+  - FACTS about Clean & GREEN Hydrogen
 ---
 
 # The Forgotten Pollutants: Indirect Greenhouse Gases
@@ -51,13 +56,6 @@ The lesson is that choosing batteries over combustion wherever possible avoids t
 - Almost no country includes indirect greenhouse gases in Paris Agreement action plans
 - Ambitious hydrogen-as-fuel scenarios could add 0.1°C of warming by 2100 from leakage alone
 - Key researcher: Ilissa Ocko (Spark Climate Solutions): "a set of forgotten climate pollutants strongly contributing to today's warming"
-
-## Connected topics
-
-- [Methane Emissions Role in Global Warming](../climate-science/Methane emissions role in Global Warming.md)
-- [Wildfires as a Climate Feedback](../climate-science/wildfires-climate-feedback.md)
-- [FACTS about Biomass](../concepts/key-ideas/FACTS about Biomass.md)
-- [FACTS about Clean and Green Hydrogen](../solutions/renewables/FACTS about Clean & GREEN Hydrogen.md)
 
 ## Sources
 

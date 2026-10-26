@@ -12,6 +12,12 @@ summary: nuclear build time, Hinkley Point C 14 years, Flamanville 17 years, 600
 claim_id: nuclear-takes-too-long-to-build
 verdict: mostly-false
 topic: energy
+related:
+  - nuclear-too-expensive
+  - nuclear-too-dangerous
+  - nuclear-waste-unsolved
+  - intermittency-storage-problem
+  - renewables-not-replacing-fossil-fuels
 ---
 
 # Myth: nuclear power takes too long to build to matter for the climate
@@ -78,14 +84,6 @@ An 8-year build starting today finishes in the mid-2030s. That is still useful. 
 **Standardise, then repeat.** This isn't really new advice — it's what South Korea does now and what France did in the 1970s and 80s (the Messmer Plan built ~56 reactors on essentially two standard designs). The template exists.
 
 **The real time comparison.** A plant that starts today and connects in 2032 is faster to firm power than most gas plants planned today, once permitting and grid connection queues are counted. Nuclear feels slow because we compare it to renewables. Compared to other firm-power alternatives, its build time is not the outlier.
-
-## Connected topics
-
-- [Nuclear too expensive (myth)](nuclear-too-expensive.md)
-- [Nuclear too dangerous (myth)](nuclear-too-dangerous.md)
-- [Nuclear waste unsolved (myth)](nuclear-waste-unsolved.md)
-- [Intermittency / storage (myth)](intermittency-storage-problem.md)
-- [Renewables not replacing fossil fuels (myth)](renewables-not-replacing-fossil-fuels.md)
 
 ## Sources
 

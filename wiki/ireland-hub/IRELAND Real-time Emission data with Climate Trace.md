@@ -5,6 +5,9 @@ tags: ["#ireland", "#carbon", "#agriculture", "#transport"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Climate TRACE, Al Gore, real-time emissions monitoring, satellite data, Ireland emissions breakdown, agriculture emissions, transport emissions, emissions underestimation, land use and forestry exclusion, greenhouse gas inventory
+related:
+  - The Al-Gore CLIMATE TRACE is live
+  - IRELAND Transport Emissions
 ---
 
 # Ireland Real-Time Emission Data with Climate Trace
@@ -22,11 +25,6 @@ summary: Climate TRACE, Al Gore, real-time emissions monitoring, satellite data,
 ## Why it matters
 
 Climate TRACE's approach differs fundamentally from traditional emissions accounting, which has historically relied on self-reported data from polluters themselves and inventories compiled years after the fact. Climate TRACE instead uses satellites, sensors and artificial intelligence to deliver verified emissions estimates with only a 60-day lag, monitoring over 660 million individual emission sources worldwide, including power plants, factories, farms and shipping vessels. If Ireland's true emissions are indeed higher than official figures suggest, that has direct implications for how much further and how much faster the country needs to act to meet its climate targets.
-
-## Connected topics
-
-- [Climate TRACE: Real-time Emissions Data Goes Live](../concepts/key-ideas/The%20Al-Gore%20CLIMATE%20TRACE%20is%20live.md)
-- [Ireland Transport Emissions](IRELAND%20Transport%20Emissions.md)
 
 ## Sources
 

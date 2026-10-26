@@ -5,6 +5,8 @@ tags: ["#shipping", "#alternative-fuels", "#cool-companies"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: wind-assisted shipping, kite propulsion, Airseas, Pyxis Ocean, Seakite, Beyond the Sea, Team for the Planet, shipping emissions, sails, rotors, France, Bordeaux, maritime decarbonisation
+related:
+  - First Cargo ship running on BioMethanol
 ---
 
 # Powering Ships with a Kite
@@ -22,10 +24,6 @@ The [worldwide shipping industry is responsible for about 3% of the greenhouse g
 **Seakite**, also a French company, operates as [Beyond the Sea](https://beyond-the-sea.com/en/), a project partly funded by [Team for the Planet](https://team-planet.com/en/innovations/125-beyond-the-sea).
 
 These three are far from alone: [dozens of other wind-assisted ship designs](https://www.wind-ship.org/wp-content/uploads/2023/09/IWSA-Newsletter-July-2023-General-Release.pdf) are in development, many from companies in Britain, France, Norway and the Netherlands. Almost all are highly automated and fitted with sensors, with designs ranging from sails and rotors to structures that resemble vertical aeroplane wings. It has become one of the more popular approaches to decarbonising shipping.
-
-## Connected topics
-
-- [First Cargo Ship Running on BioMethanol](First%20Cargo%20ship%20running%20on%20BioMethanol.md)
 
 ## Sources
 

@@ -11,6 +11,12 @@ summary: meat substitutes health, ultra-processed food UPF, plant-based meat les
 claim_id: meat-substitutes-unhealthy
 verdict: false
 topic: food
+related:
+  - meat-substitutes-worse-for-climate
+  - meat-substitutes-too-expensive
+  - not-enough-land-for-plant-based
+  - beef-and-climate-change
+  - eat-lancet-planetary-diet-2025
 ---
 
 # Myth: meat substitutes are ultra-processed junk food
@@ -87,15 +93,6 @@ Fair concern. Some processing does affect nutrition — very high heat, very lon
 **Fortification matters more than most people realise.** Many plant-based products are fortified with B12, calcium, iron and zinc — nutrients often present in animal foods but missing from purely plant sources. Fortification isn't a nutritional cheat, it's how public health has worked for decades (iodised salt, folic acid in bread). A fortified plant meat can meet or exceed the nutritional profile of the meat it replaces.
 
 **The best diet is still the one you actually eat.** Even for someone convinced substitutes are perfectly fine nutritionally, the honest answer is that lentils, beans, tofu and tempeh are healthier and cheaper base ingredients than any meat substitute. Substitutes are a bridge for people transitioning away from meat, not the endpoint. Both are far ahead of processed meat on nutrition and climate.
-
-## Connected topics
-
-- [Meat substitutes worse for climate (myth)](meat-substitutes-worse-for-climate.md)
-- [Meat substitutes too expensive (myth)](meat-substitutes-too-expensive.md)
-- [Not enough land for plant-based (myth)](not-enough-land-for-plant-based.md)
-- [Beef and Climate Change](../sectors/agriculture-food/beef-and-climate-change.md)
-- [The EAT-Lancet Planetary Health Diet](../sectors/agriculture-food/eat-lancet-planetary-diet-2025.md)
-- [Lab-grown meat](../solutions/food/lab-grown-meat.md)
 
 ## Sources
 

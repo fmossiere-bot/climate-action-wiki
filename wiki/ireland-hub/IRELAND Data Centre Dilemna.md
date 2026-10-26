@@ -5,6 +5,9 @@ tags: ["#ireland", "#ai", "#digital", "#energy", "#energy-transition", "#fossil-
 created: 2026-06-01
 updated: 2026-08-26
 summary: data centres, digital infrastructure, hyperscale, AWS, Microsoft, Google, Meta, EirGrid, electricity demand, CRU connection policy, renewable energy rules, moratorium, planning permission, Bitpower, Jevons paradox, water footprint, grid congestion, gas generators, hidden data centre tax, household electricity bills, Taiwan hardware imports, South Dublin County Council, High Court challenge
+related:
+  - IRELAND Energy Systems
+  - IRELAND Emissions, Climate Plans
 ---
 
 # Ireland's Data Centre Dilemma
@@ -77,11 +80,6 @@ Central government sits on the other side of the debate. Taoiseach Micheál Mart
 ## Case Study: Amazon's Dublin Campus
 
 Amazon received planning approval for three data centres, with an Environmental Impact Statement lodged for the scheme stating that permitted and future indicative development at the campus would consume **219.7 MW of power** and produce **607,523 tonnes of CO2 per year**. While Amazon has stated that renewable energy purchases will offset the campus's footprint, critics argue that the concept of "offsetting" carbon dioxide in this way is inherently misleading, giving the false impression that the development will not be damaging to the environment.
-
-## Connected topics
-
-- [Ireland Energy Systems](../ireland-hub/IRELAND%20Energy%20Systems.md)
-- [Ireland Emissions and Climate Plans](../ireland-hub/IRELAND%20%20Emissions%2C%20Climate%20Plans.md)
 
 ## Sources
 

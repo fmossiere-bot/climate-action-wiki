@@ -5,6 +5,11 @@ tags: ["#ev", "#transport", "#electrification"]
 created: 2026-06-01
 updated: 2026-10-18
 summary: electric vehicle sales, EV adoption, Europe EV sales slowdown, US EV growth, China EV market share, EV fleet size, CO2 avoided by EVs, coal plant equivalence
+related:
+  - smaller-evs-better
+  - The rise of the batteries
+  - sodium-ion-batteries
+  - france-urban-transport
 ---
 
 # EV Progress
@@ -35,13 +40,6 @@ Cédric Philibert (IFRI, 2026) summarises the current market picture:
 The structural message: lithium-ion battery prices have fallen ten-fold in a decade, which is why EVs have won the new-car market. The industrial-policy question is whether Europe makes those batteries at home or buys them from China.
 
 *Source: [Cédric Philibert IFRI interview (source)](../../sources/philibert-ev-ifri-interview-2026.md).*
-
-## Connected topics
-
-- [Smaller EVs Are Better](../../sectors/transport/smaller-evs-better.md)
-- [The Rise of Batteries](The%20rise%20of%20the%20batteries.md)
-- [Sodium-ion batteries](sodium-ion-batteries.md)
-- [France urban transport](../../eu-hub/france-urban-transport.md)
 
 ## Sources
 

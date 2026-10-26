@@ -5,6 +5,10 @@ tags: ["#company-evaluations", "#greenwashing", "#fashion", "#esg"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Nike, athletic footwear apparel, Green Digest impact score positive, MSCI ESG rating, OECD guidelines complaint garment workers Cambodia India Indonesia Pakistan Sri Lanka, Amazon rainforest deforestation leather supply chain, 16.7 million tonnes CO2, water stress, waste management 97.5 percent, Leather Working Group certification, Carolyn Davidson swoosh logo, Just Do It, Nike Air, Made to Play, Sustainable Development Goals
+related:
+  - Greenwashing
+  - What is ESG?
+  - The Environmental Impact of the FASHION industry
 ---
 
 Source: Green Digest — https://www.greendigest.co/p/nike-environmental-and-social-impact
@@ -48,12 +52,6 @@ Nike's key social and environmental impact lies in its essential role enabling h
 Conversely, Nike has a negative impact through its substantial emissions, water usage, materials sourcing and waste production. The company has also been criticised for the quality of jobs in its supply chain, many of which do not meet labour standards and could involve forced labour.
 
 Its positive score of +0.58 is a balance of all of these factors.
-
-## Connected topics
-
-- [Greenwashing](../key-ideas/Greenwashing.md)
-- [What is ESG?](../key-ideas/What%20is%20ESG%3F.md)
-- [The Environmental Impact of the FASHION industry](../../circularity-waste/The%20Environmental%20Impact%20of%20the%20FASHION%20industry.md)
 
 ## Sources
 

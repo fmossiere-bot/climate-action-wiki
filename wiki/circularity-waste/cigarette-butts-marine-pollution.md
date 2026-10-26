@@ -6,6 +6,8 @@ sources: ["raw/own-research/Cigarette Butts.md", "Ecologie360 (original French s
 created: 2026-08-03
 updated: 2026-08-03
 summary: cigarette butts, cigarette filters, cellulose acetate microplastics, 137000 butts per second worldwide, 20000 tonnes France, 500 litres water contaminated, 7000 chemical compounds, 12 years breakdown, nicotine tar arsenic lead, marine pollution, ocean litter, coastal cleanup, Ocean Conservancy, Surfrider Foundation Europe filter ban, France AGEC law, Alcome eco-organisme, extended producer responsibility, EU Single-Use Plastics Directive 2019/904, disposable vapes puffs, lithium battery vape waste, polluter pays
+related:
+  - record-hot-ocean-el-nino-2026
 ---
 
 # Cigarette Butts and Their Impact on Marine Environments
@@ -61,10 +63,3 @@ The core figures used in this article (137,000 butts dropped per second worldwid
 ## 9. Bottom line
 
 Cigarette butts are a small, everyday object that adds up to a very large pollution problem. They are the most common item of litter found on coastlines worldwide, they release plastic microfibres and toxic chemicals into water, and they take years to break down. Policy is starting to catch up, with France now requiring the tobacco industry to help pay for clean-up through the Alcome scheme, and EU rules placing similar responsibility on producers. Some campaigners believe this does not go far enough and want filters banned outright. At the same time, a new generation of waste, disposable vapes and e-liquid containers, is adding a further layer to the problem, combining plastic, battery and chemical waste in a single, hard-to-recycle product.
-
-## Connected topics
-
-- [EU Recycled Plastic Misleading Claims (source)](../sources/eu-recycled-plastic-misleading-claims-2026.md)
-- [FACTS about the Ocean](../biodiversity-land/FACTS about the Ocean.md)
-- [A Record-Hot Ocean and the 2026 El Niño](../climate-science/record-hot-ocean-el-nino-2026.md)
-- [Extended Producer Responsibility (concept)](../concepts/key-ideas/circular-economy.md)

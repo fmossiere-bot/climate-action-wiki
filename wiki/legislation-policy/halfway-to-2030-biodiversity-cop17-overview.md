@@ -6,6 +6,12 @@ sources: ["raw/own-research/Halfway to 2030, what the biodiversity COP17 in Arme
 created: 2026-10-26
 updated: 2026-10-26
 summary: COP17 Yerevan biodiversity Armenia 19-30 October 2026, Kunming-Montreal Global Biodiversity Framework 23 targets 2030, 196 parties CBD 1992 Rio, 10000 delegates Taking Action for Nature, Guterres State of Biodiversity Action, 90 percent countries targets 60 percent plans 70 percent reports 83 percent aligned, 22 of 23 targets off track, 30x30 land 18-19 percent sea 23 percent protected, Cali Fund $1 billion target $7085 raised big pharma free-riding, 175x shareholder dividends, Ireland Christopher O'Sullivan Nature Restoration Law first EU plan Fintan Kelly Jane Stout Trinity, Teresa Ribera Jessika Roswall nature credits, Armenia Amulsar gold mine Garni Greenpeace, Yerevan Declaration 14 decisions, Yerevan Pathway, Robert Kim 14 year old, $1.7-3.2 trillion fossil subsidies, €30 harm €1 protect, 73 percent wildlife decline 1 million species extinction
+related:
+  - cop17-biodiversity-yerevan-2026
+  - cop17-pressure-rescue-nature-guardian-2026
+  - cali-fund-big-pharma-freerider-guardian-2026
+  - cop15-targets-slipping-guardian-2026
+  - ipbes-nexus-assessment-2024
 ---
 
 # Halfway to 2030: what the biodiversity COP17 in Armenia is about
@@ -182,16 +188,6 @@ His message is simple: vote for nature at every level, talk about it, and ask fo
 - The **Cali Fund** asked big pharma for up to €890 million a year and got about **€6,300**, none of it from big pharma.
 - **Ireland** helped win the EU Nature Restoration Law but admits it is **not on track** at home.
 - The final deal comes on **30 October**.
-
-## Connected topics
-
-- [COP17 Biodiversity Yerevan (overview)](cop17-biodiversity-yerevan-2026.md)
-- [COP17 CARES / Pressure to rescue nature deal (source)](../sources/cop17-pressure-rescue-nature-guardian-2026.md)
-- [Cali Fund big pharma free-riding (source)](../sources/cali-fund-big-pharma-freerider-guardian-2026.md)
-- [Four years after COP15 (source)](../sources/cop15-targets-slipping-guardian-2026.md)
-- [IPBES Nexus Assessment 2024 (source)](../sources/ipbes-nexus-assessment-2024.md)
-- [COP31 Antalya overview](cop31-antalya-2026.md)
-- [UN Overshoot and 2.8°C (source)](../sources/un-overshoot-2.8c-newscientist-2026.md)
 
 ## Sources
 

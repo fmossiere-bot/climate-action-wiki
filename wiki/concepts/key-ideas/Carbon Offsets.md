@@ -5,6 +5,11 @@ tags: ["#carbon-offset", "#key-ideas", "#forest", "#greenwashing"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: carbon offsets, carbon offset credits, CER Certified Emission Reduction, CDM Clean Development Mechanism, Joint Implementation, compliance vs voluntary markets, RECs PPAs EECs, additionality, permanence, double counting, leakage, overestimation of credits, REDD+, Oxford Offsetting Principles, Microsoft, Stripe, Frontier, insetting, Gold Standard certification, Verra, deforestation credits, carbon insetting, aviation offsetting, Congo TotalEnergies land dispute, Bloomberg Peru Disney investigation, EasyJet offsetting policy
+related:
+  - Flight Carbon Footprint and Offset Guide
+  - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
+  - Sustainable FLighs with Hydrogen
+  - The Economics of Climate Change and Carbon Pricing
 ---
 
 # Carbon Offsets: How They Work and Why They Often Fall Short
@@ -73,12 +78,6 @@ Several voluntary marketplaces illustrate the range of quality in this space. Se
 - Global demand for offsets fell 17% in 2022 versus 2021, the first such drop, across more than 260,000 tracked transactions since 2010 (Bloomberg Green).
 - Stripe, Shopify, Alphabet and Meta committed $925 million through Frontier to purchase captured carbon by 2030.
 - More than 398 million REDD+ credits had been issued on the voluntary carbon market as of early 2022.
-
-## Connected topics
-- [Flight Carbon Footprint and Offset Guide](../../sectors/transport/Flight%20Carbon%20Footprint%20and%20Offset%20Guide.md)
-- [Sustainable Aviation Fuel: A Necessary but Complicated Solution](../../solutions/electrification/Sustainable Aviation Fuel -  A Necessary but Complicated Solution.md)
-- [Sustainable Flights with Hydrogen](../../solutions/renewables/Sustainable%20FLighs%20with%20Hydrogen.md)
-- [The Economics of Climate Change and Carbon Pricing](The Economics of Climate Change and Carbon Pricing.md)
 
 ## Sources
 - UNEP, "Carbon offsets are not our get-out-of-jail-free card" — https://www.unep.org/news-and-stories/story/carbon-offsets-are-not-our-get-out-jail-free-card

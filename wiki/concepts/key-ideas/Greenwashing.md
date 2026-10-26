@@ -5,6 +5,10 @@ tags: ["#key-ideas", "#greenwashing", "#eu-policy", "#ireland", "#fossil-fuels",
 created: 2026-06-01
 updated: 2026-08-26
 summary: greenwashing, Corporate Sustainability Reporting Directive, CSRD, Coca-Cola, Evian, Rainforest Alliance, Hersheys, Bud Light Climate Neutral, TotalEnergies, Sitka spruce, Irish schools, Alliance for Responsible Citizenship, Chris Wright, UK heatwave, EU anti-greenwashing rules, ESG
+related:
+  - Greenwashing lawsuits on the rise
+  - What is ESG?
+  - IRELAND Land use, Soil and Forestry
 ---
 
 # Greenwashing
@@ -45,12 +49,6 @@ In June 2026, as the UK issued red heat warnings for three consecutive days and 
 <!-- tag: eu -->
 
 EU rules that came into force at the start of 2023, with a gradual rollout, aim to tackle greenwashing by targeting businesses that mislead consumers into believing their products or services are more sustainable than they are. The EU's **Corporate Sustainability Reporting Directive (CSRD)** strengthens the rules around the social and environmental information companies must report. Its rollout caused significant concern among companies in Ireland, particularly around the accuracy of the data they would now be required to disclose.
-
-## Connected topics
-
-- [Greenwashing lawsuits on the rise](Greenwashing%20lawsuits%20on%20the%20rise.md)
-- [What is ESG?](What%20is%20ESG%3F.md)
-- [IRELAND Land use, Soil and Forestry](../../ireland-hub/IRELAND%20Land%20use%2C%20Soil%20and%20Forestry.md)
 
 ## Sources
 

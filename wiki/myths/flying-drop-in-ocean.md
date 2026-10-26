@@ -45,10 +45,6 @@ The head of the airline industry said in 2026 that their 2050 target probably wi
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Guardian, IATA net zero admission (Jun 2026) — https://www.theguardian.com/environment

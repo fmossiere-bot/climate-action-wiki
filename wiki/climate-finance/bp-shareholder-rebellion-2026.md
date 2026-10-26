@@ -6,6 +6,12 @@ sources: ["The Guardian, Jillian Ambrose, 23 April 2026 — https://www.theguard
 created: 2026-07-06
 updated: 2026-07-06
 summary: BP AGM April 2026, Albert Manifold chair, Meg O'Neill CEO, Bernard Looney legacy, shareholder rebellion, climate reporting rollback, in-person AGMs, Follow This resolution, LGIM Legal General, Glass Lewis, ISS, ACCR Australasian Centre for Corporate Responsibility, Mark van Baal, Nick Mazan, capital discipline, shareholder rights, oil and gas expansion strategy, Shell comparison, first female CEO oil major
+related:
+  - fossil-fuel-banking
+  - ariana-mine-santander
+  - Greenwashing lawsuits on the rise
+  - FACTS About Fossil Fuel (Oil and Gaz) Industry
+  - SBTI - sbti-science-based-targets
 ---
 
 # BP's Triple Climate Rebellion — Shareholders Push Back at the April 2026 AGM
@@ -47,14 +53,6 @@ Nick Mazan of the Australasian Centre for Corporate Responsibility (ACCR) added:
 - Both **Glass Lewis** and **ISS** proxy advisers urged shareholders to oppose the rollback
 - Glass Lewis also recommended voting against Manifold because BP excluded the **Follow This** resolution
 - **Meg O'Neill** is the first external hire to BP's top job and the first woman to lead any major oil company
-
-## Connected topics
-
-- [Fossil Fuel Banking — $906bn in 2025](fossil-fuel-banking.md)
-- [Ariana Mine and Santander](ariana-mine-santander.md)
-- [Greenwashing lawsuits on the rise](../concepts/key-ideas/Greenwashing lawsuits on the rise.md)
-- [FACTS About Fossil Fuel (Oil and Gaz) Industry](../solutions/energy-transition/FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
-- [SBTi Science Based Targets](../standards-labels/SBTI - sbti-science-based-targets.md)
 
 ## Sources
 

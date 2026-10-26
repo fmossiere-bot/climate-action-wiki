@@ -5,6 +5,12 @@ tags: ["#digital", "#ai", "#carbon", "#e-waste", "#behaviour"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: digital emissions share of global GHG, digital emissions forecast to 2040, smartphone usage statistics, Ireland phone-checking frequency, Google searches per day, digital transformation for sustainability, Sustainable Development Goals, Triple Planetary Crisis, YouTube audio-only streaming, carbon footprint of a Google search, carbon footprint of streaming video, software carbon efficiency, digital behaviour change, elow carbon tracking app, Bitcoin transaction growth, data centre expansion
+related:
+  - FACTS about AI, Emissions impacts and mitigation potential
+  - AI Emissions and Corporate Responsibility
+  - Carbon Footprint of an iPhone
+  - The Environmental Impact of Bitcoin
+  - ai-data-centre-energy-crisis
 ---
 
 # The Environmental Impact of Digital Activities
@@ -43,15 +49,6 @@ A small but growing group of companies are building tools specifically to help i
 
 <!-- tag: individual-actions -->
 Longevity-focused approaches matter here too: choosing refurbished devices over new ones, and designing hardware for repair rather than replacement, follows the same logic that makes keeping a phone in use for longer such an effective lever (see [Carbon Footprint of an iPhone](Carbon%20Footprint%20of%20an%20iPhone.md) for the Fairphone comparison and the numbers behind it).
-
-## Connected topics
-
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
-- [AI Emissions and Corporate Responsibility](AI%20Emissions%20and%20Corporate%20Responsibility.md)
-- [Carbon Footprint of an iPhone](Carbon%20Footprint%20of%20an%20iPhone.md)
-- [The Environmental Impact of Bitcoin](The%20Environmental%20Impact%20of%20Bitcoin.md)
-- [AI Data Centres and the Energy Crisis](ai-data-centre-energy-crisis.md)
-- [IRELAND Data Centre Dilemma](../../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
 
 ## Sources
 

@@ -105,7 +105,32 @@ summary: [10–20 comma-separated keywords and topics covered in this page,
           concepts mentioned in the content — even if not in the title.
           Example: coral reefs, bleaching, ocean acidification, mangroves,
           marine biodiversity, sea temperature, plastic pollution, whales]
+related:
+  - [slug-of-first-related-page]
+  - [slug-of-second-related-page]
 ---
+
+### The `related:` field (read by the app, not by humans)
+
+The web app at wiki.the-uptake.com reads this field to show a "related articles" 
+block at the bottom of each page. Replaces the body "## Connected topics" 
+section on new pages.
+
+Rules:
+- **Slugs only**, one per line (the filename without `.md`, e.g. 
+  `cop17-biodiversity-yerevan-2026`, not `legislation-policy/cop17-...` or 
+  `COP17 Biodiversity (Yerevan, 2026)`).
+- **Maximum 5 items**, ranked most-relevant first. Fewer is fine.
+- **Omit the field entirely** if there is nothing genuinely related. Do not pad.
+- **Never list the page itself** in its own `related:`.
+- **Disambiguate collisions** with `folder/slug` form only when two pages in 
+  different folders share the exact same slug. This should be rare because 
+  filenames are already unique in practice.
+- **New pages**: use `related:` frontmatter only. Do not add a body 
+  `## Connected topics` section.
+- **Existing pages**: when you next touch an existing page that still carries a 
+  body `## Connected topics` section, convert its links to the `related:` 
+  frontmatter field and remove the body section.
 
 ### Article template
 
@@ -124,11 +149,11 @@ Why should a non-expert care about this topic.
 Bullet points with the most important data or facts, each cited.
 Maximum 7 bullets.
 
-## Connected topics
-Links to related wiki pages.
-
 ## Sources
 [Original publication name, author, date, and URL if available — not the raw file path]
+
+(Related articles are listed in the `related:` frontmatter field. Do not add a 
+body `## Connected topics` section on new pages.)
 
 ---
 
@@ -162,11 +187,11 @@ findings. Repeat this section up to 4 more times for distinct themes.
 Up to 7 bullet points with the most citable, specific data points, 
 each cited.
 
-## Connected topics
-Links to related wiki pages.
-
 ## Sources
 [Original publication name, author, date, and URL if available — not the raw file path]
+
+(Related articles are listed in the `related:` frontmatter field. Do not add a 
+body `## Connected topics` section on new pages.)
 
 ---
 
@@ -233,11 +258,11 @@ write how people actually talk, not how the claim would be written formally.
 ## Go deeper
 Free-form. The detail that does not belong on a card. Never reaches the app.
 
-## Connected topics
-Relative markdown links to other wiki pages.
-
 ## Sources
 - Publication name, Author, Date — URL
+
+(Related myth or wiki pages are listed in the `related:` frontmatter field. 
+Do not add a body `## Connected topics` section on new pages.)
 
 **Guardrails:**
 
@@ -249,9 +274,11 @@ Relative markdown links to other wiki pages.
   - `## If they push back`
   - `## Also heard as`
   - `## Sources`
-- Everything else in the file, including `## Go deeper` and 
-  `## Connected topics`, is ignored by the app. Add as many extra sections as 
-  you like: nothing outside the six above can ever reach a card.
+- Everything else in the file, including `## Go deeper`, is ignored by the 
+  Counter Claims card. Add as many extra sections as you like: nothing outside 
+  the six above can ever reach a card.
+- Related myth or wiki pages belong in the `related:` frontmatter field, not 
+  in a body `## Connected topics` section.
 - Tone: concede first, correct second. A myth page that only says "wrong" is a 
   failed page.
 - If a myth page is missing any of the first three sections, build_claims.py 
@@ -449,6 +476,12 @@ To build the correct relative path:
 2. Go up one level with ../
 3. Then into the target category folder
 4. Then the filename
+
+### "Related articles" at the bottom of a page
+Do NOT write a body "## Connected topics" section on new pages. The web app 
+reads the `related:` frontmatter field (slugs, max 5, most-relevant first) 
+and renders a related-articles block at the bottom of the page itself. See 
+the "The `related:` field" section above for the full spec.
 
 ### Links in Key facts / Summary findings
 Only link to other wiki pages. Never add [[wikilinks]] or links 

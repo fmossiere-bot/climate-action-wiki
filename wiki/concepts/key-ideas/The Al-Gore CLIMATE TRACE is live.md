@@ -5,6 +5,9 @@ tags: ["#key-ideas", "#carbon", "#research", "#digital"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Climate TRACE, Al Gore, satellite emissions monitoring, artificial intelligence, monthly emissions data, self-reported inventories, greenhouse gas monitoring, power plants, factories, farms, shipping vessels, satellite heat signatures, spectral imagery, ground validation, coalition of nonprofits and universities
+related:
+  - IRELAND Real-time Emission data with Climate Trace
+  - Emission Gap Report 2024 - UNEP
 ---
 
 # Climate TRACE — Real-time Emissions Data Goes Live
@@ -19,10 +22,6 @@ Historically, estimates of global greenhouse gas emissions have relied heavily o
 Climate TRACE's network monitors more than 660 million individual emission sources worldwide, including power plants, factories, farms and shipping vessels. AI-powered algorithms analyse satellite heat signatures, spectral imagery and operational data to produce accurate monthly updates, cross-referencing satellite imagery and machine-learning analysis with independent validation against ground-based data sources. The coalition describes the resulting accuracy as comparable to quarterly financial reporting, a significant step up from the self-reported inventories that previously formed the backbone of global emissions tracking, even though the methodology is not perfect.
 
 As Al Gore put it: "With Climate TRACE, we're making the invisible visible."
-
-## Connected topics
-- [Ireland: Real-time Emission Data with Climate TRACE](../../ireland-hub/IRELAND%20Real-time%20Emission%20data%20with%20Climate%20Trace.md)
-- [Emission Gap Report 2024 - UNEP](Emission%20Gap%20Report%202024%20-%20UNEP.md)
 
 ## Sources
 - Forbes, "Al Gore's Real-Time Climate Data Just Went Live. Here's Why It Matters", 21 April 2025 — https://www.forbes.com/sites/we-dont-have-time/2025/04/21/al-gores-real-time-climate-data-just-went-live-heres-why-it-matters/

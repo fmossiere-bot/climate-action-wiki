@@ -45,10 +45,6 @@ That is the real problem in this argument, and it is worth pressing your council
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/

@@ -5,6 +5,8 @@ tags: ["#energy-transition", "#coalition", "#research"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: Solar Impulse Foundation, Bertrand Piccard, solar-powered plane, clean technology solutions, Solutions Explorer, carbon neutrality, policy roadmap, decision-makers, profitable climate solutions
+related:
+  - The Energy Supercycle is Unstoppable
 ---
 
 # Solar Impulse Foundation: A Guide to Clean and Profitable Solutions
@@ -25,10 +27,6 @@ One of the persistent barriers to climate action is the perception that solving 
 - It has identified more than 1,000 clean and profitable solutions to environmental challenges, now totalling 1,747.
 - Its Solutions Explorer tool lets political and economic decision-makers search this catalogue directly.
 - The foundation's stated aim is to help decision-makers build a roadmap towards more ambitious energy and environmental policy, in support of carbon neutrality goals.
-
-## Connected topics
-
-- [The Energy Supercycle Is Unstoppable](The%20Energy%20Supercycle%20is%20Unstoppable.md)
 
 ## Sources
 

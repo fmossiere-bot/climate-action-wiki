@@ -6,6 +6,12 @@ sources: ["New Atlas — https://newatlas.com/materials/bio-based-wooden-plastic
 created: 2026-07-06
 updated: 2026-07-06
 summary: bio-based resin, wood composites, furfural, diepoxide, DGEBA, epoxy, polyester replacement, University of Oulu Finland, Juha Heiskanen, Mikko Salonen, wind turbine blades, boat hulls, car body panels, aircraft composites, lignocellulosic biomass, sawdust straw sidestreams, chemical recycling, closed-loop composites, EU material self-sufficiency, bioeconomy, 76% higher tensile strength, hard-to-abate materials
+related:
+  - Cement and Concrete - A Hidden Climate Problem
+  - What is the Circular Economy
+  - FACTS about Wind Energy
+  - Facts about Air Travel
+  - FACTS about Plastic
 ---
 
 # Bio-Based Resins: Wood-Derived Composites That Beat Fossil Equivalents
@@ -51,14 +57,6 @@ For now the work is at the experimentation and validation stage. The team has fi
 - **90 days** of harbour weathering with no breakdown
 - Three patents filed; pilot production being sought
 - Europe holds **<2% of global oil reserves** — bio-based resins as a material self-sufficiency play
-
-## Connected topics
-
-- [Cement and Concrete — A Hidden Climate Problem](Cement and Concrete - A Hidden Climate Problem.md)
-- [What is the Circular Economy](../../circularity-waste/What is the Circular Economy.md)
-- [FACTS about Wind Energy](../../solutions/renewables/FACTS about Wind Energy.md)
-- [Facts about Air Travel](../transport/Facts%20about%20Air%20Travel.md)
-- [FACTS about Plastic](../../circularity-waste/FACTS%20about%20Plastic.md)
 
 ## Sources
 

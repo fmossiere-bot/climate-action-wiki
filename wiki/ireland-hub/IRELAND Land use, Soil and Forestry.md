@@ -5,6 +5,11 @@ tags: ["#ireland", "#forest", "#biodiversity", "#carbon-removal", "#nature-based
 created: 2026-06-01
 updated: 2026-08-26
 summary: soil science, Irish Soil Information System, SSSI, forestry, afforestation, Sitka spruce, greenwashing, ecological dead zones, LULUCF, carbon sequestration, peatlands, bog rehabilitation, EDRRS, Bord na Móna, National Parks and Wildlife Service, Miyawaki method, Kinvara, Amazon reforestation, deforestation, forest strategy, wood construction
+related:
+  - Forests and Land - Our Most Important Carbon Sink
+  - FSC Standard for Forest Certification
+  - Greenwashing
+  - IRELAND Emissions, Climate Plans
 ---
 
 # Ireland Land Use, Soil and Forestry
@@ -81,13 +86,6 @@ General attitudes to forestry in Ireland are notably positive: a 2022 survey by 
 ## Beyond Ireland: The Amazon
 
 The Amazon remains the reference point for most discussions of forests globally. A widely-read Guardian piece set out seven steps to save the Amazon, ranging from holding meat consumption accountable to broader policy reform. A related and more technical development is the use of solar-powered robots to accelerate reforestation: an early-stage project has shown that a single robot could potentially plant around 600 trees in one morning, reaching remote locations that are difficult for people to access.
-
-## Connected topics
-
-- [Forests and Land: Our Most Important Carbon Sink](../biodiversity-land/Forests%20and%20Land%20-%20Our%20Most%20Important%20Carbon%20Sink.md)
-- [FSC Standard for Forest Certification](../standards-labels/FSC%20Standard%20for%20Forest%20Certification.md)
-- [Greenwashing](../concepts/key-ideas/Greenwashing.md)
-- [Ireland Emissions and Climate Plans](../ireland-hub/IRELAND%20%20Emissions%2C%20Climate%20Plans.md)
 
 ## Sources
 

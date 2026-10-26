@@ -45,10 +45,6 @@ No. Push for traceable supply chains and recycling. That fight is worth having a
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - MIT Technology Review, busting materials myths — https://www.technologyreview.com/2023/02/02/1067641/busting-myths-about-materials-and-renewable-energy/

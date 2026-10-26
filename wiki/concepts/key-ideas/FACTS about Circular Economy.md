@@ -5,6 +5,9 @@ tags: ["#key-ideas", "#circularity", "#recycle", "#e-waste", "#eu-policy", "#ire
 created: 2026-06-01
 updated: 2026-08-26
 summary: circular economy, circularity rate, EU circular economy action plan, European Court of Auditors, right to repair, textile waste, food waste, e-waste, WEEE Ireland, sharing economy, Library of Things, Earth Overshoot Day, European Parliament, recycling targets
+related:
+  - FACTS about Biomass
+  - Companies and Communities Driving Sustainability
 ---
 
 # FACTS about Circular Economy
@@ -54,11 +57,6 @@ WEEE Ireland chief executive Leo Donovan argued that Ireland's efforts are not p
 
 - Circular Tech Map, an interactive directory of circular economy technology providers — https://circulartechmap.com/
 - Bold Donut, games-based waste management education — https://www.bolddonut.com/
-
-## Connected topics
-
-- [FACTS about Biomass](FACTS%20about%20Biomass.md)
-- [Companies and Communities Driving Sustainability](Companies%20and%20Communities%20Driving%20Sustainability.md)
 
 ## Sources
 

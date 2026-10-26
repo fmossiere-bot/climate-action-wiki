@@ -7,6 +7,10 @@ created: 2026-06-15
 updated: 2026-07-26
 cover_image: ""
 summary: SBTi, Science Based Targets initiative, corporate net zero, decarbonisation, environmental credits, SAF credits, carbon removal, direct air capture, reforestation, PPA, power purchase agreement, hourly matching, annual matching, hard-to-abate emissions, best-efforts framework, David Kennedy, corporate climate targets, scope 1 scope 2 scope 3, supply chain, net zero standard V2, Ongoing Emissions Responsibility OER, Beyond Value Chain Mitigation BVCM, Category A Category B, 2035 mandatory carbon removal, $80 per tonne Leadership, $20 per tonne Engaged, five-year cycles, annual reporting, nature-based solutions removals 90%, durable removals
+related:
+  - Greenwashing
+  - The Carbon Disclosure Project (CPD)
+  - What is ISSB?
 ---
 
 # SBTi — Science Based Targets initiative
@@ -109,13 +113,6 @@ Credits used under OER must be:
 Every company must **declare its OER position at target validation** — including any explanation for opting out — and the decision is **published on the SBTi Dashboard**, visible to investors, customers and regulators. That transparency layer is arguably as important as the tier structure itself.
 
 *Source: [SBTi V2 Earthly explainer (source summary)](../sources/sbti-net-zero-v2-earthly-2026.md); SBTi Corporate Net-Zero Standard V2.0; Earthly blog, Faith Sayo, 23 July 2026*
-
-## Connected topics
-
-- [Greenwashing](../concepts/key-ideas/Greenwashing.md)
-- [List of Standards and Labels](../standards-labels/List%20of%20Standards%20%26%20Labels.md)
-- [The Carbon Disclosure Project](The%20Carbon%20Disclosure%20Project%20(CPD).md)
-- [What is ISSB?](../standards-labels/What%20is%20ISSB%3F.md)
 
 ## Sources
 

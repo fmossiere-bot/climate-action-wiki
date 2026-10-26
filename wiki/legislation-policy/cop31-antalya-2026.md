@@ -6,6 +6,12 @@ sources: ["raw/own-research/cop31-antalya-overview.md", "UNFCCC COP31 3rd Presid
 created: 2026-09-18
 updated: 2026-09-18
 summary: COP31 Antalya Turkiye 9-20 November 2026, Murat Kurum President-Designate, Chris Bowen Australia President of Negotiations, Pacific Pre-COP Fiji, shared host arrangement first time, implementation COP, ten priorities electrification 35 percent by 2035, zero waste methane 50 percent reduction, buildings 25 percent energy intensity cut, circular materials 15 percent, climate education 2035, food security ocean seas health, Rio synergies, Climate Implementation Bridge, NDCs national climate plans, $300 billion climate finance $1.3 trillion aspiration, adaptation finance tripling, fossil fuel transition, just transition mechanism, thematic days, Global Climate Action Agenda six axes, Türkiye 2053 net zero, Australia coal gas exporter, Istanbul Climate Finance Summit
+related:
+  - COP30
+  - cop17-biodiversity-yerevan-2026
+  - Paris Agreement - NDC - where are we 10 years later?
+  - The Ocean Under Pressure, and the First Ocean COP in 2027
+  - dw-oil-nations-taff-2026
 ---
 
 # COP31 in Antalya: dates, structure and main topics
@@ -139,14 +145,6 @@ Based on the agenda and on what was left open in Belém, these are the areas whe
 ## 10. Bottom line
 
 COP31 takes place in Antalya from 9 to 20 November 2026, hosted by Türkiye with Australia leading the negotiations and the Pacific hosting the Pre-COP. The Presidency has set out ten priorities, led by electrification, zero waste, resilient cities and circular industry, with 2035 targets for five of them. These targets are voluntary. The harder questions sit in the formal negotiations: weak national plans, the delivery of climate finance, adaptation, and the transition away from fossil fuels. The summit will be judged less on its themes than on whether it produces money, tracking and accountability behind them.
-
-## Connected topics
-
-- [COP30](DRAFT%20-%20COP30.md)
-- [COP17 Biodiversity (Yerevan, 2026)](cop17-biodiversity-yerevan-2026.md)
-- [Paris Agreement — NDC](Paris%20Agreement%20-%20NDC%20-%20where%20are%20we%2010%20years%20later%3F.md)
-- [Ocean Under Pressure and the First Ocean COP 2027](The%20Ocean%20Under%20Pressure,%20and%20the%20First%20Ocean%20COP%20in%202027.md)
-- [DW Oil Nations / TAFF (source)](../sources/dw-oil-nations-taff-2026.md)
 
 ## Sources
 

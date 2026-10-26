@@ -5,6 +5,9 @@ tags: ["#energy-transition", "#renewables", "#phaseout"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: renewable energy, coal phase-out, International Energy Agency, IEA, China, India, United Kingdom, solar, wind, hydroelectricity, Greece, coal imports, coal mining, World Resources Institute, Ember, Climate Action Tracker, Chile, energy mix
+related:
+  - FACTS About Fossil Fuel (Oil and Gaz) Industry
+  - The Energy Supercycle is Unstoppable
 ---
 
 # Renewables on Track to Overtake Coal
@@ -37,11 +40,6 @@ The UK and Chile are both highlighted by the World Resources Institute as countr
 - In the UK, solar and wind out-generated coal for the first five months of 2023 (six months including hydro), a sharp shift from 2008, when coal supplied 50% of UK electricity.
 - Coal supplied 36% of global electricity in 2022 and must fall to 4% by 2030 and 0% by 2040 to stay within 1.5°C (Ember; Climate Action Tracker).
 - Greece cut coal's share of its electricity from 51% (2014) to 10% (2022), the fastest reduction of any country.
-
-## Connected topics
-
-- [FACTS About the Fossil Fuel (Oil and Gas) Industry](FACTS%20About%20Fossil%20Fuel%20%28Oil%20and%20Gaz%29%20Industry.md)
-- [The Energy Supercycle Is Unstoppable](The%20Energy%20Supercycle%20is%20Unstoppable.md)
 
 ## Sources
 

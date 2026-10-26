@@ -6,6 +6,12 @@ sources: ["raw/articles/Ça bouge en ville, how French cities are changing trans
 created: 2026-10-18
 updated: 2026-10-18
 summary: French urban transport innovations, cable cars Câble C1 Val-de-Marne Villeneuve-Saint-Georges Créteil, Poma Grenoble 1934 bubbles 1976, Brest 2016 Toulouse Téléo 2022 Saint-Denis Réunion Ajaccio Angelo 2025, free public transport Compiègne 1975 Dunkerque 2018 Patrice Vergriete Montpellier 2020 Michaël Delafosse, Cour des comptes Montpellier 40 million euros 1258 euros, French Senate reduced fares, on-demand transport Padam Mobility 200 urban areas, Saint-Brieuc Taxitub Proxitub, Cerema 6 of 10 rural council groups, Fonds vert, Navya EasyMile self-driving shuttles, transport 34 percent French emissions 54 percent private cars 24 percent lorries, 62.8 percent car 23.7 percent walking 9.1 percent train 2.7 percent bike, CO2 per passenger km TGV 2.9 bike 11 electric train 27.5 electric car 67 bus 122 petrol 142 plane
+related:
+  - france-urban-transport-eco360-2026
+  - wri-smaller-evs-2025
+  - ireland-transport-ccac-2026
+  - Active Travel and Human-Powered Transport
+  - EV Progress
 ---
 
 # France: how cities are changing urban transport
@@ -145,15 +151,6 @@ The numbers change with vehicle model, how full the vehicle is, and the distance
 - **Trips >1,000 km**: plane, only when the train is not a realistic option
 
 The car does not have to be ruled out, as long as you avoid driving alone.
-
-## Connected topics
-
-- [France urban transport (source summary)](../sources/france-urban-transport-eco360-2026.md)
-- [For Electric Vehicles, Smaller Is Better (source)](../sources/wri-smaller-evs-2025.md)
-- [Ireland transport (CCAC 2026)](../sources/ireland-transport-ccac-2026.md)
-- [Active Travel and Human-Powered Transport](../solutions/electrification/Active%20Travel%20and%20Human-Powered%20Transport.md)
-- [EV Progress](../solutions/electrification/EV%20Progress.md)
-- [Decarbonising Trucking and Rail Freight](../solutions/electrification/Decarbonising%20Trucking%20and%20Rail%20Freight.md)
 
 ## Sources
 

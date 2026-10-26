@@ -6,6 +6,12 @@ sources: ["Reuters Events — Catherine Early, 'Nature at a Crossroads: The evol
 created: 2026-07-13
 updated: 2026-07-13
 summary: ISSB IFRS S3, TNFD, nature practice statement, Emmanuel Faber, Julie McCarthy Nature Finance, Gavin Edwards Nature Positive Initiative, Marco Lambertini, Johan Rockström, Paul Polman, Pavan Sukhdev, $44 trillion GDP nature-dependent, PwC 12-17% GDP nature loss, TNFD 730 companies $22 trillion AUM, China Environmental Ecological code August 2026, COP17 biodiversity, IFRS S1 S2, standalone standard vs voluntary, corporate biodiversity disclosure
+related:
+  - What is  TNFD?
+  - What is ISSB?
+  - SBTI - sbti-science-based-targets
+  - climate-finance/bp-shareholder-rebellion-2026
+  - fossil-fuel-banking
 ---
 
 # ISSB Chooses a 'Practice Statement' Over a Mandatory Nature Standard: The 2026 Controversy
@@ -76,16 +82,6 @@ Lambertini also frames a sharper point: rather than staying at the vanguard of s
 - The majority of the **16-member IFRS Sustainability Standards Advisory Forum** recommended a standalone S3; the ISSB Board overruled them
 - **China's Environmental and Ecological code** takes effect **15 August 2026**
 - **October 2026** — ISSB exposure-draft consultation on the practice statement, ahead of **COP17** biodiversity negotiations
-
-## Connected topics
-
-- [What is TNFD?](What is  TNFD?.md)
-- [What is ISSB?](What is ISSB?.md)
-- [SBTi Science-Based Targets](SBTI - sbti-science-based-targets.md)
-- [BP shareholder rebellion](../climate-finance/bp-shareholder-rebellion-2026.md) — another case of investors demanding better disclosure
-- [Fossil fuel banking](../climate-finance/fossil-fuel-banking.md)
-- [Ocean-based Climate Solutions](../biodiversity-land/ocean-based-climate-solutions.md)
-- [Source: Nature at a Crossroads (Reuters Events)](../sources/nature-at-a-crossroads-reuters-2026.md)
 
 ## Sources
 

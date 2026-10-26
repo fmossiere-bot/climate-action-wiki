@@ -7,6 +7,9 @@ created: 2026-06-04
 updated: 2026-06-04
 cover_image:
 summary: agriculture land use, food systems, deforestation, biodiversity loss, species extinction, water use, irrigation, freshwater depletion, nitrogen pollution, fertiliser runoff, dead zones, Gulf of Mexico, Aral Sea, methane from cattle, nitrous oxide, greenhouse gas emissions, animal feed, meat and dairy, Green Revolution, cerrado, Amazon, oil palm, soy, food and climate change, Project Drawdown
+related:
+  - Food Carbon FootPrint
+  - FACTS about Farming and Food production
 ---
 
 # Agriculture's Planetary Footprint
@@ -48,15 +51,6 @@ The biggest single driver is **deforestation**, primarily to create pasture and 
 - Direct agriculture and land use = **~22% of global GHG emissions**; the full food system = **~33%**.
 - Deforestation for farming = **~10–11% of global emissions** — equivalent to the entire US economy.
 - Saving tropical forests is among the **highest-leverage climate solutions** available.
-
-## Connected topics
-
-- [Food Carbon Footprint](../agriculture-food/Food%20Carbon%20FootPrint.md)
-- [Plant-Rich Diets](../../solutions/nature-based-solutions/plant-rich-diets.md)
-- [FACTS about Farming and Food Production](../agriculture-food/FACTS%20about%20Farming%20and%20Food%20production.md)
-- [FACTS about Forest, Land Use and Land Management](../../solutions/carbon-removal/facts-about-forest-land-use-and-land-management.md)
-- [Managed Grazing](../../solutions/nature-based-solutions/managed-grazing.md)
-- [Reduced Food Waste](../../solutions/circularity/reduced-food-waste.md)
 
 ## ✅ Update: Global Meat Supply Trends (June 2026)
 

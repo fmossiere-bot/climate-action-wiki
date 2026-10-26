@@ -7,6 +7,12 @@ created: 2026-06-28
 updated: 2026-06-28
 cover_image: ""
 summary: "solar farm, peatland, rewetted peat, peatland restoration, biodiversity, bird species, Wattmanufactur, Germany, agrivoltaics, peatland PV, photovoltaics, carbon store, drained peat, greenhouse gas, carbon emissions, meadow pipit, wetland birds, Greifswald, Hanna Rae Martens, Catherine Waite, Cambridge, triple win, energy generation, habitat restoration, carbon sequestration, UK peatland, German peatland"
+related:
+  - The importance of Wetlands
+  - FACTS about Solar Energy
+  - The importance of Grassland
+  - mangrove-forests-recovery
+  - solar-farms-pollinators
 ---
 
 # Solar Farms on Peatland: A Triple Win — If Done Right
@@ -49,14 +55,6 @@ The UK has restored 2,500 km² of peatland to date — only one-tenth of the are
 - Some of the 165 solar farms on degraded (drained) German peatlands release more GHGs than their electricity displaces
 - Only 5 solar farms in Germany are currently on rewetted peatland
 - UK restored only 2,500 km² of peat — one-tenth of the damaged area; Germany has restored less
-
-## Connected topics
-
-- [The Importance of Wetlands](../biodiversity-land/The importance of Wetlands.md)
-- [FACTS about Solar Energy](../solutions/renewables/FACTS about Solar Energy.md)
-- [Nature-Based Solutions](../solutions/nature-based-solutions/The importance of Grassland.md)
-- [Mangrove Forests Recovery](../biodiversity-land/mangrove-forests-recovery.md)
-- [Solar Farms and Pollinators](solar-farms-pollinators.md)
 
 ## Sources
 

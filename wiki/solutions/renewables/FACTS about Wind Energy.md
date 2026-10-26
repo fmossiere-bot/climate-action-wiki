@@ -6,6 +6,11 @@ sources: ["Global Wind Energy Council 2022 report", "Frontiers in Marine Science
 created: 2026-06-01
 updated: 2026-08-26
 summary: "wind turbines global capacity 837 GW, onshore offshore floating wind, GE Haliade-X turbine, capacity factor, balsa wood Amazon deforestation, blade recycling, Sofia wind farm Siemens Gamesa recyclable blades, PET foam blade material, decommissioned turbine parking building Lund Sweden, China wind cost breakthrough, Gobi desert, Formosa Wind Farm Taiwan 86 reef fish species, Miaoli County SCUBA survey, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, attraction versus production debate, Hywind Scotland floating wind pilot park, Equinor, 121 forms of sea life, soft corals deep-sea stony corals, mooring lines suction anchors, robot submersible survey"
+related:
+  - FACTS about Clean & GREEN Hydrogen
+  - Geothermal energy
+  - IRELAND Wind Energy
+  - solar-on-peatland
 ---
 
 ## How Much Wind Power Is Out There
@@ -88,13 +93,6 @@ Biological researchers logged **121 distinct forms of sea life** on the mooring 
 This is a colder, North Atlantic, deep-water case rather than Formosa's shallow sandy seabed, and it is floating rather than fixed-bottom — so the two findings together suggest the reef effect is not limited to one turbine technology, though each still rests on a single site and needs multi-year follow-up to confirm.
 
 *Source: [Hywind Scotland robot reef survey (source summary)](../../sources/hywind-scotland-robot-reef-survey-2026.md); Karlsson et al., Wind Energ. Sci., 2022; EcoPortal, 13 August 2026*
-
-## Connected topics
-
-- [FACTS about Clean & GREEN Hydrogen](FACTS about Clean & GREEN Hydrogen.md)
-- [Geothermal energy](Geothermal energy.md)
-- [IRELAND Wind Energy](../../ireland-hub/IRELAND Wind Energy.md)
-- [Solar on peatland](../../biodiversity-land/solar-on-peatland.md)
 
 ## Sources
 

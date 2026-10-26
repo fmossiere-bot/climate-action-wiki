@@ -5,6 +5,11 @@ tags: ["#ireland", "#circularity", "#plastic", "#recycle"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: waste management, recycling, brown bin, composting, anaerobic digestion, Repak, material recovery facilities, Bord na Móna, Drehid landfill, contamination, soft plastics, packaging waste, EPA waste characterisation, black bin, organic waste, EU Green Deal targets, municipal waste, mywaste.ie
+related:
+  - FACTS about Plastic
+  - What is the Circular Economy
+  - Recycling is still an important action
+  - Divert your food waste from landfill - the benefit of composting
 ---
 
 # Ireland's Waste Management, Recycling and Plastic Problem
@@ -70,13 +75,6 @@ Other EPA data from the same period: **1.2 million tonnes of packaging waste** w
 Ireland's waste and recycling performance has stalled against EU Green Deal targets, which mandate that **55% of municipal waste** and **65% of packaging waste** be recycled by 2025. According to the EPA, Ireland currently recycles **41% of municipal waste** and **60% of packaging waste**, well short on the municipal side. Ireland is not alone: the European Environment Agency estimates that 18 of the 27 EU member states are likely to breach one or both targets.
 
 Ireland generated **15.7 million tonnes of waste in 2022**, equivalent to around 8kg per person per day. The overall figure was down 1.9 million tonnes on the previous year, though this decline is mostly attributed to a fall in construction and demolition waste, likely driven by cyclical economic factors rather than a genuine improvement in waste generation.
-
-## Connected topics
-
-- [FACTS about Plastic](../circularity-waste/FACTS%20about%20Plastic.md)
-- [What is the Circular Economy](../circularity-waste/What%20is%20the%20Circular%20Economy.md)
-- [Recycling is still an important action](../circularity-waste/Recycling%20is%20still%20an%20important%20action.md)
-- [Divert your food waste from landfill: the benefit of composting](../circularity-waste/Divert%20your%20food%20waste%20from%20landfill%20-%20the%20benefit%20of%20composting.md)
 
 ## Sources
 

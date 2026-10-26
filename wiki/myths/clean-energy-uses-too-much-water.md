@@ -11,6 +11,12 @@ summary: clean energy water, 16% critical mineral mines high water stress, coppe
 claim_id: clean-energy-uses-too-much-water
 verdict: mostly-false
 topic: materials
+related:
+  - renewables-more-mining
+  - running-out-of-minerals
+  - clean-energy-child-labour
+  - mineral-dependency-same-as-oil
+  - ariana-mine-santander
 ---
 
 # Myth: clean energy uses too much water to be sustainable
@@ -83,16 +89,6 @@ Locally, no — some mining regions are being pushed to their water limits. Glob
 **Recycling closes the loop.** Recycling batteries, solar panels and wind turbines dramatically cuts the need for fresh mining, which reduces water demand at exactly the places where local water stress is worst. The recycling infrastructure is scaling up but isn't fully mature yet — this is a real solution 10-20 years out.
 
 **The pattern for policy.** Both problems need addressing — global water use should keep falling as fossil fuels retire, but local water conflicts need direct engagement with mining communities, water-saving extraction technology (DLE), stricter mining permits, and where necessary, moving new mines to less water-stressed regions. This isn't unsolvable, but it needs specific attention rather than being lumped into "clean energy is unsustainable."
-
-## Connected topics
-
-- [Renewables and more mining (myth)](renewables-more-mining.md)
-- [Running out of minerals (myth)](running-out-of-minerals.md)
-- [Clean energy child labour (myth)](clean-energy-child-labour.md)
-- [Mineral dependency same as oil (myth)](mineral-dependency-same-as-oil.md)
-- [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md)
-- [UK datacentre water shortage (source)](../sources/uk-datacentre-water-shortage-guardian-2026.md)
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
 
 ## Sources
 

@@ -5,6 +5,10 @@ tags: ["#esg", "#ireland", "#finance"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: sustainability reporting, ESG reporting, AnPost, stakeholders, investors, employee engagement, N100 Ireland, KPMG Survey of Sustainability Reporting, carbon reduction targets, biodiversity goals, independent assurance, CSRD, Paris Agreement alignment
+related:
+  - Why Reporting - Investors want companies to focus on ESG
+  - What is CSRD?
+  - What is ESG?
 ---
 
 # Why Sustainability Reporting Is Important
@@ -30,12 +34,6 @@ Independent assurance of these reports, third parties checking that what compani
 - Only 23% of Irish N100 companies identify biodiversity as a business risk, about half the global average.
 - Independent assurance of Irish N100 reports rose from 32% (2020) to 37% (2022), still behind the 47% global average.
 - Only 58% of Irish N100 companies issued Ireland-specific sustainability reports as of the 2022 survey, a gap the CSRD is closing by making this mandatory.
-
-## Connected topics
-
-- [Why Investors Want Companies to Focus on ESG Reporting](Why%20Reporting%20-%20Investors%20want%20companies%20to%20focus%20on%20ESG.md)
-- [What is CSRD?](What%20is%20CSRD%3F.md)
-- [What is ESG?](../concepts/key-ideas/What%20is%20ESG%3F.md)
 
 ## Sources
 

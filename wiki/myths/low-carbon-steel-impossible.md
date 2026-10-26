@@ -12,6 +12,12 @@ summary: low-carbon steel, 7% global emissions, 0.8 tonnes coal per tonne steel,
 claim_id: low-carbon-steel-impossible
 verdict: false
 topic: materials
+related:
+  - low-carbon-cement-impossible
+  - flying-shipping-hopeless
+  - carbon-capture-will-fix-it
+  - renewables-need-fossil-fuels-to-build
+  - not-enough-clean-energy
 ---
 
 # Myth: we'll never be able to make low-carbon steel
@@ -91,14 +97,6 @@ The finished-product impact is tiny. A car maker paying 25% more for its steel r
 **Location will matter.** Green steel plants need cheap clean electricity. Existing steel plants are often located near coal mines or in high-electricity-cost countries. The next generation of green steel plants is being sited in places with cheap renewables (Sweden's hydro/wind, Spain's solar, later maybe Morocco or Australia). The **industrial geography of steel is about to change** — and it changes as clean electricity availability changes, not as steel demand changes.
 
 **Buyer-side pull is emerging fast.** Car makers, wind turbine manufacturers, and construction firms all have Scope 3 emissions targets. Their supply chains include a lot of steel. **Volvo, Mercedes and BMW** have all committed to source significant volumes of green steel. That buyer pull is what makes the industry economics work — plants like H2 Green Steel have signed 5-year offtake contracts before they've even opened.
-
-## Connected topics
-
-- [Low-carbon cement impossible (myth)](low-carbon-cement-impossible.md)
-- [Flying and shipping hopeless (myth)](flying-shipping-hopeless.md)
-- [Carbon capture will fix it (myth)](carbon-capture-will-fix-it.md)
-- [Renewables need fossil fuels to build (myth)](renewables-need-fossil-fuels-to-build.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 
 ## Sources
 

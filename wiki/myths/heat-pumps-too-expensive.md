@@ -12,6 +12,11 @@ summary: heat pumps cost, £12000 install vs £2750 gas boiler, £7500 UK grant,
 claim_id: heat-pumps-too-expensive
 verdict: mostly-false
 topic: energy
+related:
+  - heat-pumps-dont-work-in-cold
+  - air-conditioning-luxury
+  - renewables-too-expensive
+  - home-cooling-heatwaves
 ---
 
 # Myth: heat pumps are too expensive
@@ -84,13 +89,6 @@ Yes, and this is another honest bit of the problem. In many countries, energy ta
 **Lifetime affordability is genuinely better, but that doesn't help low-income households right now.** Somebody who cannot cover the upfront £2,000 gap will never see the lifetime savings. That is exactly why the policy solution is bigger targeted grants — not "wait for prices to fall."
 
 **Why heat pumps are still the cheapest decarbonisation path.** Hydrogen boilers would need hydrogen at fossil-fuel prices, which isn't going to happen. Direct electric heating is 100% efficient but heat pumps are 300%+, so they use a third of the electricity. The government cost of subsidising heat pump adoption is real, but the alternatives are more expensive still.
-
-## Connected topics
-
-- [Heat pumps don't work in cold (myth)](heat-pumps-dont-work-in-cold.md)
-- [Air conditioning is a luxury (myth)](air-conditioning-luxury.md)
-- [Renewables too expensive (myth)](renewables-too-expensive.md)
-- [Home cooling and heatwaves](../climate-adaptation/home-cooling-heatwaves.md)
 
 ## Sources
 

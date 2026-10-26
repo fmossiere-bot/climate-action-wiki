@@ -6,6 +6,11 @@ sources: ["raw/papers/NS-DogsPlantBasedFood.pdf", "New Scientist / PLOS One (Bro
 created: 2026-10-18
 updated: 2026-10-18
 summary: pet food climate footprint, dog food cat food, plant-based vegan vegetarian pet food, Rebecca Brociek David Gardner Nottingham, Andrew Knight Murdoch, PLOS One 2025, nutritional complete labelling, iodine seaweed vitamin B supplementation, European Pet Food Industry Federation, dogs omnivores cats obligate carnivores, livestock emissions, individual actions diet, pet food industry environmental impact, 25 commercial dry foods analysis
+related:
+  - plant-based-dog-food-newscientist-2025
+  - beef-and-climate-change
+  - eat-lancet-planetary-diet-2025
+  - solar-foods-electro-agriculture
 ---
 
 # Pet food and climate: the overlooked slice of the agricultural footprint
@@ -59,14 +64,6 @@ Alongside [EAT-Lancet planetary diet](eat-lancet-planetary-diet-2025.md), [beef 
 
 <!-- tag: individual-actions -->
 **For a pet-owning household:** if you already feed your dog standard commercial kibble, swapping to a well-supplemented plant-based commercial brand is a low-friction climate win, provided iodine and vitamin B are explicitly supplemented. For cats, do not swap without veterinary advice.
-
-## Connected topics
-
-- [Plant-based dog food (source)](../../sources/plant-based-dog-food-newscientist-2025.md)
-- [Beef and climate change](beef-and-climate-change.md)
-- [EAT-Lancet planetary diet](eat-lancet-planetary-diet-2025.md)
-- [Solar foods and electro-agriculture](../../solutions/food/solar-foods-electro-agriculture.md)
-- [Meat Token ACTION GUIDE](../../concepts/behavior-change/Meat%20Token%20ACTION%20GUIDE.md)
 
 ## Sources
 

@@ -45,10 +45,6 @@ No, keep recycling. Just stop treating recycled labels as proof, and push for re
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Guardian / IJ4EU, mass balance investigation (Jan 2026) — https://www.theguardian.com/environment

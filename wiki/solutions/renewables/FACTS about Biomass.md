@@ -5,6 +5,12 @@ tags: ["#alternative-fuels", "#energy-transition", "#forest", "#agriculture"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: "biomass energy, bioenergy, wood pellets, briquettes, first-generation biofuels, second-generation lignocellulosic biofuels, third-generation algae biofuels, electrofuels, corn ethanol emissions, indirect land use change, BECCS bioenergy carbon capture, Drax power station UK emissions, biogas, rice husk electrification, cow manure biomethane, sustainable feedstock chemical industry, biomethanol, Ireland biomass energy strategy"
+related:
+  - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
+  - IRELAND Energy and Biomass
+  - First Cargo ship running on BioMethanol
+  - WillowWarm Briquettes - Carbon neutral alternative?
+  - france-biomethane-boom
 ---
 
 ## What Is Biomass Energy
@@ -69,14 +75,6 @@ For how biomass fits into Ireland's national energy strategy, see [IRELAND Energ
 ## About Biomethanol
 
 Biomethanol is a biomass-derived alternative to conventional methanol, of growing interest as a marine and industrial fuel. IRENA's technology brief on [biomethanol production](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2013/IRENA-ETSAP-Tech-Brief-I08-Production_of_Bio-methanol.pdf) and ETIP Bioenergy's overview of [biomethanol production and use as a fuel](https://www.etipbioenergy.eu/images/ETIP_Bioenergy_Biomethanol_production_and_use_as_fuel.pdf) both cover the production routes and end uses in more detail.
-
-## Connected topics
-
-- [Sustainable Aviation Fuel - A Necessary but Complicated Solution](../electrification/Sustainable Aviation Fuel -  A Necessary but Complicated Solution.md)
-- [IRELAND Energy and Biomass](../../ireland-hub/IRELAND Energy and Biomass.md)
-- [First Cargo ship running on BioMethanol](First Cargo ship running on BioMethanol.md)
-- [WillowWarm Briquettes - Carbon neutral alternative?](WillowWarm Briquettes - Carbon neutral alternative?.md)
-- [france-biomethane-boom](france-biomethane-boom.md)
 
 ## Sources
 

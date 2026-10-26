@@ -5,6 +5,9 @@ tags: ["#science", "#adaptation"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: wet-bulb temperature, evaporative cooling, sweating, human survivability threshold, 35 degrees Celsius limit, 31 degrees Celsius danger point, Probable Futures maps, heat index, humidity and heat stress, South Asia Persian Gulf wet-bulb events
+related:
+  - Local Impact and Extreme Events Attribution
+  - Global Impact of Climate Change
 ---
 
 # Wet-Bulb Temperature Explained: Why Humidity Can Be More Dangerous Than Heat Alone
@@ -20,11 +23,6 @@ Researchers have historically treated a wet-bulb temperature of **35°C** as the
 ## Mapping the Risk
 
 [Probable Futures](https://probablefutures.org/maps/?volume=heat&selected_map=days_above_28c_wet-bulb&map_version=latest&warming_scenario=1.5&map_projection=mercator) offers an interactive map showing, for different global warming scenarios, how many additional days per year different parts of the world can expect to exceed a 28°C wet-bulb temperature, a level well below the outer survivability limit but still dangerous, particularly for outdoor workers, older people, and anyone without reliable access to cooling. Selecting a 1.5°C warming scenario on the map illustrates how even relatively modest further warming meaningfully expands the parts of the world exposed to these extra dangerous-heat days.
-
-## Connected topics
-
-- [Local Impact and Extreme Events Attribution](Local%20Impact%20and%20Extreme%20Events%20Attribution.md)
-- [Global Impact of Climate Change](Global%20Impact%20of%20Climate%20Change.md)
 
 ## Sources
 

@@ -5,6 +5,9 @@ tags: ["#agriculture", "#adaptation", "#food", "#biodiversity"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: solar irrigation, Chamwino Tanzania, mango farming, World Resources Institute, TaTEDO, drip irrigation, water stress Africa, drought Tanzania, agroecology France, chemical-free farming, biodiversity collapse, pollinators, rapeseed yields, acetamiprid pesticide debate, soil conservation, earthworms indicator species
+related:
+  - About Food and Farming
+  - FACTS about Farming and Food production
 ---
 
 # Some Positive Stories of Farming Adaptation
@@ -24,11 +27,6 @@ Faced with widespread chemical pollution and a dramatic collapse in biodiversity
 The starting point for the project was a stark decline in biodiversity, particularly among birds and insects, with heavy pesticide use and vast monocultures stripped of hedgerows identified as the primary causes: local bird numbers have been falling by around 1% a year, and insect numbers by closer to 2.5% a year, in part because insects simply have nowhere left to live and breed. In response, the collaboration has focused on **agroecology**, farming that works with natural processes to eliminate toxic chemicals without sacrificing harvests or income. Central practices include soil conservation and deliberately relying on pollinators, whose growing presence has measurably boosted yields, alongside monitoring indicator species like earthworms to track underlying soil health. In the rapeseed sector specifically, farmers have seen yields rise by nearly 40% on plots where pollinator numbers were high.
 
 The project also sits inside a live political debate in France over whether to reintroduce a controversial pesticide, acetamiprid, a conflict that captures the wider tension between maximising short-term yield and profit and protecting public health and nature over the long run. The researchers involved are candid that the transition to sustainable agroecology is not simple: it is a genuinely complex process that requires both time and financial support to work.
-
-## Connected topics
-
-- [About Food and Farming](About%20Food%20and%20Farming.md)
-- [FACTS about Farming and Food Production](FACTS%20about%20Farming%20and%20Food%20production.md)
 
 ## Sources
 

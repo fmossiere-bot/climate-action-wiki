@@ -12,6 +12,12 @@ summary: EV carbon footprint, battery manufacturing carbon debt, lifecycle emiss
 claim_id: evs-just-as-bad-for-climate
 verdict: false
 topic: transport
+related:
+  - smaller-evs-better
+  - Car Life Cycle Emissions - EV vs Combustion
+  - evs-still-pollute
+  - evs-too-expensive
+  - evs-will-break-the-grid
 ---
 
 # Myth: electric cars are just as bad for the climate as petrol cars
@@ -68,15 +74,6 @@ Fair. If you barely drive, the climate case for replacing a working petrol car i
 **The grid effect.** Because EV emissions come mostly from the grid, they get cleaner as the grid gets cleaner. A petrol car built today will still be burning the same petrol in 2030. An EV built today will be running on a cleaner grid in 2030 than it does now, and much cleaner still by 2035.
 
 **One thing to keep straight.** Walking, cycling and public transport still beat any car, electric or petrol. The EV case is not "electric is perfect" but "if you are going to drive anyway, electric is a lot less bad."
-
-## Connected topics
-
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
-- [Car Life Cycle Emissions - EV vs Combustion](../sectors/transport/Car%20Life%20Cycle%20Emissions%20-%20EV%20vs%20Combustion.md)
-- [EVs still pollute (myth)](evs-still-pollute.md)
-- [EVs too expensive (myth)](evs-too-expensive.md)
-- [EVs will break the grid (myth)](evs-will-break-the-grid.md)
-- [EVs only good for short trips (myth)](evs-only-good-for-short-trips.md)
 
 ## Sources
 

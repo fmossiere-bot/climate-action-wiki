@@ -45,10 +45,6 @@ For now, some. The argument is about how fast that shrinks, not whether renewabl
 <!-- Yours to expand. Nothing in this section reaches the Counter Claims
      card: the card is built only from the six sections above. -->
 
-## Connected topics
-
-<!-- Relative markdown links only, e.g. [EV Lifecycle](../sectors/transport/page.md) -->
-
 ## Sources
 
 - Project Drawdown, ocean climate solutions (2026) — https://drawdown.org/

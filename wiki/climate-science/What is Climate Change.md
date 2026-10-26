@@ -5,6 +5,9 @@ tags: ["#science", "#key-ideas", "#carbon"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: energy balance model, solar flux, albedo, Stefan-Boltzmann law, blackbody temperature, greenhouse effect, radiative forcing, CO2 concentration ppm, 424 ppm, pre-industrial 280 ppm, warming 1.1 degrees Celsius, anthropogenic emissions, methane, atmosphere, aerosols, orbital cycles, land use albedo, global emissions by sector and gas, Our World in Data, World Resources Institute, NOAA, NASA energy imbalance
+related:
+  - Cool Roofs - A Simple Idea with a Surprisingly Large Impact
+  - FACTS on EVERYTHING - Under the Sky we Make
 ---
 
 # What Is Climate Change? Earth's Energy Balance and the Greenhouse Effect
@@ -53,11 +56,6 @@ When more incoming energy gets trapped than can escape, radiative forcing increa
 Anthropogenic (human-caused) CO2 emissions have risen sharply by world region since the start of the industrial revolution, a trend well documented in [Our World in Data's emissions-by-region charts](https://ourworldindata.org/grapher/annual-co-emissions-by-region). CO2 gets most of the attention, but other greenhouse gases, particularly methane, matter too.
 
 Total global emissions run to roughly 49.8 GtCO2e (gigatonnes of CO2-equivalent, a single unit that allows different gases to be compared on the same scale). The [World Resources Institute's sector-flow breakdown](https://www.wri.org/insights/4-charts-explain-greenhouse-gas-emissions-countries-and-sectors) traces where those emissions come from: which economic sectors (like transport) produce them, which specific end-uses (like road transport or aviation) they fall under, and which gas (CO2, methane, or others) is responsible.
-
-## Connected topics
-
-- [Cool Roofs: A Simple Idea with a Surprisingly Large Impact](../solutions/energy-efficiency/Cool%20Roofs%20-%20A%20Simple%20Idea%20with%20a%20Surprisingly%20Large%20Impact.md) — a practical application of albedo and radiative forcing
-- [FACTS on Everything: Under the Sky We Make](../concepts/key-ideas/FACTS%20on%20EVERYTHING%20-%20Under%20the%20Sky%20we%20Make.md)
 
 ## Sources
 

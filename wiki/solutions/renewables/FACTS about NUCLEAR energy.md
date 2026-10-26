@@ -5,6 +5,10 @@ tags: ["#renewables", "#nuclear", "#energy-transition", "#energy"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: nuclear power capacity 2040 forecasts, EPR pressurised water reactors, SMR small modular reactors, PMR, France electricity mix, Dominique Vignon, nuclear carbon footprint, nuclear waste storage, nuclear security, Radiant micro-reactor, Doug Bernauer, ADVANCE Act, Breakthrough Energy, Bill Gates, fission, next-gen nuclear, Wyoming nuclear plant, energy security, net-zero 2050
+related:
+  - FACTS about Solar Energy
+  - FACTS about Wind Energy
+  - FACTS about Clean & GREEN Hydrogen
 ---
 
 # Facts about Nuclear Energy
@@ -70,12 +74,6 @@ Interest in US nuclear leadership has picked up, reflected in bipartisan legisla
 - Only needs recharging every few years.
 - Recharging takes place on a specific dedicated site.
 - The reactor is currently going through the permitting process.
-
-## Connected topics
-
-- [FACTS about Solar Energy](FACTS%20about%20Solar%20Energy.md)
-- [FACTS about Wind Energy](FACTS%20about%20Wind%20Energy.md)
-- [FACTS about Clean & GREEN Hydrogen](FACTS%20about%20Clean%20%26%20GREEN%20Hydrogen.md)
 
 ## Sources
 

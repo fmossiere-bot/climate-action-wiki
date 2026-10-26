@@ -6,6 +6,12 @@ sources: ["raw/papers/EN_SPM_NEXUSASSESSMENT_ENGLISH_FINAL (1).pdf"]
 created: 2026-09-17
 updated: 2026-09-17
 summary: IPBES Nexus Assessment 2024, Summary for Policymakers, five nexus elements biodiversity water food health climate, McElwee Harrison co-chairs, 165 authors 70 contributing 6500 publications, Windhoek Namibia December 2024, $7 trillion damaging activities, $0.3-1 trillion biodiversity finance gap, $4 trillion SDG water food health climate, siloed governance failure, 71 response options, integrated landscape seascape approaches, agroecology, sustainable healthy diets, Indigenous local knowledge, delay costs double, freshwater biodiversity fastest decline, 42% cannot afford healthy diet, 80% water demand food, life expectancy 20 year gap, transformative change, agrifood systems, Kunming-Montreal GBF, SDG 17 targets, Paris Agreement alignment
+related:
+  - agriculture-planetary-footprint
+  - Ocean Based Climate Solutions
+  - The importance of Wetlands
+  - wri-ocean-warming-2026
+  - nature-disclosure-frameworks-earthly-2026
 ---
 
 # IPBES Nexus Assessment — Interlinkages among Biodiversity, Water, Food and Health (Summary for Policymakers, 2024)
@@ -43,15 +49,6 @@ Existing governance is fragmented, siloed and short-term; it undermines the very
 - Biodiversity indicators show **2-6% decline per decade** for 30-50 years across all assessed
 - Costs of biodiversity action **double if delayed 10 years**; delayed climate action adds **≥$500bn/year**
 - **71 response options** assessed; **all 17 SDGs, 23 GBF targets and Paris Agreement** achievable if implemented as a bundle
-
-## Connected topics
-
-- [Agriculture Planetary Footprint](../sectors/agriculture-food/agriculture-planetary-footprint.md)
-- [Ocean Based Climate Solutions](../biodiversity-land/Ocean%20Based%20Climate%20Solutions.md)
-- [Wetlands](../biodiversity-land/The%20importance%20of%20Wetlands.md)
-- [WRI Ocean Warming (source)](wri-ocean-warming-2026.md)
-- [Nature Disclosure Frameworks (source)](nature-disclosure-frameworks-earthly-2026.md)
-- [Nature at a Crossroads (source)](nature-at-a-crossroads-reuters-2026.md)
 
 ## Sources
 

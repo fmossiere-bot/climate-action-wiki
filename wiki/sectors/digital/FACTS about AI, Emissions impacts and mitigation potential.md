@@ -5,6 +5,12 @@ tags: ["#ai", "#carbon", "#science", "#aviation", "#methane", "#digital"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: AI climate mitigation potential, ICEF roadmap, satellite detection of methane leaks, MethaneSAT, contrail avoidance, Google Project Contrails, American Airlines trial, aviation emissions, AI data centre energy demand, Ireland data centres, nuclear power for AI, Google and Microsoft emissions targets, Lawrence Berkeley National Laboratory, US data centre electricity consumption, water use for AI cooling, Sasha Luccioni, Hugging Face, France AI investment, Mistral AI, carbon footprint of a Google search, carbon footprint of streaming
+related:
+  - AI Emissions and Corporate Responsibility
+  - ai-data-centre-energy-crisis
+  - The Environmental Impact of Digital Activities
+  - IRELAND Data Centre Dilemna
+  - GOOGLE Emissions
 ---
 
 # FACTS about AI, Emissions Impacts and Mitigation Potential
@@ -80,15 +86,6 @@ A few standalone figures are useful for putting individual AI and digital activi
 - **100 Google searches produce around 20 grams of CO2.** (Search Engine Land)
 - **One hour of streaming video produces approximately 36 grams of CO2.** (Wired)
 - **Generating 1,000 images with an advanced AI model produces roughly the same emissions as driving an average car for 4.1 miles.** (MIT Technology Review)
-
-## Connected topics
-
-- [AI Emissions and Corporate Responsibility](AI%20Emissions%20and%20Corporate%20Responsibility.md)
-- [AI Data Centres and the Energy Crisis](ai-data-centre-energy-crisis.md)
-- [The Environmental Impact of Digital Activities](The%20Environmental%20Impact%20of%20Digital%20Activities.md)
-- [IRELAND Data Centre Dilemma](../../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
-- [GOOGLE Emissions](../../concepts/company-evaluations/GOOGLE%20Emissions.md)
-- [What is Jevons Paradox](What%20is%20JEVONS%20Paradox.md)
 
 ## Sources
 

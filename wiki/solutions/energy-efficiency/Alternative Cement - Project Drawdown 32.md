@@ -5,6 +5,8 @@ tags: ["#building-industry", "#carbon", "#energy-efficiency", "#industry"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: cement, clinker, Portland cement, fly ash, ground bottle glass, industrial waste, volcanic ash, limestone, aluminosilicate clay, calcium oxide, kiln emissions, Project Drawdown, carbon footprint reduction, building materials, construction industry, cement market share
+related:
+  - Cement and Concrete - A Hidden Climate Problem
 ---
 
 # Alternative Cement: Project Drawdown 32
@@ -27,10 +29,6 @@ Concrete is used at an enormous scale in roads, buildings, bridges and foundatio
 - Project Drawdown estimates this substitution could avoid 7.70 to 15.56 gigatons of CO2 equivalent emissions between 2020 and 2050, with a full-potential estimate of around 7.98 gigatons avoided.
 - Alternative cement already holds an estimated 31% share of the global cement market, according to Project Drawdown.
 - For the wider picture on concrete's climate impact, including clinker substitution, carbon capture and timber alternatives, see [Cement and Concrete: A Hidden Climate Problem](../../sectors/industry/Cement%20and%20Concrete%20-%20A%20Hidden%20Climate%20Problem.md).
-
-## Connected topics
-
-- [Cement and Concrete: A Hidden Climate Problem](../../sectors/industry/Cement%20and%20Concrete%20-%20A%20Hidden%20Climate%20Problem.md)
 
 ## Sources
 

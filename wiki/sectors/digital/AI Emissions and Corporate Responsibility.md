@@ -7,6 +7,12 @@ created: 2026-06-04
 updated: 2026-08-26
 cover_image:
 summary: AI emissions, LLM carbon footprint, GPU electricity, inference vs training, data centres, Jevons paradox, AI procurement, vendor evaluation, renewable energy, PPA, REC, scope 2, carbon intensity, grid decarbonisation, AI and sustainability, measuring AI emissions, token count, model ID, corporate sustainability, AI efficiency, right-sizing models, context stuffing, sustainability AI tools
+related:
+  - FACTS about AI, Emissions impacts and mitigation potential
+  - ai-data-centre-energy-crisis
+  - data-centers-environmental-footprint-us-2021
+  - What is JEVONS Paradox
+  - IRELAND Data Centre Dilemna
 ---
 
 # AI Emissions and Corporate Responsibility
@@ -48,16 +54,6 @@ There is currently no globally accepted standard for measuring AI emissions. The
 - Choosing a lower-carbon data centre region can cut AI emissions by **30 to 80% immediately**.
 - No global standard exists for measuring AI emissions; region and model ID are the most critical data points.
 - Only **25% of sustainability teams** currently estimate or report AI emissions.
-
-## Connected topics
-
-- [FACTS about AI, Emissions Impacts and Mitigation Potential](FACTS%20about%20AI%2C%20Emissions%20impacts%20and%20mitigation%20potential.md)
-- [AI Data Centres and the Energy Crisis](ai-data-centre-energy-crisis.md)
-- [The Environmental Footprint of Data Centers in the United States](../../sources/data-centers-environmental-footprint-us-2021.md)
-- [What is Jevons Paradox](What%20is%20JEVONS%20Paradox.md)
-- [IRELAND Data Centre Dilemma](../../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
-- [Clean Electricity, Why It Has to Come First](../energy/Clean%20Electricity%20-%20Why%20It%20Has%20to%20Come%20First.md)
-- [Scope 3 GHG](../../concepts/key-ideas/Scope%203%20GHG.md)
 
 ## Sources
 

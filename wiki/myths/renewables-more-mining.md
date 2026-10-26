@@ -11,6 +11,12 @@ summary: renewables mining, coal 30x more than renewables, 100x more than nuclea
 claim_id: renewables-more-mining
 verdict: false
 topic: materials
+related:
+  - running-out-of-minerals
+  - clean-energy-child-labour
+  - mineral-dependency-same-as-oil
+  - clean-energy-uses-too-much-water
+  - renewables-need-fossil-fuels-to-build
 ---
 
 # Myth: renewables and EVs mean a lot more mining
@@ -90,17 +96,6 @@ For the car alone, roughly yes. But when you add up all the mining a petrol car 
 **Recycling as a decade-out lever.** As the first generation of solar panels, turbines and batteries reaches end-of-life in the 2040s and 2050s, recycled materials will replace a growing share of new-mine demand. The solar panel on a roof today could eventually be recycled into two panels. That's not immediate — but it's coming, and it lowers long-run mining pressure.
 
 **Public transport is still the ceiling.** Even the cleanest EV needs more mining than not having a car at all. Public transport, cycling and walking are still the top of the mobility hierarchy. Smaller EVs use less material than bigger EVs. This mirrors the [smaller EVs](../sectors/transport/smaller-evs-better.md) argument.
-
-## Connected topics
-
-- [Running out of minerals (myth)](running-out-of-minerals.md)
-- [Clean energy child labour (myth)](clean-energy-child-labour.md)
-- [Mineral dependency same as oil (myth)](mineral-dependency-same-as-oil.md)
-- [Clean energy uses too much water (myth)](clean-energy-uses-too-much-water.md)
-- [Renewables need fossil fuels to build (myth)](renewables-need-fossil-fuels-to-build.md)
-- [Renewables produce too much waste (myth)](renewables-produce-too-much-waste.md)
-- [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md)
-- [Smaller EVs Are Better](../sectors/transport/smaller-evs-better.md)
 
 ## Sources
 

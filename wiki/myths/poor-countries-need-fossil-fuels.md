@@ -13,6 +13,12 @@ summary: poor countries fossil fuels development, sub-Saharan Africa 14% populat
 claim_id: poor-countries-need-fossil-fuels
 verdict: mostly-false
 topic: systemic
+related:
+  - fossil-fuel-banking
+  - ariana-mine-santander
+  - santa-marta-fossil-fuel-conference-2026
+  - dw-oil-nations-taff-2026
+  - live-good-life-planetary-boundaries
 ---
 
 # Myth: poor countries need fossil fuels to develop
@@ -88,15 +94,6 @@ Yes — and for poorer countries that is largely good news, because it drives do
 - **Fair borrowing rates**, so clean energy is affordable to build where the sun and wind are strongest
 - **Let Chinese clean tech compete on price**, or build a competing industry — but stop weaponising trade rules against the transition
 - Rich individuals: buying clean tech (solar, EVs, heat pumps) drives the cost curve down for everyone else globally, because deployment volume drives learning curves
-
-## Connected topics
-
-- [Fossil Fuel Banking](../climate-finance/fossil-fuel-banking.md)
-- [Ariana Mine and Santander](../climate-finance/ariana-mine-santander.md) — the finance-and-development tension in concrete
-- [Santa Marta Fossil Fuel Conference 2026](../solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md)
-- [Oil nations on edge — TAFF (source)](../sources/dw-oil-nations-taff-2026.md)
-- [Can Everyone Live a Good Life Within Planetary Limits?](../concepts/key-ideas/live-good-life-planetary-boundaries.md)
-- [There isn't enough clean energy (myth)](not-enough-clean-energy.md)
 
 ## Sources
 

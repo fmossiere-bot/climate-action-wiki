@@ -5,6 +5,10 @@ tags: ["#digital", "#e-waste", "#ai", "#circularity"]
 created: 2026-06-01
 updated: 2026-08-26
 summary: digitization, digitalization, digital transformation, CODES coalition, Coalition for Digital Environmental Sustainability, data centre energy use, ICT electricity consumption, e-waste, critical minerals, lithium, cobalt, graphite, misinformation, prebunking, debunking, digital divide, digital rights, digital surveillance, digital privacy, Climate TRACE, Destination Earth, NVIDIA Earth-2, Digital Product Passport, circular economy, sustainable consumption, Domestic Material Consumption
+related:
+  - Digital Sustainability for Climate Action
+  - IRELAND Data Centre Dilemna
+  - Carbon Footprint of an iPhone
 ---
 
 # Digital Transformation for Sustainable Development
@@ -72,13 +76,6 @@ Digital transformation can also be the lever that drives a much-needed transitio
 ### Empowering sustainable consumption
 
 Unsustainable consumption results from rising demand for fossil fuels, growing carbon emissions, and deepening inequalities, all of which have profound negative implications for people and the planet. As global greenhouse gas emissions increase due to pollution and industrial processes, so do global temperatures, and extreme weather events such as heatwaves, droughts and irregular rainfall patterns become more frequent. These events place an extra burden on agriculture and food production, which raises food prices when combined with overconsumption and economic shocks, compromising food accessibility and undermining food security. In 2019, the amount of materials used to meet global demand for goods and services, known as Domestic Material Consumption, amounted to 95.1 billion metric tonnes. Most of this is not adequately managed, generating increasing waste and pollution.
-
-## Connected topics
-
-- [What Is Digital Sustainability?](What%20Is%20Digital%20Sustainability.md)
-- [Digital Sustainability for Climate Action](Digital%20Sustainability%20for%20Climate%20Action.md)
-- [IRELAND Datacentre Dilemma](../../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)
-- [Carbon Footprint of an iPhone](Carbon%20Footprint%20of%20an%20iPhone.md)
 
 ## Sources
 
