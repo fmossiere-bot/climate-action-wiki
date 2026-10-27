@@ -204,8 +204,8 @@
     "keywords": [
       "cerrado",
       "most biodiverse savanna in the world",
-      "- some of this soil carbon is",
-      "including the amazon river\n-",
+      "> - some of this soil carbon is",
+      "including the amazon river\n> -",
       "redd+",
       "mis-allocation of climate finance",
       "tree-planting projects",
@@ -733,18 +733,18 @@
       "circularity"
     ],
     "keywords": [
-      "editorial summary",
       "gap check",
-      "box: glass deposit and recycling",
-      "notes from the article",
-      "translator's notes",
+      "glass deposit and recycling",
+      "water",
       "mauritius",
       "island",
       "tourists",
-      "water",
+      "whales",
       "million",
-      "minister",
-      "sperm"
+      "bottles",
+      "tourism",
+      "hotels",
+      "small"
     ]
   },
   {
@@ -2522,18 +2522,18 @@
       "research"
     ],
     "keywords": [
-      "editorial summary",
       "battery",
-      "chinese",
       "production",
+      "chinese",
       "batteries",
-      "china",
       "europe",
       "materials",
-      "bastien",
-      "patoux",
-      "start",
-      "french"
+      "france",
+      "china",
+      "french",
+      "several",
+      "back",
+      "challenge"
     ]
   },
   {
@@ -2576,18 +2576,18 @@
       "research"
     ],
     "keywords": [
-      "editorial summary",
       "gap check",
-      "page 65, beekeeper",
-      "page 65, bottom left",
-      "page 66, sheep",
-      "page 67, top",
-      "no text seems to be missing",
-      "the antoine bouin box",
-      "grape variety names",
-      "aoc",
-      "igp",
-      "vifa"
+      "varieties",
+      "grape",
+      "wine",
+      "vines",
+      "vine",
+      "soil",
+      "water",
+      "back",
+      "french",
+      "trees",
+      "agroforestry"
     ]
   },
   {
@@ -3350,13 +3350,7 @@
     "label": "COP17 Biodiversity (Yerevan, 2026): the first progress check on the global nature targets",
     "summary": "COP17 Biodiversity Yerevan Armenia 19-30 October 2026 Taking Action for Nature, Kunming-Montreal Global Biodiversity Framework 23 targets, 30x30 protect 30 percent land sea Target 3, restore 30 percent Target 2, pesticides fertilisers Target 7, harmful subsidies $500 billion Target 18, nature finance $200 billion Target 19, Cali Fund digital genetic data, COP16 Cali 2024 Rome 2025, NBSAPs national plans Seventh National Reports 125 of 196, IPBES Nexus Assessment 71 response options, Rio Conventions climate desertification COP31, EU Nature Restoration Law 2026, Ireland 4th National Biodiversity Action Plan, Aichi targets failure, halfway point 2022-2030",
     "category": "legislation-policy",
-    "tags": [
-      "biodiversity",
-      "cop30",
-      "eu-policy",
-      "nature",
-      "finance"
-    ],
+    "tags": [],
     "keywords": [
       "cop15 (montreal, 2022)",
       "national plans",
@@ -3378,15 +3372,8 @@
     "label": "COP31 in Antalya: dates, structure and main topics",
     "summary": "COP31 Antalya Turkiye 9-20 November 2026, Murat Kurum President-Designate, Chris Bowen Australia President of Negotiations, Pacific Pre-COP Fiji, shared host arrangement first time, implementation COP, ten priorities electrification 35 percent by 2035, zero waste methane 50 percent reduction, buildings 25 percent energy intensity cut, circular materials 15 percent, climate education 2035, food security ocean seas health, Rio synergies, Climate Implementation Bridge, NDCs national climate plans, $300 billion climate finance $1.3 trillion aspiration, adaptation finance tripling, fossil fuel transition, just transition mechanism, thematic days, Global Climate Action Agenda six axes, Türkiye 2053 net zero, Australia coal gas exporter, Istanbul Climate Finance Summit",
     "category": "legislation-policy",
-    "tags": [
-      "cop30",
-      "diplomacy",
-      "finance",
-      "coalition",
-      "adaptation"
-    ],
+    "tags": [],
     "keywords": [
-      "editorial summary",
       "türkiye",
       "australia",
       "the pacific",
@@ -3397,7 +3384,8 @@
       "just transition",
       "the ambition gap",
       "finance delivery",
-      "adaptation finance and indicators"
+      "adaptation finance and indicators",
+      "fossil fuel transition"
     ]
   },
   {
@@ -3406,16 +3394,8 @@
     "label": "Halfway to 2030: what the biodiversity COP17 in Armenia is about",
     "summary": "COP17 Yerevan biodiversity Armenia 19-30 October 2026, Kunming-Montreal Global Biodiversity Framework 23 targets 2030, 196 parties CBD 1992 Rio, 10000 delegates Taking Action for Nature, Guterres State of Biodiversity Action, 90 percent countries targets 60 percent plans 70 percent reports 83 percent aligned, 22 of 23 targets off track, 30x30 land 18-19 percent sea 23 percent protected, Cali Fund $1 billion target $7085 raised big pharma free-riding, 175x shareholder dividends, Ireland Christopher O'Sullivan Nature Restoration Law first EU plan Fintan Kelly Jane Stout Trinity, Teresa Ribera Jessika Roswall nature credits, Armenia Amulsar gold mine Garni Greenpeace, Yerevan Declaration 14 decisions, Yerevan Pathway, Robert Kim 14 year old, $1.7-3.2 trillion fossil subsidies, €30 harm €1 protect, 73 percent wildlife decline 1 million species extinction",
     "category": "legislation-policy",
-    "tags": [
-      "biodiversity",
-      "cop30",
-      "nature",
-      "finance",
-      "ireland"
-    ],
+    "tags": [],
     "keywords": [
-      "editorial summary",
-      "money in this article",
       "convention on biological diversity (cbd)",
       "1992",
       "196 parties",
@@ -3425,7 +3405,9 @@
       "\n- more than",
       "\"taking action for nature\"",
       "cartagena protocol",
-      "nagoya protocol"
+      "nagoya protocol",
+      "it has",
+      "30x30"
     ]
   },
   {
