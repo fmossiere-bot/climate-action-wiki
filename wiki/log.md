@@ -2411,3 +2411,14 @@ All from `raw/myths/` — book-summary notes turned into Myth-template pages. No
 - Source summary created: `wiki/sources/coffeeangel-biodiversity-credits.md`
 - Existing wiki page updated: `wiki/biodiversity-land/Coffeeangel - an example of Biodiversity restauration credits use.md` — frontmatter corrected (quoted tags, proper keyword summary, added sources and cover_image fields, updated title)
 - `wiki/index.md` updated (sources section + biodiversity-land section)
+
+## [2026-10-27] ingest | Patagonia's Circular Economy (infographic, Antonio Vizcaya Abdo)
+
+- Source files: `raw/infographics/1793066411058.jpeg` + `raw/infographics/2026-10-27 1021.md` (paired by the image number in the clipped note's LinkedIn image link)
+- Original source: LinkedIn, Antonio Vizcaya Abdo, October 2026 — https://www.linkedin.com/feed/update/urn:li:activity:7520665625732653056/
+- Data source: Patagonia, Work in Progress Report, November 2025
+- First page in the new `wiki/infographics/` category. Image converted to `wiki/infographics/images/patagonia-circular-economy.webp`
+- Created: `wiki/infographics/patagonia-circular-economy.md`
+- Regenerated: `wiki/infographics.json`
+- `wiki/index.md` updated (new Infographics section)
+- Set up the category: Infographic template and ingest rules in CLAUDE.md, `.github/scripts/build_infographics.py`, `.github/workflows/build-infographics.yml`, app spec in `docs/infographics.md`

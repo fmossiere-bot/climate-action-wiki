@@ -1,6 +1,6 @@
 # Climate Action Wiki — Master Index
 
-Last updated: 2026-10-26
+Last updated: 2026-10-27
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -620,6 +620,15 @@ Common climate myths and misleading claims, one page per claim. Also generate th
 | [[clean-energy-child-labour]] | **NEW** — "Clean energy relies on child labour." Verdict: mostly false. DRC cobalt problem is real but same cobalt powers phones and petrol catalytic converters; Tesla LFP, BYD sodium-ion moving away |
 | [[mineral-dependency-same-as-oil]] | **NEW** — "We'd just swap fossil dependency for mineral dependency on China." Verdict: mostly false. Fuels vs building blocks — cut off gas and lights go out; cut off rare earths and existing panels keep working |
 | [[clean-energy-uses-too-much-water]] | **NEW** — "Clean energy uses too much water to be sustainable." Verdict: mostly false. Solar/wind 5-100× less water than coal/gas. Local problem (Chile lithium) real; global picture is that clean uses far less |
+
+---
+
+## Infographics (`wiki/infographics/`)
+One page per infographic, with full credit to the creator. Also generate the infographics gallery in the app (`wiki/infographics.json`).
+
+| Page | Description |
+|------|-------------|
+| [[patagonia-circular-economy]] | **NEW** — Antonio Vizcaya Abdo (LinkedIn, Oct 2026): Patagonia's nine-stage circularity approach. 212,000 items resold and 174,799 repaired in FY25; 85-90% of its products still lack an end-of-life solution (company's own figures) |
 
 ---
 

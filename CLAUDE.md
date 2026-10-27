@@ -26,6 +26,12 @@ raw/                    → Source files. Never modify anything here.
                           page from it and cite it. If the raw material
                           is the claim itself, write the "What is actually
                           true" section from independent sources.
+  infographics/         → Infographics saved by Fabien, mostly from LinkedIn.
+                          Each one is normally a PAIR: the downloaded image
+                          (e.g. 1793066411058.jpeg) and a Web Clipper note
+                          (e.g. "2026-10-27 1021.md") holding the post URL
+                          and post text. See "Infographic template" and the
+                          Ingest steps for how to pair and file them.
 
 wiki/                   → Everything here is written and maintained by you.
   index.md              → Master catalog of all wiki pages
@@ -59,6 +65,11 @@ wiki/                   → Everything here is written and maintained by you.
                           irrelevant ones. These pages also generate the
                           Counter Claims cards in the app, so the section
                           headings in the Myth template are a contract.
+  infographics/         → One page per infographic, plus the converted image
+                          in infographics/images/. These pages generate
+                          wiki/infographics.json, which the app reads to show
+                          a browsable gallery. Browsing only: one image, a
+                          short caption and full credit per page.
   sources/              → One summary page per ingested external source file
   synthesis/            → Deep comparisons and multi-topic analysis
 
@@ -95,7 +106,8 @@ Both templates share the same frontmatter block:
 title: [Page Title]
 category: [concepts / sectors / solutions / biodiversity-land / 
            circularity-waste / legislation / standards / climate-science /
-           climate-adaptation / climate-finance / ireland-hub / eu-hub]
+           climate-adaptation / climate-finance / ireland-hub / eu-hub /
+           infographics]
 tags: [relevant tags]
 sources: [list of source files this page draws from]
 created: [YYYY-MM-DD]
@@ -283,6 +295,74 @@ Do not add a body `## Connected topics` section on new pages.)
   failed page.
 - If a myth page is missing any of the first three sections, build_claims.py 
   still builds the card but prints a warning in the Action log.
+
+---
+
+### Infographic template
+
+Use for every page in wiki/infographics/. One infographic per page.
+
+These pages are read by build_infographics.py, which writes 
+wiki/infographics.json for the gallery in the app. The format of that JSON is 
+documented in docs/infographics.md, so the app side can be built from it.
+
+Frontmatter:
+
+---
+title: "[The infographic's own headline, in plain words]"
+category: infographics
+tags: ["#topic", "#topic"]
+sources: ["Original data source, Publisher, Date — URL"]
+created: [YYYY-MM-DD]
+updated: [YYYY-MM-DD]
+summary: [10-20 keywords, including every number-bearing topic on the image]
+image: images/[slug].webp
+image_alt: "[One or two sentences describing what the image shows, for screen readers]"
+credit: "[Creator's name]"
+credit_url: "[Creator's profile URL]"
+source_post: "[URL of the post it was shared in, or empty]"
+data_source: "[Where the numbers come from, as printed on the image]"
+origin: [external / own]
+topic: [transport / energy / materials / food / nature / systemic / ireland]
+related:
+  - [slug]
+---
+
+The filename (minus .md) is the slug, and the image must be 
+`images/[same slug].webp`. `topic` uses the same ids as the Counter Claims 
+cards, plus `nature`, so the app's filters stay consistent.
+
+# [Title]
+
+![image_alt](https://raw.githubusercontent.com/fmossiere-bot/climate-action-wiki/refs/heads/main/wiki/infographics/images/[slug].webp)
+
+*Infographic by [Creator](credit_url), shared on [LinkedIn](source_post). 
+Data: [data_source].*
+
+## What it shows
+Two or three sentences in your own words: the point of the graphic, and any 
+caveat a reader needs (for example "these are the company's own figures"). 
+This becomes the caption in the gallery.
+
+## Key figures
+The main numbers on the image, typed out as bullets. The AI Companion cannot 
+read images, so this is what makes the infographic searchable and citable. 
+Maximum 7 bullets.
+
+## Sources
+- Infographic: Creator, Platform, Date — post URL
+- Data: Publisher, report title, Date — URL if available
+
+**Guardrails:**
+- Never copy the post text or anyone's comments onto the page. The clipped note 
+  is background only: use it for credit, the data source and context.
+- Never name or quote commenters.
+- `## What it shows` and `## Key figures` headings are read by the build script. 
+  Keep them exactly as written.
+- Default creator, when the note or image gives nothing else: Antonio Vizcaya 
+  Abdo — https://www.linkedin.com/in/antoniovizcaya/
+- For Fabien's own infographics, set `origin: own`, `credit: "The Uptake"`, and 
+  leave `source_post` empty.
 
 ## Tagging Rules
 
@@ -503,8 +583,8 @@ Format: ["Publication name — URL"]
 
 ### Ingest
 When asked to ingest new files:
-1. Check raw/articles/, raw/papers/, raw/own-research/ and raw/myths/ 
-   for any files not yet listed in wiki/log.md
+1. Check raw/articles/, raw/papers/, raw/own-research/, raw/myths/ and 
+   raw/infographics/ for any files not yet listed in wiki/log.md
 2. For each new file:
    - If it is in raw/own-research/: file directly into the right wiki 
      category, add frontmatter, tags and wikilinks. Add a short 
@@ -523,6 +603,27 @@ When asked to ingest new files:
      the record. Before creating a new myth page, check wiki/myths/ for 
      an existing page on the same claim and update it rather than 
      duplicating.
+   - If it is in raw/infographics/: create one page in wiki/infographics/ 
+     per image, using the Infographic template. Do not create a summary 
+     page in wiki/sources/.
+     1. Pair each image with its clipped note. The note's LinkedIn image 
+        link ends in `/0/<number>`, which is the image's filename: match 
+        on that first. Otherwise match on creation time (the note is 
+        usually saved within a few minutes of the image), and confirm by 
+        checking the note text and the image are about the same thing. 
+        An image with no note is fine (use the default creator). Anything 
+        you cannot pair with confidence goes in the ingest report, not 
+        a guess.
+     2. Pick a short kebab-case slug from the infographic's headline.
+     3. Convert the image (never move or edit the raw file):
+        `cwebp -q 85 -resize 1600 0 <raw image> -o wiki/infographics/images/<slug>.webp`
+        (drop `-resize` if the image is already narrower than 1600px).
+     4. Read the image itself: credit, data source and every key number 
+        come from what is printed on it, cross-checked with the post text.
+     5. Write the page, then check whether an existing wiki page would 
+        benefit from linking to it (add it to that page's `related:`).
+     6. In the ingest report, remind Fabien that republishing needs the 
+        creator's permission if it has not been confirmed yet.
    - If it is an external article or PDF: read and understand it fully, 
      create a summary page in wiki/sources/, identify which existing 
      wiki pages are affected and update them, create new wiki pages 
