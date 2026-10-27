@@ -66,9 +66,19 @@ Do not edit it by hand.
 | `wiki` | Path to the full wiki page, relative to `wiki/`. |
 | `created` | `YYYY-MM-DD`. The list is already sorted newest first. |
 
-## Suggested UI
+## What the app should do
 
-- Grid of tiles (image + title + credit), newest first, filter chips from `topics`.
-- Click opens a full view: large image, caption, credit and `source_post` link,
-  `data_source`, and links to the `related` wiki pages.
-- Credit must be visible on the tile itself, not only in the full view.
+The gallery is **images only**. The `.md` pages in `wiki/infographics/` exist
+to feed this JSON; they are not articles.
+
+- **Hide the `infographics` category everywhere else**: no page in the library
+  or home lists, no article view, and no results in site search. Skip any page
+  whose path starts with `infographics/` or whose `category` is `infographics`.
+- The Companion already ignores them: `build_snippets.py` skips the folder, so
+  they are not in `wiki-snippets.json`.
+- Gallery: grid of images, newest first, optional filter chips from `topics`.
+- Click opens the image large (lightbox), with the credit and a
+  "View original post" link to `source_post`. No caption or body text needed.
+- Credit must be visible on the tile itself, not only in the large view.
+- `caption`, `figures`, `data_source` and `related` are there if wanted later;
+  ignoring them is fine.

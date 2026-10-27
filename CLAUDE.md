@@ -68,8 +68,10 @@ wiki/                   → Everything here is written and maintained by you.
   infographics/         → One page per infographic, plus the converted image
                           in infographics/images/. These pages generate
                           wiki/infographics.json, which the app reads to show
-                          a browsable gallery. Browsing only: one image, a
-                          short caption and full credit per page.
+                          a browsable gallery. Browsing only: the app shows
+                          the image and credit, not the page text, and these
+                          pages are excluded from the AI Companion
+                          (build_snippets.py skips this folder).
   sources/              → One summary page per ingested external source file
   synthesis/            → Deep comparisons and multi-topic analysis
 
@@ -345,8 +347,8 @@ caveat a reader needs (for example "these are the company's own figures").
 This becomes the caption in the gallery.
 
 ## Key figures
-The main numbers on the image, typed out as bullets. The AI Companion cannot 
-read images, so this is what makes the infographic searchable and citable. 
+Optional. The main numbers on the image, typed out as bullets, as a record 
+for Fabien. Not shown in the gallery and not used by the AI Companion. 
 Maximum 7 bullets.
 
 ## Sources

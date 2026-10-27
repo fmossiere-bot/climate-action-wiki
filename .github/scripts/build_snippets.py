@@ -30,6 +30,9 @@ from pathlib import Path
 WIKI_DIR    = Path(__file__).parent.parent.parent / 'wiki'
 OUTPUT_FILE = WIKI_DIR / 'wiki-snippets.json'
 SKIP_FILES  = {'index.md', 'log.md', 'wiki-snippets.json'}
+# Infographics are browse-only: they live in the app's gallery
+# (infographics.json) and are kept out of Companion retrieval.
+SKIP_DIRS   = {'infographics'}
 
 # Common English function words. Needed because lowering the length floor
 # (below) to catch short-but-meaningful nouns like "kelp" or "peat" would
@@ -126,6 +129,8 @@ def build_snippets() -> list[dict]:
 
     for md_file in sorted(WIKI_DIR.rglob('*.md')):
         if md_file.name in SKIP_FILES:
+            continue
+        if SKIP_DIRS & set(md_file.relative_to(WIKI_DIR).parts):
             continue
 
         content  = md_file.read_text(encoding='utf-8')
