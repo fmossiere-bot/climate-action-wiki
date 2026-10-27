@@ -1,8 +1,15 @@
 ---
 title: "Mauritius: an island facing its challenges"
 category: climate-adaptation
-tags: ["#adaptation", "#ocean", "#biodiversity", "#circularity"]
-sources: ["raw/articles/mauritius-an-island-facing-its-challenges.md", "Françoise Blind-Kempinski, Écologie 360 n°17, September-October 2026, pp. 70-73 (translated from French)"]
+tags:
+  - "#adaptation"
+  - "#ocean"
+  - "#biodiversity"
+  - "#circularity"
+  - "#overtourism"
+sources:
+  - raw/articles/mauritius-an-island-facing-its-challenges.md
+  - Françoise Blind-Kempinski, Écologie 360 n°17, September-October 2026, pp. 70-73 (translated from French)
 created: 2026-10-26
 updated: 2026-10-26
 summary: Mauritius Indian Ocean small island state, François Sarano Longitude 181 sperm whales 40 individuals 25 remaining Red List IUCN, overtourism Flic en Flac Tamarin lagoon, Murali Krishna Appandi Savetheblu, 3.2 million tourists 2033 target 1.4 million current 1.2 million population, 20% GDP 13.5% jobs 37% exports 34% emissions, Sydney Pierre former tourism minister, World Bank 4% GDP drop by 2050, 11.3 billion dollars 9.8 billion euros infrastructure, 80% coral dead, sea level 4.5mm per year, 82% fossil fuels 17.6% renewables 60% target 2030, 42% electricity air conditioning, water shortage 60% runoff 10% groundwater, AFD French Development Agency 200 million euros, Mare Chicose landfill 95% waste 5% recycled sorting at source 2027, Oberoi Beach Resort zero plastic Be.eau bagasse bottles, Phoenix Beverages Group Mauritius Glass Gallery Polypet Recyclers PET
@@ -59,11 +66,7 @@ Water supply is also a real issue, as a shortage is expected by 2030. The water 
 
 In its offices in Port-Louis, the French Development Agency (AFD) is involved. "We supported the drawing up of a drainage master plan, and in December 2023 we gave a loan of 200 million euros to set up a public water policy, covering protection of the resource, collection, treatment and distribution," explains Stéphanie Oudin, regional coordinator for the Indian Ocean. But while waiting for a real public water policy, locals and accommodation providers rely on their own tanks for their water. Some hotels even have their own desalination unit.
 
-The AFD is also involved in waste management. Today, more than 95%...
-
-> **Gap check:** this page ends with "plus de 95 %" and page 73 starts with "des déchets solides sont acheminés...". The sentence carries straight on, so nothing is missing.
-
-...of solid waste is sent to the only landfill, at Mare Chicose, where it is buried. Only 5% is recycled. The rest ends up scattered in nature. "We have reached a crisis point: the Mare Chicose site will soon reach its full capacity," admits the former junior minister for Tourism.
+The AFD is also involved in waste management. Today, more than 95% of solid waste is sent to the only landfill, at Mare Chicose, where it is buried. Only 5% is recycled. The rest ends up scattered in nature. "We have reached a crisis point: the Mare Chicose site will soon reach its full capacity," admits the former junior minister for Tourism.
 
 Sorting waste at source becomes compulsory in 2027. But until then, and with no proper recycling channels in place, the goal is to produce as little waste as possible, whatever its type. "The Oberoi Beach Resort has brought in a zero-plastic policy," explains Natacha Tunda, deputy director of the hotel, which sits by the protected marine park of Turtle Bay. The hotel gives guests bottles of drinking water from Be.eau, a Mauritian eco-company. Made from sugar cane bagasse (the fibre left after the juice is pressed out), these 100% plant-based bottles break down naturally and can be personalised for each guest. But the hotel mainly uses glass bottles, which it washes and refills itself with properly filtered water. The small shower gel bottles and other products are made of recycled aluminium.
 
