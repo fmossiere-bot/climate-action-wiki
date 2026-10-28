@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-26",
+  "updated": "2026-10-28",
   "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
   "verdicts": {
     "false": {
@@ -1289,6 +1289,36 @@
         {
           "label": "UN Climate Mythbusters",
           "url": "https://www.un.org/en/climatechange/science/mythbusters"
+        }
+      ],
+      "wiki": ""
+    },
+    {
+      "id": "heatwave-myths-hawkins",
+      "category": "systemic",
+      "verdict": "false",
+      "claim": "12 Heatwave myths",
+      "heard_as": [],
+      "kernel": "",
+      "truth": "",
+      "say_this": "",
+      "pushback": [],
+      "sources": [
+        {
+          "label": "Guardian, Jonathan Watts, 11 July 2026",
+          "url": "\"The 13 biggest myths about heatwaves — and how to bust them"
+        },
+        {
+          "label": "Prof Ed Hawkins, National Centre for Atmospheric Science, University of Reading",
+          "url": ""
+        },
+        {
+          "label": "Climate stripes graphic",
+          "url": "https://showyourstripes.info"
+        },
+        {
+          "label": "Historical: Guy Callendar, 1938, first quantification of CO2 warming",
+          "url": ""
         }
       ],
       "wiki": ""
