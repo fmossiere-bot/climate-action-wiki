@@ -1285,33 +1285,6 @@
     ]
   },
   {
-    "slug": "heatwave-myths-hawkins",
-    "filename": "climate-science/heatwave-myths-hawkins.md",
-    "label": "Heatwave myths and how to bust them (Ed Hawkins / Guardian, 2026)",
-    "summary": "heatwave myths kit, Ed Hawkins University of Reading climate stripes, Guy Callendar 1938 steam engineer 0.3C, 1850s physics 1890s quantification, El Niño vs climate change, Earth orbit timescales cooler path 18th century, 1976 UK heatwave 32C 250 extra deaths 2 degrees cooler, attribution studies amplification, 125000 years ice core CO2 record, elderly children heart disease diabetes hospital workers vulnerable, UK homes winter not summer no shutters AC Mediterranean, 2003 European heatwave 40000-70000 deaths warning systems, CO2 plant food harvests suffering, net zero human choice, concede first correct second",
-    "category": "climate-science",
-    "tags": [
-      "science",
-      "adaptation",
-      "uk",
-      "myth"
-    ],
-    "keywords": [
-      "guardian article by jonathan watts",
-      "say this",
-      "1850s",
-      "1890s",
-      "1938",
-      "tens of thousands of years",
-      "250 extra people per day",
-      "attribution studies",
-      "early 1800s",
-      "125,000 years ago",
-      "no. they save lives",
-      "40,000-70,000 people"
-    ]
-  },
-  {
     "slug": "indirect-greenhouse-gases",
     "filename": "climate-science/indirect-greenhouse-gases.md",
     "label": "The Forgotten Pollutants: Indirect Greenhouse Gases",
@@ -4177,6 +4150,28 @@
       "pump",
       "electricity",
       "rather"
+    ]
+  },
+  {
+    "slug": "heatwave-myths-hawkins",
+    "filename": "myths/heatwave-myths-hawkins.md",
+    "label": "12 Heatwave myths",
+    "summary": "heatwave myths kit, Ed Hawkins University of Reading climate stripes, Guy Callendar 1938 steam engineer 0.3C, 1850s physics 1890s quantification, El Niño vs climate change, Earth orbit timescales cooler path 18th century, 1976 UK heatwave 32C 250 extra deaths 2 degrees cooler, attribution studies amplification, 125000 years ice core CO2 record, elderly children heart disease diabetes hospital workers vulnerable, UK homes winter not summer no shutters AC Mediterranean, 2003 European heatwave 40000-70000 deaths warning systems, CO2 plant food harvests suffering, net zero human choice, concede first correct second",
+    "category": "climate-science",
+    "tags": [],
+    "keywords": [
+      "guardian article by jonathan watts",
+      "say this",
+      "1850s",
+      "1890s",
+      "1938",
+      "tens of thousands of years",
+      "250 extra people per day",
+      "attribution studies",
+      "early 1800s",
+      "125,000 years ago",
+      "no. they save lives",
+      "40,000-70,000 people"
     ]
   },
   {
