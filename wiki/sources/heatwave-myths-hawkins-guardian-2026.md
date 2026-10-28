@@ -63,7 +63,7 @@ Guardian environmental journalism in explicitly combative mode toward denial, mo
 
 ## How it connects to the wiki
 
-- New wiki page: [Heatwave myths and how to bust them](../climate-science/heatwave-myths-hawkins.md) — a dedicated explainer page using the 12 captured rebuttals, matching the wiki's broader tone
+- New wiki page: [Heatwave myths and how to bust them](heatwave-myths-hawkins.md) — a dedicated explainer page using the 12 captured rebuttals, matching the wiki's broader tone
 - Reinforces [its-too-late (myth)](../myths/its-too-late.md) — directly answers the "humans are puny / too late" line
 - Complements [record-hot-ocean-el-nino-2026](../climate-science/record-hot-ocean-el-nino-2026.md), [jetstream-heatwave-patterns-2026](../climate-science/jetstream-heatwave-patterns-2026.md), [wildfires-climate-feedback](../climate-science/wildfires-climate-feedback.md) — all directly relevant to specific myth rebuttals in this piece
 - Fits with [Wet-Bulb explained](../climate-science/Wet-Bulb%20explained.md) — the mechanism behind why heatwaves kill
