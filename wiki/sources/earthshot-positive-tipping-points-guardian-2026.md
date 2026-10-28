@@ -4,64 +4,63 @@ category: sources
 tags: ["#science", "#renewables", "#key-ideas", "#nature", "#finance"]
 sources: ["raw/articles/Climate solutions most likely to reach 'positive tipping points' revealed by scientists.md", "Guardian, Matthew Pearce, 10 September 2026"]
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-28
 summary: positive tipping points, Earthshot Prize Global Systems Institute report, Steve Smith University of Exeter, Tim Lenton, 51 priority areas five environmental goals, clean electricity highest leverage, cascade effect, Africa 2 percent clean energy investment 60 percent solar potential, coordinated policy 2-8 years earlier tipping, commodity supply chains deforestation beef soy palm oil timber cocoa coffee, EU China UK US alignment, clean cooking pay-as-you-go 2.1 billion solid fuels, methane abatement satellites drones, adaptation self-reinforcing insurance, $7.3 trillion damage vs $220 billion nature-based solutions, UN State of Finance for Nature 2026, £30 to £1 ratio degrade vs protect
+related:
+  - climate-tipping-points
+  - lenton-positive-tipping-points-part1-2026
+  - ipbes-nexus-assessment-2024
+  - its-too-late
 ---
 
-# Climate solutions most likely to reach positive tipping points — Earthshot Prize / University of Exeter, September 2026
+# Climate solutions most likely to reach positive tipping points (Earthshot Prize and University of Exeter, September 2026)
 
-**Source:** Guardian, Matthew Pearce, 10 September 2026 — https://www.theguardian.com/environment/2026/sep/10/climate-crisis-tipping-points-energy-environment-report
-**Primary report:** *Tipping Points Report*, University of Exeter's Global Systems Institute with the Earthshot Prize — https://greenfuturessolutions.com/news/tipping-points-report-earthshot-prize/
-**Lead author:** Dr Steve Smith (research fellow, University of Exeter), building on Prof Tim Lenton's tipping-points work
+**Source:** Guardian, Matthew Pearce, 10 September 2026. https://www.theguardian.com/environment/2026/sep/10/climate-crisis-tipping-points-energy-environment-report
+**Primary report:** *Tipping Points Report*, University of Exeter's Global Systems Institute with the Earthshot Prize. https://greenfuturessolutions.com/news/tipping-points-report-earthshot-prize/
+**Lead author:** Dr Steve Smith (research fellow, University of Exeter), building on Prof Tim Lenton's work on tipping points
 
 ## What it is
 
-Guardian coverage of a new University of Exeter–Earthshot Prize report applying **positive tipping-point science** to **51 priority areas across five environmental goals**: protecting nature, cleaning the air, reviving oceans, eliminating waste and tackling the climate crisis. **The report identifies clean electricity as the "highest-leverage" transition** because cheaper solar and wind unlock a cascade of downstream tipping points — EVs, heat pumps, cleaner industrial processes, and reduced air pollution — that then reinforce further demand for renewables. It extends Prof Tim Lenton's framework (see [climate-tipping-points](../climate-science/climate-tipping-points.md)) into a practical roadmap of which levers are closest to their tipping thresholds.
+The Guardian reports on a new study from the University of Exeter and the Earthshot Prize. It looks for **positive tipping points**: moments when a clean technology or habit becomes cheap or normal enough that it spreads on its own. The report covers 51 priority areas across five environmental goals: protecting nature, cleaning the air, reviving oceans, eliminating waste and tackling the climate crisis.
 
-## Key facts
-
-- **51 priority areas** across five environmental goals (protecting nature, cleaning the air, reviving oceans, eliminating waste, tackling the climate crisis)
-- **Clean electricity is the highest-leverage transition** — improves the economics of EVs, heat pumps and cleaner industry, and reduces air pollution, driving further demand for renewables
-- Solar and wind **have already crossed positive tipping points in many major markets**
-- Coordinated policies across power, transport and heating **could bring forward tipping points in each of those sectors by 2 to 8 years**
-- **Africa receives less than 2% of global clean energy investment** despite having **60% of the world's best solar resources**
-- Transforming **global commodity supply chains** (beef, soy, palm oil, timber, cocoa, coffee) is the second-highest lever — controlled by a small number of companies, banks and regulators. Alignment across the **EU, China, UK and US** could make deforestation-free products the global norm
-- **2.1 billion people** still cook with solid fuels; pay-as-you-go and decentralised solar are close to a positive tipping point for clean cooking
-- **Methane abatement** is one of the fastest levers: methane causes ~30% of warming so far but lasts only ~12 years; satellites and drones now expose leaks that were previously invisible
-- **Adaptation can become self-reinforcing** when flood defences and resilient infrastructure lower losses, insurance and borrowing costs, attracting further investment
-- Finance is working the wrong way: **$7.3 trillion/year flows to activities that degrade nature** vs **$220 billion/year for nature-based solutions** (UN State of Finance for Nature 2026) — **£30 spent trying to degrade for every £1 spent protecting**
-
-## Notable quotes
-
-- **Steve Smith:** *"The cascade of clean energy that we're seeing now is just doing so much more than anybody expected even 10 years ago."*
-- **Steve Smith on the framing:** *"Tipping points can also work in our favour."*
-- **On commodity chains:** *"You need to be able to align not just the producers, but also the policymakers, the wholesalers, the consumers, the banks, the insurance companies, and get everybody working and doing the same thing."*
-- **On methane:** *"Methane abatement is one of the fastest levers we have available for limiting peak warming."*
-- **On finance:** *"For every £1 invested in protecting nature, you've got £30 spent trying to degrade it. So that's a political choice and it's not a lack of finance. It's where it's used."*
+Its main finding is that clean electricity is the "highest-leverage" change. As solar and wind get cheaper, they make electric cars, heat pumps and cleaner industry more attractive and cut air pollution. Those changes in turn raise demand for renewables, so one shift feeds the next. The report takes Prof Tim Lenton's idea of [climate tipping points](../climate-science/climate-tipping-points.md) and turns it into a practical list of which levers are closest to tipping.
 
 ## Why it matters
 
-Two things:
+Much climate news is about tipping points we want to avoid, such as melting ice sheets. This report is a reminder that tipping points can work in our favour too, and it names where. Lenton's book sets out the idea and its history. This study does the applied work: which solutions are nearly there today, and where joined-up policy could speed things up by years rather than decades.
 
-1. **A practical companion to Lenton's Positive Tipping Points framework.** The Lenton book (Part I already summarised on this wiki) sets out the concept and its historical evidence. This Exeter–Earthshot report does the applied work: which specific solutions are closest to their thresholds today, and where coordinated policy would compress timelines by years, not decades. Clean electricity as "highest-leverage" is a much stronger claim than "important" — it identifies a specific cascade mechanism.
-2. **Frames Africa's clean-energy gap sharply.** 60% of the world's best solar potential attracting less than 2% of global investment is one of the more damning numbers in climate finance. The report treats this as a bottleneck, not a philanthropy question.
+It also puts a hard number on Africa's clean-energy gap. The continent has 60% of the world's best solar resources but receives **less than 2% of global clean energy investment**. The report treats that as a bottleneck holding back the whole transition, not a question of charity.
 
-The $7.3tn:$220bn nature-finance ratio (Smith's "£30 to £1") is the strongest recent quantification of the "we're not out of money, we're spending it the wrong way" argument. It sits alongside — and reinforces — the IPBES Nexus Assessment finding that $7 trillion/year currently flows to activities that damage biodiversity.
+On money, Smith argues that the funds exist but are going to the wrong places. About $7.3 trillion a year goes to activities that harm nature, against $220 billion for nature-based solutions. That matches the 2024 [IPBES Nexus Assessment](ipbes-nexus-assessment-2024.md), which found around $7 trillion a year flowing to activities that damage biodiversity.
 
-## Tone and angle
+## Key facts
 
-Straight science-news reporting. Smith gets space to make the positive case without overselling: the "cascade" mechanic is described specifically (which sectors trigger which), and the counter-example (Africa's investment gap) sits right alongside the good news. The finance framing ($30-to-£1) is Smith's line, quoted as such — not the paper's.
+- The report covers 51 priority areas across five environmental goals (protecting nature, cleaning the air, reviving oceans, eliminating waste, tackling the climate crisis).
+- Clean electricity is the highest-leverage transition. It improves the economics of electric cars, heat pumps and cleaner industry, reduces air pollution, and so drives more demand for renewables.
+- Solar and wind have already passed positive tipping points in many major markets.
+- Coordinated policies across power, transport and heating could bring forward the tipping point in each sector by **2 to 8 years**.
+- Africa receives less than 2% of global clean energy investment, despite having 60% of the world's best solar resources.
+- Reshaping global supply chains for beef, soy, palm oil, timber, cocoa and coffee is the second-biggest lever. A small number of companies, banks and regulators control them, so agreement between the EU, China, the UK and the US could make deforestation-free products the global norm.
+- 2.1 billion people still cook with solid fuels such as wood and charcoal. Pay-as-you-go schemes and small-scale solar are close to a tipping point for clean cooking.
+- Cutting methane is one of the fastest levers. Methane has caused about 30% of warming so far but lasts only about 12 years in the air. Satellites and drones now reveal leaks that used to go unseen.
+- Adaptation can feed itself: flood defences and sturdier infrastructure lower losses, insurance and borrowing costs, which attracts more investment.
+- Money is flowing the wrong way: $7.3 trillion a year to activities that degrade nature, against $220 billion a year for nature-based solutions (UN State of Finance for Nature 2026). Smith sums it up as £30 spent damaging nature for every £1 spent protecting it.
 
-## How it connects to the wiki
+## Voices in the piece
 
-- Direct extension of [climate-tipping-points](../climate-science/climate-tipping-points.md) — the wiki page built from Lenton's Part I gets a new section on Steve Smith's applied analysis, particularly the "clean electricity as highest-leverage" cascade
-- Complements [lenton-positive-tipping-points-part1-2026](lenton-positive-tipping-points-part1-2026.md) — same tradition, more practical
-- Aligns with [ipbes-nexus-assessment-2024](ipbes-nexus-assessment-2024.md) — same $7tn scale of damaging finance flows
-- Reinforces [Its too late (myth)](../myths/its-too-late.md) — the "positive tipping points, not just bad ones" argument is now backed by a 51-priority-area analysis
+Steve Smith, the lead author, is upbeat about how fast clean power is moving: "The cascade of clean energy that we're seeing now is just doing so much more than anybody expected even 10 years ago." His starting point is simple: "Tipping points can also work in our favour."
+
+On food and timber supply chains, he stresses that everyone has to move together: "You need to be able to align not just the producers, but also the policymakers, the wholesalers, the consumers, the banks, the insurance companies, and get everybody working and doing the same thing."
+
+On methane: "Methane abatement is one of the fastest levers we have available for limiting peak warming." And on finance: "For every £1 invested in protecting nature, you've got £30 spent trying to degrade it. So that's a political choice and it's not a lack of finance. It's where it's used."
+
+## Limits of the figures
+
+The "£30 for every £1" comparison is Smith's own summary in the interview, not a figure from the report itself. It rounds the UN's $7.3 trillion and $220 billion estimates into a simple ratio.
 
 ## Sources
 
-- Guardian, Matthew Pearce, 10 September 2026 — https://www.theguardian.com/environment/2026/sep/10/climate-crisis-tipping-points-energy-environment-report
-- University of Exeter Global Systems Institute + Earthshot Prize, *Tipping Points Report* — https://greenfuturessolutions.com/news/tipping-points-report-earthshot-prize/
-- Cited research: "How a positive tipping point cascade in power, transport and heating can accelerate the low-carbon transition" — https://www.researchgate.net/publication/396701792
-- UN State of Finance for Nature 2026 — https://www.unep.org/resources/state-finance-nature-2026
+- Guardian, Matthew Pearce, 10 September 2026. https://www.theguardian.com/environment/2026/sep/10/climate-crisis-tipping-points-energy-environment-report
+- University of Exeter Global Systems Institute and Earthshot Prize, *Tipping Points Report*. https://greenfuturessolutions.com/news/tipping-points-report-earthshot-prize/
+- Cited research: "How a positive tipping point cascade in power, transport and heating can accelerate the low-carbon transition". https://www.researchgate.net/publication/396701792
+- UN State of Finance for Nature 2026. https://www.unep.org/resources/state-finance-nature-2026

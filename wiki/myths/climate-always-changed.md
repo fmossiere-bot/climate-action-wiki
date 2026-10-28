@@ -2,9 +2,9 @@
 title: "Myth: The climate has always changed"
 category: myths
 tags: ["#myth", "#science", "#carbon", "#key-ideas", "#ocean"]
-sources: ["UN Climate Mythbusters — https://www.un.org/en/climatechange/science/mythbusters", "WRI, ocean warming (2026) — https://www.wri.org/"]
+sources: ["UN Climate Mythbusters. https://www.un.org/en/climatechange/science/mythbusters", "WRI, ocean warming (2026). https://www.wri.org/"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "natural climate change, ice ages, Milankovitch cycles, orbital forcing, volcanic activity, solar output, medieval warm period, attribution, rate of warming, the pause, ocean heat content, WRI, 91% of excess heat"
 claim_id: climate-always-changed
@@ -18,21 +18,23 @@ topic: systemic
 
 ## Say this
 
-It has, and every time we can name what caused it. The things that caused those changes are all measured today and none of them explain this one.
+It has, and each time we can name what caused it. We measure all of those causes today, and none of them explains the warming we're seeing now.
 
 ## Why it sounds right
 
-Completely true. The climate has changed many times, sometimes dramatically, long before anyone was burning anything.
+It's completely true. The climate has changed many times, sometimes dramatically, long before anyone was burning anything.
 
 ## What is actually true
 
-And every one of those changes had a cause we can name: orbital cycles, volcanic activity, shifts in solar output, changes in ocean circulation. We measure all of those today, and none of them account for the current warming, while the rise tracks CO2 from fossil fuels closely. The other difference is speed. Past natural transitions unfolded over many thousands of years, giving ecosystems time to move. This one is happening over about 150, far faster than anything in the records we have.
+Every one of those past changes had a cause we can name: orbital cycles, volcanic activity, shifts in the sun's output, changes in ocean circulation. We measure all of these today, and none of them accounts for the current warming. The rise does closely track the CO2 from burning fossil fuels.
+
+Speed is the other difference. Past natural shifts unfolded over many thousands of years, which gave ecosystems time to move. This one is happening over **about 150 years**, far faster than anything in the records we have.
 
 ## If they push back
 
 **"Scientists said there was a pause in warming"**
 
-There was a slower decade, then a surge. Ocean heat kept rising throughout, which is where over 90% of the extra heat goes.
+There was a slower decade, then a surge. Ocean heat kept rising the whole time, and that's where over 90% of the extra heat goes.
 
 ## Also heard as
 
@@ -47,5 +49,5 @@ There was a slower decade, then a surge. Ocean heat kept rising throughout, whic
 
 ## Sources
 
-- UN Climate Mythbusters — https://www.un.org/en/climatechange/science/mythbusters
-- WRI, ocean warming (2026) — https://www.wri.org/
+- United Nations, Climate Mythbusters. https://www.un.org/en/climatechange/science/mythbusters
+- World Resources Institute (WRI), ocean warming, 2026. https://www.wri.org/

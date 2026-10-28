@@ -2,9 +2,9 @@
 title: "Myth: The grid can't cope and there aren't enough chargers anyway"
 category: myths
 tags: ["#myth", "#ev", "#energy", "#electrification", "#transport"]
-sources: ["Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"]
+sources: ["Carbon Brief, 21 EV myths factchecked. https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "charging network, charge points, National Grid, grid capacity, 20 nuclear plants claim, off peak charging, home charging, 50000 charge points, 300000 target, IEA, charging infrastructure growth, EV sales growth"
 claim_id: ev-infrastructure
@@ -18,21 +18,23 @@ topic: transport
 
 ## Say this
 
-Most charging happens at home overnight when the grid has spare capacity. National Grid lists this one as a myth on their own website.
+Most charging happens at home overnight, when the grid has spare capacity. National Grid even lists this one as a myth on its own website.
 
 ## Why it sounds right
 
-Anyone who has queued at a motorway charger knows public charging can be genuinely poor, so the frustration is real even where the numbers are not.
+Anyone who has queued at a motorway charger knows public charging can be poor. That frustration is real, even if the numbers behind the bigger claim are not.
 
 ## What is actually true
 
-National Grid itself lists the grid claim as a myth. The 2017 headline that Britain would need twenty new nuclear plants was a significant miscalculation and was corrected. Most charging happens at home overnight, off peak, when there is spare capacity on the network. On chargers, UK public charge points passed 50,000 in October 2023, growing 43% year on year against a government target of 300,000 by 2030, and the IEA found charging infrastructure kept pace with EV growth in 2022 with a 55% increase. UK EV sales grew 36% year on year over the first nine months of 2023, which is not what a crisis looks like.
+National Grid itself lists the grid claim as a myth. The 2017 story that Britain would need 20 new nuclear plants was a miscalculation and was later corrected. Most charging happens at home overnight, off peak, when there is spare capacity on the network.
+
+Chargers are growing fast too. UK public charge points passed 50,000 in October 2023, up 43% in a year, against a government target of 300,000 by 2030. The IEA found charging infrastructure kept pace with EV growth in 2022, with a 55% increase. Meanwhile UK EV sales grew 36% year on year over the first nine months of 2023, which is not what a crisis looks like.
 
 ## If they push back
 
 **"I don't have a driveway"**
 
-That is the real problem in this argument, and it is worth pressing your council on. It is a rollout gap, not a physics limit.
+That is the real gap in this argument, and it's worth pressing your council on. It's a problem of rollout, and rollout can be fixed. The grid itself can cope.
 
 ## Also heard as
 
@@ -47,4 +49,4 @@ That is the real problem in this argument, and it is worth pressing your council
 
 ## Sources
 
-- Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/
+- Carbon Brief, 21 EV myths factchecked. https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/

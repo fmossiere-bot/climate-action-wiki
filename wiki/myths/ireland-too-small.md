@@ -2,9 +2,9 @@
 title: "Myth: Ireland is too small to make any difference"
 category: myths
 tags: ["#myth", "#ireland", "#digital", "#energy", "#key-ideas"]
-sources: ["Irish Independent, Ireland data centre boom (Jun 2026) — https://www.independent.ie/", "Guardian, Ireland data centre hidden tax (May 2026) — https://www.theguardian.com/environment"]
+sources: ["Irish Independent, Ireland data centre boom (Jun 2026). https://www.independent.ie/", "Guardian, Ireland data centre hidden tax (May 2026). https://www.theguardian.com/environment"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "Ireland emissions, per capita emissions, small country argument, data centres, EirGrid, 107 data centres, 1.3 GW, 31% of electricity 2034, household electricity bill, 360 euro, CRU, small emitters aggregate"
 claim_id: ireland-too-small
@@ -18,21 +18,21 @@ topic: ireland
 
 ## Say this
 
-Small in total, near the top in Europe per person. And nothing about a third of our electricity going to data centres by 2034 is small.
+We're small in total, but near the top in Europe per person. And data centres taking about a third of our electricity by 2034 is nothing small.
 
 ## Why it sounds right
 
-In absolute terms Ireland is small, and it is reasonable to ask why a small country should move before large ones do.
+Ireland's total emissions really are small, and it's reasonable to ask why a small country should move before the big ones do.
 
 ## What is actually true
 
-Small in total, near the top in Europe per person, which is the measure that reflects choices rather than population. The choices here are also not small in scale: Ireland has 107 data centres operating, drawing about 1.3 GW, with EirGrid forecasting they could take 31% of national electricity by 2034. Ireland's data centres already added roughly 360 euro cumulatively to each household's electricity bill between 2015 and 2023. On the wider point, every country emitting under 2% adds up to roughly a third of global emissions, so small equals exempt would exempt a third of the problem.
+Ireland is small in total but near the top in Europe per person, and the per-person figure is the one that reflects choices rather than population size. Some of those choices are big. Ireland has **107 data centres** operating, drawing about 1.3 GW, and EirGrid, which runs the national grid, forecasts they could take 31% of the country's electricity by 2034. Between 2015 and 2023 the data centres added roughly 360 euro in total to each household's electricity bill. More broadly, all the countries that each emit under 2% add up to roughly a third of global emissions. If being small meant being exempt, a third of the problem would be exempt.
 
 ## If they push back
 
 **"We should wait for the big emitters"**
 
-Everyone under 2% together is about a third of global emissions. If they all wait, a third of the problem never moves.
+All the countries under 2% together make up about a third of global emissions. If they all wait, a third of the problem never moves.
 
 ## Also heard as
 
@@ -47,5 +47,5 @@ Everyone under 2% together is about a third of global emissions. If they all wai
 
 ## Sources
 
-- Irish Independent, Ireland data centre boom (Jun 2026) — https://www.independent.ie/
-- Guardian, Ireland data centre hidden tax (May 2026) — https://www.theguardian.com/environment
+- Irish Independent, Ireland data centre boom, June 2026. https://www.independent.ie/
+- Guardian, Ireland data centre hidden tax, May 2026. https://www.theguardian.com/environment

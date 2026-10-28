@@ -4,38 +4,43 @@ category: sources
 tags: ["#finance", "#coalition", "#greenwashing"]
 sources: ["raw/articles/Santander stop the Ariana mining project.md"]
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-10-28
 summary: Ekō petition, Santander, Ana Botín, Ariana mine, Peru, Lima water supply, 11 million people, Alpayana, USD 100 million loan, bank campaign, transition minerals apologia, Marcapomacocha, corporate accountability, Pebble Mine Alaska comparison, Carmichael coal Australia comparison, mining and water rights, activist petition
+related:
+  - ariana-mine-santander
+  - ariana-mine-banktrack-2026
+  - fossil-fuel-banking
 ---
 
 # Santander: stop the Ariana mining project (Ekō)
 
-**Source:** Ekō (formerly SumOfUs) campaign page, 19 June 2026
-**URL:** https://action.eko.org/a/santander-stop-the-ariana-mining-project
+**Source:** Ekō (formerly SumOfUs) campaign page, 19 June 2026. https://action.eko.org/a/santander-stop-the-ariana-mining-project
 
 ## What it is
 
-An **Ekō petition** addressed to Santander's Executive Chairman Ana Botín, calling on the bank to use its financial leverage to persuade Alpayana to abandon the Ariana copper and zinc mining project in central Peru. The campaign hangs directly on the **US$100 million refinancing loan Santander made to Alpayana in August 2025**, framing the bank as pivotal to whether the project can move to construction.
+This is an **Ekō petition** addressed to Ana Botín, Executive Chairman of Santander. It asks the bank to use its financial weight to persuade the mining company Alpayana to drop the Ariana copper and zinc project in central Peru.
 
-## Key facts cited
-
-- Ariana is planned in the heart of the Marcapomacocha water system — the main source of drinking water for **Lima's 11 million inhabitants**
-- Santander's US$100 million loan is called out as the enabling piece of the financing puzzle
-- Campaigners note that Santander spends "hundreds of millions on marketing" and will not want the reputational hit of being tied to a drinking-water disaster
-- Ekō explicitly counters the "**metals for the energy transition**" defence, arguing supporters of that framing "won't line up to offer their own drinking water supply"
-- Frames Ariana as part of a broader pattern of European banks and investors funding mining tied to land grabs, pollution and human rights violations
-- Cites prior Ekō / SumOfUs wins against **Pebble Mine (Alaska)** and the **Carmichael coal mine (Australia)** as precedents for pressuring banks to drop projects
+The campaign rests on one loan. In August 2025 Santander gave Alpayana a US$100 million refinancing loan, and Ekō argues that this makes the bank central to whether the mine can go ahead.
 
 ## Why it matters
 
-This is the campaign-side counterpart to the [BankTrack dossier](ariana-mine-banktrack-2026.md). Together they trace how a technical financing disclosure becomes public pressure on a European bank. Petitions like this rarely stop a project on their own, but they are one of the main mechanisms that push banks to apply their published environmental and human rights policies to actual deals — and Santander does have such a policy on paper.
+The mine is planned in the Marcapomacocha water system, which supplies most of the drinking water for Lima, a city of 11 million people. For the people who live there, this is about whether the tap keeps running.
 
-## Tone and angle
+The petition is the campaign side of the story told in the [BankTrack dossier](ariana-mine-banktrack-2026.md). Read together, they show how a dry financing disclosure turns into public pressure on a European bank. A petition rarely stops a project by itself. It is, though, one of the main ways to push a bank to apply its own published environmental and human rights policies to a real deal, and Santander does have such a policy on paper.
 
-Campaign copy: emotive, addressed to petition signers, with a clear ask ("Use your influence to stop the Ariana mining project") and a clear target (Ana Botín). Notably reframes the "critical minerals for green growth" narrative as a shifting of costs onto communities that do not consent.
+## Key facts
 
-## How it connects to the wiki
+- Ariana sits in the heart of the Marcapomacocha water system, the main source of drinking water for **Lima's 11 million inhabitants**.
+- Santander's US$100 million loan to Alpayana, made in August 2025, is presented as the missing piece of the financing.
+- Campaigners point out that Santander spends "hundreds of millions on marketing" and will not want its name tied to a drinking-water disaster.
+- Ekō rejects the "metals for the energy transition" defence, saying people who use that argument "won't line up to offer their own drinking water supply".
+- The petition places Ariana in a wider pattern of European banks and investors funding mines linked to land grabs, pollution and human rights abuses.
+- It cites earlier Ekō and SumOfUs wins against the Pebble Mine in Alaska and the Carmichael coal mine in Australia, where banks were pushed to walk away.
 
-- Provides the campaign angle for the new page `wiki/climate-finance/ariana-mine-santander.md`
-- Pairs with `wiki/sources/ariana-mine-banktrack-2026.md` (technical dossier from the same story)
-- Reinforces the bank-accountability arc in `wiki/climate-finance/fossil-fuel-banking.md` — same institutions, different commodity
+## How it frames the issue
+
+The page is written for people who might sign. It names a clear target (Ana Botín) and a clear ask: "Use your influence to stop the Ariana mining project". It also turns the idea of "critical minerals for green growth" on its head, presenting it as a way of shifting costs onto communities that never agreed to carry them.
+
+## Sources
+
+- Ekō, campaign page, 19 June 2026. https://action.eko.org/a/santander-stop-the-ariana-mining-project

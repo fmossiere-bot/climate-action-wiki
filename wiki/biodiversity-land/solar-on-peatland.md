@@ -1,10 +1,10 @@
 ---
-title: "Solar Farms on Peatland: A Triple Win — If Done Right"
+title: "Solar Farms on Peatland: A Triple Win, If Done Right"
 category: biodiversity-land
 tags: ["#renewables", "#wetlands", "#biodiversity", "#nature-based-solutions", "#energy"]
-sources: ["New Scientist, Alec Luhn, 8 June 2026; Ecological Solutions and Evidence, Hanna Rae Martens et al. — DOI: 10.1002/2688-8319.70259"]
+sources: ["New Scientist, Alec Luhn, 8 June 2026; Ecological Solutions and Evidence, Hanna Rae Martens et al., DOI: 10.1002/2688-8319.70259"]
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-10-28
 cover_image: ""
 summary: "solar farm, peatland, rewetted peat, peatland restoration, biodiversity, bird species, Wattmanufactur, Germany, agrivoltaics, peatland PV, photovoltaics, carbon store, drained peat, greenhouse gas, carbon emissions, meadow pipit, wetland birds, Greifswald, Hanna Rae Martens, Catherine Waite, Cambridge, triple win, energy generation, habitat restoration, carbon sequestration, UK peatland, German peatland"
 related:
@@ -15,48 +15,48 @@ related:
   - solar-farms-pollinators
 ---
 
-# Solar Farms on Peatland: A Triple Win — If Done Right
+# Solar Farms on Peatland: A Triple Win, If Done Right
 
 ## What is it
 
-A 2026 study from the University of Greifswald found that a solar farm built on **rewetted peatland** in northern Germany is home to more types of bird than the drained agricultural fields nearby. The finding raises an intriguing possibility: that land used for renewable energy can simultaneously earn income for landowners, lock away carbon, and boost biodiversity. But the result comes with a critical caveat. The benefit only works when the peat has been rewetted first. Solar panels placed on peat that is still drained can actually release more greenhouse gases than the clean energy they generate displaces.
+A 2026 study from the University of Greifswald found that a solar farm built on **rewetted peatland** in northern Germany is home to more kinds of bird than the drained farm fields nearby. That raises an interesting possibility: land used for renewable energy could earn income for landowners, lock away carbon and support wildlife, all at once. There is an important condition, though. The benefit only holds when the peat has been rewetted first. Solar panels on peat that is still drained can release more greenhouse gases than the clean energy they produce saves.
 
 ## Why it matters
 
-Peatlands are the largest terrestrial carbon store on the planet, holding **twice as much carbon as all forests combined**. They have been devastated by human land use: 95% of peatlands in Germany and 80% in the UK have been degraded, mostly by draining for agriculture or digging for potting compost. Once drained, microbes begin breaking down the ancient carbon locked in the peat, releasing CO₂ for decades or centuries. Restoring peatlands is therefore one of the highest-impact nature-based climate actions available, but it takes land out of food production. Pairing peatland restoration with solar generation offers a way to make that land economically productive again while delivering climate and biodiversity benefits at the same time.
+Peatlands are the largest carbon store on land, holding **twice as much carbon as all the world's forests combined**. Human use has done them great damage: 95% of peatlands in Germany and 80% in the UK have been degraded, mostly by draining them for farming or digging them up for potting compost. Once peat is drained, microbes start breaking down the ancient carbon in it, releasing CO₂ for decades or centuries. That makes restoring peatlands one of the most effective nature-based climate actions there is, but it takes land out of food production. Combining peatland restoration with solar power is a way to make that land pay again while also helping the climate and wildlife.
 
 ## What the research found
 
-The study, published in *Ecological Solutions and Evidence*, was the first to examine biodiversity impacts of placing solar panels specifically on **rewetted** peatland. The site is a 30-hectare solar park operated by Wattmanufactur in northern Germany, where the company began blocking drainage ditches in 2020 to allow the former farm field to re-accumulate water and return to peatland.
+The study, published in *Ecological Solutions and Evidence*, was the first to look at what solar panels on **rewetted** peatland mean for wildlife. The site is a 30-hectare solar park run by Wattmanufactur in northern Germany. In 2020 the company began blocking the drainage ditches so the former farm field could fill with water again and turn back into peatland.
 
-Researchers used audio recorders to compare the solar park with two nearby hay fields. Both areas had similar overall numbers of bird species, but the **types** of species were strikingly different. The hay fields had only grassland birds like the European goldfinch. The solar park attracted both wetland species (white wagtail, reed bunting, grey heron) and woodland species (tree pipit, Eurasian tree sparrow, buzzard, kestrel). The solar panels appeared to be standing in for shrubs and small trees, giving birds perching and hunting spots that did not exist in the open fields. The threatened **meadow pipit** was also photographed on the panels.
+Researchers used audio recorders to compare the solar park with two nearby hay fields. Both had a similar number of bird species overall, but the kinds of birds were very different. The hay fields had only grassland birds such as the European goldfinch. The solar park drew both wetland species (white wagtail, reed bunting, grey heron) and woodland species (tree pipit, Eurasian tree sparrow, buzzard, kestrel). The panels seemed to be standing in for shrubs and small trees, giving birds places to perch and hunt from that the open fields lacked. The threatened **meadow pipit** was also photographed on the panels.
 
-Lead researcher Hanna Rae Martens: "There's habitat created for some species, and it's being created for some endangered and some wetland species, and it has the potential to contribute to landscape-level diversity."
+Hanna Rae Martens, who led the research, said: "There's habitat created for some species, and it's being created for some endangered and some wetland species, and it has the potential to contribute to landscape-level diversity."
 
-## The critical distinction: rewetted vs drained peat
+## Rewetted versus drained peat
 
-Not all peatland solar is beneficial. Of the 165 solar farms installed on degraded peatlands in Germany, many are on peat that was never rewetted. Because the drained peat continues to release CO₂ from microbial decomposition, some of these sites are releasing **more greenhouse gases than their clean electricity is displacing**.
+Not every solar farm on peatland does good. Of the 165 solar farms built on degraded peatlands in Germany, many sit on peat that was never rewetted. The drained peat keeps releasing CO₂ as microbes break it down, so some of these sites release **more greenhouse gases than their clean electricity saves**.
 
-The Wattmanufactur park is one of only five solar farms in Germany on genuinely rewetted peatland. Germany has barred degraded-peat solar from receiving minimum guaranteed electricity prices since 2023, but developers are not always required to declare whether their installation sits on drained or rewetted peat — a transparency gap that allows harmful projects to proceed.
+The Wattmanufactur park is one of only five solar farms in Germany on peatland that has actually been rewetted. Since 2023, Germany has stopped solar farms on degraded peat from getting guaranteed minimum electricity prices. But developers do not always have to say whether their site is on drained or rewetted peat, and that gap in transparency lets harmful projects go ahead.
 
-Catherine Waite at the University of Cambridge: "Peatland PV could be a really good way to kind of help regenerate heavily degraded agricultural peat, but that doesn't mean it would also be a good thing to put it on really healthy peatlands elsewhere."
+Catherine Waite at the University of Cambridge put it this way: "Peatland PV could be a really good way to kind of help regenerate heavily degraded agricultural peat, but that doesn't mean it would also be a good thing to put it on really healthy peatlands elsewhere."
 
 ## The challenges of scaling
 
-Peatland solar currently generates no income beyond electricity sales, unlike agrivoltaics where grazing or crop-growing continues between the panels. Installing on soft, wet ground also requires deeper posts and construction restricted to the dry summer period, which raises costs. Greater government incentives would be needed to drive uptake beyond a handful of pilot sites.
+For now, peatland solar earns nothing beyond electricity sales. Agrivoltaics is different, because grazing or crop-growing carries on between the panels. Building on soft, wet ground also needs deeper posts, and work can only happen in the dry summer months, which pushes up costs. Stronger government incentives would be needed for this to spread beyond a handful of pilot sites.
 
-The UK has restored 2,500 km² of peatland to date — only one-tenth of the area that has been damaged. Germany has restored far less. The potential scale of the opportunity is large, but the regulatory and financial infrastructure to capture it barely exists yet.
+The UK has restored 2,500 km² of peatland so far, only one-tenth of the area that has been damaged. Germany has restored far less. The opportunity is large, but the rules and funding needed to make use of it barely exist yet.
 
 ## Key facts
 
-- Peatlands hold twice as much carbon as all forests; 95% of Germany's and 80% of UK's peatlands are degraded ([Ecological Solutions and Evidence, 2026](https://doi.org/10.1002/2688-8319.70259))
-- 30-hectare Wattmanufactur solar park on rewetted peat attracted both wetland and woodland bird species absent from nearby hay fields
-- Threatened meadow pipit recorded on solar panels — solar panels acting as substitute shrubs and trees
-- Some of the 165 solar farms on degraded (drained) German peatlands release more GHGs than their electricity displaces
+- Peatlands hold twice as much carbon as all forests, and 95% of Germany's and 80% of the UK's peatlands are degraded ([Ecological Solutions and Evidence, 2026](https://doi.org/10.1002/2688-8319.70259))
+- The 30-hectare Wattmanufactur solar park on rewetted peat attracted wetland and woodland bird species not found in nearby hay fields
+- The threatened meadow pipit was recorded on the panels, which act as stand-in shrubs and trees
+- Some of the 165 solar farms on degraded (drained) German peatlands release more greenhouse gases than their electricity saves
 - Only 5 solar farms in Germany are currently on rewetted peatland
-- UK restored only 2,500 km² of peat — one-tenth of the damaged area; Germany has restored less
+- The UK has restored only 2,500 km² of peat, one-tenth of the damaged area, and Germany has restored less
 
 ## Sources
 
 - New Scientist, Alec Luhn, 8 June 2026 (updated 23 June 2026)
-- Ecological Solutions and Evidence, Hanna Rae Martens et al., 2026 — DOI: 10.1002/2688-8319.70259
+- Ecological Solutions and Evidence, Hanna Rae Martens et al., 2026. DOI: 10.1002/2688-8319.70259

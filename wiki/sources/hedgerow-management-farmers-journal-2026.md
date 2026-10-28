@@ -2,65 +2,64 @@
 title: "Role of hedgerows in enhancing biodiversity cannot be over-emphasised (Farmers Journal / Hedgerows Ireland, August 2026)"
 category: sources
 tags: ["#ireland", "#biodiversity", "#agriculture", "#nature-based-solutions"]
-sources: ["raw/articles/Role of hedgerows in enhancing biodiversity 'cannot be over-emphasised'.md", "Farmers Journal, 30 August 2026 — https://www.farmersjournal.ie/news/news/role-of-hedgerows-in-enhancing-biodiversity-cannot-be-over-emphasised-930069"]
+sources: ["raw/articles/Role of hedgerows in enhancing biodiversity 'cannot be over-emphasised'.md", "Farmers Journal, 30 August 2026. https://www.farmersjournal.ie/news/news/role-of-hedgerows-in-enhancing-biodiversity-cannot-be-over-emphasised-930069"]
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-28
 summary: hedgerow management Ireland, Hedgerows Ireland, songbird species two-thirds, hedge-cutting season winter, flail machine damage, mulching head disease rotting, multi-annual plan, veteran heritage hedgerows townland barony boundaries, treeline development, two-year three-year rotation, cutting height raise, intermittent bushes trees, defer cutting late winter, coppicing hedge-laying rejuvenation, 20 to 40 years cycle, gappy hedges, heatwave livestock shade shelter, flood infiltration nutrients buffer, nitrates derogation
+related:
+  - The importance of Hedgerows
+  - refarm-wicklow-farmer-nature-thejournal-2026
+  - why-bees-matter
+  - ireland-water-quality-epa-2026
 ---
 
-# Role of hedgerows in enhancing biodiversity — Hedgerows Ireland / Farmers Journal, August 2026
+# How to cut hedgerows well: Hedgerows Ireland in the Farmers Journal, August 2026
 
-**Source:** Farmers Journal, 30 August 2026 — https://www.farmersjournal.ie/news/news/role-of-hedgerows-in-enhancing-biodiversity-cannot-be-over-emphasised-930069
-**Attribution note:** the article carries generic "Contributor" byline but is a Hedgerows Ireland practitioner guide
+**Source:** Farmers Journal, 30 August 2026. https://www.farmersjournal.ie/news/news/role-of-hedgerows-in-enhancing-biodiversity-cannot-be-over-emphasised-930069
+
+**Attribution note:** the article carries a generic "Contributor" byline, but it is a practical guide from Hedgerows Ireland.
 
 ## What it is
 
-A **practical hedgerow-management guide for Irish farmers** published just ahead of the official hedge-cutting season, from Hedgerows Ireland via the Farmers Journal. **The core claim: how hedgerows are cut matters as much as whether they exist**, and the recent shift to annual flail-cutting of every farm hedge to a low height, plus the use of "very powerful mulching heads mounted on track machines" to reduce mature tall hedges to stumps, is thinning hedges out and shortening their lives. The piece gives concrete recommendations for multi-annual cutting plans that keep hedges strong while delivering their biodiversity, water and livestock benefits.
+A practical guide for Irish farmers on managing hedgerows, published just before the official hedge-cutting season opened. It comes from Hedgerows Ireland and ran in the Farmers Journal.
 
-## Key facts
-
-- **Two-thirds of Ireland's songbird species** feed and breed in hedgerows in intensively-managed farm landscapes
-- **Repeated annual cutting to the same height** damages growing points, thins the base and eventually kills the hedge
-- **Mulching heads** on track machines shatter stems, letting rotting and disease enter
-- Hedgerows help with **flood control** (letting water infiltrate the soil) and **nutrients buffering** — recognised in Ireland's mandatory nitrates derogation measures
-- During heatwaves, hedgerows provide **shade and shelter** for livestock, preventing heat stress and dehydration
-- **Historically significant hedges** — townland boundaries, barony boundaries, double ditches — are **irreplaceable**
-- **Veteran hedgerows** (past rejuvenation) should receive minimum intervention as heritage landscape features
-- Hedges need **rejuvenation every 20-40 years** using coppicing or hedge-laying, or they become gappy
-
-## Hedgerows Ireland's management recommendations
-
-1. **Develop a multi-annual management plan** for your farm's hedges and discuss with your contractor
-2. **Identify historically significant hedges** (townland/barony boundaries, double ditches) — treat as irreplaceable
-3. Some hedges are best allowed to **develop into treelines** — may never need cutting or only side-cutting for access
-4. Cut some hedges on a **two- or three-year rotation** — good for wildlife (more flowering and fruiting)
-5. For annually-cut hedges: **raise the cutting height by a few centimetres each year** to prevent the damaging "knuckle" and allow flowering
-6. **Leave intermittent bushes to mature into trees**
-7. **Defer cutting as long as you can** — ideally late winter, to let birds and wildlife feed and shelter
-8. **Do not use mulching heads** — "they have no place in hedge management"
-9. Manage hedges on a **long-term cycle** — rejuvenate at 20-40 years by coppicing or hedge-laying
-10. **Leave veteran hedges alone** — minimum intervention
+Its main point is that **how a hedge is cut** matters as much as whether it is there at all. Many farms now flail-cut every hedge, every year, down to a low height. Some use "very powerful mulching heads mounted on track machines" to cut mature, tall hedges back to stumps. The guide says both habits are thinning hedges out and shortening their lives. It sets out a plan that keeps hedges healthy while they go on supporting wildlife, protecting water and sheltering livestock.
 
 ## Why it matters
 
-Three things:
+Ireland has about 689,000 km of hedgerows, according to the wiki's main hedgerow page. Having them is only half the story. Cutting them hard every year slowly wears that network down, so a valuable piece of nature can become a shrinking one over 20-30 years.
 
-1. **Existence is not enough — how you cut matters.** Ireland has ~689,000 km of hedgerows (per the existing wiki page), but the practice of aggressive annual flail-cutting is silently degrading a lot of that stock. The management pattern flips a nature asset into a diminishing one over 20-30 years.
-2. **The heatwave co-benefit is now visible.** With summer 2026 heatwaves, hedgerows as livestock shelter has moved from a soft argument to a productivity one. That reframes hedge management as farm-financial, not just conservation.
-3. **A very concrete "do this / don't do this" list.** Most farmer-facing biodiversity advice is vague. This one names the equipment (flail machines, mulching heads on track machines) and the practice (annual cutting to the same height) that is doing the damage, and gives specific alternatives (two-year rotation, raise cutting height each year, defer to late winter).
+The heatwaves of summer 2026 also made another benefit easy to see. Hedges give cattle and sheep shade and shelter, which protects them from heat stress. That makes good hedge care part of running a farm well, as well as a matter of conservation.
 
-## Tone and angle
+Most nature advice aimed at farmers is fairly vague. This guide is specific. It names the machines and habits that do the damage, flail machines, mulching heads and annual cutting to the same height, and offers clear alternatives.
 
-Practitioner guide, farmer-to-farmer register. Blunt about the wrong equipment ("mulching heads have no place in hedge management"), specific about the right practice, respectful of veteran hedges as landscape heritage. Reads as a genuine field manual, not campaign material.
+## Key facts
 
-## How it connects to the wiki
+- **Two-thirds** of Ireland's songbird species feed and breed in hedgerows on intensively farmed land.
+- Cutting a hedge to the same height every year damages its growing points, thins the base and eventually kills it.
+- Mulching heads on track machines shatter stems, which lets rot and disease in.
+- Hedgerows help control flooding by letting water soak into the soil, and they soak up excess nutrients. Both roles are recognised in Ireland's mandatory nitrates derogation measures.
+- In heatwaves, hedgerows give livestock shade and shelter, helping prevent heat stress and dehydration.
+- Hedges with historical value, such as townland boundaries, barony boundaries and double ditches, cannot be replaced.
+- Veteran hedgerows, those past the point of rejuvenation, should be left mostly alone as heritage features in the landscape.
+- Hedges need rejuvenating every 20-40 years by coppicing or hedge-laying, or they become gappy.
 
-- Direct update to [The Importance of Hedgerows](../solutions/nature-based-solutions/The%20importance%20of%20Hedgerows.md) — existing page has the case for hedgerows and their carbon/biodiversity/water benefits; this adds the *how to manage them* layer
-- Aligns with [refarm-wicklow-farmer-nature-thejournal-2026](refarm-wicklow-farmer-nature-thejournal-2026.md) — farmer-led biodiversity work, this time on the maintenance side rather than the funding side
-- Complements [why-bees-matter](../biodiversity-land/why-bees-matter.md) — hedgerows are key pollinator habitat
-- Ties to the broader Ireland biodiversity story in [ireland-water-quality-epa-2026](ireland-water-quality-epa-2026.md) (nitrates buffering) and Ireland's 4th National Biodiversity Action Plan
+## Hedgerows Ireland's recommendations
+
+1. Draw up a plan for your farm's hedges covering several years, and talk it through with your contractor.
+2. Identify hedges with historical value (townland or barony boundaries, double ditches) and treat them as irreplaceable.
+3. Let some hedges grow into lines of trees. They may never need cutting, or only side-cutting for access.
+4. Cut some hedges every two or three years instead of every year. This is better for wildlife, because they flower and fruit more.
+5. For hedges cut every year, raise the cutting height by a few centimetres each time. This avoids the damaging "knuckle" and lets the hedge flower.
+6. Leave the odd bush to grow into a tree.
+7. Put off cutting for as long as you can, ideally until late winter, so birds and other wildlife can feed and shelter.
+8. Do not use mulching heads. In the guide's words, "they have no place in hedge management".
+9. Manage hedges over the long term, rejuvenating them every 20-40 years by coppicing or hedge-laying.
+10. Leave veteran hedges alone, with as little intervention as possible.
+
+Good hedge care also links to Ireland's wider work on water quality and nitrates, and to its 4th National Biodiversity Action Plan.
 
 ## Sources
 
-- Farmers Journal, 30 August 2026 — https://www.farmersjournal.ie/news/news/role-of-hedgerows-in-enhancing-biodiversity-cannot-be-over-emphasised-930069
-- Hedgerows Ireland — https://hedgerows.ie
+- Farmers Journal, 30 August 2026. https://www.farmersjournal.ie/news/news/role-of-hedgerows-in-enhancing-biodiversity-cannot-be-over-emphasised-930069
+- Hedgerows Ireland. https://hedgerows.ie

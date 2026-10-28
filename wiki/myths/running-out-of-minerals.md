@@ -4,10 +4,10 @@ category: myths
 tags: ["#myth"]
 sources:
   - Hannah Ritchie, Not the End of the World (2024)
-  - IEA — Critical Minerals reports
-  - IRENA — energy transition mineral demand
+  - IEA, Critical Minerals reports
+  - IRENA, energy transition mineral demand
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-10-28
 cover_image: ""
 summary: minerals running out, lithium reserves growing 20 million tonnes 2022, production 150000 tonnes, clean energy 5-15% material demand rise, silver panel halved in 5 years polysilicon 1/8, reserves vs resources, IEA IRENA ETC RMI no fundamental shortage, aluminium copper substitute, cobalt free batteries Tesla LFP, 5-10 year supply crunch mining lead times, Hannah Ritchie
 claim_id: running-out-of-minerals
@@ -27,49 +27,54 @@ related:
 
 ## Say this
 
-We're not running out. Lithium reserves have grown faster than lithium production. Every major energy agency — IEA, IRENA, Rocky Mountain Institute, Energy Transitions Commission — says there's no fundamental shortage. The real risk isn't running out; it's getting stuff out of the ground fast enough over the next 5 to 10 years, because opening a new mine takes a decade.
+We're not running out: lithium reserves have grown faster than lithium production, and the IEA, IRENA, the Rocky Mountain Institute and the Energy Transitions Commission all say there's no fundamental shortage. The real risk is getting the minerals out of the ground fast enough over the next 5 to 10 years, because opening a new mine takes about a decade.
 
 ## Why it sounds right
 
-Because "we're running out of X" is a classic anxiety, and it has come and gone for oil, water, food and now minerals. Every generation gets its "peak resource" story. And the clean energy build-out really does need a lot of specific minerals in a short time. Anyone who reads a headline about "lithium shortages" is right that there is a real supply crunch. The mistake is confusing a short-term extraction bottleneck with a long-term reserves problem.
+"We're running out of X" is an old worry. It has come and gone for oil, water and food, and now it's the turn of minerals: every generation gets its own "peak resource" story. And the clean energy build-out does need a lot of particular minerals in a short time. Anyone who reads a headline about lithium shortages is right that supply is tight. The mistake is to confuse a short-term bottleneck in getting minerals out with a long-term lack of reserves.
 
 ## What is actually true
 
-**Reserves are growing faster than production:**
-- **Global lithium production**: ~30,000-40,000 tonnes/year in 2008 → **over 150,000 tonnes/year by 2022**
-- **Global lithium reserves**: a few million tonnes in 2008 → **over 20 million tonnes by 2022**. Reserves have grown faster than production.
+Reserves are growing faster than production:
 
-**Clean energy tech would raise material demand by 5-15% overall** — not a runaway increase. Supplies will be tighter for specific materials (**lithium, cobalt, copper**), but even for these, either there's enough today or the gap is closing through new deposits, substitution and efficiency.
+- Global lithium production went from about 30,000-40,000 tonnes a year in 2008 to over 150,000 tonnes a year by 2022.
+- Global lithium reserves went from a few million tonnes in 2008 to **over 20 million tonnes** by 2022.
 
-**Efficiency gains are already happening fast:**
-- The **silver in a 2018 solar panel** could now make **2 panels**
-- The **silver in a 2010 panel** could now make **5 panels**
-- Solar panels use **⅛ the polysilicon** they needed in 2004
+Clean energy technology would raise overall demand for materials by **5-15%**, which is far from a runaway increase. Supplies will be tighter for some materials, mainly lithium, cobalt and copper. Even for these, there is either enough today or the gap is closing through new deposits, using other materials instead, and using less of them.
 
-**Reserves vs. resources — two different words:**
-- **Reserves**: deposits that can be extracted economically with today's technology
-- **Resources**: known deposits, including ones that aren't economically worth extracting yet
-- Both categories grow as prices change and technology improves.
+Efficiency is already improving fast:
 
-**What the major agencies say:**
-- **IEA**: generally no signs of shortages in available resources
-- **IRENA**: no scarcity of reserves for energy transition minerals; reserves from economically viable sources have grown
-- **Energy Transitions Commission**: no fundamental shortage of any raw material for a global net-zero transition
-- **Rocky Mountain Institute**: world has enough minerals for the entire energy transition and is rapidly building the mines
+- The silver in a 2018 solar panel could now make 2 panels.
+- The silver in a 2010 panel could now make 5 panels.
+- Solar panels use ⅛ of the polysilicon they needed in 2004.
+
+Two words that often get mixed up:
+
+- Reserves: deposits that can be mined at a profit with today's technology.
+- Resources: all known deposits, including ones that aren't yet worth mining.
+
+Both grow as prices change and technology improves.
+
+The major energy agencies agree:
+
+- IEA: generally no signs of shortages in available resources.
+- IRENA: no scarcity of reserves for energy transition minerals, and reserves that can be mined at a profit have grown.
+- Energy Transitions Commission: no fundamental shortage of any raw material for a global net-zero transition.
+- Rocky Mountain Institute: the world has enough minerals for the entire energy transition and is building the mines quickly.
 
 ## If they push back
 
 **"But mining takes forever to open."**
 
-Yes — and that is the real bottleneck. Discovering and exploring a new deposit takes **over a decade**. Lithium sourcing takes **~4 years in Australia** and **~6 years in South America**. Once a deposit is found, permitting and construction take **~5 more years**. In the US, mine permits alone take **7 to 10 years**. That's why the next 5-10 years are the tight window — not because of geology.
+That's right, and it is the real bottleneck. Finding and exploring a new deposit takes **over a decade**. Sourcing lithium takes about 4 years in Australia and about 6 years in South America. Once a deposit is found, permits and construction take about 5 more years, and in the US the permits alone take 7 to 10 years. That is why the next 5-10 years are the tight period, and geology has little to do with it.
 
 **"We're already fighting over lithium."**
 
-Prices are volatile because the industry is scaling up. Volatility isn't the same as scarcity. Even a big lithium price spike doesn't mean the world is running out — it means demand outpaced production for a specific stretch. New reserves are being discovered constantly.
+Prices jump around because the industry is growing quickly, but volatile prices aren't the same as scarcity. Even a big spike in the lithium price doesn't mean the world is running out. It means demand outran production for a while. New reserves are being found all the time.
 
 **"What about after 2030?"**
 
-Substitution and recycling ease the picture over time. Tesla now uses **lithium iron phosphate (LFP)** — no cobalt — in more than half its cars. BYD is investing in **sodium-ion batteries** (no cobalt or lithium at all). Aluminium can replace copper in power lines when copper gets expensive. The 2030s look easier on materials than the 2020s.
+Swapping materials and recycling ease the pressure over time. Tesla now uses lithium iron phosphate (LFP) batteries, which contain no cobalt, in more than half its cars. BYD is investing in sodium-ion batteries, which use no cobalt or lithium at all. Aluminium can replace copper in power lines when copper gets expensive. The 2030s look easier for materials than the 2020s.
 
 ## Also heard as
 
@@ -82,18 +87,18 @@ Substitution and recycling ease the picture over time. Tesla now uses **lithium 
 
 ## Go deeper
 
-**Why reserves keep growing.** When a mineral gets more valuable, geologists go looking for it, and they find more. This has happened repeatedly across the resource sector for over 150 years. The Malthusian instinct that "there's a fixed amount and we'll use it up" underestimates the extent to which "reserves" is an economic-plus-technological measure, not a fixed physical one.
+**Why reserves keep growing.** When a mineral becomes more valuable, geologists go looking for it, and they find more. This has happened again and again across the mining sector for over 150 years. The Malthusian instinct, that there is a fixed amount and we'll use it up, misses the fact that "reserves" depends on economics and technology rather than being a fixed physical amount.
 
-**Substitution as a stress-response mechanism.** When cobalt supply tightened in 2018-19, Tesla switched much of its production to lithium iron phosphate (LFP), which uses no cobalt. When copper wire is too expensive, aluminium substitutes. These substitutions were unpredictable in advance and happen quickly under price pressure. That is a general pattern — engineers substitute one material for another when the economics justify it.
+**Switching materials under pressure.** When cobalt supply tightened in 2018-19, Tesla moved much of its production to lithium iron phosphate (LFP) batteries, which use no cobalt. When copper wire gets too expensive, aluminium takes its place. Nobody could have predicted these switches in advance, and they happen quickly once prices rise. It is a general pattern: engineers swap one material for another when the economics make sense.
 
-**Recycling as a decade-out solution.** The clean-energy build-out is producing a stock of solar panels, wind turbines and batteries that will need recycling in 20-30 years. Once at scale, recycled materials will meet a large share of demand for new clean-tech, dramatically reducing the pressure to mine fresh. The recycling economy for these materials doesn't fully exist yet, but it's growing.
+**Recycling, a decade or more away.** The clean energy build-out is creating a stock of solar panels, wind turbines and batteries that will need recycling in 20-30 years. Once recycling works at scale, recycled materials will meet a large share of the demand for new clean technology and greatly reduce the need for fresh mining. The recycling industry for these materials doesn't fully exist yet, but it is growing.
 
-**The 5-10 year window is where policy matters most.** The genuine choke point isn't geology, it's mine permitting and refining capacity. Countries that streamline permitting for critical minerals will build the transition faster. Countries that don't will have to import at premium prices. This is the actual live policy question, not "have we got enough."
+**The next 5-10 years are where policy matters most.** The real bottleneck is permits for new mines and capacity to refine the minerals, not geology. Countries that speed up permits for critical minerals will build the transition faster. Those that don't will have to import at higher prices. That, rather than "have we got enough", is the live policy question.
 
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- IEA — Critical Minerals reports
-- IRENA — Energy Transition Minerals reports
-- Energy Transitions Commission — Making Mission Possible
-- Rocky Mountain Institute — Reality Check on Clean Energy Minerals
+- IEA, Critical Minerals reports
+- IRENA, Energy Transition Minerals reports
+- Energy Transitions Commission, Making Mission Possible
+- Rocky Mountain Institute, Reality Check on Clean Energy Minerals

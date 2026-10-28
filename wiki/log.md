@@ -2422,3 +2422,12 @@ All from `raw/myths/` — book-summary notes turned into Myth-template pages. No
 - Regenerated: `wiki/infographics.json`
 - `wiki/index.md` updated (new Infographics section)
 - Set up the category: Infographic template and ingest rules in CLAUDE.md, `.github/scripts/build_infographics.py`, `.github/workflows/build-infographics.yml`, app spec in `docs/infographics.md`
+
+## [2026-10-28] maintenance | Style sweep: em-dashes removed, AI phrasing rewritten
+
+- Rulebook: new `docs/style-guide.md` (centred, matter-of-fact, empathetic voice; every number kept), referenced from CLAUDE.md principle 8. CLAUDE.md itself is now free of em-dashes.
+- 423 wiki pages rewritten or cleaned: sources 118, myths 67, solutions 50, sectors 43, concepts 41, climate-science 20, ireland-hub 18, standards-labels 16, circularity-waste 15, biodiversity-land 13, legislation-policy 12, climate-finance 6, climate-adaptation 2, eu-hub 1, infographics 1, plus index.md.
+- Own research and translated pages (Fabien's writing): em-dashes replaced only, wording untouched.
+- Every rewritten page checked against the previous commit: no em-dashes in body, title or frontmatter; banned phrases removed; every number, URL and wiki link kept; Myth contract headings intact.
+- Not changed: `wiki/_Archive/` and the history in this log.
+- Fact-check pass (approved as a one-off exception to the keep-every-number rule): 162 factual problems found in the original pages were fixed. Figures that differed between pages now use one consistent approximate figure; errors and outdated claims were corrected against cited sources; arithmetic was fixed. 10 items could not be confirmed and were left unchanged. Full list in `docs/style-sweep-review-2026-10-28.md`.

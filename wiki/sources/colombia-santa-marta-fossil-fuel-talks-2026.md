@@ -9,40 +9,46 @@ metadata:
   published: 2026-04-30
   ingested: 2026-05-29
 summary: "What the source covers, Key facts reported, Context provided, Wiki pages created or updated from this source, Original file, Published, Authors, ~60 countries, more than 50% of global GDP, Absentees, Almost half, roadmaps, Colombia, France, new scientific panel, Second conference, Tuvalu, Ireland"
+updated: 2026-10-28
+related:
+  - santa-marta-fossil-fuel-conference-2026
+  - COP30
 ---
 
-# Source Summary: 'Historic breakthrough' — Colombia Climate Talks, April 2026
+# 'Historic breakthrough': Colombia climate talks, April 2026
 
-**Original file:** `raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md`
-**Published:** 30 April 2026, The Guardian
-**Authors:** Fiona Harvey and Jonathan Watts (reporting from Santa Marta, Colombia)
+**Source:** The Guardian, Fiona Harvey and Jonathan Watts (reporting from Santa Marta, Colombia), 30 April 2026. https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout
 
-## What the source covers
+## What it is
 
-A news article reporting the conclusion of a two-day international climate conference held in Santa Marta, Colombia, co-hosted by Colombia and the Netherlands. The conference brought together nearly 60 countries willing to commit to phasing out fossil fuels and produced agreement on national "roadmaps" as the central tool for doing so.
+A news report on the close of a two-day climate conference in Santa Marta, Colombia, co-hosted by Colombia and the Netherlands. Nearly 60 countries that are willing to commit to phasing out fossil fuels came together.
 
-## Key facts reported
+They agreed that national **roadmaps** should be the main tool for doing it. Each country would set out how it plans to end its production and use of coal, oil and gas.
 
-- **~60 countries** attended; the group is described as a "coalition of the willing"
-- Together they represent **more than 50% of global GDP**, nearly a third of energy demand, and a fifth of fossil fuel supply
-- **Absentees:** US, China, India, Russia, Saudi Arabia, Qatar, UAE
-- **Almost half** of the participating countries are themselves fossil fuel producers
-- Countries asked to develop national **roadmaps** setting out how they will end fossil fuel production and use — voluntary, no set deadlines or format
-- **Colombia** published a draft roadmap during the conference
-- **France** became the first developed country to release a national roadmap for phasing out fossil fuels
-- A **new scientific panel** was set up to advise countries
-- **Second conference** will take place in **Tuvalu**, co-hosted by **Ireland**, early next year (2027)
-- The conference was prompted by frustration with UN climate summits, where fossil fuel interests have repeatedly blocked direct discussion of phaseout
-- Participants committed to working within the UN system toward COP31 in November 2026
-- Quote from Tzeporah Berman (Fossil Fuel Non-Proliferation Treaty Initiative): "Santa Marta represents a historic breakthrough — the first time we bring together a group of nations willing to act."
+## Why it matters
 
-## Context provided
+The meeting grew out of frustration with the UN climate summits. There, fossil fuel interests have repeatedly blocked any direct talk of phasing them out. At COP30 in Belém, in November 2025, fossil fuels were kept out of the final text altogether. Brazil's presidency then announced that the roadmap idea would go ahead outside the UN process.
 
-- The COP30 summit (Belém, November 2025) blocked fossil fuels from its final text; the voluntary roadmap idea was announced by Brazil's presidency to proceed outside the UN process
-- NDCs (Nationally Determined Contributions) are insufficient as roadmaps because they cover only domestic emissions, allowing fossil fuel exporters to sidestep the climate impact of their exports
-- Participants agreed to scrutinise fossil fuel subsidies and collaborate on trade policy and financial reform
+Santa Marta is the first time a group of countries has met specifically to act on that. The roadmaps are voluntary and come with no deadlines or set format, so much depends on what each country actually publishes. Still, the group is large, and almost half of its members produce fossil fuels themselves.
 
-## Wiki pages created or updated from this source
+## Key facts
 
-- [[santa-marta-fossil-fuel-conference-2026]] (new — solutions/energy-transition)
-- [COP30](../legislation-policy/COP30.md) (updated — legislation-policy)
+- About 60 countries attended. The group is described as a "coalition of the willing".
+- Together they represent more than 50% of global GDP, nearly a third of energy demand and a fifth of fossil fuel supply.
+- The US, China, India, Russia, Saudi Arabia, Qatar and the UAE stayed away.
+- Almost half of the participating countries are fossil fuel producers.
+- Colombia published a draft roadmap during the conference. France became the first developed country to release a national roadmap for phasing out fossil fuels.
+- A new scientific panel was set up to advise countries.
+- The second conference will take place in Tuvalu early next year (2027), co-hosted by Ireland.
+
+## Why roadmaps, and what comes next
+
+Countries already file climate plans with the UN, known as NDCs (Nationally Determined Contributions). But these only cover emissions at home. A country that exports oil or gas can leave out the climate impact of everything it sells abroad. The roadmaps are meant to close that gap by covering production as well as use.
+
+Participants also agreed to look closely at fossil fuel subsidies and to work together on trade policy and financial reform. They committed to keep working within the UN system, with COP31 in November 2026 as the next stop.
+
+Tzeporah Berman of the Fossil Fuel Non-Proliferation Treaty Initiative, which campaigns for a global treaty to end fossil fuel expansion, welcomed the outcome: "Santa Marta represents a historic breakthrough, the first time we bring together a group of nations willing to act."
+
+## Sources
+
+- The Guardian, Fiona Harvey and Jonathan Watts, 30 April 2026. https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout

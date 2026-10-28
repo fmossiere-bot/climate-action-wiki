@@ -4,47 +4,50 @@ category: sources
 tags: ["#digital", "#ai", "#plastic", "#greenwashing"]
 sources: ["raw/articles/US environmental groups urge EPA to reject new Pfas to cool datacenters.md"]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-28
 summary: PFAS forever chemicals, Opteon 2P50, Chemours, two-phase cooling, f-gas refrigerant, TFA trifluoroacetic acid, US EPA, Trump executive order fast-track, Earthjustice, Adriana Antezana, Lenny Siegel, Chips Communities United, European Chemical Agency hazardous classification, water cooling alternative, Google two-phase, Fayetteville Works North Carolina, 16000 PFAS compounds, thyroid liver sperm, closed loop fugitive emissions, health risk assessment
+related:
+  - ai-data-centre-energy-crisis
+  - FACTS about Plastic
+  - plastic-mass-balance-greenwashing
+  - Greenwashing
 ---
 
 # US environmental groups urge EPA to reject new PFAS to cool datacentres
 
-**Source:** The Guardian, Tom Perkins, 27 July 2026 — https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa
+**Source:** The Guardian, Tom Perkins, 27 July 2026. https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa
 
 ## What it is
 
-A coalition of **17 environmental groups**, led by **Earthjustice**, has filed formal comments urging the **US EPA to reject Chemours' application** to fast-track approval of **Opteon 2P50**, a new PFAS ("forever chemical") intended for use in **"two-phase" datacentre cooling systems**. The chemical is the **first for which industry has asked the Trump EPA to fast-track approval** under a legally dubious executive order calling for expedited review of datacentre chemicals. The comments accuse Chemours of using bad science to downplay both the toxicity and the climate risk.
+A coalition of 17 environmental groups, led by Earthjustice, has asked the US Environmental Protection Agency (EPA) to turn down a request from the chemical company Chemours. Chemours wants fast-track approval for **Opteon 2P50**, a new PFAS ("forever chemical") designed to cool datacentres in so-called two-phase cooling systems.
 
-## Key facts cited
-
-- **PFAS** are a class of **~16,000 compounds** that do not naturally break down and accumulate in bodies and the environment; linked to cancer, liver disease, kidney issues, high cholesterol, birth defects and decreased immunity
-- **Two-phase datacentre cooling** uses PFAS gas (**f-gas**) as a refrigerant coolant, run through copper tubing — presented by Google and others as a **low-water alternative** to conventional cooling
-- **Opteon 2P50** is the first chemical fast-tracked under Trump's datacentre-chemicals executive order
-- **f-gas is not intentionally released** during operation, but there are **fugitive emissions** (leaks) and it must be disposed of at end of life
-- Chemours argues f-gas breaks down in the atmosphere into **TFA (trifluoroacetic acid)**, which the industry positions as harmless
-- **TFA is considered a PFAS in most of the world, but not by the US EPA**. Recent research (chemrxiv preprint) finds it more toxic than previously thought
-- **European Chemical Agency (July 2026)** classified TFA as a hazardous chemical: probable thyroid disruption, reduced sperm quality, liver toxicity
-- Earthjustice's technical objections include Chemours relying on a type of lab rat **less affected by PFAS toxicity than humans**, missing toxicological data, and use of an industry-funded science group (**Tera**) to set the workplace exposure limit
-- Chemours has a history of pollution around its plants (including PFAS releases in North Carolina) and US drinking water is already widely contaminated with PFAS
-
-## Notable voices
-
-- **Lenny Siegel** (Chips Communities United): *"The datacenter industry knows it is under fire for its enormous use of water so they cast themselves as the good guys by using alternative cooling, but they're not telling [the public] that they're using hazardous chemicals. Some are toxic, some are greenhouse gases and some are both."*
-- **Adriana Antezana** (Earthjustice scientist): *"We're worried that the EPA may interpret 'priority review' as 'priority approval', and we need to remind them that the executive order has no bearing on assessing health risk."*
-- **Chemours** (statement): the comments failed to acknowledge that two-phase systems are a "closed loop" with low fugitive emissions; the "EPA's new chemicals review is a rigorous evaluation process."
+It is the first chemical for which industry has asked the Trump EPA for a fast track. The request relies on an executive order calling for quicker review of chemicals used in datacentres, an order the groups consider legally doubtful. In their formal comments, they accuse Chemours of using poor science to play down both the health risks and the climate risks.
 
 ## Why it matters
 
-Data centre cooling has been framed almost entirely as a **water-vs-heat problem**. This piece opens a third dimension: **the chemistry of the "waterless" alternative**. If two-phase cooling scales as Google and others intend, and if the coolant is a PFAS that breaks down into TFA which then contaminates drinking water at scale, the AI buildout becomes a public-health story as well as a grid and water story. There is a specific legal angle too: if the EPA fast-tracks Opteon 2P50 without properly assessing health risk, Earthjustice has signalled it will sue, potentially testing the limits of Trump's executive order.
+Debate about datacentre cooling has mostly been about water and heat. Cooling servers with water uses huge amounts of it, so companies like Google are promoting "waterless" two-phase systems instead. This story adds a third question: what chemicals do those systems rely on?
 
-## Tone and angle
+If two-phase cooling spreads, and the coolant is a PFAS that breaks down into another persistent chemical which ends up in drinking water, the growth of AI becomes a public health issue as well as a question of power and water. There is a legal side too. Earthjustice has signalled that it will sue if the EPA approves Opteon 2P50 without properly assessing the health risks, which could test how far Trump's executive order can go.
 
-Environment-desk reporting. Well-sourced (formal EPA comments quoted; ECHA July 2026 classification; chemrxiv preprint). Notably includes Chemours' side ("closed loop", "rigorous review") without laundering it.
+## Key facts
 
-## How it connects to the wiki
+- PFAS are a family of about **16,000 compounds** that do not break down naturally and build up in bodies and the environment. They are linked to cancer, liver disease, kidney problems, high cholesterol, birth defects and weaker immunity.
+- Two-phase cooling runs a PFAS gas, known as an **f-gas**, through copper tubing as a coolant. Google and others present it as a low-water alternative to conventional cooling.
+- Opteon 2P50 is the first chemical fast-tracked under Trump's executive order on datacentre chemicals.
+- The f-gas is not released on purpose during normal use. But it leaks in small amounts (known as fugitive emissions), and it has to be disposed of when the equipment is retired.
+- Chemours says the f-gas breaks down in the air into TFA (trifluoroacetic acid), which the industry presents as harmless. Most of the world counts TFA as a PFAS, but the US EPA does not. A recent preprint on chemrxiv finds it more toxic than previously thought.
+- In July 2026 the European Chemicals Agency classified TFA as hazardous, citing probable harm to the thyroid, lower sperm quality and liver toxicity.
+- Earthjustice's technical objections include Chemours testing on a type of lab rat that is less affected by PFAS than humans are, missing toxicology data, and relying on an industry-funded science group, Tera, to set the safe exposure limit for workers.
+- Chemours has a history of pollution around its plants, including PFAS releases in North Carolina, and US drinking water is already widely contaminated with PFAS.
 
-- Updates `wiki/sectors/digital/ai-data-centre-energy-crisis.md` with a new "chemistry of alternative cooling" section
-- Complements `wiki/circularity-waste/FACTS about Plastic.md` (PFAS = fossil fuel-derived chemistry)
-- Complements `wiki/circularity-waste/plastic-mass-balance-greenwashing.md` (parallel "industry sets its own rules" pattern)
-- Reinforces `wiki/concepts/key-ideas/Greenwashing.md`
+## Voices in the piece
+
+Lenny Siegel, of the campaign group Chips Communities United, says the industry is dressing up a chemical problem as a green solution: "The datacenter industry knows it is under fire for its enormous use of water so they cast themselves as the good guys by using alternative cooling, but they're not telling [the public] that they're using hazardous chemicals. Some are toxic, some are greenhouse gases and some are both."
+
+Adriana Antezana, a scientist at Earthjustice, worries about how the fast track will be used: "We're worried that the EPA may interpret 'priority review' as 'priority approval', and we need to remind them that the executive order has no bearing on assessing health risk."
+
+Chemours replied that the comments failed to recognise that two-phase systems are a "closed loop" with low leakage, and that the "EPA's new chemicals review is a rigorous evaluation process."
+
+## Sources
+
+- The Guardian, Tom Perkins, 27 July 2026. https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa

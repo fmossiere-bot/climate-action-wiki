@@ -2,9 +2,9 @@
 title: "Myth: Heavy EVs produce more pollution from tyres and brakes than petrol cars"
 category: myths
 tags: ["#myth", "#ev", "#transport", "#research"]
-sources: ["MIT Technology Review, huge EVs — https://www.technologyreview.com/2023/02/16/1068708/huge-evs-safety-climate/", "Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"]
+sources: ["MIT Technology Review, huge EVs. https://www.technologyreview.com/2023/02/16/1068708/huge-evs-safety-climate/", "Carbon Brief, 21 EV myths factchecked. https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "non-exhaust emissions, tyre wear, brake wear, particulate matter, PM2.5, regenerative braking, vehicle weight, Hummer EV, Toyota Corolla, 341 grams per mile, 269 grams per mile, SUV, air quality, road dust"
 claim_id: ev-weight-tyres
@@ -18,21 +18,23 @@ topic: transport
 
 ## Say this
 
-Tyre dust is a real problem, and a petrol car has tyres and brakes plus an exhaust. If the worry is heavy vehicles, the target is huge cars, not electric ones.
+Tyre dust is a real problem, but a petrol car has tyres and brakes too, plus an exhaust. If the worry is heavy vehicles, the target should be huge cars, whatever powers them.
 
 ## Why it sounds right
 
-Heavier vehicles do wear tyres faster, and tyre and road dust is a genuine air quality problem that gets far less attention than exhaust fumes. This one has a real core.
+Heavier vehicles do wear their tyres faster, and dust from tyres and roads is a real air quality problem that gets far less attention than exhaust fumes. This one has a solid core.
 
 ## What is actually true
 
-The comparison is usually stacked, though. A petrol car has tyre wear and brake wear too, and an exhaust pipe on top of it. EVs also use regenerative braking, which does most of the slowing with the motor and cuts brake dust sharply. Where the argument has genuine force is on size rather than drivetrain: a Hummer EV is responsible for about 341 grams of CO2 per mile, more than a petrol Toyota Corolla at 269 grams, per a 2022 Quartz analysis. The honest version of this point is an argument against enormous cars, not against electric ones.
+The comparison is usually lopsided, though. A petrol car also wears its tyres and brakes, and has an exhaust pipe on top. EVs use **regenerative braking**, where the motor does most of the slowing down, which cuts brake dust a lot.
+
+Where the argument does have force is on size, whatever the engine. A Hummer EV is responsible for about 341 grams of CO2 per mile, more than a petrol Toyota Corolla at 269 grams, according to a 2022 Quartz analysis. The fair version of this point is an argument against enormous cars, and it applies to petrol ones as much as electric ones.
 
 ## If they push back
 
 **"So you admit big EVs are bad"**
 
-Yes, a two and a half tonne electric SUV is a bad answer. So is a two and a half tonne petrol one. Smaller cars win either way.
+Yes, a two and a half tonne electric SUV is a poor answer. So is a two and a half tonne petrol one. Smaller cars win either way.
 
 ## Also heard as
 
@@ -47,5 +49,5 @@ Yes, a two and a half tonne electric SUV is a bad answer. So is a two and a half
 
 ## Sources
 
-- MIT Technology Review, huge EVs — https://www.technologyreview.com/2023/02/16/1068708/huge-evs-safety-climate/
-- Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/
+- MIT Technology Review, huge EVs. https://www.technologyreview.com/2023/02/16/1068708/huge-evs-safety-climate/
+- Carbon Brief, 21 EV myths factchecked. https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/

@@ -5,7 +5,7 @@ tags: ["#myth"]
 sources:
   - Hannah Ritchie, Not the End of the World (2024)
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-10-28
 cover_image: ""
 summary: renewable land use, nuclear 0.3 m2 per MWh, gas 1, rooftop solar 3, ground solar 13 to 19, coal 15, hydro 33, wind direct 0.1% visual 2-3%, US 1-6% solar 5-22% wind visual, EU 3% solar 15% wind, bioethanol 2.5% US land 10% of petrol needs, half of habitable land is farmland, rooftop first, offshore wind, community partnerships, Hannah Ritchie
 claim_id: renewables-take-too-much-land
@@ -25,15 +25,15 @@ related:
 
 ## Say this
 
-They need some land, but far less than most people think, and much less than fossil fuel systems when you include mining and drilling. Powering the whole world with solar would need about 0.5% of global land — much less than the half of habitable land we already use for farming. The exceptions are tiny crowded countries like Singapore. For everyone else, it's a manageable share of land.
+They need some land, but much less than people think: powering the whole world with solar would take about 0.5% of the world's land, compared with the half of habitable land we already use for farming. Apart from tiny crowded places like Singapore, it's a manageable share.
 
 ## Why it sounds right
 
-Because it's easy to make it look scary in a photo. A picture of a field covered in solar panels, or a ridge full of turbines, activates the "they're taking over" reaction — especially in countries with strong landscape traditions. What the photo can't show you is how much power those panels produce, or how much land coal and gas actually use once mining, drilling and infrastructure are counted.
+It's easy to make it look alarming in a photo. A field covered in solar panels, or a ridge lined with turbines, can feel like the countryside is being taken over, especially in countries that care deeply about their landscapes. What the photo can't show is how much power those panels make, or how much land coal and gas really use once mining, drilling and their infrastructure are counted.
 
 ## What is actually true
 
-Land use per unit of electricity, roughly (m² per MWh, including mining and grid):
+Here is roughly how much land each source uses per unit of electricity, in square metres per MWh, including mining and the grid:
 
 | Source | m² per MWh |
 |---|---|
@@ -45,40 +45,39 @@ Land use per unit of electricity, roughly (m² per MWh, including mining and gri
 | Solar (ground, silicon) | 19 |
 | Hydropower | 33 |
 
-- **Nuclear** is the most land-efficient way to make power.
-- **Rooftop solar** barely uses any new land — it sits on buildings that already exist.
-- **Coal** actually uses more land than most solar farms once mining and ash disposal are counted.
-- **Hydropower** is often the highest land-use source because reservoirs flood large areas.
+- Nuclear is the most land-efficient way to make electricity.
+- Rooftop solar uses almost no new land, because it sits on buildings that already exist.
+- **Coal uses more land** than most solar farms once its mines and ash dumps are counted.
+- Hydropower is often the most land-hungry source, because reservoirs flood large areas.
 
-Wind is a special case:
-- **Direct land use** (the small patch where the turbine actually stands): tiny — well under 0.1% of land
-- **Visual footprint** (the whole area you can see turbines): 2-3% of the world if we did everything with wind
-- **But wind farmland is dual-use**: farmers grow crops and graze animals right up to the turbine base and get extra income from the power
+Wind is a special case. The land a turbine stands on directly is tiny, well under 0.1% of land even at large scale. Its visual footprint (all the area from which you can see turbines) would be 2-3% of the world's land if we got everything from wind. And land under turbines can still be farmed: crops and animals go right up to the base, and the farmer earns extra income from the power.
 
-Powering the whole world with a single source (theoretical):
-- **Nuclear**: <0.01% of land
-- **Wind (direct)**: <0.1% of land
-- **Solar**: ~0.5% of land
-- **Wind (visual)**: 2-3%, up to 10-15% in small crowded countries
+If the whole world ran on a single source, in theory it would need:
 
-Country examples:
-- **US** could decarbonise with **1-6% of land in solar** and **5-22% wind visual footprint**
-- **EU** could hit net zero with **3% of land in solar** and up to **15% wind visual footprint**. Just **1% of land as solar** would already cover EU electricity demand today.
-- **South Korea** and **Singapore** — genuinely too small and dense for a renewables-only path. Rare exceptions, not the norm.
+- Nuclear: less than 0.01% of land
+- Wind (direct footprint): less than 0.1% of land
+- Solar: about 0.5% of land
+- Wind (visual footprint): 2-3%, rising to 10-15% in small, crowded countries
+
+Some country examples:
+
+- The US could decarbonise with 1-6% of its land under solar and a wind visual footprint of 5-22%.
+- The EU could reach net zero with 3% of its land under solar and a wind visual footprint of up to 15%. Just **1% of land as solar** would already cover the EU's electricity demand today.
+- South Korea and Singapore really are too small and dense for a path based only on renewables. They are rare exceptions, not the rule.
 
 ## If they push back
 
 **"But the photos of fields of solar panels look terrible."**
 
-Framing matters. **The US uses 2.5% of its land to grow crops for bioethanol** — an area the size of the UK — and that only covers 10% of the country's petrol needs. Using the same land for solar would generate enough electricity to power the entire US **two to three times over**. Nobody panics about the bioethanol land use because it looks like a normal cornfield.
+It depends what you compare them with. The US uses **2.5% of its land** to grow crops for bioethanol, an area the size of the UK, and that covers only 10% of the country's petrol needs. The same land under solar would produce enough electricity to power the entire US two to three times over. Nobody worries about the bioethanol land because it looks like an ordinary maize field.
 
 **"Rural people don't want turbines in their view."**
 
-Legitimate concern. The fix is **fair community partnerships**: co-owned projects, discounted electricity for nearby residents, transparent siting processes. Where communities benefit, opposition drops. Where projects are imposed by distant developers with no local upside, opposition is fierce.
+That's a fair concern. What helps is fair partnership with local communities: projects they co-own, cheaper electricity for people who live nearby, and open, transparent decisions on where turbines go. Where communities share the benefits, opposition drops. Where distant developers impose projects with nothing in it for local people, opposition is fierce.
 
 **"We're taking farmland for panels."**
 
-Some farmland is being converted, but it's a small share of total farmland. And a lot of large-scale solar is being deliberately sited on lower-quality land, brownfields, and post-industrial sites. Rooftops and car parks can absorb a big share of demand without any farmland conversion.
+Some farmland is being converted, but it's a small share of the total. Many large solar farms are deliberately placed on poorer land, brownfield sites and old industrial land. Rooftops and car parks can take a big share of demand without touching farmland at all.
 
 ## Also heard as
 
@@ -91,15 +90,15 @@ Some farmland is being converted, but it's a small share of total farmland. And 
 
 ## Go deeper
 
-**Rooftop first is the underused answer.** Rooftop solar barely counts as land use because the roof already exists. Every commercial building, car park, warehouse and industrial site is a potential solar surface. Rooftop is more expensive per panel than utility-scale solar farms, so it doesn't cover all needs, but it can absorb a very large share of demand without new land conversion at all.
+**Rooftops first.** Rooftop solar barely counts as land use, because the roof is already there. Every office, car park, warehouse and industrial site is a possible solar surface. Rooftop panels cost more per panel than large solar farms, so they can't cover everything, but they can meet a large share of demand without using any new land.
 
-**Offshore wind avoids the visual argument entirely.** In coastal countries like the UK, the Netherlands and Denmark, offshore wind is now a major contributor. Some coastal and island communities still object to seeing turbines from the beach, but no farmland is displaced.
+**Offshore wind sidesteps the view argument.** In coastal countries such as the UK, the Netherlands and Denmark, offshore wind is now a major source of power. Some coastal and island communities still object to seeing turbines from the beach, but no farmland is lost.
 
-**The half-of-land comparison.** Half of Earth's habitable land is already used for farming. Renewables scaling to 3-5% of land in the most demanding scenarios is a fraction of the land we already use to grow food. The "renewables will take over the planet" framing doesn't survive the numbers.
+**The comparison with farming.** Half of the Earth's habitable land is already used for farming. Even in the most demanding scenarios, renewables would use 3-5% of land, a fraction of what we already use to grow food. The idea that renewables will take over the planet doesn't hold up against the numbers.
 
-**Where the case is weaker.** Very small, very dense countries (Singapore, South Korea, parts of coastal Japan) genuinely struggle to fit enough renewables domestically. For these, imports via long-distance power lines and cross-border grid links are the answer. Everywhere else, land isn't the binding constraint.
+**Where the case is weaker.** Very small, very dense countries (Singapore, South Korea, parts of coastal Japan) do struggle to fit enough renewables within their own borders. For them, the answer is importing power through long-distance lines and cross-border grid links. Everywhere else, land isn't what holds renewables back.
 
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- Our World in Data — Land use per unit of energy
+- Our World in Data, Land use per unit of energy

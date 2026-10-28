@@ -13,7 +13,7 @@ related:
   - What is the Circular Economy
 ---
 
-> **Editorial summary:** Reuse — as opposed to recycling — is emerging as one of the most concrete ways for French construction to cut its carbon footprint. Ademe estimates a **30–40% cut** is achievable if doors, tiles, sanitary ware, panels and other elements are taken straight from demolition sites and refitted into new projects. This page files the original own-research write-up on the topic, drawing on Ecologie360 (2025) and covering the Blanchemaille project in Roubaix, Engie's new head office, RE2020 policy support, and the practical bottlenecks (insurance, certification, supply/demand matching). It sits alongside [Cement and Concrete — A Hidden Climate Problem](../industry/Cement and Concrete - A Hidden Climate Problem.md), [Bio-based resins and composites](../industry/bio-based-resins-composites.md), and the [Bamboo for construction update](../../solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md).
+> **Editorial summary:** Reuse (as opposed to recycling) is emerging as one of the most concrete ways for French construction to cut its carbon footprint. Ademe estimates a **30–40% cut** is achievable if doors, tiles, sanitary ware, panels and other elements are taken straight from demolition sites and refitted into new projects. This page files the original own-research write-up on the topic, drawing on Ecologie360 (2025) and covering the Blanchemaille project in Roubaix, Engie's new head office, RE2020 policy support, and the practical bottlenecks (insurance, certification, supply/demand matching). It sits alongside [Cement and Concrete: A Hidden Climate Problem](../industry/Cement and Concrete - A Hidden Climate Problem.md), [Bio-based resins and composites](../industry/bio-based-resins-composites.md), and the [Bamboo for construction update](../../solutions/nature-based-solutions/The incredible environmental properties of Bamboo.md).
 
 ## Key figures at a glance
 
@@ -45,4 +45,4 @@ Reuse began in the office and retail sector, where budgets and timelines leave m
 
 ## Source
 
-- Ecologie360 (2025) — French monthly on ecological transition, republished from own-research notes
+- Ecologie360 (2025), French monthly on ecological transition, republished from own-research notes

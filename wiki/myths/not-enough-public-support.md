@@ -7,7 +7,7 @@ sources:
   - University of Bonn / Nature Climate Change survey of 130,000 people, 125 countries
   - Yale Program on Climate Change Communication
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-28
 cover_image: ""
 summary: public support climate action, pluralistic ignorance, 86% humans causing climate change, 89% want more political action, 74% US join international action, 93% EU serious problem, 62% to 97% government not doing enough, Americans underestimate support, majority illusion, climate communication, Hannah Ritchie, silent majority, doom media, solutions journalism
 claim_id: not-enough-public-support
@@ -26,37 +26,37 @@ related:
 
 ## Say this
 
-Most people, in every country surveyed, want climate action. Around 86% of people worldwide agree humans are causing climate change, and about 89% want more political action. The catch is that almost everyone underestimates how many others agree with them. Americans guess a third of their countrymen support climate action; the real number is closer to two thirds. The silent majority thinks it is the minority. That is fixable.
+Most people in every country surveyed want climate action: about 86% agree humans are causing climate change and around 89% want more political action. The catch is that we all underestimate how many others agree with us, so the silent majority thinks it's the minority.
 
 ## Why it sounds right
 
-Because the media environment makes it feel like nobody agrees on anything. Every news cycle features a fresh climate protest and a fresh backlash, an oil-industry lobbyist and a Greta Thunberg quote, a viral tweet from a climate denier and another from a climate doomer. If your only exposure is X, cable news or partisan headlines, it looks like a 50-50 shouting match. Politicians and industry executives repeat this framing because it is convenient: if the public is split, doing nothing is a defensible position.
+The news makes it feel as if nobody agrees on anything. Every week brings a climate protest and a backlash, an oil lobbyist and a Greta Thunberg quote, a viral post from a denier and another from a doomer. If most of what you see comes from X, cable news or partisan headlines, it looks like a 50-50 shouting match. Some politicians and industry executives repeat that framing because it suits them: if the public is split, doing nothing looks defensible.
 
 ## What is actually true
 
-Multiple large international surveys keep finding overwhelming, cross-country majorities in favour of climate action:
+Large international surveys keep finding big majorities for climate action, country after country.
 
-- **63-country survey (59,000 people)**: **86% think humans are causing climate change** and see it as a serious threat. Nearly three quarters back specific policies — carbon taxes, more public transport, renewables, EV chargers, airline taxes.
-- **125-country survey (130,000 people)**: **89% want more political action**. **86% think people in their country should try to fight climate change**.
-- **United States** (often assumed to be the outlier): **74%** think the US should join international climate action; **71%** say climate change is already causing harm to Americans.
-- **European Union**: **93%** see climate change as a serious problem; over two-thirds think their government is not doing enough.
-- Across countries, the share who want their government to do more ranges from **97% in China down to 62% in Finland**. **Most countries land above 80%**.
+- A 63-country survey of 59,000 people found **86% think humans are causing climate change** and see it as a serious threat. Nearly three quarters back specific policies such as carbon taxes, more public transport, renewables, EV chargers and airline taxes.
+- A 125-country survey of 130,000 people found 89% want more political action, and 86% think people in their country should try to fight climate change.
+- In the United States, often assumed to be the outlier, 74% think the US should join international climate action and 71% say climate change is already harming Americans.
+- In the European Union, 93% see climate change as a serious problem, and over two-thirds think their government is not doing enough.
+- The share who want their government to do more ranges from 97% in China down to 62% in Finland. Most countries are above 80%.
 
-The **perception gap** is the real story. When asked to estimate how many others support climate action, people consistently guess about half the real number. Americans guessed roughly a third supported climate action, versus the real figure of around two thirds. Climate supporters think they are the minority. They are, in fact, the majority almost everywhere.
+The bigger issue is the perception gap. Asked how many others support climate action, people guess about half the real number. Americans guessed that roughly a third supported it, when the real figure is around two thirds. Climate supporters think they're in the minority, when in almost every country they're the majority.
 
 ## If they push back
 
 **"If people really supported action, they'd vote for it."**
 
-They often do, and the party landscape mostly does not reflect the size of the majority. Perception gap and party alignment are two separate problems. In elections where climate is on the ballot as a specific proposal, it usually wins (California, several EU referenda). Where it is bundled with other issues, party loyalty dominates and the climate question is hard to read from the result.
+They often do, but party politics rarely reflects the size of that majority. When climate is on the ballot as a specific proposal, such as in California or several EU referenda, it usually wins. When it's bundled with other issues, party loyalty tends to decide the result.
 
 **"Support is one thing, willingness to pay is another."**
 
-Fair, and this is one of the real tensions. But the surveys also test willingness to accept specific policies (carbon taxes, airline levies, home retrofits) and majorities remain — especially where the policy is designed to protect lower-income households. What people reject is being asked to pay while a small number at the top pay nothing.
+That's fair, and it's a real tension. But the surveys also ask about specific policies like carbon taxes, airline levies and home retrofits, and majorities still back them, especially when the policy protects lower-income households. What people reject is being asked to pay while a few at the top pay nothing.
 
 **"The US is different."**
 
-Less than you think. **74% of Americans support the US joining international climate action**; **71% say Americans are already being harmed by climate change**. What is unusual about the US is not the level of public support, it is the gap between public opinion and political outcomes.
+Less than you'd think. 74% of Americans support the US joining international climate action, and 71% say Americans are already being harmed by climate change. What stands out in the US is the gap between public opinion and political outcomes, rather than the level of support.
 
 ## Also heard as
 
@@ -70,21 +70,21 @@ Less than you think. **74% of Americans support the US joining international cli
 
 ## Go deeper
 
-**Pluralistic ignorance** is the technical term for what is going on here. It is the situation where most people privately hold a view but incorrectly believe most others disagree, so they stay quiet. Once the real distribution becomes visible, the norm shifts fast. The climate version of this has been documented most clearly by the **Yale Program on Climate Change Communication** and a 2022 *Nature Communications* paper by Sparkman, Geiger and Weber.
+The technical term for this is **pluralistic ignorance**: most people privately hold a view but wrongly believe most others disagree, so they stay quiet. Once people see the real picture, the norm can shift quickly. The climate version has been documented most clearly by the Yale Program on Climate Change Communication and by a 2022 *Nature Communications* paper by Sparkman, Geiger and Weber.
 
-**What the author suggests to close the gap.** Ritchie's practical advice, backed by climate-communication research:
+Ritchie offers practical advice for closing the gap, backed by climate communication research:
 
-- Read less mainstream and social media, both of which reward controversy and division over base rates
-- Read fewer but higher-quality news roundups (weekly digests from trusted outlets)
-- Talk to real people about it, in person, because it normalises the topic
+- Spend less time on mainstream and social media, which reward controversy and division over the bigger picture
+- Read fewer but better news roundups, such as weekly digests from trusted outlets
+- Talk to real people about it, in person, because that makes the topic normal
 - Focus on solutions rather than doom headlines, especially in journalism
-- Lead by visible action yourself — climate behaviour is locally contagious
+- Act visibly yourself, because climate behaviour spreads locally
 
-**Why this matters strategically.** If most people already agree on the goal, the political fight is not about persuasion — it is about **making the majority visible**. That reframes what climate campaigning has to do: less "convincing sceptics", more "helping supporters realise they are not alone".
+This changes what campaigning needs to do. If most people already agree on the goal, the task is less about convincing sceptics and more about making the majority visible, so supporters realise they're not alone.
 
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- Andre P., Boneva T., Chopra F., Falk A. (2024) *Globally representative evidence on the actual and perceived support for climate action*, *Nature Climate Change* — the 130,000-person, 125-country survey
-- Sparkman G., Geiger N., Weber E. (2022), *Nature Communications* — pluralistic ignorance about climate support
-- Yale Program on Climate Change Communication — Climate Opinion Maps
+- Andre P., Boneva T., Chopra F., Falk A. (2024) *Globally representative evidence on the actual and perceived support for climate action*, *Nature Climate Change*. The 130,000-person, 125-country survey
+- Sparkman G., Geiger N., Weber E. (2022), *Nature Communications*. Pluralistic ignorance about climate support
+- Yale Program on Climate Change Communication. Climate Opinion Maps

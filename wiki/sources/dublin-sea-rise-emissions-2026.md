@@ -4,55 +4,53 @@ category: sources
 tags: ["#ireland", "#adaptation", "#transport", "#ai", "#digital"]
 sources: ["raw/articles/Dublin faces complex emissions challenges as sea rises twice as fast as global average.md"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-10-28
 summary: Dublin emissions, Dublin sea level rise 7-8mm per year, Dublin Bay double global rate, Portrane Beach SeaBees, Voluntary Homeowners Relocation Scheme, planned retreat, East Coast Railway Infrastructure Protection, DART, Storm Bram, Dublin Cycling Campaign, Siobhán McNamara, Sabrina Dekker, Richard Fitzpatrick, Fionnghuala Ryan, data centres 7% Dublin city, 46% south county Dublin, Clondalkin Balbriggan Ballymun Ringsend decarbonisation zones, Micheál Martin data centres, Eamon Ryan AI opportunity
+related:
+  - Ireland Climate Adaptation
+  - IRELAND Data Centre Dilemna
+  - IRELAND Transport Emissions
+  - home-cooling-heatwaves
 ---
 
 # Dublin faces complex emissions challenges as sea rises twice as fast as global average
 
-**Source:** Irish Independent, Liam Coates and Azmia Riaz (with Shauna Corr), 29 January 2026 — funded by the Local Democracy Reporting Scheme
-**URL:** https://www.independent.ie/county/dublin/dublin-faces-complex-emissions-challenges-as-sea-rises-twice-as-fast-as-global-average/a/126667590.html
+**Source:** Irish Independent, Liam Coates and Azmia Riaz (with Shauna Corr), 29 January 2026. Funded by the Local Democracy Reporting Scheme. https://www.independent.ie/county/dublin/dublin-faces-complex-emissions-challenges-as-sea-rises-twice-as-fast-as-global-average/a/126667590.html
 
 ## What it is
 
-A local-democracy long-read on **Dublin's climate story**, running two threads in parallel: **rising sea levels and coastal erosion around the city**, and **the county's emissions profile** dominated by transport, household heating, commercial activity and — increasingly — data centres. The piece stitches together the four Dublin local authorities (DCC, DLRCC, FCC, SDCC) and quotes council climate officers, cycling campaigners, and central government figures.
+A long local news piece on Dublin's climate story, which it tells in two parts. The first is the rising sea and the erosion eating at the city's coast. The second is where the county's emissions come from: transport, home heating, businesses and, more and more, data centres.
 
-## Key facts cited
-
-- Water levels in **Dublin Bay are rising at 7–8 mm/year, roughly double the global rate (3–4 mm/year)**
-- Combined 2018 emissions of Dublin's four councils: **6.4 million tonnes CO₂** — about 10 million round-trip flights Dublin→Athens
-- **36% of Dublin's emissions come from transport**
-- **Data centres** = **7% of Dublin city's emissions**; **46% of south county Dublin's emissions** (data centres + commercial facilities combined)
-- Data centres nationally use **~20% of Ireland's national grid electricity** and huge amounts of water for cooling
-- The **Voluntary Homeowners Relocation Scheme** (2017): 174 potentially eligible homes; only **31 offers made** and **20 accepted** by September 2024
-- **€230 million East Coast Railway Infrastructure Protection Projects** — DLRCC and Irish Rail working together on protecting the DART line from coastal flooding
-- Decarbonisation zones named: **Clondalkin** (SDCC), **Balbriggan** (FCC), **Ballymun and Ringsend** (DCC), 7 km stretch between Blackrock and Dún Laoghaire (DLRCC)
-- SDCC passed a motion in September 2025 calling for a **nationwide data-centre ban**
-
-## Political context
-
-- **Taoiseach Micheál Martin** rejects the "demonisation of data centres" and says a moratorium on AI is not an option
-- **Eamon Ryan** (former Green Party leader, former environment minister) frames the "AI revolution" as an opportunity if Ireland can develop zero-emissions data centres
-- **Councillor Jess Spear (SDCC)** publicly critical: "All the indications suggest this government is not going to take climate change seriously, and none more than their approach towards data centres."
-
-## Voices from the councils
-
-- **Sabrina Dekker** (DCC regional climate action coordinator): authorities will soon have to grapple with **coastal property acquisition** — "planned retreat" — as an alternative to endless flood defence spending; the emotional cost is real ("their family's been here for generations and this is their identity")
-- **Richard Fitzpatrick** (DLRCC climate action officer): the DART line is a critical piece of infrastructure exposed to coastal flooding — "a double whammy" if the rail network is not protected
-- **Fionnghuala Ryan** (SDCC climate action coordinator): "increased rainfall and severe rainstorms" now driving parks, rivers and canals to be used as buffer zones and natural drainage
-- **Siobhán McNamara** (Dublin Cycling Campaign): active-travel department teams are effective when resourced, but progress on the cycle network has been "very slow"
+The reporters cover all four Dublin councils: Dublin City (DCC), Dún Laoghaire-Rathdown (DLRCC), Fingal (FCC) and South Dublin (SDCC). They talk to council climate officers, cycling campaigners and national politicians.
 
 ## Why it matters
 
-The article stitches the **two halves of Dublin's climate story** together — the coastline running out ahead of us, and the emissions inventory that has to be brought down. Both are conventional, but the piece makes concrete what "planned retreat" and "coastal property acquisition" would mean politically for a city where large residential communities sit right on the coast. It also highlights the awkward geography of Ireland's data-centre problem: the same south Dublin local authority that hosts the biggest cluster of them is the one calling for a nationwide ban.
+Water in Dublin Bay is rising at about twice the global rate. The piece makes concrete what "planned retreat" would mean in a city where whole communities live right on the coast: councils buying homes so people can move away, rather than paying for flood defences forever. For the families involved, that is a loss of home and identity, not only a line in a budget.
 
-## Tone and angle
+It also brings out an awkward fact about Ireland's data centres. South Dublin hosts the biggest cluster of them, and it is the same council that has called for a nationwide ban on them.
 
-Straight local reporting with civic-service-journalism framing. Not editorialising; lots of officers quoted; the framing is that this is a slow-moving crisis being managed largely at council level while central government debates data-centre policy.
+## Key facts
 
-## How it connects to the wiki
+- Water levels in Dublin Bay are rising by **7–8 mm a year**, roughly double the global rate of 3–4 mm a year.
+- In 2018 the four Dublin councils together emitted 6.4 million tonnes of CO2, about the same as 10 million return flights from Dublin to Athens.
+- 36% of Dublin's emissions come from transport.
+- Data centres make up 7% of Dublin city's emissions. In south county Dublin, data centres and commercial buildings together make up 46%.
+- Nationally, data centres use about 20% of Ireland's grid electricity, plus large amounts of water for cooling.
+- The Voluntary Homeowners Relocation Scheme (2017) found 174 homes that might qualify. By September 2024 only 31 offers had been made and 20 accepted.
+- The €230 million East Coast Railway Infrastructure Protection Projects bring DLRCC and Irish Rail together to protect the DART line from coastal flooding.
+- Named decarbonisation zones: Clondalkin (SDCC), Balbriggan (FCC), Ballymun and Ringsend (DCC), and a 7 km stretch between Blackrock and Dún Laoghaire (DLRCC).
+- In September 2025 SDCC passed a motion calling for a nationwide data centre ban.
 
-- Updates `wiki/ireland-hub/IRELAND Climate Adaptation.md` (or its DRAFT equivalent) with the 7–8 mm/year Dublin Bay figure and planned-retreat framing
-- Updates `wiki/ireland-hub/IRELAND Data Centre Dilemna.md` — adds the Dublin city 7% and south county 46% share, plus SDCC's nationwide ban motion
-- Complements `wiki/ireland-hub/IRELAND Transport Emissions.md` (36% of Dublin emissions from transport)
-- Feeds into `wiki/climate-adaptation/home-cooling-heatwaves.md` and the wider adaptation strand
+## Voices in the piece
+
+At national level, the debate is about data centres. Taoiseach Micheál Martin rejects what he calls the "demonisation of data centres" and says a moratorium on AI is not an option. Eamon Ryan, former Green Party leader and former environment minister, sees the "AI revolution" as an opportunity, provided Ireland can build zero-emission data centres. Councillor Jess Spear of SDCC is sharply critical: "All the indications suggest this government is not going to take climate change seriously, and none more than their approach towards data centres."
+
+Council officers describe the work on the ground. Sabrina Dekker, Dublin City Council's regional climate action coordinator, says councils will soon have to face buying coastal property, so-called planned retreat, instead of spending without end on flood defences. She is clear about the human cost: "their family's been here for generations and this is their identity."
+
+Richard Fitzpatrick, climate action officer at DLRCC, points to the DART line as vital infrastructure exposed to coastal flooding, and calls it "a double whammy" if the railway is not protected. Fionnghuala Ryan, SDCC's climate action coordinator, says "increased rainfall and severe rainstorms" mean parks, rivers and canals are now being used as buffer zones and natural drainage.
+
+Siobhán McNamara of the Dublin Cycling Campaign says council active travel teams work well when they have the resources, but progress on the cycle network has been "very slow".
+
+## Sources
+
+- Irish Independent, Liam Coates and Azmia Riaz (with Shauna Corr), 29 January 2026. https://www.independent.ie/county/dublin/dublin-faces-complex-emissions-challenges-as-sea-rises-twice-as-fast-as-global-average/a/126667590.html

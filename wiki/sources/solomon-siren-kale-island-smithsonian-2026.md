@@ -4,62 +4,62 @@ category: sources
 tags: ["#adaptation", "#ocean", "#nature", "#biodiversity"]
 sources: ["raw/articles/This Pacific Island Disappeared Under Rising Seas. A New Sculpture Marking the Spot Will Morph Into a Home for Seabirds, Coral and Marine Life.md"]
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-10-28
 summary: Kale Island Solomon Islands submerged, 50000 square metres, Isabel Province, Gladys Habu Bartlett, Jason deCaires Taylor sculpture, Solomon Siren, pH-neutral cement biochar marine colonisation, 26000 Solomon Islanders relocated since 2008, sea level twice as fast, small island states climate loss, cultural heritage climate memory, art activism, coral seabirds marine life
+related:
+  - record-hot-ocean-el-nino-2026
+  - un-world-ocean-assessment-2026
+  - mangrove-forests-recovery
 ---
 
-# The Solomon Siren — commemorating Kale Island
+# The Solomon Siren: a memorial to Kale Island
 
-**Source:** Smithsonian Magazine, Christian Thorsberg, 29 July 2026 — https://www.smithsonianmag.com/smart-news/this-pacific-island-disappeared-under-rising-seas-a-new-sculpture-marking-the-spot-will-morph-into-a-home-for-seabirds-coral-and-marine-life-180989223/
-**Artist:** Jason deCaires Taylor — https://underwatersculpture.com/projects/solomon-siren/
+**Source:** Smithsonian Magazine, Christian Thorsberg, 29 July 2026. https://www.smithsonianmag.com/smart-news/this-pacific-island-disappeared-under-rising-seas-a-new-sculpture-marking-the-spot-will-morph-into-a-home-for-seabirds-coral-and-marine-life-180989223/
+The artist's project page: https://underwatersculpture.com/projects/solomon-siren/
 
 ## What it is
 
-Feature on a **new underwater sculpture** by British artist **Jason deCaires Taylor**, installed in the Solomon Islands to mark **ten years since Kale Island was officially lost to rising sea levels**. Kale was a **50,000 m²** island in Isabel Province of the Solomon Islands archipelago — a small community's home, jewel of "white sandy beaches, clear waters and lush forests" — one of the first documented islands anywhere to be lost outright to sea-level rise. The sculpture, called **"The Solomon Siren,"** models climate activist and Solomon Islander **Gladys Habu Bartlett**, seated against a tree representing the vanished island's vegetation.
+The British artist **Jason deCaires Taylor** has placed a new underwater sculpture in the Solomon Islands. It marks ten years since Kale Island was officially lost to rising seas.
 
-## Key facts
-
-- **Kale Island** (Solomon Islands, Isabel Province): ~**50,000 m²**, submerged around 2016 — one of the first islands documented anywhere as lost to sea-level rise
-- **26,000+ Solomon Islanders relocated since 2008** due to sea encroachment and extreme weather
-- The sculpture is placed in the **intertidal zone** — where sand still intermittently peeks above the tide
-- Made from **pH-neutral cement and biochar** — a porous surface designed for **marine colonisation** by algae, corals and invertebrates
-- Tree branches on the sculpture designed to offer a **resting place for seabirds**
-- Bears **sea level markings** for 2006, 2016 and 2026 — plus projected 2036 and 2046 marks
-- Global sea level today is 5-8 inches (13-20 cm) higher than 1900
-- Global sea level rise is now happening at **roughly twice the rate** of a decade ago (UN World Ocean Assessment 2026)
-
-## Notable quotes
-
-- **Gladys Habu Bartlett:** *"Year after year, we watched the sea rise. We watched our homeland disappear. I chose to share our story, and this sculpture is a deeply meaningful part of it. What happened is a warning, not only for us, but for the world."*
-- **Jason deCaires Taylor** (Instagram): *"Modeled on Gladys, the sculpture stands as a memorial to a lost landscape and a powerful reminder of the communities already living with the impacts of climate change."*
-- **Taylor's artist statement:** *"Like the mythic sirens that warned sailors of hidden dangers, Taylor's sculpture issues a quiet but urgent call: a reminder of a place that once existed and of the coastlines around the world that may follow."*
-- Bartlett, 2020 IIED blog: *"With its white sandy beaches, clear waters and lush forests, Kale was a jewel between the ocean and the sky."*
-
-## The Siren series (context)
-
-The Solomon Siren is the latest in Taylor's ongoing series responding to marine ecosystems:
-- ***Sirens of Sewage*** (Whitstable, England) — raising awareness of untreated sewage releases into UK coastal waters
-- ***Ocean Siren*** (Great Barrier Reef, Australia) — changes colour in real time to reflect the reef's temperature, showing bleaching risk
-
-Together the series treats the ocean as a witness and a warning system, and translates scientific data (sea level, temperature, pollution) into physical presence that people can visit.
+Kale was a 50,000 m² island (about seven football pitches) in Isabel Province. It was home to a small community, and one of the first islands anywhere known to have disappeared completely because of sea-level rise. The sculpture, called "The Solomon Siren", is modelled on Gladys Habu Bartlett, a climate activist from the Solomon Islands. She sits against a tree that stands for the island's lost forest.
 
 ## Why it matters
 
-Small island states have been on the front line of sea-level rise for years — physically, culturally and politically. Kale's loss makes the abstract concrete:
+For small island communities, sea-level rise is not something that might happen one day. Kale was lost a decade ago, and more than 26,000 Solomon Islanders have already had to move.
 
-1. **This is not a future problem for small island communities.** It is a present, decade-old loss.
-2. **Climate loss has a cultural dimension** that emissions accounting rarely captures. A submerged homeland is not just displaced people; it's lost language, heritage, spiritual sites, ancestral graves.
-3. **Art as adaptation infrastructure.** The sculpture is designed to become a coral substrate over time — a small piece of active biological reconstruction, not just commemoration.
+Losses like this go beyond what emissions figures can capture. When a homeland goes under the sea, people lose more than their houses: they lose heritage, sacred sites and the graves of their ancestors.
 
-The Solomon Islands story sits alongside **Tuvalu**, which now has a formal migration pathway to Australia under the **Falepili Union Treaty** (see [record-hot-ocean-el-nino-2026](../climate-science/record-hot-ocean-el-nino-2026.md)), and **the Gambia**, where the Gambia River is pushing salt water into farmland — all examples of climate loss that has already happened, not that might.
+The sculpture also does something practical. It is built so that coral and other sea life can grow on it, which makes it a small piece of habitat repair as well as a memorial.
 
-## Tone and angle
+Kale is one of several places where climate loss has already happened. Tuvalu now has a formal route for its people to move to Australia under the Falepili Union Treaty (see [Record hot ocean and El Niño](../climate-science/record-hot-ocean-el-nino-2026.md)). In the Gambia, the Gambia River is pushing salt water into farmland.
 
-Feature journalism, respectful and non-didactic. Lets the artist and the activist speak in their own voices. Includes the scientific context (sea level rise doubled in a decade) without making the piece a numbers-story.
+## Key facts
 
-## How it connects to the wiki
+- Kale Island (Isabel Province, Solomon Islands) covered about **50,000 m²** and went under around 2016. It is one of the first islands anywhere documented as lost to sea-level rise.
+- More than 26,000 Solomon Islanders have been relocated since 2008 because of the advancing sea and extreme weather.
+- The sculpture sits in the intertidal zone, the strip between high and low tide, where sand still sometimes shows above the water.
+- It is made from pH-neutral cement and biochar, a porous surface designed for algae, corals and small sea creatures to settle on.
+- Its tree branches are designed to give seabirds somewhere to rest.
+- It carries sea-level markings for 2006, 2016 and 2026, plus projected marks for 2036 and 2046.
+- Global sea level today is 5-8 inches (13-20 cm) higher than in 1900.
+- Global sea level is now rising at roughly twice the rate of a decade ago (UN World Ocean Assessment 2026).
 
-- Adds a real-world case to `wiki/climate-science/record-hot-ocean-el-nino-2026.md` in the "Concrete human consequences" section (which already covers Tuvalu and the Gambia)
-- Complements `wiki/biodiversity-land/mangrove-forests-recovery.md` — parallel "coastal protection and cultural loss" theme
-- Reinforces `wiki/sources/un-world-ocean-assessment-2026.md` (sea level acceleration)
-- Fits `wiki/climate-adaptation/` — the artistic/cultural dimension of adaptation is underrepresented in climate wikis; this piece begins to fill that gap
+## Voices in the piece
+
+Gladys Habu Bartlett, whose community lived with the loss, says: "Year after year, we watched the sea rise. We watched our homeland disappear. I chose to share our story, and this sculpture is a deeply meaningful part of it. What happened is a warning, not only for us, but for the world." Writing on an IIED blog in 2020, she remembered the island this way: "With its white sandy beaches, clear waters and lush forests, Kale was a jewel between the ocean and the sky."
+
+Jason deCaires Taylor wrote on Instagram: "Modeled on Gladys, the sculpture stands as a memorial to a lost landscape and a powerful reminder of the communities already living with the impacts of climate change." His artist statement adds: "Like the mythic sirens that warned sailors of hidden dangers, Taylor's sculpture issues a quiet but urgent call: a reminder of a place that once existed and of the coastlines around the world that may follow."
+
+## The Siren series
+
+The Solomon Siren is the latest in a series of sculptures Taylor has made about the sea:
+
+- ***Sirens of Sewage*** (Whitstable, England) draws attention to untreated sewage released into UK coastal waters.
+- ***Ocean Siren*** (Great Barrier Reef, Australia) changes colour in real time to show the reef's water temperature and the risk of coral bleaching.
+
+Each one turns scientific data, such as sea level, temperature or pollution, into something people can go and see.
+
+## Sources
+
+- Smithsonian Magazine, Christian Thorsberg, 29 July 2026. https://www.smithsonianmag.com/smart-news/this-pacific-island-disappeared-under-rising-seas-a-new-sculpture-marking-the-spot-will-morph-into-a-home-for-seabirds-coral-and-marine-life-180989223/
+- Jason deCaires Taylor, The Solomon Siren. https://underwatersculpture.com/projects/solomon-siren/

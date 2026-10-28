@@ -9,40 +9,37 @@ tags:
   - biodiversity
   - corporate-action
 created: 2025-09-01
-updated: 2026-06-14
+updated: 2026-10-28
 summary: Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in through several impactful approaches like funding nature-positive farming, corporate biodiversity strategy, partnering with farmers and conservative groups, educating and advocating, Implementing Biodiversity-Friendly Land Management Practices and supporting Pollinator-Friendly Actions
 ---
 
 
 ## Corporations can contribute significantly to Ireland’s and Irish farmers’ efforts to enhance biodiversity in grasslands through several impactful approaches
 
+Companies can do much more than the usual tree planting and rooftop beehives. They can play an active part in projects that make a real difference on farms.
 
+### 1. Funding and supporting nature-positive farming initiatives
 
-Companies can go beyond the usual initiatives of planting trees and adding rooftop beehives by contributing much more actively to impactful projects.   
+- Businesses can fund projects like the ReFarm initiative, which channels private money into creating and looking after wildlife ponds, hedgerows, woodlands and species-rich grasslands on farms. Farmers get help to farm in ways that support wildlife, and companies can use the work to meet their sustainability reporting requirements under EU directives.
 
-**1. Funding and Supporting Nature-Positive Farming Initiatives**
+### 2. Developing corporate biodiversity strategies and action plans
 
-- Businesses can provide financial support to projects like the ReFarm initiative, which channels private funding into creating and managing wildlife ponds, hedgerows, woodlands, and species-rich grasslands on farms. This collaboration helps farmers implement biodiversity-friendly practices while allowing companies to meet sustainability reporting requirements under EU directives.
+- Companies can build biodiversity into their corporate social responsibility (CSR) plans by adopting biodiversity action plans that match national biodiversity goals. This can include investing in ecosystem services, biodiversity offsets and natural capital accounting, a way of putting a value on nature, so they can measure and improve their impact.
 
-**2. Developing Corporate Biodiversity Strategies and Action Plans**
+### 3. Partnering with farmers and conservation groups
 
-- Companies can integrate biodiversity into their corporate social responsibility (CSR) frameworks by adopting biodiversity action plans that align with national biodiversity objectives. This includes investing in ecosystem services, biodiversity offsets, and natural capital accounting to measure and improve their biodiversity impact.
+- Corporations can work directly with farmers and environmental organisations (for example Burrenbeo Trust and the National Biodiversity Data Centre) on habitat restoration, pollinator-friendly practices and hedgerow planting. These partnerships give farmers expert advice and resources, and they produce results for wildlife that can be measured.
 
-**3. Partnering with Farmers and Conservation Groups**
+### 4. Raising awareness and building capacity
 
-- Corporations can collaborate directly with farmers and environmental organizations (e.g., Burrenbeo Trust, National Biodiversity Data Centre) to support habitat restoration, pollinator-friendly practices, and hedgerow planting. Such partnerships provide farmers with expert advice and resources while delivering measurable biodiversity outcomes.
+- Businesses can join platforms like the Irish Business and Biodiversity Platform and the Business for Biodiversity Ireland initiative to learn about the risks and opportunities that biodiversity brings. This helps them understand how their operations affect nature and how they can help, including through the way they work with their supply chains.
 
-**4. Raising Awareness and Building Capacity**
+### 5. Implementing biodiversity-friendly land management practices
 
-- Businesses can participate in platforms like the Irish Business and Biodiversity Platform and the Business for Biodiversity Ireland initiative to increase awareness of biodiversity risks and opportunities. This helps companies understand how their operations affect biodiversity and how they can contribute positively, including through supply chain engagement
+- Corporations that own or manage land can adopt or encourage regenerative farming practices that improve soil health and give wildlife more varied habitats, such as keeping hedgerows, field margins and species-rich grasslands. These features link habitats together and give wildlife shelter and food, which benefits both nature and farm productivity.
 
-**5. Implementing Biodiversity-Friendly Land Management Practices**
+### 6. Supporting pollinator-friendly actions
 
-- Corporations owning or managing land can adopt or promote regenerative farming practices that enhance soil health and habitat diversity, such as maintaining hedgerows, field margins, and species-rich grasslands. These practices support ecosystem connectivity and provide shelter and food for wildlife, benefiting both biodiversity and agricultural productivity
+- Companies can get involved with the All-Ireland Pollinator Plan by sponsoring pollinator habitats on farms and business sites. This helps reverse the decline of pollinators, which grassland ecosystems depend on.
 
-**6. Supporting Pollinator-Friendly Actions**
-
-- Companies can engage with the All-Ireland Pollinator Plan by sponsoring pollinator habitats on farms and business sites, helping to reverse pollinator declines critical to grassland ecosystem health
-
-In summary, corporations contribute by funding and partnering on biodiversity projects, embedding biodiversity in business strategies, supporting farmers with expertise and resources, and raising awareness. These actions help restore and protect grassland biodiversity while aligning business goals with Ireland’s national biodiversity and climate objectives
-
+Put together, corporations can help by funding and partnering on biodiversity projects, building biodiversity into their business strategies, supporting farmers with expertise and resources, and raising awareness. These actions help restore and protect grassland wildlife, and they bring business goals into line with Ireland’s national biodiversity and climate objectives.

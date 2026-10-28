@@ -5,93 +5,93 @@ tags:
   - finance
   - esg
 created: 2023-11-01
-updated: 2026-06-22
+updated: 2026-10-28
 summary: "Climate change is not only an environmental crisis. It is a financial one. The World Economic Forum ranks climate-related failures among the top global risks of the next decade, and the numbers back that up. The Swiss Re Institute estimates the global economy could lose up to 18% of GDP by 2050 if warming continues unchecked. Climate risk takes two main forms: physical risk, from the direct damage caused by floods, droughts, and extreme weather, and transition risk, from the financial disruption that occurs as economies move away from fossil fuels. Both are already materialising. Insured losses from natural disasters reached 115 billion dollars in 2022, well above the ten-year average. Meanwhile, trillions of dollars in fossil fuel assets face the prospect of losing their value as clean energy becomes cheaper and climate policy tightens. Despite this, the world's 60 largest banks provided 673 billion dollars in fossil fuel financing in 2022 alone. This article examines both types of risk, the sectors most exposed, and the organisations working to bring greater transparency and accountability to climate risk in finance."
 ---
 ## Introduction
 
-Climate change is not only an environmental challenge. It is a financial one. The risks it creates are now being taken seriously by some of the largest financial institutions in the world, and for good reason. 
+Climate change is a financial problem as well as an environmental one. Some of the largest financial institutions in the world now treat it that way, and with good reason.
 
 > According to the World Economic Forum, four of the top ten global risks over the next decade are directly linked to climate and nature: failure to mitigate climate change, failure to adapt to it, natural disasters and extreme weather events, and biodiversity loss and ecosystem collapse.
 
-These are not abstract concerns. They translate into real losses for businesses, governments, insurers, and ordinary people. Understanding these risks is increasingly essential for anyone working in finance, business, or public policy.
+These risks turn into real losses for businesses, governments, insurers and ordinary households. Anyone working in finance, business or public policy increasingly needs to understand them.
 
 ---
 
 ## Two Types of Climate Risk
 
-Climate risk falls into two broad categories.
+Climate risk falls into two broad groups.
 
-**Physical risk** refers to the direct damage caused by climate impacts: floods destroying homes and infrastructure, droughts reducing agricultural output, heatwaves disrupting supply chains, and storms damaging assets. These risks are already materialising and will intensify as temperatures rise.
+**Physical risk** is the direct damage done by climate impacts. Floods destroy homes and roads, droughts cut harvests, heatwaves disrupt supply chains and storms damage property. This is already happening, and it will get worse as temperatures rise.
 
-**Transition risk** refers to the financial disruption that occurs as economies shift away from fossil fuels. As governments tighten regulation, as carbon prices rise, and as clean alternatives become cheaper, companies and investors exposed to carbon-intensive assets may find those assets losing value rapidly. This is sometimes called the stranded assets problem.
+**Transition risk** is the financial disruption that comes as economies move away from fossil fuels. Governments tighten rules, carbon prices rise and clean alternatives get cheaper. Companies and investors holding carbon-heavy assets may see those assets lose value quickly. This is often called the stranded assets problem.
 
-Both types of risk have implications across the entire financial system, from individual companies to banks, pension funds, and national economies.
+Both kinds of risk run through the whole financial system, from single companies to banks, pension funds and national economies.
 
 ---
 
 ## Physical Risk: How Large Is the Problem?
 
-The financial scale of physical climate risk is significant and growing.
+The cost of physical climate risk is large, and it is growing.
 
 > The Swiss Re Institute estimates that the global economy could lose up to 18% of GDP by 2050 if climate change continues on its current trajectory. To put that in context, the 2008 financial crisis, which was considered a catastrophic economic shock, caused a global GDP contraction of roughly 2%.
 
-**Insurance is one of the sectors feeling this most directly**. In 2022, insured losses from natural disasters reached 115 billion dollars, compared to an average of 80 billion dollars over the previous ten years. As extreme weather events become more frequent and severe, insurers face a difficult choice between raising premiums to unsustainable levels or withdrawing from high-risk markets altogether. In both cases, households and businesses are left more exposed.
+**Insurance** is one of the sectors feeling this most directly. In 2022, insured losses from natural disasters reached 115 billion dollars, against an average of 80 billion dollars a year over the previous ten years. As extreme weather becomes more frequent and more severe, insurers face a hard choice: raise premiums to levels people cannot pay, or pull out of high-risk areas altogether. Either way, households and businesses are left more exposed.
 
-The financial sector has started to respond. BlackRock, the world's largest asset manager overseeing around 10 trillion dollars in assets, has developed a climate risk management tool called Aladdin Climate, specifically designed to help investors understand and price physical climate risk across portfolios. The firm's founder issued a public letter as early as 2018 urging company chief executives to take climate risk seriously.
+The financial sector has started to respond. BlackRock, the world's largest asset manager, oversees around 10 trillion dollars in assets. It has built a tool called Aladdin Climate to help investors understand and price physical climate risk across their holdings. Its founder wrote a public letter as early as 2018 urging company chief executives to take climate risk seriously.
 
-Beyond insured losses, there are much larger human and economic costs that do not appear in financial accounts. Air pollution from burning fossil fuels was responsible for an estimated 8.7 million deaths globally in 2018, roughly one in five of all deaths that year. When researchers assign an economic value to the health costs of fossil fuel pollution, including lost working days, premature deaths, and reduced life expectancy, the figure reaches around 8 billion dollars per day, or 3.3% of global GDP.
+Insured losses are only part of the picture. Much larger human and economic costs never appear in financial accounts. Air pollution from burning fossil fuels caused an estimated 8.7 million deaths worldwide in 2018, roughly one in five of all deaths that year. When researchers put an economic value on the health costs of fossil fuel pollution (lost working days, early deaths and shorter lives), the figure comes to around 8 billion dollars a day, or 3.3% of global GDP.
 
 ---
 
 ## Transition Risk and Stranded Assets
 
-As the energy system shifts toward cleaner sources, companies and investors with large exposure to fossil fuels face a specific and serious risk: their assets may become worthless before the end of their expected economic life.
+As the energy system moves towards cleaner sources, companies and investors with a lot of fossil fuel exposure face a specific risk: their assets may become worthless before the end of their expected working life.
 
-This is the stranded assets problem. 
+This is the stranded assets problem.
 
 > A coal power plant built today is expected to operate for several decades. If climate policy tightens significantly during that time, or if clean alternatives simply become cheaper, that plant may have to be shut down before it has paid back its construction costs. The same logic applies to oil and gas fields, pipelines, refineries, and other fossil fuel infrastructure.
 
-The coal sector illustrates this clearly. A Carbon Tracker report from 2020 found that it is already cheaper to build new renewable energy plants than to continue operating existing coal plants in many parts of the world. Yet coal power capacity continued to grow after the Paris Agreement was signed in 2015. Investors in that capacity are exposed to significant transition risk.
+Coal shows how this works. A 2020 Carbon Tracker report found that in many parts of the world it is already cheaper to build new renewable plants than to keep running existing coal plants. Yet coal power capacity kept growing after the Paris Agreement was signed in 2015. The people who invested in that capacity carry a real transition risk.
 
-A 2022 study by Carbon Tracker found that oil and gas companies were still committing billions of dollars to new projects that would only be economically viable if global oil and gas demand grew to a level consistent with warming of 2.5 degrees or more. These investments represent a direct financial risk to shareholders if climate policy follows through on its stated ambitions.
+A 2022 Carbon Tracker study found that oil and gas companies were still committing billions of dollars to new projects that only pay off if world demand for oil and gas grows to a level consistent with 2.5 degrees of warming or more. If governments follow through on their climate promises, shareholders in those projects stand to lose money.
 
-Despite this, many financial institutions remain heavily exposed. BlackRock, while developing climate risk tools, continues to hold major positions in fossil fuel companies. Research from early 2022 found that India's banking sector was largely unprepared for climate-related financial risks. The insurance industry more broadly does not appear well positioned to absorb the scale of losses that more severe climate scenarios would produce.
+Many financial institutions remain heavily exposed. BlackRock builds climate risk tools but still holds large stakes in fossil fuel companies. Research from early 2022 found that India's banking sector was largely unprepared for climate-related financial risk. The insurance industry as a whole does not look ready to absorb the losses that more severe climate scenarios would bring.
 
 ---
 
 ## The Banking Sector's Continued Exposure
 
-Banks sit at the centre of the transition risk problem because they have continued to finance fossil fuel expansion long after the risks became clear.
+Banks sit at the centre of transition risk because they kept financing fossil fuel expansion long after the risks were clear.
 
-The 2023 Banking on Climate Chaos report, one of the most comprehensive annual reviews of fossil fuel financing, found that the world's 60 largest banks had provided a total of 5.5 trillion dollars in fossil fuel financing in the seven years since the Paris Agreement was signed. In 2022 alone, that figure was 673 billion dollars.
+The 2023 Banking on Climate Chaos report, one of the most thorough yearly reviews of fossil fuel financing, found that the world's 60 largest banks had provided 5.5 trillion dollars to fossil fuels in the seven years after the Paris Agreement was signed. In 2022 alone, the figure was 673 billion dollars. The 2026 edition puts the total since 2015 at 8.7 trillion dollars, from the 65 largest banks.
 
-This is happening at a moment when the International Energy Agency and other credible bodies have stated clearly that no new fossil fuel fields, pipelines, coal mines, or liquefied natural gas terminals can be developed if the world is to stay within a 1.5 degree warming pathway. The financing continues regardless.
+This is happening while the International Energy Agency and other respected bodies say plainly that no new fossil fuel fields, pipelines, coal mines or liquefied natural gas terminals can be developed if the world is to stay on a 1.5 degree warming pathway. The financing continues anyway.
 
-US banks have been particularly significant actors in this space, directing more financing to fossil fuels than banks from any other country.
+US banks have been the biggest players, directing more money to fossil fuels than banks from any other country.
 
 ---
 
 ## Who Is Working on Climate Risk Standards?
 
-Alongside the risks themselves, a set of organisations has emerged to help financial institutions measure, disclose, and manage climate risk more consistently.
+Alongside the risks, a set of organisations has grown up to help financial institutions measure, disclose and manage climate risk in a more consistent way.
 
-The **Task Force on Climate-Related Financial Disclosures (TCFD)**, created in 2015 by the Financial Stability Board, is arguably the most important global initiative in this space. Its goal is to standardise how companies and financial institutions disclose their exposure to climate risk, making it easier for investors and regulators to understand where concentrations of risk exist across the financial system.
+The **Task Force on Climate-Related Financial Disclosures (TCFD)** was created in 2015 by the Financial Stability Board and is probably the most influential global initiative in this area. It aims to standardise how companies and financial institutions report their exposure to climate risk, so that investors and regulators can see where risk is building up across the financial system.
 
-The **Carbon Disclosure Project (CDP)** runs a global disclosure system through which companies, cities, and governments report on their environmental impacts and risks. The **Sustainability Accounting Standards Board (SASB)** sets industry-specific standards for disclosing the ESG issues most relevant to financial performance across 77 sectors.
+The Carbon Disclosure Project (CDP) runs a global reporting system through which companies, cities and governments disclose their environmental impacts and risks. The Sustainability Accounting Standards Board (SASB) sets industry-specific standards for reporting the ESG issues that matter most to financial performance, across 77 sectors.
 
-The **Science Based Targets initiative (SBTi)**, a partnership between CDP, the World Resources Institute, WWF, and the UN Global Compact, encourages businesses to set emissions reduction targets aligned with climate science and provides independent assessment of those targets.
+The Science Based Targets initiative (SBTi) is a partnership between CDP, the World Resources Institute, WWF and the UN Global Compact. It encourages businesses to set emissions targets in line with climate science and checks those targets independently.
 
-These bodies represent real progress toward transparency. But disclosure alone does not reduce risk. What matters ultimately is whether the financial system shifts capital away from activities that create climate risk and toward those that reduce it.
+These bodies are real progress on transparency. But disclosure on its own does not reduce risk. What counts in the end is whether the financial system moves money away from activities that create climate risk and towards those that reduce it.
 
 ---
 
-## Conclusion: Risk That Cannot Be Priced Away
+## Where This Leaves Us
 
-Climate risk is increasingly being recognised as a systemic financial risk, not just an environmental one. Physical damage from extreme weather is already costing hundreds of billions of dollars per year and will rise further. The transition away from fossil fuels will strand trillions of dollars in assets if it happens fast enough to matter for the climate. And the banking sector continues to finance new fossil fuel projects at a scale that is difficult to reconcile with any serious climate commitment.
+Climate risk is more and more recognised as a risk to the whole financial system. Physical damage from extreme weather already costs hundreds of billions of dollars a year, and that will rise. A transition away from fossil fuels fast enough to matter for the climate will strand trillions of dollars in assets. Meanwhile banks keep financing new fossil fuel projects on a scale that is hard to square with any serious climate commitment.
 
-The tools to measure and manage these risks are improving. But measurement is not the same as action. The gap between what the financial system is doing and what climate science says is necessary remains very large.
+The tools to measure and manage these risks are getting better. Measuring a risk is not the same as acting on it, though, and the gap between what the financial system is doing and what climate science says is needed is still very large.
 
 ---
 # Sources
-_World Economic Forum Global Risks Report; Swiss Re Institute, Economics of Climate Change; Banking on Climate Chaos 2023; Carbon Tracker; Harvard T.H. Chan School of Public Health; Centre for Research on Energy and Clean Air; BlackRock; TCFD; CDP; SASB; SBTi._
+_World Economic Forum Global Risks Report; Swiss Re Institute, Economics of Climate Change; Banking on Climate Chaos 2023; The Guardian, Oliver Milman, 9 June 2026 (https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025); Carbon Tracker; Harvard T.H. Chan School of Public Health; Centre for Research on Energy and Clean Air; BlackRock; TCFD; CDP; SASB; SBTi._

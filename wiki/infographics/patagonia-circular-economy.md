@@ -2,7 +2,7 @@
 title: "Patagonia's circular economy: how it keeps gear in use for longer"
 category: infographics
 tags: ["#circularity", "#fashion", "#company-evaluations"]
-sources: ["LinkedIn, Antonio Vizcaya Abdo, October 2026 — https://www.linkedin.com/feed/update/urn:li:activity:7520665625732653056/", "Patagonia, Work in Progress Report, November 2025"]
+sources: ["LinkedIn, Antonio Vizcaya Abdo, October 2026. https://www.linkedin.com/feed/update/urn:li:activity:7520665625732653056/", "Patagonia, Work in Progress Report, November 2025"]
 created: 2026-10-27
 updated: 2026-10-27
 summary: Patagonia, circular economy, outdoor clothing, apparel, Worn Wear, resale, trade-in, repair, Don't Buy This Jacket, reduce consumption, design for durability, recycled materials, NetPlus recycled fishing nets, factory waste, packaging waste, polybags, hangtags, ReCrafted, Tee-Cycle, garment recycling, end-of-life, product lifecycle
@@ -40,5 +40,5 @@ The outdoor clothing brand Patagonia tries to keep its products in use for as lo
 - Patagonia has repaired gear since 1976 and ran its first garment recycling programme in 2005 (Patagonia, Work in Progress Report 2025)
 
 ## Sources
-- Infographic: Antonio Vizcaya Abdo, LinkedIn, October 2026 — https://www.linkedin.com/feed/update/urn:li:activity:7520665625732653056/
+- Infographic: Antonio Vizcaya Abdo, LinkedIn, October 2026. https://www.linkedin.com/feed/update/urn:li:activity:7520665625732653056/
 - Data: Patagonia, Work in Progress Report, November 2025

@@ -4,9 +4,9 @@ category: myths
 tags: ["#myth"]
 sources:
   - Hannah Ritchie, Not the End of the World (2024)
-  - Gulf Oil — 33-country running-cost study
+  - Gulf Oil, 33-country running-cost study
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-10-28
 cover_image: ""
 summary: EV cost, running costs, 100 miles £6 vs £12-£18 petrol, £1000 annual saving, £10000 lifetime saving, upfront cost, price parity 2025 Citroën C4, second-hand EVs cheaper, BYD Seagull £10000, home vs public charging, £6 vs £16 vs £18, charging inequality, learning curve, tariffs on Chinese EVs, energy tax
 claim_id: evs-too-expensive
@@ -25,26 +25,29 @@ related:
 
 ## Say this
 
-The sticker price of a new EV is still higher than a petrol equivalent, but the gap is closing fast, and running costs are already much lower. Charging at home costs about half what petrol costs, saving the average UK driver around £1,000 a year and over £10,000 across the life of the car. The remaining problem is not "EVs are expensive," it is "cheap EV charging isn't available to everyone."
+A new EV still costs more to buy than a petrol car, but the gap is closing fast, and charging at home costs about half what petrol does. That saves the average UK driver around £1,000 a year and over £10,000 over the car's life, so the real problem is that cheap charging isn't available to everyone yet.
 
 ## Why it sounds right
 
-Because the number on the showroom windscreen is genuinely higher. If you're comparing two cars in a dealership today, the EV is usually more expensive to buy. Most people don't think in "total cost of ownership" — they think in monthly payments and the upfront cheque. And for households on tight budgets, that upfront gap is real.
+The price on the showroom windscreen really is higher. If you compare two cars in a dealership today, the EV usually costs more to buy. Most people don't think in terms of "total cost of ownership": they think about monthly payments and the upfront cheque. And for households on tight budgets, that upfront gap is real.
 
 ## What is actually true
 
-**Running costs are already much cheaper:**
-- **100 miles in an EV: about £6.** In a petrol car: **£12 to £18** — roughly half or less.
-- Average UK driver could save up to **£1,000 a year**, over **£10,000 across the life of the car**.
-- A Gulf Oil study across **33 countries** found EVs cheaper to run than petrol in almost every country surveyed.
-- EVs have **far fewer moving parts** — no oil changes, no exhaust, no catalytic converter, less brake wear — so maintenance is lower too.
+Running costs are already much lower:
 
-**Upfront costs are falling:**
-- By **2025**, price parity had spread to many mainstream models. The electric Citroën C4 matched the petrol version's price.
-- **Second-hand** EV versions of best-sellers (BMW, Peugeot, Vauxhall, Hyundai, Tesla) are now often **cheaper than the petrol equivalents**.
-- **BYD** sells the Seagull in Europe for around **£10,000** with ~250 miles of range, forcing VW, Renault and Stellantis to launch sub-€25,000 EVs.
+- **100 miles in an EV costs about £6.** In a petrol car it's £12 to £18, so roughly half or less.
+- The average UK driver could save up to £1,000 a year, and over **£10,000 across the life of the car**.
+- A Gulf Oil study across 33 countries found EVs cheaper to run than petrol in almost every country surveyed.
+- EVs have far fewer moving parts: no oil changes, no exhaust, no catalytic converter, and less brake wear. So maintenance costs less too.
 
-**But charging cost depends on where you charge:**
+Upfront prices are falling:
+
+- By **2025**, many mainstream models cost the same in electric and petrol versions. The electric Citroën C4 matched the petrol version's price.
+- Second-hand EV versions of best-sellers (BMW, Peugeot, Vauxhall, Hyundai, Tesla) are now often **cheaper than the petrol equivalents**.
+- BYD sells the Seagull in Europe for around **£10,000** with ~250 miles of range, which has pushed VW, Renault and Stellantis to launch EVs under €25,000.
+
+But the cost of charging depends on where you do it:
+
 - **Home charging: ~£6** per 100 miles
 - **Public charger: ~£16** per 100 miles
 - **Rapid charger: ~£18** per 100 miles (similar to petrol)
@@ -53,15 +56,15 @@ Because the number on the showroom windscreen is genuinely higher. If you're com
 
 **"For someone in a flat with no driveway, EVs aren't cheaper."**
 
-Correct, and this is the real inequality problem inside the EV story. Somebody who can only charge at rapid public chargers pays roughly what a petrol driver pays. Fixing this needs more affordable public and street-side charging, not more EVs.
+That's right, and it's the real unfairness inside the EV story. Someone who can only use rapid public chargers pays roughly what a petrol driver pays. What fixes it is more affordable public and on-street charging.
 
 **"But I can't afford the upfront £30,000."**
 
-Fair. New EVs are still a stretch. **Used EVs** are now often cheaper than used petrol versions of the same model, and that's where most of the affordable switching will happen in the next few years.
+Fair enough, new EVs are still a stretch for many people. **Used EVs** are now often cheaper than used petrol versions of the same model, and that's where most affordable switching will happen over the next few years.
 
 **"Aren't Chinese EVs being blocked by tariffs?"**
 
-Yes, and this is a policy choice that hurts consumers. Some governments have put tariffs on affordable Chinese EVs to protect their own industries. This makes cars more expensive for ordinary buyers.
+Yes, and it's a policy choice that hurts buyers. Some governments have put tariffs on affordable Chinese EVs to protect their own car makers, which makes cars more expensive for ordinary people.
 
 ## Also heard as
 
@@ -74,14 +77,14 @@ Yes, and this is a policy choice that hurts consumers. Some governments have put
 
 ## Go deeper
 
-**The learning curve is doing the work.** As with solar panels and batteries, EV prices fall as production scales. Every doubling of cumulative production has historically taken about 20% off the cost. That is the mechanism closing the price gap — not subsidies. Modern EV subsidies help households cross the current gap; the underlying price is already falling on its own.
+The learning curve is doing the work. As with solar panels and batteries, EV prices fall as production grows. Each time the total number ever made has doubled, the cost has historically dropped by about **20%**. That, more than subsidies, is what's closing the price gap. Today's subsidies help households bridge the current gap, while the underlying price is already falling on its own.
 
-**Home vs. public charging inequality.** The single biggest split in EV economics right now is whether you can charge at home. UK data: ~70% of homes have off-street parking where they *could* charge, but only 30% of EV drivers living in cities have that option. Fixing public and workplace charging affordability is the most important cost-of-ownership question for the next five years.
+Home versus public charging is the biggest divide. Whether you can charge at home matters more than anything else in EV costs right now. In the UK, ~70% of homes have off-street parking where they *could* charge, but only 30% of EV drivers living in cities have that option. Making public and workplace charging affordable is the most important cost question for the next five years.
 
-**Energy tax fairness.** Petrol is often taxed lower than electricity for driving, because petrol tax structures were built decades ago and haven't kept up. That distorts the comparison — a fairer energy tax would make the switch more worthwhile still.
+Energy tax fairness matters too. Petrol is often taxed less than electricity used for driving, because fuel taxes were set up decades ago and haven't kept pace. That skews the comparison, and a fairer energy tax would make switching even more worthwhile.
 
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- Gulf Oil — 33-country running-cost comparison
-- BloombergNEF — EV cost parity forecasts
+- Gulf Oil. 33-country running-cost comparison
+- BloombergNEF. EV cost parity forecasts

@@ -4,9 +4,9 @@ category: myths
 tags: ["#myth"]
 sources:
   - Hannah Ritchie, Not the End of the World (2024)
-  - Chris Goodall — UK storage cost analysis
+  - Chris Goodall, UK storage cost analysis
 created: 2026-07-29
-updated: 2026-08-03
+updated: 2026-10-28
 cover_image: ""
 summary: intermittency storage, three time windows minutes hours days months, batteries 98% efficient, pumped hydro 80%, hydrogen 40-50%, heat storage, solar-wind complementarity summer winter, cross-border sharing, £3 trillion UK batteries backup vs billions hydrogen, nuclear geothermal hydro firm, Chris Goodall, Hannah Ritchie
 claim_id: intermittency-storage-problem
@@ -26,52 +26,57 @@ related:
 
 ## Say this
 
-This is engineers' oldest question and they've been planning for it from day one. Solar and wind cover each other most of the time — solar peaks in summer and daytime, wind in winter and at night. Batteries cover the minutes-to-hours gap. Cross-border sharing, hydro, geothermal and existing nuclear cover the harder day-to-days. Weeks-to-months is genuinely still being worked out, but hydrogen and heat storage look like the answers.
+Engineers have been planning for this from day one: sun and wind cover for each other most of the time, batteries handle the hours, and sharing power across borders, hydro and nuclear handle the days. Storing power for weeks or months is still being worked out, but hydrogen and heat storage look like the answers.
 
 ## Why it sounds right
 
-Because solar and wind really are variable, and if you assume nothing changes about the rest of the grid, "the lights would go out" is the natural conclusion. It's also a favourite argument of fossil fuel commentators, so it gets repeated often. What is usually left out is that grid engineers have been thinking about this since long before renewables existed — the grid always had to match variable demand to variable supply.
+Solar and wind really do come and go. If you assume nothing else about the grid changes, "the lights would go out" is the natural conclusion. Fossil fuel commentators also like the argument, so it gets repeated a lot. What usually gets left out is that grid engineers were dealing with this long before renewables existed: the grid has always had to match demand that changes with supply that changes.
 
 ## What is actually true
 
-There are three time windows to solve, and each has different answers:
+There are three time windows to cover, and each has different answers.
 
-**1. Minutes to hours (the easy part)**
-- **Lithium-ion batteries** return about **98% of the electricity** you put in
-- Very efficient, cheap enough for daily cycles, but not economical for months of storage
-- Already deployed at grid scale in Australia, California, Texas and elsewhere
+**Minutes to hours (the easy part)**
 
-**2. Hours to days**
-- **Solar and wind naturally complement each other**: solar peaks in daytime and summer, wind is often stronger at night and in winter
-- Adding **hydropower, geothermal and nuclear** helps
-- **Cross-border sharing**: it's always sunny or windy somewhere. Sunny Spain can send power to a cloudy UK, the UK can return the favour when it's windy
-- Modern high-voltage DC links make this cheap and efficient
+- Lithium-ion batteries give back about **98% of the electricity** you put in
+- They are very efficient and cheap enough for daily use, but not economical for storing power over months
+- They are already working at grid scale in Australia, California, Texas and elsewhere
 
-**3. Weeks to months (the hard part)**
-Not yet fully solved, but three plausible answers:
-- **Pumped hydro**: water pumped uphill when power is plentiful, released to generate later. ~80% round-trip efficient. Cheap but geographically constrained.
-- **Heat storage**: electricity stored as heat in water, rock, sand or molten salt. Useful for industrial heat customers (steel, cement, glass).
-- **Hydrogen**: electricity makes hydrogen, hydrogen makes electricity later. Only **40-50% efficient** end-to-end — you throw away roughly half the power. But it's storable at scale.
+**Hours to days**
 
-**Chris Goodall's cost comparison for two months of UK winter backup:**
-- Using **batteries alone**: ~**£3 trillion per year** — more than the UK's entire GDP
-- Using **hydrogen**: billions to tens of billions per year — expensive but manageable
+- Solar and wind complement each other: solar peaks in the daytime and in summer, while wind is often stronger at night and in winter
+- Adding hydropower, geothermal and nuclear helps
+- Sharing across borders: it's always sunny or windy somewhere. Sunny Spain can send power to a cloudy UK, and the UK can return the favour when it's windy.
+- Modern high-voltage DC cables make this cheap and efficient
 
-Pick the right tool for the timescale. Batteries for short gaps, hydrogen or hydro for long ones. Don't try to use batteries for months of backup.
+**Weeks to months (the hard part)**
+
+This isn't fully solved yet, but there are three likely answers:
+
+- Pumped hydro: water is pumped uphill when power is plentiful and released through turbines later. It gets back ~80% of the energy. It's cheap, but only works where the landscape allows.
+- Heat storage: electricity is stored as heat in water, rock, sand or molten salt. It's useful for industries that need heat, such as steel, cement and glass.
+- Hydrogen: electricity makes hydrogen, and hydrogen makes electricity again later. It is only **40-50% efficient** from start to finish, so you lose roughly half the power, but it can be stored at large scale.
+
+Chris Goodall worked out the cost of covering two months of UK winter:
+
+- With batteries alone: ~£3 trillion per year, more than the UK's entire GDP
+- With hydrogen: billions to tens of billions per year, expensive but manageable
+
+So the job is to match the tool to the timescale: batteries for short gaps, hydrogen or hydro for long ones. Using batteries for months of backup makes no sense.
 
 ## If they push back
 
 **"So it's not solved."**
 
-Short-term is solved. Long-term is being solved — hydrogen and heat storage are demonstrably possible, they just need scaling. The gap in the plan is not "we don't know how", it's "we haven't built it at scale yet." Which is where every energy technology starts.
+The short term is solved, and the long term is on its way. Hydrogen and heat storage have been shown to work, they just need building at scale. The gap is no longer "we don't know how". The gap is "we haven't built it at scale yet." Every energy technology starts there.
 
 **"What if we get a really bad dunkelflaute?"**
 
-*Dunkelflaute* — a German term for weeks of low sun and low wind, common in northern European winters — is the specific edge case. It's exactly why hydrogen, biomass, nuclear or gas-with-CCS backup make sense in high-latitude countries. It's a real engineering problem with real solutions. It's not the whole grid, it's the last 5-10%.
+*Dunkelflaute* is a German word for weeks of little sun and little wind, which is common in northern European winters. It is the specific hard case, and it's why backup from hydrogen, biomass, nuclear or gas with carbon capture makes sense in countries far from the equator. It's a real engineering problem with real solutions, and it affects the last 5-10% of the system, not the whole grid.
 
 **"You still need gas as backup for renewable systems, so what's the point?"**
 
-Some gas as **rare, occasional backup** is much better than gas as **primary generation**. If gas plants only run for 100 hours a year in an emergency instead of 8,760 hours as baseload, emissions fall by orders of magnitude even before the gas plants themselves are replaced with cleaner firm sources.
+Keeping some gas for **rare, occasional backup** is far better than running gas plants all the time. If they only run for 100 hours a year in emergencies instead of all 8,760 hours of the year, their emissions fall many times over, even before they are replaced with cleaner sources.
 
 ## Also heard as
 
@@ -85,17 +90,17 @@ Some gas as **rare, occasional backup** is much better than gas as **primary gen
 
 ## Go deeper
 
-**Solar and wind are complementary, not competing.** In most temperate climates, solar peaks in summer and daytime, wind peaks in winter and at night. This is a happy accident of physics — the temperature gradients that drive wind are strongest exactly when solar is weakest. A grid using both together is much more balanced than either alone.
+**Solar and wind work together.** In most temperate climates, solar peaks in summer and in the daytime, and wind peaks in winter and at night. That's a lucky quirk of physics: the temperature differences that drive wind are strongest just when the sun is weakest. A grid that uses both is much better balanced than one using either alone.
 
-**Cross-border sharing is the underrated answer.** Electricity trade between countries is not new — France and Germany trade power daily, the US Northeast interconnects with Canada. Scaling this up is one of the cheapest solutions to variability. It's always sunny in Morocco; it's always windy over the North Sea; interconnectors let those places serve neighbours. Politically fiddly, physically cheap.
+**Sharing power across borders.** Trading electricity between countries is nothing new. France and Germany trade power every day, and the US Northeast is connected to Canada. Doing much more of it is one of the cheapest ways to deal with changing weather. It's always sunny in Morocco and always windy over the North Sea, and cables between countries let those places supply their neighbours. The politics can be fiddly, but the engineering is cheap.
 
-**Cost of playing it safe.** Chris Goodall's £3 trillion/year to backstop the UK with batteries alone shows why "batteries can do everything" is wrong. Pick the right tool for the timescale. Batteries for short gaps, hydrogen or hydro for long ones, cross-border trade to smooth the middle.
+**What playing it safe with batteries would cost.** Chris Goodall's figure of £3 trillion a year to back up the UK with batteries alone shows why "batteries can do everything" is wrong. Batteries suit short gaps, hydrogen or hydro suit long ones, and trade between countries smooths out the middle.
 
-**The near-term push.** Wealthier countries need to prove 100% clean power at scale in the next 5-10 years. That proof — one country running cleanly through a full winter — is what unlocks the confidence and finance for everyone else to follow.
+**The next step.** Wealthier countries need to show 100% clean power working at scale in the next 5-10 years. One country running cleanly through a full winter would give everyone else the confidence, and the finance, to follow.
 
-**A concrete example of heat storage in action.** In July 2026, Finnish firm **Polar Night Energy** commissioned the world's largest commercial sand battery in **Pornainen**, Finland — a 13-metre-tall silo holding 2,000 tonnes of crushed soapstone at 400-600°C. Rated at **100 MWh**, it charges on surplus grid electricity and feeds district heating for the town's 5,000 residents for a week in winter or a month in summer. AI runs the charging on the spot market. No rare earths, no lithium, no degradation. A 250 MWh follow-up is planned in Vääksy for 2027. It's not a lithium replacement — it puts out heat, not electricity — but for heat-heavy regions (Nordic and industrial), it's exactly the kind of long-duration storage this myth's answer requires. See [sand battery source summary](../sources/sand-battery-finland-pornainen-2026.md).
+**Heat storage in action.** In July 2026 the Finnish company Polar Night Energy switched on the world's largest commercial sand battery in Pornainen, Finland. It is a 13-metre-tall silo holding 2,000 tonnes of crushed soapstone at 400-600°C. Rated at 100 MWh, it charges on spare grid electricity and supplies district heating for the town's 5,000 residents for a week in winter or a month in summer. AI decides when to charge, based on electricity market prices. It uses no rare earths and no lithium, and it doesn't wear out the way batteries do. A 250 MWh follow-up is planned in Vääksy for 2027. It doesn't replace lithium batteries, because it gives out heat rather than electricity. But for places that need a lot of heat, such as the Nordic countries and industrial areas, it is the kind of long-duration storage this answer relies on. See the [sand battery source summary](../sources/sand-battery-finland-pornainen-2026.md).
 
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- Chris Goodall — UK long-term storage cost analysis
+- Chris Goodall, UK long-term storage cost analysis

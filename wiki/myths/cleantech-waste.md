@@ -2,9 +2,9 @@
 title: "Myth: Wind turbine blades and solar panels just end up in landfill"
 category: myths
 tags: ["#myth", "#recycle", "#circularity", "#renewables", "#battery"]
-sources: ["MIT Technology Review, GEM battery recycling — https://www.technologyreview.com/2023/10/04/1080126/2023-climate-tech-companies-gem-battery-recycling-factory-electronic-waste/", "Inside Climate News, solar panel waste reality check — https://insideclimatenews.org/news/12102023/inside-clean-energy-reality-check-solar-panel-waste/"]
+sources: ["MIT Technology Review, GEM battery recycling. https://www.technologyreview.com/2023/10/04/1080126/2023-climate-tech-companies-gem-battery-recycling-factory-electronic-waste/", "Inside Climate News, solar panel waste reality check. https://insideclimatenews.org/news/12102023/inside-clean-energy-reality-check-solar-panel-waste/"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "turbine blade waste, solar panel waste, landfill, e-waste, 160 million tonnes, plastic waste, battery recycling, GEM, lithium recovery, Redwood Materials, second life batteries, microgrids, circular economy"
 claim_id: cleantech-waste
@@ -18,21 +18,23 @@ topic: materials
 
 ## Say this
 
-Solar waste by 2050 is about 160 million tonnes. Plastic waste will be over 12 billion. It is a real problem, just not the one worth panicking about.
+By 2050 the world will have about 160 million tonnes of old solar panels to deal with, against more than 12 billion tonnes of plastic waste. It's a real problem, but a small one, and recycling is already catching up.
 
 ## Why it sounds right
 
-There are real photographs of buried blades, and a wave of equipment installed over the last two decades is genuinely reaching end of life now. The problem is not imaginary.
+There are real photographs of buried turbine blades. A wave of equipment installed over the last two decades is now reaching the end of its life. The problem is not imaginary.
 
 ## What is actually true
 
-It is a real problem of a modest size. Cumulative solar panel waste could reach 160 million tonnes by 2050. By the same date total e-waste is projected at around 1.8 billion tonnes and plastic waste at over 12 billion tonnes, so solar is a rounding error next to the waste streams nobody campaigns about. Recycling is also scaling fast, especially for batteries. China's GEM recovers over 90% of the lithium from used batteries and processed around 17,000 tonnes of EV batteries in 2022. Redwood Materials found many packs it takes in still hold more than half their capacity, and is repurposing them into solar powered microgrids rather than shredding them.
+It is a real problem of a modest size. Solar panel waste could add up to **160 million tonnes by 2050**. By the same date, total e-waste is projected at around 1.8 billion tonnes and plastic waste at over 12 billion tonnes, so solar is a rounding error next to waste streams nobody campaigns about.
+
+Recycling is also growing fast, especially for batteries. China's GEM recovers over 90% of the lithium from used batteries and processed around 17,000 tonnes of EV batteries in 2022. Redwood Materials found that many packs it takes in still hold more than half their capacity, so it is turning them into solar-powered microgrids instead of shredding them.
 
 ## If they push back
 
 **"Recycling never actually happens"**
 
-For plastic, largely fair. For batteries it is a genuine industry already, because the materials inside are valuable enough to chase.
+For plastic, that's largely fair. For batteries it is already a real industry, because the materials inside are valuable enough to be worth recovering.
 
 ## Also heard as
 
@@ -51,5 +53,5 @@ Argument is that producing those tech produce Carbon, which it does, but it is g
 
 ## Sources
 
-- MIT Technology Review, GEM battery recycling — https://www.technologyreview.com/2023/10/04/1080126/2023-climate-tech-companies-gem-battery-recycling-factory-electronic-waste/
-- Inside Climate News, solar panel waste reality check — https://insideclimatenews.org/news/12102023/inside-clean-energy-reality-check-solar-panel-waste/
+- MIT Technology Review, GEM battery recycling, 4 October 2023. https://www.technologyreview.com/2023/10/04/1080126/2023-climate-tech-companies-gem-battery-recycling-factory-electronic-waste/
+- Inside Climate News, solar panel waste reality check, 12 October 2023. https://insideclimatenews.org/news/12102023/inside-clean-energy-reality-check-solar-panel-waste/

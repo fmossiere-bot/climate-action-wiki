@@ -2,9 +2,9 @@
 title: "Environmental Impact of Football World Cups"
 category: sectors
 tags: ["#sport", "#carbon", "#aviation", "#adaptation"]
-sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assessment", "Reuters, 10 June 2026 — https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/", "Outrage+Optimism podcast, June 2026", "We Don't Have Time, Markus Lutteman, June 2026 — https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95", "Covering Climate Now, 23 July 2026 — https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/"]
+sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assessment", "Reuters, 10 June 2026. https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/", "Outrage+Optimism podcast, June 2026", "We Don't Have Time, Markus Lutteman, June 2026. https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95", "Covering Climate Now, 23 July 2026. https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/"]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-10-28
 summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes, FIFPRO, wet-bulb globe temperature thresholds, Telemundo, Vanessa Hauc, Enzo Fernandez, Miami heat, Kansas City heat, tennis cooling breaks, LA Marathon"
 related:
   - home-cooling-heatwaves
@@ -12,15 +12,15 @@ related:
   - Facts about Air Travel
 ---
 
-While recent host countries focused heavily on building massive physical infrastructure, the upcoming 2026 World Cup shifts the carbon burden heavily onto **geographic scale and transportation**.
+Recent host countries built huge amounts of new infrastructure. The 2026 World Cup is different: most of its carbon comes from **geographic scale and travel**.
 
-Data from official FIFA reports, environmental watchdogs like _Carbon Market Watch_, and independent carbon accounting assessments (such as _Greenly_) provide the breakdown below. 
+The breakdown below draws on official FIFA reports, environmental watchdogs such as _Carbon Market Watch_, and independent carbon accounting assessments such as _Greenly_.
 
-> With a forecasted estimate of **5-7Millions spectators,** the carbon footprint will be mainly due to Air Travel, and 2x the impact of the last Worldcup in Qatar. 
+> With an expected **5 to 7 million spectators**, the tournament's carbon footprint will come mainly from air travel, at 2x the impact of the last World Cup in Qatar.
 
 ## Overview: Total Estimated Carbon Footprint (CO₂-e)
 
-The total estimated greenhouse gas emissions have risen dramatically over the last three cycles:
+Estimated greenhouse gas emissions have risen sharply over the last three tournaments:
 
 |**Tournament**|**Total Estimated Emissions (Metric Tons CO₂-e)**|**Primary Driver of Emissions**|**Key Context / Operational Scale**|
 |---|---|---|---|
@@ -28,90 +28,90 @@ The total estimated greenhouse gas emissions have risen dramatically over the la
 |**Qatar 2022**|~3.63 to 3.8 Million*|Stadium Construction & Cooling|32 Teams \| 64 Matches \| Hyper-compact footprint|
 |**North America 2026**|**~7.8 Million** (Projected)|**Spectator Air Travel**|48 Teams \| 104 Matches \| Tri-national scale|
 
-> _*Note: Independent watchdogs like Carbon Market Watch argue Qatar's total was understated due to a "use-share" accounting method on stadium construction lifespan, estimating true construction impacts were much higher._
+> _*Note: Independent watchdogs such as Carbon Market Watch argue that Qatar's total was understated. Its "use-share" accounting method spread the stadium construction emissions over the stadiums' expected lifespan, and the watchdogs estimate the real construction impact was much higher._
 
 ##  Comparative Analysis: Russia vs. Qatar vs. North America
 
 ### 1. Russia 2018: The Baseline
 
-Russia’s 2.17 million tonnes of CO₂-e established the modern baseline for a standard 32-team tournament. Because the host cities were spread across a massive geographic area (from Kaliningrad to Yekaterinburg), **internal transport and fan flights** made up the vast majority of the emissions.
+Russia's 2.17 million tonnes of CO₂-e set the modern baseline for a standard 32-team tournament. The host cities were spread across a huge area, from Kaliningrad to Yekaterinburg, so **internal transport and fan flights** made up most of the emissions.
 
-### 2. Qatar 2022: The Infrastructure Anomaly
+### 2. Qatar 2022: The Infrastructure Exception
 
-Qatar presented a complete inversion of Russia’s footprint dynamics:
+Qatar's footprint was the opposite of Russia's:
 
-- **The Good (for travel):** The tournament was hyper-compact. All stadiums were within a 35-mile radius, virtually eliminating internal team and fan flights during the tournament.
+- **The good (for travel):** The tournament was very compact. All stadiums were within a 35-mile radius, so there were almost no internal team or fan flights during the tournament.
     
-- **The Bad (for infrastructure):** Qatar had to construct seven brand-new, ultra-modern, heavily air-conditioned stadiums from scratch. Infrastructure accounted for roughly **25%** of Qatar’s entire carbon footprint.
+- **The bad (for infrastructure):** Qatar had to build seven brand-new, heavily air-conditioned stadiums from scratch. Infrastructure made up roughly **25%** of Qatar's entire carbon footprint.
     
 
-### 3. North America 2026: The "Travel Bomb"
+### 3. North America 2026: The Travel Problem
 
-Independent assessments (such as a comprehensive study by _Greenly_) project the 2026 World Cup will generate **7.8 million metric tons of CO₂-e**—making it the most carbon-intensive tournament in sports history.
+Independent assessments, such as a detailed study by _Greenly_, project that the 2026 World Cup will produce **7.8 million metric tons of CO₂-e**. That would make it the most carbon-intensive tournament in the history of sport.
 
-- **The Expansion:** The tournament is expanding from 32 to 48 teams, boosting the match count from 64 to 104. More matches mean more fans, longer hotel stays, and more waste.
-- **The Travel Tax:** Because the tournament is spread across three massive nations (US, Canada, and Mexico), **spectator air travel is projected to account for a staggering 87.8% of total emissions** (~6.8 million tonnes of CO₂-e).
-- **The Infrastructure Savings:** On the bright side, North America is relying almost entirely on existing NFL and large-scale stadiums. Infrastructure and stadium renovations account for just **3.1%** of the 2026 total, drastically lower than Qatar.
+- **The expansion:** The tournament grows from 32 to 48 teams, and the number of matches rises from 64 to 104. More matches mean more fans, longer hotel stays and more waste.
+- **The travel cost:** The tournament is spread across three very large countries (the US, Canada and Mexico). Spectator air travel is expected to make up **87.8% of total emissions**, around 6.8 million tonnes of CO₂-e.
+- **The infrastructure savings:** On the plus side, North America is relying almost entirely on existing NFL and other large stadiums. Infrastructure and stadium renovations make up just 3.1% of the 2026 total, far lower than in Qatar.
 
-## Key Takeaway
+## What This Means
 
-**Reusing existing infrastructure prevents massive local construction emissions, but scaling up an event across a continent completely erases those gains via aviation emissions.** While US hotels are roughly six times less carbon-intensive than Qatar’s heavily air-conditioned desert grid, the pure kinetic energy required to fly millions of domestic and international fans across thousands of miles from Vancouver to Miami makes the 2026 format uniquely carbon-heavy.
+Reusing existing stadiums avoids large construction emissions, but spreading a tournament across a continent wipes out those gains through flying. US hotels are roughly six times less carbon-intensive than Qatar's heavily air-conditioned desert grid. Even so, the fuel needed to fly millions of domestic and international fans thousands of miles, from Vancouver to Miami, makes the 2026 format unusually carbon-heavy.
 
 ---
 
 ## The 2026 World Cup as a Live Climate Adaptation Experiment
 
-The 2026 tournament introduced something new to football: mandatory three-minute hydration breaks in every half of every match. This has never happened in the sport before. Climate scientists and sports physiologists say it is a direct response to rising heat stress levels driven by climate change.
+The 2026 tournament brought something new to football: compulsory three-minute hydration breaks in every half of every match. This has never happened in the sport before. Climate scientists and sports physiologists say it is a direct response to rising heat stress caused by climate change.
 
-**Wet-bulb globe temperature (WBGT)** is the key measure. Unlike air temperature alone, WBGT combines heat, humidity, sunlight, and wind to estimate how much stress the human body is under. When WBGT exceeds 28°C, sprinting ability, distance covered, and recovery time all decline significantly.
+The key measure is **wet-bulb globe temperature (WBGT)**. Air temperature alone does not tell the whole story. WBGT combines heat, humidity, sunlight and wind to estimate how much stress the human body is under. When WBGT goes above 28°C, sprinting ability, distance covered and recovery time all drop noticeably.
 
-Research from Climate Central found that climate change increased the likelihood of performance-impairing temperatures at 97 of the 104 matches. The heat risk at the 2026 World Cup is roughly **twice that of the 1994 World Cup**, held in the same country. Around a quarter of all matches are projected to be played in conditions that exceed recommended safety limits.
+Research from Climate Central found that climate change made performance-impairing temperatures more likely at 97 of the 104 matches. The heat risk at the 2026 World Cup is roughly **twice that of the 1994 World Cup**, which was held in the United States alone (the 2026 tournament is shared by the United States, Canada and Mexico). Around a quarter of all matches are expected to be played in conditions above recommended safety limits.
 
-The highest-risk match is Uruguay vs Spain in Guadalajara on 26 June, with a 70% chance of performance-impairing heat — 37 percentage points higher than it would have been without climate change. High-humidity venues include Houston, Miami, Dallas, and Monterrey. Only three of the sixteen stadiums across the US, Mexico, and Canada are climate-controlled.
+The highest-risk match is Uruguay vs Spain in Guadalajara on 26 June, with a 70% chance of performance-impairing heat. That is 37 percentage points higher than it would have been without climate change. Venues with high humidity include Houston, Miami, Dallas and Monterrey. Only three of the sixteen stadiums across the US, Mexico and Canada are climate-controlled.
 
-Physiologists point out that 75% of energy used during exercise is converted to heat, not movement. Humidity is the critical variable, because sweat cools the body only when it evaporates. At high humidity, that cooling largely fails.
+Physiologists point out that 75% of the energy used during exercise turns into heat rather than movement. Humidity matters most, because sweat only cools the body when it evaporates. When the air is very humid, that cooling largely stops working.
 
-The Outrage+Optimism podcast argued that the hydration breaks should be called "extreme heat breaks" or "climate breaks" to make the link explicit for a global audience of billions — but noted that most commentary is unlikely to make that connection. As Christiana Figueres put it: "Climate change is now outpacing athletes’ ability to adapt."
+The Outrage+Optimism podcast argued that the hydration breaks should be called "extreme heat breaks" or "climate breaks", to make the link clear to a global audience of billions. It also noted that most commentary was unlikely to make that connection. As Christiana Figueres, the former UN climate chief, put it: "Climate change is now outpacing athletes’ ability to adapt."
 
-The specific threshold behind the breaks traces back to **FIFPRO**, the players' union, which commissioned a scientific study on extreme heat after brutal conditions at the 2025 FIFA Club World Cup, where a referee fainted mid-match and Argentina's Enzo Fernandez described lying on the ground "really dizzy," calling play "very dangerous." FIFPRO recommended breaks at a WBGT of **26°C (~79°F)** and suspending play entirely at **28°C (~82°F)**; FIFA wanted breaks only at **32°C (~90°F)**. Hydration breaks were the compromise. In practice, conditions during the tournament frequently exceeded FIFPRO's own threshold: Argentina vs Cape Verde in Miami reached a heat-index of roughly 101°F, and Colombia vs Ghana in Kansas City hit 88°F at 70% humidity the same evening. Tennis (cooling breaks above 30°C WBGT) and the 2026 LA Marathon (runners allowed to officially finish at mile 18 rather than 26 due to heat) show the same adaptation playing out across other sports.
+The threshold behind the breaks goes back to **FIFPRO**, the players' union. It commissioned a scientific study on extreme heat after brutal conditions at the 2025 FIFA Club World Cup, where a referee fainted during a match and Argentina's Enzo Fernandez described lying on the ground "really dizzy," calling play "very dangerous." FIFPRO recommended breaks at a WBGT of 26°C (~79°F) and stopping play entirely at 28°C (~82°F). FIFA wanted breaks only at 32°C (~90°F). Hydration breaks were the compromise. In practice, conditions during the tournament often went beyond FIFPRO's own threshold. Argentina vs Cape Verde in Miami reached a heat index of roughly 101°F, and Colombia vs Ghana in Kansas City hit 88°F at 70% humidity the same evening. Other sports are adapting in the same way. Tennis has cooling breaks above 30°C WBGT, and at the 2026 LA Marathon runners were allowed to officially finish at mile 18 instead of 26 because of the heat.
 
-Media coverage of the climate link was inconsistent. Covering Climate Now singled out Telemundo's environment reporter Vanessa Hauc as a rare example of US broadcast coverage that named the cause directly on air, tracing the heat back to "the way we produce energy, primarily by burning oil, coal, and natural gas" — while noting most other outlets covered the breaks as a TV-money story without the climate context.
+Media coverage of the climate link was patchy. Covering Climate Now singled out Telemundo's environment reporter Vanessa Hauc as a rare example of US broadcast coverage that named the cause on air, tracing the heat back to "the way we produce energy, primarily by burning oil, coal, and natural gas". It noted that most other outlets covered the breaks as a story about TV money, without the climate context.
 
 Source: [World Cup hydration breaks (source summary)](../sources/world-cup-hydration-breaks-fifpro-ccnow-2026.md); Covering Climate Now, 23 July 2026
 
-The tournament also exposed the weakness of US public transport. New Jersey Transit surge-priced return tickets from central New York to MetLife Stadium to $150, up from under $15, before scaling back after public pressure. Many international visitors expected European-style public transport and found limited infrastructure and high prices instead.
+The tournament also showed up the weakness of US public transport. New Jersey Transit raised the price of return tickets from central New York to MetLife Stadium to $150, up from under $15, before backing down after public pressure. Many international visitors expected European-style public transport and found limited services and high prices instead.
 
 ## FIFA, Fossil Fuels, and Sportswashing
 
-While climate change makes the 2026 World Cup more dangerous to play, FIFA's commercial decisions push emissions in the other direction. In 2024, FIFA signed a four-year partnership with **Saudi Aramco**, one of the world's largest oil companies. Just weeks before that deal was signed, Aramco's CEO called the energy transition a failure and urged the world to abandon "the fantasy" of phasing out oil.
+Climate change makes the 2026 World Cup more dangerous to play, while FIFA's commercial choices push emissions the other way. In 2024, FIFA signed a four-year partnership with **Saudi Aramco**, one of the world's largest oil companies. Just weeks before the deal, Aramco's CEO called the energy transition a failure and urged the world to abandon "the fantasy" of phasing out oil.
 
-Research by **Scientists for Global Responsibility (SGR)** estimates that the Aramco sponsorship deal alone could induce an additional **30 million tonnes of CO₂e** in 2026 through the reputational and commercial uplift it gives to one of the biggest corporate contributors to greenhouse gas emissions globally.
+Research by Scientists for Global Responsibility (SGR) estimates that the Aramco sponsorship alone could lead to an extra **30 million tonnes of CO₂e** in 2026. The figure reflects the boost in reputation and sales the deal gives to one of the world's biggest corporate sources of greenhouse gases.
 
-University of Manchester researchers called it directly: "FIFA has made elite men's football the primary target of petrostate sportswashing." The contradiction is hard to ignore. The organisation that controls the world's most watched sporting event claims to be "committed to enabling sustainable development, particularly in relation to climate-related aspects," while building a tournament that researchers say could be the most polluting in the competition's history.
+University of Manchester researchers put it plainly: "FIFA has made elite men's football the primary target of petrostate sportswashing." (Sportswashing means using sport to polish a reputation.) The contradiction is hard to miss. The body that runs the world's most watched sporting event says it is "committed to enabling sustainable development, particularly in relation to climate-related aspects," while staging a tournament that researchers say could be the most polluting in the competition's history.
 
-The pattern does not end with the 2026 tournament. The 2034 World Cup has been awarded to Saudi Arabia, a country that has repeatedly obstructed progress at UN climate negotiations while continuing to expand oil production.
+It does not end with 2026. The 2034 World Cup has been awarded to Saudi Arabia, a country that has repeatedly blocked progress at UN climate negotiations while continuing to expand oil production.
 
 ## The President's Jet: A Case Study in Leadership Failure
 
-While FIFA made environmental pledges for the 2026 tournament — regional grouping of teams, electric transport promotion, use of existing stadiums — BBC Verify tracked a private jet linked to FIFA president **Gianni Infantino** throughout the group stage using FlightRadar24 data.
+FIFA made environmental pledges for the 2026 tournament: grouping teams by region, promoting electric transport and using existing stadiums. Meanwhile, BBC Verify used FlightRadar24 data to track a private jet linked to FIFA president **Gianni Infantino** throughout the group stage.
 
-The numbers are stark. Infantino attended 24 matches in 16 days, with the jet taking **27 flights** to match his confirmed attendance. Total distance covered: at least **31,144 miles (50,122 km)**, with more than 66 hours in the air. The longest single flight was Vancouver to Miami (2,800 miles); he also took three separate flights in a single day on multiple occasions.
+Infantino attended 24 matches in 16 days, and the jet made 27 flights matching his confirmed attendance. It covered at least 31,144 miles (50,122 km), with more than 66 hours in the air. The longest single flight was Vancouver to Miami (2,800 miles), and on several days he took three separate flights.
 
-The estimated climate impact: approximately **516 tonnes of CO₂e** over those two weeks — equivalent to the average annual greenhouse gas footprint of **78 people**. The aircraft used (believed to be a Gulfstream G650ER) burns approximately 1,817 litres of fuel per hour. Private jets are 5 to 14 times more polluting than commercial flights, and 50 times more than trains.
+The estimated climate impact is about **516 tonnes of CO₂e** over those two weeks, equal to the average yearly greenhouse gas footprint of 78 people. The aircraft, believed to be a Gulfstream G650ER, burns about 1,817 litres of fuel per hour. Private jets are 5 to 14 times more polluting than commercial flights, and 50 times more polluting than trains.
 
-FIFA, when contacted by the BBC, stated that travel is "sometimes on commercial airlines, sometimes on private charter, depending on which is more efficient." It did not confirm the plane type, the number of passengers, or whether any emissions offsets were applied.
+When the BBC contacted FIFA, it said travel is "sometimes on commercial airlines, sometimes on private charter, depending on which is more efficient." It did not confirm the type of plane, the number of passengers, or whether any emissions were offset.
 
-Freddie Daley of the sport climate action network Cool Down described Infantino's apparent use of a private jet as "symptomatic of FIFA's failings on the environment and sustainability... completely at odds with the level of leadership that we need to see at the top of FIFA on environmental issues."
+Freddie Daley of Cool Down, a network for climate action in sport, described Infantino's apparent use of a private jet as "symptomatic of FIFA's failings on the environment and sustainability... completely at odds with the level of leadership that we need to see at the top of FIFA on environmental issues."
 
-This sits alongside FIFA's own stated targets: a 50% emissions reduction by 2030 and net zero by 2040. A separate SGR 2025 report estimated that the total carbon footprint of the 2026 World Cup could reach **9 million tonnes of CO₂e** — a figure somewhat higher than earlier projections, and almost double the average of the past four World Cups.
+All this sits alongside FIFA's own targets: a 50% cut in emissions by 2030 and net zero by 2040. A separate 2025 SGR report estimated that the total carbon footprint of the 2026 World Cup could reach **9 million tonnes of CO₂e**. That is somewhat higher than earlier projections, and almost double the average of the past four World Cups.
 
-Meanwhile, back on local pitches, the consequences of climate change are already tangible. Across Great Britain, a growing number of football matches are being cancelled due to extreme weather, particularly flooding. The UK Met Office projects that under a high-emissions scenario, winters could become up to 30% wetter by 2070.
+Back on local pitches, the effects of climate change are already visible. Across Great Britain, more and more football matches are being called off because of extreme weather, especially flooding. The UK Met Office projects that under a high-emissions scenario, winters could become up to 30% wetter by 2070.
 
 ## Sources
 
 - FIFA official reports; Carbon Market Watch; Greenly carbon assessment
-- Reuters, Angelica Medina and Janina Rios, 10 June 2026 — https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/
-- Outrage+Optimism podcast, June 2026 — https://podcasts.apple.com/ie/podcast/outrage-optimism-the-climate-podcast/id1459416461?i=1000772155867
-- We Don't Have Time, Markus Lutteman, June 2026 — https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95
-- Scientists for Global Responsibility (SGR), 2026 — https://www.sgr.org.uk/resources/2026-fifa-men-s-world-cup-be-most-polluting-ever
-- BBC Verify, Jake Horton et al., 28 June 2026 — https://www.bbc.com/sport/football/articles/cgev5wy0zg3o
+- Reuters, Angelica Medina and Janina Rios, 10 June 2026. https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/
+- Outrage+Optimism podcast, June 2026. https://podcasts.apple.com/ie/podcast/outrage-optimism-the-climate-podcast/id1459416461?i=1000772155867
+- We Don't Have Time, Markus Lutteman, June 2026. https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95
+- Scientists for Global Responsibility (SGR), 2026. https://www.sgr.org.uk/resources/2026-fifa-men-s-world-cup-be-most-polluting-ever
+- BBC Verify, Jake Horton et al., 28 June 2026. https://www.bbc.com/sport/football/articles/cgev5wy0zg3o

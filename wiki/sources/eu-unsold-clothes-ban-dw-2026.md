@@ -4,53 +4,51 @@ category: sources
 tags: ["#fashion", "#circularity", "#eu-policy", "#recycle"]
 sources: ["raw/articles/EU ban on destroying unsold clothes takes effect.md"]
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-10-28
 summary: Ecodesign for Sustainable Products Regulation ESPR, fast fashion, unsold clothing disposal ban, EU 27 member states, 250 employees €50m turnover threshold, 4-9% textile disposal EEA, 1 in 5 online returns not resold, HDE German Retail Federation, Primark Zara Shein H&M context, 2030 medium-sized firm extension, annual disposal reports, 5-year records
+related:
+  - The Environmental Impact of the FASHION industry
+  - The Rewearable -  Circular Fashion
+  - seaqual-ocean-plastic-fashion
+  - plastic-mass-balance-greenwashing
 ---
 
 # EU ban on destroying unsold clothes takes effect
 
-**Source:** Deutsche Welle, Nik Martin, 19 July 2026
-**URL:** https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888
+**Source:** Deutsche Welle, Nik Martin, 19 July 2026. https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888
 
 ## What it is
 
-Reporting on the **entry into force of the EU's ban on destroying unsold clothes, accessories and footwear** — a provision of the **Ecodesign for Sustainable Products Regulation (ESPR)**. From **19 July 2026**, large fashion companies with **more than 250 employees and over €50 million in net annual turnover** are prohibited from disposing of unsold apparel stock. The rule extends to medium-sized firms in 2030.
+A news report on the day the EU's ban on destroying unsold clothes, accessories and footwear came into force. The ban is part of the **Ecodesign for Sustainable Products Regulation (ESPR)**, the EU law that sets rules for how products are designed and handled.
 
-## Key facts cited
-
-- Ban took effect **19 July 2026** across the 27-member EU
-- Applies to companies with **>250 employees and >€50m annual turnover**; **extended to medium-sized firms in 2030**
-- **European Environment Agency (EEA)** estimate: **4% to 9% of unsold textile products are destroyed each year**
-- **One in five fashion goods ordered online is returned and not resold**
-- **Only ~20% of apparel sold in the EU is produced in the EU**
-- Firms must now find ways to sell the products — via **discounts, alternative markets, charity donations**
-- Unsold clothes can only be destroyed if items are **unsafe, damaged, counterfeit, or rejected by charities**
-- Companies now required to **publish annual reports on discarded goods** and **keep records for five years**
-- Regulation was approved by Brussels more than two years ago; ban was pre-announced
-
-## Voices and reaction
-
-- **HDE (German Retail Federation)** managing director **Stefan Genth**: consumers will benefit from more discounted apparel through outlets, clearance markets and second-hand channels — but warned "not all unsold goods can be resold or donated easily" due to damaged packaging, high logistics costs, lack of demand or low product values
-- **EEA** on LinkedIn: *"A circular economy — where products are designed to last, and are reused, repaired and recycled — is no longer just a vision, but is being embedded in law through these new legislative measures."*
-- The fashion industry has previously defended disposal on cost grounds — storing, repairing or discounting often costs more than incinerating
+From 19 July 2026, large fashion companies can no longer throw away or burn stock they have not sold. "Large" means more than 250 employees and over €50 million in net annual turnover. Medium-sized firms will follow in 2030.
 
 ## Why it matters
 
-Fast fashion is one of the clearest examples of a **linear-economy failure**: the industry has grown by pushing more clothes into the market faster than they can be sold, then destroying the overhang. The EU's move is the first hard legal cap on that pattern in a major economic bloc. Two things are notable about **how** it is written:
+Fast fashion is one of the clearest examples of a throwaway economy. The industry has grown by putting more clothes on the market than people can buy, then destroying what is left over. This is the first time a major economic bloc has put a hard legal limit on that habit.
 
-- **Reporting requirement + 5-year record retention** turns opacity into an audit trail
-- **Extension to medium-sized firms in 2030** signals this is not a symbolic cap on a few giants but a phased tightening
+The way the law is written also matters. Companies have to report every year on what they throw away and keep records for 5 years, so a practice that was hidden now leaves a paper trail. The move to medium-sized firms in 2030 shows the rule is meant to tighten in stages rather than stop at a handful of big names.
 
-Whether it actually changes behaviour depends on enforcement, and on whether companies **shift toward smaller launches / repair / rental** or simply move disposal outside the EU border. Given that ~80% of EU-sold apparel is produced outside the EU, that supply-chain vulnerability is real.
+Whether it changes behaviour depends on enforcement. Companies could respond by making smaller collections, repairing or renting clothes. Or they could simply destroy unsold stock outside the EU. With about 80% of clothing sold in the EU made elsewhere, that loophole is a real risk.
 
-## Tone and angle
+## Key facts
 
-Straight news reporting. DW gives the industry pushback (HDE) fair space and includes EEA framing. Notably matter-of-fact — no editorialising, just the mechanics and the numbers.
+- The ban took effect on **19 July 2026** across all 27 EU member states.
+- It covers companies with more than 250 employees and more than €50m annual turnover, and extends to medium-sized firms in 2030.
+- The European Environment Agency (EEA) estimates that 4% to 9% of unsold textile products in Europe are destroyed each year.
+- One in five fashion items ordered online is returned and never resold.
+- Only about 20% of clothing sold in the EU is made in the EU.
+- Firms now have to find other outlets: discounts, other markets or donations to charity. Unsold clothes may only be destroyed if they are unsafe, damaged, counterfeit or refused by charities.
+- Companies must publish annual reports on discarded goods and keep records for five years. Brussels approved the regulation more than two years ago, so the ban did not come as a surprise.
 
-## How it connects to the wiki
+## Voices in the piece
 
-- Updates `wiki/circularity-waste/The Environmental Impact of the FASHION industry.md`
-- Complements the [Seaqual ocean plastic to fashion](../circularity-waste/seaqual-ocean-plastic-fashion.md) page — different point on the same value chain
-- Fits alongside `wiki/circularity-waste/The Rewearable -  Circular Fashion.md`
-- Reinforces `wiki/circularity-waste/plastic-mass-balance-greenwashing.md` — same "circular economy in EU law" thread
+Stefan Genth, managing director of HDE, the German Retail Federation, speaks for shops. He expects shoppers to see more discounted clothing in outlets, clearance markets and second-hand channels. But he warns that "not all unsold goods can be resold or donated easily", pointing to damaged packaging, high logistics costs, weak demand and low product values.
+
+The EEA welcomed the change on LinkedIn: *"A circular economy, where products are designed to last, and are reused, repaired and recycled, is no longer just a vision, but is being embedded in law through these new legislative measures."*
+
+The fashion industry has long defended destroying stock on cost grounds. Storing, repairing or discounting clothes often costs more than burning them.
+
+## Sources
+
+- Deutsche Welle, Nik Martin, 19 July 2026. https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888

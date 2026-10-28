@@ -4,9 +4,9 @@ category: myths
 tags: ["#myth"]
 sources:
   - Hannah Ritchie, Not the End of the World (2024)
-  - Transport & Environment — Battery electric vehicles lifecycle emissions
+  - Transport & Environment, Battery electric vehicles lifecycle emissions
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-10-28
 cover_image: ""
 summary: EV carbon footprint, battery manufacturing carbon debt, lifecycle emissions, UK 66% less, Europe up to 70% less, US two thirds less, China 37 to 45% less, India nearly a third less, CATL 45% factory emissions cut, grid decarbonisation, walking cycling first, EV vs petrol whole life, Hannah Ritchie
 claim_id: evs-just-as-bad-for-climate
@@ -26,37 +26,37 @@ related:
 
 ## Say this
 
-Making an electric car does create more carbon upfront than making a petrol one, mostly because of the battery. But you pay that "carbon debt" back quickly once you start driving, and then the EV keeps being much cleaner for the rest of its life. Over the whole lifetime, an EV is 60 to 70% cleaner than a petrol equivalent almost everywhere, and it keeps improving as electricity grids get greener.
+Making an electric car does create more carbon upfront than making a petrol one, mostly because of the battery, but you pay that back quickly once you start driving. Over its whole life an EV is 60 to 70% cleaner than a petrol car almost everywhere, and it keeps getting cleaner as the grid does.
 
 ## Why it sounds right
 
-Because the manufacturing footprint is real and non-trivial. Building the battery uses a lot of energy, and a lot of that energy today still comes from fossil fuels. If you stop the analysis at the factory gate, an EV really does start worse than a petrol car. The mistake is stopping the analysis there instead of looking at the whole 15-year life on the road.
+The manufacturing footprint is real and sizeable. Building the battery takes a lot of energy, and much of that energy still comes from fossil fuels today. If you stop counting at the factory gate, an EV really does start out worse than a petrol car. The mistake is stopping there instead of looking at its whole 15-year life on the road.
 
 ## What is actually true
 
-Full lifetime emissions (manufacturing + running) show EVs well ahead everywhere:
+Once you add up emissions from both making and running the car, EVs come out well ahead everywhere:
 
-- **UK**: an EV emits **66% less carbon** than a petrol car over its life. By 2030, this rises to **76% less**.
-- **Europe**: up to **70% lower** lifetime emissions
-- **US**: about **two thirds lower**
-- **China** (heavily coal-based grid): still **37 to 45% lower**
-- **India** (also coal-heavy): **nearly a third lower**
+- **UK**: an EV emits **66% less carbon** than a petrol car over its life. By 2030 this rises to 76% less.
+- **Europe**: up to 70% lower lifetime emissions
+- **US**: about two thirds lower
+- **China** (a grid heavily based on coal): still 37 to 45% lower
+- **India** (also coal-heavy): nearly a third lower
 
-These numbers already include emissions from making the car and the battery. EVs will keep getting cleaner as grids decarbonise. Manufacturing is improving fast too: **CATL, the world's largest battery producer, cut its own manufacturing emissions by 45% in a single year** by switching factories to more clean electricity.
+These figures already include the emissions from making the car and its battery. EVs will keep getting cleaner as grids move away from fossil fuels. Manufacturing is improving fast too: **CATL**, the world's largest battery maker, cut its own manufacturing emissions by 45% in a single year by running its factories on more clean electricity.
 
 ## If they push back
 
 **"But the battery is a huge carbon debt."**
 
-It is, but you pay it back within about the first 15,000-30,000 miles depending on the grid mix. After that, every mile is far cleaner than a petrol equivalent. Over 150,000 miles the debt is a rounding error compared to the tailpipe emissions you avoid.
+It is, but you pay it back within roughly the first 15,000-30,000 miles, depending on how clean the local electricity is. After that, every mile is far cleaner than in a petrol car. Over 150,000 miles, the battery's debt is small next to the exhaust emissions you avoid.
 
 **"What about all the mining?"**
 
-Mining is a real problem and needs cleaning up. But a petrol car needs mining plus **continuously extracting and refining and burning oil for 15 years**. The comparison is not "clean vs dirty" — it is "one-off battery mining vs one-off battery mining plus a lifetime of fossil combustion."
+Mining is a real problem and needs cleaning up. But a petrol car needs mining too, plus **15 years of extracting, refining and burning oil**. So the choice is between mining for a battery once, and mining for a car once and then burning fuel for its whole life.
 
 **"OK but for someone who barely drives, it's not worth it."**
 
-Fair. If you barely drive, the climate case for replacing a working petrol car is weak because the manufacturing debt takes a long time to pay off. The best answer for low-mileage drivers is usually to keep the existing car running longer, then go electric when it needs replacing.
+Fair. If you hardly drive, the climate case for replacing a working petrol car is weak, because the manufacturing emissions take a long time to pay back. For low-mileage drivers the best answer is usually to keep the current car going, then go electric when it needs replacing.
 
 ## Also heard as
 
@@ -69,14 +69,14 @@ Fair. If you barely drive, the climate case for replacing a working petrol car i
 
 ## Go deeper
 
-**Where the carbon debt actually sits.** Manufacturing an EV produces roughly 40-60% more emissions than manufacturing an equivalent petrol car, almost all of it from making the battery. That is a real cost, but a one-off. Every mile driven afterwards is either "electricity from the grid" (falling in carbon intensity every year) or "petrol from a well, refined, tanked, delivered, burned" (not falling). The gap widens over time.
+Where the carbon debt sits: making an EV produces roughly 40-60% more emissions than making a similar petrol car, almost all of it from the battery. That's a real cost, but it's paid once. Every mile afterwards runs on grid electricity, which gets less carbon-intensive every year, or on petrol that has been pumped, refined, transported and burned, which doesn't improve. The gap widens over time.
 
-**The grid effect.** Because EV emissions come mostly from the grid, they get cleaner as the grid gets cleaner. A petrol car built today will still be burning the same petrol in 2030. An EV built today will be running on a cleaner grid in 2030 than it does now, and much cleaner still by 2035.
+The grid effect: because an EV's emissions come mostly from the grid, they fall as the grid gets cleaner. A petrol car built today will still burn the same petrol in 2030. An EV built today will run on a cleaner grid in 2030 than it does now, and cleaner still by 2035.
 
-**One thing to keep straight.** Walking, cycling and public transport still beat any car, electric or petrol. The EV case is not "electric is perfect" but "if you are going to drive anyway, electric is a lot less bad."
+One thing to keep in mind: walking, cycling and public transport still beat any car, electric or petrol. Nobody is claiming electric cars are perfect. The point is that if you're going to drive anyway, electric is a lot less harmful.
 
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- Transport & Environment — battery electric vehicles lifecycle emissions modelling
-- IEA — Global EV Outlook 2024
+- Transport & Environment. Battery electric vehicles lifecycle emissions modelling
+- IEA. Global EV Outlook 2024

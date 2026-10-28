@@ -3,7 +3,7 @@ title: Efficient Aviation
 category: solutions
 tags: ["#aviation", "#alternative-fuels", "#transport"]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-10-28
 summary: Project Drawdown, aircraft efficiency, winglets, fuel-efficient engines, aircraft retrofitting, early retirement of older aircraft, air freight, belly freight, aviation emissions share, fuel burn improvement, lightweight interiors
 related:
   - Sustainable Aviation Fuel -  A Necessary but Complicated Solution
@@ -15,18 +15,23 @@ related:
 
 ## What is it
 
-**Efficient Aviation** is one of Project Drawdown's climate solutions, focused on aircraft technologies that reduce the fuel needed to fly single-aisle and twin-aisle planes. It covers adoption of the latest, most fuel-efficient aircraft, retrofitting existing planes with winglets, newer engines and lighter interiors, and retiring older, less efficient aircraft early. Because much air freight travels in the belly of passenger aircraft, roughly 52% of it according to Airbus, efficiency gains here also affect freight, though that impact is not separately quantified in Project Drawdown's analysis.
+**Efficient Aviation** is one of Project Drawdown's climate solutions. It looks at aircraft technologies that cut the fuel needed to fly single-aisle and twin-aisle planes. That means buying the latest, most fuel-efficient aircraft, fitting existing planes with winglets, newer engines and lighter interiors, and retiring older, thirstier aircraft early.
+
+Much air freight travels in the hold of passenger planes, roughly 52% of it according to Airbus. So efficiency gains here also help freight, although Project Drawdown's analysis does not put a separate number on that.
 
 ## Why it matters
 
-The number of flights globally may double between 2020 and 2040, so efficiency improvements are one of the few aviation decarbonisation levers that can be deployed with existing, commercially proven technology rather than waiting for new aircraft designs or fuels. Aviation is estimated to have produced approximately **2.6% of anthropogenic CO2 emissions in 2018**, based on 2016 aviation fuel consumption data and 2016 global CO2 emissions figures.
+The number of flights worldwide may double between 2020 and 2040. Efficiency is one of the few ways to cut aviation emissions using technology that already exists and is already sold, rather than waiting for new aircraft designs or new fuels. Aviation produced around **2.5% of global CO2 emissions in 2019** (Our World in Data).
 
 ## The scale of the opportunity
 
-Project Drawdown's analysis found that over 30 years, and for a net first cost of **US$3.47 to 3.79 trillion**, adopting these efficiency measures could avoid **5.29 to 5.82 gigatons of CO2-equivalent emissions** and save **US$1.59 to 2.24 trillion** in lifetime jet fuel and operating costs, as over 80% of the global aircraft fleet is converted to more efficient types. Fuel burn could plausibly be improved by around 13%, with roughly 100 aircraft retrofitted annually under this scenario. This analysis deliberately excludes well-publicised but not yet commercially proven technologies such as aviation biofuels; more dramatic aircraft redesigns and sustainable jet fuels made from sources like algae are still in development, alongside national and international aviation industry regulation.
+Project Drawdown looked at what would happen over 30 years if more than 80% of the world's aircraft fleet switched to more efficient types. For a net upfront cost of **US$3.47 to 3.79 trillion**, these measures could avoid 5.29 to 5.82 gigatons of CO2-equivalent emissions. They would also save US$1.59 to 2.24 trillion in jet fuel and running costs over the planes' lifetimes.
+
+Fuel burn could realistically improve by around 13%, with roughly 100 aircraft retrofitted each year in this scenario. The analysis deliberately leaves out technologies that get a lot of attention but are not yet commercially proven, such as aviation biofuels. More radical aircraft designs and sustainable jet fuels made from sources like algae are still in development, as is national and international regulation of the industry.
 
 ## Sources
 
-- Project Drawdown, Efficient Aviation — https://drawdown.org/solutions/efficient-aviation
+- Project Drawdown, Efficient Aviation. https://drawdown.org/solutions/efficient-aviation
 - OECD/IEA, 2018 aviation fuel and emissions data
 - Global Carbon Atlas, 2018
+- Our World in Data, Hannah Ritchie, "What share of global CO2 emissions come from aviation?", 8 April 2024. https://ourworldindata.org/co2-emissions-from-aviation

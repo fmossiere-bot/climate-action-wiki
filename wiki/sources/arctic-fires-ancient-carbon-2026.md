@@ -1,35 +1,45 @@
 ---
 title: "Arctic fires are releasing carbon stored for thousands of years"
-description: "New Scientist article (Michael Le Page, May 2026): soil core study shows Arctic and boreal wildfires are burning carbon up to 5,000 years old — climate models underestimate wildfire emissions because they assume only recent plant growth burns"
+description: "New Scientist article (Michael Le Page, May 2026): soil core study shows Arctic and boreal wildfires are burning carbon up to 5,000 years old, climate models underestimate wildfire emissions because they assume only recent plant growth burns"
 metadata:
   type: source
-sources: ["New Scientist, Michael Le Page, 13 May 2026 (updated 30 May 2026) — from raw/papers/New Scientist 2.pdf and raw/papers/Artic-Fires.pdf"]
+sources: ["New Scientist, Michael Le Page, 13 May 2026 (updated 30 May 2026), from raw/papers/New Scientist 2.pdf and raw/papers/Artic-Fires.pdf"]
 created: 2026-06-12
+updated: 2026-10-28
+related:
+  - wildfires-climate-feedback
+  - The importance of Wetlands
 ---
 
 # Arctic fires are releasing carbon stored for thousands of years
 
-**Source:** New Scientist, Michael Le Page, 13 May 2026 (updated 30 May 2026)
-**Research:** Meri Ruppel, Finnish Meteorological Institute, presented at the European Geosciences Union meeting in Vienna
+**Source:** New Scientist, Michael Le Page, 13 May 2026 (updated 30 May 2026). The research is by Meri Ruppel of the Finnish Meteorological Institute, presented at the European Geosciences Union meeting in Vienna.
 
-## Summary
+## What it is
 
-Arctic and boreal wildfires are far more dangerous to the climate than current models assume, because they are burning carbon that has been stored in Arctic soils for centuries to millennia. The assumption in most climate models is that wildfires mostly burn recent plant growth. A study of soil cores from fire-affected areas shows this is wrong: in many places, burning surface vegetation triggers a slower smouldering of old organic material deep in the soil, releasing carbon — and black soot — that has been locked away for up to 5,000 years.
+Most climate models assume that a wildfire burns recent plant growth: grass, shrubs, trees that grew in the last few decades. Meri Ruppel's team took soil cores from burnt areas in the Arctic and the boreal forest and found something else. In many places the flames at the surface set off a slow smoulder deep in the soil, which burns organic matter that has been building up for centuries.
+
+That old material holds **carbon locked away for up to 5,000 years**. When it burns, it comes back out as CO2 and as black soot.
+
+## Why it matters
+
+Arctic soils, mostly peat, have been quietly storing carbon for thousands of years. If fires are now reaching that store, every Arctic fire season releases more carbon than the models count. That means wildfire emissions in the far north are probably being underestimated, and by a meaningful amount.
+
+The soot adds a second problem. Black carbon soaks up heat from the sun, and when it settles on snow or ice it darkens the surface and speeds up melting. For people living in the north, that means faster change on the ground they depend on.
 
 ## Key facts
 
-- Arctic soils have accumulated organic matter (mainly peat) over centuries and millennia, making them significant carbon sinks.
-- Recent wildfires are triggering smouldering combustion of this old organic material, releasing ancient carbon as CO₂ and black carbon (soot).
-- Black carbon absorbs solar heat directly and, when deposited on ice or snow, accelerates melting.
-- In Canada's Northwest Territories, fires are burning several centimetres into the soil, releasing carbon stored up to 400 years ago.
-- In Greenland, fires burn 10 cm down on average; in places 15 cm down, releasing carbon 1,000 years old.
-- In Quebec's boreal forest, fires have released carbon from 5,000 years ago (not widespread but confirmed in places).
-- Current climate models do not account for this ancient carbon release — meaning wildfire emissions are likely being significantly underestimated.
-- The age of combusted carbon varies by environment (depth of organic soil and depth of burning vary).
-- Sandy Harrison (University of Reading): "It is clear that there is a lot of old carbon in high-latitude soils and peats. As we move into new fire regimes that are destroying the top-soil layers and also burning in peatlands, there will be a release of old carbon."
+- Arctic soils have built up organic matter, mainly peat, over centuries and millennia, which makes them important carbon stores.
+- In Canada's Northwest Territories, fires are burning several centimetres into the soil and releasing carbon stored up to 400 years ago.
+- In Greenland, fires burn 10 cm down on average, and 15 cm in places, releasing carbon 1,000 years old.
+- In Quebec's boreal forest, fires have released carbon from 5,000 years ago. This is not widespread, but it is confirmed in some spots.
+- How old the burnt carbon is depends on the place: how deep the organic soil goes and how deep the fire reaches.
+- Current climate models do not account for this ancient carbon, so wildfire emissions are likely being underestimated.
 
-## Related wiki pages
+## Voices in the piece
 
-- [Wildfires and Climate Feedback](../climate-science/wildfires-climate-feedback.md)
-- [FACTS about the Ocean](../biodiversity-land/FACTS%20about%20the%20Ocean.md)
-- [The importance of Wetlands](The%20importance%20of%20Wetlands.md)
+Sandy Harrison of the University of Reading, who was not part of the study, agrees with the direction of travel: "It is clear that there is a lot of old carbon in high-latitude soils and peats. As we move into new fire regimes that are destroying the top-soil layers and also burning in peatlands, there will be a release of old carbon."
+
+## Sources
+
+- New Scientist, Michael Le Page, 13 May 2026 (updated 30 May 2026).

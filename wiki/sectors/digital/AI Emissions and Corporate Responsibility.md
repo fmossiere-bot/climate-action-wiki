@@ -2,9 +2,9 @@
 title: "AI Emissions and Corporate Responsibility"
 category: sectors
 tags: ["#ai", "#digital", "#energy", "#esg", "#carbon"]
-sources: ["Watershed, Eric Nevalsky & Steven Watson, 2025 — https://watershed.com"]
+sources: ["Watershed, Eric Nevalsky & Steven Watson, 2025. https://watershed.com"]
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-10-28
 cover_image:
 summary: AI emissions, LLM carbon footprint, GPU electricity, inference vs training, data centres, Jevons paradox, AI procurement, vendor evaluation, renewable energy, PPA, REC, scope 2, carbon intensity, grid decarbonisation, AI and sustainability, measuring AI emissions, token count, model ID, corporate sustainability, AI efficiency, right-sizing models, context stuffing, sustainability AI tools
 related:
@@ -19,42 +19,42 @@ related:
 
 ## What it is
 
-This page explains **where AI emissions actually come from, how large they are, and what companies can do about them.** The source is a 2025 guide by Watershed (a corporate sustainability platform), aimed at sustainability leaders trying to get ahead of AI's growing carbon footprint before it becomes a material issue in their reporting.
+This page explains where AI emissions come from, how large they are, and what companies can do about them. The source is a 2025 guide by Watershed, a corporate sustainability platform. It is aimed at sustainability leaders who want to get ahead of AI's growing carbon footprint before it becomes a material issue in their reporting.
 
-The central, non-obvious finding: **inference, the act of running a model, accounts for over 90% of total AI lifecycle emissions.** Training gets all the headlines, but because it happens once while inference happens millions of times a day, it is a rounding error by comparison.
+The finding that surprises most people is about where the emissions sit. **Inference**, the act of running a model, accounts for over 90% of total AI lifecycle emissions. Training gets most of the attention, but it happens once, while inference happens millions of times a day. By comparison, training is a rounding error.
 
-## Where AI emissions actually come from
+## Where AI emissions come from
 
-AI emissions are almost entirely electricity: **around 80.9% from powering GPUs** during inference, about 17.8% from other data centre infrastructure, and just 1.3% from GPU manufacturing. A single LLM query uses roughly 0.24 Wh of electricity, about **0.1 to 0.3 g CO₂e** on the average US grid. A heavy user running 100 queries a day generates around 3 kg CO₂e a year, less than the emissions from half a kilogram of beef.
+AI emissions are almost entirely electricity: **around 80.9% from powering GPUs** during inference, about 17.8% from other data centre infrastructure, and just 1.3% from GPU manufacturing. A single LLM query uses roughly 0.24 Wh of electricity, which works out at about 0.1 to 0.3 g CO₂e on the average US grid. A heavy user running 100 queries a day generates around 3 kg CO₂e a year, less than the emissions from half a kilogram of beef.
 
-The practical implication is that **AI emissions scale with usage, depend heavily on grid carbon intensity, and are therefore decarbonisable**, unlike cement or steel, where fossil fuels are a chemical input, not just an energy source.
+In practice, this means AI emissions grow with use and depend on how clean the local grid is. That also means they can be cut by cleaning up the electricity. Cement and steel are different: there, fossil fuels are a chemical input as well as an energy source.
 
 ## The Jevons Paradox problem
 
-AI models are becoming more efficient per query: Google's Gemini saw a **33x reduction in energy per query** from 2024 to 2025. But efficiency gains make AI cheaper, which drives adoption, which drives total electricity demand up. This is the [Jevons Paradox](What%20is%20JEVONS%20Paradox.md): total AI energy demand is projected to **triple by 2030** even as per-query efficiency improves. The risk is not any single query, it is system-wide energy growth outpacing clean supply.
+AI models are becoming more efficient per query. Google's Gemini saw a **33x reduction in energy per query** from 2024 to 2025. But efficiency makes AI cheaper, cheaper AI gets used more, and more use pushes total electricity demand up. This is the [Jevons Paradox](What%20is%20JEVONS%20Paradox.md). Total AI energy demand is projected to triple by 2030, even as each query becomes more efficient. The worry is not any single query. It is the whole system's energy use growing faster than clean supply.
 
-Making this worse, data centres are being built faster than renewable energy can come online. Goldman Sachs projects **60% of new data centre power this decade will come from natural gas**. In 2025 alone, 1,891 energy projects (266 GW) were cancelled in the US, 93% of them clean energy.
+Data centres are also being built faster than renewable energy can come online. Goldman Sachs projects that **60% of new data centre power** this decade will come from natural gas. In 2025 alone, 1,891 energy projects (266 GW) were cancelled in the US, and 93% of them were clean energy.
 
 ## Responsible procurement as climate strategy
 
-Most AI emissions are determined upstream, by where data centres are located, what electricity they use, and how efficiently they operate. **Companies cannot control model architecture, but they can control which vendors they choose.** Watershed frames procurement as the strongest lever sustainability leaders have.
+Most AI emissions are decided upstream: by where data centres are, what electricity they use and how efficiently they run. Companies cannot control how a model is built, but they can choose their vendors. Watershed sees procurement as the biggest lever sustainability leaders have.
 
-When evaluating AI or cloud providers, the guide recommends assessing three things: infrastructure transparency (can they disclose region-level emissions factors and methodology?), clean energy strategy (hourly vs annual matching, power purchase agreements vs unbundled renewable energy certificates), and long-term commitments (carbon removal purchases, data centre efficiency roadmaps). Selecting a data centre region with cleaner grid electricity can **reduce operational AI emissions by 30 to 80% instantly**.
+When comparing AI or cloud providers, the guide suggests looking at infrastructure transparency (can they disclose region-level emissions factors and methodology?), clean energy strategy (hourly versus annual matching, power purchase agreements versus unbundled renewable energy certificates), and long-term commitments (carbon removal purchases, data centre efficiency roadmaps). Choosing a data centre region with cleaner grid electricity can **reduce operational AI emissions by 30 to 80%** straight away.
 
 ## Measuring AI emissions
 
-There is currently no globally accepted standard for measuring AI emissions. The most useful data points are region and location (critical, because grid carbon intensity varies enormously by place), model ID (critical, because different models have very different compute requirements), and token count (medium to high, a good proxy for compute, though converting to energy requires assumptions). Spend-based estimates are a fallback. Latency is a poor proxy.
+There is no globally accepted standard for measuring AI emissions yet. The most useful data points are region and location, which matter most because grid carbon intensity varies hugely from place to place, and model ID, because different models need very different amounts of computing. Token count is the next most useful: a good proxy for computing, though turning it into energy needs assumptions. Spend-based estimates are a fallback. Latency is a poor proxy.
 
 ## Summary findings
 
-- **More than 90% of AI lifecycle emissions** come from inference (usage), not training or hardware.
-- A single LLM query equals roughly 0.1 to 0.3 g CO₂e; a heavy user generates around 3 kg CO₂e a year, less than half a kilo of beef.
-- AI energy demand is projected to **triple by 2030** because of the Jevons Paradox, despite per-query efficiency gains.
-- **60% of new data centre power** this decade is projected to come from natural gas, not renewables (Goldman Sachs).
-- Choosing a lower-carbon data centre region can cut AI emissions by **30 to 80% immediately**.
-- No global standard exists for measuring AI emissions; region and model ID are the most critical data points.
-- Only **25% of sustainability teams** currently estimate or report AI emissions.
+- More than 90% of AI lifecycle emissions come from inference (usage), not training or hardware.
+- A single LLM query equals roughly 0.1 to 0.3 g CO₂e. A heavy user generates around 3 kg CO₂e a year, less than half a kilo of beef.
+- AI energy demand is projected to triple by 2030 because of the Jevons Paradox, despite each query becoming more efficient.
+- 60% of new data centre power this decade is projected to come from natural gas, not renewables (Goldman Sachs).
+- Choosing a lower-carbon data centre region can cut AI emissions by 30 to 80% immediately.
+- No global standard exists for measuring AI emissions. Region and model ID are the most important data points.
+- Only 25% of sustainability teams currently estimate or report AI emissions.
 
 ## Sources
 
-- Watershed, Eric Nevalsky & Steven Watson, 2025 — https://watershed.com
+- Watershed, Eric Nevalsky and Steven Watson, 2025. https://watershed.com

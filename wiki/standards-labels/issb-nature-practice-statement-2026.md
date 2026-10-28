@@ -2,9 +2,9 @@
 title: "ISSB Chooses a 'Practice Statement' Over a Mandatory Nature Standard: The 2026 Controversy"
 category: standards-labels
 tags: ["#biodiversity", "#esg", "#finance", "#nature", "#eu-policy"]
-sources: ["Reuters Events — Catherine Early, 'Nature at a Crossroads: The evolving architecture of nature disclosure' (2026)"]
+sources: ["Reuters Events, Catherine Early, 'Nature at a Crossroads: The evolving architecture of nature disclosure' (2026)"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-10-28
 summary: ISSB IFRS S3, TNFD, nature practice statement, Emmanuel Faber, Julie McCarthy Nature Finance, Gavin Edwards Nature Positive Initiative, Marco Lambertini, Johan Rockström, Paul Polman, Pavan Sukhdev, $44 trillion GDP nature-dependent, PwC 12-17% GDP nature loss, TNFD 730 companies $22 trillion AUM, China Environmental Ecological code August 2026, COP17 biodiversity, IFRS S1 S2, standalone standard vs voluntary, corporate biodiversity disclosure
 related:
   - What is  TNFD?
@@ -18,76 +18,79 @@ related:
 
 ## What is it
 
-The **International Sustainability Standards Board (ISSB)** — the body that sets the accounting rules for how listed companies disclose sustainability information — decided in April 2026 that it would **not** develop a **mandatory standard on nature** (which would have been "**IFRS S3**"). Instead it will publish a **non-mandatory "practice statement"** attached to its existing climate-financial rules. The decision was reported by Reuters Events in a long-form report by Catherine Early titled *Nature at a Crossroads*, and has triggered one of the sharpest public backlashes ever seen against a sustainability standard-setter.
+The **International Sustainability Standards Board (ISSB)** is the body that sets the accounting rules for how listed companies disclose sustainability information. In April 2026 it decided **not** to develop a mandatory standard on nature, which would have been called "IFRS S3". Instead it will publish a non-mandatory "practice statement" attached to its existing rules on climate and finance. Reuters Events reported the decision in a long-form report by Catherine Early titled *Nature at a Crossroads*, and it has set off one of the strongest public backlashes ever seen against a sustainability standard-setter.
 
-Nearly every business and civil-society leader who has spent the last five years building the case for **nature-related financial disclosure** — WWF, BirdLife International, the Nature Positive Initiative, Nature Finance, Paul Polman, **Johan Rockström**, Pavan Sukhdev, Marco Lambertini — has publicly said the ISSB got this wrong.
+Almost every business and civil-society leader who has spent the last five years building the case for **nature-related financial disclosure** has said publicly that the ISSB got this wrong. They include WWF, BirdLife International, the Nature Positive Initiative, Nature Finance, Paul Polman, Johan Rockström, Pavan Sukhdev and Marco Lambertini.
 
 ## Why it matters
 
-Roughly **$44 trillion of annual economic output is directly dependent on nature**, per figures cited by Nature Finance. **PwC** estimates that unchecked nature loss could **erode 12–17% of GDP within 15 years**. A **University of Sussex** team modelled that even partial collapses in fisheries, wild pollination and tropical timber would cost the global economy **$2 trillion a year**. If the ISSB, whose standards are being written into law in more than **40 jurisdictions**, tells companies they only have to look at nature voluntarily, then in practice most companies will not look. In Marco Lambertini's line — the one that runs through the whole report — *"Nature is optional and climate is mandatory. That's the gist that nobody can deny."*
+Roughly **$44 trillion of yearly economic output** depends directly on nature, according to figures cited by Nature Finance. PwC estimates that unchecked nature loss could wipe out 12–17% of GDP within 15 years. A University of Sussex team calculated that even partial collapses in fisheries, wild pollination and tropical timber would cost the global economy $2 trillion a year.
 
-There is a specific, technical reason this matters beyond nature disclosure itself: **IFRS S2, the ISSB's climate standard, already asks companies to report climate risks against a baseline that assumes carbon sinks like forests, wetlands and ocean systems will keep absorbing CO₂**. Those sinks are collapsing. Julie McCarthy of **Nature Finance** puts it sharply: *"The ISSB is not simply declining to address nature. It is actively maintaining a disclosure framework that instructs companies to report climate risk against a baseline that the board's own scientific advisors know to be false."*
+The ISSB's standards are being written into law in more than 40 jurisdictions. If it tells companies that looking at nature is voluntary, most companies in practice will not look. Marco Lambertini's line runs through the whole report: *"Nature is optional and climate is mandatory. That's the gist that nobody can deny."*
+
+There is also a specific technical problem. **IFRS S2**, the ISSB's climate standard, already asks companies to report climate risks against a baseline that assumes carbon sinks such as forests, wetlands and the ocean will keep absorbing CO₂. Those sinks are collapsing. Julie McCarthy of Nature Finance puts it bluntly: *"The ISSB is not simply declining to address nature. It is actively maintaining a disclosure framework that instructs companies to report climate risk against a baseline that the board's own scientific advisors know to be false."*
 
 ## The choice the ISSB actually made
 
-An ISSB staff paper considered four routes:
+An ISSB staff paper looked at four options:
 
-1. **Fit nature within existing IFRS S1** (general sustainability disclosures)
-2. **Fit it within IFRS S2** (climate)
-3. **Develop a standalone S3** on nature
-4. **Publish a non-mandatory practice statement**
+1. Fit nature within the existing IFRS S1 (general sustainability disclosures)
+2. Fit it within IFRS S2 (climate)
+3. Develop a standalone S3 on nature
+4. Publish a non-mandatory practice statement
 
-The month before the decision, the **majority of the 16 regulatory members of the IFRS Sustainability Standards Advisory Forum recommended option 3 — a standalone S3**. The ISSB Board picked option 4.
+The month before the decision, **most of the 16 regulatory members** of the IFRS Sustainability Standards Advisory Forum recommended option 3, a standalone S3. The ISSB Board chose option 4.
 
 ### The practicality argument (from ISSB Chair Emmanuel Faber)
 
-- More than **40 jurisdictions are in the process of putting ISSB Standards into law**; **17 go live in 2026 alone**. Changing S1 or S2 or introducing a mandatory S3 mid-flight would heavily disrupt hundreds of legal and regulatory processes affecting thousands of companies.
-- **IFRS S1 already requires companies to disclose all material sustainability-related risks.** For companies dependent on water, land, agricultural inputs or proximity to sensitive ecosystems, nature-related factors already fall into that category *even without a standalone standard*.
-- A practice statement, ISSB argues, will guide companies on **how** to make those disclosures without changing the underlying legal instrument.
+- More than **40 jurisdictions** are in the process of putting ISSB Standards into law, and 17 go live in 2026 alone. Changing S1 or S2, or bringing in a mandatory S3 halfway through, would badly disrupt hundreds of legal and regulatory processes affecting thousands of companies.
+- **IFRS S1 already requires companies to disclose all material sustainability-related risks.** For companies that depend on water, land or farm inputs, or that sit close to sensitive ecosystems, nature-related factors already count as material *even without a standalone standard*.
+- The ISSB argues that a practice statement will guide companies on **how** to make those disclosures without changing the underlying legal rules.
 
-Faber's promise, delivered on LinkedIn: any new standard on nature will be published later, or be voluntary.
+Faber also made the case on LinkedIn. His point is that material nature-related disclosure is already required under IFRS S1. The ISSB has not ruled out a nature standard later, and its consultation asks whether a practice statement is the right format.
 
 ### The counter-argument from the critics
 
-- **A practice statement is not a standard.** Gavin Edwards (Nature Positive Initiative): *"The very purpose of ISSB's work is to bring standardisation, and that requires some level of specificity. Working halfway towards the standard through a practice statement does not make logical sense."* Lambertini: *"A practice statement asks companies, politely, to consider looking. A standard requires them to report what they find. The decade-long history of voluntary sustainability disclosure makes one thing crystal clear: companies do not disclose what they are not required to disclose."*
-- **The materiality claim contradicts the evidence.** McCarthy: declining to require disclosure of risks touching more than half of global GDP is *"not a procedural judgment. It is a determination about materiality that the evidence flatly contradicts."*
-- **The IFRS S2 climate standard is now internally inconsistent.** Reporting climate risk against a baseline in which ecosystems continue to function normally is scientifically false.
+- **A practice statement is not a standard.** Gavin Edwards of the Nature Positive Initiative said: *"The very purpose of ISSB's work is to bring standardisation, and that requires some level of specificity. Working halfway towards the standard through a practice statement does not make logical sense."* Lambertini added: *"A practice statement asks companies, politely, to consider looking. A standard requires them to report what they find. The decade-long history of voluntary sustainability disclosure makes one thing crystal clear: companies do not disclose what they are not required to disclose."*
+- **The materiality claim goes against the evidence.** McCarthy argues that declining to require disclosure of risks touching more than half of global GDP is *"not a procedural judgment. It is a determination about materiality that the evidence flatly contradicts."*
+- **The IFRS S2 climate standard now contradicts itself.** Reporting climate risk against a baseline in which ecosystems keep working normally is scientifically false.
 
 ## The Nature Positive movement is already here
 
-The vacuum the ISSB has left is filling itself. By end of 2025, more than **730 companies had voluntarily adopted the TNFD framework** — a 46% year-on-year increase — representing over **$9 trillion in market cap and $22 trillion in assets under management**. The **TNFD 2025 Status Report** counts around **620 organisations across 50+ countries** with roughly **$20 trillion in AUM** committed to adoption.
+Others are filling the gap the ISSB has left. By the end of 2025, more than **730 companies** had voluntarily adopted the TNFD framework, a 46% rise on the year before. Together they represent over $9 trillion in market value and $22 trillion in assets under management. The TNFD 2025 Status Report counts around 620 organisations across 50+ countries, with roughly $20 trillion in assets under management, committed to adoption.
 
 Momentum is strongest in Asia:
 
-- **Japan** is the largest single-country contingent, with roughly **130 companies and financial institutions** reporting to TNFD alignment
-- **86% of Asia-Pacific firms** surveyed by TNFD already use or plan to use nature-related disclosure
-- **45% of financial-institution adopters are in Asia**
-- **China's new Environmental and Ecological code**, effective **15 August 2026**, consolidates climate, biodiversity and resource-use rules into a single system that applies to all companies operating in China — including foreign joint ventures. Lambertini's read: China moved because it "understands the fundamental problems that climate change and natural resource depletion and ecosystem services collapse is generating to the economy."
+- **Japan** is the largest single-country group, with roughly 130 companies and financial institutions reporting in line with the TNFD
+- 86% of Asia-Pacific firms surveyed by the TNFD already use, or plan to use, nature-related disclosure
+- 45% of the financial institutions adopting it are in Asia
+- **China's new Environmental and Ecological code**, in force from 15 August 2026, brings climate, biodiversity and resource-use rules together in one system that applies to all companies operating in China, including foreign joint ventures. Lambertini's view is that China moved because it "understands the fundamental problems that climate change and natural resource depletion and ecosystem services collapse is generating to the economy."
 
-Lambertini also frames a sharper point: rather than staying at the vanguard of standard-setting, **the ISSB is now behind the countries and companies that already understand where the risk lies.**
+Lambertini goes further. In his view, the ISSB is no longer leading on standard-setting: **it is now behind the countries and companies** that already understand where the risk lies.
 
 ## What happens next
 
-- **October 2026:** the ISSB is scheduled to publish an **exposure draft** of the practice statement, ahead of UN biodiversity negotiations (**COP17**). This is the moment critics are pointing to for widening the ask.
-- Key demands from critics for the exposure draft: fill the gap on **scope and measurement**, mirror how climate is done under IFRS S2 and the GHG Protocol, use the TNFD **impact metrics** and **State of Nature metrics** being finalised by the Nature Positive Initiative, and extend scope from **own operations down through supply chains**.
-- If the practice statement is not upgraded to a standard after consultation, the emerging pattern will be a **jurisdictional patchwork** — EU mandatory nature standard, ISO biodiversity framework, China's unified code, TNFD as a de facto voluntary global norm — that the ISSB has now chosen not to close.
+- **October 2026:** the ISSB is due to publish an **exposure draft** (a public consultation version) of the practice statement, ahead of the UN biodiversity negotiations at COP17. Critics see this as the moment to push for more.
+- Their main demands for the exposure draft: close the gap on scope and measurement, follow the approach used for climate under IFRS S2 and the GHG Protocol, use the TNFD impact metrics and the State of Nature metrics being finalised by the Nature Positive Initiative, and extend the scope from a company's own operations down through its supply chains.
+- If the practice statement is not turned into a standard after the consultation, the likely result is a **patchwork of rules** in different places: an EU mandatory nature standard, an ISO biodiversity framework, China's unified code, and the TNFD as the voluntary global norm in practice. The ISSB has now chosen not to close that gap.
 
 ## Key facts
 
-- **~$44 trillion** of annual global economic output is directly dependent on nature
-- **PwC:** unchecked nature loss could **erode 12–17% of GDP within 15 years**
-- **University of Sussex:** even partial collapses in fisheries, pollination and tropical timber cost **$2 trillion/year**
-- **TNFD** has ~730 voluntary adopters as of end 2025 — 46% YoY growth — representing >$9tn market cap and >$22tn AUM
-- **ISSB Standards are being adopted or used in ~40 jurisdictions**; 17 go live in 2026 alone
-- The majority of the **16-member IFRS Sustainability Standards Advisory Forum** recommended a standalone S3; the ISSB Board overruled them
-- **China's Environmental and Ecological code** takes effect **15 August 2026**
-- **October 2026** — ISSB exposure-draft consultation on the practice statement, ahead of **COP17** biodiversity negotiations
+- About **$44 trillion** of yearly global economic output depends directly on nature
+- PwC: unchecked nature loss could wipe out **12–17% of GDP** within 15 years
+- University of Sussex: even partial collapses in fisheries, pollination and tropical timber would cost **$2 trillion a year**
+- The TNFD had about 730 voluntary adopters by the end of 2025, up 46% on the year, representing over $9tn in market value and over $22tn in assets under management
+- ISSB Standards are being adopted or used in about **40 jurisdictions**, and 17 go live in 2026 alone
+- Most of the **16-member** IFRS Sustainability Standards Advisory Forum recommended a standalone S3, and the ISSB Board overruled them
+- China's Environmental and Ecological code takes effect on **15 August 2026**
+- **October 2026**: ISSB consultation on the exposure draft of the practice statement, ahead of the COP17 biodiversity negotiations
 
 ## Sources
 
-- Reuters Events Sustainable Business — Catherine Early, *Nature at a Crossroads: The evolving architecture of nature disclosure* (2026)
-- TNFD 2025 Status Report
+- Reuters Events Sustainable Business, Catherine Early, *Nature at a Crossroads: The evolving architecture of nature disclosure*, 2026
+- TNFD, 2025 Status Report
 - IFRS Foundation and ISSB Board papers and consultations
-- Nature Finance blog by Julie McCarthy
-- PwC — nature-related GDP risk analysis
-- University of Sussex — partial ecosystem collapse cost modelling
+- Nature Finance, blog by Julie McCarthy
+- PwC, nature-related GDP risk analysis
+- University of Sussex, partial ecosystem collapse cost modelling
+- ESG Today, Mark Segal, 23 April 2026. https://www.esgtoday.com/issb-decides-to-develop-non-mandatory-nature-related-reporting-requirements/

@@ -12,7 +12,7 @@ related:
 
 # Cigarette Butts and Their Impact on Marine Environments
 
-> **Editorial summary:** Original research by Fabien Mossière drawing on Ecologie360, Surfrider Foundation Europe, Ocean Conservancy, and EU / French policy sources. The piece explains why the humble cigarette filter is the most-collected item on the world's beaches: it is not cotton but cellulose acetate plastic, it leaches nicotine and heavy metals into water, and it takes over a decade to break down. It then walks through France's AGEC-law response (a "polluter pays" scheme run by the Alcome eco-organisme), the EU's Single-Use Plastics Directive obligations on tobacco manufacturers, Surfrider's call for filters to be banned outright, and the new waste stream now compounding the problem — disposable vapes.
+> **Editorial summary:** Original research by Fabien Mossière drawing on Ecologie360, Surfrider Foundation Europe, Ocean Conservancy, and EU / French policy sources. The piece explains why the humble cigarette filter is the most-collected item on the world's beaches: it is not cotton but cellulose acetate plastic, it leaches nicotine and heavy metals into water, and it takes over a decade to break down. It then walks through France's AGEC-law response (a "polluter pays" scheme run by the Alcome eco-organisme), the EU's Single-Use Plastics Directive obligations on tobacco manufacturers, Surfrider's call for filters to be banned outright, and the new waste stream now compounding the problem: disposable vapes.
 
 ## 1. Overview
 

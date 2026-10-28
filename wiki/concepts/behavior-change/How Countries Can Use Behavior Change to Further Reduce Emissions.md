@@ -3,54 +3,54 @@ title: How Countries Can Use Behaviour Change to Reduce Emissions
 category: concepts
 tags: [behaviour, science]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-28
 summary: "2) Impactful Sectors Like Air Travel and Food Are Often Overlooked, 3) Climate Plans Should Rely on More Tools to Drive Behavior Change, Enhanced information, Incentives and disincentives, Improving the decision-making context"
 ---
 
 
-We know that behavioural change is critical in order to achieve net-zero by 2050. But the IPCC goes further and was able to put number on it: 
+Changing how people live is an essential part of reaching net zero by 2050, and the IPCC has put a number on how much it could deliver. Priyadarshi Shukla, Co-Chair of the IPCC's Working Group III, which assesses ways to cut emissions, put it this way:
 
-> Having the right policies, infrastructure and technology in place to enable changes to our lifestyles and behaviour can result in a 40-70% reduction in greenhouse gas emissions by 2050. This offers significant untapped potential,” said IPCC Working Group III Co-Chair Priyadarshi Shukla. “The evidence also shows that these lifestyle changes can improve our health and wellbeing."
+> Having the right policies, infrastructure and technology in place to enable changes to our lifestyles and behaviour can result in a 40-70% reduction in greenhouse gas emissions by 2050. This offers significant untapped potential," said IPCC Working Group III Co-Chair Priyadarshi Shukla. "The evidence also shows that these lifestyle changes can improve our health and wellbeing."
 
-Are the highest emitting countries trying to influence Consumer behaviour as part of their NDC commitments? 
+The World Resources Institute (WRI) looked at whether the highest-emitting countries are trying to influence consumer behaviour as part of their national climate plans, known as NDCs (nationally determined contributions).
 
 #### High-impact behaviours to focus on according to Project Drawdown
 <!-- tag: individual-actions -->
 
-> Individual behaviours, referred to as “Priority Practices,” include reducing air travel and promoting more sustainable local transport, such as using electric or hybrid vehicles, relying on mass transportation, or encouraging more active mobility like walking or biking. Additional practices include reducing food loss and waste and eating more plant-based foods. Other behaviours include adopting residential roofing solar for home energy needs, using clean cookstoves and switching to more energy-efficient appliances
+> Individual behaviours, referred to as "Priority Practices," include reducing air travel and promoting more sustainable local transport, such as using electric or hybrid vehicles, relying on mass transportation, or encouraging more active mobility like walking or biking. Additional practices include reducing food loss and waste and eating more plant-based foods. Other behaviours include adopting residential roofing solar for home energy needs, using clean cookstoves and switching to more energy-efficient appliances
 
 
 ### 1) Key findings
  
- The Key findings looking into top 19 emitters and the EU highlight that many Critical Consumer Behaviours Are Not Included in National Climate Plans. 
+WRI looked at the top 19 emitters and the EU. Its main finding is that many of the consumer behaviours that matter most are missing from national climate plans.
  
-Of the nine behaviours looked at in 19 high-emitting countries and the EU, most were not mentioned at all in their NDCs. However, a few were mentioned far more than others:
+Of the nine behaviours studied in 19 high-emitting countries and the EU, most were not mentioned at all in their NDCs. A few came up far more often than the rest:
 
 - Encouraging electric or hybrid vehicles (80% of countries).
 - Promoting public transport use (75% of countries).
-- Reducing household energy consumption through insulation or efficient appliances (60% of countries).
+- Reducing household energy use through insulation or efficient appliances (60% of countries).
 
-Countries like China, the United Kingdom and Japan are leading the way here. For instance, China's ambitious plan to promote electric vehicles includes substantial investments in charging infrastructure and incentives for consumers. The UK has set a target to end the sale of new gas and diesel cars by 2030, backed by significant investments in electric vehicle infrastructure.
+China, the United Kingdom and Japan are ahead here. China's plan to promote electric vehicles includes large investments in charging points and incentives for buyers. The UK has set a target to end the sale of new petrol and diesel cars by 2030, backed by substantial investment in charging infrastructure.
 
 
 ### 2) Impactful Sectors Like Air Travel and Food Are Often Overlooked
 
-Analysis reveals a mismatch between the practices included in NDCs and their potential impact on emissions reduction. Specifically, food-related behaviours and reducing air travel — despite their high emissions reduction potential — are among the least-addressed in NDCs.
+There is a mismatch between the behaviours that NDCs include and how much each could cut emissions. Food-related behaviours and flying less are among the least addressed in NDCs, even though they could cut emissions a great deal.
 
 #### Overlooked wins
 
-> The potential of food-related behaviours is particularly striking. Studies found that moving to a plant-based diet could reduce food-related emissions by up to 73%. However, among the 20 national climate commitments evaluated, only the UK explicitly mentions promoting sustainable diets.
+> The potential of food-related behaviours is particularly striking. Studies found that moving to a plant-based diet could reduce food-related emissions by up to 73%. However, among the 20 national climate commitments evaluated, only the UK explicitly mentions promoting sustainable diets.
 
-### 3) Climate Plans Should Rely on More Tools to Drive Behavior Change
+### 3) Climate Plans Should Rely on More Tools to Drive Behavior Change
 
-To encourage climate-friendly behaviour changes, behavioural strategies (which we refer to as tools) are needed to help put policies into action. The [IPCC identified eight behavior change tools](https://www.ipcc.ch/report/ar6/wg3/), which WRI streamlined into three to better evaluate how behavior change policies are being implemented in NDCs.  
+Policies need practical strategies, which WRI calls tools, to turn them into real changes in behaviour. The [IPCC identified eight behavior change tools](https://www.ipcc.ch/report/ar6/wg3/), and WRI grouped them into three to make it easier to assess how NDCs put behaviour change policies into practice.  
 
-These three tools are:
+The three tools are:
 
-- **Enhanced information**, which helps people make sustainable choices by providing sustainability information in intuitive and accessible ways. For example, energy labels on appliances can act as shortcuts, guiding people toward more energy-efficient appliances.
-- **Incentives and disincentives**, which include financial and non-monetary incentives that can motivate consumers to pick sustainable products or actions making those choices more attractive, fun or attainable. Disincentives, like congestion pricing, discourage behaviors by adding extra barriers.
-- **Improving the decision-making context**, which involves changing the choice environment so that sustainable choices are easier or more appealing. It can include both “choice architecture” (how choices are presented, such as making plant-based options more eye-catching on a menu) and “choice infrastructure” (changes to the physical environment, such as building more protected bike lanes).
+- **Enhanced information**, which helps people make sustainable choices by giving them clear, easy-to-use information. Energy labels on appliances, for example, act as a shortcut that points people towards more efficient models.
+- **Incentives and disincentives**. Incentives, financial or not, make sustainable products or actions more attractive, fun or achievable. Disincentives, such as congestion charges, discourage certain behaviours by adding a cost or barrier.
+- **Improving the decision-making context**, which means changing the setting in which people choose so that sustainable options are easier or more appealing. This covers "choice architecture" (how options are presented, such as making plant-based dishes stand out on a menu) and "choice infrastructure" (changes to the physical environment, such as building more protected cycle lanes).
 
 ---
 # Sources
-- [Behaviour change to reduce emissions - WRI](https://www.wri.org/insights/behavior-change-reduce-emissions-climate-plans)
+- WRI, Behaviour change to reduce emissions. [https://www.wri.org/insights/behavior-change-reduce-emissions-climate-plans](https://www.wri.org/insights/behavior-change-reduce-emissions-climate-plans)

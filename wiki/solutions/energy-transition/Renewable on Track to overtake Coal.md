@@ -3,7 +3,7 @@ title: Renewables on Track to Overtake Coal
 category: solutions
 tags: ["#energy-transition", "#renewables", "#phaseout"]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-10-28
 summary: renewable energy, coal phase-out, International Energy Agency, IEA, China, India, United Kingdom, solar, wind, hydroelectricity, Greece, coal imports, coal mining, World Resources Institute, Ember, Climate Action Tracker, Chile, energy mix
 related:
   - FACTS About Fossil Fuel (Oil and Gaz) Industry
@@ -14,37 +14,40 @@ related:
 
 ## What is it
 
-Renewable energy is on track to overtake coal in the global electricity mix by 2025, according to the International Energy Agency (IEA). Between 2022 and 2027, renewable capacity is projected to grow by 2,400 gigawatts, an increase equivalent to China's entire current renewable capacity, taking renewables to around 38% of the global energy mix. China and India together are responsible for two-thirds of the world's coal power generation today, so much of the success of the global coal phase-out hinges on what happens in those two countries.
+In 2022 the International Energy Agency (IEA) forecast that renewable energy would overtake coal in the world's electricity mix by 2025, and it did. According to Ember, renewables supplied 33.8% of the world's electricity in 2025, just ahead of coal at 33.0%, the first time in about 100 years that coal was not the larger of the two. The IEA expected renewable capacity to grow by **2,400 gigawatts** between 2022 and 2027, as much as China's entire renewable capacity at the time, taking renewables to around 38% of global electricity by 2027. China and India together produce two-thirds of the world's coal power today, so the success of the global coal phase-out depends heavily on what happens in those two countries.
 
 ## Why it matters
 
-Coal is the single most polluting fossil fuel in the power sector, and how quickly the world moves away from it is one of the clearest indicators of whether the energy transition is on track. The pace of this shift varies enormously by country, and looking at who is actually cutting coal, and how, offers useful lessons for the countries still lagging behind.
+Coal is the most polluting fossil fuel used to make electricity, and how quickly the world moves away from it is one of the clearest signs of whether the energy transition is on track. The pace varies hugely from country to country. Looking at who is actually cutting coal, and how, offers useful lessons for the countries still lagging behind.
 
 ## The UK's Coal Turnaround
 
-In the first five months of 2023, solar and wind generated more electricity than coal in the UK, and when hydroelectricity is added to the calculation, that period extends to six months, according to Ecowatch. This is a striking shift given how dependent on coal the UK has historically been: as recently as 2008, coal represented 50% of the country's electricity production.
+In the first five months of 2023, solar and wind generated more electricity than coal in the UK. Add hydroelectricity and that period stretches to six months, according to Ecowatch. That is a big change for a country that long depended on coal: as recently as 2008, coal made up **50%** of the UK's electricity.
 
 ## How the World Is Doing on Coal
 
-Coal, the most polluting fossil fuel, supplied 36% of global electricity generation in 2022, according to Ember. Under a high-ambition scenario from Climate Action Tracker, that share needs to drop to 4% by 2030 and to 0% by 2040 to keep global warming within 1.5°C and avoid the most catastrophic impacts of the climate crisis.
+Coal, the most polluting fossil fuel, supplied 36% of the world's electricity in 2022, according to Ember. Under a high-ambition scenario from Climate Action Tracker, that share needs to drop to **4% by 2030** and to 0% by 2040 to keep global warming within 1.5°C and avoid the worst impacts of the climate crisis.
 
-The World Resources Institute has tracked the countries phasing out coal power fastest. Greece stands out: it cut coal's share of its electricity from 51% in 2014 to just 10% in 2022, an eight-year transformation, faster than any other country in the world, replacing coal with a mix of gas and renewables. A lot of different factors shape how easily a country can make this shift, including population, GDP, growth rate and existing energy dependencies. The nature of each country's coal industry matters too: six of the ten fastest-phasing-out countries relied mainly on coal imports, so switching to renewables or domestic gas could improve their energy security without major economic disruption. Notably, though, the US, Germany, Romania and Greece managed to reduce coal power dramatically despite having large domestic coal mining sectors and relying mostly on domestic production, showing that a large coal mining industry is not necessarily a barrier to phase-out.
+The World Resources Institute has tracked the countries phasing out coal power fastest. Greece stands out. It cut coal's share of its electricity from 51% in 2014 to just 10% in 2022, an eight-year change faster than any other country in the world, replacing coal with a mix of gas and renewables.
 
-The UK and Chile are both highlighted by the World Resources Institute as countries that have successfully phased down coal in very different national contexts, offering two distinct playbooks for other coal-reliant countries to learn from.
+Many factors shape how easily a country can make this shift, including population, GDP, growth rate and existing energy dependencies. The type of coal industry a country has matters too. Six of the ten countries phasing out coal fastest relied mainly on imported coal, so switching to renewables or home-produced gas could improve their energy security without major economic upheaval. On the other hand, the US, Germany, Romania and Greece cut coal power sharply even though they had large coal mining industries and mostly burned their own coal. A big coal mining sector is not necessarily a barrier to phase-out.
+
+The World Resources Institute highlights the UK and Chile as two countries that have cut coal successfully in very different national situations. Together they offer two distinct playbooks for other coal-reliant countries.
 
 ## Key facts
 
-- Renewable energy is projected to overtake coal in the global electricity mix by 2025 (IEA).
-- Renewable capacity is set to grow by 2,400 GW between 2022 and 2027, reaching around 38% of the global energy mix.
+- Renewables overtook coal in the global electricity mix in 2025, with 33.8% against 33.0%, as the IEA had forecast (Ember, Global Electricity Review 2026).
+- Renewable capacity is set to grow by 2,400 GW between 2022 and 2027, reaching around 38% of global electricity by 2027 (IEA).
 - China and India together generate two-thirds of the world's coal power today.
-- In the UK, solar and wind out-generated coal for the first five months of 2023 (six months including hydro), a sharp shift from 2008, when coal supplied 50% of UK electricity.
+- In the UK, solar and wind generated more than coal for the first five months of 2023 (six months including hydro), a sharp shift from 2008, when coal supplied 50% of UK electricity.
 - Coal supplied 36% of global electricity in 2022 and must fall to 4% by 2030 and 0% by 2040 to stay within 1.5°C (Ember; Climate Action Tracker).
-- Greece cut coal's share of its electricity from 51% (2014) to 10% (2022), the fastest reduction of any country.
+- Greece cut coal's share of its electricity from 51% (2014) to 10% (2022), the fastest drop of any country.
 
 ## Sources
 
-- Ecowatch, "Solar and Wind Set Electricity Generation Record, Beating Coal," 2023 — https://www.ecowatch.com/solar-wind-electricity-record-generation-coal-2023.html
-- World Resources Institute, "Countries Phasing Out Coal Power Fastest" — https://www.wri.org/insights/countries-phasing-out-coal-power-fastest
-- Ember, Data Explorer — https://ember-climate.org/data/data-tools/data-explorer/
-- Climate Action Tracker, Paris Agreement Benchmarks for the Power Sector, September 2023 — https://climateactiontracker.org/documents/1159/CAT_2023-09-19_Briefing_ParisBenchmarks_PowerSector.pdf
+- Ecowatch, "Solar and Wind Set Electricity Generation Record, Beating Coal," 2023. https://www.ecowatch.com/solar-wind-electricity-record-generation-coal-2023.html
+- World Resources Institute, "Countries Phasing Out Coal Power Fastest". https://www.wri.org/insights/countries-phasing-out-coal-power-fastest
+- Ember, Data Explorer. https://ember-climate.org/data/data-tools/data-explorer/
+- Climate Action Tracker, Paris Agreement Benchmarks for the Power Sector, September 2023. https://climateactiontracker.org/documents/1159/CAT_2023-09-19_Briefing_ParisBenchmarks_PowerSector.pdf
 - International Energy Agency (IEA), renewable capacity growth projections
+- Ember, "Global Electricity Review 2026", 21 April 2026. https://ember-energy.org/latest-insights/global-electricity-review-2026/
