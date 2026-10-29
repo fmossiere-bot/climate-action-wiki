@@ -343,7 +343,7 @@
     "category": "circularity-waste",
     "tags": [],
     "keywords": [
-      "38.4%",
+      "38.7%",
       "food",
       "waste",
       "https",
@@ -352,9 +352,9 @@
       "track",
       "click",
       "wasted",
+      "greenhouse",
       "better",
-      "regions",
-      "storage"
+      "regions"
     ]
   },
   {
@@ -2569,7 +2569,7 @@
       "transport"
     ],
     "keywords": [
-      "10.4 tonnes co2 equivalent (co2e)",
+      "9.6 tonnes co2 equivalent (co2e)",
       "agriculture (~38%)",
       "transport (~21%)",
       "energy (~14%)",
@@ -2578,7 +2578,7 @@
       "41%",
       "€700-€1,000",
       "total",
-      "~12.7 t",
+      "14.0 t (2023, eurostat, february 2026)",
       "100%",
       "1.1 tonnes"
     ]
@@ -2702,18 +2702,18 @@
       "energy-transition"
     ],
     "keywords": [
-      "11.9 tonnes co2eq in 2022",
+      "9.6 tonnes co2eq in 2025",
       "12% higher",
       "26 million tonnes of co2 equivalent",
       "42%",
       "6.8% in 2023",
+      "9.6 tonnes co2eq",
+      "7.1%",
+      "0.2%",
+      "1.5%",
       "10.4 tonnes co2eq",
       "€5 billion by 2030",
-      "21.6%",
-      "4.6%",
-      "0.3%",
-      "51% reduction",
-      "agriculture"
+      "21.6%"
     ]
   },
   {
@@ -2740,8 +2740,8 @@
       "natural gas",
       "34% of energy use",
       "oil",
-      "45% of overall energy use",
-      "biomass"
+      "biomass",
+      "imported electricity"
     ]
   },
   {
@@ -2786,17 +2786,17 @@
     ],
     "keywords": [
       "ecological dead zones",
-      "10% of ireland's land area",
+      "11.6% of ireland's land area",
       "eu average of 39.8%",
       "carbon reservoir",
       "37-58% by 2030",
       "35,900 hectares",
-      "4,000 hectares",
+      "5,000 hectares",
       "miyawaki method",
       "forestry",
       "forest",
-      "soil",
-      "ireland"
+      "ireland",
+      "soil"
     ]
   },
   {
@@ -2812,14 +2812,15 @@
       "transport"
     ],
     "keywords": [
-      "over 40%",
+      "38.7%",
       "over 660 million",
       "trace",
       "ireland's",
+      "figures",
       "data",
       "live",
-      "figures",
-      "million"
+      "million",
+      "https"
     ]
   },
   {
@@ -2835,7 +2836,7 @@
       "fossil-fuels"
     ],
     "keywords": [
-      "6.7% in 2022",
+      "22.0%",
       "95% of transport emissions",
       "the ccac's main recommendations",
       "what is working",
@@ -2843,10 +2844,10 @@
       "transport",
       "ireland",
       "public",
-      "fuel",
       "ireland's",
+      "fuel",
       "investment",
-      "around"
+      "figures"
     ]
   },
   {
@@ -2870,7 +2871,7 @@
       "over two-thirds",
       "1.2 million tonnes",
       "55% of municipal waste",
-      "15.7 million tonnes of waste in 2022",
+      "16.7 million tonnes of waste in 2024",
       "waste",
       "recycling",
       "bins"
@@ -2921,8 +2922,8 @@
       "wind",
       "ireland's",
       "ireland",
-      "around",
       "electricity",
+      "around",
       "offshore",
       "today",
       "capacity",
@@ -4245,16 +4246,17 @@
       "key-ideas"
     ],
     "keywords": [
-      "107 data centres",
+      "123 data centres",
       "\"we should wait for the big emitters\"",
       "small",
-      "ireland",
       "data",
+      "ireland",
       "third",
       "total",
       "centres",
       "electricity",
-      "countries"
+      "countries",
+      "https"
     ]
   },
   {
