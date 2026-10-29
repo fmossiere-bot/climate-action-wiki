@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
   "verdicts": {
     "false": {
@@ -1404,7 +1404,7 @@
         "let the big countries go first"
       ],
       "kernel": "Ireland's total emissions really are small, and it's reasonable to ask why a small country should move before the big ones do.",
-      "truth": "Ireland is small in total but near the top in Europe per person, and the per-person figure is the one that reflects choices rather than population size. Some of those choices are big. Ireland has **107 data centres** operating, drawing about 1.3 GW, and EirGrid, which runs the national grid, forecasts they could take 31% of the country's electricity by 2034. Between 2015 and 2023 the data centres added roughly 360 euro in total to each household's electricity bill. More broadly, all the countries that each emit under 2% add up to roughly a third of global emissions. If being small meant being exempt, a third of the problem would be exempt.",
+      "truth": "Ireland is small in total but near the top in Europe per person, and the per-person figure is the one that reflects choices rather than population size. Some of those choices are big. Ireland has an estimated **123 data centres**, according to an EU report from July 2025 cited in the Climate Change Advisory Council's Annual Review 2026, published on 14 October 2026. That is more than the 107 operating that this page previously gave. The two counts may not be measured in the same way, so they should not be read as a precise rise. These data centres draw about 1.3 GW, and EirGrid, which runs the national grid, forecasts they could take 31% of the country's electricity by 2034. Between 2015 and 2023 the data centres added roughly 360 euro in total to each household's electricity bill. More broadly, all the countries that each emit under 2% add up to roughly a third of global emissions. If being small meant being exempt, a third of the problem would be exempt.",
       "say_this": "We're small in total, but near the top in Europe per person. And data centres taking about a third of our electricity by 2034 is nothing small.",
       "pushback": [
         {
@@ -1420,6 +1420,10 @@
         {
           "label": "Guardian, Ireland data centre hidden tax, May 2026.",
           "url": "https://www.theguardian.com/environment"
+        },
+        {
+          "label": "Climate Change Advisory Council, Annual Review 2026, Electricity, 14 October 2026.",
+          "url": "https://www.climatecouncil.ie/councilpublications/annualreviewandreport/CCAC-AR2026-2-electricity-final.pdf"
         }
       ],
       "wiki": ""
