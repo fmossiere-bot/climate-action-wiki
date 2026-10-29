@@ -7,56 +7,56 @@ tags:
   - esg
   - ireland
 created: 2024-06-01
-updated: 2026-06-12
+updated: 2026-10-28
 summary: " Biodiversity Objectives for Business, Business for Biodiversity, why biodiversity matters to businesses, supply chain, impact of businesses on biodiversity"
 ---
-### Moving Beyond Carbon: Why Biodiversity is the Next Boardroom Frontier
+### Beyond carbon: why biodiversity matters to business
 
-For years, corporate sustainability has been dominated by a single metric: carbon. While reducing greenhouse gas emissions remains critical, a second, equally severe ecological crisis is forcing its way onto corporate risk registers. Biodiversity loss—the rapid decline in the variety and health of ecosystems, species, and genetic resources—is no longer just an ethical or environmental concern. It is a fundamental economic threat.
+For years, corporate sustainability has been measured mostly in one unit: carbon. Cutting greenhouse gas emissions still matters a great deal, but a second ecological crisis is now appearing on company risk registers. **Biodiversity loss** is the rapid decline in the variety and health of ecosystems, species and genetic resources. It is an ethical and environmental concern, and it is also an economic threat.
 
-Insights from the Boston Consulting Group (BCG) and the work of pioneering organisations like Business for Biodiversity Ireland (BFBI) make it clear that nature is our ultimate life-support system, and protecting it has become a strategic commercial imperative.
+Work by the Boston Consulting Group (BCG) and by organisations such as Business for Biodiversity Ireland (BFBI) makes the same point. Nature is the system that keeps everything else running, and protecting it has become a commercial priority as well as an environmental one.
 
-### The Business Case for Nature: Impacts and Dependencies
+### The business case for nature: impacts and dependencies
 
-To understand why biodiversity matters to business, executives must look through the twin lenses of **dependencies** and **impacts**.
+To see why biodiversity matters to a business, it helps to look at its **dependencies** on nature and at its impacts on it.
 
-Every business relies on "ecosystem services," which are the silent, often unpriced benefits provided by healthy natural systems. These include direct inputs like fresh water, timber, and genetic strains for pharmaceuticals, as well as regulatory services like crop pollination, water filtration, and natural flood defenses. According to the World Economic Forum, more than half of the world’s total GDP ($44 trillion) is moderately or highly dependent on nature. When an ecosystem collapses, the supply chains anchored to it collapse as well.
+Every business relies on "ecosystem services", the quiet and usually unpriced benefits that healthy natural systems provide. Some are direct inputs, such as fresh water, timber and genetic material for medicines. Others are services, such as crop pollination, water filtration and natural flood defences. According to the World Economic Forum, more than half of the world's total GDP (**$44 trillion**) depends moderately or highly on nature. When an ecosystem collapses, the supply chains built on it go down with it.
 
-Conversely, corporate activities drive the primary causes of this decline through land-use change, pollution, overexploitation, and the spread of invasive species.
+Business activity is also one of the main drivers of the decline, through land-use change, pollution, overexploitation and the spread of invasive species.
 
-BCG outlines four primary risks that businesses face if they ignore their relationship with nature:
+BCG describes four main risks for businesses that ignore their relationship with nature:
 
-- **Supply Chain and Operational Risks:** The physical extinction of ecosystem services directly threatens production. For example, a decline in wild pollinators threatens global agriculture, while deforestation disrupts local rainfall patterns, causing severe water scarcity for manufacturing and apparel industries.
-- **Regulatory and Compliance Risks:** Policymakers are rapidly tightening constraints. Globally, the Kunming-Montreal Global Biodiversity Framework mandates that large businesses assess and disclose their nature-related risks. Locally, regulations like the EU’s Corporate Sustainability Reporting Directive (CSRD) and the EU Deforestation Regulation (EUDR) are legally forcing companies to bring biodiversity into their formal reporting frameworks.
-- **Market and Reputational Risks:** Consumers, corporate buyers, and top-tier talent are increasingly voting with their feet. Companies associated with habitat destruction or greenwashing face severe reputational damage, while "nature-positive" brands are capturing market share.
-- **Financial Risks:** The financial sector is adjusting quickly. Under frameworks like the Taskforce on Nature-related Financial Disclosures (TNFD), access to capital is becoming tied to how a company manages its ecological footprint. Investors are increasingly viewing biodiversity neglect as a material financial risk.
+- **Supply chain and operational risks:** when ecosystem services disappear, production suffers. A decline in wild pollinators threatens farming worldwide, and deforestation disrupts local rainfall, which can leave manufacturing and clothing industries short of water.
+- **Regulatory and compliance risks:** rules are tightening. At global level, the Kunming-Montreal Global Biodiversity Framework calls for large businesses to assess and disclose their nature-related risks. In Europe, the EU's Corporate Sustainability Reporting Directive (CSRD) and the EU Deforestation Regulation (EUDR) are legally requiring companies to include biodiversity in their formal reporting.
+- **Market and reputational risks:** consumers, corporate buyers and job seekers are increasingly choosing with this in mind. Companies linked to habitat destruction or greenwashing risk serious damage to their reputation, while "nature-positive" brands are winning market share.
+- **Financial risks:** the financial sector is adjusting quickly. Under frameworks such as the Taskforce on Nature-related Financial Disclosures (TNFD), access to capital is starting to depend on how a company manages its ecological footprint. More and more investors see neglect of biodiversity as a material financial risk.
     
 
-### From Awareness to Action: The Nature-Positive Transition
+### From awareness to action: the nature-positive transition
 
-Recognising the risk is only the first step. For many businesses, mapping a global supply chain to understand its true ecological footprint feels overwhelming. This is exactly where the **Business for Biodiversity Ireland (BFBI** platform steps in.
+Seeing the risk is only the first step. For many businesses, mapping a global supply chain to understand its real ecological footprint feels overwhelming. This is where the **Business for Biodiversity Ireland (BFBI)** platform comes in.
 
-Backed by the National Parks and Wildlife Service (NPWS) and the Department of Agriculture, Food and the Marine, BFBI is a government-supported, not-for-profit platform designed to help Irish businesses transition from "business as usual" to a nature-positive model, ensuring that their operations actively contribute to having more nature in the world by 2030 than in 2020.
+BFBI is backed by the National Parks and Wildlife Service (NPWS) and the Department of Agriculture, Food and the Marine. It is a government-supported, not-for-profit platform that helps Irish businesses move from "business as usual" to a nature-positive model, so that their operations help leave more nature in the world in 2030 than there was in 2020.
 
-BFBI acts as a vital bridge between high-level international science and practical corporate execution. Through its structured **Nature Strategy Accelerator Programme**, the organisation provides a step-by-step pathway tailored to businesses of all sizes and sectors:
+BFBI links international science with what companies can actually do day to day. Its **Nature Strategy Accelerator Programme** offers a step-by-step path for businesses of every size and sector:
 
-- **The Discovery Track (Free for all):** This introductory stage focuses on education and capacity building. BFBI provides a 10-step, self-paced foundational module, curated resources, and thematic webinars to help sustainability leads build a credible business case for nature within their own boardrooms.
-- **The Action Track:** Focused on the "Assess" phase of international frameworks (like ACT-D), this track guides paid members through identifying their specific touchpoints with nature. It assists companies in executing **Double Materiality Assessments**, identifying not just how biodiversity loss affects their bottom line, but how their operations affect the environment.
-- **The Strategy and Transform Tracks:** Here, businesses move from analysis to strategy. BFBI provides in-person, strategy-focused workshops, time-saving templates, and one-on-one sessions with expert advisors to help companies draft credible Nature Ambition Statements, set science-based targets, and safely navigate complex ESG obligations without the risk of greenwashing.
+- **The Discovery Track (free for all):** an introductory stage focused on learning and building skills. BFBI provides a 10-step, self-paced foundation module, selected resources and themed webinars, so sustainability leads can build a credible business case for nature inside their own company.
+- **The Action Track:** this follows the "Assess" phase of international frameworks such as ACT-D and guides paid members through identifying where their business touches nature. It helps companies carry out **Double Materiality Assessments**, which look at how biodiversity loss affects the company's finances and also at how the company's operations affect the environment.
+- **The Strategy and Transform Tracks:** here businesses move from analysis to planning. BFBI offers in-person strategy workshops, ready-made templates and one-to-one sessions with expert advisers, to help companies draft credible Nature Ambition Statements, set science-based targets and meet complex ESG obligations without drifting into greenwashing.
 
-Beyond formal programming, BFBI acts as a collaborative hub, enabling peer-to-peer learning and networking alongside global partners like Business for Nature, KPMG, and Deloitte. It links businesses with practical local initiatives, such as the All-Ireland Pollinator Plan and the National Biodiversity Data Centre's mapping tools, allowing companies to make data-driven, context-specific interventions on the ground.
+Beyond its programmes, BFBI is a meeting point where companies learn from each other and connect with global partners such as Business for Nature, KPMG and Deloitte. It also links businesses with practical local initiatives, such as the All-Ireland Pollinator Plan and the National Biodiversity Data Centre's mapping tools, so they can act on the ground using local data.
 
-### Conclusion: Getting Nature into the Boardroom
+### Getting nature into the boardroom
 
-The message from both global strategists and local advocates is identical: climate action and biodiversity protection are two sides of the same coin. A company cannot achieve net-zero carbon goals if the natural ecosystems that sequester that carbon are allowed to degrade.
+Global strategists and local campaigners say the same thing: climate action and biodiversity protection go together. A company cannot reach net-zero carbon goals if the natural ecosystems that absorb that carbon keep degrading.
 
-Protecting biodiversity is no longer an exercise in corporate philanthropy or a minor footnote in an annual ESG report. It is an exercise in long-term operational resilience. By leveraging structured guidance from platforms like Business for Biodiversity Ireland, forward-thinking business leaders can map their risks, secure their supply chains, and ensure their organisations are built to thrive within our planet's ecological boundaries.
+Protecting biodiversity is no longer a matter of corporate charity or a footnote in an annual ESG report. It is about whether the business can keep operating in the long run. With structured guidance from platforms such as Business for Biodiversity Ireland, business leaders can map their risks, secure their supply chains and build organisations that work within the planet's ecological limits.
 
-## Is biodiversity seriously considered by companies ?
+## Is biodiversity seriously considered by companies?
 
-###### 23 companies in the Irish N100 sample recognise biodiversity loss as a risk to their business, compared with the global average of 40%.This is up from 1 company in 2020, showing that biodiversity is rising up the agenda of Irish corporates. 
+###### 23 companies in the Irish N100 sample recognise biodiversity loss as a risk to their business, compared with the global average of 40%. This is up from 1 company in 2020, which shows biodiversity is rising up the agenda of Irish companies.
 
-However, the  vast majority of companies have still not acknowledged the risks that biodiversity loss could pose to their businesses, including companies in highly exposed sectors such as Food and Construction, and financial institutions which have indirect exposure through their lending and investments.
+Even so, most companies have still not acknowledged the risks that biodiversity loss could pose to their business. That includes companies in highly exposed sectors such as food and construction, and financial institutions, which are exposed indirectly through their lending and investments.
 
 > It is positive to see an increase in the number of Irish companies recognising biodiversity and nature loss as a business risk since the last survey. This could reflect the increasedfocus on biodiversity in Ireland, with initiatives such as the All-Ireland Pollinator Plan helping corporates to take meaningful action. However, as the CSRD requirements and TNFD guidance come into play, many more companies will need to assess the risks that biodiversity loss poses to their business model. Businesses must begin work now to map their value chains and understand how and where their activities interface with nature”
 
@@ -67,15 +67,14 @@ However, the  vast majority of companies have still not acknowledged the risks t
 ---
 # Sources
 - [National Geographic - Global Biodiversity](https://education.nationalgeographic.org/resource/global-biodiversity)
-- [ UN - Biodiversity Conference (Montreal, Dec 2022)](https://www.unep.org/events/conference/un-biodiversity-conference-cop-15)
+- [UN - Biodiversity Conference (Montreal, Dec 2022)](https://www.unep.org/events/conference/un-biodiversity-conference-cop-15)
 - [UN - Convention on Biological Diversity](https://www.un.org/en/observances/biological-diversity-day/convention)
 - [Business for Biodiversity Ireland](https://businessforbiodiversity.ie/)
 - [KPMG Survey of Sustainability Reporting 2022](evernote:///view/1733566/s15/3f3087ad-7544-4cb0-a39c-f2b60d4c4249/53140278-a9c0-4ad7-9b6b-c9aebb8bc0e1)
 
-- ►  [National Biodiversity Data Centre](https://biodiversityireland.ie/)
-- ►  Ireland’s Biodiversity Impact Plan
-- ►  EPA - Biodiversity Reports
-- ►  [All-Ireland Pollinator Plan](https://pollinators.ie/
-- ►  [Irish Wildlife Trust](https://iwt.ie/)
-- ►  [Biodiversity Information System for Europe - Ireland](https://biodiversity.europa.eu/countries/ireland)
-
+- ►  [National Biodiversity Data Centre](https://biodiversityireland.ie/)
+- ►  Ireland's Biodiversity Impact Plan
+- ►  EPA - Biodiversity Reports
+- ►  [All-Ireland Pollinator Plan](https://pollinators.ie/)
+- ►  [Irish Wildlife Trust](https://iwt.ie/)
+- ►  [Biodiversity Information System for Europe - Ireland](https://biodiversity.europa.eu/countries/ireland)

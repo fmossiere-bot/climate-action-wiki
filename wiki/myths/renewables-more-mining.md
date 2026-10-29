@@ -5,7 +5,7 @@ tags: ["#myth"]
 sources:
   - Hannah Ritchie, Not the End of the World (2024)
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-10-28
 cover_image: ""
 summary: renewables mining, coal 30x more than renewables, 100x more than nuclear, gas 125000 tonnes per TWh, ore concentration copper 0.6%, 25-50 million tonnes minerals for clean tech by 2040, silver efficiency doubled 5 years, fossil fuels ongoing extraction, one-off vs continuous, EV vs petrol lifetime materials, mineral recycling, Hannah Ritchie
 claim_id: renewables-more-mining
@@ -25,58 +25,51 @@ related:
 
 ## Say this
 
-Actually the opposite. Going clean means less mining overall, not more. Coal power needs about 30 times more mining than renewables and 100 times more than nuclear, per unit of electricity. And the coal has to be dug up **continuously** — solar panels and turbines only need materials once, when they're built. Yes, we do need copper, lithium and nickel for clean tech, but the total mining footprint drops sharply.
+It's actually the other way round: going clean means less mining overall, not more. Coal power needs about 30 times more mining than renewables, and 100 times more than nuclear, for the same amount of electricity. Coal has to be dug up **continuously**, while solar panels and turbines only need their materials once, when they're built. We do need copper, lithium and nickel for clean tech, but the total amount of mining goes down.
 
 ## Why it sounds right
 
-Because the specific pictures of lithium mines and cobalt operations in the news are real. Battery mineral demand is going up. New mines are being permitted, sometimes controversially. If you compare "a factory-made solar panel" to "a cave that already produces coal", it looks like renewables are adding mining rather than replacing it. What that framing misses is the coal that goes into a coal plant every year, and the oil and gas that constantly needs to be extracted.
+The pictures of lithium mines and cobalt operations in the news are real. Demand for battery minerals is going up, and new mines are being approved, sometimes amid controversy. If you compare a factory-made solar panel with a coal mine that is already running, renewables look like extra mining on top. What that comparison leaves out is the coal fed into a coal plant every single year, and the oil and gas that have to be extracted without end.
 
 ## What is actually true
 
-**Mining per unit of electricity — coal is the worst by a very wide margin:**
-- **Coal** needs about **30× more mining than renewables** per unit of electricity
-- **Coal** needs about **100× more mining than nuclear** per unit
-- Gas needs ongoing extraction of **~125,000 tonnes of gas per TWh** of electricity
+Per unit of electricity, coal is by far the most mining-hungry source:
 
-**Why the numbers surprise people:** to get 1 kg of copper, miners need to dig up **160 kg of ore** and move **510 kg of rock** — copper is only 0.6% of the ore. That means the numbers already include the rock moved. Fossil fuels need the same ore-vs-usable calculation, and they do worse.
+- Coal needs about **30 times more mining** than renewables per unit of electricity.
+- Coal needs about 100 times more mining than nuclear per unit.
+- Gas needs ongoing extraction of about 125,000 tonnes of gas for every TWh (terawatt-hour, a billion kilowatt-hours) of electricity.
 
-**Clean energy build-out scale by 2040 (peak):**
-- **25-50 million tonnes of minerals per year** for solar, turbines, transmission and EVs
-- Sounds enormous — and it is a fraction of what fossil fuel extraction moves annually
+These figures already count the rock that gets moved, not only the useful metal. Copper makes up only 0.6% of its ore, so getting 1 kg of copper means digging up 160 kg of ore and moving 510 kg of rock. Fossil fuels go through the same calculation, and they come out worse.
 
-**The core insight — one-off vs. continuous:**
-- Building a coal plant uses fewer raw materials than building a solar plant
-- But the coal plant then needs a **constant supply of coal** for the whole 40-year lifespan
-- A solar panel or wind turbine, once built, needs no more materials. **The fuel — sunshine, wind — is free.**
-- So when you look at the whole picture (build + run), solar, wind and nuclear all need **far less total mining** than coal or gas
+At the peak of the clean energy build-out, around 2040, solar, turbines, power lines and EVs will need about **25-50 million tonnes of minerals a year**. That sounds enormous, but it is a fraction of what fossil fuel extraction moves every year.
 
-**Efficiency improves the picture over time:**
-- Silver in a 2018 solar panel could now make **2 panels**
-- Silver in a 2010 panel could now make **5 panels**
-- Solar panels now use **⅛ the polysilicon** they needed in 2004
+The real difference is between a one-off need and a continuous one. Building a coal plant uses fewer raw materials than building a solar plant. But the coal plant then needs a constant supply of coal for its whole 40-year life. A solar panel or wind turbine, once built, needs no more materials, because its fuel (sunshine or wind) is free. Count both building and running, and solar, wind and nuclear all need far less mining in total than coal or gas.
 
-**Electricity vs EVs — different pictures:**
-- Mining for **electricity production**: falls as we move from coal to solar/wind
-- Mining for **EVs specifically**: might rise slightly compared to petrol cars
-- But when you combine both (electricity + transport), total mining still **falls significantly**
+The picture also improves over time as technology gets more efficient:
+
+- The silver in a 2018 solar panel could now make 2 panels.
+- The silver in a 2010 panel could now make 5 panels.
+- Solar panels now use ⅛ of the polysilicon they needed in 2004.
+
+Electricity and cars tell slightly different stories. Mining for electricity falls as we move from coal to solar and wind. Mining for EVs on their own may rise a little compared with petrol cars. Put electricity and transport together, and total mining still falls by a wide margin.
 
 ## If they push back
 
 **"Look at all these new lithium mines opening."**
 
-Yes — because global demand is scaling up fast. But the total volume of rock being moved for the transition is still a fraction of what fossil fuel extraction moves. And once the new mines are online, they run for decades without needing constant new coal deliveries.
+They're opening because demand is growing fast. But the total amount of rock moved for the transition is still a fraction of what fossil fuel extraction moves. And once the new mines are running, they work for decades without the endless coal deliveries a coal plant depends on.
 
 **"Coal mines already exist. Renewable mines are new."**
 
-That's the framing trap. Existing coal mines require constant new blasting, extraction and transport. Their impact isn't paid off, it's ongoing every day. A solar panel plant, once built, needs no more mining input.
+That framing hides the main point. Existing coal mines need constant new blasting, digging and transport. Their impact is never paid off: it carries on every day. A solar panel, once built, needs no more mining.
 
 **"Watch out for those charts saying renewables need way more materials."**
 
-Some do circulate, especially the 2015-era chart that shows renewables needing more materials than fossil fuels. That chart is outdated (before solar and wind became efficient) and usually excludes the fuel burned in coal and gas plants — which is actually the biggest material cost of fossil fuels.
+Some do circulate, especially a 2015-era chart showing renewables needing more materials than fossil fuels. That chart is out of date (it predates the big efficiency gains in solar and wind) and usually leaves out the fuel burned in coal and gas plants, which is the largest material cost of fossil fuels.
 
 **"EVs really do need more mining than petrol cars."**
 
-For the car alone, roughly yes. But when you add up all the mining a petrol car requires over its life (steel, aluminium, oil pumped and refined), and compare to the mining an EV requires (steel, aluminium, battery), the EV comes out closer than the framing suggests. And **when you combine transport and electricity**, the total falls sharply.
+For the car alone, roughly yes. But add up all the mining a petrol car needs over its life (steel, aluminium, and the oil pumped and refined) and compare it with an EV (steel, aluminium, battery), and the gap is smaller than it looks. Combine transport and electricity, and **total mining falls** a long way.
 
 ## Also heard as
 
@@ -89,16 +82,16 @@ For the car alone, roughly yes. But when you add up all the mining a petrol car 
 
 ## Go deeper
 
-**Why the coal comparison is so favourable to renewables.** A coal plant uses roughly **3 million tonnes of coal per year** for a typical GW-scale plant. Over a 40-year lifetime that's around **120 million tonnes** — dug up, blasted, moved, transported, burned. A wind farm producing similar output uses maybe **a few hundred thousand tonnes** of steel, concrete, copper and rare earths, once at build time. The ratio is enormous, and it's why fossil fuels dominate every reasonable mining comparison.
+**Why coal compares so badly.** A typical GW-scale coal plant (one gigawatt, the size of a large power station) burns about 3 million tonnes of coal a year. Over a 40-year lifetime that comes to around 120 million tonnes, all dug up, blasted, moved, transported and burned. A wind farm with a similar output uses perhaps a few hundred thousand tonnes of steel, concrete, copper and rare earths, once, when it is built. The gap is huge, and it is why fossil fuels come out worst in every reasonable comparison of mining.
 
-**Which minerals get tight, and where.** Copper, lithium, nickel and cobalt are the ones under pressure right now. Not because they're running out (they aren't — see [running out of minerals](running-out-of-minerals.md)) but because the mining industry hasn't scaled fast enough to keep up with the transition. This is exactly the window where recycling, substitution and mine-permitting reform matter most.
+**Which minerals get tight, and where.** Copper, lithium, nickel and cobalt are under pressure right now. That is not because they're running out (they aren't, see [running out of minerals](running-out-of-minerals.md)) but because the mining industry hasn't grown fast enough to keep up with the transition. This is the period when recycling, swapping in other materials and faster mine approvals matter most.
 
-**Recycling as a decade-out lever.** As the first generation of solar panels, turbines and batteries reaches end-of-life in the 2040s and 2050s, recycled materials will replace a growing share of new-mine demand. The solar panel on a roof today could eventually be recycled into two panels. That's not immediate — but it's coming, and it lowers long-run mining pressure.
+**Recycling, a decade or more away.** As the first generation of solar panels, turbines and batteries reaches the end of its life in the 2040s and 2050s, recycled materials will replace a growing share of new mining. The solar panel on a roof today could one day be recycled into two panels. That won't happen straight away, but it is coming, and it lowers the pressure to mine in the long run.
 
-**Public transport is still the ceiling.** Even the cleanest EV needs more mining than not having a car at all. Public transport, cycling and walking are still the top of the mobility hierarchy. Smaller EVs use less material than bigger EVs. This mirrors the [smaller EVs](../sectors/transport/smaller-evs-better.md) argument.
+**Public transport still comes first.** Even the cleanest EV needs more mining than having no car at all. Public transport, cycling and walking remain the lowest-impact ways to get around, and smaller EVs use less material than bigger ones. This mirrors the [smaller EVs](../sectors/transport/smaller-evs-better.md) argument.
 
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- IEA — mineral intensity of electricity generation
-- Our World in Data — Mining and materials per unit energy
+- IEA, mineral intensity of electricity generation
+- Our World in Data, Mining and materials per unit energy

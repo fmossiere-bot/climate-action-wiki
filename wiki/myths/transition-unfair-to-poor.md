@@ -2,9 +2,9 @@
 title: "Myth: This is all fine for people who can afford it"
 category: myths
 tags: ["#myth", "#behaviour", "#key-ideas", "#ireland", "#finance"]
-sources: ["RTE, CCAC 2026 Annual Review — https://www.rte.ie/news/"]
+sources: ["RTE, CCAC 2026 Annual Review. https://www.rte.ie/news/"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "climate justice, affordability, just transition, energy poverty, retrofit grants, public transport, EV cost, Climate Change Advisory Council, Ireland, price shocks, fossil fuel dependence, regressive policy, equity"
 claim_id: transition-unfair-to-poor
@@ -17,21 +17,21 @@ topic: systemic
 
 ## Say this
 
-You are right, and that is an argument for designing this properly rather than dropping it. The people with the smallest footprints are already the ones getting hit first.
+You're right, and that's a reason to design this properly, not to drop it. The people with the smallest footprints are already the ones being hit first.
 
 ## Why it sounds right
 
-This is largely correct and it should be conceded immediately. New EVs, heat pumps, retrofits and organic food all cost money upfront. Climate policy designed carelessly does land hardest on people with the least, and that is how you lose public support for it.
+This is largely correct, and it's worth saying so straight away. New EVs, heat pumps, home retrofits and organic food all cost money upfront. Climate policy designed carelessly does land hardest on the people with the least, and that is how it loses public support.
 
 ## What is actually true
 
-Two things follow, and neither is do less. First, the people with the smallest footprints are already the poorest, and they are also hit first and hardest by heatwaves, flooding and energy price shocks, so the status quo is not neutral either. Ireland's Climate Change Advisory Council made exactly this point in 2026: fossil fuel dependence is what exposes households to price shocks, and it called for public transport investment and a fair EV transition. Second, the fix is policy design, grants, retrofit schemes, public transport, and taxing the high emitting end, rather than abandoning the goal.
+None of this is a reason to do less. The people with the smallest footprints are already the poorest, and they are also hit first and hardest by heatwaves, flooding and sudden jumps in energy prices, so carrying on as we are isn't neutral either. Ireland's Climate Change Advisory Council made this point in 2026: depending on fossil fuels is what leaves households exposed to price shocks, and the Council called for investment in public transport and a fair move to EVs. The answer lies in how policy is designed (grants, retrofit schemes, public transport, and taxing the highest emitters) rather than in giving up on the goal.
 
 ## If they push back
 
 **"Politicians never design it properly"**
 
-Often true. Which is the thing to campaign on, because the alternative on offer is price shocks from fossil fuels we do not control.
+Often that's true, and it's exactly what to campaign on, because the alternative on offer is price shocks from fossil fuels we don't control.
 
 ## Also heard as
 
@@ -46,4 +46,4 @@ Often true. Which is the thing to campaign on, because the alternative on offer 
 
 ## Sources
 
-- RTE, CCAC 2026 Annual Review — https://www.rte.ie/news/
+- RTE, CCAC 2026 Annual Review. https://www.rte.ie/news/

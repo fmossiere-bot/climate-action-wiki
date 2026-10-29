@@ -1,76 +1,73 @@
 ---
-title: "The 13 biggest myths about heatwaves — and how to bust them (Guardian, Jonathan Watts & Ed Hawkins, July 2026)"
+title: "The 13 biggest myths about heatwaves, and how to bust them (Guardian, Jonathan Watts & Ed Hawkins, July 2026)"
 category: sources
 tags: ["#myth", "#science", "#adaptation", "#uk"]
 sources: ["raw/articles/The 13 biggest myths about heatwaves – and how to bust them.md", "Guardian, Jonathan Watts, 11 July 2026"]
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-28
 summary: 13 heatwave myths Guardian Jonathan Watts Ed Hawkins University of Reading, climate stripes, 1850s physics chemistry greenhouse gases, Guy Callendar 1938 steam engineer 0.3C warming, El Niño vs climate change, Earth orbit timescales, 1976 UK heatwave 32C 250 extra deaths, attribution studies amplification, 125000 years ice-core CO2 record, vulnerable groups elderly children heat health, UK homes winter not summer no shutters AC, 2003 European heatwave 40000-70000 deaths warning systems, CO2 plant food myth, net zero emissions human choice, 11 of 13 myths captured
+related:
+  - heatwave-myths-hawkins
+  - its-too-late
+  - Wet-Bulb explained
+  - jetstream-heatwave-patterns-2026
+  - record-hot-ocean-el-nino-2026
 ---
 
-# The 13 biggest myths about heatwaves — Guardian / Ed Hawkins, July 2026
+# The 13 biggest myths about heatwaves (Guardian and Ed Hawkins, July 2026)
 
-**Source:** Guardian, Jonathan Watts, 11 July 2026 — https://www.theguardian.com/environment/2026/jul/11/the-13-biggest-myths-about-heatwaves-and-how-to-bust-them
-**Scientific authority:** Prof Ed Hawkins, University of Reading — inventor of the "climate stripes" graphic
+**Source:** Guardian, Jonathan Watts, 11 July 2026. https://www.theguardian.com/environment/2026/jul/11/the-13-biggest-myths-about-heatwaves-and-how-to-bust-them
+**Scientific voice:** Prof Ed Hawkins, University of Reading, creator of the "climate stripes" graphic
 
 ## What it is
 
-Guardian article by Jonathan Watts collecting climate sceptics' most common claims about heatwaves and putting them to **Prof Ed Hawkins at the University of Reading** for rebuttal. **The core argument: there is no scientific doubt that heatwaves are being made hotter and more frequent by human greenhouse-gas emissions — the physics and chemistry have been known since the 1850s, the warming signal has been measurable since Guy Callendar quantified it in 1938, and the attribution studies now show precisely how much hotter any individual event has become.** The piece is written to be used by non-experts in real conversations.
+Jonathan Watts collected the claims sceptics most often make about heatwaves and put them to **Prof Ed Hawkins** at the University of Reading. Hawkins answers each one in a short paragraph.
 
-## The 11-12 myth-rebuttal pairs captured in the clipping
-
-**Note on capture:** the Guardian article is titled "13 biggest myths". The clipping captures 11-12 clearly-headed rebuttals (the lead paragraph answers an unstated opening myth about human causation; one or two further myths may have been dropped from the clip). The list below reflects what the clipping contains.
-
-| # | Myth / sceptical question | Hawkins's rebuttal (summary) |
-|---|---|---|
-| 1 | *Isn't climate change caused by something other than humans?* | **No.** Global warming is caused by human activities, primarily burning fossil fuels. Every heatwave and every summer is hotter than it would have been without those emissions. |
-| 2 | This is a complex subject with degrees of uncertainty. Isn't there room for doubt? | The physics is simple and has been known since the 1850s. The first quantification of CO2's warming effect was in the 1890s. **Guy Callendar (steam engineer, 1938)** showed the world had already warmed by about 0.3°C from fossil-fuel burning. Scientists have no doubt; others still refuse to believe it. |
-| 3 | Aren't this year's heatwaves caused by natural cycles — El Niño? | Weather patterns have always produced extremes; the warmer world makes the consequences worse. The current El Niño has only just started and won't peak until Christmas 2026, so it cannot be the main driver of the summer 2026 heatwaves. |
-| 4 | Isn't it the Earth's orbit moving closer to the sun? | Orbital changes affect climate over tens of thousands of years. In the 18th century, the orbit was pushing the Earth onto a slightly **cooler** path. The rapid warming we are seeing is from Industrial Revolution fossil-fuel burning, not orbital change. |
-| 5 | What about the 1976 UK heatwave? Isn't this just the same? | **No.** 1976 was an isolated northern-European hotspot while nearby regions had a cool summer. The peak of June 2026 was about **2°C hotter than June 1976** across a much wider area of Europe. In 1976, two weeks above 32°C killed ~250 extra people per day in the UK; a similar pattern in today's hotter world would be more dangerous. |
-| 6 | Isn't it impossible to attribute any single extreme event to climate change? | Climate change doesn't cause the weather patterns, but **when they occur, climate change makes the consequences more severe**. Attribution studies now quantify how much. Multiple methods converge on the big picture: heatwaves are hotter because of human emissions. |
-| 7 | Aren't the records too short to show real trends? | Temperature records go back to the **early 1800s**; CO2 proxy records from **ice cores go back hundreds of thousands of years**. The last time the world was as hot as today was ~**125,000 years ago**. CO2 today exceeds anything in the ice-core record. |
-| 8 | Can't we just enjoy heatwaves — beaches, ice-cream? | Many people do; many others cannot. Elderly people, heart and diabetes patients, children in hot schools, hospital patients, outdoor workers — for them, a heatwave is miserable or dangerous. At very high temperatures, even fit people are at risk. Media should use **more balanced images**. |
-| 9 | Other countries manage with mid-30s°C. Why should the UK be so bothered? | **UK homes and offices were built for the cooler climate of the past** — made to keep warm in winter, not cool in summer. The UK has little air conditioning and no shutters, unlike Mediterranean countries. British society has to adapt. |
-| 10 | Aren't heat warnings an overreach — just scaring people? | **No. They save lives.** The 2003 European heatwave is estimated to have killed **40,000-70,000 people** because Europe was not prepared. Modern warning systems — "drink water, keep curtains shut, stay in during the heat of the day" — have reduced excess deaths even as temperatures rose. |
-| 11 | Isn't there an upside — CO2 is plant food? | **No.** In idealised conditions, a fraction of plant species grow better in high CO2, but in the real world, **harvests are suffering** from hot dry periods and changed rainfall. We grow only what the weather lets us. |
-| 12 | Humans are puny compared with nature. Isn't it too late? | **No.** Because human actions cause this, human actions can solve it. We can keep burning fossil fuels and get hotter heatwaves; or we can reach **global net zero**, which stabilises the climate. That is the choice we have to make. |
-
-## Notable framings
-
-- **"The physics is very simple."** Hawkins repeatedly anchors sceptical questions in long-established science (1850s theory, 1890s quantification, 1938 observation). The framing is "this is not new or contested".
-- **"Isolated hotspot vs continent-wide heat."** The 1976-vs-2026 contrast is one of the clearest intuitive rebuttals for a UK audience: 1976 was anomalous; 2026 is systematic.
-- **"UK homes built for the climate of the past."** This is a specific adaptation point — the UK's building stock is a legacy of a colder climate and needs changing, not just the thermostat.
-- **"Warning systems save lives."** The 40,000-70,000 figure from 2003, and the subsequent reduction in excess deaths through warnings, is the strongest evidence against the "government overreach" framing.
+His message is calm and consistent. Scientists are in no doubt that human greenhouse gas emissions are making heatwaves hotter and more frequent. The physics and chemistry have been understood since the 1850s. The steam engineer Guy Callendar measured the warming in 1938. Attribution studies, which compare real events with a world without our emissions, now show how much hotter any single heatwave has become. The piece is written so non-experts can use it in real conversations.
 
 ## Why it matters
 
-Three things:
+Most of us have heard at least one of these lines at a barbecue or on a family group chat. This article gives short, factual answers that are easy to say out loud and hold up under pushback. That is the same approach as the "Say this" section on the wiki's myth pages, and it fed a dedicated [heatwave myths page](../myths/heatwave-myths-hawkins.md).
 
-1. **A ready-made conversational resource.** The piece is explicitly designed for use in real conversations with sceptics. Each rebuttal is short enough to say out loud and factual enough to withstand pushback. This maps directly onto the wiki's Myth template "Say this" guidance.
-2. **Prof Ed Hawkins is a credible single-expert anchor.** As inventor of the climate stripes, Hawkins has done more than most to make the warming signal visible. Having one named Reading University climate scientist carry 13 rebuttals is a strong authority structure.
-3. **It covers the whole shape of UK/European heatwave denial, not just one angle.** The 11-12 captured myths span attribution (3, 5, 6), measurement (7), physics (2, 4), impacts (8, 9, 11), adaptation (9, 10) and agency (12). A reader who internalises the whole set has defences against most of the common lines.
+Hawkins is a trusted voice. His climate stripes have done more than most graphics to make warming visible, and having one named climate scientist answer every question gives the piece weight.
 
-## Caveats
+The answers also cover the whole range of what people say about heatwaves in the UK and Europe: whether we can blame climate change for a given event (myths 3, 5 and 6), how we measure it (7), the basic physics (2 and 4), the effects on people and food (8, 9 and 11), how to adapt (9 and 10), and whether we can do anything about it (12). Someone who knows the full set has an answer to most of the common lines.
 
-- **Clipping gaps.** 11-12 of the 13 myths are captured clearly. One or two may be missing. The source summary and the derived wiki page should flag this honestly.
-- **UK-centric.** The 1976 baseline, the "UK homes built for the cooler climate", the Ed Hawkins affiliation — all UK-specific. The science generalises; the examples don't. The derived wiki page keeps this UK-centric framing where it is strongest, and generalises where it isn't.
-- **Guardian framing is adversarial towards sceptics** ("evasions, distractions and lies"). The derived wiki page uses softer framing to match the wiki's "concede first, correct second" tone.
+## The myths and Hawkins's answers
 
-## Tone and angle
+The article is titled "13 biggest myths", but the clipped copy shows 11-12 clearly headed answers. The opening paragraph answers an unstated first myth about whether humans are the cause, and one or two more may have been lost in the clipping. The table reflects what was captured.
 
-Guardian environmental journalism in explicitly combative mode toward denial, moderated by Hawkins's calm scientific voice. The format is Q-and-A: short myth, short answer, each roughly a paragraph. The structure is reusable: it is one of the better recent "myth-busting kit" articles in English climate coverage.
+| # | Myth or sceptical question | Hawkins's answer, in short |
+|---|---|---|
+| 1 | *Isn't climate change caused by something other than humans?* | No. Global warming is caused by human activity, mainly burning fossil fuels. Every heatwave and every summer is hotter than it would have been without those emissions. |
+| 2 | It's a complex subject with uncertainty. Isn't there room for doubt? | The physics is simple and has been known since the 1850s. CO2's warming effect was first calculated in the 1890s. In 1938 **Guy Callendar**, a steam engineer, showed the world had already warmed by about 0.3°C from burning fossil fuels. Scientists have no doubt, even if some people still refuse to accept it. |
+| 3 | Aren't this year's heatwaves caused by a natural cycle, El Niño? | Weather has always produced extremes, and a warmer world makes them worse. The current El Niño has only just started and won't peak until Christmas 2026, so it cannot be the main cause of the summer 2026 heatwaves. |
+| 4 | Isn't it the Earth's orbit moving closer to the sun? | Changes in the orbit affect climate over tens of thousands of years. In the 18th century the orbit was nudging the Earth onto a slightly cooler path. Today's rapid warming comes from burning fossil fuels since the Industrial Revolution. |
+| 5 | What about the 1976 UK heatwave? Isn't this the same? | No. 1976 was a hotspot over northern Europe while nearby regions had a cool summer. The peak of June 2026 was about **2°C hotter than June 1976**, across a much wider part of Europe. In 1976, two weeks above 32°C killed about 250 extra people a day in the UK. The same pattern in today's hotter world would be more dangerous. |
+| 6 | Isn't it impossible to link any single extreme event to climate change? | Climate change does not create the weather patterns, but when they happen, it makes the results more severe. Attribution studies now measure by how much, and different methods agree: heatwaves are hotter because of human emissions. |
+| 7 | Aren't the records too short to show real trends? | Thermometer records go back to the early 1800s. CO2 records from ice cores go back hundreds of thousands of years. The last time the world was as hot as today was about **125,000 years ago**, and CO2 today is higher than anywhere in the ice-core record. |
+| 8 | Can't we just enjoy heatwaves, with beaches and ice cream? | Many people do, but many cannot. For older people, people with heart conditions or diabetes, children in hot classrooms, hospital patients and outdoor workers, a heatwave is miserable or dangerous. At very high temperatures even fit people are at risk. Hawkins would like the media to use more balanced pictures. |
+| 9 | Other countries cope with the mid-30s°C. Why is the UK so bothered? | UK homes and offices were built for the cooler climate of the past, to keep warm in winter rather than cool in summer. There is little air conditioning and no tradition of shutters, unlike in Mediterranean countries. British society has to adapt. |
+| 10 | Aren't heat warnings overreach, just scaring people? | No, they save lives. The 2003 European heatwave is estimated to have killed **40,000-70,000 people** because Europe was not prepared. Modern warnings ("drink water, keep curtains shut, stay in during the heat of the day") have cut excess deaths even as temperatures rose. |
+| 11 | Isn't there an upside? CO2 is plant food. | In ideal lab conditions some plants grow better with more CO2. In the real world, harvests are suffering from hot, dry spells and changing rainfall. We can only grow what the weather allows. |
+| 12 | Humans are tiny compared with nature. Isn't it too late? | No. Because humans are causing this, humans can fix it. We can keep burning fossil fuels and get hotter heatwaves, or reach **global net zero** and stabilise the climate. That is the choice in front of us. |
 
-## How it connects to the wiki
+## Lines worth remembering
 
-- New wiki page: [Heatwave myths and how to bust them](heatwave-myths-hawkins.md) — a dedicated explainer page using the 12 captured rebuttals, matching the wiki's broader tone
-- Reinforces [its-too-late (myth)](../myths/its-too-late.md) — directly answers the "humans are puny / too late" line
-- Complements [record-hot-ocean-el-nino-2026](../climate-science/record-hot-ocean-el-nino-2026.md), [jetstream-heatwave-patterns-2026](../climate-science/jetstream-heatwave-patterns-2026.md), [wildfires-climate-feedback](../climate-science/wildfires-climate-feedback.md) — all directly relevant to specific myth rebuttals in this piece
-- Fits with [Wet-Bulb explained](../climate-science/Wet-Bulb%20explained.md) — the mechanism behind why heatwaves kill
-- Could seed future standalone Myth-template pages if any individual claim comes up often enough to warrant one (e.g. "CO2 is plant food" is a classic that could get its own page later)
+Hawkins keeps coming back to the idea that "the physics is very simple". He anchors his answers in science that is well over a century old (1850s theory, 1890s calculation, 1938 measurement), to show that none of this is new or contested.
+
+For a UK audience, the comparison between 1976 and 2026 is one of the clearest answers. 1976 was an unusual local hotspot. 2026 is part of a wider, lasting pattern.
+
+The point about UK homes being built for the climate of the past is a practical one about adaptation. The country's housing was designed for colder weather, and the buildings themselves need to change.
+
+On warnings, the 40,000-70,000 deaths in 2003, and the fall in excess deaths once warning systems were in place, are the best answer to the claim that heat alerts are government overreach.
+
+## Limits of the source
+
+The clipping captures 11-12 of the 13 myths clearly, so one or two may be missing. The examples are mostly British: the 1976 baseline, the point about UK housing, and Hawkins's own university. The science applies everywhere, but the examples do not always travel. The Guardian is openly combative towards sceptics, describing their arguments as "evasions, distractions and lies". The wiki's own myth page uses a gentler tone, conceding what is fair before correcting what is wrong.
 
 ## Sources
 
-- Guardian, Jonathan Watts, 11 July 2026 — "The 13 biggest myths about heatwaves — and how to bust them"
-- Prof Ed Hawkins, National Centre for Atmospheric Science, University of Reading — inventor of the "climate stripes" graphic (https://showyourstripes.info)
-- Historical reference: Guy Callendar, 1938, first quantification of fossil-fuel warming
+- Guardian, Jonathan Watts, 11 July 2026. "The 13 biggest myths about heatwaves, and how to bust them". https://www.theguardian.com/environment/2026/jul/11/the-13-biggest-myths-about-heatwaves-and-how-to-bust-them
+- Prof Ed Hawkins, National Centre for Atmospheric Science, University of Reading, creator of the "climate stripes" graphic. https://showyourstripes.info
+- Historical reference: Guy Callendar, 1938, first calculation of warming from fossil fuels

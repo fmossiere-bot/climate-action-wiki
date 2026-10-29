@@ -4,9 +4,9 @@ category: myths
 tags: ["#myth"]
 sources:
   - Hannah Ritchie, Not the End of the World (2024)
-  - IEA — World Energy Employment Report 2023
+  - IEA, World Energy Employment Report 2023
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-10-28
 cover_image: ""
 summary: energy jobs, 63 to 68 million energy jobs 2019 to 2023, clean energy jobs overtook fossil 2021, 72 to 82 million by 2030, US energy jobs 3.8% growth 2022, UK green jobs 4x normal rate, 32 million fossil fuel workers 0.4% population, 6 million car industry, 2.5 million oil gas, VW Mercedes Ford retraining, Ratcliffe-on-Soar just transition, wage gap fossil to renewable, Hannah Ritchie
 claim_id: energy-transition-kills-jobs
@@ -25,44 +25,43 @@ related:
 
 ## Say this
 
-Jobs in fossil fuels are shrinking, but clean energy jobs are already growing faster. The total number of energy jobs went up from 63 million in 2019 to 68 million in 2023, and clean energy overtook fossil fuels for the first time in 2021. The real problem isn't the total — it's making sure the workers whose jobs shrink get retraining and support, and paid honestly about wage gaps.
+Fossil fuel jobs are shrinking, but clean energy jobs are growing faster, and total energy jobs rose from 63 million in 2019 to 68 million in 2023. The real task is looking after the workers whose jobs go, with retraining, support and a frank conversation about pay.
 
 ## Why it sounds right
 
-Because in specific places and industries it will hurt real people. Coal towns, oil towns, engineering communities built around a refinery — these places do face job losses, and pretending otherwise is dishonest. Anyone who lives in one of these communities and reads a headline about a coal plant closure has good reason to worry. The mistake is generalising that specific pain into "the whole transition destroys jobs."
+In particular places and industries, the transition will hurt real people. Coal towns, oil towns and engineering communities built around a refinery do face job losses, and pretending otherwise would be wrong. Anyone living in one of those places who reads about a coal plant closing has good reason to worry. Where it goes wrong is in stretching that local pain into "the whole transition destroys jobs."
 
 ## What is actually true
 
-**Total energy jobs are rising, not falling:**
-- **63 million in 2019** → **68 million in 2023**
-- Could reach **72 million by 2030**, or **82 million** on a stronger climate pathway
-- **Clean energy jobs overtook fossil fuel jobs in 2021** because far more money is now flowing into clean energy
+Total energy jobs are rising:
+- They went from 63 million in 2019 to 68 million in 2023.
+- They could reach 72 million by 2030, or 82 million on a stronger climate pathway.
+- **Clean energy jobs overtook fossil fuel jobs in 2021**, because far more money now flows into clean energy.
 
-**It's happening in rich countries too:**
-- **US** energy jobs grew **3.8% in 2022** — faster than the economy as a whole. Clean energy jobs specifically grew **3.9%**.
-- **UK** "green jobs" growing at **4× the normal market rate**
+The same is happening in rich countries:
+- US energy jobs grew 3.8% in 2022, faster than the economy as a whole. Clean energy jobs grew 3.9%.
+- UK "green jobs" are growing at 4× the normal market rate.
 
-**Most clean energy jobs can't be exported:**
-- Installing solar panels, fitting heat pumps, building EV charging points, insulating homes — these have to happen locally, on the ground. Which makes them politically resilient.
+Most clean energy jobs can't be sent abroad. Installing solar panels, fitting heat pumps, building EV charging points and insulating homes all have to happen locally, which makes these jobs harder to lose to politics or trade.
 
-**The specific job losses (Ritchie's numbers):**
-- **~6 million workers** could lose jobs in the traditional car industry (petrol/diesel) by 2030. Roughly **two thirds could move** to related EV or component roles with retraining. VW has pledged to train 22,000, Mercedes has invested >€1.3bn, Ford US has put in >$11bn.
-- **~2.5 million** could lose oil and gas jobs. About **three quarters could move** into other parts of the energy industry, with proper retraining investment.
-- **32 million people** globally work in fossil fuels — about **0.4% of world population**. Meanwhile, climate change affects the other 99.6%.
+Hannah Ritchie's figures on the jobs at risk:
+- About 6 million workers could lose jobs in the traditional petrol and diesel car industry by 2030. Roughly two thirds of them could move to related EV or parts jobs with retraining. VW has pledged to train 22,000 people, Mercedes has invested more than €1.3bn, and Ford US has put in more than $11bn.
+- About 2.5 million could lose oil and gas jobs. About three quarters of them could move into other parts of the energy industry, with proper investment in retraining.
+- 32 million people worldwide work in fossil fuels, about 0.4% of the world's population. Climate change affects the other 99.6%.
 
 ## If they push back
 
 **"But real people in real towns are going to lose their livelihoods."**
 
-Yes. And that is exactly why a **just transition** is not optional. The UK's last coal power station, **Ratcliffe-on-Soar (closed 2023)**, is a working example: most of several hundred workers were moved into other jobs at the company or retrained for partners, with only a handful of forced job losses. It worked because the plan started years before closure — not months.
+Yes, and that is why a **just transition**, one that looks after affected workers, can't be optional. The UK's last coal power station, Ratcliffe-on-Soar (closed 2023), shows how: most of its several hundred workers moved to other jobs at the company or retrained with partners, with only a handful of forced job losses. It worked because planning started years before closure, not months.
 
 **"Wind turbine installers don't earn what oil workers earn."**
 
-True, and it needs to be said honestly. A wind installer typically earns less than an offshore oil worker. Some fossil fuel workers will end up in cleaner jobs at lower pay. Pretending otherwise makes governments look dishonest and workers rightly angry. The fix is direct: **pay clean-energy jobs properly**, and top up transition wages where necessary.
+That's true, and it should be said plainly. A wind installer usually earns less than an offshore oil worker, so some people will move into cleaner jobs at lower pay. The fix is to pay clean energy jobs properly and top up wages during the transition where needed.
 
 **"Governments will leave workers stranded when the plant closes."**
 
-They will if they wait until closure is a few months away. The Ratcliffe example shows what works: start planning years ahead, involve the workforce, fund retraining explicitly. This is now a solved policy problem where the political will exists.
+They will if they wait until closure is a few months away. Ratcliffe shows what works: plan years ahead, involve the workforce and fund retraining directly. Where the political will exists, this is a solved policy problem.
 
 ## Also heard as
 
@@ -75,15 +74,15 @@ They will if they wait until closure is a few months away. The Ratcliffe example
 
 ## Go deeper
 
-**Where fossil fuel jobs were already shrinking anyway.** Coal mining in China grew hugely since 2000, but the number of miners didn't grow at the same rate — automation cut the labour intensity. The same story plays out in the US Appalachian coalfields. Some of the "job losses from climate policy" would have happened anyway from productivity gains. The transition is happening on top of a trend that was already in motion.
+**Fossil fuel jobs were already shrinking.** Coal mining in China has grown hugely since 2000, but the number of miners didn't grow at the same rate, because automation means fewer people are needed per tonne. The same thing happened in the US Appalachian coalfields. Some of the job losses blamed on climate policy would have happened anyway through productivity gains. The transition sits on top of a trend that was already under way.
 
-**Ratcliffe-on-Soar as the template.** The UK's last coal power station closed in 2023 with almost no forced redundancies. This didn't happen by accident. It required years of planning, employer investment in retraining, and honest communication with the workforce. Governments serious about a just transition should study this specific case.
+**Ratcliffe-on-Soar as a model.** The UK's last coal power station closed in 2023 with almost no forced redundancies. That took years of planning, employer investment in retraining, and open communication with the workforce. Governments serious about a just transition should study this case.
 
-**The wage gap needs an honest conversation.** Some transitions will genuinely leave workers earning less. That is a policy problem that policy has to fix — through wage top-ups, union representation in new sectors, and honest siting of new industries in the places old ones are closing. Pretending this problem doesn't exist is why populist backlash finds so many recruits.
+**The pay gap needs a frank conversation.** Some workers will end up earning less. That is a problem policy has to fix, through wage top-ups, union representation in new sectors, and placing new industries in the towns where old ones are closing. Pretending the problem doesn't exist is one reason populist backlash finds so many recruits.
 
-**The 0.4% framing.** Ritchie is blunt: 32 million fossil fuel workers is 0.4% of humanity. Climate change affects the other 99.6%. That does not mean the 32 million can be ignored — but it does mean we can't hold climate action hostage to protecting a specific slice of jobs indefinitely. The right answer is "we cannot stop, and we will support the 0.4% properly through the change."
+**The 0.4% figure.** Ritchie puts it bluntly: 32 million fossil fuel workers is 0.4% of humanity, and climate change affects the other 99.6%. That doesn't mean the 32 million can be ignored. It does mean climate action can't be held back indefinitely to protect one slice of jobs. The answer is to keep going and support that 0.4% properly through the change.
 
 ## Sources
 
-- Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
-- IEA — World Energy Employment 2023
+- Hannah Ritchie, *Not the End of the World*, Chatto & Windus, 2024
+- IEA, World Energy Employment, 2023

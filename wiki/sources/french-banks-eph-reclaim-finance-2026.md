@@ -4,49 +4,50 @@ category: sources
 tags: ["#finance", "#fossil-fuels", "#greenwashing", "#eu-policy"]
 sources: ["raw/articles/French banks support EPH, contrary to their commitments.md"]
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-10-28
 summary: EPH Energetický a průmyslový holding, €2.2 billion revolving credit facility RCF, May 2026, BNP Paribas Crédit Agricole Société Générale BPCE, ING Lloyds CaixaBank, Daniel Křetínský EP Group, largest coal producer Europe, 11.1 GW gas 5.5 GW new, EP Energy Transition EPETr sleight of hand, TotalEnergies TTEP joint venture, LMA Green Loan Principles, IEEFA S&P green finance framework, Reclaim Finance, coal exit 2030 claim
+related:
+  - fossil-fuel-banking
+  - Greenwashing
+  - ariana-mine-santander
+  - bp-shareholder-rebellion-2026
 ---
 
-# French banks support EPH — a Reclaim Finance / BankTrack investigation
+# French banks support EPH: a Reclaim Finance and BankTrack investigation
 
-**Source:** Reclaim Finance (originally); republished by BankTrack, 6 July 2026 — https://www.banktrack.org/article/french_banks_support_eph_contrary_to_their_commitments
+**Source:** Reclaim Finance (original), republished by BankTrack, 6 July 2026. https://www.banktrack.org/article/french_banks_support_eph_contrary_to_their_commitments
 
 ## What it is
 
-Investigation into a **€2.2 billion revolving credit facility (RCF)** issued on 21 May 2026 to **Energetický a průmyslový holding (EPH)** — a Czech coal and gas group controlled by billionaire Daniel Křetínský, described as one of Europe's largest polluters. All four of France's largest banks — **BNP Paribas, Crédit Agricole, Société Générale, and BPCE** — participated, alongside **ING, Lloyds Banking Group, and CaixaBank**. Reclaim Finance argues this transaction is incompatible with the banks' stated net-zero commitments and exposes the credibility gap in their climate strategies.
+An investigation into a **€2.2 billion revolving credit facility** (a standing loan a company can draw on and repay as it needs) arranged on 21 May 2026 for Energetický a průmyslový holding (EPH). EPH is a Czech coal and gas group controlled by the billionaire Daniel Křetínský, and is described as one of Europe's largest polluters.
 
-## Key facts
-
-- **€2.2 billion RCF** issued 21 May 2026 to EPH
-- EPH's parent **EP Group** is Europe's **largest coal producer** and **second-largest coal power plant operator** on the continent
-- **48.1 million tonnes of coal** produced annually by EP Group; over 10 GW of coal power operated
-- EPH currently operates **11.1 GW of fossil gas** across 8 European countries and plans to add **5.5 GW more**
-- EPH is Europe's **second-largest developer of new gas power plants**
-- Since 2021, EPH has moved coal assets to a **new subsidiary — EP Energy Transition (EPETr)** — also owned by Křetínský; Reclaim Finance calls this "a sleight of hand" to claim coal phase-out by 2030 without actually closing anything
-- Recent formation of **TTEP joint venture with TotalEnergies** creates a new European gas giant
-- One bank characterised the RCF as a **"green loan"** under the LMA Green Loan Principles — but the transaction was subsequently removed from the database provider's records "for confidentiality reasons"
-- **IEEFA analysis (August 2025)**: EPH's green bonds are unlikely to genuinely put the company on an energy transition path
-- **S&P's own second-party opinion** on EPH's Green Finance Framework: "the framework includes significant investments in fossil fuel-based assets and infrastructure"
-
-## Bank responses (quoted in the piece)
-
-One bank: *"EPH's transition plan is credible."*
-Another: *"We do not normally comment on specific clients and transactions. EPH has however asked us to refer you to their 2025 annual report... page 351 (coal phase out plans) and page 325 (decarbonization targets and their commitment to exit coal by 2030)."*
-
-Both banks pointed Reclaim Finance back to EPH's own reporting rather than defending the loan on climate-policy grounds.
+All four of France's biggest banks took part: BNP Paribas, Crédit Agricole, Société Générale and BPCE. ING, Lloyds Banking Group and CaixaBank joined them. Reclaim Finance argues the deal cannot be squared with the banks' own net-zero promises, and shows how far their climate strategies fall short in practice.
 
 ## Why it matters
 
-Three overlapping issues:
+All four French banks have publicly committed to carbon-neutral lending portfolios. Lending to a company that is actively expanding gas, including through a new joint venture with TotalEnergies, runs directly against those promises. For anyone with a current account at one of these banks, it is a concrete example of where their money can end up.
 
-1. **Concrete accountability gap for French banks' net-zero commitments.** All four French majors have publicly committed to carbon-neutral portfolios. Financing an active gas expansion — including a new TotalEnergies JV — directly contradicts those commitments.
-2. **The coal-shell-game pattern.** EPH is a case study in how large European polluters can claim to "exit coal" by moving assets to a new subsidiary rather than closing them. Investors and banks accepting these claims at face value are complicit in enabling continued operation.
-3. **Green loans as a laundering mechanism.** The LMA Green Loan Principles allow revolving credit facilities to be labelled "green" with only ex-post reporting, giving banks and borrowers wide latitude to redirect proceeds. The Reclaim Finance piece argues this specific loophole was exploited.
+EPH also shows how a polluter can claim to "exit coal" without closing anything. Since 2021 it has moved its coal plants into a separate company owned by the same man. When banks and investors accept that claim at face value, they help keep the plants running.
 
-## How it connects to the wiki
+The case also raises questions about "green" loans. Under the LMA Green Loan Principles, a revolving credit facility can be labelled green with reporting only after the money is spent. That leaves banks and borrowers a lot of room to use the money elsewhere, and Reclaim Finance argues that is what happened here.
 
-- Updates `wiki/climate-finance/fossil-fuel-banking.md` with the EPH case as a concrete example of the pattern documented in that page
-- Complements `wiki/climate-finance/bp-shareholder-rebellion-2026.md` — same industry, different accountability mechanism (shareholders vs civil society)
-- Reinforces `wiki/climate-finance/ariana-mine-santander.md` (parallel case: European bank lending to fossil/mining projects incompatible with stated climate policy)
-- Adds material to `wiki/concepts/key-ideas/Greenwashing.md`
+## Key facts
+
+- The €2.2 billion facility was arranged on 21 May 2026.
+- EPH's parent company, **EP Group**, is Europe's largest coal producer and the continent's second-largest operator of coal power plants.
+- EP Group produces 48.1 million tonnes of coal a year and runs over 10 GW of coal power.
+- EPH operates 11.1 GW of fossil gas power across 8 European countries and plans to add 5.5 GW more. It is Europe's second-largest developer of new gas power plants.
+- Since 2021, EPH has moved its coal assets into a new subsidiary, EP Energy Transition (EPETr), also owned by Křetínský. Reclaim Finance calls this "a sleight of hand" to claim a coal phase-out by 2030 without closing anything.
+- A new joint venture with TotalEnergies, called TTEP, creates a new European gas giant.
+- One bank described the facility as a "green loan" under the LMA Green Loan Principles. The deal was later removed from the database provider's records "for confidentiality reasons".
+- An IEEFA analysis from August 2025 found EPH's green bonds are unlikely to put the company on a real transition path. S&P's own review of EPH's Green Finance Framework noted that "the framework includes significant investments in fossil fuel-based assets and infrastructure".
+
+## How the banks responded
+
+Two banks replied to Reclaim Finance. One said simply: *"EPH's transition plan is credible."* The other wrote: *"We do not normally comment on specific clients and transactions. EPH has however asked us to refer you to their 2025 annual report... page 351 (coal phase out plans) and page 325 (decarbonization targets and their commitment to exit coal by 2030)."*
+
+Neither defended the loan against its own climate policy. Both pointed back to EPH's reporting instead.
+
+## Sources
+
+- Reclaim Finance, republished by BankTrack, 6 July 2026. https://www.banktrack.org/article/french_banks_support_eph_contrary_to_their_commitments

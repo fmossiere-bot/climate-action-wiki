@@ -1,5 +1,5 @@
 ---
-title: Seaqual — Turning Ocean Plastic into Fashion
+title: Seaqual: Turning Ocean Plastic into Fashion
 category: circularity-waste
 tags:
   - "#ocean"
@@ -8,7 +8,7 @@ tags:
   - "#circularity"
   - research
 sources:
-  - Seaqual Initiative — https://www.seaqual.org/the-problem/
+  - Seaqual Initiative. https://www.seaqual.org/the-problem/
 created: 2026-06-12
 updated: 2026-06-12
 cover_image: ""
@@ -61,7 +61,7 @@ The Seaqual Initiative operates through a highly integrated organizational struc
 
 Complementing this commercial engine is the Seaqual Foundation, which operates as the non-profit arm of the ecosystem. This hybrid structure allows the Seaqual Initiative to behave as a social enterprise or "Zebra company," a model that avoids the singular focus on profit maximization in favor of balancing economic viability with social and environmental regeneration.
 
-The division of labor between these two entities ensures a comprehensive approach to environmental, social, and governance (ESG) principles. While Seaqual 4U, S.L. coordinates the industrial supply chain—securing contracts with waste management firms, spinners, and brand partners—the Seaqual Foundation drives local regenerative projects. These non-profit activities include supporting local coastal communities, funding education programs on plastic pollution, and leading biodiversity restoration projects, such as the rehabilitation of posidonia meadows, sea turtle protection, and papyrus wetland preservation.
+The division of labor between these two entities ensures a comprehensive approach to environmental, social, and governance (ESG) principles. While Seaqual 4U, S.L. coordinates the industrial supply chain (securing contracts with waste management firms, spinners, and brand partners), the Seaqual Foundation drives local regenerative projects. These non-profit activities include supporting local coastal communities, funding education programs on plastic pollution, and leading biodiversity restoration projects, such as the rehabilitation of posidonia meadows, sea turtle protection, and papyrus wetland preservation.
 
 To protect the integrity of its environmental claims, the Seaqual Initiative employs a strict licensing model. Any brand, fabric mill, or manufacturer wishing to purchase or utilize Seaqual materials must sign the "SEAQUAL Trademark & Copyright License Agreement". This agreement establishes a closed, audited B2B community where certified Seaqual materials can only be traded among licensed entities. By mandating that the entire supply chain remain certified, the initiative prevents unauthorized blending and ensures complete accountability from raw material recovery to the retail product.
 
@@ -89,7 +89,7 @@ Notably, the proportion of usable plastic recovered varies significantly by sour
 
 To process these challenging raw inputs, the Seaqual Initiative has developed a diverse product matrix tailored for different industrial applications. The flagship product, SEAQUAL® YARN, is a high-quality recycled polyester yarn available in both continuous filament and staple fiber formats. To maintain the strict physical performance standards required by modern textile machinery, the yarn is manufactured as a blend of 10% Upcycled Marine Plastic (derived from marine litter) and 90% post-consumer polyethylene terephthalate (rPET) from terrestrial sources, such as land-based bottle collection systems.
 
-This 10:90 blending ratio is a deliberate engineering constraint. Because the marine polymer has been weakened by environmental weathering, it cannot dominate the blend without sacrificing the yarn's performance characteristics—such as strength, consistency, and spinability—that manufacturers require. By blending the degraded marine polymer with 90% high-quality terrestrial rPET, the initiative restores structural integrity while maintaining a high-performance recycled product.
+This 10:90 blending ratio is a deliberate engineering constraint. Because the marine polymer has been weakened by environmental weathering, it cannot dominate the blend without sacrificing the yarn's performance characteristics (such as strength, consistency, and spinability) that manufacturers require. By blending the degraded marine polymer with 90% high-quality terrestrial rPET, the initiative restores structural integrity while maintaining a high-performance recycled product.
 
 |**Product Name**|**Marine Content & Source**|**Terrestrial/Alternative Content**|**Polymer Base**|**Spliced Formats**|**Typical Applications**|
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@ The commercial growth of the Seaqual Initiative highlights several key opportuni
 
 - **Designing for Disassembly:** Brands should prioritize monomaterial construction when utilizing SEAQUAL® YARN to ensure the resulting products can be easily recycled at end-of-life. Avoiding complex fiber blends (such as polyester-cotton or polyester-elastane) and eliminating toxic adhesives or permanent metallic trims simplifies mechanical sorting and ensures the fabrics can enter chemical depolymerization streams without degrading the recycling output.
 - **Leveraging the Dual Value-Chain Story:** Because Seaqual materials carry both an industrial performance certification (GRS, Oeko-Tex) and a compelling social narrative, marketing departments can position these products to drive consumer engagement. Highlighting the direct connection to coastal cleanup crews and fishing cooperatives allows brands to justify premium price points while actively funding global ocean regeneration.
-- **Mitigating Microplastic Shedding:** While upcycling marine plastic is a vital curative solution, synthetic fabrics can still release microplastics during consumer washing. Fabric designers should recommend cold-water washing, mild detergents, or the use of specialized washbags. Alternatively, utilizing SEAQUAL® YARN in applications with low wash-frequencies—such as footwear uppers, upholstery, non-woven insulation, or acoustic panels—minimizes microplastic release while maximizing the material's operational lifetime.
+- **Mitigating Microplastic Shedding:** While upcycling marine plastic is a vital curative solution, synthetic fabrics can still release microplastics during consumer washing. Fabric designers should recommend cold-water washing, mild detergents, or the use of specialized washbags. Alternatively, utilizing SEAQUAL® YARN in applications with low wash-frequencies (such as footwear uppers, upholstery, non-woven insulation, or acoustic panels) minimizes microplastic release while maximizing the material's operational lifetime.
 - **Participating in Take-Back Infrastructure:** Large-scale commercial consumers of Seaqual textiles should establish direct partnerships with specialized chemical recyclers or implement brand-led take-back programs. By setting up returned-garment collection hubs, brands can secure their own feedstock for next-generation Textile-to-Textile (T2T) yarn production, helping to insulate their supply chains from future regulatory penalties and raw-material price volatility.
 
 ---

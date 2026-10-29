@@ -4,46 +4,51 @@ category: sources
 tags: ["#fossil-fuels", "#finance", "#esg", "#greenwashing"]
 sources: ["raw/articles/BP board suffers triple climate rebellion from shareholders.md"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-10-28
 summary: BP AGM April 2026, Albert Manifold chair, Meg O'Neill CEO, Bernard Looney legacy, shareholder rebellion, climate reporting rollback, Follow This resolution, Legal General Investment Management LGIM, Glass Lewis, ISS proxy advisers, ACCR Australasian Centre for Corporate Responsibility, in-person AGM online-only, Mark van Baal, Nick Mazan, oil and gas expansion, capital discipline, shareholder rights, first-female oil major CEO
+related:
+  - climate-finance/bp-shareholder-rebellion-2026
+  - fossil-fuel-banking
+  - Greenwashing lawsuits on the rise
+  - FACTS About Fossil Fuel (Oil and Gaz) Industry
 ---
 
 # BP board suffers triple climate rebellion from shareholders
 
-**Source:** The Guardian, Jillian Ambrose, 23 April 2026
-**URL:** https://www.theguardian.com/uk-news/2026/apr/23/bp-board-suffers-triple-climate-rebellion-from-shareholders
+**Source:** The Guardian, Jillian Ambrose, 23 April 2026. https://www.theguardian.com/uk-news/2026/apr/23/bp-board-suffers-triple-climate-rebellion-from-shareholders
 
 ## What it is
 
-Reporting on **BP's April 2026 AGM**, the first under new leadership (Chair Albert Manifold, appointed 2025; CEO Meg O'Neill, who took over earlier in April 2026). Shareholders delivered a **triple rebellion** — voting against (1) BP's proposal to scrap its existing climate reporting, (2) BP's plan to replace in-person AGMs with online-only meetings, and (3) the re-election of the chair (18% opposition).
+This is a report on BP's annual general meeting (AGM) in April 2026, the first under its new leaders. Albert Manifold became chair in 2025, and Meg O'Neill took over as chief executive earlier in April 2026.
 
-## Key facts cited
-
-- **>50% of votes cast** opposed BP's proposal to dilute its climate disclosures
-- **>50% of votes cast** opposed the switch to online-only AGMs (in-person meetings had become "a lightning rod for climate protest")
-- **18% of votes cast** opposed re-election of chair **Albert Manifold** — described as "unprecedented" less than a year into his tenure
-- Both defeated resolutions cannot be enacted, though Manifold remains as chair
-- **Legal & General Investment Management (LGIM)**, the UK's largest asset manager, voted against Manifold and against the climate-reporting rollback
-- Proxy advisers **Glass Lewis** and **ISS** urged shareholders to oppose the climate-reporting rollback; Glass Lewis also recommended voting against Manifold, holding him responsible for excluding a **Follow This** shareholder resolution asking how BP's rising oil and gas production aligned with a world shifting away from fossil fuels
-- **Meg O'Neill** is the first external hire to BP's top job and the first woman to lead any major oil company
-- Wider context: BP has walked back green targets set under former CEO **Bernard Looney**, with market value now lagging behind Shell
-
-## Notable quotes
-
-- **Mark van Baal (Follow This):** *"The question is simple: how does BP plan to create value for shareholders as oil and gas demand declines? BP would rather antagonise its shareholders than answer it."*
-- **Nick Mazan (Australasian Centre for Corporate Responsibility):** *"Today's result is unprecedented and demonstrates that investors are fed up with BP's lack of capital discipline and its approach to shareholder rights. In our view it was a mistake for BP to expect to push through measures to undercut shareholder rights without resistance."*
+Shareholders went against the board three times. They voted down BP's proposal to scrap its existing climate reporting. They voted down its plan to replace in-person AGMs with online-only meetings. And **18%** of them voted against re-electing the chair.
 
 ## Why it matters
 
-Shareholder revolts of this scale at a supermajor are rare. The **triple defeat** is significant on two counts: it signals that mainstream institutional investors (including LGIM) are now willing to publicly oppose an oil major's climate strategy, and it establishes that **procedural moves to avoid climate scrutiny** — like removing in-person AGMs or pruning disclosures — will now trigger their own backlash. It also puts the incoming CEO on notice at the start of her tenure.
+Revolts on this scale are rare at one of the world's biggest oil companies. This one came from mainstream investors such as Legal & General, not only from activist groups, which shows that large shareholders are now willing to oppose an oil major's climate strategy in public.
 
-## Tone and angle
+It also shows that quieter ways of avoiding scrutiny, such as dropping in-person meetings or trimming climate disclosures, can backfire. For a new chief executive only weeks into the job, it was an early warning that investors are watching.
 
-Business-desk reporting. The framing is that the outcome is genuinely unusual ("unprecedented"), not just a symbolic protest, and that the drivers were mainstream shareholders and proxy advisers rather than activist minorities.
+## Key facts
 
-## How it connects to the wiki
+- More than **50% of votes cast** opposed BP's proposal to weaken its climate disclosures.
+- More than 50% of votes cast opposed the switch to online-only AGMs. In-person meetings had become "a lightning rod for climate protest".
+- 18% of votes cast opposed the re-election of chair Albert Manifold, a result described as "unprecedented" less than a year into his time in the role.
+- Neither defeated proposal can go ahead, although Manifold stays on as chair.
+- Legal & General Investment Management (LGIM), the UK's largest asset manager, voted against Manifold and against the climate-reporting rollback.
+- The proxy advisers Glass Lewis and ISS, which advise investors on how to vote, urged shareholders to oppose the rollback. Glass Lewis also recommended voting against Manifold. It held him responsible for keeping a **Follow This** shareholder resolution off the agenda. That resolution asked how BP's rising oil and gas production fits with a world moving away from fossil fuels.
+- Meg O'Neill is the first person from outside the company to run BP, and the first woman to lead any major oil company.
 
-- Underpins a new page `wiki/climate-finance/bp-shareholder-rebellion-2026.md` on shareholder activism as a climate lever
-- Complements `wiki/climate-finance/fossil-fuel-banking.md` (same industry, different accountability mechanism)
-- Reinforces `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md` (legal + shareholder pressure combined)
-- Adds a specific corporate case to `wiki/solutions/energy-transition/FACTS About Fossil Fuel (Oil and Gaz) Industry.md`
+## Background
+
+BP has rolled back the green targets set under its former chief executive, Bernard Looney, and its market value now trails Shell's.
+
+## Voices in the piece
+
+Mark van Baal founded Follow This, the investor group whose resolution BP left off the agenda. He said: *"The question is simple: how does BP plan to create value for shareholders as oil and gas demand declines? BP would rather antagonise its shareholders than answer it."*
+
+Nick Mazan of the Australasian Centre for Corporate Responsibility (ACCR), a shareholder advocacy group, said: *"Today's result is unprecedented and demonstrates that investors are fed up with BP's lack of capital discipline and its approach to shareholder rights. In our view it was a mistake for BP to expect to push through measures to undercut shareholder rights without resistance."*
+
+## Sources
+
+- The Guardian, Jillian Ambrose, 23 April 2026. https://www.theguardian.com/uk-news/2026/apr/23/bp-board-suffers-triple-climate-rebellion-from-shareholders

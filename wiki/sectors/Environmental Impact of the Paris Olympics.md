@@ -1,7 +1,7 @@
 ---
 title: Environmental Impact of the Paris Olympics
 category: sectors
-updated: 2026-06-01
+updated: 2026-10-28
 tags:
   - sport
   - carbon
@@ -23,25 +23,25 @@ summary: Carbon Footprint Slashed, Per-Visitor Impact, The Reuse Strategy, Sourc
 
 ## What is it
 
-The Paris 2024 Olympic Games served as a massive test case for reducing the environmental damage caused by mega-sporting events. Historically, hosting the Olympics meant building massive new stadiums, flying in millions of people, and consuming enormous amounts of electricity, all of which left a massive scar on the planet's atmosphere. For the Paris Games, organisers committed to a strict "carbon budget" before anything was ever built or scheduled.
+The Paris 2024 Olympic Games were a large-scale test of how far the environmental damage of a mega sporting event can be cut. Hosting the Olympics used to mean building huge new stadiums, flying in millions of people and using vast amounts of electricity, all of which added a heavy load of greenhouse gases to the atmosphere. For Paris, the organisers set a strict **carbon budget** before anything was built or scheduled.
 
-The primary goal was to prove that international sports can align with global climate targets. By tracking every single ounce of greenhouse gas emissions—from the concrete used in the athletes' housing to the ingredients in the sandwiches sold at the venues—the event organisers designed a blueprint for future host cities.
+The main aim was to show that international sport can fit within global climate targets. The organisers tracked greenhouse gas emissions in detail, from the concrete in the athletes' housing to the ingredients in the sandwiches sold at the venues, and in doing so drew up a model for future host cities.
 
 ## Why it matters
 
-Most people look at massive sporting events as temporary entertainment, but their environmental consequences linger for decades. Traditional mega-events demand permanent infrastructure that often becomes empty, unused "white elephants" after the closing ceremony. This unnecessary construction pollutes local ecosystems and pumps tons of avoidable carbon into the atmosphere.
+Most people see big sporting events as short-lived entertainment, but their environmental effects can last for decades. Traditional mega-events need permanent buildings that often sit empty and unused after the closing ceremony, the so-called "white elephants". That unnecessary construction harms local ecosystems and puts tonnes of avoidable carbon into the atmosphere.
 
-Understanding how Paris changed this pattern matters to anyone who cares about the climate crisis. If the single largest event on Earth can successfully rewrite its operational rules to drastically lower its environmental footprint, it proves that local governments, soccer leagues, concert festivals, and other massive industries can do the exact same thing.
+How Paris changed this pattern matters to anyone who cares about the climate. If the largest event on Earth can change the way it runs and shrink its footprint this much, then local councils, football leagues, music festivals and other big industries can do the same.
 
 ## Key facts
 
-- **Carbon Footprint Slashed:** The Paris Olympics generated a total of 1.59 million tonnes of carbon dioxide equivalent ($CO_2$-e), successfully achieving a 54.6% reduction compared to the average emissions of the London 2012 and Rio 2016 Games (approx. 3.5 million tonnes).
-- **Per-Visitor Impact:** With roughly 13 to 16 million visitors attending the events, the average carbon footprint was brought down to approximately 125kg of $CO_2$-e per spectator.
-- **The Reuse Strategy:** Instead of constructing a fleet of new arenas, 95% of all competition venues utilized existing facilities or temporary, dismountable structures.
-- **Sources of Emissions:** Even with aggressive reductions, spectator travel and accommodation made up the largest chunk of the footprint, accounting for roughly 65% (1.36 million tonnes) of total emissions. Permanent construction accounted for 19%, while daily event operations took up the remaining 16%.
-- **Renewable Energy Grid:** Organizers eliminated the standard practice of relying on heavily polluting diesel generators by connecting 98.4% of all temporary and permanent venues directly to France's renewable electricity grid .
-- **Low-Impact Dining:** Catering teams served over 13 million meals while cutting the typical food carbon footprint in half by doubling the amount of plant-based menu options and sourcing 80% of ingredients locally within France.
-- **Context vs. Other Sports:** While a single Formula 1 season generates roughly 256,000 tonnes of $CO_2$-e across its global calendar, the sheer scale of the Olympics makes its total emissions footprint larger; however, Paris demonstrated a much lower footprint per individual attendee than a standard high-travel racing circuit.
+- **Carbon footprint cut:** The Paris Olympics produced a total of 1.59 million tonnes of carbon dioxide equivalent ($CO_2$-e). That is a 54.6% reduction on the average emissions of the London 2012 and Rio 2016 Games (approx. 3.5 million tonnes).
+- **Per-visitor impact:** With roughly 13 to 16 million visitors, the average carbon footprint came down to approximately 125kg of $CO_2$-e per spectator.
+- **Reuse first:** Instead of building a series of new arenas, 95% of all competition venues used existing facilities or temporary structures that could be taken down afterwards.
+- **Sources of emissions:** Even with deep cuts, travel (mostly spectators) was the largest share of the footprint, roughly 53% (about 0.84 million tonnes) of total emissions. Construction made up 29%, and day-to-day running of the events the remaining 18%.
+- **Renewable power:** Organisers dropped the usual reliance on polluting diesel generators by connecting 98.4% of all temporary and permanent venues directly to France's renewable electricity grid.
+- **Lower-impact food:** Caterers served over 13 million meals and halved the usual carbon footprint of the food. They did this by doubling the number of plant-based options and sourcing 80% of ingredients locally in France.
+- **Compared with other sports:** A single Formula 1 season produces roughly 256,000 tonnes of $CO_2$-e across its global calendar. The Olympics are so much bigger that their total footprint is larger, but Paris showed a much lower footprint per attendee than a typical high-travel racing series.
 
 ## Sources
 
@@ -49,4 +49,4 @@ Understanding how Paris changed this pattern matters to anyone who cares about t
 - Ernst & Young (EY) Environmental Impact Assessment for the French Ministry of Ecological Transition
 - Carbon Literacy Project Climate Action Briefing
 - Alliance Française Environmental Milestone Analysis
-
+- Paris 2024 emissions breakdown (travel 53%, construction 29%, operations 18%): SportForBusiness. https://sportforbusiness.com/paris-2024-reports-on-success-in-reducing-carbon-footprint/

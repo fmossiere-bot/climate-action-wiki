@@ -2,10 +2,10 @@
 title: The importance of Wetlands
 category: biodiversity-land
 tags: ["#wetlands", "#nature", "#methane", "#biodiversity", "#eu-policy"]
-sources: ["EU Nature Restoration Law (2024)", "Kovács GM et al., Nature (2026) — DOI: 10.1038/s41586-026-10760-9", "Phys.org / University of Copenhagen, 15 July 2026 — https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html"]
+sources: ["EU Nature Restoration Law (2024)", "Kovács GM et al., Nature (2026), DOI: 10.1038/s41586-026-10760-9", "Phys.org / University of Copenhagen, 15 July 2026. https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html", "Department of Climate, Energy and the Environment, Climate Action Plan 2025, 15 April 2025. https://assets.gov.ie/static/documents/Climate_Action_Plan_2025_updated_cover.pdf"]
 created: 2025-06-01
-updated: 2026-07-22
-summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation"
+updated: 2026-10-29
+summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of wetlands highly affected, over one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation"
 ---
 
 
@@ -25,7 +25,7 @@ Wetlands are usually grouped into a few main types:
 
 ## Why wetlands matter
 
-Wetlands give a wide range of benefits. They filter water, hold back floods, and provide a home for many plants and animals. They also take carbon dioxide out of the air and store it, which helps to slow down climate change and keeps the air and water cleaner. These areas hold a large variety of plant and animal life.
+Wetlands give a wide range of benefits. They filter water, hold back floods, and provide a home for many plants and animals. They also take carbon dioxide out of the air and store it, which helps to slow down climate change and keeps the air and water cleaner. 
 
 ### Carbon storage
 
@@ -36,7 +36,7 @@ A long running project at the Steart Marshes in Somerset, England, has measured 
 - The site has reached as much as **19 tonnes of carbon per hectare, per year**. The project team described this as the equivalent of charging 15 trillion phones each year, or heating 33,000 homes.
 - Looking at all of the natural marshes in Britain together, they capture in the region of **46,500 tonnes of carbon a year**.
 
-Carbon capture from wetlands is not huge compared to other climate actions, and it should not be treated as the main reason to protect them. But it is not small either.
+Carbon capture from wetlands is modest compared with other climate actions, and it should not be treated as the main reason to protect them. But it is not small either.
 
 ### Flood protection
 
@@ -54,9 +54,8 @@ Wetlands are home to a large number of plant and animal species. They are some o
 
 Wetlands also release methane, which is a strong greenhouse gas. This makes the full picture more complicated.
 
-- About **40% of methane emissions come from natural sources** such as wetlands. The other **60% come from human sources**, such as cattle farming, fossil fuel extraction, and landfill sites.
+- About **40% of methane emissions** come from natural sources such as wetlands. The other 60% come from human sources, such as cattle farming, fossil fuel extraction and landfill sites.
 - Rising temperatures can lead to _more_ methane, for example by speeding up the activity of the microbes in wetlands that produce it. At the same time, methane _removal_ is slowed down by the growing number of wildfires.
-
 
 ## Wetlands in Europe's climate and biodiversity plans
 
@@ -85,12 +84,11 @@ Ireland has many types of wetland, including bogs (both raised and blanket bogs)
 The largest restoration programme in Ireland is run by Bord na Móna, which has stopped all commercial peat harvesting:
 
 - The aim is to rehabilitate about **33,000 hectares** of former industrial peatland across 82 bogs in the midlands.
-- By the end of 2024, work was completed on **18,861 hectares**, which is 57% of the target.
+- According to the Climate Action Plan 2025 (published on 15 April 2025), the total area rehabilitated as of the end of October 2024 stood at 18,585 hectares, and delivery of the scheme is ongoing.
 - The scheme is funded by **€108 million** from the EU Recovery and Resilience Facility, through Ireland's National Recovery and Resilience Plan.
 - It is expected to cut emissions by a net **3.3 million tonnes of CO2 equivalent**.
 
 Ireland was one of the countries that helped get the Nature Restoration Law passed, and like all Member States it must publish its own national restoration plan by 2026.
-
 
 ### Restoring peatlands: three main aims
 > 
@@ -102,32 +100,32 @@ Ireland was one of the countries that helped get the Nature Restoration Law pass
 
 ## Solar farms on rewetted peatland
 
-A 2026 study from the University of Greifswald found that placing solar panels on **rewetted** peatland can deliver a triple benefit: clean electricity income for landowners, carbon sequestration from the restored peat, and better biodiversity than the drained farmland it replaces. A 30-hectare pilot site in northern Germany run by Wattmanufactur attracted both wetland and woodland bird species absent from nearby hay fields, including the threatened meadow pipit.
+A 2026 study from the University of Greifswald found that putting solar panels on **rewetted** peatland can bring three benefits at once: income from clean electricity for landowners, carbon stored by the restored peat, and more wildlife than on the drained farmland it replaces. A 30-hectare pilot site in northern Germany run by Wattmanufactur attracted both wetland and woodland bird species absent from nearby hay fields, including the threatened meadow pipit.
 
-The key word is rewetted. Solar farms on peat that is still drained can release more greenhouse gases from microbial decomposition than their electricity displaces. Of 165 solar farms on degraded German peatlands, only five are on genuinely rewetted peat. Germany has barred degraded-peat solar from minimum guaranteed electricity prices since 2023, but disclosure is not yet mandatory.
+What matters is that the peat is rewetted. Solar farms on peat that is still drained can release more greenhouse gases, as microbes break down the dry peat, than their electricity saves. Of 165 solar farms on degraded German peatlands, only five are on peat that has actually been rewetted. Germany has barred degraded-peat solar from minimum guaranteed electricity prices since 2023, but disclosure is not yet mandatory.
 
-See [Solar Farms on Peatland: A Triple Win — If Done Right](../biodiversity-land/solar-on-peatland.md) for the full analysis.
+See [Solar Farms on Peatland: A Triple Win, If Done Right](../biodiversity-land/solar-on-peatland.md) for the full analysis.
 
-## 2026 update: Europe's wetlands finally get a harmonised 10-metre map
+## 2026 update: a harmonised 10-metre map of Europe's wetlands
 
-Until July 2026, one of the biggest practical obstacles to wetland restoration in Europe was that **no one really knew where all the wetlands were** or what condition they were in — at least not on a comparable basis across borders. A team led by **Gyula Máté Kovács** and **Stéphanie Horion** at the **Global Wetland Center, University of Copenhagen** has now published in *Nature* the **first harmonised 10-metre resolution map** of Europe's wetlands — [European Wetland Types](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types) — covering **six categories across 38 European countries**.
+Until July 2026, one of the biggest practical obstacles to wetland restoration in Europe was that no one knew exactly where all the wetlands were or what condition they were in, at least not in a way that could be compared across borders. A team led by Gyula Máté Kovács and Stéphanie Horion at the Global Wetland Center, University of Copenhagen, has now published in *Nature* the **first harmonised 10-metre resolution map** of Europe's wetlands. Called [European Wetland Types](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types), it covers six categories across 38 European countries.
 
 ### What the map shows
 
-- **Six types** mapped: inland marshes, peatbogs, salt marshes, salines, intertidal flats, and moors & heathlands
-- **Wetlands are highly fragmented**: 27–33% of contiguous wetland area sits in patches smaller than 25 hectares; 7–11% is in patches under 1 hectare — bits of habitat that coarser continental maps have historically missed
-- **Around one fifth** of Europe's wetlands are **highly affected by human activities**; **inland marshes** are the most heavily disturbed type
-- **Peatlands are the top climate priority** — concentrated in Northern Europe, highly effective carbon stores but potentially significant carbon *emitters* when disturbed
+- Six types mapped: inland marshes, peatbogs, salt marshes, salines, intertidal flats, and moors & heathlands
+- Wetlands are **highly fragmented**: 27–33% of continuous wetland area sits in patches smaller than 25 hectares, and 7–11% is in patches under 1 hectare. Less detailed continental maps have usually missed these small pieces of habitat
+- Around **one fifth** of Europe's wetlands are highly affected by human activity, and inland marshes are the most disturbed type. For peatlands alone, the University of Copenhagen puts it at more than one fifth degraded
+- Peatlands are the **top climate priority**. They are concentrated in Northern Europe and store carbon very well, but can release a lot of it (become carbon *emitters*) when disturbed
 
 ### Putting a number on the damage
 
-The most striking figure in the paper is a hindcast: **up to 5 billion tonnes of CO₂-equivalent** of soil carbon may already have been released from degraded European wetlands compared to a scenario where they had been left intact. That is **roughly equivalent to 1.5 years of total EU CO₂ emissions**. The number is not a future risk — it is the debt already run up. Every additional year of degraded status quo adds to it.
+The paper's biggest figure looks backwards. Compared with a scenario in which they had been left intact, degraded European wetlands may already have released **up to 5 billion tonnes of CO₂-equivalent** of soil carbon. That is roughly equal to 1.5 years of total EU CO₂ emissions. This is damage already done rather than a future risk, and every extra year that wetlands stay degraded adds to it.
 
 ### Why the map matters for the EU Nature Restoration Law
 
-The [EU Nature Restoration Law](https://environment.ec.europa.eu/news/nature-restoration-law-enters-force-2024-08-15_en) requires every member state to submit a national restoration plan and to restore **at least 30% of wetlands not in good condition by 2030**. Several countries have not yet designated specific areas or set national targets. The Copenhagen team's map is designed exactly for this: it **harmonises the various national definitions of what counts as a wetland**, so EU institutions can assess national reporting on a **comparable basis** rather than trying to reconcile inconsistent definitions from 27 different rulebooks.
+The [EU Nature Restoration Law](https://environment.ec.europa.eu/news/nature-restoration-law-enters-force-2024-08-15_en) requires every member state to submit a national restoration plan and to restore **at least 30% of wetlands not in good condition by 2030**. Several countries have not yet designated specific areas or set national targets. The Copenhagen team's map was built for this. It brings the different national definitions of what counts as a wetland into one system, so EU institutions can compare national reports fairly instead of trying to reconcile 27 different rulebooks.
 
-Kovács is now working on a **global version** to improve worldwide estimates of wetland greenhouse gas emissions.
+Kovács is now working on a global version to improve worldwide estimates of wetland greenhouse gas emissions.
 
 *Source: [Europe wetlands map (source summary)](../sources/europe-wetlands-map-copenhagen-2026.md); Kovács GM et al., *Nature* (2026), DOI: 10.1038/s41586-026-10760-9; Phys.org / University of Copenhagen, 15 July 2026.*
 
@@ -140,4 +138,6 @@ Kovács is now working on a **global version** to improve worldwide estimates of
 - Marshland and flooding in England (Steart): [New York Times](https://www.nytimes.com/2024/10/22/world/europe/uk-steart-marshes-carbon-climate-change-flooding.html)
 - Britain's salt marsh loss: [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/sites/default/files/2024-03/Saltmarsh_factsheet_Mar24.pdf)
 - Salt levels and methane: [Scientific American](https://www.scientificamerican.com/article/wetlands-made-salty-by-rising-seas-produce-more-heat-trapping-methane/)
-- European Wetland Types map (2026): Kovács GM et al., *Nature*, DOI: [10.1038/s41586-026-10760-9](https://dx.doi.org/10.1038/s41586-026-10760-9) — [Google Earth Engine viewer](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types); [Phys.org press release](https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html)
+- European Wetland Types map (2026): Kovács GM et al., *Nature*, DOI: [10.1038/s41586-026-10760-9](https://dx.doi.org/10.1038/s41586-026-10760-9), [Google Earth Engine viewer](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types); [Phys.org press release](https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html)
+- Wetland and peatland condition figures: University of Copenhagen, 2026. https://globalwetlandcenter.ku.dk/news/2026/new-study-pinpoints-europes-most-critical-wetlands-for-climate-action/ ; University of Greifswald, 2026. https://www.uni-greifswald.de/en/university/information/current-news/details/n/new-study-involving-researchers-from-greifswald-identifies-europes-most-important-wetlands-for-climate-protection-284669/
+- Department of Climate, Energy and the Environment, Climate Action Plan 2025, 15 April 2025. https://assets.gov.ie/static/documents/Climate_Action_Plan_2025_updated_cover.pdf

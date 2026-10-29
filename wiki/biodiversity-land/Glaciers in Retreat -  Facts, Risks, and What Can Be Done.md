@@ -7,7 +7,7 @@ tags:
   - "#adaptation"
   - "#water"
 created: 2025-09-01
-updated: 2026-10-18
+updated: 2026-10-28
 summary: |-
   Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, why glacier matters, gl;aciers and fresh water impact,There are around **192,870 glaciers** in the world. (Counts vary between scientific inventories. The UN and the World Meteorological Organisation cite more than 275,000.)
   - Mountain glaciers cover about **664,000 square kilometres**, which is roughly 1.2 times the size of France. This figure does not include the much larger polar ice caps.
@@ -22,7 +22,7 @@ summary: |-
 
 A glacier is a large body of ice that forms on land when more snow falls each year than melts away. Over a long time the snow is pressed into ice, which slowly moves under its own weight. Glaciers are found in high mountains and in the cold polar regions. They are separate from the huge ice sheets that cover Greenland and Antarctica, though the two are often discussed together.
 
-The study of ice is called glaciology. It looks at how glaciers, sea ice, and the polar ice caps behave. This work helps us understand and predict what happens as the ice melts, including sea level rise and the slow retreat of coastlines. As the climate warms, this knowledge is needed more than ever, both to plan ahead and, in some cases, to warn people of danger in time.
+The study of ice is called glaciology. It looks at how glaciers, sea ice, and the polar ice caps behave. This work helps us understand and predict what happens as the ice melts, including sea level rise and the slow retreat of coastlines. As the climate warms, this knowledge helps us plan ahead and, in some cases, warn people of danger in time.
 
 ## Key facts
 
@@ -40,14 +40,14 @@ The study of ice is called glaciology. It looks at how glaciers, sea ice, and th
 
 **Fresh water.** Glaciers act like water towers. They store water as ice in the cold months and release it slowly through the warm season, feeding rivers that hundreds of millions of people rely on for drinking water, farming, and energy.
 
-**Climate record.** Glaciers are clear signs of how the climate is changing. Comparing a photo of the same glacier twenty years apart shows the scale of the problem at a glance. The ice also holds a record of past climate going back thousands of years.
+**Climate record.** Glaciers show clearly how the climate is changing. Two photos of the same glacier taken twenty years apart show the scale of the change at a glance. The ice also holds a record of past climate going back thousands of years.
 
 **Sea level.** When glaciers melt, the water runs to the sea and raises its level. This is one of the main drivers of sea level rise, alongside the fact that warmer ocean water naturally takes up more space (this is called thermal expansion). Glaciers and ice melt more easily than the large polar ice caps, so they contribute the most for now.
 
 **Safety.** Watching glaciers closely can save lives. In the Swiss canton of Valais, scientists working with local authorities tracked an unstable glacier above the village of Blatten and called for an evacuation before it failed.
 
 
-> The Blatten collapse, May 2025 On 28 May 2025, the Birch glacier above Blatten in the Lötschental valley collapsed, sending an estimated 20 million tonnes of rock and ice into the valley and burying about 90% of the village. Because geologists had been monitoring the danger, the roughly 300 residents and their livestock had already been evacuated between 17 and 19 May. One man, who was outside the evacuation zone, died. The early warning prevented a much larger loss of life.
+> The Blatten collapse, May 2025. On 28 May 2025, the Birch glacier above Blatten in the Lötschental valley collapsed, sending an estimated 20 million tonnes of rock and ice into the valley and burying about 90% of the village. Because geologists had been monitoring the danger, the roughly 300 residents and their livestock had already been evacuated between 17 and 19 May. One man, who was outside the evacuation zone, died. The early warning prevented a much larger loss of life.
 
 
 ## The risks
@@ -56,7 +56,7 @@ The study of ice is called glaciology. It looks at how glaciers, sea ice, and th
 
 Global warming has now passed **1.3°C** above pre-industrial levels, and Europe is the fastest warming continent. According to France's High Council on Climate, warming measured in France reached **2.2°C** over the period 2015 to 2024. Governments are now planning for a possible **4°C** rise by 2100.
 
-The 1.5°C target is becoming very hard to keep. A recent report found that at the current rate, only about **three years** of emissions remain before the carbon budget for 1.5°C is used up. Even so, scientists stress that the target should not be dropped, because every tenth of a degree and every tonne of CO2 still makes a real difference. One reason this matters for ice and weather is that each extra degree of warming raises the amount of moisture the air can hold by about 7%.
+The 1.5°C target is becoming very hard to keep. A recent report found that, at the current rate, only about **three years** of emissions remain before the carbon budget for 1.5°C is used up. Scientists still say the target should not be dropped, because every tenth of a degree and every tonne of CO2 makes a difference. One reason this matters for ice and weather is that each extra degree of warming raises the amount of moisture the air can hold by about 7%.
 
 ### Melting in the Alps
 
@@ -64,13 +64,13 @@ In the Alps, **80% of glaciers are at risk of disappearing by 2100**. In the sum
 
 #### June 2026: second-earliest "glacier loss day" on record
 
-The June 2026 European heatwave pushed Swiss glaciers into their second-worst year on record, behind only 2022. Matthias Huss, head of [GLAMOS](https://www.glamos.ch/) (Glacier Monitoring in Switzerland), reported that **all the snow accumulated during the winter of 2025–26 would have melted away by 30 June 2026**, marking the so-called **glacier loss day**. Once that point is passed, any further melt eats into the glacier itself rather than the seasonal snowpack.
+The June 2026 European heatwave pushed Swiss glaciers into their second-worst year on record, behind only 2022. Matthias Huss, head of [GLAMOS](https://www.glamos.ch/) (Glacier Monitoring in Switzerland), forecast in late June that all the snow that fell during the winter of 2025–26 would have melted away by around **30 June 2026**. The date actually recorded was 2 July 2026 (see the September update below), so loss day fell at the turn of June and July. That date is known as glacier loss day. After it, any further melt eats into the glacier itself rather than the seasonal snow.
 
-The only earlier loss day in 25 years of records was 26 June 2022. This century the average loss day has been in mid-August, so in Huss's words Swiss glaciers were running "**three months too early compared to a healthy state**."
+The only earlier loss day in 25 years of records was 26 June 2022. This century the average loss day has been in mid-August, so in Huss's words Swiss glaciers were running "three months too early compared to a healthy state".
 
-On the Rhone Glacier, Huss measured **1 metre of vertical ice loss in just 10 days** during the heatwave. The 2025–26 winter brought 25% less snow than the 2010–2020 average, May was unusually warm, and a heavy deposit of **Saharan dust** in March darkened the ice and accelerated melt once the reflective snow cover disappeared. The bare grey ice underneath absorbs more solar radiation, creating an **accelerating melt feedback loop**.
+On the Rhone Glacier, Huss measured **1 metre of vertical ice loss in just 10 days** during the heatwave. Several things added up. The 2025–26 winter brought 25% less snow than the 2010–2020 average, May was unusually warm, and a heavy layer of Saharan dust fell in March. The dust darkened the ice and sped up melting once the bright, reflective snow had gone. Bare grey ice absorbs more sunlight than snow, so melting feeds more melting.
 
-Two long-term numbers underline the trend: the volume of Swiss glaciers shrank by **38% between 2000 and 2024**, and Switzerland has lost about **1,200 glaciers in 50 years**, leaving roughly 1,300. If warming continues at current rates, Huss expects "only some little remnants of ice" by 2100. Because the Rhine and the Rhone both rely on Alpine melt, this is also a water-supply problem for tens of millions of people downstream. The same heat episode delivered the [UK's first-ever three consecutive red heat warnings](../sources/uk-heatwave-june-2026-guardian.md) and Europe-wide 40°C temperatures covered in [Wildfires as a Climate Feedback Loop](../climate-science/wildfires-climate-feedback.md).
+The long-term numbers show the same trend. The volume of Swiss glaciers shrank by **38% between 2000 and 2024**, and Switzerland has lost about 1,200 glaciers in 50 years, leaving roughly 1,300. If warming continues at current rates, Huss expects "only some little remnants of ice" by 2100. Because the Rhine and the Rhone both rely on Alpine melt, this is also a water-supply problem for tens of millions of people downstream. The same heat episode delivered the [UK's first-ever three consecutive red heat warnings](../sources/uk-heatwave-june-2026-guardian.md) and Europe-wide 40°C temperatures covered in [Wildfires as a Climate Feedback Loop](../climate-science/wildfires-climate-feedback.md).
 
 ### Weakness in Antarctica
 
@@ -78,15 +78,15 @@ For a time, the sea ice around Antarctica seemed to escape the melt. But over th
 
 #### June 2026: first attribution of Antarctic glacier retreat to human activity
 
-A study published in *The Cryosphere* in June 2026, led by **Dr Alex Bradley at King's College London with the British Antarctic Survey**, is the first to **directly attribute the retreat of a major Antarctic outlet glacier to human-driven climate change**. The team focused on the **Pine Island Glacier**, which drains a large part of the West Antarctic Ice Sheet into the Amundsen Sea and is one of the single biggest contributors to global sea level rise.
+A study published in *The Cryosphere* in June 2026, led by Dr Alex Bradley at King's College London with the British Antarctic Survey, is the first to **directly link the retreat of a major Antarctic outlet glacier to human-driven climate change**. The team focused on the Pine Island Glacier, which drains a large part of the West Antarctic Ice Sheet into the Amundsen Sea and is one of the single biggest contributors to global sea level rise.
 
-By comparing model runs with and without anthropogenic ocean warming, the researchers found that human emissions **increased Pine Island's retreat by about 18–20% since the 1940s**. In concrete terms, by 2015 the glacier had pulled back roughly **4 kilometres further inland than it would have without human influence** — about one-fifth of its observed retreat. Pine Island had already started retreating rapidly in the 1940s due to warm ocean intrusions under its ice shelf; human-driven warming, thought to have begun in the 1960s, then reinforced the trend.
+The researchers compared model runs with and without the ocean warming caused by people. They found that human emissions **increased Pine Island's retreat by about 18–20% since the 1940s**. In practice, by 2015 the glacier had pulled back roughly 4 kilometres further inland than it would have without human influence, about one-fifth of its observed retreat. Pine Island had already started retreating fast in the 1940s, because warm ocean water was getting in under its ice shelf. Human-driven warming, thought to have begun in the 1960s, then added to the trend.
 
-The modelling suggests the glacier may **briefly stabilise later this century** as it grounds against a ridge in the bedrock, but if warming continues this pause will be temporary, and human influence is projected to be the **dominant driver of retreat in the 22nd century**. As Bradley puts it: *"Ice sheets respond slowly. The impacts of today's emissions will continue to shape Antarctic ice loss for centuries."* This kind of attribution work has long been routine for heatwaves, floods and mountain glaciers; doing it for an Antarctic outlet glacier is new, and matters because it removes the last bit of plausible deniability that West Antarctic loss is "natural."
+The modelling suggests the glacier may briefly stabilise later this century as it settles against a ridge in the bedrock. If warming continues, that pause will be temporary, and human influence is expected to be the **main driver of retreat in the 22nd century**. As Bradley puts it: *"Ice sheets respond slowly. The impacts of today's emissions will continue to shape Antarctic ice loss for centuries."* This kind of attribution work has long been routine for heatwaves, floods and mountain glaciers. Doing it for an Antarctic outlet glacier is new. It matters because it removes the last room to argue that ice loss in West Antarctica is "natural".
 
 ### Rising seas and shrinking coastlines
 
-About **700 million people** live on coastlines that have been built up as the backbone of the economy, with ports, airports, and farmland. As the sea rises, these coastlines are retreating, sometimes sharply. This is happening not only in places like Bangladesh but in France too, where some infrastructure has already been lost and residents and farmers have had to move. Sea levels will keep rising for centuries, and the world should prepare for several metres over the long term. We cannot stop this entirely, but we can still influence how fast it happens. Hundreds of millions of people may need to be relocated in the coming decades.
+About **700 million people** live on coastlines that carry much of the economy, with ports, airports and farmland. As the sea rises, these coastlines are retreating, sometimes fast. This is happening in places like Bangladesh, and in France too, where some infrastructure has already been lost and residents and farmers have had to move. Sea levels will keep rising for centuries, and the world should prepare for several metres over the long term. We cannot stop this entirely, but we can still influence how fast it happens. Hundreds of millions of people may need to be relocated in the coming decades.
 
 ## Solutions
 
@@ -104,40 +104,40 @@ A long New Scientist field report by Alec Luhn (27 August 2026, updated 3 Septem
 
 <!-- tag: france, eu -->
 
-The specific numbers:
+The main figures:
 
-- **The Rhône glacier lost 30 million tonnes of ice in 2026** — enough to fill **12,000 Olympic swimming pools**
+- The Rhône glacier lost **30 million tonnes of ice** in 2026, enough to fill 12,000 Olympic swimming pools
 - More than **9 metres of ice** have melted off the surface this year
-- The summer melt line has climbed above **3,100 metres** (the glacier top is 3,600 m); in previous decades it rarely passed 2,600 m
-- **Glacier loss day for the Swiss Alps came on 2 July 2026** — the point when summer melt exceeds winter snowfall. Rainer Prinz (Innsbruck): "It should be in late September"
-- **If the 2026 record falls, that is another 6% of all Alps glacier ice gone in a single year**
-- Another ~30 Swiss glaciers could vanish this summer, in what Swiss media has called a **"massacre"**
-- **Under current climate policies, >97% of Alps glaciers will be gone by 2100**; **only 5% of the Rhône glacier** would remain
-- **At 2°C warming, surviving glaciers would almost double, including 269 in the Alps**
+- The summer melt line has climbed above **3,100 metres** (the top of the glacier is at 3,600 m). In previous decades it rarely passed 2,600 m
+- Glacier loss day for the Swiss Alps, the point when summer melt exceeds winter snowfall, came on **2 July 2026**. Rainer Prinz of the University of Innsbruck: "It should be in late September"
+- If the 2026 record falls, another **6%** of all the glacier ice in the Alps will have gone in a single year
+- Another ~30 Swiss glaciers could vanish this summer, in what Swiss media called a "massacre"
+- Under current climate policies, more than **97%** of Alps glaciers will be gone by 2100, and only 5% of the Rhône glacier would remain
+- At **2°C** of warming, the number of surviving glaciers would almost double, including 269 in the Alps
 
-The piece connects the field science to the downstream economy. The Rhône river, fed by the Rhône glacier, sustains **19 major hydroelectric power plants**, cooling water for **4 nuclear plants**, up to **5 million tonnes of goods on barges per year**, and the Côtes du Rhône wine region (Grenache, Viognier, Syrah) plus much of France's fruit production. Alps glaciers have already passed **"peak water"** — the melt contribution to summer river flow is now declining.
+The report also follows the water downstream. The Rhône river, fed by the Rhône glacier, supports 19 major hydroelectric power plants, cooling water for 4 nuclear plants, up to **5 million tonnes of goods on barges per year**, and the Côtes du Rhône wine region (Grenache, Viognier, Syrah) plus much of France's fruit production. Alps glaciers have already passed "peak water": the amount of meltwater they add to summer river flow is now falling.
 
-A fibre-optic crevasse study by ETH Zurich (July 2026) found that **8% of the volume of a Valais glacier was empty crevasses**, hidden up to 25 metres down. Scientists may be underestimating the damage to glacier stability — relevant for both drought planning (less water downstream) and disaster planning (more Blatten-type collapses like the May 2025 Birch glacier event).
+A fibre-optic crevasse study by ETH Zurich (July 2026) found that **8% of the volume of a Valais glacier was empty crevasses**, hidden up to 25 metres down. Scientists may be underestimating how unstable glaciers have become. That matters for drought planning (less water downstream) and for disaster planning (more collapses like the May 2025 Birch glacier event at Blatten).
 
-Mauro Werder (ETH Zurich): *"All other solutions are pretty desperate. We really should just reduce CO2 fast."*
+Mauro Werder of ETH Zurich: *"All other solutions are pretty desperate. We really should just reduce CO2 fast."*
 
 *Source: [Alps glaciers record loss (source summary)](../sources/alps-glaciers-record-loss-newscientist-2026.md); Alec Luhn, New Scientist, 27 August 2026 (updated 3 September 2026).*
 
 ### October 2026 update: GLAMOS annual report confirms 19.4% ice loss in five years
 
-The **Swiss Glacier Monitoring Network (GLAMOS)** published its 2026 annual report on 1 October (lead author Matthias Huss, ETH Zurich; collaboration with the Swiss Commission for Cryosphere Observation). The headline numbers:
+The Swiss Glacier Monitoring Network (GLAMOS) published its 2026 annual report on 1 October. The lead author is Matthias Huss of ETH Zurich, working with the Swiss Commission for Cryosphere Observation. The main figures:
 
 <!-- tag: france, eu -->
 
-- **Switzerland has lost 19.4% of its glacier ice in five years (since 2021)** — nearly one-fifth
-- **2026 alone accounted for a 5.5% drop** in the first eight months of the year, just short of the 2022 record
-- **Mean thickness of individual glaciers fell by 2.5 to 4 metres in 2026**
-- The former **Plattalvafirn (Griess) glacier**, intensively monitored in the 1950s, has lost **99% of its area in 20 years** — now a "moonlike rock desert" (Huss)
-- **MeteoSwiss**: the April-September 2026 half-year was the **hottest and driest since Swiss records began in 1864**
+- Switzerland has lost **19.4%** of its glacier ice in five years (since 2021), nearly one-fifth
+- 2026 alone accounted for a **5.5%** drop in the first eight months of the year, just short of the 2022 record
+- The average thickness of individual glaciers fell by **2.5 to 4 metres** in 2026
+- The former Plattalvafirn (Griess) glacier, closely monitored in the 1950s, has lost **99%** of its area in 20 years. Huss describes it as now a "moonlike rock desert"
+- MeteoSwiss says the April-September 2026 half-year was the hottest and driest since Swiss records began in **1864**
 
-Why 2026 fell just short of the 2022 record despite worse heat: **limited Saharan dust deposits** (dust fouls the snow and prevents it reflecting sunlight), slightly more snow at end-of-winter, and more sunlight in summer.
+2026 fell just short of the 2022 record despite worse heat for a few reasons: there was little Saharan dust (dust dirties the snow and stops it reflecting sunlight), slightly more snow at the end of winter, and more sunlight in summer.
 
-**A new failure mode: internal collapse.** Huss describes glaciers increasingly collapsing from inside — subglacial streams excavate caverns ("cheese holes") and the ice above caves in. This echoes the ETH fibre-optic crevasse study (July 2026) which found **8% of a Valais glacier's volume is empty crevasses** hidden up to 25 m down. Surface-only monitoring is likely underestimating glacier instability.
+Huss also describes a newer way glaciers fail: **collapsing from the inside**. Streams under the glacier carve out caverns ("cheese holes") and the ice above caves in. This fits the ETH fibre-optic crevasse study (July 2026), which found that 8% of a Valais glacier's volume is empty crevasses hidden up to 25 m down. Monitoring only the surface probably underestimates how unstable glaciers are.
 
 Huss: *"What we are seeing now is a complete explosion of these melt rates, leading to the disintegration of glaciers. They're really just falling apart."*
 
@@ -152,7 +152,7 @@ France launched its part of this decade at the UN Ocean Conference in Nice, with
 Public support is strong. According to a Eurobarometer survey, **85% of Europeans** want their politicians to take action on the climate. Some countries are already moving: Portugal has a largely renewable electricity mix, the United Kingdom has closed its coal power stations, and China may have reached its peak in emissions.
 
 
-> A note on perspective The glaciologist Heïdi Sevestre, whose interview is the main source for this article, argues that climate action should be seen less as a burden and more as a set of co-benefits. Better insulated buildings, for example, are good for the climate but also for health, household budgets, and comfort. Her view is that progress is real even if it is slow, and that broad, imperfect action by many people will matter more than perfect action by a few.
+> A note on perspective. The glaciologist Heïdi Sevestre, whose interview is the main source for this article, argues that climate action should be seen less as a burden and more as a set of co-benefits. Better insulated buildings, for example, are good for the climate but also for health, household budgets, and comfort. Her view is that progress is real even if it is slow, and that broad, imperfect action by many people will matter more than perfect action by a few.
 
 
 ## Sources
@@ -161,7 +161,7 @@ Public support is strong. According to a Eurobarometer survey, **85% of European
 - 2025 Blatten glacier collapse: [Nature, Communications Earth & Environment](https://www.nature.com/articles/s43247-025-02994-8), [CNN](https://www.cnn.com/2025/05/28/europe/wiss-alps-glacier-collapse-switzerland-latam-intl)
 - International Year of Glaciers' Preservation 2025: [UN News](https://news.un.org/en/story/2025/01/1159236), [UNESCO and WMO](https://wmo.int/news/media-centre/unesco-and-wmo-launch-international-year-of-glaciers-preservation-2025)
 - Global glacier numbers and fresh water role: [UNESCO and WMO](https://wmo.int/news/media-centre/unesco-and-wmo-launch-international-year-of-glaciers-preservation-2025)
-- June 2026 Swiss glacier loss day: RTÉ News / AFP, 27 June 2026 — https://www.rte.ie/news/2026/0627/1580624-glaciers-heatwave/ (interview with Matthias Huss, GLAMOS)
-- 2026 Alps record ice loss, Rhône glacier field reporting: New Scientist, Alec Luhn, 27 August 2026 (updated 3 September 2026) — "Glaciers in the Alps are on track for record-breaking ice loss"
-- GLAMOS 2026 annual report: Guardian, Ajit Niranjan, 1 October 2026 — "'Explosion of melt rates': 20% of Swiss glaciers lost in five years"; primary source https://www.glamos.ch/en/#/A10g-05
-- June 2026 Pine Island Glacier attribution: Phys.org / King's College London / British Antarctic Survey, 28 June 2026 — https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html (peer-reviewed in *The Cryosphere*, Bradley et al. 2026)
+- June 2026 Swiss glacier loss day: RTÉ News / AFP, 27 June 2026. https://www.rte.ie/news/2026/0627/1580624-glaciers-heatwave/ (interview with Matthias Huss, GLAMOS)
+- 2026 Alps record ice loss, Rhône glacier field reporting: New Scientist, Alec Luhn, 27 August 2026 (updated 3 September 2026). "Glaciers in the Alps are on track for record-breaking ice loss"
+- GLAMOS 2026 annual report: Guardian, Ajit Niranjan, 1 October 2026. "'Explosion of melt rates': 20% of Swiss glaciers lost in five years". Primary source: https://www.glamos.ch/en/#/A10g-05
+- June 2026 Pine Island Glacier attribution: Phys.org / King's College London / British Antarctic Survey, 28 June 2026. https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html (peer-reviewed in *The Cryosphere*, Bradley et al. 2026)

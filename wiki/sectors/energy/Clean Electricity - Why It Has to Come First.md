@@ -9,32 +9,32 @@ tags:
   - energy-transition
   - electrification
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-28
 summary: |-
   The specific of INDIA, What about the USA, A quick word on CHINA, Electricity Efficiency, Solar Panels, Wind Turbine, Source of Clean Energy, Biomass, Nuclear, Hydropower, Storage, Hydrogen as a Storage solution, Energy Access isn’t equal, Stop Subsidising Fossil Fuel, Renewable energy creates jobs, The Global Power sector has nearly reached Peak GHG Emissions, Wind farms and Solar, consumes 11x, 39% of electricity.
   Cleaning up electricity generation is the single most important step in the energy transition. The good news is that progress is real: clean energy reached nearly 41% of the global electricity mix in 2024, and in 2025, renewables overtook coal in global electricity generation for the first time in over a century. Solar and wind are growing at record pace, with over 4 terawatts of combined capacity now installed worldwide. But the speed is still not enough. To stay within 1.5 degrees of warming, we need to triple the current pace of deployment by 2030, while making sure the transition is fair and reaches every part of the world.
 ---
-Electricity generation remains the single largest source of carbon emissions globally, responsible for around 40% of the total. Cleaning up how we produce electricity is therefore the most important lever we have in the energy sector. There is no credible path to net zero without it.
+Electricity generation is still the largest single source of carbon emissions in the world, responsible for around 40% of the total. That makes cleaning up how we produce electricity the most important lever we have in the energy sector. There is no credible path to net zero without it.
 
-But electricity is only one part of the energy picture. The vast majority of global energy still comes from burning fossil fuels, covering not just power generation but also transport, heating and industry. The goal is not just a cleaner grid, but eventually to run almost everything on clean electricity, which makes the stakes even higher.
+But electricity is only one part of the energy picture. Most of the world's energy still comes from burning fossil fuels, for power but also for transport, heating and industry. The long-term aim is a cleaner grid and, beyond that, running almost everything on clean electricity. That raises the stakes even further.
 
 ---
 
 ### Where We Are Today
 
-Clean energy reached 40.9% of the global electricity mix in 2024, up from 39.4% in 2023. That is real progress, but it is not happening fast enough. To stay within 1.5 degrees of warming, we need to reach 90 to 100% clean electricity by 2050, and we need to triple the current pace of renewable deployment by 2030 to halve emissions within this decade.
+Clean energy made up 40.9% of the global electricity mix in 2024, up from 39.4% in 2023. That is real progress, but it is not happening fast enough. To stay within 1.5 degrees of warming, we need to reach 90 to 100% clean electricity by 2050. To halve emissions within this decade, we also need to triple the current pace of renewable deployment by 2030.
 
 > There are encouraging signs. In 2025, renewables overtook coal power in the global electricity mix for the first time in over a century, with renewables reaching 33.8% of generation compared to coal's 33.0%. Coal power dropped by 0.6% in 2025, its first fall since the pandemic year of 2020.
 
-The world installed a record 814 GW of new solar and wind capacity in 2025, 17% more than in 2024, bringing the combined global installed capacity of wind and solar to over 4 terawatts.
+The world installed a record 814 GW of new solar and wind capacity in 2025, 17% more than in 2024. That brought the combined global capacity of wind and solar to over 4 terawatts.
 
 ---
 
 ### The Cleanest Energy Is the One You Do Not Use
 
-Before looking at generation technologies, it is worth starting with efficiency. Reducing how much electricity we need in the first place is one of the most cost-effective climate actions available. Better insulation in buildings, more efficient appliances and industrial processes all reduce demand before any new generation is needed.
+Before looking at ways of generating power, it helps to start with efficiency. Cutting how much electricity we need in the first place is one of the cheapest climate actions there is. Better insulation in buildings, more efficient appliances and more efficient industrial processes all reduce demand before any new generation is needed.
 
-The shift from incandescent bulbs to LEDs is a simple example: the same light for roughly a fifth of the energy. To meet net-zero targets, we need to improve energy efficiency at around 4% per year. We are currently achieving around 2%.
+The switch from incandescent bulbs to LEDs is a simple example: the same light for roughly a fifth of the energy. To meet net-zero targets, energy efficiency needs to improve by around 4% a year. At the moment it is improving by around 2%.
 
 ---
 
@@ -42,15 +42,15 @@ The shift from incandescent bulbs to LEDs is a simple example: the same light fo
 
 **Solar**
 
-Solar generation has doubled over the last three years to reach over 2,000 TWh, and for the 20th consecutive year solar was the fastest-growing source of electricity, growing by 29% in 2024. It has become the cheapest source of new electricity generation in most parts of the world. In 2025, 647 GW of new solar capacity was added globally, with cumulative solar capacity reaching close to 2,900 GW by the end of the year. China dominates the global supply chain and accounted for more than half of the growth.
+Solar generation has doubled over the last three years to more than 2,000 TWh. In 2024 it grew by 29%, making it the fastest-growing source of electricity for the 20th year in a row. It is now the cheapest way to generate new electricity in most parts of the world. In 2025, 647 GW of new solar capacity was added globally, bringing the total to close to 2,900 GW by the end of the year. China dominates the global supply chain and accounted for more than half of the growth.
 
 **Wind**
 
-Global wind capacity reached 1,299 GW by the end of 2025, with 165 GW of new capacity installed during the year, a 40% increase over 2024 and the highest annual figure on record. Wind power now provides over 11% of global electricity demand. Global wind capacity is expected to cross 2 terawatts by 2030.
+Global wind capacity reached 1,299 GW by the end of 2025. That year 165 GW of new capacity was installed, 40% more than in 2024 and the highest annual figure on record. Wind power now covers over 11% of global electricity demand, and global capacity is expected to pass 2 terawatts by 2030.
 
 **Geothermal**
 
-Geothermal energy draws heat from the earth and is a reliable, always-on source of clean power. It is less flexible in terms of where it can be deployed, but highly effective where geology allows, as demonstrated by Iceland's energy system.
+Geothermal energy draws heat from the earth and is a reliable source of clean power that runs all the time. It can only be built in some places, but it works very well where the geology allows, as Iceland's energy system shows.
 
 ---
 
@@ -58,52 +58,52 @@ Geothermal energy draws heat from the earth and is a reliable, always-on source 
 
 **Nuclear**
 
-Nuclear produces very low-carbon electricity at scale and provides reliable baseload power. Its challenges include high construction costs, long build times, waste management and public acceptance. All current commercial nuclear power uses fission. Fusion remains a long-term research ambition with no commercial timeline yet.
+Nuclear produces very low-carbon electricity at scale and provides steady, reliable power around the clock (known as baseload). Its drawbacks are high construction costs, long build times, waste management and public acceptance. All commercial nuclear power today uses fission. Fusion is still a long-term research goal with no date for commercial use.
 
 **Hydropower**
 
-Hydropower is the largest single source of renewable electricity globally. Smaller-scale projects tend to have lower environmental impact. Large dams carry significant concerns around ecosystem disruption, displacement of communities and downstream effects. There is also a growing climate risk: as droughts become more frequent, hydropower output becomes less reliable.
+Hydropower is the largest single source of renewable electricity in the world. Smaller projects tend to do less harm to the environment. Large dams raise serious concerns: they disrupt ecosystems, displace communities and affect rivers downstream. Climate change adds a growing risk, because more frequent droughts make hydropower output less reliable.
 
 **Biomass**
 
-Around 10% of global primary energy comes from biomass. At small scale, particularly for rural communities using crop waste or animal waste, it can be a practical and sustainable energy source. At industrial scale, the picture is more complicated. Corn ethanol has been found to produce at least 24% more emissions than the petrol it replaces when land use changes are accounted for. Large-scale biomass also competes directly with food production for land. Biomass energy is most defensible when it uses genuine waste streams at local scale.
+Around 10% of global primary energy comes from biomass. On a small scale, especially for rural communities using crop or animal waste, it can be a practical and sustainable source of energy. On an industrial scale it is more complicated. Once changes in land use are counted, corn ethanol has been found to produce at least 24% more emissions than the petrol it replaces. Large-scale biomass also competes directly with food production for land. Biomass energy makes most sense when it uses real waste on a local scale.
 
 ---
 
 ### The Technical Challenges of a Clean Grid
 
-Running an electricity grid primarily on solar and wind creates real technical challenges, because both are variable. The sun does not always shine and the wind does not always blow. Managing this requires a combination of approaches:
+Running a grid mainly on solar and wind brings real technical challenges, because both vary. The sun does not always shine and the wind does not always blow. Managing this takes a mix of approaches:
 
-- **Storage**: Battery costs have fallen dramatically over recent decades, making short-term storage increasingly viable. Longer-duration storage, covering days or seasons, remains more expensive and less developed.
-- **Hydrogen**: Green hydrogen, produced from renewable electricity, is one option for storing and transporting energy across longer time periods and for sectors that are hard to electrify directly.
-- **Smart grids**: Managing supply and demand in real time, allowing flexible use of electricity across the system, is essential as variable renewables take a larger share of generation.
-- **Transmission**: Moving electricity from where it is generated to where it is needed requires significant investment in grid infrastructure.
+- **Storage**: Battery costs have fallen sharply over recent decades, so short-term storage is more and more viable. Storage that lasts days or whole seasons is still more expensive and less developed.
+- **Hydrogen**: Green hydrogen, made with renewable electricity, is one way to store and move energy over longer periods, and to serve sectors that are hard to run directly on electricity.
+- **Smart grids**: Balancing supply and demand in real time, and using electricity flexibly across the system, becomes essential as solar and wind provide a larger share of power.
+- **Transmission**: Moving electricity from where it is generated to where it is needed takes major investment in grid infrastructure.
 
 ---
 
 ### Country Snapshots
 
-**India** has exceeded its own renewable energy targets and is investing heavily in further expansion. In 2025, India recorded a decline in fossil fuel electricity generation for the first time in four years, as record increases in solar and wind, combined with strong hydro output, pushed clean generation above demand growth. However, around 830 million people still rely on solid biomass for cooking, with significant health consequences. Affordable clean cooking energy remains an unsolved problem.
+**India** has beaten its own renewable energy targets and is investing heavily in more. In 2025, India's electricity generation from fossil fuels fell for the first time in four years, as record growth in solar and wind, plus strong hydro output, pushed clean generation ahead of the growth in demand. However, around 830 million people still rely on solid biomass for cooking, which seriously harms their health. Affordable clean cooking energy is still an unsolved problem.
 
-**China** continues to hold a contradictory position: the world's largest builder of new coal plants, and simultaneously the country driving the global renewable revolution. More than half of the increase in global solar generation in 2024 came from China, and China's clean generation growth met 81% of its demand increase that year. In 2025, fossil fuel generation in China fell for the first time since 2015.
+**China** is in a contradictory position. It builds more new coal plants than any other country, and it is also driving the global growth of renewables. More than half of the increase in global solar generation in 2024 came from China, and China's growth in clean generation covered 81% of its rise in demand that year. In 2025, China's fossil fuel generation fell for the first time since 2015.
 
-**The United States** consumes around eleven times more energy per person than the average Indian, and around twice as much as the average European. The clean energy transition is accelerating, but policy uncertainty under the current administration is creating instability for investors and developers.
+**The United States** uses around eleven times more energy per person than the average Indian, and around twice as much as the average European. Its clean energy transition is speeding up, but uncertainty over the current administration's policy is unsettling investors and developers.
 
 ---
 
 ### The Politics and Justice Dimension
 
-Around 900 million people globally still lack access to electricity. In 2024, $2 trillion was invested in clean energy globally, $800 billion more than went into fossil fuels. Yet that investment is very unevenly distributed. Emerging markets and developing economies received only 15% of global clean energy spending in 2024.
+Around 900 million people in the world still have no electricity. In 2024, $2 trillion was invested in clean energy worldwide, $800 billion more than went into fossil fuels. But that money is spread very unevenly. Emerging markets and developing economies received only 15% of global clean energy spending in 2024.
 
-On jobs, the direction is clear. The IEA estimates that the transition to net zero will lead to around 14 million new jobs being created in clean energy by 2030, against around 5 million lost in fossil fuel production, a net gain of 9 million. Research consistently finds that renewables create around three times as many jobs per million pounds or dollars invested compared to fossil fuels.
+On jobs, the direction is clear. The IEA estimates that the transition to net zero will create around 14 million new jobs in clean energy by 2030, against around 5 million lost in fossil fuel production, a net gain of 9 million. Research consistently finds that renewables create around three times as many jobs per million pounds or dollars invested as fossil fuels do.
 
 ---
 
-### The Bottom Line
+### The Challenge Now
 
-Clean electricity is achievable. The technologies exist, costs have fallen dramatically, and the direction of travel is now unmistakeable. Renewables have overtaken coal in the global electricity mix. Solar and wind together represent over 4 terawatts of installed capacity worldwide.
+Clean electricity is achievable. The technologies exist, costs have fallen sharply, and the direction of travel is now clear. Renewables have overtaken coal in the global electricity mix, and solar and wind together have over 4 terawatts of capacity installed worldwide.
 
-The challenge is speed and fairness. We need to continue accelerating deployment, build storage and grid infrastructure at scale, and ensure that the transition reaches the communities that need it most, not just the countries that can afford it.
+What remains is speed and fairness. Deployment has to keep accelerating, storage and grids have to be built at scale, and the transition has to reach the communities that need it most, including those in countries that cannot easily pay for it.
 
 
 # Sources

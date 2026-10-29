@@ -2,7 +2,7 @@
 title: "Heatwaves and Sport: A Two-Way Problem"
 category: sectors
 tags: ["#sport", "#adaptation", "#behaviour", "#fossil-fuels"]
-sources: ["Bloomberg Green — Zero: The Climate Race podcast, 'Is the world becoming too hot for summer sports?', 2 July 2026", "Covering Climate Now, 23 July 2026 — https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/"]
+sources: ["Bloomberg Green, Zero: The Climate Race podcast, 'Is the world becoming too hot for summer sports?', 2 July 2026", "Covering Climate Now, 23 July 2026. https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/"]
 created: 2026-07-06
 updated: 2026-08-26
 summary: sport and climate change, heat health risk, athletes, humidity wet-bulb, cricket, baseball, football soccer, track and field, hydration breaks, Tokyo Olympics marathon relocation, Wimbledon, athlete activism, fossil fuel sponsorship, David Pocock, women's football fossil fuel protest, Jessica Murfree, 2026 World Cup 7.8 million tonnes CO2, Qatar 2022 stadiums, rotation of hosts, IOC, sporting calendar shift, indoor ice hockey, Zero podcast, FIFPRO wet-bulb globe temperature threshold, tennis cooling breaks, LA Marathon heat
@@ -70,4 +70,4 @@ Heatwaves are already changing how sport is played, from added hydration breaks 
 
 ## Source
 
-- Bloomberg Green, Zero: The Climate Race, "Is the world becoming too hot for summer sports?", 2 July 2026 — https://podcasts.apple.com/ie/podcast/is-the-world-becoming-too-hot-for-summer-sports/id1621556928?i=1000775101063
+- Bloomberg Green, Zero: The Climate Race, "Is the world becoming too hot for summer sports?", 2 July 2026. https://podcasts.apple.com/ie/podcast/is-the-world-becoming-too-hot-for-summer-sports/id1621556928?i=1000775101063

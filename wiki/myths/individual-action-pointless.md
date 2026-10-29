@@ -2,9 +2,9 @@
 title: "Myth: My individual actions are a drop in the ocean"
 category: myths
 tags: ["#myth", "#behaviour", "#key-ideas", "#carbon"]
-sources: ["New Scientist, wealthy environmentalists — https://www.newscientist.com/"]
+sources: ["New Scientist, wealthy environmentalists. https://www.newscientist.com/"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "individual action, carbon footprint, BP 2004, personal responsibility, systemic change, social tipping point, 25% threshold, pension, banking, voting, behaviour contagion, norms, 100 companies claim, New Scientist"
 claim_id: individual-action-pointless
@@ -22,17 +22,17 @@ One person recycling changes nothing. One person talking about it, voting on it 
 
 ## Why it sounds right
 
-Arithmetically this is right, and the history backs it up. BP popularised the personal carbon footprint calculator in 2004, and shifting responsibility onto consumers served the industry very well. Someone making this point is not your opponent.
+On the arithmetic, this is right, and history backs it up. BP popularised the personal carbon footprint calculator in 2004, and putting the responsibility on consumers suited the industry very well. Someone making this point is not your opponent.
 
 ## What is actually true
 
-The value of individual action was never the arithmetic of your own tonnes. It is that behaviour is contagious and norms move: research on social tipping points suggests around 25% of a group adopting a behaviour is enough to shift the majority. And the highest impact things an individual does are not really individual at all. How you vote, what you say at work, where your pension and bank put your money, and whether you fly all reach far beyond your own footprint. Worth noting that high income, environmentally concerned people often have larger footprints than their peers, mainly from flying, so attitude on its own does not do it.
+Individual action was never mainly about the tonnes you save yourself. Its value is that behaviour spreads and what counts as normal shifts: research on social tipping points suggests that once **around 25% of a group** adopts a behaviour, it can be enough to shift the majority. The things that make the biggest difference aren't really individual at all. How you vote, what you say at work, where your pension and bank put your money, and whether you fly all reach well beyond your own footprint. It's also worth knowing that people on high incomes who care about the environment often have bigger footprints than their peers, mostly from flying, so caring on its own doesn't cut emissions.
 
 ## If they push back
 
 **"It's the corporations, not us"**
 
-Agreed, and those corporations respond to regulation and to where money goes. Both of those are things people decide collectively.
+Agreed, and those corporations respond to regulation and to where the money goes. Both of those are things people decide together.
 
 ## Also heard as
 
@@ -47,4 +47,4 @@ Agreed, and those corporations respond to regulation and to where money goes. Bo
 
 ## Sources
 
-- New Scientist, wealthy environmentalists — https://www.newscientist.com/
+- New Scientist, wealthy environmentalists. https://www.newscientist.com/

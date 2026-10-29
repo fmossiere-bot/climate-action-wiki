@@ -3,7 +3,7 @@ title: Facts about Nuclear Energy
 category: solutions
 tags: ["#renewables", "#nuclear", "#energy-transition", "#energy"]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-10-28
 summary: nuclear power capacity 2040 forecasts, EPR pressurised water reactors, SMR small modular reactors, PMR, France electricity mix, Dominique Vignon, nuclear carbon footprint, nuclear waste storage, nuclear security, Radiant micro-reactor, Doug Bernauer, ADVANCE Act, Breakthrough Energy, Bill Gates, fission, next-gen nuclear, Wyoming nuclear plant, energy security, net-zero 2050
 related:
   - FACTS about Solar Energy
@@ -13,77 +13,81 @@ related:
 
 # Facts about Nuclear Energy
 
-Nuclear power has become a much more prominent part of the climate conversation in recent years, including at COP28, where it was discussed for the first time as a serious contributor to the clean energy mix. The shift reflects a growing view that nuclear brings something wind and solar cannot: stability and reliability on the grid, alongside a genuinely low carbon footprint.
+Nuclear power has moved closer to the centre of the climate conversation in recent years. At COP28 it was discussed for the first time as a serious part of the clean energy mix. More people now see nuclear as offering something wind and solar cannot: steady, reliable power on the grid, with a low carbon footprint.
 
 ## How much nuclear capacity exists, and where is it heading
 
-As of 2023, the world's operable nuclear power capacity stood at approximately **391 gigawatts (GWe)**. Projections for 2040 vary depending on how quickly current plans are carried out. In the Reference Scenario, based on existing government and utility targets, capacity is expected to reach **686 GWe** by 2040. In the more ambitious Upper Scenario, reflecting the net-zero targets many countries have set, capacity could climb as high as **931 GWe**. In the Lower Scenario, which assumes delays to current plans, capacity would still reach around **486 GWe**.
+In 2023 the world's working nuclear power capacity stood at about **391 gigawatts (GWe)**. Projections for 2040 depend on how quickly current plans are carried out. In the Reference Scenario, based on existing government and utility targets, capacity reaches **686 GWe** by 2040. In the more ambitious Upper Scenario, which reflects the net-zero targets many countries have set, it could climb as high as **931 GWe**. In the Lower Scenario, which assumes delays, it would still reach around **486 GWe**.
 
-This growth is driven by the push to decarbonise energy supplies, strengthen energy security, and the rising interest in small modular reactors (SMRs) and microreactors, all seen as important to reaching global net-zero emissions by 2050.
+The growth comes from the push to cut emissions from energy, the wish for more secure energy supplies, and rising interest in small modular reactors (SMRs) and microreactors. All of these are seen as important for reaching global net-zero emissions by 2050.
 
-## How clean is nuclear, really
+## How clean is nuclear?
 
-On carbon footprint, one comparison puts European Pressurised Reactors (EPR) at **4g CO2eq/kWh**, against 15g for wind farms and 40g for solar, making it the cleanest option in that comparison. A separate figure from *Ecologie360* (issue 3, page 108) puts small modular reactors even lower, at **2.3g CO2eq/kWh**, against the same 15g for wind and 40g for solar. The exact numbers vary by source and methodology, but both point the same way: nuclear's operational carbon footprint compares favourably with wind and solar once the full lifecycle is counted.
+One comparison puts European Pressurised Reactors (EPR) at **4g CO2eq/kWh** (grams of CO2 equivalent for each kilowatt-hour of electricity), against 15g for wind farms and 40g for solar. That makes it the cleanest option in that comparison. A separate figure from *Ecologie360* (issue 3, page 108) puts small modular reactors lower still, at 2.3g CO2eq/kWh, against the same 15g for wind and 40g for solar.
+
+The exact numbers vary with the source and the method used. Both point the same way, though: counted over its whole life, nuclear's carbon footprint compares well with wind and solar. These are life-cycle figures, which count mining, building and dismantling as well as running the plant. An independent review by the UN Economic Commission for Europe (UNECE) in 2021 found 5.1 to 6.4g CO2eq/kWh for nuclear over its whole life cycle, the lowest of the options it assessed, against 8 to 83g for solar panels.
 
 ## The French perspective: is nuclear still the answer?
 
-France offers one of the clearest real-world cases for nuclear at scale. According to Dominique Vignon, president of Pôle énergie, nuclear should make up **50% of France's electricity mix**. The argument is that wind and solar's intermittency requires substantial investment in storage to be reliable, and that it would be cheaper to invest in nuclear capacity instead.
+France is one of the clearest real-world examples of nuclear at scale. Dominique Vignon, president of Pôle énergie, argues that nuclear should make up **50% of France's electricity mix**. His reasoning is that wind and solar come and go with the weather, so they need large investment in storage to be reliable, and it would be cheaper to invest in nuclear instead.
 
-This case comes with a significant caveat: nuclear at scale should be reserved for developed, politically stable countries with a strong electrical grid already in place. Two main reactor types illustrate the range of options:
+His case comes with a big condition. Nuclear at scale should be kept for developed, politically stable countries that already have a strong electricity grid. Two main reactor types show the range of options:
 
-- **EPR (Pressurised Water Reactor)**: the new generation of reactors built for mass production, requiring strict process discipline and rigour to operate safely.
-- **PMR/SMR (small modular reactors)**: smaller versions that can provide **10 to 300 MW**. From a security standpoint, these can be buried underground, making them far less exposed to attack or sabotage.
+- **EPR (Pressurised Water Reactor)**: the new generation of reactors built for mass production. They need strict discipline and rigour to run safely.
+- **PMR/SMR (small modular reactors)**: smaller versions that can provide 10 to 300 MW. For security, they can be buried underground, which makes them far less exposed to attack or sabotage.
 
-France's nuclear fleet is well protected, and causing serious damage would require substantial military force, as demonstrated by events in Ukraine. That is precisely why nuclear expansion at this scale is considered appropriate only for stable, developed countries with the resources to secure it properly.
+France's nuclear fleet is well protected, and seriously damaging it would take substantial military force, as events in Ukraine have shown. That is why nuclear expansion on this scale is seen as suitable only for stable, developed countries with the means to secure it properly.
 
 ## Nuclear facts from France
 
-- Nuclear supplies **70% of France's total electricity**, generated by more than 56 reactors.
+- Nuclear supplies **70% of France's total electricity**, generated by 57 reactors, the newest being Flamanville 3, connected to the grid in December 2024.
 - A single 900MW reactor produces an average of **500,000 MWh per month**, enough to cover the consumption of around **400,000 households**.
 
 *(Source: [EDF, "Le nucléaire en chiffres"](https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/le-nucleaire-en-chiffres))*
 
 ## Does nuclear pollute?
 
-According to the [US Department of Energy](https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable), nuclear is a **zero-emission clean energy source**. It generates power through [fission](https://www.energy.gov/ne/articles/fission-and-fusion-what-difference), the process of splitting uranium atoms to produce heat, which is used to create steam that spins a turbine, all without the harmful byproducts emitted by fossil fuels. On this basis, the DOE highlights three points: nuclear energy protects air quality, its land footprint is small, and it produces minimal waste.
+According to the [US Department of Energy](https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable), nuclear is a **zero-emission clean energy source**. It generates power through [fission](https://www.energy.gov/ne/articles/fission-and-fusion-what-difference), splitting uranium atoms to produce heat. The heat makes steam, which spins a turbine, without the harmful by-products that come from burning fossil fuels. On this basis, the DOE makes three points: nuclear energy protects air quality, needs little land, and produces very little waste.
 
-On waste specifically, the [Nuclear Energy Institute notes](https://www.nei.org/fundamentals/nuclear-waste) that all of the used nuclear fuel produced by the US nuclear industry over the last 60 years could fit on a football field, at a depth of less than 10 yards.
+On waste, the [Nuclear Energy Institute notes](https://www.nei.org/fundamentals/nuclear-waste) that all the used nuclear fuel produced by the US nuclear industry over the last 60 years could fit on a football field, stacked less than 10 yards (about 9 metres) deep.
 
 ## What's next for nuclear
 
-Several developments are worth tracking. The US Department of Energy has announced a [next-generation nuclear plant and associated jobs coming to Wyoming](https://www.energy.gov/ne/articles/next-gen-nuclear-plant-and-jobs-are-coming-wyoming). Large clean energy investment firms, including Bill Gates' [Breakthrough Energy](https://www.breakthroughenergy.org/us-policy-overview/electricity/clean-dispatchable-power), are backing next-generation fission technologies as well as fusion. The DOE's Office of Nuclear Energy has also published a [brief overview of advanced reactor systems to watch through 2030](https://www.energy.gov/ne/articles/3-advanced-reactor-systems-watch-2030).
+A few developments are worth following. The US Department of Energy has announced a [next-generation nuclear plant and associated jobs coming to Wyoming](https://www.energy.gov/ne/articles/next-gen-nuclear-plant-and-jobs-are-coming-wyoming). Large clean energy investors, including Bill Gates' [Breakthrough Energy](https://www.breakthroughenergy.org/us-policy-overview/electricity/clean-dispatchable-power), are backing next-generation fission technologies as well as fusion. The DOE's Office of Nuclear Energy has also published a [brief overview of advanced reactor systems to watch through 2030](https://www.energy.gov/ne/articles/3-advanced-reactor-systems-watch-2030).
 
-That said, there are real caveats to pushing more nuclear onto the grid with existing technology:
+There are still two real drawbacks to adding more nuclear to the grid with today's technology:
 
-1. **Timeline**: it takes years to build a new nuclear power plant.
-2. **Cost**: the energy produced remains more expensive than alternatives.
+- Timeline: it takes years to build a new nuclear power plant.
+- Cost: the energy it produces is still more expensive than the alternatives.
 
 ## Small Modular Reactors (SMRs)
 
-SMRs, sometimes also called PMRs, are on the rise as a flexible alternative to large reactors like the EPR, capable of producing up to 300MW. As noted above, their carbon footprint is the lowest of all the "clean energy" options compared here, at 2.3g CO2eq/kWh (source: *Ecologie360*, issue 3, page 108).
+SMRs, sometimes called PMRs, are a growing, more flexible alternative to large reactors like the EPR. They can produce up to 300MW. As noted above, their carbon footprint is the lowest of the "clean energy" options compared here, at **2.3g CO2eq/kWh** (source: *Ecologie360*, issue 3, page 108).
 
-There are currently **70 SMR projects underway around the world**. With capacities of up to 300MW, roughly equivalent to most coal plants operating today, SMRs could substitute directly for coal capacity. The underlying technology is similar to reactors already used in submarines and ships, adapted for land-based power generation.
+There are currently **70 SMR projects** under way around the world. At up to 300MW, an SMR is roughly the size of most coal plants running today, so it could replace coal capacity directly. The technology is similar to the reactors already used in submarines and ships, adapted for power generation on land.
 
 ## Nuclear in the news: a portable micro-reactor from Radiant
 
 Doug Bernauer, CEO and co-founder of the US company Radiant, is developing a portable nuclear micro-reactor designed to replace diesel generators (source: *My Climate Journey* podcast). Radiant raised a $40 million Series B round in 2023, led by a16z, following earlier funding from USV, Founders Fund and DCVC. The company is targeting a portable, largely self-contained one-megawatt reactor roughly the size of a shipping container.
 
-Interest in US nuclear leadership has picked up, reflected in bipartisan legislation such as the ADVANCE Act, signed into law by President Biden, though significant regulatory and commercial challenges remain. Key facts about Radiant's reactor:
+Interest in US nuclear leadership has picked up, shown by cross-party legislation such as the ADVANCE Act, signed into law by President Biden. Big regulatory and commercial hurdles remain. Radiant's reactor in brief:
 
 - Can supply up to 1MW of power, as a direct replacement for diesel generators.
 - Only needs recharging every few years.
-- Recharging takes place on a specific dedicated site.
+- Recharging takes place at a dedicated site.
 - The reactor is currently going through the permitting process.
 
 ## Sources
 
-- EDF, "Le nucléaire en chiffres" — https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/le-nucleaire-en-chiffres
-- US Department of Energy, "3 Reasons Why Nuclear is Clean and Sustainable" — https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable
-- US Department of Energy, "Fission and Fusion: What is the Difference?" — https://www.energy.gov/ne/articles/fission-and-fusion-what-difference
-- Nuclear Energy Institute, "Nuclear Waste" — https://www.nei.org/fundamentals/nuclear-waste
-- US Department of Energy, "Next-Gen Nuclear Plant and Jobs Are Coming to Wyoming" — https://www.energy.gov/ne/articles/next-gen-nuclear-plant-and-jobs-are-coming-wyoming
-- Breakthrough Energy, clean dispatchable power overview — https://www.breakthroughenergy.org/us-policy-overview/electricity/clean-dispatchable-power
-- US Department of Energy, "3 Advanced Reactor Systems to Watch by 2030" — https://www.energy.gov/ne/articles/3-advanced-reactor-systems-watch-2030
+- EDF, "Le nucléaire en chiffres". https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/le-nucleaire-en-chiffres
+- US Department of Energy, "3 Reasons Why Nuclear is Clean and Sustainable". https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable
+- US Department of Energy, "Fission and Fusion: What is the Difference?". https://www.energy.gov/ne/articles/fission-and-fusion-what-difference
+- Nuclear Energy Institute, "Nuclear Waste". https://www.nei.org/fundamentals/nuclear-waste
+- US Department of Energy, "Next-Gen Nuclear Plant and Jobs Are Coming to Wyoming". https://www.energy.gov/ne/articles/next-gen-nuclear-plant-and-jobs-are-coming-wyoming
+- Breakthrough Energy, clean dispatchable power overview. https://www.breakthroughenergy.org/us-policy-overview/electricity/clean-dispatchable-power
+- US Department of Energy, "3 Advanced Reactor Systems to Watch by 2030". https://www.energy.gov/ne/articles/3-advanced-reactor-systems-watch-2030
 - Ecologie360, issue 3, page 108
-- My Climate Journey podcast, interview with Doug Bernauer (Radiant) — https://podcasts.apple.com/ie/podcast/my-climate-journey/id1462776122?i=1000669260245
-- The Energy Gang podcast, COP28 nuclear discussion — https://podcasts.apple.com/ie/podcast/the-energy-gang/id663379413?i=1000638168975
+- UNECE, Life Cycle Assessment of Electricity Generation Options, October 2021 (updated 2022 as Carbon neutrality in the UNECE region: integrated life-cycle assessment of electricity sources). https://digitallibrary.un.org/record/4020227
+- EDF, Update on the Flamanville EPR: the reactor produces its first electrons on the national electricity grid, 21 December 2024. https://www.edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/update-on-the-flamanville-epr-the-reactor-produces-its-first-electrons-on-the-national-electricity-grid
+- My Climate Journey podcast, interview with Doug Bernauer (Radiant). https://podcasts.apple.com/ie/podcast/my-climate-journey/id1462776122?i=1000669260245
+- The Energy Gang podcast, COP28 nuclear discussion. https://podcasts.apple.com/ie/podcast/the-energy-gang/id663379413?i=1000638168975

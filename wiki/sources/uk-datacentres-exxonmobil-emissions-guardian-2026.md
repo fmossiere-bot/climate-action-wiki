@@ -4,32 +4,39 @@ category: sources
 tags: ["#digital", "#fossil-fuels", "#energy"]
 sources: ["raw/articles/Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds.md"]
 created: 2026-08-25
-updated: 2026-08-26
+updated: 2026-10-28
 summary: Wapseys Wood datacentre, Quest Park datacentre, Buckinghamshire, Bedfordshire, Foxglove analysis, ExxonMobil UK emissions, gas-fired power stations, nationally significant infrastructure project NSIP, grid connection queue, seventh carbon budget, Caroline Lucas, ClientEarth, Global Action Plan, Friends of the Earth
+related:
+  - ai-data-centre-energy-crisis
 ---
 
 # Two planned UK datacentres will emit more than ExxonMobil
 
-**Source:** The Guardian, Pippa Neill, 25 August 2026 — https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil
+**Source:** The Guardian, Pippa Neill, 25 August 2026. https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil
 
 ## What it is
 
-Analysis by non-profit **Foxglove** finds that two planned English datacentres, Wapseys Wood in Buckinghamshire and Quest Park in Bedfordshire, will together use 1.3GW of power and emit more than **4.5 million tonnes of CO2 a year** once fully operational, more than the entirety of ExxonMobil's UK emissions (3.9 million tonnes in 2023, per energy thinktank Ember).
+The non-profit group **Foxglove** looked at two datacentres planned in England: Wapseys Wood in Buckinghamshire and Quest Park in Bedfordshire. Together they would use 1.3GW of power. Once fully running, Foxglove estimates they would emit more than 4.5 million tonnes of CO2 a year.
 
-## Key facts cited
-
-- Combined projected emissions: **4.577 million tonnes CO2/year**, based on government fuel-mix carbon-intensity figures and a 100% utilisation assumption, which Foxglove says follows standard industry practice
-- The government called the figures "misleading," disputing the 100% utilisation assumption; Friends of the Earth's Kierra Box says it is "valid to look at those top-level predictions" since full-capacity operation is the industry's actual aim
-- Because of long grid-connection waits, both sites are seeking to build their own **on-site gas-fired power stations**
-- **315 datacentres** are currently queued to connect to the UK grid, representing **73GW of demand** — almost double the UK's entire peak winter energy demand
-- Both projects are among the first fast-tracked through the **Nationally Significant Infrastructure Project (NSIP)** regime, which bypasses local planning authorities in favour of central government decision-making
-- Government says its analysis shows datacentre rollout can fit within the UK's **seventh carbon budget**, though the article notes "a high level of uncertainty" over how
-- Reactions: Caroline Lucas (former Green Party leader) called the projected emissions "absolutely horrifying"; ClientEarth's Sam Hunter-Jones said "every megawatt powering a datacentre... is a megawatt that could not be used to replace fossil fuels elsewhere"; Global Action Plan's Oliver Hayes called the two projects "catastrophic for our carbon budgets" and the NSIP fast-tracking a "very worrying sign"
+That is more than all of ExxonMobil's UK emissions, which the energy think tank Ember put at 3.9 million tonnes in 2023.
 
 ## Why it matters
 
-Gives the wiki's UK datacentre coverage a sharp, single comparator: two datacentres, not even an entire sector, could out-emit one of the world's largest oil majors' entire UK operations. It also documents the specific policy mechanism (NSIP fast-tracking, on-site gas plants) driving that outcome.
+It is an easy comparison to grasp. Two buildings, not a whole industry, could produce more carbon than the UK operations of one of the world's biggest oil companies. The article also shows how this happens: long waits for a grid connection push developers to build their own gas power stations, and a fast-track planning route takes the decision away from local councils. There is more on the wider picture on the wiki's page about the [AI data centre energy crisis](../sectors/digital/ai-data-centre-energy-crisis.md).
 
-## How it connects to the wiki
+## Key facts
 
-- Updates `wiki/sectors/digital/ai-data-centre-energy-crisis.md` with a new UK case study
+- The two sites together are projected to emit **4.577 million tonnes of CO2 a year**. Foxglove used the government's figures for the carbon intensity of the fuel mix and assumed the sites run at 100% of capacity, which it says is standard industry practice.
+- The government called the figures "misleading" and disputed the 100% assumption. Kierra Box of Friends of the Earth says it is "valid to look at those top-level predictions", because running at full capacity is what the industry aims for.
+- Because grid connections take so long, both sites plan to build their own gas-fired power stations on site.
+- 315 datacentres are waiting to connect to the UK grid. Together they represent 73GW of demand, almost double the UK's entire peak winter energy demand.
+- Both projects are among the first to go through the Nationally Significant Infrastructure Project (NSIP) route. It skips local planning authorities and lets central government decide.
+- The government says its analysis shows the datacentre rollout can fit within the UK's seventh carbon budget, its legal limit on emissions for that period. The article notes "a high level of uncertainty" over how.
+
+## Voices in the piece
+
+Caroline Lucas, the former Green Party leader, called the projected emissions "absolutely horrifying". Sam Hunter-Jones, a lawyer at ClientEarth, pointed to the trade-off: "every megawatt powering a datacentre... is a megawatt that could not be used to replace fossil fuels elsewhere". Oliver Hayes of Global Action Plan called the two projects "catastrophic for our carbon budgets" and described the NSIP fast-tracking as a "very worrying sign".
+
+## Sources
+
+- The Guardian, Pippa Neill, 25 August 2026. https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil

@@ -4,56 +4,60 @@ category: sources
 tags: ["#agriculture", "#greenwashing", "#finance", "#coalition", "#carbon"]
 sources: ["raw/articles/​World largest meat company faces legal challenge over green credentials of $6bn global expansion.md"]
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-10-28
 summary: JBS lawsuit, Greenpeace International, Dutch duty-of-care law, Netherlands headquarters, NYSE listing, Batista brothers, $2.5bn Nigeria six meat plants, Niger state 1.2m hectares, TotalEnergies Paris ruling June 2026, Shell Milieudefensie, Amazon deforestation, net zero 2040 scrapped, indirect emissions methane cows, Elujulo Opeyemi Youth in Agroecology and Restoration Network, Richard Brown Greenpeace, Marieke Vellekoop, safe planetary boundaries, meat industry litigation
+related:
+  - Greenwashing lawsuits on the rise
+  - Is the meat industry following the Oil Industry
+  - beef-and-climate-change
+  - eat-lancet-planetary-diet-2025
+  - fossil-fuel-banking
 ---
 
 # JBS faces legal challenge over green credentials of $6bn global expansion
 
-**Source:** The Guardian, Jonathan Watts, 22 July 2026
-**URL:** https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan
+**Source:** The Guardian, Jonathan Watts, 22 July 2026. https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan
 
 ## What it is
 
-Reporting on a **new petition filed by Greenpeace International in the Netherlands**, asking Dutch courts to order **JBS** — the world's largest meat company — to disclose how its **$6 billion global expansion plan is compatible with its responsibilities to climate, nature and human rights** under Dutch **duty-of-care** law. The petition is described by counsel as a **preliminary stage towards formal litigation**. Lawyers frame it as **opening a new frontier in climate litigation**: until now, similar cases have been filed almost exclusively against fossil fuel companies.
+Greenpeace International has filed a petition in the Netherlands against **JBS**, the world's largest meat company. It asks the Dutch courts to make JBS explain how its $6 billion global expansion plan fits with its duties to the climate, nature and human rights. The petition relies on Dutch **duty-of-care** law, which says companies must take reasonable care not to cause harm.
 
-## Key facts cited
-
-- **JBS** is headquartered in the Netherlands (moved from Brazil in 2025 to list on the New York Stock Exchange); this exposes it to Dutch transparency and duty-of-care standards
-- The petition targets a **$6bn global expansion plan**, including **$2.5bn for six giant meat-processing plants in Nigeria**
-- **Niger State (Nigeria)** has promised **1.2 million hectares** to JBS
-- The **Batista brothers** (Joesley and Wesley Batista) significantly raised their ownership stake through the NYSE listing
-- **Beef production is the primary driver of deforestation globally**; JBS dominates the Brazilian cattle market
-- JBS committed to clean up its Amazon supply chain by end 2025 — **failed to meet the deadline**; the Guardian and partners revealed in April 2025 that JBS would break the pledge
-- JBS has since **scrapped its "net zero by 2040" pledge** (Mongabay, July 2026)
-- Its latest sustainability report **excluded calculations of indirect emissions from cows** — the primary component of JBS's climate footprint
-- **Recent precedents**:
-  - Paris court ruled in June 2026 that **TotalEnergies must disclose climate risks** linked to its oil and gas products (case brought by NGOs + City of Paris) — but did not order specific measures
-  - **Shell** is being challenged in The Hague by **Milieudefensie** and Friends of the Earth to cut CO₂ 45% by 2030 in line with Paris Agreement; final ruling expected early 2027
-
-## Voices
-
-- **Richard Brown** (Greenpeace International legal counsel): *"The primary objective is to challenge JBS's business model and expansion model. We have a suspicion that they're flying blind and not pulling together the information they need to understand the impacts."* Also: *"We say that if you come to the Netherlands, you have to play by Dutch rules and be held to account to Dutch standards. Ultimately this is about a global conglomerate and how its activities should be limited within safe planetary boundaries."*
-- **Elujulo Opeyemi** (Youth in Agroecology and Restoration Network, Nigeria): *"This is the biggest agriculture investment that I have heard of in Nigeria's history but there have been few details and no consultation for civil society. The information is not there. We want the Nigerian government to take a pause until we can make a concrete cost-benefit analysis."* Also: *"Once JBS has a foothold in Nigeria, they can encroach across Africa. That's why the Nigerian government has to get this right."*
-- **Marieke Vellekoop** (Greenpeace Netherlands executive director): the NGO had "no choice but to seek our right to information through the Dutch courts."
-- **JBS**: *"does not comment on potential legal proceedings of which it has not been notified."*
+Greenpeace's lawyers describe the petition as a first step towards a full court case. They also see it as new ground for climate litigation. Until now, cases like this have been brought almost only against fossil fuel companies.
 
 ## Why it matters
 
-Three things make this significant:
+This is the first major climate and nature legal challenge against a giant of agriculture. If the same legal tools used against oil companies can be turned on the world's biggest meat company, the whole farming sector could face similar tests. That matters because agriculture is the biggest driver of deforestation and a major source of **methane**, a gas that traps far more heat than CO2 over the short term.
 
-1. **The first major climate/nature legal challenge against an agriculture major.** Until now these lawsuits have overwhelmingly targeted fossil fuel companies. Applying the same framework to the world's largest meat company opens the whole agriculture sector to a similar legal test — and agriculture is the **biggest driver of deforestation and a major methane source**
-2. **The Dutch venue matters.** JBS moved to the Netherlands to access US financial markets, and in doing so put itself under **Dutch duty-of-care law** — the same framework that Milieudefensie has used against Shell. The move to Europe has exposed JBS to a legal regime it may not have priced in
-3. **The Nigeria dimension.** Africa is the current growth frontier for industrial meat. If JBS's $2.5bn Nigeria plan proceeds without adequate assessment, it could **lock in decades of methane emissions**, threaten smallholder farmers and food sovereignty, and become a template for further African expansion
+The Dutch setting is important. JBS moved its headquarters to the Netherlands so it could list on the New York Stock Exchange. In doing so, it placed itself under the same Dutch duty-of-care law that the campaign group Milieudefensie has used against Shell. JBS may not have counted on that when it moved.
 
-## Tone and angle
+Then there is Nigeria. Africa is the next growth market for industrial meat. If the $2.5bn Nigerian plan goes ahead without proper checks, it could lock in decades of methane emissions, put pressure on small farmers and local food supplies, and become a model for further expansion across the continent. The article also sets out JBS's track record, with a broken Amazon pledge, an abandoned net zero target and missing emissions figures. That record explains why campaigners are turning to the courts rather than trusting the company's own sustainability reports.
 
-Straight environment/business reporting. The Guardian gives space to civil-society voices in both the Netherlands and Nigeria, and it grounds the JBS challenge in the wider legal-precedent pattern (TotalEnergies, Shell). Notably includes the **JBS track record** — abandoned Amazon commitment, scrapped 2040 net-zero pledge, missing indirect emissions from cows — as the reason the courts, not the company's ESG report, are the venue.
+## Key facts
 
-## How it connects to the wiki
+- JBS moved its headquarters from Brazil to the Netherlands in 2025 to list on the New York Stock Exchange. This exposes it to Dutch standards on transparency and duty of care.
+- The petition targets a **$6bn global expansion plan**, including $2.5bn for six giant meat-processing plants in Nigeria.
+- Niger State in Nigeria has promised JBS 1.2 million hectares of land.
+- The Batista brothers, Joesley and Wesley, greatly increased their ownership stake through the New York listing.
+- Beef production is the main driver of deforestation worldwide, and JBS dominates Brazil's cattle market.
+- JBS promised to clear deforestation from its Amazon supply chain by the end of 2025 and missed the deadline. The Guardian and partners revealed in April 2025 that it would break the pledge. It has since dropped its "net zero by 2040" pledge (Mongabay, July 2026).
+- Its latest sustainability report left out the indirect emissions from cows, which make up most of JBS's climate footprint.
 
-- Updates `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md` — first case against a meat major
-- Complements `wiki/sectors/agriculture-food/beef-and-climate-change.md` and `wiki/sectors/agriculture-food/eat-lancet-planetary-diet-2025.md`
-- Reinforces `wiki/climate-finance/fossil-fuel-banking.md` — same corporate-accountability arc, different sector
-- Reinforces `wiki/climate-finance/bp-shareholder-rebellion-2026.md` — shareholder vs court routes to accountability
-- Adds detail to `wiki/sectors/agriculture-food/Is the meat industry following the Oil Industry.md`
+## Recent court cases it builds on
+
+In June 2026 a Paris court ruled that **TotalEnergies** must disclose the climate risks linked to its oil and gas products. The case was brought by NGOs together with the City of Paris, although the court did not order any specific measures.
+
+In The Hague, Milieudefensie and Friends of the Earth are asking a court to order **Shell** to cut its CO2 emissions by 45% by 2030, in line with the Paris Agreement. A final ruling is expected in early 2027.
+
+## Voices in the piece
+
+Richard Brown, legal counsel at Greenpeace International, explains the aim: "The primary objective is to challenge JBS's business model and expansion model. We have a suspicion that they're flying blind and not pulling together the information they need to understand the impacts." He adds: "We say that if you come to the Netherlands, you have to play by Dutch rules and be held to account to Dutch standards. Ultimately this is about a global conglomerate and how its activities should be limited within safe planetary boundaries."
+
+Elujulo Opeyemi, of the Youth in Agroecology and Restoration Network in Nigeria, speaks for communities who would live with the new plants: "This is the biggest agriculture investment that I have heard of in Nigeria's history but there have been few details and no consultation for civil society. The information is not there. We want the Nigerian government to take a pause until we can make a concrete cost-benefit analysis." Opeyemi warns: "Once JBS has a foothold in Nigeria, they can encroach across Africa. That's why the Nigerian government has to get this right."
+
+Marieke Vellekoop, executive director of Greenpeace Netherlands, said the NGO had "no choice but to seek our right to information through the Dutch courts."
+
+JBS said it "does not comment on potential legal proceedings of which it has not been notified."
+
+## Sources
+
+- The Guardian, Jonathan Watts, 22 July 2026. https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan

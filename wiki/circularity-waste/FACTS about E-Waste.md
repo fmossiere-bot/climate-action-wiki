@@ -5,66 +5,66 @@ tags:
   - e-waste
   - circularity
 created: 2026-06-01
-updated: 2026-07-13
+updated: 2026-10-28
 summary: What are E-Waste, How much E-Waste do we generate, What is driving that increase, What about Recycling, The Global Flow of Uncontrolled E-Waste, An EU e-waste target, COMPANIES, Source
 ---
 
-E-waste, from smartphones to washing machines, is the world's fastest-growing waste stream, reaching 53.6 million tonnes in 2019 and projected to nearly double by 2050. Rising consumption, short device lifecycles and limited repair options drive this growth, alongside heavy extraction of metals like lithium and cobalt. Only around 17% of e-waste is properly recycled globally. In Ireland, WEEE Ireland has collected over 609,000 tonnes of electrical waste since 2005, though it argues that EU weight-based recycling targets fail to credit repair and reuse. Irish recyclers are increasingly focused on recovering rare earth materials from discarded technology.
+E-waste, from smartphones to washing machines, is the fastest-growing waste stream in the world. It reached 53.6 million tonnes in 2019 and is expected to nearly double by 2050. Rising consumption, devices that are replaced quickly and few repair options are driving the growth, along with heavy mining of metals such as lithium and cobalt. Only around 17% of e-waste is properly recycled worldwide. In Ireland, WEEE Ireland has collected over 609,000 tonnes of electrical waste since 2005, but it argues that the EU's weight-based recycling targets give no credit for repair and reuse. Irish recyclers are paying more and more attention to recovering rare earth materials from old technology.
 ## 1. What Counts as E-Waste
 
-E-waste refers to any electrical or electronic equipment (EEE) that has been discarded by its owner, without any intention of reuse. Most people think first of smartphones, tablets and laptops, but the definition is much broader. It also covers watches, televisions, screens fitted in cars, and large household appliances such as washing machines, dishwashers and coffee machines. Under the EU's WEEE Directive, which governs how this waste is classified, washing machines and combined dryers are grouped under a category called "large equipment", alongside many other items with an electrical or battery component, including vacuum cleaners, microwaves, kettles and electric toys.
+E-waste means any electrical or electronic equipment (EEE) that its owner has thrown away with no plan to reuse it. Most people think first of smartphones, tablets and laptops, but the definition is much wider. It also covers watches, televisions, screens built into cars, and large household appliances such as washing machines, dishwashers and coffee machines. Under the EU's WEEE Directive, which sets how this waste is classified, washing machines and washer-dryers fall into a category called "large equipment". Many other items with an electrical or battery part are covered too, including vacuum cleaners, microwaves, kettles and electric toys.
 
-In short, if a product has circuitry, a power supply or a battery, it falls under the e-waste definition once it is thrown away.
+Put simply, if a product has circuits, a power supply or a battery, it counts as e-waste once it is thrown away.
 
 ## 2. How Much E-Waste Is Being Generated
 
-In 2019, the world generated a record 53.6 million tonnes of e-waste. This figure is expected to almost double, reaching around 120 million tonnes by 2050, unless current patterns of consumption and disposal change significantly. E-waste is now considered the fastest-growing waste stream globally, growing faster than the world's ability to safely collect and process it.
+In 2019, the world produced a record 53.6 million tonnes of e-waste. Unless the way we buy and dispose of electronics changes a lot, that figure is expected to almost double, to around 120 million tonnes by 2050. E-waste is now seen as the fastest-growing waste stream in the world, growing faster than our ability to collect and process it safely.
 
-Much of this waste does not stay where it is generated. A large share ends up in developing and underdeveloped regions, often through informal or illegal export routes, where processing conditions are frequently unsafe for both workers and the local environment.
+Much of this waste does not stay where it was produced. A large share ends up in poorer regions, often through informal or illegal exports, where the way it is processed is frequently unsafe for workers and for the local environment.
 
 ## 3. What Is Driving the Growth
 
-Several factors are pushing e-waste volumes upward at the same time.
+Several things are pushing e-waste volumes up at the same time.
 
-- **Rising consumption.** More electronic devices are being bought and used than ever before, and each one eventually becomes waste.
-- **Short product lifecycles.** Rapid technological change and shifting consumer preferences mean devices are replaced more often, even when they still work.
-- **Limited repair options.** When a device breaks, replacing it is often easier or cheaper than repairing it. The EU's new right-to-repair legislation is intended to address this directly.
-- **Multiple device ownership.** Many people now own several devices at once, such as a smartphone, tablet and laptop, which increases the total volume in circulation.
-- **Cloud computing demand.** Indirectly, the growth of cloud services encourages people to buy newer devices capable of using them.
-- **Software obsolescence.** Some software only runs on specific, newer hardware, which can force device replacement even when the hardware itself is not broken.
+- **Rising consumption.** We buy and use more electronic devices than ever, and each one eventually becomes waste.
+- **Short product lifecycles.** Fast-moving technology and changing tastes mean devices are replaced more often, even when they still work.
+- **Limited repair options.** When a device breaks, it is often easier or cheaper to replace it than to fix it. The EU's new right-to-repair law is meant to tackle this directly.
+- **Owning several devices.** Many people now have a smartphone, tablet and laptop at the same time, which increases the total number in circulation.
+- **Demand for cloud computing.** Indirectly, the growth of cloud services encourages people to buy newer devices that can use them.
+- **Software obsolescence.** Some software only runs on specific, newer hardware, which can force people to replace a device that is not actually broken.
 
-Behind all of this sits a further, less visible cost: the extraction of raw materials. To keep up with demand, the extraction of minerals such as graphite, lithium and cobalt could increase by as much as 500% by 2050. When poorly managed, this kind of mining can damage landscapes, pollute groundwater and displace local communities, well before the resulting devices even reach a shop shelf.
+Behind all this is a less visible cost: mining the raw materials. To keep up with demand, extraction of minerals such as graphite, lithium and cobalt could rise by as much as 500% by 2050. Badly managed mining can damage landscapes, pollute groundwater and push local communities off their land, long before the devices reach a shop shelf.
 
 ## 4. What Is Actually Inside a Device
 
-Smartphones illustrate the scale of the material problem well. 
+Smartphones show the scale of the materials problem well. 
 
-> Regardless of brand, most smartphones contain around 80% of the stable elements found on the periodic table. This includes a wide range of metals, many of which are difficult and energy-intensive to extract and refine. 
-> Once combined inside a single device, these materials become far harder to separate and recover than they were as raw ore, which is one of the key challenges in e-waste recycling.
+> Whatever the brand, most smartphones contain around 80% of the stable elements on the periodic table. That includes a wide range of metals, many of which take a lot of energy to mine and refine. 
+> Once they are combined inside a single device, these materials are far harder to separate and recover than they were as raw ore. This is one of the main challenges in recycling e-waste.
 
 ## 5. What Happens After Disposal
 
-Despite growing awareness, recycling rates for e-waste remain low. It is estimated **that only around 17% of all electronic equipment discarded globally is properly collected for recycling**. The remainder is typically incinerated, informally processed, or simply exported without proper oversight.
+Even though awareness is growing, e-waste recycling rates remain low. It is estimated **that only around 17% of all electronic equipment thrown away worldwide is properly collected for recycling**. The rest is usually burned, processed informally, or exported without proper checks.
 
-A separate, related problem is that a significant volume of still-functioning e-waste never even reaches a bin. Billions of old smartphones are estimated to be sitting unused in homes worldwide, still containing recoverable metals, but not entering any recycling stream at all.
+A related problem is that a large amount of still-working equipment never reaches a bin at all. Billions of old smartphones are thought to be sitting unused in homes around the world. They still contain metals that could be recovered, but they never enter any recycling system.
 
 ## 6. Ireland's Position and the EU Target Problem
 
-In Ireland, the not-for-profit organisation WEEE Ireland operates the country's largest e-waste compliance scheme. Marking 20 years in operation, the organisation reports that it has prevented more than 250 million old and broken electrical items from entering landfill since 2005, and has facilitated the collection and recycling of more than 609,000 tonnes of electrical waste over that period. This includes 7.6 million large household appliances, 1.8 million fridges, 5.1 million televisions and monitors, 47.5 million lamps, and the equivalent of 725 million used AA batteries. The recycling process has also recovered more than 30,000 tonnes of steel, plastic and glass every year, along with other valuable metals such as aluminium, copper and iron.
+In Ireland, the not-for-profit WEEE Ireland runs the country's largest e-waste compliance scheme. Marking 20 years in operation, it reports that since 2005 it has kept more than 250 million old and broken electrical items out of landfill and helped collect and recycle more than 609,000 tonnes of electrical waste. That includes 7.6 million large household appliances, 1.8 million fridges, 5.1 million televisions and monitors, 47.5 million lamps, and the equivalent of 725 million used AA batteries. Recycling has also recovered more than 30,000 tonnes of steel, plastic and glass every year, along with other valuable metals such as aluminium, copper and iron.
 
-However, WEEE Ireland has raised concerns about how EU recycling targets are structured. Under current rules, member states must collect a minimum of 65% of the average weight of electrical and electronic equipment placed on the market over the preceding three years. WEEE Ireland's chief executive, Leo Donovan, has argued that this weight-based target does not reflect real environmental progress, because it does not account for devices with extended lifespans, or for repair and reuse. A phone that gets repaired or refurbished, for example, does not count towards Ireland's official recycling performance, even though it is keeping raw materials in active use rather than sending them to landfill.
+WEEE Ireland has, however, raised concerns about how EU recycling targets are set. Under current rules, member states must collect at least 65% of the average weight of electrical and electronic equipment put on the market over the previous three years. WEEE Ireland's chief executive, Leo Donovan, has argued that a weight-based target does not reflect real environmental progress, because it ignores devices that last longer and anything that is repaired or reused. A phone that is repaired or refurbished, for example, does not count towards Ireland's official recycling figures, even though it keeps raw materials in use instead of sending them to landfill.
 
 ## 7. Recycling in Practice
 
-A small number of Irish companies specialise in processing this waste stream. Recycleit, based in Clondalkin, collects e-waste on-site from businesses. ICT, another Irish IT recycling company, dismantles end-of-life electronics such as servers, laptops and storage devices, securely destroying any sensitive data before recovering the materials inside. ICT was recently acquired by the US recycling firm Paladin EnviroTech, specifically to increase the recovery of rare earth materials from discarded technology in Ireland, a sign of growing commercial interest in reclaiming these materials rather than treating them purely as waste.
+A small number of Irish companies specialise in this kind of waste. Recycleit, based in Clondalkin, collects e-waste from businesses on site. ICT, another Irish IT recycling company, takes apart end-of-life electronics such as servers, laptops and storage devices, securely destroys any sensitive data, and then recovers the materials inside. ICT was recently bought by the US recycling firm Paladin EnviroTech, specifically to recover more rare earth materials from discarded technology in Ireland. It is a sign of growing commercial interest in reclaiming these materials rather than treating them simply as waste.
 
 ## 8. Credibility and Limitations
 
-Global e-waste figures, including the 53.6 million tonne estimate for 2019 and the projection to 120 million tonnes by 2050, come from international monitoring efforts such as the Global E-waste Monitor, and should be read as estimates rather than precise counts, given the scale of informal and unrecorded e-waste flows worldwide. Ireland-specific figures from WEEE Ireland reflect the organisation's own compliance scheme and are a strong indicator of national progress, though they do not capture material handled entirely outside the formal scheme.
+The global e-waste figures, including the 53.6 million tonne estimate for 2019 and the projection of 120 million tonnes by 2050, come from international monitoring such as the Global E-waste Monitor. They should be read as estimates rather than exact counts, because so much e-waste worldwide moves informally and goes unrecorded. The Irish figures from WEEE Ireland cover the organisation's own compliance scheme. They are a good guide to national progress, but they miss material handled entirely outside the formal scheme.
 
-## 9. Bottom Line
+## 9. Summary
 
-E-waste is growing faster than almost any other waste stream, driven by rising consumption, short product lifecycles and limited repair culture, and it carries a significant, often overlooked cost in raw material extraction. Only a small fraction of what is discarded is properly recycled. Ireland has built a genuinely substantial collection infrastructure through WEEE Ireland, but the way EU targets are calculated may be failing to recognise real progress made through repair and reuse, which points to a wider gap between how recycling success is measured and what actually helps the environment.
+E-waste is growing faster than almost any other kind of waste, driven by rising consumption, short product lifecycles and a weak repair culture. It also carries a large and often overlooked cost in mining raw materials. Only a small fraction of what is thrown away is properly recycled. Ireland has built a substantial collection system through WEEE Ireland, but the way EU targets are calculated may not recognise the real progress made through repair and reuse. That points to a wider gap between how recycling success is measured and what actually helps the environment.
 
 ## Sources and Further Reading
 

@@ -2,9 +2,9 @@
 title: "Myth: An EV has to drive 50,000 miles before it beats a petrol car"
 category: myths
 tags: ["#myth", "#ev", "#battery", "#carbon", "#transport"]
-sources: ["Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"]
+sources: ["Carbon Brief, 21 EV myths factchecked. https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/"]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-10-28
 cover_image: ""
 summary: "electric vehicle, EV, carbon payback, break even mileage, battery manufacturing emissions, embodied carbon, VW e-Golf, Volvo C40, Tesla Model Y, Carbon Brief, lifecycle emissions, 11000 miles, 13000 miles, 77000 miles, fuel economy gap, real world driving, petrol production emissions, carbon debt"
 claim_id: ev-carbon-payback
@@ -18,15 +18,15 @@ topic: transport
 
 ## Say this
 
-The battery does start with a carbon debt. It pays it off in about a year and a half of normal driving, and everything after that is a gain.
+The battery does start with a carbon debt, but it pays it off in about a year and a half of normal driving. Everything after that is a gain.
 
 ## Why it sounds right
 
-Building a battery really does create more emissions upfront, so an EV starts its life with a carbon debt. That part is true, and it is where the number comes from.
+Building a battery does create more emissions up front, so an EV starts life with a carbon debt. That part is true, and it's where the big number comes from.
 
 ## What is actually true
 
-The debt is paid back far faster than the headline figures suggest. Carbon Brief puts the break even point at roughly 11,000 to 13,000 miles in Europe and the UK, under two years of average driving. The very high numbers came from manufacturer studies that overestimated battery emissions, underestimated the emissions from producing petrol, and used lab fuel economy rather than real world figures. Corrected by independent researchers, the VW e-Golf breaks even at about 14,000 miles rather than 77,000, and the Volvo C40 at about 16,000 rather than 68,400.
+The debt is paid back far faster than the widely quoted figures suggest. Carbon Brief puts the break-even point at **roughly 11,000 to 13,000 miles** in Europe and the UK, which is under two years of average driving. The very high numbers came from manufacturers' own studies. These overestimated battery emissions, underestimated the emissions from producing petrol, and used lab fuel economy instead of real-world figures. When independent researchers corrected them, the VW e-Golf broke even at about 14,000 miles rather than 77,000, and the Volvo C40 at about 16,000 rather than 68,400.
 
 ## If they push back
 
@@ -36,7 +36,7 @@ Those figures came from the carmakers' own studies. Independent researchers rech
 
 **"That is only because you assume clean electricity"**
 
-No, those are European grid averages as they are today, and the grid keeps getting cleaner while a petrol car never does.
+No, those figures use European grid averages as they are today. And the grid keeps getting cleaner, while a petrol car never does.
 
 ## Also heard as
 
@@ -52,4 +52,4 @@ No, those are European grid averages as they are today, and the grid keeps getti
 
 ## Sources
 
-- Carbon Brief, 21 EV myths factchecked — https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/
+- Carbon Brief, Factcheck: 21 misleading myths about electric vehicles. https://www.carbonbrief.org/factcheck-21-misleading-myths-about-electric-vehicles/

@@ -9,7 +9,7 @@ tags:
   - "#agriculture"
 sources:
   - The Guardian, Heather Timmons, 31 July 2026
-  - Zero, Bloomberg Green podcast — interview with Ben Cohen
+  - Zero, Bloomberg Green podcast, interview with Ben Cohen
 created: 2026-08-26
 updated: 2026-08-26
 cover_image:
@@ -68,5 +68,5 @@ Ben & Jerry's is a genuine outlier: a mass-market food brand that spent decades 
 
 ## Sources
 
-- The Guardian, Heather Timmons, 31 July 2026 — https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott
-- Zero, Bloomberg Green podcast — interview with Ben Cohen, co-founder of Ben & Jerry's, recorded at South by Southwest London, 2026
+- The Guardian, Heather Timmons, 31 July 2026. https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott
+- Zero, Bloomberg Green podcast, interview with Ben Cohen, co-founder of Ben & Jerry's, recorded at South by Southwest London, 2026

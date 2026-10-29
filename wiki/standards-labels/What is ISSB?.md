@@ -3,77 +3,77 @@ title: What is ISSB?
 category: standards
 tags: [esg, finance]
 created: 2026-06-01
-updated: 2026-06-01
-summary: "ISSB — International Sustainability Standards Board, What the ISSB does, Why the ISSB matters for investors, 1. ISSB = Standards, 2. ESG = Conceptual umbrella, 3. How they relate, Early adopters / moving toward adoption, International Sustainability Standards Board (ISSB), IFRS Foundation, global baseline of sustainability disclosure standards, climate-first, financial reporting, comparability, into financial statements, decision-usefulness, How does ISSB compare to “ESG”, mandatory or semi-mandatory reporting requirements, investor materiality, broad investment framework, formalized, consistent rulebook, information infrastructure for ESG, interpret, 🌍 Who is using ISSB standards, Large multinational companies, Global investors and asset managers, mandatory TCFD-aligned disclosures"
+updated: 2026-10-28
+summary: "ISSB, International Sustainability Standards Board, What the ISSB does, Why the ISSB matters for investors, 1. ISSB = Standards, 2. ESG = Conceptual umbrella, 3. How they relate, Early adopters / moving toward adoption, International Sustainability Standards Board (ISSB), IFRS Foundation, global baseline of sustainability disclosure standards, climate-first, financial reporting, comparability, into financial statements, decision-usefulness, How does ISSB compare to “ESG”, mandatory or semi-mandatory reporting requirements, investor materiality, broad investment framework, formalized, consistent rulebook, information infrastructure for ESG, interpret, 🌍 Who is using ISSB standards, Large multinational companies, Global investors and asset managers, mandatory TCFD-aligned disclosures"
 ---
 
-### **ISSB — International Sustainability Standards Board**
+### ISSB: International Sustainability Standards Board
   
 
-The **International Sustainability Standards Board (ISSB)** is a standard-setting body created by the **IFRS Foundation** to develop **global baseline sustainability-related disclosure standards** for capital markets.
+The **International Sustainability Standards Board (ISSB)** is a standard-setting body created by the IFRS Foundation, which also sets the IFRS international accounting standards. Its job is to write a global baseline of sustainability disclosure standards for capital markets: a common minimum that companies everywhere can report against.
 
-> The ISSB was formed to **build on existing investor-focused reporting initiatives**, including TCFD and CDSB, and to drive **complete, consistent, and comparable disclosure of material sustainability-related information across mainstream financial reporting**  .
+> The ISSB was formed to build on existing investor-focused reporting initiatives, including TCFD and CDSB, and to drive **complete, consistent, and comparable disclosure** of material sustainability-related information across mainstream financial reporting.
 
   
-### **What the ISSB does**
+### What the ISSB does
   
 The ISSB is responsible for:
-- Developing a **global baseline of sustainability disclosure standards**.
-- Starting with a “**climate-first**” approach before expanding to wider ESG topics  .
-- Integrating and consolidating existing frameworks (e.g., TCFD, SASB, CDSB).
-- Helping ensure sustainability disclosures are aligned with **financial reporting** so investors can assess risks and opportunities.
+- Developing a global baseline of sustainability disclosure standards.
+- Starting with climate (a "climate-first" approach) before moving on to wider ESG topics.
+- Bringing existing frameworks together (for example TCFD, SASB and CDSB).
+- Making sure sustainability disclosures line up with **financial reporting**, so investors can judge risks and opportunities.
 
-### **Why the ISSB matters for investors**
+### Why the ISSB matters for investors
 
 For responsible investors, ISSB standards aim to:
 
-- Improve **comparability** of ESG disclosures across companies.
-- Bring climate and other sustainability risks **into financial statements**.
-- Strengthen the **decision-usefulness** of sustainability information.
+- Make ESG disclosures easier to compare from one company to the next.
+- Bring climate and other sustainability risks into the financial statements.
+- Make sustainability information more useful for actual decisions.
 
 ---
-# **How does ISSB compare to “ESG”?**
+# How does ISSB compare to "ESG"?
 
-It helps to distinguish three different things:
+It helps to separate three different things.
 
-### **1. ISSB = Standards**
-The ISSB develops **mandatory or semi-mandatory reporting requirements** for sustainability information in annual reports (similar to accounting standards).
+### 1. ISSB = Standards
+The ISSB writes **reporting requirements**, mandatory or semi-mandatory, for sustainability information in annual reports, much like accounting standards.
 
-They focus on **investor materiality**—information needed to understand enterprise value.
+They focus on investor materiality: the information needed to understand what a company is worth.
 
-### **2. ESG = Conceptual umbrella**
-“ESG” is not a standard.
+### 2. ESG = Conceptual umbrella
+"ESG" is not a standard.
 
-It is a **broad investment framework** capturing:
+It is a **broad investment framework** that covers:
 
 - **E**nvironmental (climate, biodiversity, pollution, water)
-- **S**ocial (labor rights, communities, safety)
+- **S**ocial (labour rights, communities, safety)
 - **G**overnance (oversight, controls, ethics)
 
-ESG covers a wide landscape and varies across investors, ratings, and jurisdictions.
-ISSB, by contrast, provides a **formalized, consistent rulebook** for disclosures that ESG analysts can use.
+ESG covers a lot of ground and means different things to different investors, ratings agencies and countries.
+ISSB, by contrast, gives a formal, consistent rulebook for disclosures that ESG analysts can use.
 
-### **3. How they relate**
+### 3. How they relate
 ISSB ≠ ESG ratings.
 ISSB ≠ ESG scores.
-ISSB is **information infrastructure for ESG**, not a judgment on performance
+ISSB is the **information infrastructure for ESG**. It does not judge performance.
 
 For a responsible investor:
 
-- ISSB improves **comparability** of sustainability data across issuers.
-- ESG is how you **interpret** the information based on your values, risk appetite, stewardship goals, or themes (e.g., biodiversity, social equity, supply-chain ethics).
+- ISSB makes sustainability data easier to compare across companies.
+- ESG is how you interpret that information, based on your values, appetite for risk, stewardship goals or themes (for example biodiversity, social equity or supply-chain ethics).
 
 
 ---
-# **Who is using ISSB standards?**
+# Who is using ISSB standards?
 
 
-Because ISSB is very new, adoption is happening rapidly but at different speeds around the world.
+ISSB is very new, so adoption is moving quickly but at different speeds around the world.
 
-### **Early adopters / moving toward adoption**
-- **UK, EU, Australia, Japan, Canada, Singapore, Hong Kong, Brazil, South Africa**: have signaled alignment or partial adoption plans.
-- **Large multinational companies**: many are voluntarily aligning their reporting with ISSB because their investors request it
-- **Global investors and asset managers**: increasingly ask companies to report using ISSB’s S1 (general sustainability) and S2 (climate) to integrate sustainability into financial analysis.
+### Early adopters and those moving towards adoption
+- **UK, EU, Australia, Japan, Canada, Singapore, Hong Kong, Brazil, South Africa**: have signalled alignment or plans for partial adoption.
+- **Large multinational companies**: many are choosing to align their reporting with ISSB because their investors ask for it.
+- **Global investors and asset managers**: increasingly ask companies to report using ISSB's S1 (general sustainability) and S2 (climate) so they can build sustainability into financial analysis.
   
 
-The CDSB and TCFD documents highlight that regulators worldwide are moving toward **mandatory TCFD-aligned disclosures**, and ISSB is effectively becoming the next-generation version of that alignment
+The CDSB and TCFD documents show that regulators worldwide are moving towards **mandatory TCFD-aligned disclosures**, and ISSB is in effect becoming the next generation of that approach.

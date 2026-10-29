@@ -4,35 +4,47 @@ category: sources
 tags: ["#renewables", "#biodiversity"]
 sources: ["raw/articles/Researchers studied 20 French solar farms; beneath the panels, pollinators fell 76%, and plant-pollinator interactions plunged 86%.md"]
 created: 2026-08-18
-updated: 2026-08-26
+updated: 2026-10-28
 summary: solar farms, pollinators, bees, hoverflies, butterflies, shading, agrivoltaics, France, Biological Conservation, Arnaud Lec'hvien, grazing vs mowing, wildflower meadows, pollinator-friendly solar, Minnesota Illinois Maryland, bumble bees, Conservation Letters review
+related:
+  - solar-farms-pollinators
+  - solar-on-peatland
+  - FACTS about Solar Energy
 ---
 
 # 20 French solar farms: pollinators fell 76% under the panels
 
-**Source:** The Economic Times, 18 August 2026 — https://economictimes.indiatimes.com/news/international/us/researchers-studied-20-french-solar-farms-beneath-the-panels-pollinators-fell-76-and-plant-pollinator-interactions-plunged-86/articleshow/133319387.cms
-**Underlying peer-reviewed study:** Lec'hvien, A. et al. (2025), *Biological Conservation*
+**Source:** The Economic Times, 18 August 2026. https://economictimes.indiatimes.com/news/international/us/researchers-studied-20-french-solar-farms-beneath-the-panels-pollinators-fell-76-and-plant-pollinator-interactions-plunged-86/articleshow/133319387.cms
+
+The article reports on a peer-reviewed study: Lec'hvien, A. et al. (2025), *Biological Conservation*.
 
 ## What it is
 
-A 2025 study in *Biological Conservation* surveyed **20 solar parks in southern France**, comparing pollinator activity in three zones within each site: directly under the panels, the partially-shaded "inter-row" gaps, and fully sunny open ground. It found a **76% drop in pollinator numbers and an 86% decline in plant-pollinator interactions** in the shaded zone under panels, compared with open sunny land.
+A 2025 study in *Biological Conservation* looked at 20 solar parks in southern France. In each one, the researchers compared three zones: directly under the panels, the partly shaded gaps between rows, and fully sunny open ground.
 
-## Key facts cited
-
-- Researchers (led by Arnaud Lec'hvien) recorded bees, hoverflies and butterflies, and how often they visited flowers, across the three zones
-- **Under-panel zone**: significantly lower pollinator visits and interactions than open sun
-- **Inter-row zone**: intermediate — better than under panels, worse than open sun
-- Mechanism: panels create shaded microclimates with altered light and moisture, suppressing the flowering plants pollinators depend on
-- **Land management matters as much as the panels themselves**: grazing reduced pollinator numbers more than mowing did
-- A separate study in *Environmental Research Letters* ("Solar park management and design to boost bumble bee populations") found solar sites with **wildflower meadows hosted almost twice as many foraging/nesting bumble bees** as those with only narrow wildflower strips
-- US states **Minnesota, Illinois and Maryland** have adopted voluntary "pollinator-friendly solar" standards, incentivising native wildflower planting under and around panels instead of turf grass — part of the wider practice known as **agrivoltaics**
-- A *Conservation Letters* review notes that solar development can alter habitats for plants, insects and wildlife, but that careful design and mitigation can minimise many impacts, and that comparative solar/biodiversity data remains relatively sparse
+Under the panels, they found a **76% drop in pollinator numbers** compared with open sunny land, and an 86% fall in the number of times plants and pollinators met.
 
 ## Why it matters
 
-This is a distinct biodiversity finding from the wiki's existing [solar-on-peatland](../biodiversity-land/solar-on-peatland.md) case (German peatland birds thriving under panels) — different country, different taxa (pollinating insects vs birds), and a genuinely negative finding rather than a positive one. Read together, the two studies show the same underlying lesson: **solar's ecological impact depends heavily on siting and land management, not just on the panels being there.**
+Solar power is one of the cheapest and fastest ways to cut emissions, and nobody in this study suggests otherwise. But a solar farm is also a piece of land, and what happens on that land matters for nature.
 
-## How it connects to the wiki
+This finding is a useful counterweight to the [solar-on-peatland](../biodiversity-land/solar-on-peatland.md) case, where birds on a German peatland did well under the panels. That was a different country, different wildlife (birds rather than insects) and a positive result rather than a negative one. Read together, the two studies teach the same lesson: solar's effect on nature depends heavily on where it is built and how the land is managed, and much less on the panels themselves.
 
-- New wiki page: `wiki/biodiversity-land/solar-farms-pollinators.md`
-- Cross-links to `wiki/biodiversity-land/solar-on-peatland.md` and `wiki/solutions/renewables/FACTS about Solar Energy.md`
+## Key facts
+
+- The team, led by Arnaud Lec'hvien, recorded bees, hoverflies and butterflies, and how often they visited flowers, across the three zones.
+- Under the panels, pollinator visits and plant-pollinator interactions were much lower than in open sun.
+- Between the rows, results were in the middle: better than under the panels, worse than open sun.
+- The panels create shaded patches with different light and moisture, which hold back the flowering plants pollinators feed on.
+- Land management mattered as much as the panels. Grazing reduced pollinator numbers more than mowing did.
+- A separate study in *Environmental Research Letters* ("Solar park management and design to boost bumble bee populations") found that solar sites with wildflower meadows hosted almost twice as many foraging and nesting bumble bees as sites with only narrow wildflower strips.
+- The US states of Minnesota, Illinois and Maryland have adopted voluntary "pollinator-friendly solar" standards, encouraging native wildflowers under and around panels instead of mown grass. This is part of a wider practice called **agrivoltaics**, which combines solar panels with farming or nature on the same land.
+
+## Limits of the evidence
+
+A review in *Conservation Letters* notes that solar development can change habitats for plants, insects and wildlife, but that careful design and mitigation can avoid many of the harms. It also points out that data comparing solar sites and biodiversity is still fairly thin, so one study in France should not be read as the final word.
+
+## Sources
+
+- The Economic Times, 18 August 2026. https://economictimes.indiatimes.com/news/international/us/researchers-studied-20-french-solar-farms-beneath-the-panels-pollinators-fell-76-and-plant-pollinator-interactions-plunged-86/articleshow/133319387.cms
+- Lec'hvien, A. et al. (2025), *Biological Conservation*.

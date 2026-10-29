@@ -4,46 +4,55 @@ category: sources
 tags: ["#ocean", "#science", "#adaptation", "#nature-based-solutions"]
 sources: ["raw/articles/As Temperatures Climb, the Ocean Takes the Brunt.md"]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-10-28
 summary: WRI ocean warming, 91% excess heat absorbed, 11cm sea level rise since 1993, rate doubled 2.65mm to 4.75mm per year, upper 2000m record heat 2025, 9 consecutive record years, Arctic sea ice record low 14.3 million km2, Antarctic third lowest max, ocean acidity 30% since preindustrial, Tuvalu Australia Falepili Union Treaty, Gambia salinity, oyster hatcheries Pacific Northwest, Sustainable Ocean Plans, blue carbon, Tom Pickerell
+related:
+  - record-hot-ocean-el-nino-2026
+  - Ocean Based Climate Solutions
+  - amoc-collapse-carbon
 ---
 
-# As Temperatures Climb, the Ocean Takes the Brunt
+# As temperatures climb, the ocean takes the brunt
 
-**Source:** World Resources Institute (WRI), Tom Pickerell (Global Director, Ocean Program), 22 July 2026 — https://www.wri.org/insights/ocean-warming-climate-change-impacts
+**Source:** World Resources Institute (WRI), Tom Pickerell (Global Director, Ocean Program), 22 July 2026. https://www.wri.org/insights/ocean-warming-climate-change-impacts
 
 ## What it is
 
-A **WRI insights article by Tom Pickerell** synthesising the state of ocean warming in mid-2026. The framing is straightforward: **most of the heat trapped by greenhouse gases ends up in the ocean, not the atmosphere**. The article documents the acceleration of ocean warming, sea-level rise and acidification, and identifies three policy actions to respond.
+An article by Tom Pickerell of WRI that brings together what we know about ocean warming in mid-2026. The starting point is simple: **most of the heat trapped by greenhouse gases ends up in the ocean**, not in the air.
 
-## Key facts cited
-
-- The ocean absorbs about **91% of excess heat** from greenhouse gases (roughly **7.6 billion cups of tea per second**)
-- **Upper 2,000 m of the ocean stored more heat than ever before in 2025** — **9th consecutive record year** (WMO State of the Global Climate 2025)
-- The **rate of warming 2005–2025 was more than double the rate 1960–2005** — the ocean is not just warming, it is warming faster
-- **Arctic sea ice hit its lowest annual maximum on record in March 2025** (~14.3 million km²), tied by 2026
-- **Antarctic sea ice: 3rd-lowest annual maximum** in 2025 (~17.8m km²); **2nd-lowest summer minimum** (~2m km²)
-- **Sea level: +11 cm since January 1993**; rate accelerated from **2.65 mm/yr (1993–2011) to 4.75 mm/yr (2012–2025)**
-- Ocean absorbs **~25% of human CO₂ emissions**; average acidity of surface waters up **~30% since the pre-industrial era**
-- Tuvalu–Australia **Falepili Union Treaty** creates a formal migration pathway as rising seas swallow land
-- **Gambia** case study: saltwater pushing up the Gambia River is abandoning rice/vegetable fields
-- **Pacific Northwest oyster hatchery** case: mass larval die-offs linked to acidified low-aragonite seawater; industry valued at ~$111m nearly collapsed before adopting monitoring and water treatment
-- IPCC framing: **deep ocean warming and interior acidification are effectively irreversible on our timescales**
-
-## Three policy actions WRI recommends
-
-1. **View adaptation as essential** — sea-level acceleration should be resetting adaptation timetables today, not treated as a future problem
-2. **Invest in healthy ocean ecosystems** — mangroves, saltmarshes, seagrasses, coral reefs (blue carbon)
-3. **Make ocean data visible** — put ocean metrics alongside emissions so leaders see climate progress and risk
+The article shows that ocean warming, sea-level rise and acidification are all speeding up. It ends with three policy actions WRI recommends in response.
 
 ## Why it matters
 
-This is the most concise reference we have that stitches together **all three ocean impacts** (warming, sea-level rise, acidification) with recent 2025–2026 numbers, and connects them to specific human consequences (Tuvalu migration, Gambia farmland loss, Pacific Northwest shellfish). It sits alongside the existing [record-hot ocean and 2026 El Niño](../climate-science/record-hot-ocean-el-nino-2026.md) page, which focused on the El Niño angle; this WRI piece is the general ocean-warming update.
+This is the most compact reference on the wiki for all three ocean impacts at once (warming, rising seas and acidification), with recent numbers from 2025 and 2026. It also ties them to people's lives: islanders in Tuvalu who may need to move, farmers in Gambia losing fields to salt water, and shellfish growers in the US Pacific Northwest.
 
-## How it connects to the wiki
+It sits alongside the [record-hot ocean and 2026 El Niño](../climate-science/record-hot-ocean-el-nino-2026.md) page, which focuses on El Niño. This WRI piece is the broader update on ocean warming.
 
-- Updates `wiki/climate-science/record-hot-ocean-el-nino-2026.md` with additional 2025–26 WRI/WMO figures and Tuvalu/Gambia case detail
-- Reinforces `wiki/biodiversity-land/FACTS about the Ocean.md`
-- Complements `wiki/biodiversity-land/ocean-based-climate-solutions.md`
-- Adds context to `wiki/climate-science/amoc-collapse-carbon.md`
-- Adds evidence for `wiki/climate-adaptation/` — planned retreat, Tuvalu migration, food security
+## Key facts
+
+- The ocean absorbs about 91% of the extra heat trapped by greenhouse gases, roughly the energy of 7.6 billion cups of tea every second.
+- In 2025 the top 2,000 m of the ocean held more heat than ever before, the 9th record year in a row (WMO State of the Global Climate 2025).
+- The ocean warmed more than twice as fast in 2005–2025 as in 1960–2005. It is warming, and the warming is speeding up.
+- Arctic sea ice reached its lowest yearly maximum on record in March 2025 (about 14.3 million km²), equalled in 2026.
+- Antarctic sea ice had its 3rd-lowest yearly maximum in 2025 (about 17.8m km²) and its 2nd-lowest summer minimum (about 2m km²).
+- Sea level has risen **11 cm since January 1993**. The rate has sped up from 2.65 mm a year (1993–2011) to 4.75 mm a year (2012–2025).
+- The ocean takes up about 25% of the CO2 humans emit. As a result, surface waters are about 30% more acidic on average than before the industrial era.
+- The IPCC says warming of the deep ocean and acidification below the surface are effectively irreversible on human timescales.
+
+## The human stories
+
+Tuvalu and Australia have signed the Falepili Union Treaty, which creates a formal route for Tuvaluans to migrate as rising seas swallow their land.
+
+In Gambia, salt water is pushing further up the Gambia River, and farmers are abandoning rice and vegetable fields.
+
+In the US Pacific Northwest, oyster hatcheries saw mass die-offs of young oysters, linked to acidic seawater low in aragonite, the mineral shellfish use to build their shells. The industry, worth about $111m, nearly collapsed before it brought in water monitoring and treatment.
+
+## What WRI recommends
+
+- Treat adaptation as essential now. Faster sea-level rise should be bringing adaptation plans forward today, not left as a problem for later.
+- Invest in healthy ocean ecosystems such as mangroves, saltmarshes, seagrasses and coral reefs, which also store carbon (often called blue carbon).
+- Make ocean data visible, by reporting ocean measures alongside emissions so leaders can see both progress and risk.
+
+## Sources
+
+- World Resources Institute, Tom Pickerell, 22 July 2026. https://www.wri.org/insights/ocean-warming-climate-change-impacts

@@ -1,78 +1,68 @@
 ---
-title: "Why the electric car is good for the climate — Cédric Philibert interview (IFRI, 2026)"
+title: "Why the electric car is good for the climate: Cédric Philibert interview (IFRI, 2026)"
 category: sources
 tags: ["#ev", "#battery", "#france", "#eu-policy"]
 sources: ["raw/articles/interview with Cédric Philibert, associate researcher at IFRI.md"]
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-28
 summary: Cédric Philibert IFRI Institute of International Relations, Ademe International Energy Agency, Pourquoi la voiture électrique est bonne pour le climat Les Petits Matins Institut Veblen 2024, electric car peak petrol diesel, France 30 percent new EV sales, 80 percent in ten years, 2050 majority switched, Strait of Hormuz Middle East crisis petrol prices, plug-in hybrids heavier not emit less CO2 charging rare, Zoé Tesla first generation, lithium-ion batteries divided by ten in ten years, European carmakers Chinese competition, Stellantis Renault strategy, nine of ten best-selling French EVs European Tesla American, less than 20000 euros small electric cars grants
+related:
+  - EV Progress
+  - The rise of the batteries
+  - wri-smaller-evs-2025
+  - france-urban-transport
+  - sodium-ion-batteries
 ---
 
-# Why the electric car is good for the climate — Cédric Philibert interview
+# Why the electric car is good for the climate: Cédric Philibert interview
 
-**Source:** Interview with Cédric Philibert, associate researcher at the French Institute of International Relations (IFRI), by "M.L." (likely Marc Lomazzi, Eco360 — content format matches the French-magazine interview style). Publication date not stated in the clipping.
+**Source:** Interview with Cédric Philibert, associate researcher at the French Institute of International Relations (IFRI), by "M.L.", probably Marc Lomazzi for Eco360 (the format matches that French magazine's interviews). The clipping gives no publication date.
+
 **Related book:** Cédric Philibert, *Pourquoi la voiture électrique est bonne pour le climat* (Why the electric car is good for the climate), Les Petits Matins / Institut Veblen, 2024, 204 pages.
 
 ## What it is
 
-Short interview with **Cédric Philibert**, a French energy economist who worked at **Ademe** (France's ecological-transition agency) and the **International Energy Agency**, and is now at **IFRI**. **The core argument: EVs have won the global new-car market, lithium-ion battery prices have fallen 10× in a decade, plug-in hybrids are a fake solution, and European carmakers have fallen behind China on batteries but are not out of the fight yet.** The interview covers both the climate case for EVs and the industrial competition story.
+A short interview with **Cédric Philibert**, a French energy economist. He worked at Ademe (France's agency for the ecological transition) and at the International Energy Agency, and is now at IFRI.
 
-## Key claims
-
-### Global EV adoption
-
-- **Sales of petrol and diesel cars have passed their peak worldwide**; EV sales grow every year
-- **France today: EVs are >30% of new car sales**
-- **In ten years at this pace: 80% of new sales will be electric**
-- **By 2050: the huge majority of cars on the road will have switched**
-- Shift has sped up since the **Middle East crisis and the closure of the Strait of Hormuz** sent petrol prices soaring (a 2026-era event — context not fully specified in the clipping)
-
-### Why not plug-in hybrids
-
-- **Plug-in hybrids are heavier** than straight ICE cars, and in practice **do not emit less CO2** because drivers rarely charge from the grid
-- Fully electric has taken over — including for buses and lorries — because of huge progress since first-generation models like the Renault Zoé and the Tesla
-- **Lithium-ion battery prices have been divided by 10 in ten years**, enabling affordable models
-
-### Europe vs China
-
-- European carmakers survived Japanese and Korean competition before, but **made a strategic mistake**: they kept the high-value design work in Europe and sent manufacturing to emerging countries. **This handed battery leadership — and therefore EV leadership — to China**
-- **Stellantis and Renault had an up-and-down strategy on electric**, which did not help
-- **Europe is no longer in a position of strength**
-- Europe is **bringing industry back, raising import barriers, and forcing Chinese carmakers to build in Europe** — gradually levelling the field
-
-### Reasons not to be too alarmist
-
-- **Of the ten best-selling EVs in France, nine are European and the tenth is American (Tesla). None are Chinese**
-- European carmakers are already showing they can bring out small EVs for **under €20,000** once grants are counted
+His view is that electric cars have already won the global new-car market. Lithium-ion battery prices have fallen 10× in a decade, which has made affordable models possible. He sees plug-in hybrids as a false solution. And while European carmakers have fallen behind China on batteries, he does not think they are out of the race. The interview covers both the climate case for electric cars and the industrial contest behind them.
 
 ## Why it matters
 
-Three things:
+For anyone wondering whether electric cars are a passing trend, Philibert gives clear, specific figures. In France, more than 30% of new cars sold are already electric, and he expects 80% within ten years. The fall in battery prices, divided by 10 in ten years, sums up a well-documented drop in costs.
 
-1. **A clean, specific data point for the "EVs are winning" story.** France at 30% new EV sales now, 80% in ten years, is one of the sharper near-term forecasts in current French EV coverage. The "battery prices ÷10 in a decade" claim is a pithy summary of a well-documented cost curve.
-2. **A direct rebuttal of plug-in hybrids as a transitional solution.** Several European carmakers have leaned on PHEVs as a bridging product; Philibert's "heavier and don't actually emit less" line is now one of the clearer short expert statements against them.
-3. **A balanced read on China-vs-Europe.** Not alarmist (nine of ten French best-sellers are European), but also not complacent (Europe lost battery leadership through strategic choices, not accident). The "under €20,000 after grants" number is a credible marker for whether small-EV accessibility reaches the European mass market.
+He is also direct about plug-in hybrids. Several European carmakers have presented them as a bridge to full electric. Philibert says they are heavier and, in real use, do not emit less CO2, which matters for anyone weighing one up as a "safe" middle option.
 
-## Caveats
+His take on Europe and China is balanced. He does not sound the alarm, since nine of the ten best-selling electric cars in France are European. But he does not let Europe off the hook either: it lost its lead on batteries through its own choices, not by accident. His figure of small electric cars for under €20,000 after grants is a useful marker for whether electric driving becomes affordable for most European households.
 
-- **Clipping has no publication date, author initials only ("M.L.").** Likely sourced from Eco360 (Marc Lomazzi has bylines in Eco360 n°17), but not fully attributable. The specific "30% EV sales in France today" and "nine of ten best-sellers European" figures should be dated against official French registration data (SDES / CCFA) if used as hard numbers.
-- **The Strait of Hormuz / petrol-price-spike framing** is politically-charged and depends on specific 2025-2026 geopolitical events. Still a reasonable backdrop, but readers should know this is scenario-dependent context.
-- **Philibert's book is from 2024.** The interview itself is more recent (references 2026 events), so the data is updated; the structural argument comes from his book.
+## Key facts
 
-## Tone and angle
+- Sales of petrol and diesel cars have passed their peak worldwide. Electric car sales grow every year.
+- In France today, electric cars make up **more than 30% of new car sales**.
+- At this pace, 80% of new sales will be electric in ten years.
+- By 2050, the vast majority of cars on the road will have switched.
+- The shift has sped up since the Middle East crisis and the closure of the Strait of Hormuz sent petrol prices soaring (a 2026 event that the clipping does not describe in detail).
+- Lithium-ion battery prices have been divided by 10 in ten years.
+- Of the ten best-selling electric cars in France, nine are European and the tenth is American (Tesla). None are Chinese.
 
-Expert-interview format from a French magazine. Balanced tone — Philibert is pro-EV but gives Europe credit where it is due (nine of ten French best-sellers European), and acknowledges Chinese battery lead as the result of European strategic mistakes rather than Chinese unfairness. The piece reads as policy-literate rather than cheerleading.
+## Why not plug-in hybrids
 
-## How it connects to the wiki
+Plug-in hybrids are heavier than ordinary petrol or diesel cars. In practice they do not emit less CO2, because drivers rarely plug them in to charge. Fully electric vehicles have taken over instead, including buses and lorries, thanks to huge progress since first-generation models such as the Renault Zoé and the early Tesla.
 
-- Updates to [The rise of the batteries](../solutions/electrification/The%20rise%20of%20the%20batteries.md) — "battery prices ÷10 in a decade" and the plug-in-hybrid point
-- Updates to [EV Progress](../solutions/electrification/EV%20Progress.md) — France at 30% new EV sales, the Europe-vs-China framing
-- Complements [sodium-ion batteries](../solutions/electrification/sodium-ion-batteries.md) — Philibert talks mainly about lithium-ion, not sodium; worth cross-linking so readers see both chemistry stories
-- Fits with [france-urban-transport](../eu-hub/france-urban-transport.md) ingested in the same batch — France-specific transport decarbonisation lens
-- Reinforces [For Electric Vehicles, Smaller Is Better (source)](wri-smaller-evs-2025.md) — the <€20,000 small-EV argument sits alongside the "smaller is better" case
+## Europe against China
+
+European carmakers survived Japanese and Korean competition in the past. This time, Philibert says, they made a strategic mistake. They kept the high-value design work in Europe and sent manufacturing to emerging countries. That handed the lead on batteries, and therefore on electric cars, to China. Stellantis and Renault also blew hot and cold on electric, which did not help.
+
+Europe is no longer in a position of strength. But it is now bringing industry home, raising barriers to imports and requiring Chinese carmakers to build in Europe, which is gradually levelling the field. European carmakers are already showing they can sell small electric cars for under €20,000 once grants are counted.
+
+## Limits of the source
+
+The clipping has no publication date and gives only the author's initials, "M.L.". It is probably from Eco360, where Marc Lomazzi has bylines (for example in Eco360 n°17), but this cannot be fully confirmed. The figures for France (more than 30% of new sales, nine of ten best-sellers European) should be checked against official French registration data from SDES or CCFA before being used as hard numbers.
+
+The link to the Strait of Hormuz and the spike in petrol prices depends on particular 2025-2026 events, and is politically sensitive. It is a reasonable backdrop, but readers should treat it as context tied to that moment.
+
+Philibert's book dates from 2024. The interview is more recent and mentions 2026 events, so its figures are newer. The underlying argument comes from the book.
 
 ## Sources
 
-- Interview with Cédric Philibert, associate researcher at IFRI (French Institute of International Relations), by M.L. — likely Eco360 magazine, 2026 (specific issue not identified in the clipping)
-- Cédric Philibert, *Pourquoi la voiture électrique est bonne pour le climat*, Les Petits Matins / Institut Veblen, 2024 (204 pages)
-- Related: Philibert's prior roles at Ademe and the International Energy Agency
+- Interview with Cédric Philibert, associate researcher at IFRI (French Institute of International Relations), by M.L., probably Eco360 magazine, 2026 (issue not identified in the clipping).
+- Cédric Philibert, *Pourquoi la voiture électrique est bonne pour le climat*, Les Petits Matins / Institut Veblen, 2024 (204 pages).

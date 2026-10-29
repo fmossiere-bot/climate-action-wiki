@@ -4,55 +4,56 @@ category: sources
 tags: ["#ev", "#transport", "#electrification", "#buildings", "#adaptation"]
 sources: ["raw/articles/For Electric Vehicles, Smaller Is Better.md"]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-10-28
 summary: WRI EV size trend, SUV pickup dominance, battery mineral demand, pedestrian safety, urban mobility, EU compliance flexibility, Norway weight-based tax, France 1600 kg weight tax, Paris SUV parking triple, 320 low-emission zones Europe, BYD Seagull, Volkswagen Renault Stellantis, Yiqian Zhang-Billert Sarah Cassius Cristina Albuquerque, compact EVs, lifecycle emissions, ICE size trend
+related:
+  - smaller-evs-better
+  - Car Life Cycle Emissions - EV vs Combustion
+  - EV Progress
+  - home-cooling-heatwaves
 ---
 
 # For Electric Vehicles, Smaller Is Better
 
-**Source:** World Resources Institute (WRI), Yiqian Zhang-Billert, Sarah Cassius and Cristina Albuquerque, 28 July 2025 — https://www.wri.org/insights/electric-vehicles-smaller-better
+**Source:** World Resources Institute (WRI), Yiqian Zhang-Billert, Sarah Cassius and Cristina Albuquerque, 28 July 2025. https://www.wri.org/insights/electric-vehicles-smaller-better
 
 ## What it is
 
-A **WRI insights article** on a specific and awkward trend inside the wider EV success story: **electric vehicles are getting bigger, fast**. The share of SUVs and pickups in battery-electric model lineups has jumped from **one-third in 2017 to two-thirds in 2023**. WRI argues this trend risks undermining several of the environmental, social and equity benefits of electrification, and lays out the case for smaller EVs plus specific policy tools already being tried in Europe.
+An article from the World Resources Institute about an awkward trend inside the EV success story: electric cars are getting bigger, and quickly. SUVs and pickups made up one-third of battery-electric models in 2017 and **two-thirds in 2023**.
 
-## Key facts cited
-
-- In 2023, **two-thirds of BEV models** on the major EV markets were SUVs, pickups or large cars — up from one-third in 2017
-- **Europe**: <40% of BEVs were small or medium cars; **US 25%**; **China 50%**
-- **European ICE trend**: >50% of ICE sales in 2023 were SUVs; **small car sales down 50% since 2011, SUV sales tripled**
-- Only about **one-quarter** of new EV models expected through 2028 will be small or medium-sized
-- **Larger EVs consume up to 20% more energy** than smaller EVs, straining grids and increasing lifecycle emissions
-- **Transport & Environment**: prioritising smaller EVs in Europe could **cut demand for critical battery minerals by 25%**
-- **IEA**: targeted measures to curb large-vehicle demand could cut global mineral demand for EV batteries by **18–20% by 2050**
-- **Pedestrian safety**: larger vehicles increase risk of fatal pedestrian accidents by **45%**; every extra 300 kg of vehicle mass raises fatal injury risk for cyclists/pedestrians/motorcyclists by **30%** (European study)
-- **US tax credits** of up to $7,500 are often more advantageous for electric SUVs
-- **EU fleet-wide CO₂ targets** allow manufacturers to offset heavier vehicles with smaller cleaner ones — designed to lower compliance costs but incidentally enables larger-vehicle production
-- **Average daily travel distance in Europe: just 12.4 km per person** — well within even small EV range
-
-## Policy tools already being tried
-
-- **France**: weight-based tax on ICE and plug-in hybrid vehicles over **1,600 kg**
-- **City of Paris**: **tripled parking fees for SUVs**
-- **Norway**: EV purchase taxes based on **weight and emissions** — larger, high-emission models significantly more expensive
-- **>320 European cities**: low-emission zones restrict large, high-polluting vehicles in city centres
-- **China**: BYD, Wuling and others introducing budget-friendly subcompacts (BYD Seagull, Wuling Bingo) priced under €10,000
-- **VW, Renault, Stellantis**: rolling out sub-€25,000 smaller EVs in response
+WRI argues that this trend eats into many of the environmental, social and fairness benefits of going electric. It makes the case for smaller EVs and describes policy tools that European countries and cities are already trying.
 
 ## Why it matters
 
-Electrification alone is not enough if the vehicles keep growing. **Bigger EVs need bigger batteries → more lithium/cobalt/nickel demand → higher lifecycle emissions and more pressure on critical-mineral supply chains** — before you even count the safety cost of heavier vehicles in dense cities. This piece is the clearest current framing that **vehicle size is a lever policymakers can pull** with tax, parking-fee and zoning tools that already exist in some European cities.
+Switching to electric helps, but less so if the cars keep growing. A bigger EV needs a bigger battery. That means more lithium, cobalt and nickel, higher emissions over the car's life, and more pressure on the supply of these minerals. Heavier cars are also more dangerous for people walking and cycling, especially in busy cities.
 
-The complementary caveat WRI itself makes: smaller EVs are not a substitute for the wider shift to public transport, cycling and walking. **Smaller EVs are an improvement over larger EVs; both are inferior to fewer private cars.**
+The useful point here is that car size can be steered. Governments and cities already have the tools: taxes based on weight, higher parking fees and low-emission zones.
 
-## Tone and angle
+WRI adds its own caveat. Smaller EVs do not replace the wider move to public transport, cycling and walking. A small EV is better than a big one, but both are worse than fewer private cars overall.
 
-Policy-analysis piece. Balances the pro-electrification framing (EVs are essential for decarbonising transport) with a specific critique of a trend that undermines several of the benefits. Notably names governments and incentives that either favour larger vehicles (US EV tax credits, EU fleet-wide CO₂) or curb them (France weight tax, Paris parking, Norway EV weight tax).
+## Key facts
 
-## How it connects to the wiki
+- In 2023, two-thirds of battery-electric (BEV) models in the major EV markets were SUVs, pickups or large cars, up from one-third in 2017.
+- Small or medium cars made up less than 40% of BEVs in Europe, 25% in the US and 50% in China.
+- Petrol and diesel cars show the same trend in Europe. More than 50% of their sales in 2023 were SUVs, small car sales have fallen 50% since 2011, and SUV sales have tripled.
+- Only about one-quarter of new EV models expected up to 2028 will be small or medium-sized.
+- Larger EVs use **up to 20% more energy** than smaller ones, which puts more strain on power grids and raises lifetime emissions.
+- Transport & Environment estimates that favouring smaller EVs in Europe could cut demand for critical battery minerals by 25%. The IEA says targeted measures to curb demand for large vehicles could cut global mineral demand for EV batteries by 18–20% by 2050.
+- Larger vehicles raise the risk of a fatal pedestrian accident by 45%. A European study found that every extra 300 kg of vehicle weight raises the risk of fatal injury to cyclists, pedestrians and motorcyclists by 30%.
 
-- Underpins a new page `wiki/sectors/transport/smaller-evs-better.md`
-- Complements `wiki/sectors/transport/Car Life Cycle Emissions - EV vs Combustion.md`
-- Reinforces `wiki/solutions/electrification/EV Progress.md`
-- Adds to `wiki/concepts/key-ideas/` — Jevons-style unintended consequence within the transition
-- Adds to `wiki/climate-adaptation/home-cooling-heatwaves.md` (urban design overlap)
+## Rules that favour bigger cars
+
+Some incentives push the wrong way. US tax credits of up to $7,500 often work out better for electric SUVs. The EU's CO₂ targets apply across each manufacturer's whole fleet, so a carmaker can balance heavier vehicles against smaller, cleaner ones. That was meant to lower the cost of meeting the rules, but it also makes it easier to keep building large vehicles. Meanwhile, the average person in Europe travels just 12.4 km a day, well within the range of even a small EV.
+
+## Policy tools already being tried
+
+- **France**: a weight-based tax on petrol, diesel and plug-in hybrid vehicles over 1,600 kg.
+- **Paris**: parking fees for SUVs tripled.
+- **Norway**: EV purchase taxes based on weight and emissions, so larger, higher-emission models cost much more.
+- **More than 320 European cities**: low-emission zones that keep large, polluting vehicles out of city centres.
+- **China**: BYD, Wuling and others are launching cheap small cars (BYD Seagull, Wuling Bingo) priced under €10,000.
+- **VW, Renault, Stellantis**: launching smaller EVs under €25,000 in response.
+
+## Sources
+
+- World Resources Institute, Yiqian Zhang-Billert, Sarah Cassius and Cristina Albuquerque, 28 July 2025. https://www.wri.org/insights/electric-vehicles-smaller-better

@@ -7,7 +7,7 @@ tags:
   - nature
   - science
 created: 2026-06-06
-updated: 2026-10-18
+updated: 2026-10-28
 summary: bees, pollinators, honeybees, solitary bees, bumblebees, wild bees, bee decline, pollination, food system, almonds, urban beehives, habitat loss, wildflower meadows, EU Pollinators Initiative, Nature Restoration Regulation, insects, buzz pollination, mason bee, fig wasp, hoverfly, bat pollination, bee hotels, rooftop hives, corporate sustainability, biodiversity loss. What about Ireland Pollinator plan, what is ireland implmeenting to support pollinators, and what is dun laoghaire plan
 related:
   - Biodiversity for Business 101
@@ -29,7 +29,7 @@ Bees pollinate a third of everything we eat, but there is a lot more to the stor
 
 # Why bees keep coming up
 
-Bees have become a symbol of nature under pressure. Wildflower patches, pollinator plans, rooftop hives — they are everywhere now. But it is worth stepping back and asking: why do bees matter so much? And is everything done in their name actually helpful?
+Bees have become a symbol of nature under pressure. Wildflower patches, pollinator plans, rooftop hives: they are everywhere now. But it is worth stepping back and asking: why do bees matter so much? And is everything done in their name actually helpful?
 
 The short answer is that bees sit right at the heart of both our food system and the natural world. When bee populations struggle, the effects ripple outward fast.
 
@@ -37,13 +37,13 @@ The short answer is that bees sit right at the heart of both our food system and
 
 You may have heard that bees are responsible for around 35% of the food we eat. That figure does not mean bees physically produce 35% of our food. It means that roughly one in three bites of food on your plate depends on a pollinator, and bees are by far the most important ones.
 
-Wind-pollinated crops like wheat, rice, and corn give us most of our calories, and bees play no role there. **But almost everything else, fruits, vegetables, nuts, oils — needs an insect to carry pollen from one flower to another. Without that, plants do not produce food.**
+Wind-pollinated crops like wheat, rice, and corn give us most of our calories, and bees play no role there. **But almost everything else, fruits, vegetables, nuts, oils, needs an insect to carry pollen from one flower to another. Without that, plants do not produce food.**
 
 **Some crops are almost entirely dependent on bees. Almonds, for example**. Around 80% of the world's almonds come from California, and every year the industry trucks in billions of honeybees from across the United States just to cover the two-week bloom period. It is one of the largest, and most controversial, agricultural operations on the planet.
 
 Beyond food, bees also pollinate the wild plants that feed birds, mammals, and insects further up the food chain. Lose the bees, and the effects go well beyond the supermarket.
 
-STAT: Around 1 in 3 bites of food we eat depends on pollinators — and bees are the most important of all.
+STAT: Around 1 in 3 bites of food we eat depends on pollinators, and bees are the most important of all.
 
 # Are all bees the same?
 
@@ -53,7 +53,7 @@ Honeybees are social insects. They live in large managed colonies, produce surpl
 
 More than 90% of bee species are solitary. They do not live in hives, they do not make honey, and they rarely sting. Each female builds her own nest in hollow plant stems, in mud, in dead wood, or underground, lays her eggs, and that is it. No queen, no workers, no surplus.
 
-These solitary bees are often far more efficient pollinators than honeybees. A single mason bee can pollinate as many apple blossoms as 120 honeybees. Bumblebees use a technique called buzz pollination — vibrating at a specific frequency to shake loose pollen — that is essential for tomatoes, blueberries, and aubergines. No honeybee can do that.
+These solitary bees are often far more efficient pollinators than honeybees. A single mason bee can pollinate as many apple blossoms as 120 honeybees. Bumblebees use a technique called buzz pollination (vibrating at a specific frequency to shake loose pollen) that is essential for tomatoes, blueberries, and aubergines. No honeybee can do that.
 
 When people talk about bees being in decline, it is mostly these wild, solitary species they are worried about. They have no beekeeper looking after them. They depend entirely on the local habitats around them.
 
@@ -93,13 +93,13 @@ Saying that keeping honeybees helps save the bees is a bit like saying keeping c
 
 The goal should be: more flowers, more nesting space, less pesticide. The honey is a bonus, not the point.
 
-QUOTE: "Focus on the habitat, not the honey." — Conservationists studying urban pollinator health
+QUOTE: "Focus on the habitat, not the honey." (Conservationists studying urban pollinator health)
 
 # So what actually helps?
 
 The core issue for wild bees is habitat loss. Wildflower meadows replaced by lawns, hedgerows cleared, roadsides sprayed. To a solitary bee, a perfectly mown grass verge offers nothing.
 
-The good news is that small actions add up. A patch of native wildflowers in a garden, a few hollow stems left in a hedge, a strip of unmown grass at the edge of a field — all of these provide food and nesting space for the species that need it most.
+The good news is that small actions add up. A patch of native wildflowers in a garden, a few hollow stems left in a hedge, a strip of unmown grass at the edge of a field: all of these provide food and nesting space for the species that need it most.
 
 At a policy level, the EU is taking this seriously. The EU Pollinators Initiative and the Nature Restoration Regulation set legally binding targets for reversing the decline of wild bees and butterflies by 2030. That pressure is pushing changes in how public land is managed and how farms are designed.
 
@@ -108,18 +108,18 @@ Bees matter because the food system and the natural world both depend on them. B
 ---
 # What is Ireland Pollinator plan? 
 
-It's a plan that brings together different groups across the whole island of Ireland to create a landscape where pollinators — bees, butterflies, hoverflies — can survive and thrive. It's coordinated by the National Biodiversity Data Centre.
+It's a plan that brings together different groups across the whole island of Ireland to create a landscape where pollinators (bees, butterflies, hoverflies) can survive and thrive. It's coordinated by the National Biodiversity Data Centre.
 
 **Why does it exist?**
-Pollinators are in decline, mainly because of the loss of natural habitats. This is serious — it affects food production, the agricultural economy, and the health of the environment. 
+Pollinators are in decline, mainly because of the loss of natural habitats. This is serious: it affects food production, the agricultural economy, and the health of the environment. 
 
 > In Ireland, it is estimated that 1/3 of wild bees species are at risk of extinction due to loss of food and nesting sites
 
 **How did it start?**
-Ireland was one of the first countries in Europe to tackle pollinator decline. The first plan ran from 2015 to 2020, and all 81 actions were completed — with input from beekeepers, gardeners, students, farmers, businesses, and many other groups. 
+Ireland was one of the first countries in Europe to tackle pollinator decline. The first plan ran from 2015 to 2020, and all 81 actions were completed, with input from beekeepers, gardeners, students, farmers, businesses, and many other groups. 
 
 **The current plan (2021–2025)**
-The second plan is more ambitious — 186 actions across six objectives, developed by a 16-member steering group. It's voluntary, and the organisations involved agree to fund their own actions themselves. 
+The second plan is more ambitious: 186 actions across six objectives, developed by a 16-member steering group. It's voluntary, and the organisations involved agree to fund their own actions themselves. 
 
 The six objectives cover: farmland, public land (parks, roadsides, etc.), private land (gardens, businesses), education, research, and policy.
 
@@ -170,45 +170,45 @@ DLR recognizes that private gardens, balconies, and patios are vital for connect
 
 - **Pollinator Areas:** DLR is establishing pollinator zones not just in parks, but in urban environments like shopping centers and on "brown roofs" (biodiversity roofs) on new developments.
 
-## October 2026 update: honeybees are actively pushing wild pollinators off flowers
+## October 2026 update: honeybees push wild pollinators off flowers
 
-A two-year Anglia Ruskin University study in Cambridgeshire (Buckle et al., *Ecological Entomology*, DOI 10.1111/een.70139, October 2026) adds hard evidence to the "the beekeeping boom isn't helping wild bees" argument.
+A two-year study by Anglia Ruskin University in Cambridgeshire (Buckle et al., *Ecological Entomology*, DOI 10.1111/een.70139, October 2026) adds hard evidence that the boom in beekeeping is not helping wild bees.
 
 <!-- tag: uk -->
 
-The study tracked **300 competitive interactions** between flower visitors (honeybees, bumblebees, solitary bees, hoverflies, "other") foraging on bramble and ivy near honeybee colonies. The findings:
+The researchers recorded **300 competitive interactions** between flower visitors (honeybees, bumblebees, solitary bees, hoverflies and "other") feeding on bramble and ivy near honeybee colonies. They found:
 
 - **Areas with more honeybees had fewer wild pollinators** overall
-- **Honeybees won most competitive interactions** across both plant species
-- In honeybee-won interactions, the honeybee **displaced or chased** the other pollinator in **about 20% of cases** — "interference competition" (direct aggression), not just the previously-known "exploitation competition" (using up resources first)
-- Other flower visitors **actively avoided honeybees** in **28.4% of interactions on bramble, 35.6% on ivy**
-- UK **registered beekeepers more than doubled** from 19,000 (2010) to 47,000 (2025) per the National Bee Unit
-- **Higher temperatures = more competitive interactions** (nectar dries, plants heat-stress). UK mean summer temperatures could rise by up to **4°C by 2080** — pollinator competition is likely to get worse
+- **Honeybees won most of the contests** on both plants
+- When a honeybee won, it **pushed off or chased** the other pollinator in **about 20% of cases**. This is "interference competition" (direct aggression), on top of the already known "exploitation competition" (getting to the food first)
+- Other flower visitors **steered clear of honeybees** in **28.4% of interactions on bramble and 35.6% on ivy**
+- The number of **registered beekeepers in the UK more than doubled**, from 19,000 in 2010 to 47,000 in 2025, according to the National Bee Unit
+- **Hotter weather meant more contests**, as nectar dries up and plants suffer heat stress. UK average summer temperatures could rise by up to **4°C by 2080**, so competition between pollinators is likely to get worse
 
-The only pollinator seen holding its own against honeybees was the **ivy bee** (first recorded in UK in 2001), which displaced and chased honeybees.
+The only pollinator seen holding its own was the **ivy bee** (first recorded in the UK in 2001), which pushed off and chased honeybees.
 
-**Victoria Buckle** (Anglia Ruskin, lead author): *"With the honeybees, the aggression was more overt. You could tell that they're specifically trying to move the other one off the flower."* Honeybees' capacity for aggression likely stems from their social-group organisation — some castes act as guard bees for the hive.
+Victoria Buckle of Anglia Ruskin, the lead author, described it like this: *"With the honeybees, the aggression was more overt. You could tell that they're specifically trying to move the other one off the flower."* Honeybees' capacity for aggression probably comes from how their colonies are organised, since some bees act as guards for the hive.
 
-**The practical takeaway:** before setting up a hive in a garden, allotment or city, think about whether the surrounding area has enough flowers to support both the new honeybees and the wild pollinators that are already there. In most urban and suburban settings, it probably doesn't.
+**What this means in practice:** before setting up a hive in a garden, allotment or city, ask whether the area has enough flowers to feed both the new honeybees and the wild pollinators already living there. In most towns and suburbs, it probably does not.
 
 *Source: [Honeybees outcompete wild pollinators (source)](../sources/honeybees-crowd-wild-pollinators-guardian-2026.md); Guardian, Rebecca Ratcliffe, 17 October 2026.*
 
 ## Practical: solitary bee shelters at home
 
-**Solitary bees don't build hives** — mason and leafcutter bees search for existing cavities (hollow stems, dead wood, crevices). Modern tidy gardens have removed most of the natural options. A very simple, low-cost shelter uses **an old hollow concrete block** packed with hollow tubes:
+**Solitary bees do not build hives.** Mason and leafcutter bees look for cavities that already exist, such as hollow stems, dead wood and cracks. Tidy modern gardens have removed most of these. A very simple, cheap shelter can be made from **an old hollow concrete block** packed with hollow tubes:
 
-- Fill the block's opening with **bamboo, reeds or empty plant stems** — up to 100 tubes per block (some species, including blue orchard bees, avoid structures with many more openings than that)
-- **Tube width** should range 1/16 to 1/2 inch, **depth** 3-4 inches for narrow tubes, 5-6 inches for wider (never over 8 inches — female bees lay eggs deep in the tunnel)
-- Position holes **at least 3/4 inch from the block's outer edge** — this cuts exposure to parasitic wasps
-- Mount **south- or southeast-facing**, off the ground, with some overhead shelter, and **close to flowering plants**
-- **Plugged holes are your confirmation** that a female has been there
-- To deter birds, stretch chicken wire across the front; to deter parasitic wasps in autumn (when overwintering eggs are most vulnerable), cover openings with gauze
+- Fill the block's opening with **bamboo, reeds or empty plant stems**, up to 100 tubes per block (some species, including blue orchard bees, avoid structures with many more openings than that)
+- **Tubes** should be 1/16 to 1/2 inch wide, and 3-4 inches deep for narrow tubes or 5-6 inches for wider ones (never more than 8 inches, because female bees lay their eggs deep in the tunnel)
+- Place the holes **at least 3/4 inch from the outer edge of the block**, which makes them harder for parasitic wasps to reach
+- Mount it **facing south or south-east**, off the ground, with some shelter overhead and **close to flowering plants**
+- **Plugged holes tell you** a female has been there
+- To keep birds off, stretch chicken wire across the front. To keep parasitic wasps out in autumn, when the overwintering eggs are most at risk, cover the openings with gauze
 
-Concrete has a poor climate reputation (energy-intensive to make, high CO2 per tonne). But once the block exists, repurposing it adds no new emissions, and its **thermal mass keeps the interior warm and stable** — which is exactly what cavity-nesting bees look for.
+Concrete has a poor climate record, because making it takes a lot of energy and releases a lot of CO2 per tonne. But once a block exists, reusing it adds no new emissions. Its **thermal mass also keeps the inside warm and steady**, which is exactly what cavity-nesting bees look for.
 
-Distributing several compact shelters around a garden tends to attract more species than a single large "hotel". A pollinator garden beside the shelter creates a self-contained habitat system.
+Several small shelters spread around a garden usually attract more species than one large "hotel". Putting pollinator-friendly plants next to the shelter gives the bees food and a home in one place.
 
-*Source: EcoPortal, Carlos Albero Rojas, 1 September 2026 — https://www.ecoportal.net/en/concrete-blocks-bee-hotels-garden/35212/*
+*Source: EcoPortal, Carlos Albero Rojas, 1 September 2026. https://www.ecoportal.net/en/concrete-blocks-bee-hotels-garden/35212/*
 
 # Sources
-[Pollinators](https://pollinators.ie/all-ireland-pollinator-plan-business-supporters-annual-review-2025/)
+- All-Ireland Pollinator Plan, Business Supporters Annual Review 2025. https://pollinators.ie/all-ireland-pollinator-plan-business-supporters-annual-review-2025/

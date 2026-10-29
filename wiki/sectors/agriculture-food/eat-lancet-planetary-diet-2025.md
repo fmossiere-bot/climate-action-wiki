@@ -2,9 +2,9 @@
 title: "The EAT-Lancet Planetary Health Diet (2025 Update)"
 category: sectors
 tags: ["#food", "#agriculture", "#methane", "#behaviour", "#key-ideas"]
-sources: ["Carbon Brief — https://www.carbonbrief.org/eat-lancet-report-three-key-takeaways-on-climate-and-diet-change/", "EAT-Lancet Commission 2025 — The Lancet, DOI: 10.1016/S0140-6736(25)01201-2"]
+sources: ["Carbon Brief. https://www.carbonbrief.org/eat-lancet-report-three-key-takeaways-on-climate-and-diet-change/", "EAT-Lancet Commission 2025, The Lancet, DOI: 10.1016/S0140-6736(25)01201-2"]
 created: 2026-07-06
-updated: 2026-07-26
+updated: 2026-10-28
 summary: EAT-Lancet 2025, planetary health diet, Johan Rockström, Line Gordon, Shakuntala Thilsted, plant-rich diet, 2400 calories, whole grains legumes nuts, methane nitrous oxide, non-CO2 agricultural emissions cut 15%, 15 million avoidable deaths, food system emissions one third, dietary shift plus mitigation 34% cut, planetary boundaries five breaches, food justice, richest 30% cause 70% food environmental pressure, meat industry disinformation backlash, DeSmog Animal Agriculture Alliance, land use savings 3.4 million km2, subsidies taxes food labelling
 related:
   - beef-and-climate-change
@@ -18,75 +18,75 @@ related:
 
 ## What is it
 
-The **EAT-Lancet Commission** is a group of scientists in nutrition, climate, economics, health and agriculture. In 2019 they published a first report defining a "**planetary health diet**": what people should eat to be healthy without wrecking the climate or the land. In 2025 they updated the report with better food-system modelling, sharper mitigation numbers, and — for the first time — an explicit treatment of **social justice**.
+The **EAT-Lancet Commission** is a group of scientists working in nutrition, climate, economics, health and farming. In 2019 they published a first report setting out a "planetary health diet": what people should eat to stay healthy without wrecking the climate or the land. In 2025 they updated it with better modelling of the food system, more precise figures on cutting emissions and, for the first time, a direct look at social justice.
 
-The core message is unchanged: a **plant-rich, minimally processed diet** built around whole grains, legumes, nuts, fruit, vegetables and plant oils, with limited but not zero animal-source foods. The 2025 update adds a specific climate accounting: the shift could cut **non-CO2 agricultural emissions (methane and nitrous oxide) by 15% by 2050**, and combined with wider mitigation policies that number rises to **34%**.
+The main message has not changed. The diet is **plant-rich and minimally processed**, built around whole grains, pulses, nuts, fruit, vegetables and plant oils, with some animal foods but not many. The 2025 update adds a climate calculation: the shift could cut non-CO2 farming emissions (methane and nitrous oxide) by 15% by 2050, and by 34% when combined with wider policies to cut emissions.
 
 ## Why it matters
 
-Food systems are responsible for about **one-third of human-driven greenhouse gas emissions**. As Commission co-chair **Prof Johan Rockström** put it: even if fossil fuels were fully phased out, "food can on its own push us beyond the 1.5°C limit." Meanwhile, more than half the world's population struggles to access healthy diets, and food systems are the largest single contributor to **five of the nine planetary boundaries** being breached. Diet is therefore not a lifestyle side-question in climate policy — it is one of the load-bearing levers, alongside energy and land.
+Food systems are responsible for about **one-third of human-caused greenhouse gas emissions**. As Commission co-chair Prof Johan Rockström put it, even if fossil fuels were fully phased out, "food can on its own push us beyond the 1.5°C limit." At the same time, more than half the world's population struggles to get a healthy diet, and food systems are the biggest single cause of five of the nine planetary boundaries (the safe limits for Earth's natural systems) being crossed. So diet is a central part of climate policy, alongside energy and land, rather than a lifestyle side issue.
 
-Two features of the 2025 update matter for readers who followed the 2019 debate:
+Two things in the 2025 update matter for anyone who followed the 2019 debate:
 
-- The scenarios now put concrete numbers on what dietary shift can and cannot deliver.
-- The report explicitly documents the **richest 30% of the world's population contributing more than 70% of environmental pressures from food systems** — so the argument becomes distributional, not "everyone must change equally."
+- The scenarios now put concrete numbers on what changing diets can and cannot achieve.
+- The report shows that the **richest 30% of the world's population cause more than 70% of the environmental pressure from food systems**. The question becomes who needs to change most, rather than everyone changing equally.
 
 ## What the planetary health diet actually looks like
 <!-- tag: individual-actions -->
 
-The recommended diet totals about **2,400 kcal/day** for an average adult and is designed to be **flexible across cultures and food traditions**. Ranges rather than fixed amounts are given for each food group. The largest categories are whole grains, plant oils, nuts and legumes. Animal-source foods are limited but not excluded: roughly **one glass of milk per day, and about two servings of meat and two eggs per week** for those whose diets include them.
+The recommended diet adds up to about **2,400 kcal/day** for an average adult and is designed to fit different cultures and food traditions. Each food group comes with a range rather than a fixed amount. The biggest groups are whole grains, plant oils, nuts and pulses. Animal foods are limited but not ruled out: roughly one glass of milk per day, and about two servings of meat and two eggs per week for people who eat them.
 
-Dr **Line Gordon**, a commissioner, is careful to note the diet was "designed for health, not sustainability." The climate benefits arise from the same choices that improve health outcomes. The Commission estimates that widespread adoption could prevent around **15 million "avoidable" deaths every year**.
+Dr Line Gordon, one of the commissioners, points out that the diet was "designed for health, not sustainability." The climate benefits come from the same choices that make people healthier. The Commission estimates that if it were widely adopted, it could prevent around **15 million "avoidable" deaths every year**.
 
 ## What the modelling shows
 
-The Commission uses global economic models to test scenarios against a business-as-usual baseline (**SSP2-7.0**, a high-emissions pathway with 9.6 billion people and 2°C warming by 2050).
+The Commission used global economic models to test different scenarios against a business-as-usual baseline (**SSP2-7.0**, a high-emissions path with 9.6 billion people and 2°C of warming by 2050).
 
 **Business as usual by 2050:**
-- Agricultural production +37% vs 2020
-- Non-CO2 agricultural emissions +33% vs 2020
-- Cropland area expands by ~2 million km² — roughly the size of Mexico
+- Farm production +37% vs 2020
+- Non-CO2 farming emissions +33% vs 2020
+- Cropland grows by ~2 million km², roughly the size of Mexico
 
-**Full dietary transformation (planetary diet + halved food loss and waste + 7–10% productivity gain):**
-- Non-CO2 agricultural emissions **fall 20% vs 2020**
-- Cropland for fruit/veg/legumes expands, but livestock land shrinks more — **net agricultural land use falls by 3.4 million km², an area the size of India**
+**Full dietary transformation (planetary diet + food loss and waste cut by half + 7–10% higher productivity):**
+- Non-CO2 farming emissions **fall 20% vs 2020**
+- Land for fruit, vegetables and pulses grows, but land for livestock shrinks by more, so **total farmland falls by 3.4 million km², an area the size of India**
 
-**Dietary transformation + ambitious mitigation policies** (carbon pricing, land-use regulation, bioenergy, afforestation, renewables):
-- Non-CO2 agricultural emissions **fall 34% vs 2020**
-- Land savings roughly double compared to dietary shift alone
+**Dietary transformation + ambitious policies to cut emissions** (carbon pricing, land-use rules, bioenergy, tree planting, renewables):
+- Non-CO2 farming emissions **fall 34% vs 2020**
+- Land saved roughly doubles compared with changing diets alone
 
 ## Why justice is now central
 
-The 2025 report adds an explicit justice dimension. It analyses the **rights to food, a healthy environment and decent work** across food systems. The clearest finding is distributional: the wealthiest **30%** of the world's population is responsible for more than **70%** of environmental pressures from food systems. Meanwhile, the health and environmental costs of the current system fall disproportionately on marginalised and low-income communities.
+The 2025 report looks directly at fairness. It examines the **rights to food, a healthy environment and decent work** across food systems. Its clearest finding is about who causes the damage: the wealthiest 30% of the world's population are responsible for more than 70% of the environmental pressure from food systems. Meanwhile, the health and environmental costs of the current system fall hardest on marginalised and low-income communities.
 
-Co-chair **Dr Shakuntala Thilsted** frames the addition as bringing "a tremendous broader aspect" to the report. The proposed steps include liveable wages for food-system workers, protection of marginalised groups, and limits on **market concentration** among agribusiness firms whose "power asymmetries and discriminatory social and political structures" hinder rights fulfilment.
+Co-chair Dr Shakuntala Thilsted says the addition brings "a tremendous broader aspect" to the report. The steps it proposes include a living wage for food workers, protection for marginalised groups, and limits on **market concentration** among agribusiness firms, whose "power asymmetries and discriminatory social and political structures" get in the way of people's rights.
 
 ## Practical policy levers
 
-The Commission does not put the responsibility on individual consumers alone. The main policy levers highlighted are:
+The Commission does not leave it all to individual shoppers. The main policy levers it highlights are:
 
-- **Change taxes** to make healthy foods more affordable
+- **Changing taxes** to make healthy food more affordable
 - **Clear food labelling** so people can act on the information
-- **Shift agricultural subsidies** away from commodities that drive livestock overproduction and towards fruits, vegetables, legumes and nuts
-- **Target subsidies** to lower-income households in areas where fruit and vegetables are currently expensive
-- **Cultural context** must shape implementation — no single template
+- **Moving farm subsidies** away from crops that drive livestock overproduction and towards fruit, vegetables, pulses and nuts
+- **Targeting subsidies** at lower-income households in areas where fruit and vegetables are currently expensive
+- **Cultural context** shaping how all this is done, with no single template
 
 ## The politics of the backlash
 
-The 2019 EAT-Lancet report faced what Carbon Brief calls a "massive online backlash" against its meat-consumption findings. Investigative reporting by **DeSmog** in 2025 traced much of this to a PR firm representing the meat and dairy industry, working with the Animal Agriculture Alliance. Rockström said the Commission is "ready to meet that assault" again and expressed concern "over this return of mis- and disinformation and denialism on climate science."
+The 2019 EAT-Lancet report met what Carbon Brief calls a "massive online backlash" over what it said about eating meat. Investigative reporting by **DeSmog** in 2025 traced much of this to a PR firm representing the meat and dairy industry, working with the Animal Agriculture Alliance. Rockström said the Commission is "ready to meet that assault" again and voiced concern "over this return of mis- and disinformation and denialism on climate science."
 
 ## July 2026 update: what the transformation would actually cost and reshape
 
-A new *Nature* paper by an **LSHTM–Cornell team with 10 modelling groups** (Gibson et al., 2026; DOI: [10.1038/s41586-026-10775-2](https://dx.doi.org/10.1038/s41586-026-10775-2)) puts specific economic and land-use numbers on what a global adoption of the planetary health diet — combined with improved farming efficiency and **halved food loss and waste** — would deliver by 2050.
+A new *Nature* paper by a team from LSHTM (the London School of Hygiene & Tropical Medicine) and Cornell, working with **10 modelling groups** (Gibson et al., 2026; DOI: [10.1038/s41586-026-10775-2](https://dx.doi.org/10.1038/s41586-026-10775-2)), puts economic and land-use numbers on what would happen by 2050 if the whole world adopted the planetary health diet, alongside more efficient farming and halving food loss and waste.
 
 ### The global picture
 
-- **Net CO₂ emissions from agricultural land-use change: –85% by 2050 vs 2020**
+- **Net CO₂ emissions from farmland land-use change: –85% by 2050 vs 2020**
 - **Global farmland use: down ~6%** compared with current trends
-- **Livestock production value: –42% (–$630 billion)**; ruminant sector alone **–70% (–$274bn)**, with **~400 million fewer ruminant animals worldwide**
-- **Vegetable, fruit, nut and legume production value: +57% (+$890bn)**
+- **Value of livestock production: –42% (–$630 billion)**; the ruminant sector (cattle, sheep, goats) alone falls **–70% (–$274bn)**, with **~400 million fewer ruminant animals worldwide**
+- **Value of vegetable, fruit, nut and pulse production: +57% (+$890bn)**
 
-The **–85% land-use emissions cut** is much larger than the –15% non-CO2 agri-emissions cut the EAT-Lancet Commission itself estimated because it captures the land-use side (deforestation avoided, pasture reclaimed) as well as on-farm emissions.
+The –85% cut in land-use emissions is much bigger than the –15% cut in non-CO2 farming emissions that the EAT-Lancet Commission estimated. That is because it covers the land side too (deforestation avoided, pasture given back to nature) as well as emissions on the farm.
 
 ### The regional picture is very uneven
 
@@ -96,33 +96,33 @@ The **–85% land-use emissions cut** is much larger than the –15% non-CO2 agr
 | **India** | **+46% (+$198bn)** | +65% (+$208bn) | −8% (−$10bn) |
 | **Europe** | −35% (−$190bn) | −8% (−$22bn) | −66% (−$168bn) |
 
-India gains economically as well as environmentally; the US and Europe see net contraction because they currently produce more livestock. This is exactly the distributional pattern that makes a **just transition** for farming communities a first-order policy question, not a footnote.
+India gains economically as well as environmentally. The US and Europe shrink overall because they currently produce more livestock. This uneven pattern is why a **just transition** for farming communities, one that protects their livelihoods, has to be at the centre of policy.
 
 ### Caveats the authors flag
 
-- The model assumes a **"costless consumer preference shift"** — people willingly change diet with no financial, cultural or practical barriers. In reality healthy foods are not equally affordable everywhere.
-- The scenarios are **foresight modelling** — a useful early guide of where challenges and opportunities may arise, not a forecast.
-- Without careful policy planning, the transition could create **severe economic disruption for livestock-dependent communities**.
+- The model assumes a **"costless consumer preference shift"**: people happily change their diet with no financial, cultural or practical barriers. In reality, healthy food is not equally affordable everywhere.
+- The scenarios are **foresight modelling**, an early guide to where challenges and opportunities may arise, not a forecast.
+- Without careful planning, the transition could cause **severe economic disruption for communities that depend on livestock**.
 
-### Notable quote
+### What the lead author says
 
-**Dr Matt Gibson** (lead author): *"Transforming food systems would deliver enormous potential benefits to our health and the environment but they would also lead to fundamental changes to global agriculture and affect the lives of millions of farmers and food producers. Rather than using these results as an excuse for inaction, it's critical that governments rise to the challenge... This means confronting powerful groups that profit from the status quo."*
+Dr Matt Gibson, the study's lead author, argues that the findings should push governments to act rather than hold back: *"Transforming food systems would deliver enormous potential benefits to our health and the environment but they would also lead to fundamental changes to global agriculture and affect the lives of millions of farmers and food producers. Rather than using these results as an excuse for inaction, it's critical that governments rise to the challenge... This means confronting powerful groups that profit from the status quo."*
 
 *Source: [LSHTM Nature study (source summary)](../../sources/lshtm-healthy-diet-farm-emissions-2026.md); ScienceDaily / London School of Hygiene & Tropical Medicine, 23 July 2026.*
 
 ## Key facts
 
-- **~1/3 of human-driven GHG emissions come from food systems**
-- Even with full fossil-fuel phaseout, food alone can push warming past 1.5°C without dietary change
+- **~1/3 of human-caused GHG emissions come from food systems**
+- Even with fossil fuels fully phased out, food alone can push warming past 1.5°C unless diets change
 - **Planetary health diet: ~2,400 kcal/day**, plant-rich, with limited animal foods (1 glass milk/day, 2 meat + 2 egg servings/week)
-- Full dietary transformation: **–20% non-CO2 agri-emissions and –3.4m km² of agricultural land** by 2050 vs 2020
-- Dietary + ambitious mitigation: **–34% non-CO2 agri-emissions**
-- **~15 million avoidable deaths/year** if adopted widely
+- Full dietary transformation: **–20% non-CO2 farming emissions and –3.4m km² of farmland** by 2050 vs 2020
+- Diet change + ambitious policies: **–34% non-CO2 farming emissions**
+- **~15 million avoidable deaths/year** if widely adopted
 - **Richest 30% of the world's population = 70%+ of food-system environmental pressure**
-- Food systems are the **largest driver of five out of nine planetary boundaries** being breached
+- Food systems are the **largest driver of five out of nine planetary boundaries** being crossed
 
 ## Sources
 
-- Carbon Brief, 2 October 2025 — https://www.carbonbrief.org/eat-lancet-report-three-key-takeaways-on-climate-and-diet-change/
-- Rockström, J. et al. (2025). *The EAT-Lancet Commission on healthy, sustainable and just food systems*, The Lancet Commissions, DOI: 10.1016/S0140-6736(25)01201-2 — https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01201-2/abstract
-- DeSmog (2025) on the coordinated meat-industry backlash against the 2019 report — https://www.desmog.com/2025/04/10/meat-industry-red-flag-animal-agriculture-alliance-behind-attacks-flagship-climate-friendly-diet-report-eat-lancet/
+- Carbon Brief, 2 October 2025. https://www.carbonbrief.org/eat-lancet-report-three-key-takeaways-on-climate-and-diet-change/
+- The Lancet Commissions, Rockström, J. et al., 2025. *The EAT-Lancet Commission on healthy, sustainable and just food systems*, DOI: 10.1016/S0140-6736(25)01201-2. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01201-2/abstract
+- DeSmog, 2025, on the coordinated meat-industry backlash against the 2019 report. https://www.desmog.com/2025/04/10/meat-industry-red-flag-animal-agriculture-alliance-behind-attacks-flagship-climate-friendly-diet-report-eat-lancet/
