@@ -3,7 +3,7 @@ title: Ireland Transport Emissions
 category: ireland-hub
 tags: ["#ireland", "#transport", "#ev", "#fossil-fuels"]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: Ireland transport emissions, fossil fuel dependence, price shocks, Climate Change Advisory Council, CCAC, EV uptake, public transport, active travel, DART+ South West, Luas Finglas, Local Link, Transport for Ireland, TFI, car dependency, electrification, EV charging infrastructure, scrappage scheme, road emissions, rail electrification, EU comparison
 related:
   - IRELAND - Climate Change in the Irish Mind
@@ -14,7 +14,7 @@ related:
 
 ## What is it
 
-Transport is Ireland's second-largest source of greenhouse gas emissions after agriculture, making up around 20% of the state's total. Unlike some other sectors, transport emissions are still rising. According to the EPA's most recent annual report, they went up by **6.7% in 2022**, more than double the EU average rise of 2.7% that year. Without a real change of course, that makes Ireland's targets of halving carbon output by 2030 and reaching net zero by 2050 look harder and harder to meet.
+Transport is Ireland's second-largest source of greenhouse gas emissions after agriculture, making up **22.0%** of the state's total in 2025, according to the EPA's provisional figures, published in July 2026. After rising in earlier years, transport emissions decreased slightly in 2025, by 1.5%, according to the same EPA publication. Even so, Ireland's targets of halving carbon output by 2030 and reaching net zero by 2050 remain hard to meet without a sustained change of course.
 
 ## Why it matters
 
@@ -50,3 +50,4 @@ CCAC Chair Alex White put it plainly: "Fossil fuel shocks are not one-off events
 
 - Irish Times, "Decarbonisation: policy and support are key to wider business buy-in", 25 April 2024. https://www.irishtimes.com/special-reports/2024/04/25/decarbonisation-policy-and-support-are-key-to-wider-business-buy-in/
 - RTÉ News, Aaron McElroy, 17 June 2026. https://www.rte.ie/news/ireland/2026/0617/1578833-climate-change-review/
+- EPA, Ireland's Provisional Greenhouse Gas Emissions 1990-2025, July 2026. https://www.epa.ie/publications/monitoring--assessment/climate-change/air-emissions/EPA-Provisional-GHG-Emissions-1990-2025-web.pdf

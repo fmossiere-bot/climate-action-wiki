@@ -3,7 +3,7 @@ title: Ireland's Emissions and Climate Action Plans
 category: ireland-hub
 tags: ["#ireland", "#science", "#adaptation", "#agriculture", "#energy-transition"]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: greenhouse gas emissions, EPA, SEAI, per capita emissions, emissions by gas, carbon budgets, 2030 targets, 51% reduction target, Climate Action Plan CAP23, agriculture emissions, transport emissions, energy emissions, LULUCF, Dublin mountains land restoration, waste separation, cold blob, Gulf Stream, Storm Éowyn, weather extremes, Wild Atlantic Nature Scheme, blanket bogs, Climate in the Irish Mind, Ireland's Climate Change Assessment, biodiversity plan, 74 climate commitments, carbon farming framework
 related:
   - IRELAND Land use, Soil and Forestry
@@ -21,19 +21,19 @@ More detail by sector is available from [Climate Ireland](https://www.climateire
 
 ## National emissions overview
 
-Ireland's greenhouse gas figures for 1990-2022 are provisional, based on SEAI's June 2023 energy balance. They show total emissions of **60.76 million tonnes of CO2 equivalent (Mt CO2eq) in 2022**. That is a fall of 1.9% (1.19 Mt CO2eq) from 61.95 Mt CO2eq in 2021, a year in which emissions had risen 5.1% on the year before. Emissions in 2022 were 4.6% below 2019, the last year before Covid.
+Ireland's provisional greenhouse gas figures for 1990-2025 show total emissions (excluding LULUCF) of **52.65 million tonnes of CO2 equivalent (Mt CO2eq) in 2025**. According to Ireland's Provisional Greenhouse Gas Emissions 1990-2025, published in July 2026, that is 2.3% (1.22 Mt CO2eq) lower than the 53.87 Mt CO2eq recorded for 2024.
 
 Within 2022, emissions from large power plants and industry covered by the EU Emissions Trading System (ETS) fell 4.3%, and emissions under the Effort Sharing Regulation (ESR), which covers most other sectors, fell 1.1%. Including land use, land-use change and forestry (LULUCF), total national emissions fell 1.8%. Most large sectors cut their emissions. The exceptions were transport, waste and commercial services, which rose 6.0%, 4.9% and 0.2% respectively.
 
-Emissions per person fell from 12.4 tonnes CO2eq in 2021 to **11.9 tonnes CO2eq in 2022** (the ten-year average is 12.7 tonnes). That still leaves Ireland third-highest per person in the EU. The population is expected to grow from 5.12 million (2022 census) to 5.5 million by 2030, 5.9 million by 2040 and 6.2 million by 2050. So emissions per person need to fall sharply just to keep the total flat: at current levels, each extra 500,000 people would add around 6 million tonnes of CO2eq a year. Detailed breakdowns by sector and by gas are available from the [EPA's latest emissions data](https://www.epa.ie/our-services/monitoring--assessment/climate-change/ghg/latest-emissions-data/) and its [summary by gas](https://www.epa.ie/our-services/monitoring--assessment/climate-change/ghg/summary-by-gas/).
+Emissions per person fell from 10.0 tonnes CO2eq in 2024 to **9.6 tonnes CO2eq in 2025**, according to Ireland's Provisional Greenhouse Gas Emissions 1990-2025, published in July 2026. The same report projects the population to grow to 5.7 million in 2030, 6.0 million in 2040 and 6.3 million by 2050. So emissions per person need to fall sharply just to keep the total flat. Detailed breakdowns by sector and by gas are available from the [EPA's latest emissions data](https://www.epa.ie/our-services/monitoring--assessment/climate-change/ghg/latest-emissions-data/) and its [summary by gas](https://www.epa.ie/our-services/monitoring--assessment/climate-change/ghg/summary-by-gas/).
 
 ## Ireland as an EU outlier
 
-Eurostat's quarterly estimates showed Ireland's emissions in the last three months of 2022 were **12% higher** than in the same quarter of 2021, which made it stand out among the 27 EU member states. This was a single-quarter figure: over 2022 as a whole, Ireland's emissions fell 1.9%, as set out above. The rise came with economic growth, but other EU countries managed to cut emissions despite similar growth. Separating economic growth from emissions has been one of Ireland's biggest challenges. Across the EU as a whole, 938 million tonnes of CO2 and other greenhouse gases were emitted that quarter, 4% less than in the same period of 2021. By the end of 2022, Ireland's average emissions per person were roughly twice the EU average.
+Eurostat's quarterly estimates showed Ireland's emissions in the last three months of 2022 were **12% higher** than in the same quarter of 2021, which made it stand out among the 27 EU member states. This was a single-quarter figure: over 2022 as a whole, Ireland's emissions fell 1.9%. The rise came with economic growth, but other EU countries managed to cut emissions despite similar growth. Separating economic growth from emissions has been one of Ireland's biggest challenges. Across the EU as a whole, 938 million tonnes of CO2 and other greenhouse gases were emitted that quarter, 4% less than in the same period of 2021. By the end of 2022, Ireland's average emissions per person were roughly twice the EU average. More recently, the Central Statistics Office (CSO), in 2026, reported Ireland's emissions per person at 10.0 tonnes CO2eq in 2024, the second highest in the EU27 after Luxembourg at 11.1 tonnes, against an EU27 average of 6.7 tonnes.
 
 ## Closing the emissions gap (2024)
 
-In 2024 the government had to adopt a series of extra measures to close an emissions gap of **26 million tonnes of CO2 equivalent**. Closing it was needed to keep the legally binding 2026-2030 climate targets within reach, at an estimated cost of €3-8 billion. The extra measures included more rail freight linked to ports, more heat pumps in buildings, building up green hydrogen capacity, more low-carbon animal feed in farming, investment in additional electricity links with other countries, and more "long duration battery storage" to pair with wind and solar power.
+In 2024 the government had to adopt a series of extra measures to close an emissions gap of **26 million tonnes of CO2 equivalent**. Closing it was needed to keep the legally binding 2026-2030 climate targets within reach, at an estimated cost of €3-8 billion at the time. The Climate Change Advisory Council's Annual Review 2026, published on 14 October 2026, now puts the expected compliance costs to 2030 at between €8 billion and €26 billion, primarily through missing European targets. The extra measures included more rail freight linked to ports, more heat pumps in buildings, building up green hydrogen capacity, more low-carbon animal feed in farming, investment in additional electricity links with other countries, and more "long duration battery storage" to pair with wind and solar power.
 
 Carbon capture and storage in cement making and waste incineration was also due to be adopted, with the potential to cut emissions by 500,000 tonnes of CO2. Eamon Ryan, then Minister for Climate, called these measures "challenging but do-able." Other measures not yet counted in verified cuts included a national biomethane strategy and laws to allow district heating schemes. Together, these measures were expected to deliver **42%** of the emission cuts needed by 2030. Government taskforces on transport, heat and buildings, and agriculture were asked to find further measures to close the remaining gap to the 51% target.
 
@@ -45,6 +45,13 @@ EPA director general Laura Burke described it as the largest yearly fall in emis
 
 Main figures from 2023:
 
+Ireland's Provisional Greenhouse Gas Emissions 1990-2025, published in July 2026, reports the following for 2025:
+- Emissions per person fell from 10.0 tonnes CO2eq in 2024 to **9.6 tonnes CO2eq**.
+- Energy industry emissions fell for the fourth year in a row, by **7.1%** to an all-time low of 6.59 Mt CO2eq.
+- Agriculture emissions were 20.40 Mt CO2eq, a decrease of **0.2%** on 2024.
+- Transport emissions decreased slightly, by **1.5%**.
+
+In 2023:
 - Emissions per person fell from 11.4 to **10.4 tonnes CO2eq**. Total emissions were 55 million tonnes CO2eq, excluding LULUCF.
 - Despite the progress, current trends mean the legally binding carbon budgets are unlikely to be met, and the cost to Irish taxpayers of meeting EU obligations could exceed **€5 billion by 2030**.
 - Energy industry emissions fell **21.6%** to 7.8 million tonnes. This was driven by a twelvefold rise in imported electricity (9.5% of electricity supply), renewables rising to 40.7%, and less coal, oil and peat.
@@ -56,7 +63,7 @@ Including land use, emissions were 7.8% lower than in 2018, still a long way fro
 
 ## On course to miss the 2030 target
 
-By mid-2023, the EPA's outlook had become more pessimistic. Ireland was "on course to miss its 2030 climate targets by a large margin" unless every sector, including agriculture, electricity and transport, quickly delivered and kept up further cuts. Against the goal of a **51% reduction**, the EPA's projection at the time put Ireland on course for only around 29%, with strong economic growth continuing to work against the targets.
+Ireland's Greenhouse Gas Emissions Projections 2025-2030, published by the EPA in May 2026, say that full implementation of a wide range of policies and plans across all sectors is required to achieve a projected reduction of **25%** by 2030 compared with 2018, under the With Additional Measures scenario. The target is a 51% reduction, so a large gap remains, with strong economic growth continuing to work against the targets.
 
 The projections for each sector at that point were:
 
@@ -77,7 +84,7 @@ A progress report from the Department of Climate and the Environment found that 
 
 Completed items include the second Circular Economy Strategy, 200km of cycling infrastructure, and a new national strategy for managing transport demand. Delays to the remaining **64 measures** are put down to limited capacity, consultation requirements, funding and procurement problems, and the need to line up with other national or EU policy. The report itself warns that these delays "threaten Ireland's ability to meet" its binding emissions targets.
 
-Neither of the **two agriculture commitments** in the 2023-2025 plans has been delivered. One was a framework to reduce feed costs for organic livestock. The other was a draft carbon farming framework, now over two years late. This matters because agriculture was Ireland's highest-emitting sector in 2025, at 36% of national emissions, with methane (mostly from cattle, sheep and manure) making up 70% of that sector's total.
+Neither of the **two agriculture commitments** in the 2023-2025 plans has been delivered. One was a framework to reduce feed costs for organic livestock. The other was a draft carbon farming framework, now over two years late. This matters because agriculture was Ireland's highest-emitting sector in 2025, at 38.7% of national emissions (excluding LULUCF) according to Ireland's Provisional Greenhouse Gas Emissions 1990-2025, published in July 2026, with methane (mostly from cattle, sheep and manure) making up 70% of that sector's total.
 
 Other measures not yet delivered include shared mobility hubs in four cities and towns, about 225 electric car charging points at sports clubs, a roadmap to phase out fossil fuel heating in buildings, and an OPW retrofit programme for historic buildings.
 
@@ -94,11 +101,11 @@ Under a new initiative, **2,000 hectares** of land in the Dublin mountains are t
 According to an EPA report, around two-thirds of what goes into general (black) waste bins should have gone into recycling or food waste bins instead. The EPA's National Municipal Waste Characterisation Project, which runs every four years, found:
 
 - **64%** of food waste still goes in black bins
-- Only **69%** of households have a food waste (brown) bin
+- Only **66%** of households had access to a food waste (brown) bin in 2022, a decrease of 3 per cent from 2021, according to the Environmental Protection Agency (EPA), published on 16 December 2024
 - **65%** of household plastic goes in black bins instead of recycling bins
 - **75%** of commercial plastic waste goes in general bins
 
-Other EPA data from the same period: **1.2 million tonnes** of packaging waste were produced in 2021. **84%** of glass and 73% of cardboard were recycled, but only 28% of plastic, against a target of 55%. The rest of the plastic was burned, releasing around 2.7kg of CO2 for every kilogram. For a fuller picture of Ireland's waste system, see [Ireland's Waste Management, Recycling and Plastic Problem](../ireland-hub/IRELAND%20Waste%20Management%2C%20Recycling%20and%20Plastic.md).
+Other EPA data from the same period: **1.2 million tonnes** of packaging waste were produced in 2021. **84%** of glass and 73% of cardboard were recycled, but only 28% of plastic, against a target of 55%. The rest of the plastic was burned, releasing around 2.7kg of CO2 for every kilogram. More recent EPA data, published in 2025, show that 75.6% of paper and cardboard packaging was recycled in 2024. For a fuller picture of Ireland's waste system, see [Ireland's Waste Management, Recycling and Plastic Problem](../ireland-hub/IRELAND%20Waste%20Management%2C%20Recycling%20and%20Plastic.md).
 
 ## Climate impacts already being felt in Ireland
 
@@ -108,7 +115,7 @@ Other EPA data from the same period: **1.2 million tonnes** of packaging waste w
 
 ## Agriculture: Ireland's highest-emitting sector
 
-Agriculture produced almost **40% of Ireland's emissions in 2020**, according to CSO data. That is far above the global average for agriculture of roughly 25%. Globally, agriculture is the third-largest emitting sector after industry and transport, and 80% of its emissions come from livestock (see [Carbon Emission FACTS](../concepts/key-ideas/Carbon%20Emission%20FACTS.md)). Irish agriculture's emissions rose 11% over the previous decade, but the value of what farms produced rose far more, by 71%, which shows emissions and economic output starting to come apart.
+Agriculture produced almost **40% of Ireland's emissions in 2020**, according to CSO data. More recently, Ireland's Provisional Greenhouse Gas Emissions 1990-2025, published in July 2026, puts agriculture at 38.7% of the total (excluding LULUCF) in 2025. That is far above the global average for agriculture of roughly 25%. Globally, agriculture is the third-largest emitting sector after industry and transport, and 80% of its emissions come from livestock (see [Carbon Emission FACTS](../concepts/key-ideas/Carbon%20Emission%20FACTS.md)). Irish agriculture's emissions rose 11% over the previous decade, but the value of what farms produced rose far more, by 71%, which shows emissions and economic output starting to come apart.
 
 On a more positive note, household emissions fell **21%** over the same decade, to 15 million tonnes. Of household emissions, 46% come from heating, 32% from private driving and 20% from electricity. The main reason for the fall was a move away from oil heating, common in the early 2000s, towards electric heating, which was used in 49% of new homes built between 2015 and 2020.
 
@@ -122,7 +129,7 @@ Findings from the ICCA include a recent flood that was found to be twice as like
 
 Nearly every sector is cutting emissions except agriculture, which is still Ireland's largest emitting sector. That is unusual within the EU, given how much support farming receives. Proposed solutions include planting more forests (from around 8,000 hectares a year towards a target of 35,000 hectares), aiming for a climate-neutral farming system by 2050, moving beyond livestock, and more research and innovation, including new feed additives and fertilisers that still need to move from trials into everyday use.
 
-On energy, roughly 50% of Ireland's electricity comes from renewables, but transport, heat and data centres are still big unsolved problems, and around **86%** of Ireland's overall energy system still depends on fossil fuels despite the progress made. To reach the 51% cut by 2030, Ireland needs to cut emissions by around 12% a year on average. Actual progress has been closer to 2%. Progress is held back by the economy's continued reliance on fossil fuels, a link that needs to be broken in favour of clean, renewable energy. The public is also often unsure which personal actions matter most. Flying has a very large impact, while the impact of recycling is often overestimated compared with steps like changing diet. This points to a need for clearer public information on where individual action counts most.
+On energy, the renewable share of Ireland's electricity generation rose from 39.8% in 2024 to 40.6% in 2025, according to Ireland's Provisional Greenhouse Gas Emissions 1990-2025, published in July 2026. Transport, heat and data centres are still big unsolved problems, and around **86%** of Ireland's overall energy system still depends on fossil fuels despite the progress made. To reach the 51% cut by 2030, Ireland needs to cut emissions by around 12% a year on average. Actual progress has been closer to 2%. Progress is held back by the economy's continued reliance on fossil fuels, a link that needs to be broken in favour of clean, renewable energy. The public is also often unsure which personal actions matter most. Flying has a very large impact, while the impact of recycling is often overestimated compared with steps like changing diet. This points to a need for clearer public information on where individual action counts most.
 
 Source: 180 Degrees podcast (EPA). https://podcasts.apple.com/ie/podcast/180-degrees/id1480205675?i=1000652125625
 
@@ -162,3 +169,9 @@ Several other official reports and plans feed into Ireland's climate picture, wi
 - Agriland, 2023. Estimated GHG emissions of EU economy down by 4% (Eurostat Q4 2022 estimates). https://www.agriland.ie/farming-news/estimated-ghg-emissions-of-eu-economy-down-by-4/
 - Agriland, January 2026. 2025 was second warmest year on record for Ireland, Met Éireann. https://www.agriland.ie/farming-news/2025-was-second-warmest-year-on-record-for-ireland-met-eireann/
 - University of Reading, Weather and Climate at Reading blog, 2022. Has the Atlantic Ocean circulation been in long-term decline? https://blogs.reading.ac.uk/weather-and-climate-at-reading/2022/has-the-atlantic-ocean-circulation-been-in-long-term-decline
+- EPA, Ireland's Provisional Greenhouse Gas Emissions 1990-2025, July 2026. https://www.epa.ie/publications/monitoring--assessment/climate-change/air-emissions/EPA-Provisional-GHG-Emissions-1990-2025-web.pdf
+- CSO, Environment Measuring Ireland's Progress 2026, 2026. https://www.cso.ie/en/releasesandpublications/ep/p-mip/measuringirelandsprogress2026/environment/
+- Climate Change Advisory Council, Annual Review 2026, Electricity, 14 October 2026. https://www.climatecouncil.ie/councilpublications/annualreviewandreport/CCAC-AR2026-2-electricity-final.pdf
+- EPA, Ireland's Greenhouse Gas Emissions Projections 2025-2030, May 2026. https://www.epa.ie/publications/monitoring--assessment/climate-change/air-emissions/EPA-GHG-Projections-2025-2030-Web.pdf
+- EPA, Ireland’s recycling rate has not improved in a decade: it is time to move away from a wasteful linear economy, 16 December 2024. https://www.epa.ie/news-releases/news-releases-2024/irelands-recycling-rate-has-not-improved-in-a-decade-it-is-time-to-move-away-from-a-wasteful-linear-economy-.php
+- EPA, Packaging Waste Statistics for Ireland, 2025. https://www.epa.ie/our-services/monitoring--assessment/waste/national-waste-statistics/packaging/

@@ -3,7 +3,7 @@ title: Ireland Wind Energy
 category: ireland-hub
 tags: ["#ireland", "#renewables", "#energy-transition", "#energy"]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: Ireland wind energy, offshore wind, floating wind, renewable energy targets 2030 2050, electricity demand growth, EDF, Simply Blue, Emerald Floating Wind, Western Star, energy storage, batteries, renewable capacity, electricity grid, decarbonisation, energy security
 related:
   - IRELAND Energy and Biomass
@@ -17,6 +17,8 @@ related:
 Wind energy is at the heart of Ireland's plan to meet its 2030 and 2050 emissions goals, with bioenergy playing a supporting role in replacing natural gas (see [Ireland Energy and Biomass](IRELAND%20Energy%20and%20Biomass.md)). By 2030, Ireland aims to cut emissions from the energy industry by **60%** and get 80% of its electricity from renewables. Today the country has 4.5GW of renewable capacity. By 2050 it will need around 25GW. Electricity demand is expected to grow three to four times over, from 29TWh today to between 84 and 122TWh. Over the same period, emissions from Ireland's energy system, currently around 60 million tonnes, have to fall close to zero, even though the system is still dominated by fossil fuels.
 
 ## Why it matters
+
+According to Energy in Ireland 2025, published by SEAI in December 2025, Ireland's renewable electricity share (RES-E) was 41.3% in 2024, up from 40.4% in 2023.
 
 In 2019, wind supplied around 10TWh of Ireland's electricity. Renewables made up around 12% of total energy use and 37% of electricity. Closing the gap between today and 2050 will take a large, fast build-out of wind, both onshore and offshore, along with the energy storage that a mostly wind-powered grid needs to stay reliable.
 
@@ -40,3 +42,4 @@ Growing wind to the level Ireland's targets need will also mean building enough 
 - Wind Energy Ireland, Wind Energy Roadmap 2011-2050
 - Arklow Bank Wind Park 1 (25.2MW) as Ireland's only operational offshore wind farm: An Coimisiún Pleanála, Arklow Bank Wind Park 2 EIAR, revised March 2026. https://www.pleanala.ie/publicaccess/FurtherInformation/319864/EIAR%20Vol%20II%20(Annotated)/abwp2_0_preface_revised_march_2026_annotated.pdf
 - 80% renewable electricity target for 2030: Government of Ireland, Climate Action Plan 2024. https://www.gov.ie/en/publication/79659-climate-action-plan-2024/
+- SEAI, Energy in Ireland 2025, December 2025. https://www.seai.ie/sites/default/files/publications/Energy-in-Ireland-2025.pdf

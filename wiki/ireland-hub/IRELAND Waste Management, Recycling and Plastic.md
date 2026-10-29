@@ -3,7 +3,7 @@ title: Ireland's Waste Management, Recycling and Plastic Problem
 category: ireland-hub
 tags: ["#ireland", "#circularity", "#plastic", "#recycle"]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: waste management, recycling, brown bin, composting, anaerobic digestion, Repak, material recovery facilities, Bord na Móna, Drehid landfill, contamination, soft plastics, packaging waste, EPA waste characterisation, black bin, organic waste, EU Green Deal targets, municipal waste, mywaste.ie
 related:
   - FACTS about Plastic
@@ -64,17 +64,19 @@ At present, around **70%** of the material Bord na Móna Recycling collects is t
 The EPA's National Municipal Waste Characterisation Project, carried out every four years, found that **over two-thirds** of what goes into general (black) bins should have gone into recycling or organic waste bins instead. The EU Waste Directive requires every household to have a separate organic waste collection, and Irish rules have required all commercial premises to have one since July of the reporting year. Ireland is still falling well short on separation:
 
 - 64% of food waste still goes into black bins
-- Only around two-thirds of households (69%) have an organic (brown) bin
+- Only around two-thirds of households (66%, according to the Environmental Protection Agency (EPA), published on 16 December 2024, for 2022) have access to an organic (brown) bin
 - 65% of household plastic goes into black bins instead of recycling bins
 - 75% of commercial plastic waste goes into general bins rather than recycling
 
-Other EPA data from the same period shows that **1.2 million tonnes** of packaging waste were produced in 2021. Of that, 84% of glass and 73% of cardboard were recycled, but only 28% of plastic, against a target of 55% plastic recycling. The rest of the plastic was burned, releasing around 2.7 kg of CO2 for every kilogram. A lot of plastic never reaches recycling at all, because it is mixed with other waste before it gets the chance.
+The EPA's figures, published in 2025, show that 75.6% of paper and cardboard packaging was recycled in 2024 (379,580 tonnes recycled out of 501,783 tonnes generated).
+
+In 2021, other EPA data from the same period shows that **1.2 million tonnes** of packaging waste were produced in 2021. Of that, 84% of glass and 73% of cardboard were recycled, but only 28% of plastic, against a target of 55% plastic recycling. The rest of the plastic was burned, releasing around 2.7 kg of CO2 for every kilogram. A lot of plastic never reaches recycling at all, because it is mixed with other waste before it gets the chance.
 
 ## Recycling Performance vs EU Targets (2022 Data)
 
-Ireland's recycling progress has stalled against the EU Green Deal targets, which require **55% of municipal waste** and 65% of packaging waste to be recycled by 2025. According to the EPA, Ireland currently recycles 41% of municipal waste and 60% of packaging waste, leaving it well short on the municipal side. Ireland is not alone: the European Environment Agency estimates that 18 of the 27 EU member states are likely to miss one or both targets.
+Ireland's recycling progress has stalled against the EU Green Deal targets, which require **55% of municipal waste** and 65% of packaging waste to be recycled by 2025. According to the Climate Change Advisory Council's Annual Review 2026, published on 14 October 2026, Ireland recycled 43% of municipal waste and 60% of packaging waste in 2024, leaving it well short on both counts. Ireland is not alone: the European Environment Agency estimates that 18 of the 27 EU member states are likely to miss one or both targets.
 
-Ireland produced **15.7 million tonnes of waste in 2022**, around 8kg per person per day. That was 1.9 million tonnes less than the year before. Most of the fall came from less construction and demolition waste, which probably reflects the ups and downs of the economy rather than a real cut in the waste we produce.
+According to the Climate Change Advisory Council's Annual Review 2026, published on 14 October 2026, Ireland produced **16.7 million tonnes of waste in 2024**, around 8.5 kg per person per day. Much of the year-to-year change in total waste has come from construction and demolition waste, which probably reflects the ups and downs of the economy rather than a real cut in the waste we produce.
 
 ## Sources
 
@@ -85,3 +87,6 @@ Ireland produced **15.7 million tonnes of waste in 2022**, around 8kg per person
 - Image.ie, "10 things learned from visiting a recycling centre". https://www.image.ie/editorial/recycling-centre-ireland-142726
 - RTÉ, September 2023. EPA waste characterisation report. https://www.rte.ie/news/ireland/2023/0922/1406665-epa-waste-report
 - Irish Times, December 2024. Ireland's waste recycling performance has stalled. https://www.irishtimes.com/opinion/editorials/2024/12/19/the-irish-times-view-on-irelands-waste-recycling-performance-progress-has-stalled/
+- EPA, Ireland’s recycling rate has not improved in a decade: it is time to move away from a wasteful linear economy, 16 December 2024. https://www.epa.ie/news-releases/news-releases-2024/irelands-recycling-rate-has-not-improved-in-a-decade-it-is-time-to-move-away-from-a-wasteful-linear-economy-.php
+- EPA, Packaging Waste Statistics for Ireland, 2025. https://www.epa.ie/our-services/monitoring--assessment/waste/national-waste-statistics/packaging/
+- Climate Change Advisory Council, Annual Review 2026, Industry and Waste, 14 October 2026. https://www.climatecouncil.ie/councilpublications/annualreviewandreport/AR26 Industry and Waste final.pdf

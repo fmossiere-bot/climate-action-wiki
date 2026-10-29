@@ -2431,3 +2431,11 @@ All from `raw/myths/` — book-summary notes turned into Myth-template pages. No
 - Every rewritten page checked against the previous commit: no em-dashes in body, title or frontmatter; banned phrases removed; every number, URL and wiki link kept; Myth contract headings intact.
 - Not changed: `wiki/_Archive/` and the history in this log.
 - Fact-check pass (approved as a one-off exception to the keep-every-number rule): 162 factual problems found in the original pages were fixed. Figures that differed between pages now use one consistent approximate figure; errors and outdated claims were corrected against cited sources; arithmetic was fixed. 10 items could not be confirmed and were left unchanged. Full list in `docs/style-sweep-review-2026-10-28.md`.
+
+## [2026-10-29] maintenance | Official Irish figures refresh (first pass)
+
+- Source: the official-figures list built in the Environmentle companion lab (`_companion-lab/figures/`): current values from the EPA, SEAI, CSO, Climate Change Advisory Council and other Irish official sources, each with its document and page or web page, approved by Fabien on the review page.
+- 13 pages updated (41 paragraphs): ireland-hub (Emissions and Climate Plans, Energy Systems, Carbon Footprint, Land use, Transport, Waste, Wind Energy, Climate TRACE), Wetlands, two food waste pages, the methane page and the myth "Ireland is too small".
+- Rule followed: paragraphs about the current state now give the latest official figure with its source and date; paragraphs about a past year were kept and dated, with the new figure added before them. Numbers were only replaced by official figures for the same thing; close measures were added alongside, never instead.
+- Not changed: pages in `wiki/sources/` (they summarise one article at the time), places where the wiki's figure is newer than the official one, and sentences the drafts could not match. The list is in `_companion-lab/figures/wiki-edits-preview.md` for hand edits.
+- Sources lines added at the bottom of each page and in the frontmatter `sources:` list. No em dashes; `updated:` set to 2026-10-29.

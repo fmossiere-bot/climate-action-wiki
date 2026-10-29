@@ -10,7 +10,7 @@ tags:
   - Korea
   - nature-based-solutions
 created: 2024-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: |-
   Diverts harmful methane emissions from landfills, Stores carbon in soil, Reduces the Need for Fertilizers, Improves Soil Health and Resilience, Finding your Spot and Sizing it Up, Compost Bin Options, Compost Supplies and Setup , Watch the Magic Happen, Filling Your Compost, Time to Compost, Composting Top Tips & Tricks, Enhance your own garden, Share it with others. 
   Compost is also an important solution in general for climate action. In Korea, 100% food waste is sent to compost
@@ -28,7 +28,6 @@ A compost pile is a tiny ecosystem, and the main workers are microorganisms such
 - Water: to keep things moist but not soggy.
 - Air: turning your pile helps the microbes breathe.
 
-
 Composting has many advantages:
 - It reduces the waste sent to landfill or incinerators, both of which generate greenhouse gas emissions.
 - Less landfill waste can mean less air pollution and fewer related breathing illnesses, such as chronic obstructive pulmonary disease, asthma and pneumonia.
@@ -37,7 +36,6 @@ Composting has many advantages:
 
 Composting rates are already quite high in many developed regions, such as the EU (57%). 
 This is mostly thanks to community composting and better waste separation by industry, companies and individuals. 
-
 
 ### Diverts harmful methane emissions from landfills
 
@@ -49,17 +47,13 @@ Composting, by contrast, creates an oxygen-rich environment. The waste breaks do
 
 When finished compost is used as soil to grow plants and vegetables, it **acts as a carbon sink, storing carbon in the soil for the long term**. This keeps that carbon out of the atmosphere and slows the rate of climate change.
 
-  
 ### Reduces the Need for Fertilisers
 
 Making chemical fertilisers uses a lot of energy and releases nitrous oxide, a gas over 300x more potent than carbon dioxide. Using compost as a natural alternative reduces the need for these fertilisers, and plants generally do better with natural fertiliser anyway.
 
-  
-
 ### Improves Soil Health and Resilience
 
 Soil enriched with compost holds moisture better, which helps during droughts (and droughts are becoming more frequent with climate change). That means less need for heavy watering, which saves water. 
-
 
 ---
 # A real climate solution
@@ -70,13 +64,11 @@ Composting ranges from garden bins to industrial-scale sites. Either way, it tur
  **Impact**
 > In 2015, an estimated 38 percent of food waste was composted in the US and 57 percent in the EU. If all low-income countries reached the US rate and all middle-income countries reached the EU rate, composting could avoid landfill methane emissions equivalent to 1.13–1.40 gigatons of carbon dioxide by 2050. That total does not include the extra gains from putting compost on soil. Compost facilities cost less to build than to run, which shows in the financial results. For these reasons, composting is a real solution.
 
-
 **Co-benefits**
 > - Composting reduces the waste sent to landfill or incinerators, both of which generate greenhouse gas emissions.
 > - Less landfill waste can mean less air pollution and fewer related breathing illnesses, such as chronic obstructive pulmonary disease, asthma and pneumonia.
 > - Used in gardens or on farms, compost reduces the need for fertilisers and pesticides, improves soil health and so increases crop yields.
 > - Compost holds water, prevents erosion, reduces runoff, helps plants establish, and improves water quality downstream by trapping pollutants such as heavy metals, nitrogen, phosphorus, oil, grease, fuels, herbicides and pesticides.
-
 
 ---
 ## Some countries are well ahead
@@ -130,7 +122,7 @@ _Source: Écologie 360, n°14. Original reporting by Sandra Moisson._
 Ireland still has some way to go.
 It is disappointing that so much food waste is still not separated and recycled: 
  - 64% of food waste still goes in black bins
- - only 69% of households have organic bins
+ - only 66% of households had access to a brown bin for food and organic waste in 2022, according to the Environmental Protection Agency (EPA) Ireland, in figures published on 16 December 2024. This is a decrease of 3 per cent from 2021.
 
 > Starting with the brown bin, which, if you are disposing of your rubbish correctly, should contain only cooked and raw food, light garden waste and compostable packaging. "The contents of the brown bins go for anerobic digestion or industrial composting and the waste management companies pay for it to be taken," explains Crinion. There are seven private industrial composting facilities in Ireland, licensed by local authorities or the EPA and the Department of Agriculture. The compost they make is sold mainly as a peat replacement for landscaping, farming and horticulture.
 
@@ -162,7 +154,6 @@ The cheapest approach is to build a pile directly on the ground or in a simple D
 
 The golden rule is a good mix of "browns" and "greens". Browns include leaves, shredded paper and cardboard. Greens are your vegetable scraps, fruit cores, coffee grounds and so on. In towns and cities it is best to avoid meat, dairy, bones and oily foods: they can slow down decomposition and cause bad smells. Some local authorities also ban them, because they can spread disease or attract pests. 
 
-
 ### Time to Compost
 
 A home compost pile takes several months to a year to turn into usable "black gold". Turning the pile regularly speeds things up.
@@ -179,7 +170,6 @@ A home compost pile takes several months to a year to turn into usable "black go
 - Welcome the worms: they are not essential, but they speed up decomposition, let air into the pile and produce nutrient-rich castings.
 - Be resourceful: look for creative ways to collect browns. Shredded paper, cardboard egg boxes and leaves from your garden all work well.
 
-  
 ---
 # What to do with your compost
 
@@ -205,7 +195,6 @@ Finally, you can share your "black gold" with gardening friends or neighbours. I
 - "The Rodale Book of Composting" has been the standard guide to composting for decades. https://www.amazon.co.uk/Rodale-Book-Composting-Grace-Gershuny/dp/0878579915 
 - Join 156k other people in the composting subreddit: [https://www.reddit.com/r/composting/](https://www.reddit.com/r/composting/)
 
-  
 ---
 # Sources
 
@@ -213,3 +202,7 @@ Finally, you can share your "black gold" with gardening friends or neighbours. I
 2. UNEP, What's the deal with methane. https://www.unep.org/news-and-stories/video/whats-deal-methane#:~:text=It%20is%20responsible%20for%20more,years%20after%20it%20is%20released.
 3. Stanford News, Laughing gas is a growing climate problem, 7 October 2020. https://news.stanford.edu/2020/10/07/laughing-gas-growing-climate-problem
 4. Tous au compost. https://tousaucompost.fr/
+
+## Sources
+
+- EPA, Ireland’s recycling rate has not improved in a decade: it is time to move away from a wasteful linear economy, 16 December 2024. https://www.epa.ie/news-releases/news-releases-2024/irelands-recycling-rate-has-not-improved-in-a-decade-it-is-time-to-move-away-from-a-wasteful-linear-economy-.php

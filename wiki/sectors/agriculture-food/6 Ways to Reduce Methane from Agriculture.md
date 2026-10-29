@@ -3,7 +3,7 @@ title: 6 Ways to Reduce Methane from Agriculture
 category: sectors
 tags: ["#agriculture", "#methane", "#food", "#ireland"]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: enteric fermentation, ruminant burping, manure management, rice cultivation methane, crop residue burning, methane-inhibiting feed additives, 3-nitroxypropanol, 3-NOP, red seaweed, Asparagopsis, low-methane cattle breeding, anti-methane vaccines, biogas digesters, digestate, Alternate Wetting and Drying, SUSIBA 2 rice variety, GasAbate, Glasport Bio, Ireland slurry emissions, Teagasc, EPA agricultural emissions, co-digestion
 related:
   - Rice farming, a major Methane emitter, but with clear mitigating solutions
@@ -55,7 +55,7 @@ A simpler and cheaper option is **Alternate Wetting and Drying (AWD)**. Instead 
 ## Ireland case study: additives and digesters for slurry
 <!-- tag: ireland -->
 
-**Glasport Bio**, a company based in Galway, has developed GasAbate, an additive that can cut greenhouse gas emissions from manure by more than 80% without harming the animals, as [reported by RTE in March 2025](https://www.rte.ie/news/environment/2025/0311/1501355-farms-environment/). The liquid is added to slurry tanks, where it raises the oxygen level and stops the anaerobic microbes that produce methane, nitrous oxide, hydrogen sulphide and ammonia. According to McCarthy of Glasport Bio, the costs compare well with other ways of cutting emissions. The Climate Change Advisory Council estimated that spending €3 billion to get 700,000 people into electric cars would cut around 4 million tonnes of emissions, roughly **€750 per tonne** of carbon. Rolling GasAbate out across all Irish farms would cost an estimated €75 per tonne. About 11% of Irish agricultural emissions come directly from manure. Treating all cattle and pig slurry with GasAbate could cut Ireland's agricultural emissions by 1.8 million tonnes a year, roughly 30% of the total cut Ireland needs from farming.
+**Glasport Bio**, a company based in Galway, has developed GasAbate, an additive that can cut greenhouse gas emissions from manure by more than 80% without harming the animals, as [reported by RTE in March 2025](https://www.rte.ie/news/environment/2025/0311/1501355-farms-environment/). The liquid is added to slurry tanks, where it raises the oxygen level and stops the anaerobic microbes that produce methane, nitrous oxide, hydrogen sulphide and ammonia. According to McCarthy of Glasport Bio, the costs compare well with other ways of cutting emissions. The Climate Change Advisory Council estimated that spending €3 billion to get 700,000 people into electric cars would cut around 4 million tonnes of emissions, roughly **€750 per tonne** of carbon. Rolling GasAbate out across all Irish farms would cost an estimated €75 per tonne. According to the Environmental Protection Agency (EPA), manure management accounted for 19.1% of Irish agricultural greenhouse gas emissions in 2024. Treating all cattle and pig slurry with GasAbate could cut Ireland's agricultural emissions by 1.8 million tonnes a year, roughly 30% of the total cut Ireland needs from farming.
 
 Anaerobic digesters offer a second route. In the US, digesters that turn manure into biogas do reduce methane from livestock, but as [New Scientist has reported](https://www.newscientist.com/article/2522081-are-manure-digesters-a-real-solution-to-dairy-farm-emissions/), the financial incentives around them have also encouraged factory farms to grow bigger. Manure that has been through a digester [emits 91% less methane](https://link.springer.com/article/10.1007/s40572-025-00512-8) while it is stored. The process can also replace fossil gas or diesel, produce digestate to use as fertiliser, and give farms an extra source of income.
 
@@ -76,3 +76,4 @@ In Ireland, the Environmental Protection Agency's 2023 breakdown shows that ente
 - RTE, "The breakthrough technology reducing greenhouse gas emissions," 11 March 2025. https://www.rte.ie/news/environment/2025/0311/1501355-farms-environment/
 - New Scientist, "Are manure digesters a real solution to dairy farm emissions?". https://www.newscientist.com/article/2522081-are-manure-digesters-a-real-solution-to-dairy-farm-emissions/
 - Springer, manure digester methane reduction study. https://link.springer.com/article/10.1007/s40572-025-00512-8
+- EPA, Agriculture, accessed 29 October 2026. https://www.epa.ie/our-services/monitoring--assessment/climate-change/ghg/agriculture/

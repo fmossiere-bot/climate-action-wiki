@@ -3,7 +3,7 @@ title: Ireland Real-Time Emission Data with Climate Trace
 category: ireland-hub
 tags: ["#ireland", "#carbon", "#agriculture", "#transport"]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: Climate TRACE, Al Gore, real-time emissions monitoring, satellite data, Ireland emissions breakdown, agriculture emissions, transport emissions, emissions underestimation, land use and forestry exclusion, greenhouse gas inventory
 related:
   - The Al-Gore CLIMATE TRACE is live
@@ -18,7 +18,7 @@ related:
 
 ## What Climate TRACE Shows for Ireland
 
-Agriculture is still Ireland's largest source of emissions, at **over 40%** of the total. That figure leaves out land use and forestry.
+Agriculture is still Ireland's largest source of emissions, at **38.7%** of the total for 2025, according to the EPA's provisional greenhouse gas emissions figures for 1990-2025, published in July 2026. That figure leaves out land use and forestry.
 
 Ireland's emissions may also have been underestimated in the official inventories. Climate TRACE puts them at around 78 million tonnes, against the roughly 60 million tonnes reported for 2021 under the older accounting.
 
@@ -32,3 +32,4 @@ Traditional emissions accounting has mostly relied on figures reported by the po
 
 - Climate TRACE. https://climatetrace.org
 - Forbes / We Don't Have Time, "Al Gore's real-time climate data just went live, here's why it matters", 21 April 2025. https://www.forbes.com/sites/we-dont-have-time/2025/04/21/al-gores-real-time-climate-data-just-went-live-heres-why-it-matters/
+- EPA, Ireland's Provisional Greenhouse Gas Emissions 1990-2025, July 2026. https://www.epa.ie/publications/monitoring--assessment/climate-change/air-emissions/EPA-Provisional-GHG-Emissions-1990-2025-web.pdf

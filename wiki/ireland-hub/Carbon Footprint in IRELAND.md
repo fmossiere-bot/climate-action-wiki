@@ -3,7 +3,7 @@ title: "Average Carbon Footprint in Ireland"
 category: ireland-hub
 tags: ["#carbon", "#ireland", "#agriculture", "#transport"]
 created: 2025-11-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: Ireland carbon footprint, production-based emissions, consumption-based emissions, EPA, ESRI, SEAI, CSO, agriculture methane, transport emissions, housing and energy, food waste, per capita emissions, EU comparison, dispersed housing, oil boilers, embodied carbon, imported emissions
 related:
   - About Carbon Accounting and GHG
@@ -19,18 +19,18 @@ The average carbon footprint in Ireland depends on how you measure it. You can c
 
 | Metric | Estimate (per person) | What it measures |
 |---|---|---|
-| Production-based | 10.4 tonnes CO2e | Emissions released within Irish borders (e.g. farming, power plants, driving) |
-| Consumption-based | ~11.5-12.7 tonnes CO2e | Emissions caused by Irish lifestyles, including imported goods (cars, electronics) minus exports |
+| Production-based | 9.6 tonnes CO2e (2025, EPA provisional figures, July 2026) | Emissions released within Irish borders (e.g. farming, power plants, driving) |
+| Consumption-based | 14.0 tonnes CO2e (2023, Eurostat, February 2026) | Emissions caused by Irish lifestyles, including imported goods (cars, electronics) minus exports |
 
 ## Production-based footprint (the official number)
 
-The current figure is **10.4 tonnes CO2 equivalent (CO2e)** per person, based on 2023 provisional data from the EPA (July 2024). This is the standard figure reported to the EU and UN. It takes all the greenhouse gases emitted within Ireland and divides them by the population. Ireland has the highest greenhouse gas emissions per person in the EU, often around 50% above the EU average.
+The current figure is **9.6 tonnes CO2 equivalent (CO2e)** per person, based on 2025 provisional data in the EPA's Provisional Greenhouse Gas Emissions 1990-2025 report (July 2026). The EPA reports that this is down from 10.0 tonnes per person in 2024. This is the standard figure reported to the EU and UN. It takes all the greenhouse gases emitted within Ireland and divides them by the population. Ireland has the highest greenhouse gas emissions per person in the EU, often around 50% above the EU average.
 
 The main drivers are:
 
 - **Agriculture (~38%)**: unlike in most wealthy countries, a large share of Ireland's production footprint is methane from cattle and nitrous oxide from fertiliser
-- **Transport (~21%)**: heavy reliance on private cars and a spread-out population
-- **Energy (~14%)**: renewables are growing, but Ireland still relies on fossil fuels for electricity and heating
+- **Transport (~21%)**: heavy reliance on private cars and a spread-out population. The EPA's provisional figures, published in July 2026, put transport at 22.0% of the 2025 total
+- **Energy (~14%)**: renewables are growing, but Ireland still relies on fossil fuels for electricity and heating. The EPA's provisional figures, published in July 2026, put energy industries at 12.5% of the 2025 total
 
 The figure fell from 11.4 tonnes in 2022, mostly because Ireland imported more electricity and used less lime and fertiliser.
 
@@ -46,7 +46,7 @@ You might expect Ireland's consumption footprint to be lower, since the country 
 
 ### Where your ~12.5 tonnes comes from
 
-Switching from production to consumption changes the shape of the footprint. The large agriculture slice shrinks, because most beef is exported, while transport and housing grow. Based on data from SEAI, the EPA and the ESRI, the average Irish person's consumption footprint of roughly 12.5 tonnes breaks down like this:
+Switching from production to consumption changes the shape of the footprint. The large agriculture slice shrinks, because most beef is exported, while transport and housing grow. Eurostat's figures, published in February 2026, put the average Irish person's consumption footprint at 14.0 tonnes for 2023. Based on data from SEAI, the EPA and the ESRI, a footprint of roughly 12.5 tonnes breaks down like this:
 
 | Category | Share of footprint | Estimated impact | Why is it so high? |
 |---|---|---|---|
@@ -57,7 +57,7 @@ Switching from production to consumption changes the shape of the footprint. The
 
 ### Transport: the biggest personal contributor
 
-In production statistics, transport is around 21% of emissions. In a person's lifestyle footprint, it is closer to **30%**. The Central Statistics Office (CSO) says that 36% of direct household emissions come purely from burning fuel in cars. This category also includes flying, which is not fully counted in national production totals but makes up a large part of a person's consumption footprint, along with the emissions from making the vehicle itself. Because Ireland's population is so spread out and rural public transport is comparatively poor, people drive longer distances than the EU average.
+In production statistics, transport is around 21% of emissions. In a person's lifestyle footprint, it is closer to **30%**. The Central Statistics Office (CSO) says that 36% of direct household emissions come purely from burning fuel in cars. For 2023, the CSO reports that 41% of household greenhouse gas emissions were from fossil fuels used in private vehicles. This category also includes flying, which is not fully counted in national production totals but makes up a large part of a person's consumption footprint, along with the emissions from making the vehicle itself. Because Ireland's population is so spread out and rural public transport is comparatively poor, people drive longer distances than the EU average.
 
 ### Housing and energy: the "leaky sieve" problem
 
@@ -84,7 +84,7 @@ A revised view treats waste as a category of its own. It removes the carbon from
 | 3. Consumption | 2.3 t | 18% | Stuff you keep: clothing, electronics, furniture and services (insurance, banking) that are actually used, not discarded |
 | 4. Food | 2.4 t | 19% | Calories eaten: the carbon cost of meat, dairy and plant food actually eaten by the household |
 | 5. Waste | 1.1 t | 9% | Waste: wasted food, fast fashion thrown out quickly, packaging, and the energy used to collect and treat household bins |
-| **Total** | **~12.7 t** | **100%** | Average Irish resident |
+| **Total** | **14.0 t (2023, Eurostat, February 2026)** | **100%** | Average Irish resident |
 
 The **1.1 tonnes** of waste breaks down further. Roughly 65% is food waste (growing, shipping and chilling food that ends up in the bin), 20% is material waste (textiles, plastics and tech bought and thrown out quickly), and 15% is processing (the emissions from bin collection and incineration or landfill). It is perhaps the most frustrating category, because it is carbon emitted for no benefit to anyone's diet or life.
 
@@ -94,3 +94,6 @@ The **1.1 tonnes** of waste breaks down further. Roughly 65% is food waste (grow
 - Economic and Social Research Institute (ESRI) and Global Carbon Project. Consumption-based emissions analysis
 - Sustainable Energy Authority of Ireland (SEAI). Household energy data
 - Central Statistics Office (CSO). Household emissions data
+- Eurostat, What is the EU’s greenhouse gas footprint per capita? - News articles, 19 February 2026. https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260219-1
+- EPA, Ireland's Provisional Greenhouse Gas Emissions 1990-2025, July 2026. https://www.epa.ie/publications/monitoring--assessment/climate-change/air-emissions/EPA-Provisional-GHG-Emissions-1990-2025-web.pdf
+- CSO, Key Findings Economic Trends in High-emitting Sectors 2023, accessed 29 October 2026. https://www.cso.ie/en/releasesandpublications/ep/p-ethes/economictrendsinhigh-emittingsectors2023/keyfindings/

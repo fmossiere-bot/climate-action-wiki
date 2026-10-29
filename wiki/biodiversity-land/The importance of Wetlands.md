@@ -2,9 +2,9 @@
 title: The importance of Wetlands
 category: biodiversity-land
 tags: ["#wetlands", "#nature", "#methane", "#biodiversity", "#eu-policy"]
-sources: ["EU Nature Restoration Law (2024)", "Kovács GM et al., Nature (2026), DOI: 10.1038/s41586-026-10760-9", "Phys.org / University of Copenhagen, 15 July 2026. https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html"]
+sources: ["EU Nature Restoration Law (2024)", "Kovács GM et al., Nature (2026), DOI: 10.1038/s41586-026-10760-9", "Phys.org / University of Copenhagen, 15 July 2026. https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html", "Department of Climate, Energy and the Environment, Climate Action Plan 2025, 15 April 2025. https://assets.gov.ie/static/documents/Climate_Action_Plan_2025_updated_cover.pdf"]
 created: 2025-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of wetlands highly affected, over one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation"
 ---
 
@@ -57,7 +57,6 @@ Wetlands also release methane, which is a strong greenhouse gas. This makes the 
 - About **40% of methane emissions** come from natural sources such as wetlands. The other 60% come from human sources, such as cattle farming, fossil fuel extraction and landfill sites.
 - Rising temperatures can lead to _more_ methane, for example by speeding up the activity of the microbes in wetlands that produce it. At the same time, methane _removal_ is slowed down by the growing number of wildfires.
 
-
 ## Wetlands in Europe's climate and biodiversity plans
 
 Wetlands, and peatlands in particular, are now a clear part of European policy on both climate and nature. They store large amounts of carbon, and restoring them is seen as one of the cheaper ways to cut emissions and bring back biodiversity at the same time.
@@ -85,12 +84,11 @@ Ireland has many types of wetland, including bogs (both raised and blanket bogs)
 The largest restoration programme in Ireland is run by Bord na Móna, which has stopped all commercial peat harvesting:
 
 - The aim is to rehabilitate about **33,000 hectares** of former industrial peatland across 82 bogs in the midlands.
-- By the end of 2024, work was completed on **18,861 hectares**, which is 57% of the target.
+- According to the Climate Action Plan 2025 (published on 15 April 2025), the total area rehabilitated as of the end of October 2024 stood at 18,585 hectares, and delivery of the scheme is ongoing.
 - The scheme is funded by **€108 million** from the EU Recovery and Resilience Facility, through Ireland's National Recovery and Resilience Plan.
 - It is expected to cut emissions by a net **3.3 million tonnes of CO2 equivalent**.
 
 Ireland was one of the countries that helped get the Nature Restoration Law passed, and like all Member States it must publish its own national restoration plan by 2026.
-
 
 ### Restoring peatlands: three main aims
 > 
@@ -142,3 +140,4 @@ Kovács is now working on a global version to improve worldwide estimates of wet
 - Salt levels and methane: [Scientific American](https://www.scientificamerican.com/article/wetlands-made-salty-by-rising-seas-produce-more-heat-trapping-methane/)
 - European Wetland Types map (2026): Kovács GM et al., *Nature*, DOI: [10.1038/s41586-026-10760-9](https://dx.doi.org/10.1038/s41586-026-10760-9), [Google Earth Engine viewer](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types); [Phys.org press release](https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html)
 - Wetland and peatland condition figures: University of Copenhagen, 2026. https://globalwetlandcenter.ku.dk/news/2026/new-study-pinpoints-europes-most-critical-wetlands-for-climate-action/ ; University of Greifswald, 2026. https://www.uni-greifswald.de/en/university/information/current-news/details/n/new-study-involving-researchers-from-greifswald-identifies-europes-most-important-wetlands-for-climate-protection-284669/
+- Department of Climate, Energy and the Environment, Climate Action Plan 2025, 15 April 2025. https://assets.gov.ie/static/documents/Climate_Action_Plan_2025_updated_cover.pdf

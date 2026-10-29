@@ -3,7 +3,7 @@ title: Ireland's Energy System
 category: ireland-hub
 tags: ["#ireland", "#energy", "#energy-transition", "#renewables", "#fossil-fuels"]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-29
 summary: installed electricity capacity, dispatchable generation, wind energy, solar PV, energy storage, energy imports, natural gas, Moffat pipeline, oil, biomass, peat, electricity interconnectors, net-zero pathway, energy consumption per capita, SEAI, EirGrid, CRU, data centres, renewable energy targets, decarbonisation
 related:
   - IRELAND Data Centre Dilemna
@@ -19,9 +19,9 @@ Ireland's energy system is changing, but slowly and unevenly. Renewables have gr
 
 ## Installed electricity capacity
 
-Ireland's installed electricity capacity, the most power it can produce at any one moment, is about **13.3 GW in total** (2022 figure, in line with more recent estimates of around 13 GW). Of that, about 7.36 GW is fully dispatchable, based on 2022-23 CRU and EirGrid data. Dispatchable means gas, coal, oil and biomass plants that can be switched on to produce power whenever it is needed.
+Ireland's installed electricity capacity, the most power it can produce at any one moment, is about **13.3 GW in total** (2022 figure, in line with more recent estimates of around 13 GW). Of that, about 7.36 GW was fully dispatchable, based on 2022-23 CRU and EirGrid data. More recently, EirGrid and SONI, in figures published in April 2025, reported that the all-island installed capacity of dispatchable generation (including Aggregated Generator Units and excluding batteries) was 8,502 MW on 31 December 2024. Dispatchable means gas, coal, oil and biomass plants that can be switched on to produce power whenever it is needed.
 
-The rest is renewable capacity that depends on the weather. It includes around **4.8 GW of wind** in the Republic of Ireland as of 2023 (roughly 5 GW of onshore wind across the whole island, with offshore still being developed). There is also a still-modest amount of solar power, with large solar farms peaking at around 750 MW and small-scale panels at around 560 MW.
+The rest is renewable capacity that depends on the weather. It includes around **4.8 GW of wind** in the Republic of Ireland as of 2023 (roughly 5 GW of onshore wind across the whole island, with offshore still being developed). The Climate Change Advisory Council's Annual Review 2026, published on 14 October 2026, reports that Ireland had 5.1 GW of onshore wind installed by the end of 2025. There is also a still-modest amount of solar power, with large solar farms peaking at around 750 MW and small-scale panels at around 560 MW.
 
 At the end of 2023, battery storage capacity was around **0.72 GWh**, and it is expected to grow to around 1.7 GWh by the end of 2025.
 
@@ -37,7 +37,7 @@ Ireland has always imported most of its oil, gas and coal.
 
 - **Renewables**: wind has been the largest source of Ireland's renewable electricity, almost all of it from onshore farms. Ireland's only working offshore wind farm is the 25 MW Arklow Bank, built in 2003-04. Solar is growing but is still a smaller share. In 2019, renewables made up around **12% of total energy use**, but a much larger 37% of electricity.
 - **Natural gas**: a major source of electricity and heating, making up around **34% of energy use**. Roughly 75% of it is imported, through a pipeline from Moffat in Scotland.
-- **Oil**: still around **45% of overall energy use**, mainly for transport and heating, and being reduced only gradually.
+- **Oil**: still a very large part of the energy system, mainly for transport and heating, and being reduced only gradually. Energy in Ireland 2025, published in December 2025, reports that just over half (54.3%) of energy demand in 2024 was met through end-user consumption of oil products, compared with an earlier estimate of around 45% of overall energy use.
 - **Biomass**: wood pellets and organic waste are used both to make electricity and for heating.
 - **Imported electricity**: Ireland's grid is connected to the UK's, and to a lesser extent to continental Europe's, and Ireland buys in more electricity than it sells in most years.
 - **Peat**: once an important fuel for electricity, but its use has been cut sharply because of environmental concerns.
@@ -64,11 +64,11 @@ Total primary energy use, meaning all the energy used before any is lost in conv
 
 ## The pathway to net zero
 
-Ireland's renewable electricity capacity is around 6 GW (the 4.8 GW of wind plus roughly 1.3 GW of solar set out above). Reaching net zero is expected to need roughly **25 GW by 2050**. Electricity demand is expected to grow three to four times over that period, from around 29 TWh to 84-122 TWh, as heating and transport switch to electricity and the population grows. Total greenhouse gas emissions, currently around **60 million tonnes a year**, need to fall close to zero over the same period, from an energy system still dominated by fossil fuels. Wind produced around 10 TWh in 2019. In that year, renewables overall made up roughly 12% of total energy but 37% of electricity.
+Ireland's renewable electricity capacity is around 6 GW (the 4.8 GW of wind plus roughly 1.3 GW of solar set out above). Reaching net zero is expected to need roughly **25 GW by 2050**. Electricity demand is expected to grow three to four times over that period, from around 29 TWh to 84-122 TWh, as heating and transport switch to electricity and the population grows. Total greenhouse gas emissions, estimated at **52.65 million tonnes** of carbon dioxide equivalent in 2025 (excluding LULUCF) in the EPA's provisional figures, published in July 2026, need to fall close to zero over the same period, from an energy system still dominated by fossil fuels. Energy in Ireland 2025, published in December 2025, reports that wind generated 11.65 TWh in 2024. In 2019, renewables overall made up roughly 12% of total energy but 37% of electricity.
 
 ## Recent progress (December 2025 update)
 
-SEAI figures published in December 2025 showed some progress but called it not enough, with a worrying rise in fossil fuel use. Oil use rose by **2.7%** and gas use by 3% compared with the year before. Emissions from overall energy use fell by a small 1.5%, but mainly because more electricity was imported from Britain, not because the system itself got cleaner. The government says economic growth has been separated from growth in energy demand. SEAI is more cautious and says this is not yet a clean break.
+SEAI figures published in December 2025 showed some progress but called it not enough, with a worrying rise in fossil fuel use. Oil use rose by **2.7%** and gas use by 3% compared with the year before. Emissions from overall energy use fell by a small 1.5% in that release, but mainly because more electricity was imported from Britain, not because the system itself got cleaner. SEAI, in figures published in 2026, reports that Ireland's energy-related emissions fell by 3.6% in 2025. The government says economic growth has been separated from growth in energy demand. SEAI is more cautious and says this is not yet a clean break.
 
 Data centres are a major pressure point. Their electricity demand grew by 10% in 2024, after a 31% jump in 2022, faster than renewable capacity could grow to meet it (Central Statistics Office). They account for **88% of the total growth** in Ireland's electricity demand over the past decade (see [Ireland's Data Centre Dilemma](../ireland-hub/IRELAND%20Data%20Centre%20Dilemna.md)).
 
@@ -80,7 +80,7 @@ Other figures from the update:
 - Fossil fuels produced just over **45%** of the electricity used, with wind, solar, biofuels and imported electricity providing the rest.
 - Imports through interconnectors supplied **14%** of electricity, and SEAI expects that to rise above 16%.
 - Diesel and petrol made up **93%** of transport fuel.
-- Oil and gas provided **90%** of the heat used to warm homes and run factories.
+- Oil and gas provided around 90% of the heat used to warm homes and run factories. Energy in Ireland 2025, published in December 2025, reports that 89.8% of heat demand in 2024 was met using fossil fuels.
 
 ## Sources
 
@@ -94,3 +94,8 @@ Other figures from the update:
 - Energy-storage.news. Ireland utility-scale storage forecast
 - Houses of the Oireachtas, Parliamentary question on offshore wind, 15 December 2021. https://www.oireachtas.ie/en/debates/question/2021-12-15/36/
 - Central Statistics Office, Data Centres Metered Electricity Consumption 2024. https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/keyfindings
+- EirGrid / SONI, All Island Transmission System Performance Report 2024, April 2025. https://www.eirgrid.ie/sites/default/files/publications/All-Island-Transmission-System-Performance-Report-2024.pdf
+- Climate Change Advisory Council, Annual Review 2026, Electricity, 14 October 2026. https://www.climatecouncil.ie/councilpublications/annualreviewandreport/CCAC-AR2026-2-electricity-final.pdf
+- SEAI, Energy in Ireland 2025, December 2025. https://www.seai.ie/sites/default/files/publications/Energy-in-Ireland-2025.pdf
+- EPA, Ireland's Provisional Greenhouse Gas Emissions 1990-2025, July 2026. https://www.epa.ie/publications/monitoring--assessment/climate-change/air-emissions/EPA-Provisional-GHG-Emissions-1990-2025-web.pdf
+- SEAI, Rising energy use puts climate targets under pressure despite record low energy emissions, 2026. https://www.seai.ie/news-and-events/news/rising-energy-use-puts-climate-targets-under-pressure-despite-record-low-energy-emissions
