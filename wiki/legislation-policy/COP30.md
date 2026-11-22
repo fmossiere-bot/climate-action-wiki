@@ -3,12 +3,14 @@ title: COP30
 category: legislation-policy
 tags: ["#cop30", "#diplomacy", "#finance", "#adaptation", "#fossil-fuels", "#phaseout"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: COP30, Belem, Brazil, Paris Agreement 10th anniversary, NDCs, nationally determined contributions, climate finance, New Collective Quantified Goal, NCQG, Baku to Belem Roadmap, adaptation finance, Tropical Forests Forever Facility, TFFF, just transition mechanism, fossil fuel phase-out roadmap, UAE consensus, deforestation, Amazon, Santa Marta conference, Transition Away From Fossil Fuels, TAFF, COP31 Turkey, South Korea coal phase-out, Powering Past Coal Alliance, Indigenous Peoples land rights, Sustainable Ocean Plans, Ireland
+updated: 2026-11-22
+summary: COP30, Belem, Brazil, Paris Agreement 10th anniversary, NDCs, nationally determined contributions, climate finance, New Collective Quantified Goal, NCQG, Baku to Belem Roadmap, adaptation finance, Tropical Forests Forever Facility, TFFF, just transition mechanism, fossil fuel phase-out roadmap, UAE consensus, deforestation, Amazon, Santa Marta conference, Transition Away From Fossil Fuels, TAFF, COP31 Turkey, South Korea coal phase-out, Powering Past Coal Alliance, Indigenous Peoples land rights, Sustainable Ocean Plans, Ireland, TFFF $10 billion seed capital $7.9 billion pledged November 2026, Norway $3 billion conditional, Germany €1 billion, $4 per hectare, Intergovernmental Land Tenure Commitment 160 million hectares 15 governments, Forest and Land Tenure Pledge $1.8 billion, Bioeconomy Challenge, Brazil fossil fuel roadmap 3 November 2026 2028-2033, deforestation roadmap, Ana Toni, Observatório do Clima
 related:
   - santa-marta-fossil-fuel-conference-2026
   - dw-oil-nations-taff-2026
   - Paris Agreement - NDC - where are we 10 years later?
+  - tfff-funding-gap-dw-2026
+  - community-forest-economies-wri-2026
 ---
 
 # COP30
@@ -45,6 +47,14 @@ Countries also committed to a package to strengthen the rights and funding of In
 
 Even so, Brazil's environment minister Marina Silva did not secure a roadmap to end deforestation in the core agreement. The proposal died after it was tied to the fossil fuel phase-out roadmap. Toerris Jaeger of Rainforest Foundation Norway described this as a major setback, adding: "It is disappointing that countries did not agree to develop concrete plans to halt deforestation."
 
+### November 2026 update: the TFFF is still short of money
+
+A year after its launch, the TFFF had not yet raised its starting capital. It needs $10 billion from governments by the end of 2026, but confirmed pledges from countries, NGOs and foundations came to **$7.9 billion** by mid-November. Norway, the largest would-be donor at $3 billion, will only pay if the full $10 billion is in place by the end of the year. Germany's pledge of about €1 billion, paid over 10 years from 2027, still needs parliamentary approval. Philanthropies have pledged $88 million, $73 million of it during the COP31 summit in Antalya ([DW](../sources/tfff-funding-gap-dw-2026.md)).
+
+The design has become clearer. The fund would borrow cheaply from governments and private investors, invest the money, and pay forest countries $4 a year for every hectare of intact tropical forest, checked by satellite, with money deducted for cleared land. At least 20% must go to Indigenous peoples and local communities ([DW](../sources/tfff-funding-gap-dw-2026.md)).
+
+The land rights package has firmer numbers too: 15 governments, including Brazil, Indonesia, the Democratic Republic of the Congo, Germany and the United Kingdom, backed the Intergovernmental Land Tenure Commitment to recognise community rights across 160 million hectares by 2030, and the linked Forest and Land Tenure Pledge committed $1.8 billion. COP30 also launched the Bioeconomy Challenge, to support forest-based economies run by local communities ([WRI](../sources/community-forest-economies-wri-2026.md)).
+
 ## The fossil fuel phase-out fight
 
 A coalition of around 90 developed and developing nations pushed for the final COP30 text to commit to a roadmap for phasing out fossil fuels. Oil-producing states, including Saudi Arabia and its allies, blocked it, and the final decision made no direct mention of fossil fuels. It did include an indirect reference to the "UAE consensus", the wider COP28 package agreed in Dubai in 2023, which contained the first pledge to transition away from fossil fuels. Dr Joanna Depledge, a COP expert at Cambridge, called this a step backwards, arguing the Dubai fossil fuel language was being "deliberately diluted and obscured, not highlighted."
@@ -54,6 +64,8 @@ Blocked from the formal decision, the Brazilian presidency said the roadmap woul
 **Update, Santa Marta Conference (April 2026):** The promised summit took place in Santa Marta, Colombia, from 28 to 30 April 2026. Nearly 60 countries agreed to develop national roadmaps to phase out fossil fuel production and use. France published the first national roadmap by a developed country, and Colombia published a draft during the conference. A second conference is planned for Tuvalu in early 2027, co-hosted by Ireland. See the [Santa Marta fossil fuel conference](../solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md) page for full details.
 
 **Update, Bonn intersessional and COP31 Turkey (June 2026):** At the June 2026 Bonn intersessional, the technical meeting that prepares the COP agenda, the Santa Marta initiative got a working name, Transition Away From Fossil Fuels (TAFF). How it will be organised is being negotiated behind closed doors. UN climate chief Simon Stiell pointed to the energy crisis caused by the Iran war, arguing that relying on fossil fuels now means countries are "importing inflation and economic instability." Outgoing COP30 president Andre Correa do Lago described the shift as a move from "COPs focused on negotiations to COPs focused on implementation." COP31 will be held in Antalya, Türkiye, on 9-20 November 2026, with Australia leading the negotiations and Fiji hosting the Pre-COP. See the [COP31 Antalya overview](cop31-antalya-2026.md). Meanwhile, the tripling of adaptation finance agreed at Belem is stuck on a dispute over the starting point: does "triple" mean three times the roughly $20 billion baseline of 2019, or the roughly $40 billion of 2025? African lead negotiator Antwi Boasiako Amoah warned that Africa cannot pay for adaptation by taking on more debt, and cautioned that TAFF risks splitting the multilateral process. Source: [DW, Tim Schauenberg, 18 June 2026](../sources/dw-oil-nations-taff-2026.md).
+
+**Update, Brazil's roadmaps and COP31 (November 2026):** Brazil kept its Belém promise. On 3 November 2026, just before COP31 opened, the COP30 presidency launched two voluntary roadmaps that had been left out of the final text: one for transitioning away from fossil fuels, and one for halting and reversing deforestation by 2030 ([We Don't Have Time](../sources/cop31-implementation-wdht-2026.md)). The fossil fuel roadmap runs to nearly 200 pages and works as a toolkit. It envisages countries making a phased transition between 2028 and 2033, with "levers" tailored to each country, such as cutting fossil fuel subsidies, expanding renewables and reducing methane. Ana Toni, CEO of COP30, said the aim is to break the transition into "smaller actionable solutions" ([DW](../sources/taff-coalition-cop31-dw-2026.md)). The Brazilian climate network Observatório do Clima said it "makes it clear that there are no longer any justifications for countries to rely on oil, gas and coal". Reports on how many countries had backed a roadmap at COP30 vary: DW says more than 80, We Don't Have Time says 88, and earlier coverage said around 90.
 
 ## Just transition mechanism
 
@@ -71,6 +83,7 @@ At COP30, South Korea said it was joining the Powering Past Coal Alliance, a gro
 - Adaptation funding was tripled at COP30, but the roughly $120 billion a year target was pushed back to 2035, from an initially proposed 2030.
 - The final COP30 text contained no direct mention of fossil fuels. A coalition of around 90 countries is pursuing a phase-out roadmap outside the UN process instead.
 - Brazil launched the Tropical Forests Forever Facility with a $125 billion target, aiming to raise $10 billion initially from governments and philanthropies.
+- By November 2026 the TFFF had $7.9 billion of the $10 billion in seed capital it needs by the end of the year ([DW](../sources/tfff-funding-gap-dw-2026.md)).
 - South Korea joined the Powering Past Coal Alliance, pledging to close all coal plants by 2040.
 
 ## Sources
@@ -81,4 +94,6 @@ At COP30, South Korea said it was joining the Powering Past Coal Alliance, a gro
 - The Guardian, "It will never be forgiven, UN climate chief warns world to act or face disaster", 10 November 2025. https://www.theguardian.com/environment/2025/nov/10/it-will-never-be-forgiven-un-climate-chief-warns-world-to-act-or-face-disaster
 - The Guardian, "Tropical forest forever fund proposed at Cop30 to tackle climate change", 6 November 2025. https://www.theguardian.com/environment/2025/nov/06/tropical-forest-forever-fund-proposed-cop30-tackle-climate-change
 - DW, Tim Schauenberg, "Oil nations on edge in the face of new climate coalition", 18 June 2026. https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010
+- DW, Jeannette Cwienk, "Tropical Forests Forever was hailed as a novel way of addressing deforestation. Why is it short of funds?", 13 November 2026. https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673
+- World Resources Institute, Wanjira Mathai, "Forest Communities Are Showing What a Better Economy Looks Like", November 2026. https://www.wri.org/insights/community-led-forest-communities-economy
 - Swiss Re Institute, Sigma Research, natural catastrophes trends, 2025. https://www.swissre.com/institute/research/sigma-research/sigma-2025-01-natural-catastrophes-trend.html

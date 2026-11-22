@@ -1,13 +1,16 @@
 ---
 title: Greenwashing Lawsuits on the Rise
 category: concepts
-tags:
-  - "#greenwashing"
-  - "#fossil-fuels"
-  - "#esg"
+tags: ["#greenwashing", "#fossil-fuels", "#esg"]
 created: 2025-06-01
-updated: 2026-10-28
-summary: greenwashing lawsuits, climate litigation, JBS Greenpeace Netherlands petition, TotalEnergies Paris ruling, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, Shell Milieudefensie, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal, $6bn expansion, Nigeria 1.2 million hectares, Dutch duty of care, JBS net zero 2040 scrapped
+updated: 2026-11-22
+summary: greenwashing lawsuits, climate litigation, JBS Greenpeace Netherlands petition, TotalEnergies Paris ruling, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, Shell Milieudefensie, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal, $6bn expansion, Nigeria 1.2 million hectares, Dutch duty of care, JBS net zero 2040 scrapped, Carbon Impacts Tracer, drop in the ocean defence, attribution science, Scarborough gas project, Woodside Browse, ExxonMobil, glacier melt, AFP Future of the Planet Legal Desk, Ivan Couronne, climate law journalism
+related:
+  - climate-litigation-wins-2025
+  - jbs-6bn-legal-challenge-guardian-2026
+  - carbon-impacts-tracer-conversation-2026
+  - afp-climate-litigation-desk-ccnow-2026
+  - Greenwashing
 ---
 
 
@@ -73,3 +76,17 @@ On 22 July 2026, **Greenpeace International** filed a petition in the Dutch cour
 Farming is the biggest driver of deforestation and one of the largest sources of methane. If Dutch courts apply the same duty of care to a meat company that they already apply to fossil fuel firms, the whole farming sector will face the legal test that has already changed how oil and gas companies talk about their climate risk. That could reach every large agribusiness with a European headquarters or a European stock listing.
 
 *Source: [JBS $6bn legal challenge (source summary)](../../sources/jbs-6bn-legal-challenge-guardian-2026.md); Guardian, Jonathan Watts, 22 July 2026.*
+
+## Autumn 2026: new tools for holding projects to account
+
+### The end of the "drop in the ocean" defence
+
+Companies and governments approving new fossil fuel projects have long argued that a single mine or gas field is a "drop in the ocean", too small to link to any real harm. In September 2026, researchers from universities in Australia and the UK launched the **Carbon Impacts Tracer**, a free, open-source tool that turns a project's emissions into extra warming and then into damage across eight areas, such as people exposed to dangerous heat, glacier loss and heatwave deaths in Europe. It rests on the IPCC's finding that every trillion tonnes of CO2 adds about 0.45°C of warming.
+
+The numbers are concrete. Woodside's Scarborough gas project in Western Australia, with 876 million tonnes of CO2, would expose an extra 516,000 people to unprecedented heat and cause 484 heat-related deaths in Europe by 2100. ExxonMobil's projected 5,245 Mt of emissions between 2024 and 2050 would melt an extra 127 km² of glaciers. The authors expect the tool to be used in court, building on the International Court of Justice's 2025 finding that a causal link between emissions and climate harm can be established. See the [Carbon Impacts Tracer source summary](../../sources/carbon-impacts-tracer-conversation-2026.md).
+
+### A news desk for climate law
+
+At COP31 in November 2026, Agence France-Presse launched the Future of the Planet Legal Desk, a team of journalists dedicated to environmental and climate law, with reporters in Latin America, Asia and Africa. It is led by Ivan Couronne and funded by the Minderoo Foundation and the UK's Climate Change Collaboration. AFP supplies more than 4,000 newsrooms and governments, so coverage of these slow, technical cases should reach a far wider audience. See the [AFP legal desk source summary](../../sources/afp-climate-litigation-desk-ccnow-2026.md).
+
+*Sources: The Conversation, Claudia Stepin and co-authors, 28 September 2026. https://theconversation.com/we-can-finally-measure-the-damage-each-new-coal-gas-or-oil-project-will-do-to-people-and-nature-292128; Covering Climate Now, 12 November 2026. https://coveringclimatenow.org/from-us-story/afps-new-climate-litigation-desk-leads-the-way/*

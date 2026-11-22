@@ -7,9 +7,9 @@ sources:
   - IEA, Electricity 2024 report
   - Koomey J., Koomey's Law of computing efficiency
 created: 2026-07-28
-updated: 2026-10-28
+updated: 2026-11-22
 cover_image: ""
-summary: AI energy demand, data centres 1 to 3 percent of world electricity, Google Alphabet 10x AI search claim, IEA 6000 TWh growth by 2030, data centres 3 percent of that growth, Koomey's Law, 550% compute growth 6% energy 2010 2018, Ireland 17 percent data centres, Three Mile Island Microsoft, Amazon Google nuclear, gas dash for AI, ChatGPT 100 queries streaming 20 minutes, hype cycle
+summary: AI energy demand, data centres 1 to 3 percent of world electricity, Google Alphabet 10x AI search claim, IEA 6000 TWh growth by 2030, data centres 3 percent of that growth, Koomey's Law, 550% compute growth 6% energy 2010 2018, Ireland 17 percent data centres, Three Mile Island Microsoft, Amazon Google nuclear, gas dash for AI, ChatGPT 100 queries streaming 20 minutes, hype cycle, InfluenceMap pro-fossil arguments AI, UN Priorities for Action on AI and Climate Information Integrity COP31
 claim_id: ai-needs-fossil-fuels
 verdict: mostly-false
 topic: energy
@@ -80,8 +80,11 @@ Recent examples include Meta contracting 10 gas plants for its Hyperion data cen
 
 **AI as a climate tool.** Hannah Ritchie also lists ways AI could help: finding hidden deposits of the minerals clean energy needs, balancing electricity grids that carry more variable renewables, and forecasting weather more accurately to help plan renewables and adaptation. Whether these gains outweigh the extra emissions from running AI is an open question. The answer depends on how AI is powered.
 
+**The argument itself has become a lobbying tool.** An InfluenceMap analysis found that nearly half of the statements it collected over the past year about AI and data centres contained arguments in favour of fossil fuels. At COP31 in November 2026, a UN-backed initiative responded by asking AI companies to disclose their energy use and their carbon, water and land footprints, so that claims about AI's needs can be checked ([The Climate Watch](../sources/un-ai-climate-misinformation-cop31-2026.md)).
+
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World*, Chatto & Windus, 2024. Question 12: "Won't we need more fossil fuels to keep up with artificial intelligence?"
 - International Energy Agency, *Electricity 2024*
 - J. Koomey, Koomey's Law of computing efficiency
+- The Climate Watch, TCW Report, 14 November 2026. https://theclimatewatch.com/un-takes-on-ai-climate-misinformation-as-cop31-fossil-fuel-tensions-rise/

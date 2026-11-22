@@ -2439,3 +2439,260 @@ All from `raw/myths/` — book-summary notes turned into Myth-template pages. No
 - Rule followed: paragraphs about the current state now give the latest official figure with its source and date; paragraphs about a past year were kept and dated, with the new figure added before them. Numbers were only replaced by official figures for the same thing; close measures were added alongside, never instead.
 - Not changed: pages in `wiki/sources/` (they summarise one article at the time), places where the wiki's figure is newer than the official one, and sentences the drafts could not match. The list is in `_companion-lab/figures/wiki-edits-preview.md` for hand edits.
 - Sources lines added at the bottom of each page and in the frontmatter `sources:` list. No em dashes; `updated:` set to 2026-10-29.
+
+
+## [2026-11-22] ingest | COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan (Carbon Brief)
+- Source: `raw/articles/2026-11-03 0652 Carbon Brief Staff.md`
+- Created: `wiki/sources/cop17-key-outcomes-carbonbrief-2026.md`
+- Created: `wiki/legislation-policy/cop17-outcomes-yerevan-2026.md`
+- Updated: none beyond the new pages (the two own-research COP17 pages were left untouched)
+
+## [2026-11-22] ingest | COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan (Carbon Brief, earlier clip)
+- Source: `raw/articles/2026-10-31 1430 Carbon Brief Staff.md`
+- Created: Duplicate of `raw/articles/2026-11-03 0652 Carbon Brief Staff.md`, no new page (the later clip corrects "Canada" to "Norway" as co-steer of the DSI ministerial consultations)
+
+## [2026-11-22] ingest | Countries reach COP17 deal to speed up biodiversity action, but money still short (Reuters)
+- Source: `raw/articles/Countries reach COP17 deal to speed up biodiversity action, but money still short.md`
+- Created: `wiki/sources/cop17-yerevan-pathway-reuters-2026.md`
+- Updated: `wiki/legislation-policy/cop17-outcomes-yerevan-2026.md`: Yerevan Pathway, $1.8bn announced, 90% targets / fewer than half on track, COP18 Quito
+
+## [2026-11-22] ingest | Armenia, in partnership with UNEP, launches global initiative to drive action on mountain and related freshwater ecosystems (UNEP)
+- Source: `raw/articles/Armenia, in partnership with UNEP, launches global initiative to drive action on mountain and related freshwater ecosystems.md`
+- Created: `wiki/sources/yerevan-platform-mountains-unep-2026.md`
+- Updated: `wiki/legislation-policy/cop17-outcomes-yerevan-2026.md`: Yerevan mountains platform paragraph
+- Updated: `wiki/biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md`: paragraph on the Yerevan Platform in "Protecting glaciers" (55-60% of freshwater flows, 19% protected); tags made inline, related added
+
+## [2026-11-22] ingest | Business and policy leaders join forces to drive action for nature (Trinity College Dublin)
+- Source: `raw/articles/Business and policy leaders join forces to drive action for nature.md`
+- Created: `wiki/sources/trinity-business-nature-hub-2026.md`
+- Updated: `wiki/biodiversity-land/Biodiversity for Business 101.md`: new section on the Trinity Business + Nature Hub (55% of GDP / $58tn, 2% vs 63% transition plans); tags made inline, related added
+
+## [2026-11-22] ingest | Tropical Forests Forever was hailed as a novel way of addressing deforestation. Why is it short of funds? (DW)
+- Source: `raw/articles/Tropical Forests Forever was hailed as a novel way of addressing deforestation. Why is it short of funds?.md`
+- Created: `wiki/sources/tfff-funding-gap-dw-2026.md`
+- Updated: `wiki/legislation-policy/COP30.md`: "November 2026 update" subsection on the TFFF funding gap and design; new key fact; related added
+- Updated: `wiki/biodiversity-land/Forests and Land - Our Most Important Carbon Sink.md`: new section "Who protects forests, and who pays for it" (TFFF, 2024 loss, Brazil -41%); tags made inline, related added
+
+## [2026-11-22] ingest | Rainforest Fundraiser (Hometree)
+- Source: `raw/articles/Rainforest Fundraiser.md`
+- Created: `wiki/sources/hometree-rainforest-fundraiser-2026.md`
+- Updated: `wiki/ireland-hub/Ireland reforestation on the Ground.md`: new section 7 on Hometree and Ireland's temperate rainforest; tags made inline, related added
+- Updated: `wiki/biodiversity-land/Forests and Land - Our Most Important Carbon Sink.md`: Ireland temperate rainforest paragraph
+
+## [2026-11-22] ingest | Why restoring Ireland's temperate rainforests matters (Southern Star)
+- Source: `raw/articles/Why restoring Ireland’s temperate rainforests matters.md`
+- Created: `wiki/sources/ireland-temperate-rainforest-southern-star-2026.md`
+- Updated: `wiki/ireland-hub/Ireland reforestation on the Ground.md`: landscape-scale restoration and wellbeing point in section 7
+
+## [2026-11-22] ingest | Forest Communities Are Showing What a Better Economy Looks Like (WRI)
+- Source: `raw/articles/Forest Communities Are Showing What a Better Economy Looks Like.md`
+- Created: `wiki/sources/community-forest-economies-wri-2026.md`
+- Updated: `wiki/biodiversity-land/Forests and Land - Our Most Important Carbon Sink.md`: IPLCs manage 54% of intact forests, 124 defenders killed, $7.3tn vs $220bn
+- Updated: `wiki/legislation-policy/COP30.md`: land tenure commitment figures (15 governments, 160m ha, $1.8bn pledge) and Bioeconomy Challenge
+
+## [2026-11-22] ingest | New research explores how offshore wind development may alter marine food webs (Phys.org)
+- Source: `raw/articles/New research explores how offshore wind development may alter marine food webs.md`
+- Created: `wiki/sources/offshore-wind-food-webs-phys-2026.md`
+- Updated: `wiki/solutions/renewables/FACTS about Wind Energy.md`: new section on US Atlantic food web modelling (Lato et al. 2026)
+
+## [2026-11-22] ingest | UN Climate Change reports show Paris Agreement supporting whole-of-economy approaches, but progress still clearly insufficient
+- Source: `raw/articles/UN Climate Change reports show Paris Agreement supporting whole-of-economy approaches, but progress still clearly insufficient; more implementation and acceleration needed.md`
+- Created: `wiki/sources/unfccc-paris-progress-reports-2026.md`
+- Updated: `wiki/legislation-policy/Paris Agreement - NDC - where are we 10 years later?.md`: new section on the October 2026 NDC, BTR and NAP synthesis reports (127 NDCs, ~6%/9.0% cut by 2035), one Key facts bullet, related slugs
+
+## [2026-11-22] ingest | Five key lessons from UNEP's Emissions Gap Report 2026 (Sustainability Decoder)
+- Source: `raw/articles/2026-11-03 0704 Sustainability Decoder.md`
+- Created: `wiki/sources/emissions-gap-2026-five-lessons-decoder.md`
+- Updated: `wiki/concepts/key-ideas/Emission Gap Report 2024 - UNEP.md`: new "What the 2026 edition found" section (58.4 GtCO2e, 2.8°C, 45% vs 11-15%, 220 policy evaluations), related slugs
+- Updated: `wiki/legislation-policy/Paris Agreement - NDC - where are we 10 years later?.md`: UNEP 2035 gap figures alongside the UNFCCC synthesis
+
+## [2026-11-22] ingest | State of the climate: 2026 likely to tie with 2024 as the warmest year on record
+- Source: `raw/articles/State of the climate 2026 likely to tie with 2024 as the warmest year on record.md`
+- Created: `wiki/sources/state-of-the-climate-2026-carbonbrief.md`
+- Updated: `wiki/climate-science/Global Impact of Climate Change.md`: new "Where things stand in late 2026" section (1.37°C long-term, 2026/2027 projections, energy imbalance)
+- Updated: `wiki/climate-science/record-hot-ocean-el-nino-2026.md`: November 2026 update on the record-breaking El Niño (Niño3.4 record, ~4°C December peak, 2027 at 1.74°C, impacts)
+
+## [2026-11-22] ingest | 'Irreversible' damage to glaciers if 1.5C breached
+- Source: `raw/articles/'Irreversible' damage to glaciers if 1.5C breached.md`
+- Created: `wiki/sources/cryosphere-overshoot-glaciers-rte-2026.md`
+- Updated: `wiki/biodiversity-land/Glaciers in Retreat -  Facts, Risks, and What Can Be Done.md`: November 2026 update on the two cryosphere overshoot reports, summary keywords, related slug
+- Updated: `wiki/climate-science/Global Impact of Climate Change.md`: cryosphere findings in the late-2026 section
+
+## [2026-11-22] ingest | Climate change is a growing health emergency, Lancet Countdown warns
+- Source: `raw/articles/Climate change is a growing health emergency, Lancet Countdown warns.md`
+- Created: `wiki/sources/lancet-countdown-2026-who.md`
+- Created: `wiki/climate-adaptation/climate-change-and-health.md` (new topic page)
+- Updated: `wiki/climate-science/Local Impact and Extreme Events Attribution.md`: related slug to the new health page
+- Updated: `wiki/climate-science/record-hot-ocean-el-nino-2026.md`: WHO El Niño emergency response
+
+## [2026-11-22] ingest | UN takes on AI climate misinformation as COP31 fossil fuel tensions rise
+- Source: `raw/articles/UN takes on AI climate misinformation as COP31 fossil fuel tensions rise.md`
+- Created: `wiki/sources/un-ai-climate-misinformation-cop31-2026.md`
+- Updated: `wiki/sectors/digital/ai-data-centre-energy-crisis.md`: November 2026 section on the UN AI disclosure priorities and InfluenceMap's finding
+- Updated: `wiki/myths/ai-needs-fossil-fuels.md`: Go deeper paragraph and Sources line on InfluenceMap and the UN priorities (card headings untouched)
+
+## [2026-11-22] ingest | UN takes on AI climate misinformation as COP31 fossil fuel tensions rise (second clip)
+- Source: `raw/articles/UN takes on AI climate misinformation as COP31 fossil fuel tensions rise 1.md`
+- Created: Duplicate of `raw/articles/UN takes on AI climate misinformation as COP31 fossil fuel tensions rise.md`, no new page (only the clip date and one tag differ)
+
+## [2026-11-22] ingest | Fed up with COP, a growing alliance of countries are taking a fossil fuel phaseout into their own hands
+- Source: `raw/articles/Fed up with COP, a growing alliance of countries are taking a fossil fuel phaseout into their own hands.md`
+- Created: `wiki/sources/taff-coalition-cop31-dw-2026.md`
+- Updated: `wiki/solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md`: November 2026 section on TAFF at COP31 (national plans, Finland, Brazil roadmap, subsidies)
+- Updated: `wiki/legislation-policy/COP30.md`: November 2026 update on Brazil's fossil fuel and deforestation roadmaps
+- Updated: `wiki/solutions/electrification/Electrify Everything.md`: COP31 "35 by 35" section
+
+## [2026-11-22] ingest | Kite Insights: What to know ahead of UNFCCC COP31, 2026
+- Source: `raw/papers/Kite Insights - What to know ahead of COP31 2026.pdf`
+- Created: `wiki/sources/kite-insights-cop31-preview-2026.md`
+- Updated: `wiki/solutions/electrification/Electrify Everything.md`: renewables' third share of power and the clean-grid caveat
+- Updated: `wiki/climate-science/record-hot-ocean-el-nino-2026.md`: WFP 49 million acute hunger warning
+
+## [2026-11-22] ingest | From pledges to action, can COP31 become the COP of implementation?
+- Source: `raw/papers/From pledges to action, can COP31 become the COP of implementation?.pdf`
+- Created: `wiki/sources/cop31-implementation-wdht-2026.md`
+- Updated: `wiki/legislation-policy/COP30.md`: Brazil roadmaps launched 3 November 2026, Observatório do Clima reaction
+- Updated: `wiki/solutions/electrification/Electrify Everything.md`: Samuel Guéret (Climate Action Tracker) on 35 by 35
+
+## [2026-11-22] ingest | No European bank commits to keep fossil fuel finance out of the Coral Triangle (BankTrack)
+- Source: `raw/articles/2026-10-29 1604.md`
+- Created: `wiki/sources/banktrack-coral-triangle-banks-2026.md`
+- Updated: `wiki/climate-finance/fossil-fuel-banking.md`: new section on fossil fuel finance and nature (Coral Triangle letter, BNP Paribas clarification), key fact, source, tags made inline
+
+## [2026-11-22] ingest | UK banks are Europe's biggest providers of coal financing, report finds (Guardian, Matthew Taylor)
+- Source: `raw/articles/2026-10-29 1605 Matthew Taylor.md`
+- Created: `wiki/sources/uk-banks-coal-financing-urgewald-guardian-2026.md`
+- Updated: `wiki/climate-finance/fossil-fuel-banking.md`: new section on coal financing since COP26 (Urgewald: global $117bn/yr, UK +17%, EU -46%, Barclays and HSBC rises), key fact, source
+
+## [2026-11-22] ingest | Data sharing: Tesco aims for supplier decarbonisation via OpenClimat partnership
+- Source: `raw/articles/Data sharing Tesco aims for supplier decarbonisation via OpenClimat partnership.md`
+- Created: `wiki/sources/tesco-openclimat-supplier-programme-2026.md`
+- Updated: `wiki/legislation-policy/Corporate Climate Action - Where Businesses Stand.md`: Tesco/OpenClimat paragraph under the scope 3 discussion; tags made inline; `related:` added
+
+## [2026-11-22] ingest | Greenwashing is following the energy transition (Sustainable Brands, Antonio Vizcaya Abdo)
+- Source: `raw/articles/2026-11-03 0702 Antonio Vizcaya Abdo.md`
+- Created: `wiki/sources/greenwashing-follows-energy-transition-reprisk-2026.md`
+- Updated: `wiki/concepts/key-ideas/Greenwashing.md`: new section on RepRisk 2026 figures (112% rise, biodiversity overtakes climate, banks, repeat offenders)
+
+## [2026-11-22] ingest | Hidden assets: The economic and health case for climate and clean air action (UNEP)
+- Source: `raw/papers/Hidden assets The economic and health case for climate and clean air action.md` (read with the full PDF it embeds, `Hidden-assets.pdf` at the repo root, executive summary)
+- Created: `wiki/sources/unep-hidden-assets-climate-clean-air-2026.md`
+- Updated: `wiki/concepts/key-ideas/The Economics of Climate Change and Carbon Pricing.md`: new section "The hidden health dividend" (15:1 return, IRR 60%, $1.5tn cost of delay)
+
+## [2026-11-22] ingest | Less is more. So why does more feel greener? The sustainable additive bias (Anthropocene, Sarah DeWeerdt)
+- Source: `raw/articles/2026-10-29 1046 Sarah DeWeerdt.md`
+- Created: `wiki/sources/sustainable-additive-bias-anthropocene-2026.md`
+- Updated: `wiki/concepts/key-ideas/Greenwashing.md`: new section "Why more looks greener than less" on the additive bias
+
+## [2026-11-22] ingest | Here's why assuming massive growth in carbon removal is reckless and unwarranted (Project Drawdown, Jonathan Foley)
+- Source: `raw/articles/2026-10-31 1028 Jonathan Foley.md`
+- Created: `wiki/sources/carbon-removal-reckless-foley-drawdown-2026.md`
+- Updated: `wiki/solutions/carbon-removal/Carbon Removal - What are we talking about? a guide to the different options.md`: new section "How Much Removal Exists Today (2026)"; `related:` added
+- Updated: `wiki/myths/carbon-capture-will-fix-it.md`: Go deeper paragraph on DAC scale and cost, Sources bullet (card headings untouched)
+
+## [2026-11-22] ingest | AFP's New Climate Litigation Desk Leads the Way (Covering Climate Now)
+- Source: `raw/articles/AFP’s New Climate Litigation Desk Leads the Way.md`
+- Created: `wiki/sources/afp-climate-litigation-desk-ccnow-2026.md`
+- Updated: `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md`: subsection "A news desk for climate law"
+
+## [2026-11-22] ingest | Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history (Guardian, Fiona Harvey and Simon Evans)
+- Source: `raw/articles/Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history.md`
+- Created: `wiki/sources/co2-exporters-history-carbon-brief-guardian-2026.md`
+- Updated: `wiki/concepts/key-ideas/Climate Politics and Climate Justice.md`: paragraph on extraction-based accounting in "Who is responsible"
+
+## [2026-11-22] ingest | We can finally measure the damage each new coal, gas or oil project will do to people and nature (The Conversation)
+- Source: `raw/articles/We can finally measure the damage each new coal, gas or oil project will do to people and nature.md`
+- Created: `wiki/sources/carbon-impacts-tracer-conversation-2026.md`
+- Updated: `wiki/concepts/key-ideas/Greenwashing lawsuits on the rise.md`: subsection "The end of the drop in the ocean defence"; tags made inline; `related:` added
+- Updated: `wiki/climate-science/Local Impact and Extreme Events Attribution.md`: new section "From Events to Projects"
+
+## [2026-11-22] ingest | Fifa accused of climate 'record of failure' due to Aramco deal and tournament expansion (Guardian, Paul MacInnes)
+- Source: `raw/articles/Fifa accused of climate ‘record of failure’ due to Aramco deal and tournament expansion.md`
+- Created: `wiki/sources/fifa-un-sports-climate-complaint-guardian-2026.md`
+- Updated: `wiki/sectors/Environmental Impact of football world cups.md`: subsection "November 2026: a complaint to the UN"
+
+## [2026-11-22] ingest | The wetland that saved €100,000 and other lessons from building with nature (IGBC)
+- Source: `raw/articles/2026-10-28 1025 Irene.md`
+- Created: `wiki/sources/igbc-building-with-nature-case-studies-2026.md`
+- Updated: `wiki/ireland-hub/Ireland Biodiversity Plan.md`: new section "Building with nature: ten Irish case studies" (Portrane wetland, Seven Mills, social housing, common problems)
+- Updated: `wiki/biodiversity-land/The importance of Wetlands.md`: added to new `related:` field
+
+## [2026-11-22] ingest | Women farmers are challenging an agri system built on growth and control (The Journal, Pippa Hackett)
+- Source: `raw/articles/2026-11-03 0653 Dr Pippa Hackett.md`
+- Created: `wiki/sources/women-farmers-ireland-hackett-thejournal-2026.md`
+- Updated: `wiki/sectors/agriculture-food/About Food and Farming.md`: new section "An Irish view: changing the farming model from the ground up" (tagged #ireland)
+
+## [2026-11-22] ingest | Minister launches 'COP for schools' as education leaders pledge to bring nature back to school grounds (Dublin Gazette)
+- Source: `raw/articles/Minister launches ‘COP for schools’ as education leaders pledge to bring nature back to school grounds.md`
+- Created: `wiki/sources/our-durla-agreement-schools-nature-2026.md`
+- Updated: `wiki/ireland-hub/Ireland Biodiversity Plan.md`: new section "Schools: the Our Dúlra Agreement"
+
+## [2026-11-22] ingest | Wexford Schools Encouraged To Bring Nature Back (South East Radio)
+- Source: `raw/articles/Wexford Schools Encouraged To Bring Nature Back.md`
+- Created: Same launch as the Dublin Gazette article, covered on `wiki/sources/our-durla-agreement-schools-nature-2026.md`, no separate page
+- Updated: `wiki/ireland-hub/Ireland Biodiversity Plan.md`: cited in Sources
+
+## [2026-11-22] ingest | 30 tonnes of waste saved thanks to single-use plastic cup project at city venues (Belfast Telegraph)
+- Source: `raw/articles/30 tonnes of waste saved thanks to single-use plastic cup project at city venues.md`
+- Created: `wiki/sources/belfast-reusable-cups-belfast-telegraph-2026.md`
+- Updated: `wiki/ireland-hub/IRELAND Waste Management, Recycling and Plastic.md`: new section "Reuse in Practice: Belfast's Shared Cup Scheme" (tagged #uk)
+
+## [2026-11-22] ingest | New tool will help gardeners move away from thirsty English classics to drought-resistant plants (Guardian)
+- Source: `raw/articles/New tool will help gardeners move away from thirsty English classics to drought-resistant plants.md`
+- Created: `wiki/sources/garden-climate-assessment-tool-guardian-2026.md`
+- Updated: `wiki/ireland-hub/Ireland Climate Adaptation.md`: new section "Gardens in a Drier Climate: a UK Planting Tool" after the Powerscourt example (tagged #uk, #individual-actions); tags converted to inline; `related:` field added
+
+## [2026-11-22] ingest | Soils Emit Massive Amounts of Greenhouse Gases. Here's What's Behind It (WRI)
+- Source: `raw/articles/Soils Emit Massive Amounts of Greenhouse Gases. Here’s What’s Behind It.md`
+- Created: `wiki/sources/soil-carbon-emissions-wri-2026.md`
+- Updated: `wiki/biodiversity-land/The importance of Wetlands.md`: paragraph on peat drainage emissions in "Carbon storage"; `related:` field added
+- Updated: `wiki/sectors/agriculture-food/About Food and Farming.md`: paragraph on scale of soil carbon losses in the regenerative agriculture section
+
+## [2026-11-22] ingest | Soils Emit Massive Amounts of Greenhouse Gases. Here's What's Behind It (WRI, second clip)
+- Source: `raw/articles/Soils Emit Massive Amounts of Greenhouse Gases. Here’s What’s Behind It 1.md`
+- Created: Duplicate of `raw/articles/Soils Emit Massive Amounts of Greenhouse Gases. Here’s What’s Behind It.md`, no new page (same text, clipped from the WRI newsletter link)
+
+## [2026-11-22] ingest | An all-algae diet could take wild fish out of fish farming (Anthropocene Magazine)
+- Source: `raw/articles/An all-algae diet could take wild fish out of fish farming.md`
+- Created: `wiki/sources/algae-fish-feed-trout-anthropocene-2026.md`
+- Updated: `wiki/sectors/agriculture-food/FACTS about Farming and Food production.md`: paragraph on microalgae feed in "What about fish farming?"
+
+## [2026-11-22] ingest | Switch from diesel to electric in rail transportation (The Climate Drive, WBCSD)
+- Source: `raw/articles/2026-10-31 1030.md`
+- Created: `wiki/sources/rail-diesel-to-electric-climate-drive-wbcsd.md`
+- Updated: `wiki/solutions/electrification/Decarbonising Trucking and Rail Freight.md`: new section "Switching trains from diesel to electric" (emissions, costs, abatement cost, China paragraph tagged #china)
+
+## [2026-11-22] ingest | A New Chapter in the History of Global Biodiversity Governance (COP17 Armenia, LinkedIn)
+- Source: `raw/articles/Post  LinkedIn 4.md`
+- Created: `wiki/sources/cop17-article-8j-indigenous-body-linkedin-2026.md`
+- Updated: `wiki/legislation-policy/cop17-biodiversity-yerevan-2026.md`: new section "11. Closing outcome: a permanent body for Indigenous Peoples"; tags converted to inline
+
+## [2026-11-22] ingest | Super-insulating solid may soon help old homes reach net-zero goals (New Scientist, Madeleine Cuff, 28 October 2026)
+- Source: `raw/papers/Insulation-NS.pdf`
+- Created: `wiki/sources/aerogel-insulation-old-homes-newscientist-2026.md`
+- Updated: `wiki/solutions/energy-efficiency/Net-Zero Buildings.md`: new "The hard part: old homes" section on solid-wall homes and aerogels (Thermulon, Keey Aerogel), one Key facts bullet, source, summary keywords, related, added #buildings tag
+
+## [2026-11-22] ingest | Super-insulating solid may soon help old homes reach net-zero goals (earlier version)
+- Source: `raw/papers/InsulationGel-NS.pdf`
+- Created: Duplicate of `raw/papers/Insulation-NS.pdf`, no new page (this is the pre-correction version of the same article)
+- Updated: none
+
+## [2026-11-22] ingest | Marginal oil and gas wells have outsized pollution impact (New Scientist, Madeleine Cuff, 5 November 2026)
+- Source: `raw/papers/Oil-NS.pdf`
+- Created: `wiki/sources/marginal-wells-methane-newscientist-2026.md`
+- Updated: `wiki/climate-science/Methane emissions role in Global Warming.md`: new "Small Wells, Big Leaks" section (MethaneSat study, 5% of output vs 40% of methane, 60% intensity vs 0.2% COP28 target), source, summary keywords, related
+
+## [2026-11-22] ingest | Antarctica's permafrost is emitting worrying amounts of CO2 (New Scientist, Syris Valentine, 4 November 2026)
+- Source: `raw/papers/Permafrost-NS.pdf`
+- Created: `wiki/sources/antarctica-permafrost-co2-newscientist-2026.md`
+- Updated: `wiki/climate-science/climate-tipping-points.md`: Antarctic permafrost CO2 finding added to the Permafrost tipping element, source, summary keywords
+
+## [2026-11-22] ingest | Major greenhouse gases rise again to record levels (New Scientist), NOT INGESTED
+- Source: `raw/papers/IncreaseGHG-NS.pdf`
+- Created: none. The PDF is 4 blank pages (1.6 KB, no text or images), so there was nothing to ingest.
+- Updated: none
+
+## [2026-11-22] ingest | Duplicates and files not ingested
+- `raw/articles/2026-11-02 1135 Rebecca Ratcliffe.md` and `raw/articles/At Cop17, the pressure is on to rescue a deal that could end the destruction of nature 1.md`: duplicates of the Guardian article already summarised in `wiki/sources/cop17-pressure-rescue-nature-guardian-2026.md`.
+- `raw/papers/IncreaseGHG-NS.pdf`: blank PDF (no text), not ingested.
+- `raw/infographics/2026-10-31 1030 1.md`, `2026-11-03 0702 Antonio Vizcaya Abdo.md`, `2026-11-03 0710.md`, `2026-11-03 0712.md`: clipped notes with no image file, not ingested.

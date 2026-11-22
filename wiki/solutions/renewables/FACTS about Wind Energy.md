@@ -2,15 +2,16 @@
 title: FACTS about Wind Energy
 category: solutions
 tags: ["#renewables", "#energy-transition", "#biodiversity", "#recycle", "#phaseout"]
-sources: ["Global Wind Energy Council 2022 report", "Frontiers in Marine Science (2026). https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1733177/full", "EcoPortal, July 2026. https://www.ecoportal.net/en/divers-went-check-offshore-wind-turbines/29373/", "EcoPortal, 13 August 2026. https://www.ecoportal.net/en/robot-inspected-underwater-components/32017/", "Karlsson et al., Wind Energ. Sci., 7, 801-814, 2022. https://doi.org/10.5194/wes-7-801-2022"]
+sources: ["Global Wind Energy Council 2022 report", "Frontiers in Marine Science (2026). https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1733177/full", "EcoPortal, July 2026. https://www.ecoportal.net/en/divers-went-check-offshore-wind-turbines/29373/", "EcoPortal, 13 August 2026. https://www.ecoportal.net/en/robot-inspected-underwater-components/32017/", "Karlsson et al., Wind Energ. Sci., 7, 801-814, 2022. https://doi.org/10.5194/wes-7-801-2022", "Lato et al., Scientific Reports, 2026. https://dx.doi.org/10.1038/s41598-026-63407-0"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: "wind turbines global capacity 837 GW, onshore offshore floating wind, GE Haliade-X turbine, capacity factor, balsa wood Amazon deforestation, blade recycling, Sofia wind farm Siemens Gamesa recyclable blades, PET foam blade material, decommissioned turbine parking building Lund Sweden, China wind cost breakthrough, Gobi desert, Formosa Wind Farm Taiwan 86 reef fish species, Miaoli County SCUBA survey, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, attraction versus production debate, Hywind Scotland floating wind pilot park, Equinor, 121 forms of sea life, soft corals deep-sea stony corals, mooring lines suction anchors, robot submersible survey"
+updated: 2026-11-22
+summary: "wind turbines global capacity 837 GW, onshore offshore floating wind, GE Haliade-X turbine, capacity factor, balsa wood Amazon deforestation, blade recycling, Sofia wind farm Siemens Gamesa recyclable blades, PET foam blade material, decommissioned turbine parking building Lund Sweden, China wind cost breakthrough, Gobi desert, Formosa Wind Farm Taiwan 86 reef fish species, Miaoli County SCUBA survey, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, attraction versus production debate, Hywind Scotland floating wind pilot park, Equinor, 121 forms of sea life, soft corals deep-sea stony corals, mooring lines suction anchors, robot submersible survey, US Atlantic food web modelling southern New England, Biodiversity Research Institute, mussels bivalves sediment invertebrates, mature stable food webs"
 related:
   - FACTS about Clean & GREEN Hydrogen
   - Geothermal energy
   - IRELAND Wind Energy
   - solar-on-peatland
+  - offshore-wind-food-webs-phys-2026
 ---
 
 ## How Much Wind Power Is Out There
@@ -94,6 +95,15 @@ This is a colder, deep-water North Atlantic site, unlike Formosa's shallow sandy
 
 *Source: [Hywind Scotland robot reef survey (source summary)](../../sources/hywind-scotland-robot-reef-survey-2026.md). Karlsson et al., Wind Energ. Sci., 2022; EcoPortal, 13 August 2026*
 
+## 2026: Modelling the Whole Food Web off the US Atlantic Coast
+<!-- tag: us -->
+
+The Taiwan and Scotland cases counted what grows on turbines. A November 2026 study in *Scientific Reports*, led by Kim Lato of the Biodiversity Research Institute and the University of New Hampshire, asked what this does to the **wider food web**. The team built food web models for three offshore wind sites in southern New England, comparing conditions before construction with those about four years after.
+
+The models suggest offshore wind may shift food webs towards a more mature and stable state, though results varied between sites. Animals living in the seabed sediment mattered most to how the food web works, and among species growing on the turbines, mussels and other bivalves had the biggest influence on how energy moves between species. The researchers also flagged large gaps in what is known, especially about microorganisms and nutrient recycling. These are models built from existing data rather than new field surveys, so they point to what to monitor next rather than settling the question.
+
+*Source: [Offshore wind and marine food webs (source summary)](../../sources/offshore-wind-food-webs-phys-2026.md). Lato et al., Scientific Reports, 2026; Phys.org, 5 November 2026*
+
 ## Sources
 
 - Global Wind Energy Council, Global Wind Report 2022. https://gwec.net/global-wind-report-2022/
@@ -106,3 +116,4 @@ This is a colder, deep-water North Atlantic site, unlike Formosa's shallow sandy
 - South China Morning Post, "Historic breakthrough: China's installed wind turbine cost drops to one-fifth of US"
 - Frontiers in Marine Science (2026), Formosa Wind Farm reef survey. [source summary](../../sources/taiwan-offshore-wind-reef-fish-2026.md)
 - Karlsson et al., Wind Energy Science, 7, 801-814, 2022; EcoPortal, 13 August 2026. [source summary](../../sources/hywind-scotland-robot-reef-survey-2026.md)
+- Lato et al., *Scientific Reports* (2026); Phys.org / Biodiversity Research Institute, 5 November 2026. https://phys.org/news/2026-11-explores-offshore-marine-food-webs.html [source summary](../../sources/offshore-wind-food-webs-phys-2026.md)

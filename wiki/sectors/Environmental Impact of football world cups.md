@@ -2,14 +2,16 @@
 title: "Environmental Impact of Football World Cups"
 category: sectors
 tags: ["#sport", "#carbon", "#aviation", "#adaptation"]
-sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assessment", "Reuters, 10 June 2026. https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/", "Outrage+Optimism podcast, June 2026", "We Don't Have Time, Markus Lutteman, June 2026. https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95", "Covering Climate Now, 23 July 2026. https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/"]
+sources: ["FIFA official reports", "Carbon Market Watch", "Greenly carbon assessment", "Reuters, 10 June 2026. https://www.reuters.com/business/environment/volatile-summer-weather-threatens-turn-world-cup-into-test-heat-2026-06-10/", "Outrage+Optimism podcast, June 2026", "We Don't Have Time, Markus Lutteman, June 2026. https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95", "Covering Climate Now, 23 July 2026. https://coveringclimatenow.org/from-us-story/the-world-cup-story-almost-no-one-told/", "The Guardian, Paul MacInnes, 17 November 2026. https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes, FIFPRO, wet-bulb globe temperature thresholds, Telemundo, Vanessa Hauc, Enzo Fernandez, Miami heat, Kansas City heat, tennis cooling breaks, LA Marathon"
+updated: 2026-11-22
+summary: "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes, FIFPRO, wet-bulb globe temperature thresholds, Telemundo, Vanessa Hauc, Enzo Fernandez, Miami heat, Kansas City heat, tennis cooling breaks, LA Marathon, UN Sports for Climate Action Framework, UNFCCC complaint, record of failure, New Weather Institute, Fossil Free Football, FairSquare, 2030 World Cup six countries 64 teams, 2027 women's World Cup"
 related:
   - home-cooling-heatwaves
   - Wet-Bulb explained
   - Facts about Air Travel
+  - fifa-un-sports-climate-complaint-guardian-2026
+  - heatwaves-and-sport
 ---
 
 Recent host countries built huge amounts of new infrastructure. The 2026 World Cup is different: most of its carbon comes from **geographic scale and travel**.
@@ -91,6 +93,10 @@ University of Manchester researchers put it plainly: "FIFA has made elite men's 
 
 It does not end with 2026. The 2034 World Cup has been awarded to Saudi Arabia, a country that has repeatedly blocked progress at UN climate negotiations while continuing to expand oil production.
 
+### November 2026: a complaint to the UN
+
+In November 2026, during COP31, five groups (the New Weather Institute, New Weather Institute Sweden, Fossil Free Football, Scientists for Global Responsibility and FairSquare) asked the UN to review FIFA's membership of the **UN Sports for Climate Action Framework**. Members of this voluntary coalition promise to halve their emissions by 2030, and can be removed if their "sincerity in participation" is in doubt. The complaint says FIFA has "a record of failure": it grew the men's World Cup from 64 matches in 2022 to 104 in 2026, and the 2030 edition is due to span six countries on three continents, possibly with 64 teams, in the very year FIFA's emissions should have halved. It also argues that the Aramco partnership uses football's platform to obstruct climate action, and that Aramco's advertising will be "inescapable" at the 2027 women's World Cup. FIFA had not responded when the complaint was reported. See the [FIFA UN complaint source summary](../sources/fifa-un-sports-climate-complaint-guardian-2026.md).
+
 ## The President's Jet: A Case Study in Leadership Failure
 
 FIFA made environmental pledges for the 2026 tournament: grouping teams by region, promoting electric transport and using existing stadiums. Meanwhile, BBC Verify used FlightRadar24 data to track a private jet linked to FIFA president **Gianni Infantino** throughout the group stage.
@@ -115,3 +121,4 @@ Back on local pitches, the effects of climate change are already visible. Across
 - We Don't Have Time, Markus Lutteman, June 2026. https://app.wedonthavetime.org/posts/44991735-7f37-43f6-bca2-c677af540e95
 - Scientists for Global Responsibility (SGR), 2026. https://www.sgr.org.uk/resources/2026-fifa-men-s-world-cup-be-most-polluting-ever
 - BBC Verify, Jake Horton et al., 28 June 2026. https://www.bbc.com/sport/football/articles/cgev5wy0zg3o
+- The Guardian, Paul MacInnes, 17 November 2026. https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion

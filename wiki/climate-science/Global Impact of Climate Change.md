@@ -3,13 +3,14 @@ title: "Global Impact of Climate Change: 1.5°C, Tipping Points and What's Alrea
 category: climate-science
 tags: ["#science", "#adaptation", "#ocean"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: 1.5 degrees Celsius threshold, Paris Agreement, net-zero emissions, carbon budget, Shared Socioeconomic Pathways, SSPs, Integrated Assessment Models, Arctic amplification, ocean heat uptake, ocean acidification, extreme precipitation, glacier retreat, Greenland ice sheet, Antarctic sea ice, sea-level rise, AMOC Atlantic overturning circulation, tipping points, carbon cycle feedbacks, permafrost thaw, coral bleaching, warm-water coral dieback, aerosols cooling effect, Climate Action Tracker
+updated: 2026-11-22
+summary: 1.5 degrees Celsius threshold, Paris Agreement, net-zero emissions, carbon budget, Shared Socioeconomic Pathways, SSPs, Integrated Assessment Models, Arctic amplification, ocean heat uptake, ocean acidification, extreme precipitation, glacier retreat, Greenland ice sheet, Antarctic sea ice, sea-level rise, AMOC Atlantic overturning circulation, tipping points, carbon cycle feedbacks, permafrost thaw, coral bleaching, warm-water coral dieback, aerosols cooling effect, Climate Action Tracker, 2026 record year El Niño, 1.37C long-term warming, Earth energy imbalance, safe temperature for ice 1C, Arctic sea ice minimum 2026
 related:
   - What is Climate Change
   - Emissions and the Global Carbon Cycle
   - amoc-collapse-carbon
   - record-hot-ocean-el-nino-2026
+  - state-of-the-climate-2026-carbonbrief
 ---
 
 # Global Impact of Climate Change: 1.5°C, Tipping Points and What's Already Happening
@@ -70,6 +71,14 @@ The **Antarctic ice sheet** holds nearly 70% of the planet's fresh water across 
 
 Human-made **aerosols**, tiny sulphur or nitrogen particles that reflect sunlight back to space, add one more layer of uncertainty. They cool the planet, though by how much is uncertain, and they only last a short time in the atmosphere. So if the activities that produce them (mostly burning fossil fuels) stop, the cooling disappears quickly. That could unmask extra warming that fossil fuels had been holding back by accident.
 
+## Where things stand in late 2026
+
+The figure of 1.1-1.3°C at the top of this page is now out of date. The long-term average has reached about **1.37°C** above pre-industrial levels, and Copernicus expects 1.5°C to be crossed around 2030 ([RTÉ](../sources/cryosphere-overshoot-glaciers-rte-2026.md)). Single years run hotter because of natural swings. Carbon Brief expects 2026 to end at about 1.52°C, tying with 2024 as the warmest year on record, and projects 2027 at around 1.74°C as a record-breaking El Niño peaks ([Carbon Brief](../sources/state-of-the-climate-2026-carbonbrief.md)). A single year above 1.5°C is not a breach of the Paris goal, which refers to a long-term average.
+
+Warming is also speeding up. Earth's energy imbalance, the difference between the energy the planet absorbs from the sun and the energy it sends back to space, has risen from about 0.53 watts per square metre in 2000-2010 to about 1.25 in 2016-2026, a 2.4-fold increase. Around 90% of the extra heat goes into the oceans ([Carbon Brief](../sources/state-of-the-climate-2026-carbonbrief.md)).
+
+For the world's ice, two 2026 reports go further than the 2023 cryosphere report quoted above. They say today's warming is already "unsafe" for the Arctic, Antarctic and mountain glaciers, that a truly safe level for ice is closer to 1°C, and that overshooting 1.5°C will bring "large-scale and in many cases irreversible impacts" ([RTÉ](../sources/cryosphere-overshoot-glaciers-rte-2026.md)).
+
 ## Sources
 
 - World Meteorological Organization, 2023 climate records. https://wmo.int/news/media-centre/2023-shatters-climate-records-major-impacts
@@ -95,3 +104,5 @@ Human-made **aerosols**, tiny sulphur or nitrogen particles that reflect sunligh
 - Global Tipping Points report, 2023. https://global-tipping-points.org/summary-report/key-messages/
 - Stockholm Resilience Centre, World reaches first climate tipping point: widespread mortality of coral reefs (Global Tipping Points Report 2025), 13 October 2025. https://www.stockholmresilience.org/research/research-stories/2025-10-13-world-reaches-first-climate-tipping-point---widespread-mortality-of-coral-reefs.html
 - Andrew Dessler, The Climate Brink. https://www.theclimatebrink.com/p/a-truly-worst-case-climate-scenario
+- Carbon Brief, Zeke Hausfather, 3 November 2026. https://www.carbonbrief.org/state-of-the-climate-2026-likely-to-tie-with-2024-as-the-warmest-year-on-record
+- RTÉ News, Colman O'Sullivan, 2 November 2026. https://www.rte.ie/news/world/2026/1102/1597677-un-climate-ice/

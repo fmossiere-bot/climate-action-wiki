@@ -1,14 +1,15 @@
 ---
 title: Biodiversity for Business 101
 category: biodiversity-land
-tags:
-  - biodiversity
-  - nature
-  - esg
-  - ireland
+tags: ["#biodiversity", "#nature", "#esg", "#ireland"]
 created: 2024-06-01
-updated: 2026-10-28
-summary: " Biodiversity Objectives for Business, Business for Biodiversity, why biodiversity matters to businesses, supply chain, impact of businesses on biodiversity"
+updated: 2026-11-22
+summary: " Biodiversity Objectives for Business, Business for Biodiversity, why biodiversity matters to businesses, supply chain, impact of businesses on biodiversity, Trinity Business + Nature Hub, IPBES Business and Biodiversity assessment, nature transition plans 2 percent vs climate plans 63 percent, 55 percent global GDP $58 trillion, nature as critical infrastructure, IBEC, Mary Robinson, self-assessment tool, pollinators soil floodplains"
+related:
+  - trinity-business-nature-hub-2026
+  - nature-at-a-crossroads-reuters-2026
+  - issb-nature-practice-statement-2026
+  - Ireland Biodiversity Plan
 ---
 ### Beyond carbon: why biodiversity matters to business
 
@@ -61,8 +62,12 @@ Even so, most companies have still not acknowledged the risks that biodiversity 
 > It is positive to see an increase in the number of Irish companies recognising biodiversity and nature loss as a business risk since the last survey. This could reflect the increasedfocus on biodiversity in Ireland, with initiatives such as the All-Ireland Pollinator Plan helping corporates to take meaningful action. However, as the CSRD requirements and TNFD guidance come into play, many more companies will need to assess the risks that biodiversity loss poses to their business model. Businesses must begin work now to map their value chains and understand how and where their activities interface with nature”
 
 
+### November 2026: Trinity's Business + Nature Hub
+<!-- tag: ireland -->
 
+In November 2026, more than 150 business, finance and policy leaders met at Trinity College Dublin for "Business + Nature: The Imperative for Action", the launch event of the new Trinity Business + Nature Hub. Its message was that nature is **critical infrastructure** for business. Professor Martha O'Hagan of Trinity Business School said 55% of global GDP, or $58 trillion, depends on nature. That is higher than the World Economic Forum's $44 trillion figure quoted above, a reminder that these estimates vary with the method used ([Trinity College Dublin](../sources/trinity-business-nature-hub-2026.md)).
 
+Authors of the IPBES report on business and biodiversity told the event that only 2% of the biggest businesses have nature transition plans, against 63% with climate plans. Business leaders from the energy, food, insurance, finance and packaging sectors demonstrated a self-assessment tool, developed by Trinity researchers, that helps companies start acting for nature ([Trinity College Dublin](../sources/trinity-business-nature-hub-2026.md)).
 
 ---
 # Sources
@@ -70,6 +75,7 @@ Even so, most companies have still not acknowledged the risks that biodiversity 
 - [UN - Biodiversity Conference (Montreal, Dec 2022)](https://www.unep.org/events/conference/un-biodiversity-conference-cop-15)
 - [UN - Convention on Biological Diversity](https://www.un.org/en/observances/biological-diversity-day/convention)
 - [Business for Biodiversity Ireland](https://businessforbiodiversity.ie/)
+- Trinity College Dublin, "Business and policy leaders join forces to drive action for nature", 16 November 2026. https://www.tcd.ie/news_events/articles/2026/business--nature-event/
 - [KPMG Survey of Sustainability Reporting 2022](evernote:///view/1733566/s15/3f3087ad-7544-4cb0-a39c-f2b60d4c4249/53140278-a9c0-4ad7-9b6b-c9aebb8bc0e1)
 
 - ►  [National Biodiversity Data Centre](https://biodiversityireland.ie/)

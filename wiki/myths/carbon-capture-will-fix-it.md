@@ -6,9 +6,9 @@ sources:
   - Hannah Ritchie, Not the End of the World (2024)
   - Oxford University Smith School, cost of CCS pathways
 created: 2026-07-28
-updated: 2026-10-28
+updated: 2026-11-22
 cover_image: ""
-summary: CCS, carbon capture and storage, Hannah Ritchie, 45 sites, 0.1% of global emissions, 149 projects, 100 cancelled, 80% US CCS projects failed, cement steel fertiliser 15% emissions, Oxford CCS pathways, $1 trillion per year cost, gas with CCS, silver bullet, delay decarbonisation, fossil fuel industry profits, $4 trillion 2022 profits, $100 per tonne, DAC direct air capture
+summary: CCS, carbon capture and storage, Hannah Ritchie, 45 sites, 0.1% of global emissions, 149 projects, 100 cancelled, 80% US CCS projects failed, cement steel fertiliser 15% emissions, Oxford CCS pathways, $1 trillion per year cost, gas with CCS, silver bullet, delay decarbonisation, fossil fuel industry profits, $4 trillion 2022 profits, $100 per tonne, DAC direct air capture, novel carbon removal 0.002 billion tonnes, DAC over $1,000 per tonne, Jonathan Foley, predatory delay
 claim_id: carbon-capture-will-fix-it
 verdict: mostly-false
 topic: energy
@@ -16,6 +16,7 @@ related:
   - The Energy Supercycle is Unstoppable
   - fossil-fuel-banking
   - Greenwashing
+  - carbon-removal-reckless-foley-drawdown-2026
 ---
 
 # Myth: we can just keep burning fossil fuels and capture the CO2
@@ -76,8 +77,11 @@ Direct air capture (DAC) is related but different. It pulls CO2 out of the open 
 
 Research is chipping away at the cost. In April 2026 a team at Chiba University described new solid materials, called viciazites, that release captured CO2 below 60°C, well under the 100°C or more that today's liquid amine systems need. That could let plants reuse waste heat instead of burning extra fuel, which would cut running costs. It is a lab result, not a working plant, and it doesn't change the verdict here: CCS still runs at 45 sites and catches about 0.1% of emissions. It does strengthen the case for using CCS in cement and steel, where there are few alternatives. See the [viciazites source summary](../sources/viciazites-cheaper-ccs-chiba-2026.md).
 
+Direct air capture is even further behind. Jonathan Foley of Project Drawdown noted in October 2026 that all "novel" carbon removal, the kind that stores CO2 durably, comes to about 0.002 billion tonnes a year, roughly 17 minutes of global emissions. Direct air capture costs more than $1,000 per tonne, so removing 1 billion tonnes a year (1.6% of today's emissions) would cost over $1 trillion a year, and storing it would need thousands of new wells every year. He warns that betting on future removal invites "predatory delay". See the [Foley carbon removal source summary](../sources/carbon-removal-reckless-foley-drawdown-2026.md).
+
 ## Sources
 
 - Hannah Ritchie, *Not the End of the World* (Chatto & Windus, 2024)
 - Smith School of Enterprise and the Environment, University of Oxford. Cost modelling of CCS-heavy and CCS-light pathways
 - IEA, Global CCUS status
+- Project Drawdown, Jonathan Foley, October 2026. https://drawdown.org/insights/heres-why-assuming-massive-growth-in-carbon-removal-is-reckless-and-unwarranted

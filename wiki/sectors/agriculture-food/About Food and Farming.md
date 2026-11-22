@@ -3,8 +3,8 @@ title: About Food and Farming - Challenges, Regenerative Agriculture and Decarbo
 category: sectors
 tags: ["#agriculture", "#food", "#methane", "#nature-based-solutions"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: global food system emissions, food and farm worker exploitation, food inequality, farmer livelihoods, off-farm income, Sri Lanka organic farming ban, regenerative agriculture, soil health principles, soil carbon sequestration, 4 per mille initiative, cover cropping, biochar, crop rotation, carbon offsets for farmers, soil carbon measurement tools, chemical fertiliser emissions, nitrous oxide, vertical farming, precision fermentation, alternative proteins, food transport and refrigeration, dietary shift, seaweed farming, food waste, composting, agroecology, cultured meat, dairy farm transition
+updated: 2026-11-22
+summary: global food system emissions, food and farm worker exploitation, food inequality, farmer livelihoods, off-farm income, Sri Lanka organic farming ban, regenerative agriculture, soil health principles, soil carbon sequestration, 4 per mille initiative, cover cropping, biochar, crop rotation, carbon offsets for farmers, soil carbon measurement tools, chemical fertiliser emissions, nitrous oxide, vertical farming, precision fermentation, alternative proteins, food transport and refrigeration, dietary shift, seaweed farming, food waste, composting, agroecology, cultured meat, dairy farm transition, soil carbon losses, peat drainage, tillage, Iowa, Ireland farming model, women farmers, Pippa Hackett, International Year of the Woman Farmer
 related:
   - Food Carbon FootPrint
   - FACTS about Farming and Food production
@@ -42,6 +42,8 @@ Several thinkers have proposed ways to fix the system. Ecologist Jonathan Foley 
 **Regenerative agriculture** has many definitions. One widely cited version, developed through academic research, describes it as farming that starts with protecting the soil and uses that to restore a wider range of natural services, improving the environmental, social and economic sides of food production together. It is sometimes also called carbon farming or agroecology.
 
 Soil is the largest store of carbon on land, holding three to four times more carbon than the atmosphere. Human activity has drained a lot of it: clearing forests, turning natural ecosystems into farmland, and decades of poor soil management. Many soils now release more carbon than they take in. The flip side is an opportunity. Plants can pull carbon out of the air through photosynthesis and put the "lost" carbon back into the ground. The **4 per mille initiative**, launched in 2015 as a call to action for farmers and communities, is built on one calculation: raising the carbon stored in the world's soils by just 0.4% a year could offset all fossil fuel emissions. Practices that help include cover crops, adding compost, biochar (a kind of charcoal added to soil), crop rotation and restoring wetlands.
+
+The scale of the losses is large. A 2026 analysis by the World Resources Institute found that soils disturbed by people released about **3.9 billion tonnes of greenhouse gases a year** between 2016 and 2024, roughly the combined fossil fuel emissions of India and Saudi Arabia. Two-thirds came from drained or burned peat, while ordinary farm and grassland soils lost about 1.3 billion tonnes of CO2 a year. Tillage plays a big part: the US state of Iowa has lost half of its cropland soil carbon in 200 years. Rebuilding is possible with cover crops, agroforestry and less ploughing, but it is slow and often takes decades to measure ([WRI on soil carbon](../../sources/soil-carbon-emissions-wri-2026.md)).
 
 Soil health rests on five core principles:
 
@@ -104,6 +106,11 @@ Diversifying makes a farm less dependent on any one thing going right, whether t
 
 Cultured (lab-grown) meat is one response to the scale of today's meat production, in which roughly 95% of farmed animals are raised in factory farms. Researchers in the field broadly agree that cultured meat will not replace all meat. They see it as one part of a more sustainable mix of proteins alongside other approaches, and it is an energy-hungry process in its own right. Vertical farming is similar. It makes sense for some crops, such as lettuce, but others, like carrots, still need to grow in open ground, and making vertical farms pay at scale remains a real challenge. On the food waste side, start-ups including Too Good To Go, Mill and Bokashi Living are among those building businesses around throwing less away.
 
+## An Irish view: changing the farming model from the ground up
+<!-- tag: ireland -->
+
+In a November 2026 opinion piece, Pippa Hackett, a former Green Party Minister of State at the Department of Agriculture, argued that Irish farming was built on a model of growth and control that leaves farmers squeezed by the supply chain and exposed to climate shocks, market swings and rising input costs ([Women farmers challenging the system](../../sources/women-farmers-ireland-hackett-thejournal-2026.md)). She sees the dairy sector as especially vulnerable, since rye grass struggles in a changing climate and fertiliser is no longer cheap. The change she describes is coming from farmers who go organic, adopt regenerative practices or sell directly to customers, and many of them are women. 2026 is the UN's International Year of the Woman Farmer, yet women in Irish farming could only pay contributory pensions on their farm work from 2014 and are often passed over as successors. It is one politician's view rather than evidence, but it reflects real pressures on Irish farms.
+
 ## Sources
 
 - Terra.do, Food and Farming course (Classes 1-5), Dr Laney Siegner
@@ -132,3 +139,5 @@ Cultured (lab-grown) meat is one response to the scale of today's meat productio
 - US EPA, wasted food scale. https://www.epa.gov/sustainable-management-food/wasted-food-scale
 - Katharine Hayhoe newsletter, food waste solutions around the world
 - Anadolu Agency, How South Korea won the battle against food waste. https://aa.com.tr/en/asia-pacific/how-south-korea-won-the-battle-against-food-waste/3225193
+- World Resources Institute, Gibbs, Glen, Harris, Scafidi and Isik, "Soils Emit Massive Amounts of Greenhouse Gases. Here's What's Behind It", November 2026. https://www.wri.org/insights/soil-carbon-explained
+- The Journal, Dr Pippa Hackett, November 2026. https://www.thejournal.ie/readme/farming-in-ireland-7207505-Nov2026/

@@ -3,8 +3,12 @@ title: "Carbon Removal: What are we talking about? a guide to the different opti
 category: solutions
 tags: ["#carbon-removal", "#carbon", "#science", "#forest"]
 created: 2023-11-01
-updated: 2026-10-28
-summary: "What is Carbon Dioxide removal and Why we need it, CAVEATS interesting people and articles, SCALE = Unrealistic Expectations, Fast Moving space, Nature-Base Solutions: Land and Ocean Sinks, Risk Facing Nature-Based solutions, Forests: How important are forests for climate stability, Peatlands, Sequestering soil carbon on farms, Ocean and Coastal Solutions, Seaweed Farming, Technological, Geological and Hybrid removal solutions, Industrial-point-source carbon capture and storage (CCS) or carbon capture and utilisation (GCU), Technological solutions face their own challenges: , Direct Air Capture (DAC), BECCS (Hybrid), A Contested Space, Agenda, ==PRICE DIFFERENCE, SCALE, Additionality, Leakage, Permanence, Additional social and environmental harm, 15 percent of the world’s peatlands, Cost remains high"
+updated: 2026-11-22
+summary: "What is Carbon Dioxide removal and Why we need it, CAVEATS interesting people and articles, SCALE = Unrealistic Expectations, Fast Moving space, Nature-Base Solutions: Land and Ocean Sinks, Risk Facing Nature-Based solutions, Forests: How important are forests for climate stability, Peatlands, Sequestering soil carbon on farms, Ocean and Coastal Solutions, Seaweed Farming, Technological, Geological and Hybrid removal solutions, Industrial-point-source carbon capture and storage (CCS) or carbon capture and utilisation (GCU), Technological solutions face their own challenges: , Direct Air Capture (DAC), BECCS (Hybrid), A Contested Space, Agenda, ==PRICE DIFFERENCE, SCALE, Additionality, Leakage, Permanence, Additional social and environmental harm, 15 percent of the world’s peatlands, Cost remains high, conventional versus novel removal, double counting forest regrowth, 0.002 billion tonnes novel removal, biochar 0.7 billion tonnes, CMIP7 scenarios, Jonathan Foley Project Drawdown, predatory delay"
+related:
+  - carbon-removal-reckless-foley-drawdown-2026
+  - carbon-capture-will-fix-it
+  - un-overshoot-2.8c-newscientist-2026
 ---
 
 
@@ -31,6 +35,14 @@ The EU has recognised this and has limited the part carbon removal can play in i
 Cost is one of the biggest obstacles for every kind of CDR. Today, removing one tonne of CO2 with direct air capture costs around $600 to $800. Some forecasts say this could fall to $200 to $300 by 2030, but experts disagree on whether even that is realistic.
 
 Forest carbon credits, by comparison, sell for around $5 to $15 per tonne. That price gap explains why so many companies choose tree-planting offsets. But cheaper does not mean the same. Forest carbon carries real risks: trees die, forests burn, and carbon stored in wood is not removed for good. In carbon accounting, how long the carbon stays locked away matters a great deal.
+
+---
+
+### How Much Removal Exists Today (2026)
+
+In October 2026, Jonathan Foley, executive director of Project Drawdown, set out how little carbon removal actually happens, drawing on Carbon Brief's analysis. "Conventional" removal, mostly forests regrowing on cleared land, comes to nearly 2 billion tonnes of CO2 a year, but that regrowth is already counted in land-use emissions, so counting it again as removal is double-counting. "Novel" removal, which stores CO2 durably, is about **0.002 billion tonnes a year**, equal to roughly 17 minutes of the world's yearly emissions. Most of it is BECCS, followed by biochar, which Project Drawdown thinks could reach at most about 0.7 billion tonnes a year.
+
+Some recent scenarios used by climate modellers assume 10 to 30 billion tonnes of engineered removal a year by 2100, a 5,000- to 15,000-fold increase on today. Foley calls these assumptions "bedtime stories" and warns they feed "predatory delay", where promises of future technology replace action now. He puts direct air capture at more than $1,000 per tonne, higher than the range quoted above, and notes that storing 1 billion tonnes a year underground would need thousands of new wells every year. See the [Foley carbon removal source summary](../../sources/carbon-removal-reckless-foley-drawdown-2026.md).
 
 ---
 
@@ -145,3 +157,5 @@ Be sceptical of any plan, from a company or a country, that leans heavily on fut
 - [_Nature:_ Trees outside of forests as natural climate solutions](https://www.researchgate.net/publication/356541413_Trees_outside_of_forests_as_natural_climate_solutions)
 - IUCN, Peatlands and climate change (issues brief), November 2021. https://www.iucn.org/resources/issues-brief/peatlands-and-climate-change
 - Arctic Today, "World's largest direct air capture plant goes operational in Iceland", May 2024. https://arctictoday.com/worlds-largest-direct-air-capture-plant-goes-operational-in-iceland
+- Project Drawdown, Jonathan Foley, October 2026. https://drawdown.org/insights/heres-why-assuming-massive-growth-in-carbon-removal-is-reckless-and-unwarranted
+- Carbon Brief, "Guest post: The state of carbon dioxide removal in seven charts". https://www.carbonbrief.org/guest-post-the-state-of-carbon-dioxide-removal-in-seven-charts

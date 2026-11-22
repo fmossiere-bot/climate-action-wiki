@@ -3,12 +3,14 @@ title: "Local Impact and Extreme Events Attribution: When Climate Change Hits Ho
 category: climate-science
 tags: ["#science", "#adaptation", "#agriculture"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: extreme event attribution, World Weather Attribution, Friederike Otto, Pacific Northwest heat dome, AR6 attribution confidence, Hurricane Harvey, climate justice, disaster vulnerability and exposure, Pakistan floods 2022, non-linearity, food security, migration, critical infrastructure, wet-bulb survivability threshold, heat-related deaths Europe, Delhi heatwave, Sicily drought tourism, Catalunya water restrictions, water scarcity Spain, desalination
+updated: 2026-11-22
+summary: extreme event attribution, World Weather Attribution, Friederike Otto, Pacific Northwest heat dome, AR6 attribution confidence, Hurricane Harvey, climate justice, disaster vulnerability and exposure, Pakistan floods 2022, non-linearity, food security, migration, critical infrastructure, wet-bulb survivability threshold, heat-related deaths Europe, Delhi heatwave, Sicily drought tourism, Catalunya water restrictions, water scarcity Spain, desalination, Carbon Impacts Tracer, project-level damage attribution, Scarborough gas project, drop in the ocean defence
 related:
   - What is Climate Change
   - Global Impact of Climate Change
   - Wet-Bulb explained
+  - carbon-impacts-tracer-conversation-2026
+  - climate-change-and-health
 ---
 
 # Local Impact and Extreme Events Attribution: When Climate Change Hits Home
@@ -28,6 +30,10 @@ The IPCC's Working Group I contribution to AR6 (August 2021) calls it an "establ
 This has practical consequences. In the US alone, the [frequency of disasters costing over $1 billion is rising](https://www.ncdc.noaa.gov/billions/). Worldwide, 2021 saw 47 separate weather disasters costing a billion dollars or more each, totalling $343 billion in damages ([Yale Climate Connections](https://yaleclimateconnections.org/2022/01/third-costliest-year-on-record-for-weather-disasters-in-2021-343-billion-in-damages/)). That is one reason insurers follow attribution science closely. It matters for climate justice too. Researchers who compared Hurricane Harvey's climate-attributed flood damage with census data on income and background [found in Nature](https://www.nature.com/articles/s41467-022-31056-2) that up to half of the buildings flooded would have stayed dry without human-caused climate change. The damage fell disproportionately on poorer, largely Latinx neighbourhoods.
 
 Several tools let anyone look at local climate risk for themselves: the [Climate Impacts Explorer](http://climate-impact-explorer.climateanalytics.org/), the [IPCC's Interactive Atlas](https://interactive-atlas.ipcc.ch/), [Climate Central's coastal flood risk map](https://coastal.climatecentral.org/), the [World Bank's Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/), [Probable Futures](https://probablefutures.org/), and [Cloud to Street](https://www.cloudtostreet.ai/) for flood tracking.
+
+## From Events to Projects: Tracing Damage to a Single Source
+
+Attribution science asks how much climate change worsened an event. A newer step asks how much damage one source of emissions will cause. The **Carbon Impacts Tracer**, an open-source tool launched in September 2026 by researchers in Australia and the UK, uses the IPCC finding that warming rises by about 0.45°C for every trillion tonnes of CO2 emitted. It works out the extra warming from a project's published emissions, then applies robust studies to estimate damage across eight areas. Woodside's proposed Browse to North West Shelf gas project, for example, would add 1,597 megatonnes of CO2 and 0.00072°C of warming, enough for almost 200,000 more people to face an extra week of dangerous heat each year. The tool only includes harms with strong, reproducible evidence, which is why heatwave deaths are counted for Europe but not yet for Australia: the same Global North research bias described above. See the [Carbon Impacts Tracer source summary](../sources/carbon-impacts-tracer-conversation-2026.md).
 
 ## Disasters Are More Than Weather
 
@@ -90,3 +96,4 @@ The region's response has five strands: restoring water basins to stop seawater 
 - CNN, Delhi heat records and water rationing, 29 May 2024. https://edition.cnn.com/2024/05/29/weather/india-heat-record-water-rationing-intl/index.html
 - The New York Times, Sicily drought and tourism, 24 July 2024. https://www.nytimes.com/2024/07/24/world/europe/drought-farming-tourism.html
 - Écologie 360, Catalunya water shortage solutions
+- The Conversation, Claudia Stepin and co-authors, 28 September 2026. https://theconversation.com/we-can-finally-measure-the-damage-each-new-coal-gas-or-oil-project-will-do-to-people-and-nature-292128

@@ -1,12 +1,14 @@
 ---
 title: "Corporate Climate Action: Where Businesses Stand"
 category: legislation
-tags:
-  - esg
-  - science
+tags: ["#esg", "#science"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: "Class Structure, Key Terms, What is net-zero, What are scope 1, 2, and 3 emissions, Science-Based Targets, Other Terms, Greenwashing, Why Take Action: Risks and Opportunities, Financial Risks and Opportunities, Technology Risks: Cement Case Study, Market Risk: Changing Customer Demands, Reputational Risk: Climate Talent, Acute Physical Risks, Chronic Physical Risks, Care, Opportunities, Sometimes you just need data, Case Studies in Sustainable Business Model Innovation, On the Ground: Status of Corporate Climate Action, Corporations and Climate: A History, A Rising Tide of Pledges & Targets, But Scope 3 Emissions Missing, Do Pledges Have Teeth, The Same Data, One Year Later, The Gap Between Pledges and Commitments, Blind Spots, A Tipping Point or Mirage, Case Study of Going Green: Microsoft, Microsoft and Scope 3 emissions, BEST PRACTICES, So, What To Do, Set science-based targets, Make a Plan to Zero, Measure to Discover What Matters, Addressing Scope 1 and 2 Emissions, Internal Carbon Pricing, Good Carbon Removal, Action happens collectively, Key Takeaways, Ambition, Action, Advocacy, Accountability, ABSOLUTE ZERO, CLIMATE NEUTRAL, CARBON NEUTRAL, 1.5 C ALIGNED, SCIENCE-BASED / PARIS-ALIGNED, OFFSETTING, INSETTING, Offsets, Renewable Energy Credits, Forest carbon offsets, Transition Risks, Physical Risks, Talent risk, Schneider Electric, Yara, Fairphone, scope 1 and scope 2 emissions, Accountability), (Ambition), (Advocacy), (Accountability), Advocacy), Focus on rapid, deep emission cuts, Set near- and long-term targets, No net-zero claims until long-term targets are met, Go beyond the value chain, Bonus, ambition, action, advocacy, 1. Find Your Champions, 2. Educate, 3. Evolve"
+updated: 2026-11-22
+summary: "Class Structure, Key Terms, What is net-zero, What are scope 1, 2, and 3 emissions, Science-Based Targets, Other Terms, Greenwashing, Why Take Action: Risks and Opportunities, Financial Risks and Opportunities, Technology Risks: Cement Case Study, Market Risk: Changing Customer Demands, Reputational Risk: Climate Talent, Acute Physical Risks, Chronic Physical Risks, Care, Opportunities, Sometimes you just need data, Case Studies in Sustainable Business Model Innovation, On the Ground: Status of Corporate Climate Action, Corporations and Climate: A History, A Rising Tide of Pledges & Targets, But Scope 3 Emissions Missing, Do Pledges Have Teeth, The Same Data, One Year Later, The Gap Between Pledges and Commitments, Blind Spots, A Tipping Point or Mirage, Case Study of Going Green: Microsoft, Microsoft and Scope 3 emissions, BEST PRACTICES, So, What To Do, Set science-based targets, Make a Plan to Zero, Measure to Discover What Matters, Addressing Scope 1 and 2 Emissions, Internal Carbon Pricing, Good Carbon Removal, Action happens collectively, Key Takeaways, Ambition, Action, Advocacy, Accountability, ABSOLUTE ZERO, CLIMATE NEUTRAL, CARBON NEUTRAL, 1.5 C ALIGNED, SCIENCE-BASED / PARIS-ALIGNED, OFFSETTING, INSETTING, Offsets, Renewable Energy Credits, Forest carbon offsets, Transition Risks, Physical Risks, Talent risk, Schneider Electric, Yara, Fairphone, scope 1 and scope 2 emissions, Accountability), (Ambition), (Advocacy), (Accountability), Advocacy), Focus on rapid, deep emission cuts, Set near- and long-term targets, No net-zero claims until long-term targets are met, Go beyond the value chain, Bonus, ambition, action, advocacy, 1. Find Your Champions, 2. Educate, 3. Evolve, Tesco OpenClimat Climate Supplier Programme, supplier emissions data sharing, supermarkets scope 3"
+related:
+  - tesco-openclimat-supplier-programme-2026
+  - Greenwashing
+  - Net-Zero target explained
 ---
 
 
@@ -78,6 +80,9 @@ Coca-Cola abandoned its 2025 goal to cut virgin plastic use by 3 million tonnes 
 
 **Most targets still leave out scope 3.** Climate Action 100+ found that only 10% of assessed companies have net-zero targets that include their most material scope 3 emissions. Scope 3 is usually most of a company's footprint, so targets that cover only scope 1 and 2 are incomplete.
 
+<!-- tag: uk, ireland -->
+Getting scope 3 data is a practical problem in itself, because every customer asks suppliers for it in a different format. In November 2026, Tesco joined OpenClimat, a shared climate data platform already used by more than 15 retailers and 300 manufacturers in Europe, including Carrefour, Metro and E.Leclerc. Tesco invited about 400 key suppliers, covering more than 80% of its grocery supply chain by value in the UK and Ireland, to report their emissions once through the platform. An engagement stage with guidance and joint projects starts in February 2027, aimed at Tesco's target of net zero across its full value chain by 2050. It is a data step, not yet a cut in emissions. See the [Tesco and OpenClimat source summary](../sources/tesco-openclimat-supplier-programme-2026.md).
+
 **Offsets are still a problem.** A wide range of accounting practices blur how much progress companies are really making, including market-based electricity accounting and carbon credits used across sectors. Many companies still claim to be carbon neutral because they bought carbon credits, and many do not disclose key details about those purchases.
 
 ---
@@ -124,3 +129,4 @@ The organisations best placed for the years ahead will be those that treat clima
 
 # Sources
 - _NewClimate Institute (2025), PwC Decarbonisation Report (2025), Science Based Targets initiative, Climate Action 100+, Bloomberg Green, DevelopmentAid, Harvard Salata Institute, University of Birmingham, Carbon Direct, EU CSRD / ESRS E1._
+- Green Retail World, Ben Sillitoe, 13 November 2026. https://greenretail.world/2026/11/13/data-sharing-tesco-aims-for-supplier-decarbonisation-via-openclimat-partnership/

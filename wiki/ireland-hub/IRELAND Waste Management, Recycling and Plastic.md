@@ -3,13 +3,14 @@ title: Ireland's Waste Management, Recycling and Plastic Problem
 category: ireland-hub
 tags: ["#ireland", "#circularity", "#plastic", "#recycle"]
 created: 2026-06-01
-updated: 2026-10-29
-summary: waste management, recycling, brown bin, composting, anaerobic digestion, Repak, material recovery facilities, Bord na Móna, Drehid landfill, contamination, soft plastics, packaging waste, EPA waste characterisation, black bin, organic waste, EU Green Deal targets, municipal waste, mywaste.ie
+updated: 2026-11-22
+summary: waste management, recycling, brown bin, composting, anaerobic digestion, Repak, material recovery facilities, Bord na Móna, Drehid landfill, contamination, soft plastics, packaging waste, EPA waste characterisation, black bin, organic waste, EU Green Deal targets, municipal waste, mywaste.ie, reusable cups, Belfast venues, Northern Ireland, Venue Sustainability Forum, single-use plastic cups, reuse schemes
 related:
   - FACTS about Plastic
   - What is the Circular Economy
   - Recycling is still an important action
   - Divert your food waste from landfill - the benefit of composting
+  - belfast-reusable-cups-belfast-telegraph-2026
 ---
 
 # Ireland's Waste Management, Recycling and Plastic Problem
@@ -78,6 +79,13 @@ Ireland's recycling progress has stalled against the EU Green Deal targets, whic
 
 According to the Climate Change Advisory Council's Annual Review 2026, published on 14 October 2026, Ireland produced **16.7 million tonnes of waste in 2024**, around 8.5 kg per person per day. Much of the year-to-year change in total waste has come from construction and demolition waste, which probably reflects the ups and downs of the economy rather than a real cut in the waste we produce.
 
+## Reuse in Practice: Belfast's Shared Cup Scheme
+<!-- tag: uk -->
+
+Recycling is only part of the answer. Reuse avoids the waste in the first place. In Northern Ireland, a pilot launched in January 2025 replaced single-use plastic cups with washable ones across six Belfast venues, including the Waterfront Hall, Ulster Hall and the O2 Belfast ([Belfast reusable cup scheme](../sources/belfast-reusable-cups-belfast-telegraph-2026.md)). Its organisers say it is the first multi-venue reusable cup scheme in the UK and Ireland. In under two years it avoided **1.5 million single-use cups**, 30 tonnes of waste and 105 tonnes of carbon, by the organisers' own count.
+
+The scheme has now been made permanent and has spread to the Balmoral Show and Northern Ireland's international football matches. A life cycle analysis for the organisers found a reusable cup beats a single-use one on carbon after just two uses. It depends on people handing cups back at the collection points, which is easier when every venue in the city uses the same cup.
+
 ## Sources
 
 - mywaste.ie
@@ -90,3 +98,4 @@ According to the Climate Change Advisory Council's Annual Review 2026, published
 - EPA, Ireland’s recycling rate has not improved in a decade: it is time to move away from a wasteful linear economy, 16 December 2024. https://www.epa.ie/news-releases/news-releases-2024/irelands-recycling-rate-has-not-improved-in-a-decade-it-is-time-to-move-away-from-a-wasteful-linear-economy-.php
 - EPA, Packaging Waste Statistics for Ireland, 2025. https://www.epa.ie/our-services/monitoring--assessment/waste/national-waste-statistics/packaging/
 - Climate Change Advisory Council, Annual Review 2026, Industry and Waste, 14 October 2026. https://www.climatecouncil.ie/councilpublications/annualreviewandreport/AR26 Industry and Waste final.pdf
+- Belfast Telegraph, Jonathan McCambridge (Press Association), 15 November 2026. https://www.belfasttelegraph.co.uk/news/northern-ireland/30-tonnes-of-waste-saved-thanks-to-single-use-plastic-cup-project-at-city-venues/a/164573601.html

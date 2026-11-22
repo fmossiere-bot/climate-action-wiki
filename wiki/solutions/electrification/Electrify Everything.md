@@ -3,13 +3,14 @@ title: Electrify Everything
 category: solutions
 tags: ["#electrification", "#energy-transition", "#transport", "#buildings", "#industry", "#key-ideas"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: electrify everything, renewable electricity share, Mark Jacobson Stanford, IEA net zero roadmap, EV sales, EU 2035 fossil fuel car ban, UK 2030 ICE phase-out, China EV targets, building decarbonisation, operational carbon, embodied carbon, heavy industry emissions, steel, cement, plastics, fertilisers, nitrogen fertiliser emissions, biochar, plastic pollution, bioplastics, fashion industry emissions, greenwashing, packaging, reusable bags
+updated: 2026-11-22
+summary: electrify everything, renewable electricity share, Mark Jacobson Stanford, IEA net zero roadmap, EV sales, EU 2035 fossil fuel car ban, UK 2030 ICE phase-out, China EV targets, building decarbonisation, operational carbon, embodied carbon, heavy industry emissions, steel, cement, plastics, fertilisers, nitrogen fertiliser emissions, biochar, plastic pollution, bioplastics, fashion industry emissions, greenwashing, packaging, reusable bags, COP31 35 by 35 electrification target, electricity share of final energy 2035, Samuel Guéret Climate Action Tracker, renewables third of global power 2025
 related:
   - Car Life Cycle Emissions - EV vs Combustion
   - Cement and Concrete - A Hidden Climate Problem
   - FACTS about Plastic
   - Decarbonising Aviation and Shipping
+  - cop31-antalya-2026
 ---
 
 # Electrify Everything
@@ -62,6 +63,12 @@ A UN report on plastics shows how pollution could be cut by **80%** through more
 
 Estimates of the fashion industry's share of global emissions range from **around 4% to 10%**, depending on what is counted. The often-quoted 10% figure appears in sources such as [Zurich Insurance](https://www.zurich.com/en/media/magazine/2021/fast-fashion-5-practical-ways-to-cut-the-carbon-from-your-closet), while McKinsey's report on climate and fashion put it at about 4% (2.1 billion tonnes of greenhouse gases in 2018). That report is a good starting point for further reading. It pays to watch out for greenwashing here: fast fashion giants such as H&M have been criticised for [misrepresenting their environmental credentials](https://qz.com/2180075/hm-showed-bogus-environmental-higg-index-scores-for-its-clothing/) through the Higg Index. Packaging overlaps a lot with the plastics problem, and McKinsey's report on sustainability in packaging is a good place to start for anyone interested in that area.
 
+## COP31's "35 by 35" target
+
+Electrification became the main goal of COP31 in Antalya. The Turkish presidency asked countries to back a target of **35% of final energy use coming from electricity by 2035**, known as "35 by 35". DW puts today's share at around 20% ([DW](../../sources/taff-coalition-cop31-dw-2026.md)). Estimates vary with the year and the method, which is why this page's older REN21 figure is about 17% and the COP31 overview gives around 23%.
+
+The target has drawn criticism for not saying where the extra electricity should come from. Renewables supplied about a third of the world's electricity in 2025, so electrification only cuts emissions as fast as the grid gets cleaner ([Kite Insights](../../sources/kite-insights-cop31-preview-2026.md)). Samuel Guéret of Climate Action Tracker argues the target "needs to be one of a suite of complementary actions that also includes scaling up renewables, improving energy efficiency and phasing out fossil fuels" ([We Don't Have Time](../../sources/cop31-implementation-wdht-2026.md)). Paying for grids, storage and efficiency also remains a barrier for many poorer countries.
+
 ## Sources
 
 - REN21, Renewables 2022 Global Status Report. https://www.ren21.net/gsr-2022/pages/keymessages/keymessages/
@@ -93,3 +100,6 @@ Estimates of the fashion industry's share of global emissions range from **aroun
 - McKinsey, Fashion on Climate. https://www.mckinsey.com/industries/retail/our-insights/fashion-on-climate
 - Quartz, H&M showed bogus environmental Higg Index scores. https://qz.com/2180075/hm-showed-bogus-environmental-higg-index-scores-for-its-clothing/
 - McKinsey, sustainability in packaging. https://www.mckinsey.com/industries/paper-forest-products-and-packaging/our-insights/the-drive-toward-sustainability-in-packaging-beyond-the-quick-wins
+- DW, Natalie Muller, 16 November 2026. https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748
+- Kite Insights, What to know ahead of UNFCCC COP31, November 2026
+- We Don't Have Time, Sarah Chabane, November 2026. https://www.wedonthavetime.org/events/cop31

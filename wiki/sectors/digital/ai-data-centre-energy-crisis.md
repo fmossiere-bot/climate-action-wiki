@@ -3,8 +3,8 @@ title: AI Data Centres and the Energy Crisis
 category: sectors
 tags: ["#ai", "#ireland", "#carbon", "#energy", "#united-kingdom"]
 created: 2026-06-06
-updated: 2026-10-28
-summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth, PFAS forever chemicals, two-phase cooling, TFA trifluoroacetic acid, Meta RE100 exit, natural gas power purchase agreements
+updated: 2026-11-22
+summary: data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth, PFAS forever chemicals, two-phase cooling, TFA trifluoroacetic acid, Meta RE100 exit, natural gas power purchase agreements, InfluenceMap AI fossil fuel arguments, UN Priorities for Action on AI and Climate Information Integrity, COP31, AI footprint disclosure energy water land
 related:
   - IRELAND Data Centre Dilemna
   - AI Emissions and Corporate Responsibility
@@ -133,6 +133,12 @@ Caroline Lucas called the projected emissions "absolutely horrifying". ClientEar
 
 *Source: [UK datacentres vs ExxonMobil (source summary)](../../sources/uk-datacentres-exxonmobil-emissions-guardian-2026.md); Guardian, Pippa Neill, 25 August 2026.*
 
+## November 2026: the UN asks AI companies to show their footprint
+
+At COP31 in Antalya on 13 November 2026, the Global Initiative for Information Integrity on Climate Change, co-chaired by the UN, UNESCO and Brazil, launched the Priorities for Action on AI and Climate Information Integrity. They call on AI companies to disclose their energy consumption and their carbon, water and land footprints, and to assess how their systems affect the accuracy of climate information. Governments are asked to build these questions into their national AI strategies and climate plans ([The Climate Watch](../../sources/un-ai-climate-misinformation-cop31-2026.md)).
+
+The initiative comes as data centre demand turns into a political argument. InfluenceMap found that nearly half of the statements it collected over the past year about AI and data centres contained arguments in favour of fossil fuels. Rising demand is a real challenge, but renewables, storage and efficiency can meet it without locking countries into more coal, oil and gas. The article also stresses fairness: in climate-vulnerable countries, new data centres can strain grids, water and land, and the communities next to them should know the costs and have a say ([The Climate Watch](../../sources/un-ai-climate-misinformation-cop31-2026.md)). The priorities are voluntary.
+
 ## Sources
 - The Guardian, Aisha Down, 18 May 2026. https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity
 - The Guardian, Damien Gayle, 24 April 2026. https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions
@@ -144,3 +150,4 @@ Caroline Lucas called the projected emissions "absolutely horrifying". ClientEar
 - Water UK written evidence to MPs (July 2026). https://committees.parliament.uk/writtenevidence/164766/html/
 - Affinity Water written evidence to MPs (May 2026). https://committees.parliament.uk/writtenevidence/166455/pdf/
 - RTÉ News, 25 July 2026. https://www.rte.ie/news/2026/0725/1585032-meta-pledge/ (Meta quits RE100)
+- The Climate Watch, TCW Report, 14 November 2026. https://theclimatewatch.com/un-takes-on-ai-climate-misinformation-as-cop31-fossil-fuel-tensions-rise/
