@@ -3,9 +3,14 @@
     "slug": "biodiversity-for-business-101",
     "filename": "biodiversity-land/Biodiversity for Business 101.md",
     "label": "Biodiversity for Business 101",
-    "summary": " Biodiversity Objectives for Business, Business for Biodiversity, why biodiversity matters to businesses, supply chain, impact of businesses on biodiversity",
+    "summary": " Biodiversity Objectives for Business, Business for Biodiversity, why biodiversity matters to businesses, supply chain, impact of businesses on biodiversity, Trinity Business + Nature Hub, IPBES Business and Biodiversity assessment, nature transition plans 2 percent vs climate plans 63 percent, 55 percent global GDP $58 trillion, nature as critical infrastructure, IBEC, Mary Robinson, self-assessment tool, pollinators soil floodplains",
     "category": "biodiversity-land",
-    "tags": [],
+    "tags": [
+      "biodiversity",
+      "nature",
+      "esg",
+      "ireland"
+    ],
     "keywords": [
       "biodiversity loss",
       "dependencies",
@@ -54,9 +59,13 @@
     "slug": "forests-and-land-our-most-important-carbon-sink",
     "filename": "biodiversity-land/Forests and Land - Our Most Important Carbon Sink.md",
     "label": "Forests and Land: Our Most Important Carbon Sink",
-    "summary": "Forests absorb roughly 30% of the carbon humans emit each year, making them one of the most important tools we have against climate change. But that role is under serious threat. In 2024, tropical forest loss nearly doubled compared to the previous year, driven by fires, drought and agricultural expansion. Some forests are already becoming net carbon emitters rather than absorbers. Mixed forests outperform monocultures significantly, capturing up to 25% more carbon. The priority is clear: protect what exists first, then restore. Reforestation helps, but it cannot replace primary forests that took centuries to develop.",
+    "summary": "Forests absorb roughly 30% of the carbon humans emit each year, making them one of the most important tools we have against climate change. But that role is under serious threat. In 2024, tropical forest loss nearly doubled compared to the previous year, driven by fires, drought and agricultural expansion. Some forests are already becoming net carbon emitters rather than absorbers. Mixed forests outperform monocultures significantly, capturing up to 25% more carbon. The priority is clear: protect what exists first, then restore. Reforestation helps, but it cannot replace primary forests that took centuries to develop. Also covers: Tropical Forest Forever Facility TFFF funding gap, $4 per hectare, Brazil Amazon deforestation down 41 percent, 8 million hectares lost 2024, Indigenous Peoples and local communities 54 percent of intact forests, sociobioeconomy, land defenders killed, $7.3 trillion harmful finance vs $220 billion nature-based solutions, Ireland temperate rainforest, Hometree Wild Atlantic Rainforest Project.",
     "category": "solutions",
-    "tags": [],
+    "tags": [
+      "forest",
+      "carbon",
+      "nature"
+    ],
     "keywords": [
       "30%",
       "age",
@@ -68,8 +77,8 @@
       "42%",
       "primary forests",
       "73%",
-      "forests",
-      "forest"
+      "temperate rainforest",
+      "forests"
     ]
   },
   {
@@ -78,7 +87,12 @@
     "label": "Glaciers in Retreat: Facts, Risks, and What Can Be Done",
     "summary": "|-",
     "category": "biodiversity-land",
-    "tags": [],
+    "tags": [
+      "science",
+      "nature",
+      "adaptation",
+      "water"
+    ],
     "keywords": [
       "192,870 glaciers",
       "664,000 square kilometres",
@@ -142,7 +156,7 @@
     "slug": "the-importance-of-wetlands",
     "filename": "biodiversity-land/The importance of Wetlands.md",
     "label": "The importance of Wetlands",
-    "summary": "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of wetlands highly affected, over one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation",
+    "summary": "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of wetlands highly affected, over one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation, WRI soil carbon 3.9 billion tonnes, peat drainage 80 percent, peat fires, Indonesia, 600 billion tonnes peat carbon, Portrane wetland rehydration",
     "category": "biodiversity-land",
     "tags": [
       "wetlands",
@@ -158,12 +172,12 @@
       "swamps",
       "floodplains",
       "46,500 tonnes of carbon a year",
+      "600 billion tonnes of carbon",
       "britain has lost 85% of its salt marshes",
       "40% of methane emissions",
       "eu nature restoration law",
       "national restoration plan by 2026",
-      "1.6 billion tonnes of carbon",
-      "33,000 hectares"
+      "1.6 billion tonnes of carbon"
     ]
   },
   {
@@ -700,6 +714,33 @@
     ]
   },
   {
+    "slug": "climate-change-and-health",
+    "filename": "climate-adaptation/climate-change-and-health.md",
+    "label": "Climate Change and Health",
+    "summary": "climate change and health, Lancet Countdown 2026, WHO, heat-related deaths, 710,000 heat deaths 2023, 36 percent rise since Paris Agreement, drought, floods, air pollution from fossil fuels, premature deaths avoided, clean energy health benefits, health adaptation plans, early warning systems, climate-resilient health systems, global health emergency, El Niño health response, ATACH, older people outdoor workers, COP31 resilient health systems priority",
+    "category": "climate-adaptation",
+    "tags": [
+      "adaptation",
+      "science",
+      "energy-transition",
+      "key-ideas"
+    ],
+    "keywords": [
+      "heatwaves",
+      "health",
+      "lancet",
+      "countdown",
+      "sources",
+      "lancet-countdown-",
+      "heat",
+      "before",
+      "deaths",
+      "record",
+      "pollution",
+      "homes"
+    ]
+  },
+  {
     "slug": "home-cooling-heatwaves",
     "filename": "climate-adaptation/home-cooling-heatwaves.md",
     "label": "Home Cooling During Heatwaves",
@@ -869,22 +910,28 @@
     "slug": "fossil-fuel-banking",
     "filename": "climate-finance/fossil-fuel-banking.md",
     "label": "Fossil Fuel Banking continues",
-    "summary": "fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of America, MUFG, Barclays, Citigroup, net zero banking alliance, fossil fuel financing, $906 billion, dirty dozen, Paris Agreement, oil and gas lending, coal financing, Net-Zero Banking Alliance, voluntary commitments, financial regulation, Venture Global, Enbridge, climate chaos, stranded assets, fossil fuel subsidies",
+    "summary": "fossil fuel banking, Banking on Climate Chaos, JPMorgan Chase, Bank of America, MUFG, Barclays, Citigroup, net zero banking alliance, fossil fuel financing, $906 billion, dirty dozen, Paris Agreement, oil and gas lending, coal financing, Net-Zero Banking Alliance, voluntary commitments, financial regulation, Venture Global, Enbridge, climate chaos, stranded assets, fossil fuel subsidies, Urgewald Still Banking on Coal, HSBC, coal value chain, Chinese banks coal, Coral Triangle, LNG terminals, critical biodiversity areas, coral reefs mangroves seagrass",
     "category": "climate-finance",
-    "tags": [],
+    "tags": [
+      "fossil-fuels",
+      "finance",
+      "esg",
+      "greenwashing",
+      "biodiversity"
+    ],
     "keywords": [
       "banking on climate chaos",
       "$906 billion",
       "\"green loan\"",
+      "urgewald",
+      "coral triangle",
       "august 2026",
       "banks",
       "fossil",
       "fuel",
-      "voluntary",
       "coal",
-      "largest",
-      "banking",
-      "financing"
+      "financing",
+      "banktrack"
     ]
   },
   {
@@ -964,7 +1011,7 @@
     "slug": "global-impact-of-climate-change",
     "filename": "climate-science/Global Impact of Climate Change.md",
     "label": "Global Impact of Climate Change: 1.5°C, Tipping Points and What's Already Happening",
-    "summary": "1.5 degrees Celsius threshold, Paris Agreement, net-zero emissions, carbon budget, Shared Socioeconomic Pathways, SSPs, Integrated Assessment Models, Arctic amplification, ocean heat uptake, ocean acidification, extreme precipitation, glacier retreat, Greenland ice sheet, Antarctic sea ice, sea-level rise, AMOC Atlantic overturning circulation, tipping points, carbon cycle feedbacks, permafrost thaw, coral bleaching, warm-water coral dieback, aerosols cooling effect, Climate Action Tracker",
+    "summary": "1.5 degrees Celsius threshold, Paris Agreement, net-zero emissions, carbon budget, Shared Socioeconomic Pathways, SSPs, Integrated Assessment Models, Arctic amplification, ocean heat uptake, ocean acidification, extreme precipitation, glacier retreat, Greenland ice sheet, Antarctic sea ice, sea-level rise, AMOC Atlantic overturning circulation, tipping points, carbon cycle feedbacks, permafrost thaw, coral bleaching, warm-water coral dieback, aerosols cooling effect, Climate Action Tracker, 2026 record year El Niño, 1.37C long-term warming, Earth energy imbalance, safe temperature for ice 1C, Arctic sea ice minimum 2026",
     "category": "climate-science",
     "tags": [
       "science",
@@ -1086,7 +1133,7 @@
     "slug": "local-impact-and-extreme-events-attribution",
     "filename": "climate-science/Local Impact and Extreme Events Attribution.md",
     "label": "Local Impact and Extreme Events Attribution: When Climate Change Hits Home",
-    "summary": "extreme event attribution, World Weather Attribution, Friederike Otto, Pacific Northwest heat dome, AR6 attribution confidence, Hurricane Harvey, climate justice, disaster vulnerability and exposure, Pakistan floods 2022, non-linearity, food security, migration, critical infrastructure, wet-bulb survivability threshold, heat-related deaths Europe, Delhi heatwave, Sicily drought tourism, Catalunya water restrictions, water scarcity Spain, desalination",
+    "summary": "extreme event attribution, World Weather Attribution, Friederike Otto, Pacific Northwest heat dome, AR6 attribution confidence, Hurricane Harvey, climate justice, disaster vulnerability and exposure, Pakistan floods 2022, non-linearity, food security, migration, critical infrastructure, wet-bulb survivability threshold, heat-related deaths Europe, Delhi heatwave, Sicily drought tourism, Catalunya water restrictions, water scarcity Spain, desalination, Carbon Impacts Tracer, project-level damage attribution, Scarborough gas project, drop in the ocean defence",
     "category": "climate-science",
     "tags": [
       "science",
@@ -1094,6 +1141,7 @@
       "agriculture"
     ],
     "keywords": [
+      "carbon impacts tracer",
       "non-linearity",
       "food security",
       "migration",
@@ -1104,8 +1152,7 @@
       "water",
       "attribution",
       "extreme",
-      "disasters",
-      "infrastructure"
+      "disasters"
     ]
   },
   {
@@ -1134,7 +1181,7 @@
     "slug": "methane-emissions-role-in-global-warming",
     "filename": "climate-science/Methane emissions role in Global Warming.md",
     "label": "Methane's Role in Global Warming: Sources, Super-Emitters and Solutions",
-    "summary": "methane GWP-100, atmospheric lifetime, super-emitters, Turkmenistan methane leaks, US oil and gas methane underestimate, IEA Global Methane Tracker 2024, top 10 methane emitting countries, Global Methane Pledge, Oil and Gas Decarbonization Charter, COP28, Kayrros, GHGSat, Methane Alert and Response System, hydropower reservoir methane, livestock methane, permafrost methane Svalbard, Bluemethane",
+    "summary": "methane GWP-100, atmospheric lifetime, super-emitters, Turkmenistan methane leaks, US oil and gas methane underestimate, IEA Global Methane Tracker 2024, top 10 methane emitting countries, Global Methane Pledge, Oil and Gas Decarbonization Charter, COP28, Kayrros, GHGSat, Methane Alert and Response System, hydropower reservoir methane, livestock methane, permafrost methane Svalbard, Bluemethane, marginal wells, MethaneSat, methane intensity, Environmental Defense Fund, Trump methane rule rollback",
     "category": "climate-science",
     "tags": [
       "methane",
@@ -1142,18 +1189,18 @@
       "carbon"
     ],
     "keywords": [
+      "marginal wells",
       "global methane pledge (gmp)",
       "methane",
       "https",
       "million",
       "fossil",
       "fuel",
+      "leaks",
       "warming",
       "around",
-      "leaks",
       "permafrost",
-      "released",
-      "large"
+      "wells"
     ]
   },
   {
@@ -1259,7 +1306,7 @@
     "slug": "climate-tipping-points",
     "filename": "climate-science/climate-tipping-points.md",
     "label": "Climate Tipping Points: what they are, which are already close, and where the good ones sit",
-    "summary": "climate tipping points, Tim Lenton, John Schellnhuber tipping elements, 16 elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent, wind solar double every 3 years, Wright's Law learning by doing, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent, Subpolar gyre North Atlantic, Amazon savannisation 40 percent, permafrost 2x human emissions, coral reefs 70-90 percent at 1.5C, Dansgaard-Oeschger events, positive tipping points, social tipping points, hothouse Earth, climate niche",
+    "summary": "climate tipping points, Tim Lenton, John Schellnhuber tipping elements, 16 elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent, wind solar double every 3 years, Wright's Law learning by doing, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent, Subpolar gyre North Atlantic, Amazon savannisation 40 percent, permafrost 2x human emissions, Antarctic permafrost CO2 Taylor Valley 76.8 million tonnes, coral reefs 70-90 percent at 1.5C, Dansgaard-Oeschger events, positive tipping points, social tipping points, hothouse Earth, climate niche",
     "category": "climate-science",
     "tags": [
       "science",
@@ -1341,7 +1388,7 @@
     "slug": "record-hot-ocean-el-nino-2026",
     "filename": "climate-science/record-hot-ocean-el-nino-2026.md",
     "label": "A Record-Hot Ocean, Rising Seas, and the 2026 El Niño",
-    "summary": "ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-90% at 1.5C and over 99% at 2C, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment",
+    "summary": "ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-90% at 1.5C and over 99% at 2C, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment, record El Niño Niño3.4 September 2026, 4C December peak, strongest in a millennium, 2027 forecast 1.74C, WFP 49 million acute hunger, India monsoon deficit, Atlantic hurricanes suppressed Pacific cyclone record",
     "category": "climate-science",
     "tags": [
       "science",
@@ -1358,11 +1405,11 @@
       "drier",
       "hurricanes",
       "us winter",
+      "4°c in december",
       "global temperature record",
       "cool nights",
       "stops night-time cooling",
-      "fourth global mass coral bleaching event",
-      "3 billion people"
+      "fourth global mass coral bleaching event"
     ]
   },
   {
@@ -2004,7 +2051,7 @@
     "slug": "climate-politics-and-climate-justice",
     "filename": "concepts/key-ideas/Climate Politics and Climate Justice.md",
     "label": "Climate Politics and Climate Justice: Who Is Responsible, and Who Pays",
-    "summary": "UNFCCC, Paris Agreement, COP27, COP28, loss and damage fund, Nationally Determined Contributions NDCs, CBDR-RC common but differentiated responsibilities, cumulative emissions since 1751, per capita emissions, fair shares, net-zero commitments, climate litigation, Montana youth case, Ecuador tribal land case, polluting elite, Stockholm Environment Institute Oxfam carbon inequality, 3.5% rule social tipping points, France energy efficiency housing rules, Sultan Ahmed Al-Jaber",
+    "summary": "UNFCCC, Paris Agreement, COP27, COP28, loss and damage fund, Nationally Determined Contributions NDCs, CBDR-RC common but differentiated responsibilities, cumulative emissions since 1751, per capita emissions, fair shares, net-zero commitments, climate litigation, Montana youth case, Ecuador tribal land case, polluting elite, Stockholm Environment Institute Oxfam carbon inequality, 3.5% rule social tipping points, France energy efficiency housing rules, Sultan Ahmed Al-Jaber, fossil fuel exporters, extraction-based accounting, Carbon Brief exported CO2 since 1850, Russia Saudi Arabia Australia, COP31, Make Polluters Pay",
     "category": "concepts",
     "tags": [
       "diplomacy",
@@ -2021,11 +2068,11 @@
       "policy",
       "justice",
       "emissions per person",
+      "dug up",
       "net-zero",
       "3.5% of a population",
       "climate litigation",
-      "\"polluting elite\"",
-      "https"
+      "\"polluting elite\""
     ]
   },
   {
@@ -2076,7 +2123,7 @@
     "slug": "emission-gap-report-2024-unep",
     "filename": "concepts/key-ideas/Emission Gap Report 2024 - UNEP.md",
     "label": "Emission Gap Report 2024 - UNEP",
-    "summary": "UNEP, Emissions Gap Report 2024, No More Hot Air Please, nationally determined contributions, NDCs, Paris Agreement, 1.5 degrees, global warming projections, greenhouse gas emissions, top emitters, China, United States, India, European Union, Russia, LULUCF, land use, mitigation potential, techno-economic, decarbonisation costs, emissions gap, 2030 targets, 2035 targets",
+    "summary": "UNEP, Emissions Gap Report 2024, No More Hot Air Please, nationally determined contributions, NDCs, Paris Agreement, 1.5 degrees, global warming projections, greenhouse gas emissions, top emitters, China, United States, India, European Union, Russia, LULUCF, land use, mitigation potential, techno-economic, decarbonisation costs, emissions gap, 2030 targets, 2035 targets, Emissions Gap Report 2026 The Point of Return, 58.4 billion tonnes 2025, overshoot, 2.8C current policies, 45 percent cut by 2035, 220 policy evaluations",
     "category": "concepts",
     "tags": [
       "research",
@@ -2090,13 +2137,13 @@
       "42% cut",
       "3.1°c",
       "us$200 per tonne of co2 equivalent",
+      "2.8°c",
       "report",
-      "ndcs",
-      "needed",
+      "unep",
       "policies",
+      "ndcs",
       "current",
-      "enough",
-      "cuts"
+      "fall"
     ]
   },
   {
@@ -2188,9 +2235,13 @@
     "slug": "greenwashing-lawsuits-on-the-rise",
     "filename": "concepts/key-ideas/Greenwashing lawsuits on the rise.md",
     "label": "Greenwashing Lawsuits on the Rise",
-    "summary": "greenwashing lawsuits, climate litigation, JBS Greenpeace Netherlands petition, TotalEnergies Paris ruling, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, Shell Milieudefensie, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal, $6bn expansion, Nigeria 1.2 million hectares, Dutch duty of care, JBS net zero 2040 scrapped",
+    "summary": "greenwashing lawsuits, climate litigation, JBS Greenpeace Netherlands petition, TotalEnergies Paris ruling, EnergyAustralia, Apple carbon neutral, Rosebank oilfield, Norwegian oilfields, Urgenda, Shell Milieudefensie, ICJ advisory opinion, human right to healthy climate, net zero false claims, carbon offsets, meat industry, fossil fuel approval, scope 3 emissions, UK climate plan, coal, $6bn expansion, Nigeria 1.2 million hectares, Dutch duty of care, JBS net zero 2040 scrapped, Carbon Impacts Tracer, drop in the ocean defence, attribution science, Scarborough gas project, Woodside Browse, ExxonMobil, glacier melt, AFP Future of the Planet Legal Desk, Ivan Couronne, climate law journalism",
     "category": "concepts",
-    "tags": [],
+    "tags": [
+      "greenwashing",
+      "fossil-fuels",
+      "esg"
+    ],
     "keywords": [
       "71 million tonnes of co₂ equivalent",
       "13 significant wins in 2025 alone",
@@ -2210,7 +2261,7 @@
     "slug": "greenwashing",
     "filename": "concepts/key-ideas/Greenwashing.md",
     "label": "Greenwashing",
-    "summary": "greenwashing, Corporate Sustainability Reporting Directive, CSRD, Coca-Cola, Evian, Rainforest Alliance, Hersheys, Bud Light Climate Neutral, TotalEnergies, Sitka spruce, Irish schools, Alliance for Responsible Citizenship, Chris Wright, UK heatwave, EU anti-greenwashing rules, ESG",
+    "summary": "greenwashing, Corporate Sustainability Reporting Directive, CSRD, Coca-Cola, Evian, Rainforest Alliance, Hersheys, Bud Light Climate Neutral, TotalEnergies, Sitka spruce, Irish schools, Alliance for Responsible Citizenship, Chris Wright, UK heatwave, EU anti-greenwashing rules, ESG, RepRisk Greenwashing Report 2026, energy transition greenwashing, biodiversity, critical minerals mining, wind farms, banks and financial services, repeat offenders, sustainable additive bias, eco-friendly giveaways, packaging reduction",
     "category": "concepts",
     "tags": [
       "key-ideas",
@@ -2226,13 +2277,13 @@
       "bud light next \"climate neutral\"",
       "€10,000 per day",
       "35c",
+      "112% between 2022 and 2026",
+      "sustainable additive bias",
       "company",
-      "irish",
-      "claims",
-      "plastic",
       "https",
-      "neutral",
-      "sitka"
+      "plastic",
+      "irish",
+      "companies"
     ]
   },
   {
@@ -2291,7 +2342,7 @@
     "slug": "the-economics-of-climate-change-and-carbon-pricing",
     "filename": "concepts/key-ideas/The Economics of Climate Change and Carbon Pricing.md",
     "label": "The Economics of Climate Change and Carbon Pricing",
-    "summary": "environmental economics, GDP, human wellbeing, unpaid labour, social capital, ecological economics, market failure, tragedy of the commons, exploitation mindset, carbon pricing, carbon markets, carbon taxes, EU ETS Emissions Trading System, World Bank State and Trends of Carbon Pricing, Social Cost of Carbon SCC, Integrated Assessment Models, Climate Impact Lab, Gilets Jaunes protests, carbon leakage, equity and justice in carbon pricing",
+    "summary": "environmental economics, GDP, human wellbeing, unpaid labour, social capital, ecological economics, market failure, tragedy of the commons, exploitation mindset, carbon pricing, carbon markets, carbon taxes, EU ETS Emissions Trading System, World Bank State and Trends of Carbon Pricing, Social Cost of Carbon SCC, Integrated Assessment Models, Climate Impact Lab, Gilets Jaunes protests, carbon leakage, equity and justice in carbon pricing, UNEP Hidden assets 2026, air pollution co-benefits, benefit-cost ratio 15 to 1, internal rate of return 60%, PM2.5 premature deaths, cost of delay $1.5 trillion a year, methane, clean cooking",
     "category": "concepts",
     "tags": [
       "carbon",
@@ -2310,8 +2361,8 @@
       "carbon leakage",
       "social cost of carbon (scc)",
       "climate impact lab",
-      "pricing",
-      "price"
+      "every dollar invested returns around $15",
+      "pricing"
     ]
   },
   {
@@ -2854,7 +2905,7 @@
     "slug": "ireland-waste-management-recycling-and-plastic",
     "filename": "ireland-hub/IRELAND Waste Management, Recycling and Plastic.md",
     "label": "Ireland's Waste Management, Recycling and Plastic Problem",
-    "summary": "waste management, recycling, brown bin, composting, anaerobic digestion, Repak, material recovery facilities, Bord na Móna, Drehid landfill, contamination, soft plastics, packaging waste, EPA waste characterisation, black bin, organic waste, EU Green Deal targets, municipal waste, mywaste.ie",
+    "summary": "waste management, recycling, brown bin, composting, anaerobic digestion, Repak, material recovery facilities, Bord na Móna, Drehid landfill, contamination, soft plastics, packaging waste, EPA waste characterisation, black bin, organic waste, EU Green Deal targets, municipal waste, mywaste.ie, reusable cups, Belfast venues, Northern Ireland, Venue Sustainability Forum, single-use plastic cups, reuse schemes",
     "category": "ireland-hub",
     "tags": [
       "ireland",
@@ -2872,9 +2923,9 @@
       "1.2 million tonnes",
       "55% of municipal waste",
       "16.7 million tonnes of waste in 2024",
+      "1.5 million single-use cups",
       "waste",
-      "recycling",
-      "bins"
+      "recycling"
     ]
   },
   {
@@ -2935,7 +2986,7 @@
     "slug": "ireland-biodiversity-plan",
     "filename": "ireland-hub/Ireland Biodiversity Plan.md",
     "label": "Ireland Biodiversity Plan",
-    "summary": "Ireland's 4th National Biodiversity Action Plan 2023-2030, National Parks and Wildlife Service, NPWS, Wildlife Amendment Act 2023, peatland restoration and rewetting, Marine Protected Areas, invasive species, Japanese knotweed, rhododendron, nature-friendly farming, pesticide reduction, native bee species, pollinator corridors, industrial estates rewilding, Maynooth University, farm ponds, pollinators",
+    "summary": "Ireland's 4th National Biodiversity Action Plan 2023-2030, National Parks and Wildlife Service, NPWS, Wildlife Amendment Act 2023, peatland restoration and rewetting, Marine Protected Areas, invasive species, Japanese knotweed, rhododendron, nature-friendly farming, pesticide reduction, native bee species, pollinator corridors, industrial estates rewilding, Maynooth University, farm ponds, pollinators, Our Dúlra Agreement schools, Irish Schools Sustainability Network, Nature Restoration Plan 2027, Irish Green Building Council case studies, Portrane wetland, Seven Mills Clonburris, biodiversity net gain, social housing gardens",
     "category": "ireland-hub",
     "tags": [
       "ireland",
@@ -2947,15 +2998,15 @@
       "30% of the marine environment by 2030",
       "industrial estates as bee habitat",
       "farm ponds and pollinators",
+      "our dúlra agreement",
+      "saving more than €100,000",
       "plan",
       "biodiversity",
       "ireland's",
       "national",
-      "https",
-      "species",
-      "parks",
-      "pollinators",
-      "wildlife"
+      "irish",
+      "nature",
+      "https"
     ]
   },
   {
@@ -2964,42 +3015,49 @@
     "label": "Ireland Climate Adaptation",
     "summary": "|-",
     "category": "ireland-hub",
-    "tags": [],
+    "tags": [
+      "ireland",
+      "adaptation"
+    ],
     "keywords": [
       "acute, extreme weather events",
       "slow-onset changes",
       "just resilience",
       "avoiding maladaptation",
+      "garden climate assessment tool",
       "planned retreat",
       "174 potentially eligible homes",
       "parks, rivers and canals as buffer zones",
       "adaptation",
       "https",
-      "ireland",
       "national",
-      "plans"
+      "ireland"
     ]
   },
   {
     "slug": "ireland-reforestation-on-the-ground",
     "filename": "ireland-hub/Ireland reforestation on the Ground.md",
     "label": "Ireland Reforestation on the Ground: Volunteers, Farms and Rewilding",
-    "summary": "A companion piece to the Ireland forestry wiki page, this article follows three ground-level reforestation cases in Ireland: volunteers in County Wicklow planting native oak and cherry from local mother trees, Tibraden Farm's shift from subsidised Sitka spruce toward a mixed \\\"permanent forest\\\" model, and the 650-hectare Dunany Estate, where a third of the land has been left to rewild since 2014. It highlights two recurring barriers: Irish law treats land reclassified as forest as permanently changed, and land prices (around €40,000 per hectare) limit expansion. Based on a single ARTE Info video report, so figures are illustrative rather than verified statistics.",
+    "summary": "A companion piece to the Ireland forestry wiki page, this article follows three ground-level reforestation cases in Ireland: volunteers in County Wicklow planting native oak and cherry from local mother trees, Tibraden Farm's shift from subsidised Sitka spruce toward a mixed \\\"permanent forest\\\" model, and the 650-hectare Dunany Estate, where a third of the land has been left to rewild since 2014. It highlights two recurring barriers: Irish law treats land reclassified as forest as permanently changed, and land prices (around €40,000 per hectare) limit expansion. Based on a single ARTE Info video report, so figures are illustrative rather than verified statistics. Updated November 2026 with Hometree's Wild Atlantic Rainforest Project: Irish temperate rainforest, less than 2% native woodland, 4,000 acres, 57,500-acre ten-year plan, restoration hubs, €14.7 million Immigrant Investor Programme match funding, €3.9 million target, West Cork, Ennistymon County Clare.",
     "category": "ireland-hub",
-    "tags": [],
+    "tags": [
+      "ireland",
+      "forest",
+      "biodiversity"
+    ],
     "keywords": [
       "\"permanent forest\"",
       "€40,000 per hectare",
+      "temperate rainforest",
       "land",
+      "hometree",
+      "ireland",
       "forest",
+      "native",
+      "woodland",
       "estate",
       "trees",
-      "ireland",
-      "forestry",
-      "report",
-      "native",
-      "farm",
-      "private"
+      "farmers"
     ]
   },
   {
@@ -3033,7 +3091,7 @@
     "slug": "cop30",
     "filename": "legislation-policy/COP30.md",
     "label": "COP30",
-    "summary": "COP30, Belem, Brazil, Paris Agreement 10th anniversary, NDCs, nationally determined contributions, climate finance, New Collective Quantified Goal, NCQG, Baku to Belem Roadmap, adaptation finance, Tropical Forests Forever Facility, TFFF, just transition mechanism, fossil fuel phase-out roadmap, UAE consensus, deforestation, Amazon, Santa Marta conference, Transition Away From Fossil Fuels, TAFF, COP31 Turkey, South Korea coal phase-out, Powering Past Coal Alliance, Indigenous Peoples land rights, Sustainable Ocean Plans, Ireland",
+    "summary": "COP30, Belem, Brazil, Paris Agreement 10th anniversary, NDCs, nationally determined contributions, climate finance, New Collective Quantified Goal, NCQG, Baku to Belem Roadmap, adaptation finance, Tropical Forests Forever Facility, TFFF, just transition mechanism, fossil fuel phase-out roadmap, UAE consensus, deforestation, Amazon, Santa Marta conference, Transition Away From Fossil Fuels, TAFF, COP31 Turkey, South Korea coal phase-out, Powering Past Coal Alliance, Indigenous Peoples land rights, Sustainable Ocean Plans, Ireland, TFFF $10 billion seed capital $7.9 billion pledged November 2026, Norway $3 billion conditional, Germany €1 billion, $4 per hectare, Intergovernmental Land Tenure Commitment 160 million hectares 15 governments, Forest and Land Tenure Pledge $1.8 billion, Bioeconomy Challenge, Brazil fossil fuel roadmap 3 November 2026 2028-2033, deforestation roadmap, Ana Toni, Observatório do Clima",
     "category": "legislation-policy",
     "tags": [
       "cop30",
@@ -3049,22 +3107,25 @@
       "$365 billion a year",
       "around 10% by 2035",
       "tropical forests forever facility (tfff)",
+      "$7.9 billion",
       "just transition mechanism (jtm)",
       "countries",
       "billion",
       "fossil",
       "year",
-      "fuels",
-      "adaptation"
+      "november"
     ]
   },
   {
     "slug": "corporate-climate-action-where-businesses-stand",
     "filename": "legislation-policy/Corporate Climate Action - Where Businesses Stand.md",
     "label": "Corporate Climate Action: Where Businesses Stand",
-    "summary": "Class Structure, Key Terms, What is net-zero, What are scope 1, 2, and 3 emissions, Science-Based Targets, Other Terms, Greenwashing, Why Take Action: Risks and Opportunities, Financial Risks and Opportunities, Technology Risks: Cement Case Study, Market Risk: Changing Customer Demands, Reputational Risk: Climate Talent, Acute Physical Risks, Chronic Physical Risks, Care, Opportunities, Sometimes you just need data, Case Studies in Sustainable Business Model Innovation, On the Ground: Status of Corporate Climate Action, Corporations and Climate: A History, A Rising Tide of Pledges & Targets, But Scope 3 Emissions Missing, Do Pledges Have Teeth, The Same Data, One Year Later, The Gap Between Pledges and Commitments, Blind Spots, A Tipping Point or Mirage, Case Study of Going Green: Microsoft, Microsoft and Scope 3 emissions, BEST PRACTICES, So, What To Do, Set science-based targets, Make a Plan to Zero, Measure to Discover What Matters, Addressing Scope 1 and 2 Emissions, Internal Carbon Pricing, Good Carbon Removal, Action happens collectively, Key Takeaways, Ambition, Action, Advocacy, Accountability, ABSOLUTE ZERO, CLIMATE NEUTRAL, CARBON NEUTRAL, 1.5 C ALIGNED, SCIENCE-BASED / PARIS-ALIGNED, OFFSETTING, INSETTING, Offsets, Renewable Energy Credits, Forest carbon offsets, Transition Risks, Physical Risks, Talent risk, Schneider Electric, Yara, Fairphone, scope 1 and scope 2 emissions, Accountability), (Ambition), (Advocacy), (Accountability), Advocacy), Focus on rapid, deep emission cuts, Set near- and long-term targets, No net-zero claims until long-term targets are met, Go beyond the value chain, Bonus, ambition, action, advocacy, 1. Find Your Champions, 2. Educate, 3. Evolve",
+    "summary": "Class Structure, Key Terms, What is net-zero, What are scope 1, 2, and 3 emissions, Science-Based Targets, Other Terms, Greenwashing, Why Take Action: Risks and Opportunities, Financial Risks and Opportunities, Technology Risks: Cement Case Study, Market Risk: Changing Customer Demands, Reputational Risk: Climate Talent, Acute Physical Risks, Chronic Physical Risks, Care, Opportunities, Sometimes you just need data, Case Studies in Sustainable Business Model Innovation, On the Ground: Status of Corporate Climate Action, Corporations and Climate: A History, A Rising Tide of Pledges & Targets, But Scope 3 Emissions Missing, Do Pledges Have Teeth, The Same Data, One Year Later, The Gap Between Pledges and Commitments, Blind Spots, A Tipping Point or Mirage, Case Study of Going Green: Microsoft, Microsoft and Scope 3 emissions, BEST PRACTICES, So, What To Do, Set science-based targets, Make a Plan to Zero, Measure to Discover What Matters, Addressing Scope 1 and 2 Emissions, Internal Carbon Pricing, Good Carbon Removal, Action happens collectively, Key Takeaways, Ambition, Action, Advocacy, Accountability, ABSOLUTE ZERO, CLIMATE NEUTRAL, CARBON NEUTRAL, 1.5 C ALIGNED, SCIENCE-BASED / PARIS-ALIGNED, OFFSETTING, INSETTING, Offsets, Renewable Energy Credits, Forest carbon offsets, Transition Risks, Physical Risks, Talent risk, Schneider Electric, Yara, Fairphone, scope 1 and scope 2 emissions, Accountability), (Ambition), (Advocacy), (Accountability), Advocacy), Focus on rapid, deep emission cuts, Set near- and long-term targets, No net-zero claims until long-term targets are met, Go beyond the value chain, Bonus, ambition, action, advocacy, 1. Find Your Champions, 2. Educate, 3. Evolve, Tesco OpenClimat Climate Supplier Programme, supplier emissions data sharing, supermarkets scope 3",
     "category": "legislation",
-    "tags": [],
+    "tags": [
+      "esg",
+      "science"
+    ],
     "keywords": [
       "60%",
       "72% of firms",
@@ -3138,7 +3199,7 @@
     "slug": "paris-agreement-ndc-where-are-we-10-years-later",
     "filename": "legislation-policy/Paris Agreement - NDC - where are we 10 years later?.md",
     "label": "Paris Agreement - NDC - Where Are We 10 Years Later?",
-    "summary": "Nationally Determined Contributions, NDCs, Paris Agreement 10th anniversary, COP30, emissions gap, global mutirao, AOSIS, Like-Minded Developing Countries, LMDCs, China NDC, India NDC, United States withdrawal, agriculture and food systems, blue NDC challenge, ocean climate action, Paris Performance Ranking, University of Liege, Degroof Petercam, Austria, Germany, Ireland adaptation ranking, 1.5C target",
+    "summary": "Nationally Determined Contributions, NDCs, Paris Agreement 10th anniversary, COP30, emissions gap, global mutirao, AOSIS, Like-Minded Developing Countries, LMDCs, China NDC, India NDC, United States withdrawal, agriculture and food systems, blue NDC challenge, ocean climate action, Paris Performance Ranking, University of Liege, Degroof Petercam, Austria, Germany, Ireland adaptation ranking, 1.5C target, 2026 NDC Synthesis Report, 127 new NDCs 154 Parties, 6 percent cut by 2035, Biennial Transparency Reports, National Adaptation Plans, USD 100 billion goal, USD 1.9 trillion climate finance",
     "category": "legislation-policy",
     "tags": [
       "cop30",
@@ -3153,12 +3214,12 @@
       "2.3 to 2.5°c of warming by 2100",
       "alliance of small island states (aosis)",
       "93% of new ndcs",
+      "127 new ndcs",
       "countries",
       "ndcs",
       "paris",
       "agreement",
-      "plans",
-      "pledges"
+      "plans"
     ]
   },
   {
@@ -3315,9 +3376,15 @@
     "slug": "cop17-biodiversity-yerevan-2026",
     "filename": "legislation-policy/cop17-biodiversity-yerevan-2026.md",
     "label": "COP17 Biodiversity (Yerevan, 2026): the first progress check on the global nature targets",
-    "summary": "COP17 Biodiversity Yerevan Armenia 19-30 October 2026 Taking Action for Nature, Kunming-Montreal Global Biodiversity Framework 23 targets, 30x30 protect 30 percent land sea Target 3, restore 30 percent Target 2, pesticides fertilisers Target 7, harmful subsidies $500 billion Target 18, nature finance $200 billion Target 19, Cali Fund digital genetic data, COP16 Cali 2024 Rome 2025, NBSAPs national plans Seventh National Reports 125 of 196, IPBES Nexus Assessment 71 response options, Rio Conventions climate desertification COP31, EU Nature Restoration Law 2026, Ireland 4th National Biodiversity Action Plan, Aichi targets failure, halfway point 2022-2030",
+    "summary": "COP17 Biodiversity Yerevan Armenia 19-30 October 2026 Taking Action for Nature, Kunming-Montreal Global Biodiversity Framework 23 targets, 30x30 protect 30 percent land sea Target 3, restore 30 percent Target 2, pesticides fertilisers Target 7, harmful subsidies $500 billion Target 18, nature finance $200 billion Target 19, Cali Fund digital genetic data, COP16 Cali 2024 Rome 2025, NBSAPs national plans Seventh National Reports 125 of 196, IPBES Nexus Assessment 71 response options, Rio Conventions climate desertification COP31, EU Nature Restoration Law 2026, Ireland 4th National Biodiversity Action Plan, Aichi targets failure, halfway point 2022-2030, Article 8(j) Subsidiary Body rules of procedure adopted, Indigenous Peoples and local communities, traditional knowledge",
     "category": "legislation-policy",
-    "tags": [],
+    "tags": [
+      "biodiversity",
+      "eu-policy",
+      "nature",
+      "finance",
+      "cop17"
+    ],
     "keywords": [
       "cop15 (montreal, 2022)",
       "national plans",
@@ -3331,6 +3398,34 @@
       "eu nature restoration law",
       "source quality",
       "two points corrected from the source"
+    ]
+  },
+  {
+    "slug": "cop17-outcomes-yerevan-2026",
+    "filename": "legislation-policy/cop17-outcomes-yerevan-2026.md",
+    "label": "What COP17 decided: the outcomes of the Yerevan biodiversity talks",
+    "summary": "COP17 outcomes Yerevan Armenia 19-31 October 2026, Yerevan Pathway, first global review Kunming-Montreal Global Biodiversity Framework, 22 of 23 targets off track, nature finance $20bn 2025 missed $200bn Target 19, broaden the contributor base donor list Article 20 signal interest, permanent financial mechanism deferred COP18 Quito Ecuador 2028, $1.8 billion announced, Cali Fund digital sequence information $10,565, harmful subsidies Target 18 $500bn friends of target 18, High Seas Treaty BBNJ Russia, ICJ advisory opinion dropped, IPBES nexus, Article 8(j) Indigenous permanent body, nature credits EU Friends of Credits, China Sichuan pilot, biodiversity offsets additionality study Peru, Yerevan Platform mountains freshwater, Ireland Christopher O'Sullivan, Amulsar gold mine",
+    "category": "legislation-policy",
+    "tags": [
+      "biodiversity",
+      "finance",
+      "diplomacy",
+      "nature",
+      "eu-policy"
+    ],
+    "keywords": [
+      "cop17",
+      "global review",
+      "yerevan pathway",
+      "permanent financial mechanism",
+      "sources",
+      "brief",
+      "countries",
+      "key-outcomes-carbonbrief-",
+      "nature",
+      "biodiversity",
+      "reuters",
+      "yerevan"
     ]
   },
   {
@@ -3381,7 +3476,7 @@
     "slug": "ai-needs-fossil-fuels",
     "filename": "myths/ai-needs-fossil-fuels.md",
     "label": "Myth: AI will need so much energy we have to burn more fossil fuels to keep up",
-    "summary": "AI energy demand, data centres 1 to 3 percent of world electricity, Google Alphabet 10x AI search claim, IEA 6000 TWh growth by 2030, data centres 3 percent of that growth, Koomey's Law, 550% compute growth 6% energy 2010 2018, Ireland 17 percent data centres, Three Mile Island Microsoft, Amazon Google nuclear, gas dash for AI, ChatGPT 100 queries streaming 20 minutes, hype cycle",
+    "summary": "AI energy demand, data centres 1 to 3 percent of world electricity, Google Alphabet 10x AI search claim, IEA 6000 TWh growth by 2030, data centres 3 percent of that growth, Koomey's Law, 550% compute growth 6% energy 2010 2018, Ireland 17 percent data centres, Three Mile Island Microsoft, Amazon Google nuclear, gas dash for AI, ChatGPT 100 queries streaming 20 minutes, hype cycle, InfluenceMap pro-fossil arguments AI, UN Priorities for Action on AI and Climate Information Integrity COP31",
     "category": "myths",
     "tags": [
       "myth"
@@ -3429,7 +3524,7 @@
     "slug": "carbon-capture-will-fix-it",
     "filename": "myths/carbon-capture-will-fix-it.md",
     "label": "Myth: we can just keep burning fossil fuels and capture the CO2",
-    "summary": "CCS, carbon capture and storage, Hannah Ritchie, 45 sites, 0.1% of global emissions, 149 projects, 100 cancelled, 80% US CCS projects failed, cement steel fertiliser 15% emissions, Oxford CCS pathways, $1 trillion per year cost, gas with CCS, silver bullet, delay decarbonisation, fossil fuel industry profits, $4 trillion 2022 profits, $100 per tonne, DAC direct air capture",
+    "summary": "CCS, carbon capture and storage, Hannah Ritchie, 45 sites, 0.1% of global emissions, 149 projects, 100 cancelled, 80% US CCS projects failed, cement steel fertiliser 15% emissions, Oxford CCS pathways, $1 trillion per year cost, gas with CCS, silver bullet, delay decarbonisation, fossil fuel industry profits, $4 trillion 2022 profits, $100 per tonne, DAC direct air capture, novel carbon removal 0.002 billion tonnes, DAC over $1,000 per tonne, Jonathan Foley, predatory delay",
     "category": "myths",
     "tags": [
       "myth"
@@ -3439,14 +3534,14 @@
       "cement, steel and fertiliser",
       "capture",
       "fossil",
+      "year",
       "keep",
       "fuels",
+      "cost",
       "cement",
       "steel",
-      "year",
-      "cost",
-      "fuel",
-      "burning"
+      "billion",
+      "costs"
     ]
   },
   {
@@ -4976,7 +5071,7 @@
     "slug": "environmental-impact-of-football-world-cups",
     "filename": "sectors/Environmental Impact of football world cups.md",
     "label": "Environmental Impact of Football World Cups",
-    "summary": "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes, FIFPRO, wet-bulb globe temperature thresholds, Telemundo, Vanessa Hauc, Enzo Fernandez, Miami heat, Kansas City heat, tennis cooling breaks, LA Marathon",
+    "summary": "carbon footprint, World Cup 2026, Russia 2018, Qatar 2022, spectator air travel, stadium construction, cooling, SAF, wet-bulb temperature, heat stress, hydration breaks, climate adaptation, sport, football, FIFA, WBGT, heat risk, athlete performance, North America, Mexico, Canada, extreme heat, boycott, public transport, Saudi Aramco, sportswashing, greenwashing, FIFA sponsorship, fossil fuel, petrostate, SGR, Scientists for Global Responsibility, University of Manchester, 30 million tonnes, flooding, wet winters, University of Bristol, Oscar Berglund, Saudi Arabia 2034, Infantino, private jet, Gulfstream, 516 tonnes, 78 people, BBC Verify, FlightRadar24, leadership, net zero, 9 million tonnes, FIFPRO, wet-bulb globe temperature thresholds, Telemundo, Vanessa Hauc, Enzo Fernandez, Miami heat, Kansas City heat, tennis cooling breaks, LA Marathon, UN Sports for Climate Action Framework, UNFCCC complaint, record of failure, New Weather Institute, Fossil Free Football, FairSquare, 2030 World Cup six countries 64 teams, 2027 women's World Cup",
     "category": "sectors",
     "tags": [
       "sport",
@@ -5052,7 +5147,7 @@
     "slug": "about-food-and-farming",
     "filename": "sectors/agriculture-food/About Food and Farming.md",
     "label": "About Food and Farming - Challenges, Regenerative Agriculture and Decarbonisation Levers",
-    "summary": "global food system emissions, food and farm worker exploitation, food inequality, farmer livelihoods, off-farm income, Sri Lanka organic farming ban, regenerative agriculture, soil health principles, soil carbon sequestration, 4 per mille initiative, cover cropping, biochar, crop rotation, carbon offsets for farmers, soil carbon measurement tools, chemical fertiliser emissions, nitrous oxide, vertical farming, precision fermentation, alternative proteins, food transport and refrigeration, dietary shift, seaweed farming, food waste, composting, agroecology, cultured meat, dairy farm transition",
+    "summary": "global food system emissions, food and farm worker exploitation, food inequality, farmer livelihoods, off-farm income, Sri Lanka organic farming ban, regenerative agriculture, soil health principles, soil carbon sequestration, 4 per mille initiative, cover cropping, biochar, crop rotation, carbon offsets for farmers, soil carbon measurement tools, chemical fertiliser emissions, nitrous oxide, vertical farming, precision fermentation, alternative proteins, food transport and refrigeration, dietary shift, seaweed farming, food waste, composting, agroecology, cultured meat, dairy farm transition, soil carbon losses, peat drainage, tillage, Iowa, Ireland farming model, women farmers, Pippa Hackett, International Year of the Woman Farmer",
     "category": "sectors",
     "tags": [
       "agriculture",
@@ -5106,7 +5201,7 @@
     "slug": "facts-about-farming-and-food-production",
     "filename": "sectors/agriculture-food/FACTS about Farming and Food production.md",
     "label": "FACTS about Farming and Food Production",
-    "summary": "farming greenhouse gas emissions, food supply chain emissions, freshwater use in agriculture, land use for agriculture, eutrophication, livestock biomass, wild mammal decline, poultry biomass, animal feed calorie conversion, grain to beef ratio, food waste statistics, fish farming, aquaculture, wild fish bycatch, farmed salmon feed ratio, wheat yield climate impact, coffee farming altitude",
+    "summary": "farming greenhouse gas emissions, food supply chain emissions, freshwater use in agriculture, land use for agriculture, eutrophication, livestock biomass, wild mammal decline, poultry biomass, animal feed calorie conversion, grain to beef ratio, food waste statistics, fish farming, aquaculture, wild fish bycatch, farmed salmon feed ratio, wheat yield climate impact, coffee farming altitude, microalgae fish feed, fishmeal and fish oil, rainbow trout, Nannochloropsis, Schizochytrium",
     "category": "sectors",
     "tags": [
       "agriculture",
@@ -5115,18 +5210,18 @@
       "methane"
     ],
     "keywords": [
+      "fishmeal and fish oil",
+      "fish",
       "food",
       "https",
-      "fish",
       "farming",
-      "ourworldindata",
-      "waste",
-      "wild",
-      "meat",
       "feed",
-      "animals",
-      "environmental-impacts-of-food",
-      "land"
+      "ourworldindata",
+      "wild",
+      "farmed",
+      "waste",
+      "meat",
+      "animals"
     ]
   },
   {
@@ -5687,7 +5782,7 @@
     "slug": "ai-data-centre-energy-crisis",
     "filename": "sectors/digital/ai-data-centre-energy-crisis.md",
     "label": "AI Data Centres and the Energy Crisis",
-    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth, PFAS forever chemicals, two-phase cooling, TFA trifluoroacetic acid, Meta RE100 exit, natural gas power purchase agreements",
+    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth, PFAS forever chemicals, two-phase cooling, TFA trifluoroacetic acid, Meta RE100 exit, natural gas power purchase agreements, InfluenceMap AI fossil fuel arguments, UN Priorities for Action on AI and Climate Information Integrity, COP31, AI footprint disclosure energy water land",
     "category": "sectors",
     "tags": [
       "ai",
@@ -6137,7 +6232,7 @@
     "slug": "carbon-removal-what-are-we-talking-about-a-guide-to-the-different-options",
     "filename": "solutions/carbon-removal/Carbon Removal - What are we talking about? a guide to the different options.md",
     "label": "Carbon Removal: What are we talking about? a guide to the different options",
-    "summary": "What is Carbon Dioxide removal and Why we need it, CAVEATS interesting people and articles, SCALE = Unrealistic Expectations, Fast Moving space, Nature-Base Solutions: Land and Ocean Sinks, Risk Facing Nature-Based solutions, Forests: How important are forests for climate stability, Peatlands, Sequestering soil carbon on farms, Ocean and Coastal Solutions, Seaweed Farming, Technological, Geological and Hybrid removal solutions, Industrial-point-source carbon capture and storage (CCS) or carbon capture and utilisation (GCU), Technological solutions face their own challenges: , Direct Air Capture (DAC), BECCS (Hybrid), A Contested Space, Agenda, ==PRICE DIFFERENCE, SCALE, Additionality, Leakage, Permanence, Additional social and environmental harm, 15 percent of the world’s peatlands, Cost remains high",
+    "summary": "What is Carbon Dioxide removal and Why we need it, CAVEATS interesting people and articles, SCALE = Unrealistic Expectations, Fast Moving space, Nature-Base Solutions: Land and Ocean Sinks, Risk Facing Nature-Based solutions, Forests: How important are forests for climate stability, Peatlands, Sequestering soil carbon on farms, Ocean and Coastal Solutions, Seaweed Farming, Technological, Geological and Hybrid removal solutions, Industrial-point-source carbon capture and storage (CCS) or carbon capture and utilisation (GCU), Technological solutions face their own challenges: , Direct Air Capture (DAC), BECCS (Hybrid), A Contested Space, Agenda, ==PRICE DIFFERENCE, SCALE, Additionality, Leakage, Permanence, Additional social and environmental harm, 15 percent of the world’s peatlands, Cost remains high, conventional versus novel removal, double counting forest regrowth, 0.002 billion tonnes novel removal, biochar 0.7 billion tonnes, CMIP7 scenarios, Jonathan Foley Project Drawdown, predatory delay",
     "category": "solutions",
     "tags": [
       "carbon-removal",
@@ -6146,6 +6241,7 @@
       "forest"
     ],
     "keywords": [
+      "0.002 billion tonnes a year",
       "on tree planting",
       "on accounting risks",
       "additionality",
@@ -6156,7 +6252,6 @@
       "energy demand",
       "standards",
       "risk of misuse",
-      "forests",
       "removal"
     ]
   },
@@ -6295,7 +6390,7 @@
     "slug": "decarbonising-trucking-and-rail-freight",
     "filename": "solutions/electrification/Decarbonising Trucking and Rail Freight.md",
     "label": "Decarbonising Trucking and Rail Freight",
-    "summary": "medium and heavy duty trucks, battery electric trucks, BEV trucks, fuel cell electric trucks, FCEV, hydrogen trucks, electrofuels, rail electrification, battery trains, India rail electrification, California Advanced Clean Trucks, Advanced Clean Fleets, diesel particulate matter, environmental justice, graphene batteries, total cost of ownership, TCO, IDTechEx, TNO report, Flipturn",
+    "summary": "medium and heavy duty trucks, battery electric trucks, BEV trucks, fuel cell electric trucks, FCEV, hydrogen trucks, electrofuels, rail electrification, battery trains, India rail electrification, California Advanced Clean Trucks, Advanced Clean Fleets, diesel particulate matter, environmental justice, graphene batteries, total cost of ownership, TCO, IDTechEx, TNO report, Flipturn, diesel to electric trains, overhead lines, WBCSD, rail abatement cost, China rail expansion",
     "category": "solutions",
     "tags": [
       "transport",
@@ -6304,18 +6399,18 @@
       "battery"
     ],
     "keywords": [
+      "50 to 60%",
       "9% of the world's vehicles",
       "battery technology and range",
       "30 to 50%",
       "electric",
       "lorries",
       "https",
-      "zero-emission",
       "diesel",
-      "freight",
+      "rail",
       "battery",
-      "market",
-      "trucking"
+      "zero-emission",
+      "cost"
     ]
   },
   {
@@ -6373,7 +6468,7 @@
     "slug": "electrify-everything",
     "filename": "solutions/electrification/Electrify Everything.md",
     "label": "Electrify Everything",
-    "summary": "electrify everything, renewable electricity share, Mark Jacobson Stanford, IEA net zero roadmap, EV sales, EU 2035 fossil fuel car ban, UK 2030 ICE phase-out, China EV targets, building decarbonisation, operational carbon, embodied carbon, heavy industry emissions, steel, cement, plastics, fertilisers, nitrogen fertiliser emissions, biochar, plastic pollution, bioplastics, fashion industry emissions, greenwashing, packaging, reusable bags",
+    "summary": "electrify everything, renewable electricity share, Mark Jacobson Stanford, IEA net zero roadmap, EV sales, EU 2035 fossil fuel car ban, UK 2030 ICE phase-out, China EV targets, building decarbonisation, operational carbon, embodied carbon, heavy industry emissions, steel, cement, plastics, fertilisers, nitrogen fertiliser emissions, biochar, plastic pollution, bioplastics, fashion industry emissions, greenwashing, packaging, reusable bags, COP31 35 by 35 electrification target, electricity share of final energy 2035, Samuel Guéret Climate Action Tracker, renewables third of global power 2025",
     "category": "solutions",
     "tags": [
       "electrification",
@@ -6605,26 +6700,27 @@
     "slug": "net-zero-buildings",
     "filename": "solutions/energy-efficiency/Net-Zero Buildings.md",
     "label": "Net-Zero Buildings",
-    "summary": "net-zero buildings, zero net energy, onsite renewables, passive solar design, natural air conditioning, rainwater harvesting, high-performance glass, green and cool roofs, insulation, distributed energy storage, Project Drawdown",
+    "summary": "net-zero buildings, zero net energy, onsite renewables, passive solar design, natural air conditioning, rainwater harvesting, high-performance glass, green and cool roofs, insulation, distributed energy storage, Project Drawdown, retrofit, solid-wall homes, aerogel insulation, insulating lime plaster, cavity wall insulation, Thermulon, Keey Aerogel, heritage buildings, low-carbon heating",
     "category": "solutions",
     "tags": [
       "building-industry",
       "energy-efficiency",
-      "renewables"
+      "renewables",
+      "buildings"
     ],
     "keywords": [
       "net-zero building",
+      "8 million homes with solid walls",
+      "aerogels",
       "net-zero",
       "buildings",
+      "homes",
       "design",
       "building",
-      "cooling",
-      "drawdown",
       "cool",
-      "roofs",
-      "measures",
-      "project",
-      "large"
+      "aerogel",
+      "year",
+      "cooling"
     ]
   },
   {
@@ -6789,7 +6885,7 @@
     "slug": "santa-marta-fossil-fuel-conference-2026",
     "filename": "solutions/energy-transition/santa-marta-fossil-fuel-conference-2026.md",
     "label": "Santa Marta Conference, Building a Coalition to Phase Out Fossil Fuels (2026)",
-    "summary": "Santa Marta, TAFF, Transition Away From Fossil Fuels, roadmap, ~60 countries, more than 50% of global GDP, Almost half producers, Major absentees, France, Colombia, Netherlands, second conference, Tuvalu, co-hosted by Ireland, Bonn 2026 intersessional, COP31 Turkey, Iran war energy crisis, Simon Stiell, Africa negotiator concerns, adaptation finance tripling",
+    "summary": "Santa Marta, TAFF, Transition Away From Fossil Fuels, roadmap, ~60 countries, more than 50% of global GDP, Almost half producers, Major absentees, France, Colombia, Netherlands, second conference, Tuvalu, co-hosted by Ireland, Bonn 2026 intersessional, COP31 Turkey, Iran war energy crisis, Simon Stiell, Africa negotiator concerns, adaptation finance tripling, COP31 Antalya November 2026, national TAFF plans Germany France Netherlands, Finland roadmap, Brazil global roadmap 2028-2033, NewClimate Institute Chetna Hareesh Kumar, ECCO Alexandra Scott, OECD fossil fuel subsidies $920 billion, Urgewald new reserves",
     "category": "solutions",
     "tags": [
       "fossil-fuels",
@@ -6805,12 +6901,12 @@
       "african negotiators",
       "fossil",
       "countries",
-      "conference",
       "fuels",
+      "sources",
+      "conference",
+      "november",
       "santa",
-      "marta",
-      "coalition",
-      "fuel"
+      "marta"
     ]
   },
   {
@@ -7190,7 +7286,7 @@
     "slug": "facts-about-wind-energy",
     "filename": "solutions/renewables/FACTS about Wind Energy.md",
     "label": "FACTS about Wind Energy",
-    "summary": "wind turbines global capacity 837 GW, onshore offshore floating wind, GE Haliade-X turbine, capacity factor, balsa wood Amazon deforestation, blade recycling, Sofia wind farm Siemens Gamesa recyclable blades, PET foam blade material, decommissioned turbine parking building Lund Sweden, China wind cost breakthrough, Gobi desert, Formosa Wind Farm Taiwan 86 reef fish species, Miaoli County SCUBA survey, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, attraction versus production debate, Hywind Scotland floating wind pilot park, Equinor, 121 forms of sea life, soft corals deep-sea stony corals, mooring lines suction anchors, robot submersible survey",
+    "summary": "wind turbines global capacity 837 GW, onshore offshore floating wind, GE Haliade-X turbine, capacity factor, balsa wood Amazon deforestation, blade recycling, Sofia wind farm Siemens Gamesa recyclable blades, PET foam blade material, decommissioned turbine parking building Lund Sweden, China wind cost breakthrough, Gobi desert, Formosa Wind Farm Taiwan 86 reef fish species, Miaoli County SCUBA survey, artificial reef effect offshore wind, biodiversity co-benefit, groupers snappers lobsters, attraction versus production debate, Hywind Scotland floating wind pilot park, Equinor, 121 forms of sea life, soft corals deep-sea stony corals, mooring lines suction anchors, robot submersible survey, US Atlantic food web modelling southern New England, Biodiversity Research Institute, mussels bivalves sediment invertebrates, mature stable food webs",
     "category": "solutions",
     "tags": [
       "renewables",
@@ -7394,6 +7490,87 @@
     ]
   },
   {
+    "slug": "aerogel-insulation-old-homes-newscientist-2026",
+    "filename": "sources/aerogel-insulation-old-homes-newscientist-2026.md",
+    "label": "Super-insulating aerogels could help old homes reach net zero (New Scientist, Madeleine Cuff, October 2026)",
+    "summary": "aerogels, lightest solids on Earth, silica nanoparticle gel, supercritical drying, solid-wall homes, 8 million UK solid-wall homes built before the 1920s, heritage buildings, retrofit, internal and external cladding, mould and damp, planning restrictions, gas heating, low-carbon heating, Thermulon, Sam Cryer, Best of Lime lime plaster, Northern Ireland contract manufacturer 100 tonnes 2027, Keey Aerogel, Francisco Ruiz, construction silica waste, recycled solvent, cool roof coating, cavity wall insulation UK and Ireland, Mulhouse plant, €18 million venture capital, Wim Malfait EMPA, fire resistance, breathable insulation, price shock",
+    "category": "sources",
+    "tags": [
+      "buildings",
+      "energy-efficiency",
+      "building-industry",
+      "cool-companies",
+      "uk",
+      "france"
+    ],
+    "keywords": [
+      "source",
+      "aerogels",
+      "8 million homes with solid walls",
+      "homes",
+      "aerogel",
+      "year",
+      "scientist",
+      "first",
+      "walls",
+      "cost",
+      "production",
+      "october"
+    ]
+  },
+  {
+    "slug": "afp-climate-litigation-desk-ccnow-2026",
+    "filename": "sources/afp-climate-litigation-desk-ccnow-2026.md",
+    "label": "AFP launches a climate litigation desk (Covering Climate Now, November 2026)",
+    "summary": "Agence France-Presse AFP, Future of the Planet Legal Desk, climate litigation, environmental law, Ivan Couronne, Mehdi Lebouachera, Minderoo Foundation, John Hartman, Climate Change Collaboration, Aurora Trust, JJ Charitable Trust, Mark Leonard Trust, Philanthropic Partnerships Initiative, COP31, Covering Climate Now, corporate accountability, climate disinformation fact-checking, McKinsey investigation, Global South, Latin America Asia Africa, climate journalism",
+    "category": "sources",
+    "tags": [
+      "diplomacy",
+      "greenwashing",
+      "fossil-fuels"
+    ],
+    "keywords": [
+      "source",
+      "future of the planet legal desk",
+      "desk",
+      "afp's",
+      "covering",
+      "https",
+      "news",
+      "cases",
+      "first",
+      "specialist",
+      "trust",
+      "against"
+    ]
+  },
+  {
+    "slug": "algae-fish-feed-trout-anthropocene-2026",
+    "filename": "sources/algae-fish-feed-trout-anthropocene-2026.md",
+    "label": "An all-algae diet could take wild fish out of fish farming (Anthropocene Magazine, Douglas Fox, November 2026)",
+    "summary": "aquaculture, fish farming, fish feed, fishmeal and fish oil, microalgae, Nannochloropsis, Schizochytrium, rainbow trout, salmon, tilapia, University of California Santa Cruz, Antioxidants journal 2026 Sarker, omega-3 fatty acids, protein, amino acids, iron calcium magnesium zinc, feed cost, overfishing, sardines herring anchovies mackerel, 100 million tonnes farmed fish, 20 million tonnes wild fish to feed, nitrogen phosphorus pollution dead zones",
+    "category": "sources",
+    "tags": [
+      "ocean",
+      "food",
+      "research",
+      "seaweed"
+    ],
+    "keywords": [
+      "source",
+      "fishmeal and fish oil",
+      "fish",
+      "feed",
+      "trout",
+      "algae",
+      "diet",
+      "farmed",
+      "fishmeal",
+      "https",
+      "cost"
+    ]
+  },
+  {
     "slug": "alps-glaciers-record-loss-newscientist-2026",
     "filename": "sources/alps-glaciers-record-loss-newscientist-2026.md",
     "label": "Glaciers in the Alps on track for record-breaking ice loss (New Scientist, Alec Luhn, August 2026)",
@@ -7486,6 +7663,32 @@
       "french",
       "cologie",
       "june"
+    ]
+  },
+  {
+    "slug": "antarctica-permafrost-co2-newscientist-2026",
+    "filename": "sources/antarctica-permafrost-co2-newscientist-2026.md",
+    "label": "Antarctica's permafrost is emitting worrying amounts of CO2 (New Scientist, Syris Valentine, November 2026)",
+    "summary": "Antarctic permafrost, Taylor Valley, McMurdo Dry Valleys, ice-free ground, soil CO2 flux, 1.7 to 9.5 grams per square metre per day, fivefold rise 2020 to 2025, Livio Ruggiero, Italy National Research Council, subglacial lakes, brines, bottom-up thaw, ancient carbon stores, Arctic permafrost comparison, Peter Morse Geological Survey of Canada, Ida Kubiszewski UCL, Antarctic tipping points, 76.8 million tonnes CO2 per year, Chile 78.7 million tonnes, southern hemisphere carbon budget, unaccounted carbon source",
+    "category": "sources",
+    "tags": [
+      "science",
+      "carbon",
+      "research"
+    ],
+    "keywords": [
+      "source",
+      "study",
+      "9.5 grams per square metre per day",
+      "76.8 million tonnes of co2 a year",
+      "permafrost",
+      "arctic",
+      "november",
+      "ruggiero",
+      "antarctica",
+      "square",
+      "metre",
+      "million"
     ]
   },
   {
@@ -7639,6 +7842,60 @@
     ]
   },
   {
+    "slug": "banktrack-coral-triangle-banks-2026",
+    "filename": "sources/banktrack-coral-triangle-banks-2026.md",
+    "label": "No European bank commits to keep fossil fuel finance out of the Coral Triangle (BankTrack, September 2026)",
+    "summary": "Coral Triangle, BankTrack, 36 NGOs, 24 European banks, 17 replies, BNP Paribas LNG terminals, liquefaction regasification, Reclaim Finance, Urgewald, ReCommon, CEED Philippines, Verde Island Passage, critical biodiversity areas, offshore oil and gas blocks, coral reefs, seagrass meadows, mangroves, 76% of coral species, 2,000 reef fish species, 120 million people, Indonesia Philippines Malaysia Papua New Guinea Solomon Islands Timor-Leste, Equator Principles, corporate finance versus project finance, vertebrate populations down 70%, San Miguel Corporation",
+    "category": "sources",
+    "tags": [
+      "finance",
+      "fossil-fuels",
+      "biodiversity",
+      "ocean"
+    ],
+    "keywords": [
+      "source",
+      "coral triangle",
+      "coral",
+      "triangle",
+      "banktrack",
+      "terminals",
+      "finance",
+      "area",
+      "bank",
+      "fossil",
+      "commitment",
+      "fuel"
+    ]
+  },
+  {
+    "slug": "belfast-reusable-cups-belfast-telegraph-2026",
+    "filename": "sources/belfast-reusable-cups-belfast-telegraph-2026.md",
+    "label": "Belfast reusable cup scheme avoids 30 tonnes of waste and 1.5 million plastic cups (Belfast Telegraph, November 2026)",
+    "summary": "Belfast reusable cup scheme, Northern Ireland, Venue Sustainability Forum, Visit Belfast, Waterfront Hall, Ulster Hall, O2 Belfast, Oh Yeah Centre, Black Box, The MAC, Balmoral Show, national football stadium, North Down Marquees and More, single-use plastic cups, 30 tonnes waste, 105 tonnes carbon, 1.5 million cups, AD Sustainability life cycle analysis, reuse beats single use after two uses, circular economy, events industry, reuse systems",
+    "category": "sources",
+    "tags": [
+      "plastic",
+      "circularity",
+      "uk",
+      "ireland",
+      "behaviour"
+    ],
+    "keywords": [
+      "source",
+      "reusable cups",
+      "just two uses",
+      "30 tonnes of waste",
+      "scheme",
+      "cups",
+      "belfast",
+      "single-use",
+      "venues",
+      "reusable",
+      "plastic"
+    ]
+  },
+  {
     "slug": "bp-shareholder-rebellion-2026",
     "filename": "sources/bp-shareholder-rebellion-2026.md",
     "label": "BP board suffers triple climate rebellion from shareholders (Guardian, April 2026)",
@@ -7690,6 +7947,60 @@
       "paid",
       "guardian",
       "undp"
+    ]
+  },
+  {
+    "slug": "carbon-impacts-tracer-conversation-2026",
+    "filename": "sources/carbon-impacts-tracer-conversation-2026.md",
+    "label": "We can finally measure the damage each new coal, gas or oil project will do (The Conversation, Claudia Stepin et al., September 2026)",
+    "summary": "Carbon Impacts Tracer, open-source tool, attribution science, drop in the ocean defence, new fossil fuel projects, Scarborough gas project Woodside 876 million tonnes 516,000 people unprecedented heat 484 heat deaths Europe, Great Barrier Reef coral bleaching, Browse to North West Shelf 1,597 megatonnes 0.00072°C, ExxonMobil 5,245 Mt 0.0024°C 127 km2 glaciers, 0.45°C per trillion tonnes CO2, TCRE carbon budget, IPCC AR6, European heatwave deaths, International Court of Justice advisory opinion, climate litigation, insurers, Australia, United Kingdom",
+    "category": "sources",
+    "tags": [
+      "fossil-fuels",
+      "science",
+      "adaptation",
+      "research"
+    ],
+    "keywords": [
+      "source",
+      "\"drop in the ocean\"",
+      "carbon impacts tracer",
+      "project",
+      "extra",
+      "damage",
+      "https",
+      "tool",
+      "warming",
+      "deaths",
+      "link",
+      "harm"
+    ]
+  },
+  {
+    "slug": "carbon-removal-reckless-foley-drawdown-2026",
+    "filename": "sources/carbon-removal-reckless-foley-drawdown-2026.md",
+    "label": "Why assuming massive growth in carbon removal is reckless and unwarranted (Project Drawdown, Jonathan Foley, October 2026)",
+    "summary": "carbon removal, carbon dioxide removal CDR, Jonathan Foley, Project Drawdown, World Climate Research Programme, CMIP7 emissions scenarios, integrated assessment models, 10 to 30 billion tonnes by 2100, 5,000 to 15,000-fold increase, conventional removal 2 billion tonnes forest regrowth double counting, novel removal 0.002 billion tonnes 17 minutes of emissions, BECCS bioenergy with carbon capture, biochar 0.7 billion tonnes, direct air capture over $1,000 per tonne, enhanced oil recovery, ocean alkalinity enhancement, enhanced rock weathering, geological storage wells, overshoot, predatory delay, peatland restoration, permanence",
+    "category": "sources",
+    "tags": [
+      "carbon-removal",
+      "science",
+      "forest",
+      "fossil-fuels"
+    ],
+    "keywords": [
+      "source",
+      "5,000- to 15,000-fold increase",
+      "removal",
+      "year",
+      "billion",
+      "foley",
+      "drawdown",
+      "https",
+      "scenarios",
+      "project",
+      "today",
+      "novel"
     ]
   },
   {
@@ -7784,6 +8095,33 @@
     ]
   },
   {
+    "slug": "co2-exporters-history-carbon-brief-guardian-2026",
+    "filename": "sources/co2-exporters-history-carbon-brief-guardian-2026.md",
+    "label": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history (Guardian, Fiona Harvey and Simon Evans, November 2026)",
+    "summary": "fossil fuel exports, exported CO2 emissions since 1850, Carbon Brief analysis, Russia 70 gigatonnes, Saudi Arabia 60 gigatonnes, Australia 25 gigatonnes, Venezuela, historical responsibility, extraction-based accounting versus consumption, US and China historical emissions, COP31 Turkey, Australia president of negotiations, transition away from fossil fuels draft text, Make Polluters Pay, Louise Hutchins, Climate Analytics Bill Hare, coalmines to 2088, Anthony Albanese, One Nation, Friends of the Earth Asad Rehman, Saudi energy ministry 1% of emissions",
+    "category": "sources",
+    "tags": [
+      "fossil-fuels",
+      "diplomacy",
+      "phaseout",
+      "finance"
+    ],
+    "keywords": [
+      "source",
+      "carbon brief",
+      "fuel",
+      "saudi",
+      "russia",
+      "arabia",
+      "australia",
+      "fossil",
+      "guardian",
+      "analysis",
+      "exports",
+      "gigatonnes"
+    ]
+  },
+  {
     "slug": "coffeeangel-biodiversity-credits",
     "filename": "sources/coffeeangel-biodiversity-credits.md",
     "label": "Coffeeangel: Brewing a Better Future with Biodiversity",
@@ -7825,6 +8163,33 @@
       "together",
       "country",
       "group"
+    ]
+  },
+  {
+    "slug": "community-forest-economies-wri-2026",
+    "filename": "sources/community-forest-economies-wri-2026.md",
+    "label": "Forest communities are showing what a better economy looks like (WRI, Wanjira Mathai, November 2026)",
+    "summary": "community-led forest economies, Amazonian sociobioeconomy, Urucureá Brazil, Turiarte cooperative, Amélias da Amazônia Tapajós National Forest, Ecocentro da Sociobioeconomia Santarém, tucumã palm cumaru tonka beans copaíba oil cassava tucupi, Indigenous Peoples Afro-descendant local communities 54 percent of intact forests, Global Witness 124 land defenders killed 2025 26 in Brazil, free prior and informed consent, UNEP State of Finance for Nature $7.3 trillion harmful vs $220 billion nature-based solutions 30 to 1, tenure rights funding below 1 percent, Intergovernmental Land Tenure Commitment 15 governments 160 million hectares, Forest and Land Tenure Pledge $1.8 billion, Bioeconomy Challenge COP30, cocoa farmers 11 percent chocolate bar, Pan-Amazon Network for Bioeconomy, social forestry Indonesia, Congo Basin community forestry, Mexico community forest enterprises",
+    "category": "sources",
+    "tags": [
+      "forest",
+      "biodiversity",
+      "finance",
+      "nature"
+    ],
+    "keywords": [
+      "source",
+      "sociobioeconomy",
+      "rewarding stewardship",
+      "direct finance",
+      "secure land rights",
+      "infrastructure and markets",
+      "communities",
+      "rights",
+      "forest",
+      "community",
+      "land",
+      "resources"
     ]
   },
   {
@@ -7909,6 +8274,60 @@
     ]
   },
   {
+    "slug": "cop17-article-8j-indigenous-body-linkedin-2026",
+    "filename": "sources/cop17-article-8j-indigenous-body-linkedin-2026.md",
+    "label": "COP17 closes with rules adopted for a permanent Indigenous Peoples body (COP17 Armenia, LinkedIn, November 2026)",
+    "summary": "COP17 Yerevan Armenia closing, Convention on Biological Diversity, Article 8(j), Subsidiary Body on Article 8(j), rules of procedure adopted, Indigenous Peoples and local communities, permanent participation, traditional knowledge, community-led conservation, biodiversity finance access, COP16 Cali permanent body, prolonged negotiations",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "diplomacy",
+      "nature"
+    ],
+    "keywords": [
+      "source",
+      "body",
+      "communities",
+      "permanent",
+      "indigenous",
+      "peoples",
+      "linkedin",
+      "post",
+      "biodiversity",
+      "rules",
+      "convention",
+      "local"
+    ]
+  },
+  {
+    "slug": "cop17-key-outcomes-carbonbrief-2026",
+    "filename": "sources/cop17-key-outcomes-carbonbrief-2026.md",
+    "label": "COP17: key outcomes agreed at the UN biodiversity conference in Yerevan (Carbon Brief, October 2026)",
+    "summary": "COP17 Yerevan Armenia outcomes, first global review Kunming-Montreal Global Biodiversity Framework, 22 of 23 targets off track, Yerevan pathway, broaden the contributor base Article 20 CBD donor list 2006 JUSCANZ, $20bn 2025 nature finance target missed, $200bn Target 19, permanent financial mechanism deferred to COP18 Quito 2028, Cali Fund digital sequence information $10,565 pledges, $150m threshold, 50% Indigenous peoples allocation, Biodiversity Foundation Initiative, harmful subsidies Target 18 $1.8tn $500bn, friends of target 18 Colombia Finland IISD, High Seas Treaty BBNJ Russia, EBSAs, ICJ advisory opinion removed, IPBES nexus assessment, Article 8(j) permanent body, Friends of Credits for Nature EU Roswall, biodiversity offsets additionality study Peru, Amulsar gold mine protests, Tapanuli orangutan, Christopher O'Sullivan Ireland",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "finance",
+      "diplomacy",
+      "nature",
+      "ocean"
+    ],
+    "keywords": [
+      "source",
+      "global review",
+      "cali fund",
+      "digital sequence information (dsi)",
+      "countries",
+      "biodiversity",
+      "talks",
+      "fund",
+      "subsidies",
+      "data",
+      "nature",
+      "report"
+    ]
+  },
+  {
     "slug": "cop17-pressure-rescue-nature-guardian-2026",
     "filename": "sources/cop17-pressure-rescue-nature-guardian-2026.md",
     "label": "At COP17, the pressure is on to rescue a deal that could end the destruction of nature (Guardian, Rebecca Ratcliffe, October 2026)",
@@ -7933,6 +8352,89 @@
       "help",
       "guardian",
       "first"
+    ]
+  },
+  {
+    "slug": "cop17-yerevan-pathway-reuters-2026",
+    "filename": "sources/cop17-yerevan-pathway-reuters-2026.md",
+    "label": "Countries reach COP17 deal to speed up biodiversity action, but money still short (Reuters, October 2026)",
+    "summary": "COP17 Yerevan Armenia closing deal, Yerevan Pathway, Global Biodiversity Framework first global review, off track on almost all targets, 30 percent land sea protection 30x30, restore 30 percent degraded ecosystems, $200 billion a year nature finance, harmful subsidies $500 billion a year 2030, $1.8 billion pledged during conference, nearly 90 percent national targets fewer than half on track, COP18 Quito Ecuador 2028, permanent financing mechanism, broaden contributor base, Finance for Biodiversity Foundation, WWF, Fauna & Flora, COP31 Turkey",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "finance",
+      "diplomacy",
+      "nature"
+    ],
+    "keywords": [
+      "source",
+      "yerevan pathway",
+      "$1.8 billion",
+      "reuters",
+      "countries",
+      "biodiversity",
+      "governments",
+      "agreed",
+      "deal",
+      "money",
+      "short",
+      "october"
+    ]
+  },
+  {
+    "slug": "cop31-implementation-wdht-2026",
+    "filename": "sources/cop31-implementation-wdht-2026.md",
+    "label": "From pledges to action: can COP31 become the COP of implementation? (We Don't Have Time, November 2026)",
+    "summary": "COP31 Antalya implementation COP, Türkiye presidency Australia negotiations, Murat Kurum, Chris Bowen, Pacific voices, Action Agenda vs negotiated outcomes, fossil fuel host countries, Australia third-largest fossil fuel exporter, Türkiye coal, 88 countries COP30 roadmap, 35 by 35 electrification, Samuel Guéret Climate Action Tracker, NCQG $300 billion $1.3 trillion, zero waste methane 30 percent of warming, waste third-largest methane source, halve waste growth 2035, Blue COP, Caretta loggerhead turtle mascot, Antalya Declaration on the Oceans, Brazil roadmaps fossil fuels deforestation 3 November 2026, Observatório do Clima, TAFF coalition Santa Marta 57 countries, seven of nine planetary boundaries, wildlife down 73 percent, 2.8C",
+    "category": "sources",
+    "tags": [
+      "diplomacy",
+      "electrification",
+      "methane",
+      "finance",
+      "ocean",
+      "fossil-fuels"
+    ],
+    "keywords": [
+      "source",
+      "$1.3 trillion a year",
+      "fossil",
+      "countries",
+      "fuel",
+      "waste",
+      "pledges",
+      "chabane",
+      "november",
+      "hosts",
+      "warming",
+      "methane"
+    ]
+  },
+  {
+    "slug": "cryosphere-overshoot-glaciers-rte-2026",
+    "filename": "sources/cryosphere-overshoot-glaciers-rte-2026.md",
+    "label": "Irreversible' damage to glaciers if 1.5C breached: two UN-backed cryosphere reports (RTÉ, November 2026)",
+    "summary": "cryosphere, Overshoot and the Cryosphere report, State of the Cryosphere 2026 The Cost of Overshoot, James Kirkham glaciologist, 80 scientists, glaciers sea ice permafrost ice sheets, irreversible impacts, safe temperature for ice 1C, sea level rise 2 to 9 metres, 5 cm a year by 2150, 0.45 cm today, permafrost carbon as much as the United States, AMOC weakening 3C northern Europe, 1.37C warming so far, Copernicus 1.5C around 2030, Switzerland 20 percent glacier loss, Matthew England UNSW recovery decades to centuries, Gunjan Silwal Nepal glacier collapse 1,400 dead, landslides floods drought water scarcity, downstream displacement, 2.6C by 2100",
+    "category": "sources",
+    "tags": [
+      "science",
+      "adaptation",
+      "ocean",
+      "nature"
+    ],
+    "keywords": [
+      "source",
+      "cryosphere",
+      "2 to 9 metres",
+      "warming",
+      "glaciers",
+      "news",
+      "mountain",
+      "overshoot",
+      "below",
+      "reports",
+      "permafrost",
+      "reach"
     ]
   },
   {
@@ -8135,6 +8637,34 @@
       "food",
       "farm",
       "report"
+    ]
+  },
+  {
+    "slug": "emissions-gap-2026-five-lessons-decoder",
+    "filename": "sources/emissions-gap-2026-five-lessons-decoder.md",
+    "label": "Five lessons from UNEP's Emissions Gap Report 2026, The Point of Return (Sustainability Decoder, October 2026)",
+    "summary": "UNEP Emissions Gap Report 2026, The Point of Return, 1.5C exceeded multidecadal basis unavoidable, overshoot peak warming, 58.4 billion tonnes CO2 equivalent 2025, emissions plateau or peak uncertain, fossil fuel combustion rising, land-use emissions wildfires, 45 percent cut by 2035 relative to 2025, NDCs deliver 11-15 percent, ambition and implementation gap, solar and wind exceeded expectations, coal oil gas supply still growing, grids energy efficiency electrification, 220 policy evaluations causal evidence, regulation public investment carbon pricing incentives, policy design",
+    "category": "sources",
+    "tags": [
+      "science",
+      "carbon",
+      "renewables",
+      "fossil-fuels",
+      "key-ideas"
+    ],
+    "keywords": [
+      "source",
+      "emissions gap report",
+      "58.4 billion tonnes of co2 equivalent",
+      "report",
+      "unep",
+      "policies",
+      "newsletter",
+      "fossil",
+      "decoder",
+      "https",
+      "pledges",
+      "point"
     ]
   },
   {
@@ -8361,6 +8891,32 @@
     ]
   },
   {
+    "slug": "fifa-un-sports-climate-complaint-guardian-2026",
+    "filename": "sources/fifa-un-sports-climate-complaint-guardian-2026.md",
+    "label": "Fifa accused of a climate 'record of failure' over Aramco deal and tournament expansion (Guardian, Paul MacInnes, November 2026)",
+    "summary": "FIFA, UN Sports for Climate Action Framework, UNFCCC complaint, record of failure, Saudi Aramco major worldwide partner, sportswashing, largest historic corporate polluter, 2026 men's World Cup 104 matches 16 cities three countries, most polluting World Cup, 2030 World Cup six countries three continents 64 teams, 2027 women's World Cup, FIFA climate strategy 2021 halve emissions 2030 net zero 2040, New Weather Institute, Fossil Free Football, Scientists for Global Responsibility, FairSquare, COP31 Turkey",
+    "category": "sources",
+    "tags": [
+      "sport",
+      "fossil-fuels",
+      "greenwashing",
+      "aviation"
+    ],
+    "keywords": [
+      "source",
+      "un sports for climate action framework",
+      "fifa",
+      "aramco",
+      "football",
+      "framework",
+      "https",
+      "groups",
+      "fifa's",
+      "complaint",
+      "matches"
+    ]
+  },
+  {
     "slug": "foley-food-farming-fate-earth-2024",
     "filename": "sources/foley-food-farming-fate-earth-2024.md",
     "label": "How Food and Farming Will Determine the Fate of Planet Earth",
@@ -8517,6 +9073,31 @@
     ]
   },
   {
+    "slug": "garden-climate-assessment-tool-guardian-2026",
+    "filename": "sources/garden-climate-assessment-tool-guardian-2026.md",
+    "label": "A new tool to help gardeners choose plants for a hotter, drier climate (Guardian, Miatta Mbriwa, November 2026)",
+    "summary": "Garden Climate Assessment Tool GCAT, Future National Gardens Group FNGG, Royal Horticultural Society RHS, National Trust, English Heritage, Royal Botanic Gardens, Botanic Gardens Conservation International tree tool Australia 2022, 80650 plant types, 289 UK gardens, drought England 2026, heatwaves, drought-resistant plants, lawns, hydrangeas, delphiniums, silver birch, chalk and clay soils, Cambridge University Botanic Garden Sam Brockington, Climate Change Gardening, east of England driest region, climate-resilient gardens",
+    "category": "sources",
+    "tags": [
+      "adaptation",
+      "uk",
+      "nature",
+      "individual-actions"
+    ],
+    "keywords": [
+      "source",
+      "garden climate assessment tool",
+      "tool",
+      "gardeners",
+      "gardens",
+      "plants",
+      "garden",
+      "november",
+      "english",
+      "botanic"
+    ]
+  },
+  {
     "slug": "geothermal-newscientist-2026",
     "filename": "sources/geothermal-newscientist-2026.md",
     "label": "How to unlock unlimited geothermal energy, anywhere we want (New Scientist, July 2026)",
@@ -8569,6 +9150,33 @@
       "finance",
       "peixoto",
       "brief"
+    ]
+  },
+  {
+    "slug": "greenwashing-follows-energy-transition-reprisk-2026",
+    "filename": "sources/greenwashing-follows-energy-transition-reprisk-2026.md",
+    "label": "Greenwashing is following the energy transition (Sustainable Brands, Antonio Vizcaya Abdo, November 2026)",
+    "summary": "greenwashing, RepRisk Greenwashing Report 2026, 112% rise in incidents 2022 to 2026, 1,594 companies, energy transition, renewable energy, wind farms, critical minerals mining, batteries, electric vehicles, transition finance, digital infrastructure, data centres, ecosystems and biodiversity overtake climate, water, communities, banks and financial services, severe allegations, repeat offenders, low carbon versus low impact, claim substantiation, due diligence",
+    "category": "sources",
+    "tags": [
+      "greenwashing",
+      "energy-transition",
+      "biodiversity",
+      "finance"
+    ],
+    "keywords": [
+      "source",
+      "reprisk greenwashing report",
+      "greenwashing",
+      "reprisk",
+      "companies",
+      "linked",
+      "vizcaya",
+      "incidents",
+      "claim",
+      "antonio",
+      "abdo",
+      "november"
     ]
   },
   {
@@ -8652,6 +9260,34 @@
     ]
   },
   {
+    "slug": "hometree-rainforest-fundraiser-2026",
+    "filename": "sources/hometree-rainforest-fundraiser-2026.md",
+    "label": "Help restore Ireland's rainforests: Hometree's Wild Atlantic Rainforest fundraiser (Hometree, November 2026)",
+    "summary": "Hometree charity Ennistymon County Clare, Wild Atlantic Rainforest Project, Irish temperate rainforest Atlantic oakwood, mosses ferns lichens epiphytes, rain on more than 200 days a year, less than 2 percent native woodland Ireland, €14.7 million Immigrant Investor Programme match funding, €3.9 million target 19 November 2026, €1 million public appeal, €2.9 million philanthropy, 4,000 acres, 57,500 acres ten-year plan, restoration hubs, farmers landowners fencing planting, invasive species clearing, bog rewetting sphagnum moss, native sapling nursery, Charitable Donation Scheme tax relief €250, 1% for the Planet",
+    "category": "sources",
+    "tags": [
+      "forest",
+      "ireland",
+      "biodiversity",
+      "nature-based-solutions",
+      "individual-actions"
+    ],
+    "keywords": [
+      "source",
+      "wild atlantic rainforest project",
+      "temperate rainforest",
+      "€14.7 million",
+      "hometree",
+      "rainforest",
+      "fundraiser",
+      "restore",
+      "page",
+      "project",
+      "charity",
+      "million"
+    ]
+  },
+  {
     "slug": "honeybees-crowd-wild-pollinators-guardian-2026",
     "filename": "sources/honeybees-crowd-wild-pollinators-guardian-2026.md",
     "label": "Honeybees outcompete wild pollinators at flowers: Anglia Ruskin study (Guardian, October 2026)",
@@ -8720,6 +9356,35 @@
       "airlines",
       "fuel",
       "aviation"
+    ]
+  },
+  {
+    "slug": "igbc-building-with-nature-case-studies-2026",
+    "filename": "sources/igbc-building-with-nature-case-studies-2026.md",
+    "label": "The wetland that saved €100,000: lessons from building with nature in Ireland (Irish Green Building Council, October 2026)",
+    "summary": "Irish Green Building Council IGBC, Biodiversity and the Built Environment Community of Practice 2023, ten Irish case studies catalogue, Construct Innovate, Land Development Agency, National Forensic Mental Health Services Portrane wetland rehydration attenuation tank €100000 saving, wader scrape, Seven Mills Clonburris Cairn Homes biodiversity net gain native seed harvesting hawthorn hedgerow, Clúid Housing Ballygraigue Court Nenagh, Tuath Housing Kickham Street Carrick-on-Suir, Cobh rain garden, Belgooly school rain gardens, All-Ireland Pollinator Plan, nature-based solutions, green roofs, ecologists skills shortage, Christopher O'Sullivan minister",
+    "category": "sources",
+    "tags": [
+      "ireland",
+      "biodiversity",
+      "buildings",
+      "wetlands",
+      "nature-based-solutions",
+      "building-industry"
+    ],
+    "keywords": [
+      "source",
+      "ten irish case studies",
+      "saved more than €100,000",
+      "seven mills",
+      "ballygraigue court",
+      "kickham street",
+      "building",
+      "nature",
+      "irish",
+      "council",
+      "green",
+      "biodiversity"
     ]
   },
   {
@@ -8897,6 +9562,33 @@
     ]
   },
   {
+    "slug": "ireland-temperate-rainforest-southern-star-2026",
+    "filename": "sources/ireland-temperate-rainforest-southern-star-2026.md",
+    "label": "Why restoring Ireland's temperate rainforests matters (Southern Star, November 2026)",
+    "summary": "Irish temperate rainforest West Cork, mosses ferns ivy navelwort epiphytes, grief and loss practitioner, nature and mental health nervous system regulation, rewilding private gardens, landscape-scale restoration with farmers and landowners, Hometree charity, Wild Atlantic Rainforest Project, 57,000 acres 10-year goal Atlantic seaboard, €1 million public fundraising target 19 November, native woodland",
+    "category": "sources",
+    "tags": [
+      "forest",
+      "ireland",
+      "biodiversity",
+      "nature-based-solutions"
+    ],
+    "keywords": [
+      "source",
+      "temperate rainforest",
+      "ireland's",
+      "temperate",
+      "matters",
+      "southern",
+      "star",
+      "november",
+      "west",
+      "native",
+      "hometree's",
+      "acres"
+    ]
+  },
+  {
     "slug": "ireland-transport-ccac-2026",
     "filename": "sources/ireland-transport-ccac-2026.md",
     "label": "ireland-transport-ccac-2026",
@@ -8992,6 +9684,62 @@
       "ridge",
       "long",
       "patterns"
+    ]
+  },
+  {
+    "slug": "kite-insights-cop31-preview-2026",
+    "filename": "sources/kite-insights-cop31-preview-2026.md",
+    "label": "What to know ahead of COP31: a preview for sustainability practitioners (Kite Insights, November 2026)",
+    "summary": "COP31 Antalya EXPO Center 9-20 November 2026, 100,000 participants, Türkiye Australia split presidency, Murat Kurum, Chris Bowen, Samed Ağırbaş Zero Waste Foundation High-Level Champion, both hosts new coal, Iran war Strait of Hormuz energy prices, super El Niño WFP 49 million acute hunger, US second Paris withdrawal 22 percent of secretariat budget, America Is All In, Lula re-election Amazon deforestation down 36 percent, EU €33 billion climate finance 2025, 2.8C warming, quarter of new cars electric 2025, $3.5 trillion renewables double fossil, Action Agenda 35 percent electrification, halve waste growth, 25 percent building energy intensity, ten priority themes, coral reefs 96 percent critically endangered, coalitions of the willing, High-Level Panel for a Sustainable Ocean Economy, adaptation finance tripling, theme days, COP31 Business Forum TOBB, UNEP FI Finance Day, We Mean Business",
+    "category": "sources",
+    "tags": [
+      "diplomacy",
+      "electrification",
+      "adaptation",
+      "finance",
+      "ocean",
+      "coalition"
+    ],
+    "keywords": [
+      "source",
+      "49 million more people into acute hunger",
+      "adaptation",
+      "countries",
+      "kite",
+      "insights",
+      "november",
+      "briefing",
+      "programme",
+      "electrification",
+      "world's",
+      "food"
+    ]
+  },
+  {
+    "slug": "lancet-countdown-2026-who",
+    "filename": "sources/lancet-countdown-2026-who.md",
+    "label": "Climate change is a growing health emergency, Lancet Countdown 2026 warns (WHO, October 2026)",
+    "summary": "Lancet Countdown on Health and Climate Change 2026, WHO, University College London, 54 indicators, heat-related deaths up 36 percent since Paris Agreement, 710,000 heat deaths 2023, 70 percent attributable to climate change, drought, hydrological extremes, economic losses from heat, clean energy investment US$2.1 trillion 2025, air pollution premature deaths avoided, health adaptation plans, early warning systems, Diarmid Campbell-Lendrum, global health emergency, ATACH Alliance for Transformative Action on Climate and Health, El Niño graded emergency response, International Health Regulations PHEIC, COP31 health, 146 researchers 100 institutions",
+    "category": "sources",
+    "tags": [
+      "science",
+      "adaptation",
+      "energy-transition",
+      "research"
+    ],
+    "keywords": [
+      "source",
+      "36%",
+      "health",
+      "heat",
+      "emergency",
+      "report",
+      "deaths",
+      "lancet",
+      "countdown",
+      "organization",
+      "https",
+      "yearly"
     ]
   },
   {
@@ -9126,6 +9874,33 @@
     ]
   },
   {
+    "slug": "marginal-wells-methane-newscientist-2026",
+    "filename": "sources/marginal-wells-methane-newscientist-2026.md",
+    "label": "Marginal oil and gas wells have an outsized methane impact (New Scientist, Madeleine Cuff, November 2026)",
+    "summary": "marginal wells, low-producing oil and gas wells, stripper wells, methane leaks, MethaneSat satellite, Environmental Defense Fund, Mark Omara, 15 barrels of oil equivalent per day, 5 percent of US production, 58 percent of well-site methane, 40 percent of supply chain methane, 10 times more polluting per unit, methane intensity, COP28 0.2 percent target, 2.9 percent global intensity, Turkmenistan, Venezuela, 60 percent intensity, Trump administration rollback, Daniel Jacob Harvard, Robin Lamboll Imperial College London, Global Methane Pledge",
+    "category": "sources",
+    "tags": [
+      "methane",
+      "fossil-fuels",
+      "us",
+      "science"
+    ],
+    "keywords": [
+      "source",
+      "study",
+      "methanesat",
+      "5% of us oil and gas production",
+      "methane",
+      "wells",
+      "marginal",
+      "leaks",
+      "november",
+      "production",
+      "scientist",
+      "omara"
+    ]
+  },
+  {
     "slug": "meta-quits-re100-rte-2026",
     "filename": "sources/meta-quits-re100-rte-2026.md",
     "label": "Meta quits clean energy pledge amid data centre expansion (RTÉ, July 2026)",
@@ -9207,6 +9982,61 @@
       "sbtn",
       "iso 14068-1",
       "ghg protocol corporate standard"
+    ]
+  },
+  {
+    "slug": "offshore-wind-food-webs-phys-2026",
+    "filename": "sources/offshore-wind-food-webs-phys-2026.md",
+    "label": "New research explores how offshore wind development may alter marine food webs (Phys.org, November 2026)",
+    "summary": "offshore wind marine food webs, US Atlantic coast southern New England, three wind farm study sites, food web modelling, Biodiversity Research Institute BRI, Kim Lato University of New Hampshire, Scientific Reports 2026, artificial reef effect, turbine foundations hard surfaces on soft sediment, mussels barnacles bivalves, sediment-dwelling invertebrates benthic communities, energy flows, ecosystem maturity and stability, four years after construction, data gaps microorganisms nutrient recycling, environmental monitoring",
+    "category": "sources",
+    "tags": [
+      "renewables",
+      "ocean",
+      "biodiversity",
+      "research",
+      "us"
+    ],
+    "keywords": [
+      "source",
+      "artificial reefs",
+      "more mature and stable",
+      "wind",
+      "offshore",
+      "food",
+      "marine",
+      "phys",
+      "https",
+      "webs",
+      "biodiversity",
+      "institute"
+    ]
+  },
+  {
+    "slug": "our-durla-agreement-schools-nature-2026",
+    "filename": "sources/our-durla-agreement-schools-nature-2026.md",
+    "label": "Our Dúlra Agreement: a 'COP for schools' to bring nature back to Irish school grounds (Dublin Gazette and South East Radio, November 2026)",
+    "summary": "Our Dúlra Agreement, COP for schools, Christopher O'Sullivan Minister of State Nature Heritage Biodiversity, Firhouse Educate Together Secondary School, Education and Training Boards ETB, Kilkenny Carlow ETB Lindsay Malone, Education Support Centres, Irish Schools Sustainability Network ISSN Patrick Kirwan, Biodiversity Working Group for Schools, Green-Schools, National Biodiversity Data Centre, Wildacres Co Wicklow, Nature Restoration Plan September 2027, EU Nature Restoration Law, Citizens' Assembly on Biodiversity Loss, Aoibhinn Ní Shúilleabháin, green schools working memory Spain study, Danish green space mental health study, Wexford schools, COP17 COP31",
+    "category": "sources",
+    "tags": [
+      "ireland",
+      "biodiversity",
+      "nature",
+      "behaviour"
+    ],
+    "keywords": [
+      "sources",
+      "our dúlra agreement",
+      "schools",
+      "nature",
+      "biodiversity",
+      "education",
+      "school",
+      "agreement",
+      "dublin",
+      "november",
+      "irish",
+      "support"
     ]
   },
   {
@@ -9366,6 +10196,33 @@
       "australia",
       "down",
       "wool"
+    ]
+  },
+  {
+    "slug": "rail-diesel-to-electric-climate-drive-wbcsd",
+    "filename": "sources/rail-diesel-to-electric-climate-drive-wbcsd.md",
+    "label": "Switching rail from diesel to electric (The Climate Drive, explained by WBCSD)",
+    "summary": "rail electrification, diesel trains, electric trains, overhead lines, third rail, battery trains, supercapacitors, World Business Council for Sustainable Development WBCSD, The Climate Drive, transport 16.2 percent of CO2, rail 2 percent of transport emissions, 54 percent diesel 45 percent electric rail energy, 50 to 60 percent emission reduction, electricity mix, operating costs 40 percent lower, capital cost 10 to 15 percent higher, abatement cost below minus 200 dollars per tonne, China rail expansion, rail market 281 billion 436 billion, Scope 1 2 3, IEA, EEA",
+    "category": "sources",
+    "tags": [
+      "transport",
+      "electrification",
+      "energy-transition",
+      "china"
+    ],
+    "keywords": [
+      "source",
+      "diesel trains with electric ones",
+      "rail",
+      "diesel",
+      "electric",
+      "trains",
+      "https",
+      "guide",
+      "transport",
+      "overhead",
+      "lines",
+      "agency"
     ]
   },
   {
@@ -9657,6 +10514,34 @@
     ]
   },
   {
+    "slug": "soil-carbon-emissions-wri-2026",
+    "filename": "sources/soil-carbon-emissions-wri-2026.md",
+    "label": "Soils emit massive amounts of greenhouse gases: what is behind it (World Resources Institute, November 2026)",
+    "summary": "soil carbon, soil organic carbon, World Resources Institute WRI Land and Carbon Lab, 3.9 billion tonnes greenhouse gases per year 2016-2024, organic soils, peatlands 3 percent land 600 billion tonnes carbon, peat drainage 80 percent, peat fires, mineral soils 1.3 billion tonnes, 93 percent from 10 countries, Indonesia oil palm pulpwood, China grassland conversion, Brazil land clearing, grasslands croplands 840 million tonnes, Iowa half of soil carbon lost tilling, US Corn Belt, permafrost thaw 7 to 15 billion tonnes, Scotland peat fire 2025, soil erosion food security, rewetting methane, agroforestry no-till cover crops, conservation tillage China Northeast Plain, IPCC Tier 1",
+    "category": "sources",
+    "tags": [
+      "carbon",
+      "wetlands",
+      "agriculture",
+      "nature-based-solutions",
+      "science"
+    ],
+    "keywords": [
+      "source",
+      "organic soils",
+      "mineral soils",
+      "stop draining peatlands",
+      "soils",
+      "billion",
+      "year",
+      "soil",
+      "gases",
+      "greenhouse",
+      "peat",
+      "organic"
+    ]
+  },
+  {
     "slug": "solar-foods-electro-ag-newscientist-2026",
     "filename": "sources/solar-foods-electro-ag-newscientist-2026.md",
     "label": "How turning electricity directly into food could help save the planet (New Scientist, Michael Le Page, September 2026)",
@@ -9734,6 +10619,33 @@
     ]
   },
   {
+    "slug": "state-of-the-climate-2026-carbonbrief",
+    "filename": "sources/state-of-the-climate-2026-carbonbrief.md",
+    "label": "State of the climate: 2026 likely to tie with 2024 as the warmest year on record (Carbon Brief, November 2026)",
+    "summary": "Carbon Brief state of the climate November 2026, Zeke Hausfather, 2026 warmest or second-warmest year, 67 percent chance record, 1.52C above pre-industrial, 93 percent chance above 1.5C, 2027 forecast 1.74C 96 percent chance record, record August 2026, super El Niño Niño3.4 record 4C peak strongest in a millennium, six datasets GISTEMP NOAA HadCRUT5 Berkeley Earth ERA5 JRA-3Q, 22 percent of Earth record warm July-September, western Europe hottest summer 21.7C, France record July, Spain warmest September, Switzerland hottest summer, European river low flows, EU burned area, US hottest summer drought, India monsoon deficit, Atlantic hurricanes suppressed, Earth's energy imbalance 1.25 W/m2 CERES, Arctic sea ice minimum 10th lowest, Antarctic sea ice third-lowest maximum",
+    "category": "sources",
+    "tags": [
+      "science",
+      "ocean",
+      "adaptation",
+      "eu"
+    ],
+    "keywords": [
+      "source",
+      "1.52°c above pre-industrial levels",
+      "el niño",
+      "record",
+      "september",
+      "above",
+      "warmest",
+      "year",
+      "average",
+      "around",
+      "summer",
+      "records"
+    ]
+  },
+  {
     "slug": "superyachts-ecocide-guardian-2026",
     "filename": "sources/superyachts-ecocide-guardian-2026.md",
     "label": "Excessive wealth, extreme emissions and ecocide: at Europe's big superyacht show (Guardian, Sam Wollaston, October 2026)",
@@ -9758,6 +10670,33 @@
       "boardwalk v",
       "azzam",
       "dilbar"
+    ]
+  },
+  {
+    "slug": "sustainable-additive-bias-anthropocene-2026",
+    "filename": "sources/sustainable-additive-bias-anthropocene-2026.md",
+    "label": "Less is more, so why does more feel greener? The sustainable additive bias (Anthropocene, Sarah DeWeerdt, October 2026)",
+    "summary": "sustainable additive bias, consumer psychology, Linda Lemarié, Audencia Business School, Journal of the Academy of Marketing Science, nine studies, 2,900 participants, eco-friendly giveaways, tote bags, reusable water bottles, hotel toiletries, tea box, music festival welcome bags, reduction versus addition, packaging reduction, promotional swag, sustainability signals, perceived effort, waste",
+    "category": "sources",
+    "tags": [
+      "behaviour",
+      "greenwashing",
+      "circularity",
+      "research"
+    ],
+    "keywords": [
+      "source",
+      "sustainable additive bias",
+      "items",
+      "less",
+      "bias",
+      "eco-friendly",
+      "greener",
+      "hotel",
+      "lemari",
+      "additive",
+      "https",
+      "nothing"
     ]
   },
   {
@@ -9814,6 +10753,34 @@
     ]
   },
   {
+    "slug": "taff-coalition-cop31-dw-2026",
+    "filename": "sources/taff-coalition-cop31-dw-2026.md",
+    "label": "Fed up with COP, a growing alliance of countries takes a fossil fuel phaseout into its own hands (DW, November 2026)",
+    "summary": "TAFF transition away from fossil fuels coalition of the willing, Santa Marta Colombia April 2026, 57 countries, Colombia Netherlands co-hosts, Tuvalu second conference 2027, COP30 Belém watered-down text Russia Saudi Arabia, COP31 Antalya, Chetna Hareesh Kumar NewClimate Institute, Alexandra Scott ECCO, national TAFF plans Germany France Netherlands, Finland roadmap, Brazil global fossil fuel roadmap 200 pages 2028-2033, Ana Toni, fossil fuel subsidies OECD $920 billion, Urgewald new reserves QatarEnergy Saudi Aramco Gazprom, renewables third of power 2025, electrification 35 percent by 2035, Nepal glacier collapse, Europe heatwaves",
+    "category": "sources",
+    "tags": [
+      "fossil-fuels",
+      "phaseout",
+      "coalition",
+      "diplomacy",
+      "electrification"
+    ],
+    "keywords": [
+      "source",
+      "transition away from fossil fuels (taff)",
+      "fossil",
+      "countries",
+      "fuels",
+      "transition",
+      "fuel",
+      "roadmap",
+      "final",
+      "netherlands",
+      "first",
+      "germany"
+    ]
+  },
+  {
     "slug": "taiwan-offshore-wind-reef-fish-2026",
     "filename": "sources/taiwan-offshore-wind-reef-fish-2026.md",
     "label": "86 new fish species found on Taiwan offshore wind turbines (EcoPortal, July 2026)",
@@ -9838,6 +10805,88 @@
       "turbines",
       "ecoportal",
       "https"
+    ]
+  },
+  {
+    "slug": "tesco-openclimat-supplier-programme-2026",
+    "filename": "sources/tesco-openclimat-supplier-programme-2026.md",
+    "label": "Tesco asks 400 suppliers to share climate data through OpenClimat (Green Retail World, Ben Sillitoe, November 2026)",
+    "summary": "Tesco, OpenClimat, Climate Supplier Programme, 400 suppliers, 80% of grocery supply chain by value, UK and Republic of Ireland, Booker wholesale, scope 3 emissions, supply chain decarbonisation, emissions data sharing, net zero full value chain 2050, Claire Lorains, Carrefour Metro E.Leclerc, General Mills JDE Peet's Beiersdorf McCain Ontex Emmi, retail climate data platform, supermarkets, February 2027",
+    "category": "sources",
+    "tags": [
+      "food",
+      "carbon",
+      "uk",
+      "ireland"
+    ],
+    "keywords": [
+      "source",
+      "openclimat",
+      "scope 3",
+      "suppliers",
+      "tesco",
+      "data",
+      "chain",
+      "value",
+      "retailer",
+      "manufacturers",
+      "retail",
+      "https"
+    ]
+  },
+  {
+    "slug": "tfff-funding-gap-dw-2026",
+    "filename": "sources/tfff-funding-gap-dw-2026.md",
+    "label": "Tropical Forests Forever was hailed as a novel way of addressing deforestation. Why is it short of funds? (DW, November 2026)",
+    "summary": "Tropical Forest Forever Facility TFFF funding gap, $10 billion seed capital by end of 2026, $7.9 billion pledged, Norway $3 billion conditional pledge, Germany €1 billion over 10 years, Brazil Indonesia France UK Netherlands Luxembourg, Canada China South Korea UAE considering, philanthropy $88 million $73 million COP31 Antalya, $4 per hectare per year, 20 percent Indigenous peoples local communities, satellite monitoring, bonds 5 percent interest, $25 billion governments $100 billion private, 2.7 percent profits, DRC $333 million, Felix Finkbeiner Plant-for-the-Planet TFFF Watch, 8 million hectares forest lost 2024, 490 million hectares since 1990, Brazil Amazon deforestation down 41 percent, Glasgow 2021 deforestation pledge, Malaysia Borneo",
+    "category": "sources",
+    "tags": [
+      "forest",
+      "finance",
+      "biodiversity",
+      "cop30"
+    ],
+    "keywords": [
+      "source",
+      "tropical forest forever facility (tfff)",
+      "$7.9 billion",
+      "$4 per hectare per year",
+      "forest",
+      "billion",
+      "countries",
+      "money",
+      "fund",
+      "million",
+      "tropical",
+      "tfff"
+    ]
+  },
+  {
+    "slug": "trinity-business-nature-hub-2026",
+    "filename": "sources/trinity-business-nature-hub-2026.md",
+    "label": "Business and policy leaders join forces to drive action for nature (Trinity College Dublin, November 2026)",
+    "summary": "Trinity Business + Nature Hub launch event, Business + Nature The Imperative for Action, Trinity Business School School of Natural Sciences, Irish Presidency of the Council of the EU, Mary Robinson, Danny McCoy IBEC, Linda Doyle, Matt Jones UNEP-WCMC, David Obura IPBES chair, IPBES Business and Biodiversity assessment, 55 percent global GDP $58 trillion nature-dependent, 2 percent of biggest businesses nature transition plans vs 63 percent climate plans, nature as critical infrastructure, self-assessment tool, pollinators soil health floodplains supply chains, Jane Stout Martha O'Hagan Siobhan McQuaid Catherine Farrell, AIB Trinity Climate Hub, GoNaturePositive",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "nature",
+      "ireland",
+      "esg",
+      "finance"
+    ],
+    "keywords": [
+      "source",
+      "critical infrastructure",
+      "55% of global gdp",
+      "business",
+      "nature",
+      "trinity",
+      "leaders",
+      "college",
+      "dublin",
+      "event",
+      "policy",
+      "news"
     ]
   },
   {
@@ -9886,6 +10935,33 @@
       "portable",
       "unit",
       "green"
+    ]
+  },
+  {
+    "slug": "uk-banks-coal-financing-urgewald-guardian-2026",
+    "filename": "sources/uk-banks-coal-financing-urgewald-guardian-2026.md",
+    "label": "UK banks are Europe's biggest coal financiers, Urgewald finds (Guardian, Matthew Taylor, September 2026)",
+    "summary": "coal financing, Urgewald, Still Banking on Coal, Heffa Schücking, Barclays, HSBC, UK banks $8.3bn, German banks $4.9bn, French banks $3.4bn, COP26 Glasgow phase down coal, coal value chain, 744 commercial banks, $117bn a year, Chinese banks 62% $289bn, US banks $67bn, Indonesian banks, EU banks 46% reduction, thermal coal phase-out 2030 2040, financed emissions, Taiwan Malaysia Thailand",
+    "category": "sources",
+    "tags": [
+      "finance",
+      "fossil-fuels",
+      "phaseout",
+      "uk"
+    ],
+    "keywords": [
+      "source",
+      "urgewald",
+      "$117bn a year",
+      "coal",
+      "banks",
+      "provided",
+      "financing",
+      "says",
+      "finance",
+      "thermal",
+      "guardian",
+      "september"
     ]
   },
   {
@@ -10010,6 +11086,34 @@
     ]
   },
   {
+    "slug": "un-ai-climate-misinformation-cop31-2026",
+    "filename": "sources/un-ai-climate-misinformation-cop31-2026.md",
+    "label": "UN takes on AI climate misinformation as COP31 fossil fuel tensions rise (The Climate Watch, November 2026)",
+    "summary": "Priorities for Action on AI and Climate Information Integrity, Global Initiative for Information Integrity on Climate Change, United Nations UNESCO Brazil, COP31 Antalya, Charlotte Scaddan UN Department of Global Communications, Independent International Scientific Panel on AI, AI-generated images disasters, AI energy water land carbon footprint disclosure, data centres electricity demand, InfluenceMap nearly half of statements pro fossil fuel arguments, Belém Declaration on Information Integrity COP30, Germany $2.2 million, Charter for Climate Information Integrity in Advertising, Jake Dubbins Conscious Advertising Network, monetisation of climate disinformation, ad supply chain transparency, climate-vulnerable countries",
+    "category": "sources",
+    "tags": [
+      "ai",
+      "digital",
+      "fossil-fuels",
+      "greenwashing",
+      "diplomacy"
+    ],
+    "keywords": [
+      "source",
+      "nearly half",
+      "information",
+      "integrity",
+      "advertising",
+      "priorities",
+      "data",
+      "centres",
+      "influencemap",
+      "fossil",
+      "november",
+      "initiative"
+    ]
+  },
+  {
     "slug": "un-overshoot-2-8c-newscientist-2026",
     "filename": "sources/un-overshoot-2.8c-newscientist-2026.md",
     "label": "UN says 1.5°C is over and world is on track for 2.8°C: Emissions Gap Report 2026 (New Scientist, October 2026)",
@@ -10056,6 +11160,62 @@
       "report",
       "third",
       "world's"
+    ]
+  },
+  {
+    "slug": "unep-hidden-assets-climate-clean-air-2026",
+    "filename": "sources/unep-hidden-assets-climate-clean-air-2026.md",
+    "label": "Hidden assets: the economic and health case for climate and clean air action (UNEP, September 2026)",
+    "summary": "UNEP Hidden assets 2026, Climate and Clean Air Coalition CCAC, air pollution and climate change, 25 integrated solutions, benefit-cost ratio 15 to 1, internal rate of return 60%, 144 million premature deaths avoided by 2050, PM2.5 fine particulate matter, ozone, household air pollution, clean cooking, methane leakage and flaring, black carbon, super pollutants, childhood asthma, heart attacks, COPD, diabetes, stroke, dementia, lung cancer, cost of delay $1.5 trillion a year, institutional barriers, Delhi air quality, dietary change, international shipping, 0.34°C avoided warming by 2050, fossil fuel subsidies",
+    "category": "sources",
+    "tags": [
+      "science",
+      "finance",
+      "methane",
+      "energy-transition",
+      "research"
+    ],
+    "keywords": [
+      "source",
+      "6.4 million premature deaths",
+      "\"super pollutants\"",
+      "internal rate of return of 60%",
+      "million",
+      "health",
+      "economic",
+      "clean",
+      "benefits",
+      "cases",
+      "delay",
+      "unep"
+    ]
+  },
+  {
+    "slug": "unfccc-paris-progress-reports-2026",
+    "filename": "sources/unfccc-paris-progress-reports-2026.md",
+    "label": "Paris Agreement progress reports 2026: more countries acting, still far off track (UNFCCC, October 2026)",
+    "summary": "UNFCCC 2026 NDC Synthesis Report, Biennial Transparency Report BTR synthesis, National Adaptation Plan NAP progress report, Simon Stiell, COP31 Antalya Türkiye 9-20 November, 127 new NDCs 154 Parties 70 percent of emissions, 6 percent cut by 2035 below 2019, 9 percent with full implementation, whole-of-society approach 98 percent stakeholders, global stocktake, clean energy security 65 percent, 146 countries NAP process, 81 developing countries 29 LDCs 17 SIDS, adaptation finance access, accredited entities, 137 BTRs 85 percent of emissions, 61 Parties progress on targets, USD 100 billion goal met 2022 2023 2024, Standing Committee on Finance, global climate finance USD 1.9 trillion 32 percent rise, Yearbook of Global Climate Action, NAZCA, Global Climate Action Agenda electrification methane zero waste",
+    "category": "sources",
+    "tags": [
+      "diplomacy",
+      "adaptation",
+      "finance",
+      "energy-transition",
+      "key-ideas"
+    ],
+    "keywords": [
+      "source",
+      "ndc synthesis report",
+      "6% lower than in 2019",
+      "countries",
+      "unfccc",
+      "finance",
+      "report",
+      "plans",
+      "progress",
+      "reports",
+      "adaptation",
+      "https"
     ]
   },
   {
@@ -10182,6 +11342,33 @@
       "first",
       "record",
       "european"
+    ]
+  },
+  {
+    "slug": "women-farmers-ireland-hackett-thejournal-2026",
+    "filename": "sources/women-farmers-ireland-hackett-thejournal-2026.md",
+    "label": "Women farmers are challenging Ireland's growth-driven farming model (The Journal, Pippa Hackett, November 2026)",
+    "summary": "Pippa Hackett opinion, former Green Party Minister of State Department of Agriculture Food and the Marine, Irish farming model growth and control, fear of change, farm incomes supply chain, dairy sector get big or get out, nitrates derogation, rye grass, fertiliser costs, organic farming, regenerative agriculture, direct selling to consumers, International Year of the Woman Farmer 2026, Burren Winterage Festival, Mary Robinson feminist solution, Hannah Quinn Mulligan, Darina Allen, contributory pensions 2014, farm succession, Co Offaly",
+    "category": "sources",
+    "tags": [
+      "ireland",
+      "agriculture",
+      "food",
+      "behaviour"
+    ],
+    "keywords": [
+      "source",
+      "pippa hackett",
+      "women",
+      "farming",
+      "hackett",
+      "farmers",
+      "challenging",
+      "model",
+      "opinion",
+      "pippa",
+      "irish",
+      "farm"
     ]
   },
   {
@@ -10376,6 +11563,33 @@
       "cars",
       "vehicles",
       "smaller"
+    ]
+  },
+  {
+    "slug": "yerevan-platform-mountains-unep-2026",
+    "filename": "sources/yerevan-platform-mountains-unep-2026.md",
+    "label": "Armenia and UNEP launch the Yerevan Platform on mountains and freshwater (UNEP, October 2026)",
+    "summary": "Yerevan Platform on Mountains and Related Freshwater Ecosystems, COP17 Armenian Presidency flagship, UNEP Inger Andersen, Hambardzoum Matevosyan, Astrid Schomaker CBD, Mountain Partnership, water towers 55-60 percent global freshwater flows, 1.2 billion people mountain livelihoods, 25 of 36 biodiversity hotspots, 85 percent amphibians birds mammals, 19 percent mountain areas protected, first Mountain Ecosystems Day at a CBD COP, pastoralists Kenya rangelands livestock mobility, International Year of Rangelands and Pastoralists, Bishkek +25 Global Mountain Summit October 2027, Alps Carpathians Hindu Kush Himalaya Andes Caucasus, early warning, landslides, GBF Targets 2 and 3",
+    "category": "sources",
+    "tags": [
+      "biodiversity",
+      "nature",
+      "adaptation",
+      "diplomacy"
+    ],
+    "keywords": [
+      "source",
+      "water towers",
+      "mountain",
+      "mountains",
+      "unep",
+      "ecosystems",
+      "freshwater",
+      "biodiversity",
+      "water",
+      "science",
+      "yerevan",
+      "platform"
     ]
   },
   {
