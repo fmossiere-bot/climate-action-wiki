@@ -1,13 +1,9 @@
 ---
 title: "Glaciers in Retreat: Facts, Risks, and What Can Be Done"
 category: biodiversity-land
-tags:
-  - "#science"
-  - "#nature"
-  - "#adaptation"
-  - "#water"
+tags: ["#science", "#nature", "#adaptation", "#water"]
 created: 2025-09-01
-updated: 2026-10-28
+updated: 2026-11-22
 summary: |-
   Le Mont-Blanc, Is 2025 the year of the Glacier, Protecting them is still possible, why glacier matters, gl;aciers and fresh water impact,There are around **192,870 glaciers** in the world. (Counts vary between scientific inventories. The UN and the World Meteorological Organisation cite more than 275,000.)
   - Mountain glaciers cover about **664,000 square kilometres**, which is roughly 1.2 times the size of France. This figure does not include the much larger polar ice caps.
@@ -17,6 +13,13 @@ summary: |-
   - If all the world's mountain glaciers melted, sea level would rise by **32 to 41 centimetres**.
   - If the Antarctic ice sheet disappeared, sea level would rise by about **58 metres**.
   - Sea level is currently rising at about **4 to 6 millimetres per year**.
+  Also covers: mountains as water towers 55-60 percent of global freshwater flows, Yerevan Platform on Mountains and Related Freshwater Ecosystems COP17, only 19 percent of mountain areas protected, 1.2 billion people, Bishkek +25 Global Mountain Summit 2027.
+  Also covers: Overshoot and the Cryosphere report, State of the Cryosphere 2026 The Cost of Overshoot, James Kirkham, safe temperature for ice 1C, sea level rise 2 to 9 metres, permafrost carbon, Nepal glacier collapse August 2026 1,400 dead
+related:
+  - yerevan-platform-mountains-unep-2026
+  - swiss-glaciers-19-percent-glamos-guardian-2026
+  - alps-glaciers-record-loss-newscientist-2026
+  - cryosphere-overshoot-glaciers-rte-2026
 ---
 
 
@@ -143,11 +146,21 @@ Huss: *"What we are seeing now is a complete explosion of these melt rates, lead
 
 *Source: [Swiss glaciers 19% in 5 years (source summary)](../sources/swiss-glaciers-19-percent-glamos-guardian-2026.md); Guardian, Ajit Niranjan, 1 October 2026.*
 
+### November 2026 update: two reports on the cost of overshoot
+
+Just before COP31, two scientific reports looked at what passing 1.5°C means for the world's ice: *Overshoot and the Cryosphere*, led by glaciologist James Kirkham with 80 scientists, and *State of the Cryosphere 2026: The Cost of Overshoot*. Both warn that overshooting 1.5°C "will bring large-scale and in many cases irreversible impacts" on glaciers, sea ice, permafrost and ice sheets. One puts it simply: "We cannot negotiate with the melting point of ice" ([RTÉ](../sources/cryosphere-overshoot-glaciers-rte-2026.md)).
+
+The reports say today's warming of about 1.37°C is already "unsafe" for the Arctic, Antarctic and mountain glaciers, and that a truly safe temperature for the Earth's ice is closer to **1°C** or below. Even if warming stayed under 1.5°C, long-term sea level rise could reach 2 to 9 metres. If warming exceeded 2.8°C into the next century, seas could rise by up to 5 centimetres a year by 2150, against about 0.45 centimetres a year today, and thawing permafrost could release as much CO2 each year as the United States ([RTÉ](../sources/cryosphere-overshoot-glaciers-rte-2026.md)).
+
+The human cost is already visible. Nepali glacier researcher Gunjan Silwal called the mountain and glacier collapse of August 2026, which killed more than 1,400 people and left more than 5,000 missing, "only a foretaste". On current trends the report expects landslides and floods to become more frequent, followed by droughts as shrinking snowpack sends less water downstream, which "can be expected to drive large-scale downstream population displacement". Bringing warming back below 1.5°C could let some glaciers partly regrow, but recovery could take "decades to centuries", according to oceanographer Matthew England of the University of New South Wales. Kirkham's conclusion: "Every extra fraction of a degree and every year spent in overshoot means more devastating impacts" ([RTÉ](../sources/cryosphere-overshoot-glaciers-rte-2026.md)).
+
 ## Protecting glaciers
 
 There is growing political attention on glaciers. At the request of Tajikistan, the United Nations declared **2025 the International Year of Glaciers' Preservation**, co-led by UNESCO and the World Meteorological Organisation. The 21st of March is now marked each year as World Day for Glaciers. The UN has also declared 2025 to 2034 a **Decade of Action for Cryospheric Sciences**.
 
 France launched its part of this decade at the UN Ocean Conference in Nice, with support from UNESCO. There is work towards a possible national treaty to protect glaciers, and discussion at the international level of giving glaciers legal protection in their own right, partly because some glaciers are still under threat from mining or tourism. Better early warning systems, like the one that helped at Blatten, are another priority.
+
+Mountains as a whole are starting to get attention in nature talks too. At the UN biodiversity conference in Yerevan in October 2026, Armenia and UNEP launched the **Yerevan Platform on Mountains and Related Freshwater Ecosystems**. Mountains and their rivers and lakes supply 55-60% of the world's yearly freshwater flows and support the livelihoods of around 1.2 billion people, yet only 19% of mountain areas are protected. The platform will connect mountain countries with the downstream countries that rely on their water, including on early warning for exposed communities, and will report back at the Bishkek +25 Global Mountain Summit in October 2027 and at COP18 ([UNEP](../sources/yerevan-platform-mountains-unep-2026.md)).
 
 Public support is strong. According to a Eurobarometer survey, **85% of Europeans** want their politicians to take action on the climate. Some countries are already moving: Portugal has a largely renewable electricity mix, the United Kingdom has closed its coal power stations, and China may have reached its peak in emissions.
 
@@ -165,3 +178,5 @@ Public support is strong. According to a Eurobarometer survey, **85% of European
 - 2026 Alps record ice loss, Rhône glacier field reporting: New Scientist, Alec Luhn, 27 August 2026 (updated 3 September 2026). "Glaciers in the Alps are on track for record-breaking ice loss"
 - GLAMOS 2026 annual report: Guardian, Ajit Niranjan, 1 October 2026. "'Explosion of melt rates': 20% of Swiss glaciers lost in five years". Primary source: https://www.glamos.ch/en/#/A10g-05
 - June 2026 Pine Island Glacier attribution: Phys.org / King's College London / British Antarctic Survey, 28 June 2026. https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html (peer-reviewed in *The Cryosphere*, Bradley et al. 2026)
+- Cryosphere overshoot reports: RTÉ News, Colman O'Sullivan, 2 November 2026. https://www.rte.ie/news/world/2026/1102/1597677-un-climate-ice/
+- Yerevan Platform on Mountains: UN Environment Programme press release, 28 October 2026. https://www.unep.org/en/news-and-stories/press-release/armenia-partnership-unep-launches-global-initiative-drive-action

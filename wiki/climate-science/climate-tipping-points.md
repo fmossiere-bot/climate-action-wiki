@@ -4,8 +4,8 @@ category: climate-science
 tags: ["#science", "#key-ideas", "#carbon", "#ocean", "#forest"]
 sources: ["raw/papers/Positive Tipping Points – Part I summary.pdf"]
 created: 2026-09-17
-updated: 2026-10-28
-summary: climate tipping points, Tim Lenton, John Schellnhuber tipping elements, 16 elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent, wind solar double every 3 years, Wright's Law learning by doing, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent, Subpolar gyre North Atlantic, Amazon savannisation 40 percent, permafrost 2x human emissions, coral reefs 70-90 percent at 1.5C, Dansgaard-Oeschger events, positive tipping points, social tipping points, hothouse Earth, climate niche
+updated: 2026-11-22
+summary: climate tipping points, Tim Lenton, John Schellnhuber tipping elements, 16 elements 5 in danger zone 1.25C, reinforcing damping feedback, S-curve, Norway EVs 0.25 to 84 percent, UK coal 40 to 2 percent, wind solar double every 3 years, Wright's Law learning by doing, Greenland ice sheet 7 metres sea rise, West Antarctica Thwaites Pine Island 3 metres, AMOC slowed 15 percent, Subpolar gyre North Atlantic, Amazon savannisation 40 percent, permafrost 2x human emissions, Antarctic permafrost CO2 Taylor Valley 76.8 million tonnes, coral reefs 70-90 percent at 1.5C, Dansgaard-Oeschger events, positive tipping points, social tipping points, hothouse Earth, climate niche
 related:
   - amoc-collapse-carbon
   - amoc-monitoring-guardian-2026
@@ -38,7 +38,7 @@ Lenton first listed 9 in 2008. The updated list has 16, and **5 are already in t
 
 ### Land and forest
 
-- **Permafrost**: holds about twice the CO2 humans have emitted so far. Sudden local thaw has already started. Large-scale thaw is likely at around 1.5°C and full collapse at around 4°C, which would add about 10% to warming
+- **Permafrost**: holds about twice the CO2 humans have emitted so far. Sudden local thaw has already started. Large-scale thaw is likely at around 1.5°C and full collapse at around 4°C, which would add about 10% to warming. Antarctica may be a new worry too: in its Taylor Valley, CO2 seeping from frozen ground rose from about 1.7 to 9.5 grams per square metre per day between 2020 and 2025. Scaled up to all ice-free ground, that could be up to 76.8 million tonnes of CO2 a year, about Chile's yearly emissions, though the cause is still unclear ([New Scientist, November 2026](../sources/antarctica-permafrost-co2-newscientist-2026.md))
 - **Northern forests**: these could spread north (which warms the planet, because dark trees replace white snow) and die back in the south from fires and bark beetles. Soot from the fires lands on ice and makes it melt faster
 - **Amazon**: 18% has already been cut down. Warming plus deforestation could turn around 40% of what is left into dry savanna. The forest makes about a third of its own rain
 
@@ -127,4 +127,5 @@ For the biggest lever, clean electricity, the obstacle is **where investment goe
 
 - Tim Lenton, *Positive Tipping Points*, 2024. Part I: "Urgency"
 - Simon Sharpe, *Five Times Faster*, 2023
+- New Scientist, Syris Valentine, "Antarctica's permafrost is emitting worrying amounts of CO2", 4 November 2026. Study: Ruggiero et al., Global Biogeochemical Cycles, DOI: 10.1029/2026GB009134
 - Lenton and Schellnhuber, original "tipping elements" concept, Nature, 2008. Updated to 16 elements in the McKay et al. *Science* review, 2022

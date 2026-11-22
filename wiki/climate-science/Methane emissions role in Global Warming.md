@@ -3,12 +3,13 @@ title: "Methane's Role in Global Warming: Sources, Super-Emitters and Solutions"
 category: climate-science
 tags: ["#methane", "#science", "#carbon"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: methane GWP-100, atmospheric lifetime, super-emitters, Turkmenistan methane leaks, US oil and gas methane underestimate, IEA Global Methane Tracker 2024, top 10 methane emitting countries, Global Methane Pledge, Oil and Gas Decarbonization Charter, COP28, Kayrros, GHGSat, Methane Alert and Response System, hydropower reservoir methane, livestock methane, permafrost methane Svalbard, Bluemethane
+updated: 2026-11-22
+summary: methane GWP-100, atmospheric lifetime, super-emitters, Turkmenistan methane leaks, US oil and gas methane underestimate, IEA Global Methane Tracker 2024, top 10 methane emitting countries, Global Methane Pledge, Oil and Gas Decarbonization Charter, COP28, Kayrros, GHGSat, Methane Alert and Response System, hydropower reservoir methane, livestock methane, permafrost methane Svalbard, Bluemethane, marginal wells, MethaneSat, methane intensity, Environmental Defense Fund, Trump methane rule rollback
 related:
   - Emissions and the Global Carbon Cycle
   - Global Warming Potential explained
   - Global Impact of Climate Change
+  - marginal-wells-methane-newscientist-2026
 ---
 
 # Methane's Role in Global Warming: Sources, Super-Emitters and Solutions
@@ -43,6 +44,11 @@ New satellite tools are narrowing the gap between estimated and actual methane e
 
 The gap these tools reveal is large. If the self-reported data sent to UNEP's Oil & Gas Methane Partnership 2.0 were typical of the whole industry, global oil and gas methane emissions in 2023 would have been around 5 million tonnes, 95% lower than the IEA's measurement-based estimate. National reports to the UNFCCC suggest around 40 million tonnes, still roughly 50% below the IEA's figure. If methane policy is to rest on accurate numbers, reporting needs to become more systematic, transparent and based on actual measurement.
 
+## Small Wells, Big Leaks
+
+<!-- tag: us -->
+Satellites are also showing that the problem is not only big leaks. A 2026 study led by Mark Omara at the Environmental Defense Fund used MethaneSat data covering more than 80% of US onshore oil and gas production, from May 2024 to June 2025. It found that **marginal wells**, small wells producing under 15 barrels of oil equivalent a day, supply about 5% of US oil and gas but cause about 58% of well-site methane and 40% of methane across the whole supply chain. Per unit of fuel, they pollute 10 times more than high-producing wells, and their methane intensity (methane lost per unit of gas sold) is estimated at 60%, 300 times the industry's COP28 target of 0.2% by 2030. The global average is about 2.9%. Tighter rules or closing the worst wells could cut methane fast with little effect on output, yet the Trump administration relaxed the rules for these wells in October 2026. The study is still a preprint ([New Scientist, November 2026](../sources/marginal-wells-methane-newscientist-2026.md)).
+
 ## COP28 and the Global Methane Pledge
 
 The **Oil and Gas Decarbonization Charter (OGDC)**, launched at COP28, is an industry initiative. In it, 52 companies committed to net-zero scope 1 and 2 emissions (those from their own operations and the energy they buy) by 2050 at the latest, to ending routine flaring by 2030, and to near-zero upstream methane emissions by 2030. Around 30 of the signatories, including many national oil companies, had not previously taken part in other methane initiatives such as the Aiming for Zero Methane Initiative or the Oil & Gas Methane Partnership 2.0.
@@ -71,3 +77,4 @@ Thawing permafrost is one of the climate tipping points scientists are watching 
 - BBC Future, hydroelectric dams as a hidden source of methane, 26 March 2024. https://www.bbc.com/future/article/20240326-how-hydroelectric-dams-are-a-hidden-source-of-carbon-emissions
 - BBC Future, agricultural methane as a climate blind spot. https://www.bbc.com/future/article/20240306-agricultural-methane-is-a-climate-action-blind-spot
 - Nature Communications, measured versus reported methane emissions. https://www.nature.com/articles/s41467-023-40671-6
+- New Scientist, Madeleine Cuff, "Marginal oil and gas wells have outsized pollution impact", 5 November 2026. Study: Omara et al., EarthArXiv, DOI: 10.31223/X59J60

@@ -3,11 +3,12 @@ title: "The Economics of Climate Change and Carbon Pricing"
 category: concepts
 tags: ["#carbon", "#finance", "#key-ideas", "#energy-transition"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: environmental economics, GDP, human wellbeing, unpaid labour, social capital, ecological economics, market failure, tragedy of the commons, exploitation mindset, carbon pricing, carbon markets, carbon taxes, EU ETS Emissions Trading System, World Bank State and Trends of Carbon Pricing, Social Cost of Carbon SCC, Integrated Assessment Models, Climate Impact Lab, Gilets Jaunes protests, carbon leakage, equity and justice in carbon pricing
+updated: 2026-11-22
+summary: environmental economics, GDP, human wellbeing, unpaid labour, social capital, ecological economics, market failure, tragedy of the commons, exploitation mindset, carbon pricing, carbon markets, carbon taxes, EU ETS Emissions Trading System, World Bank State and Trends of Carbon Pricing, Social Cost of Carbon SCC, Integrated Assessment Models, Climate Impact Lab, Gilets Jaunes protests, carbon leakage, equity and justice in carbon pricing, UNEP Hidden assets 2026, air pollution co-benefits, benefit-cost ratio 15 to 1, internal rate of return 60%, PM2.5 premature deaths, cost of delay $1.5 trillion a year, methane, clean cooking
 related:
   - Carbon Offsets
   - FACTS on EVERYTHING - Under the Sky we Make
+  - unep-hidden-assets-climate-clean-air-2026
 ---
 
 # The Economics of Climate Change and Carbon Pricing
@@ -48,6 +49,10 @@ The **Social Cost of Carbon (SCC)** tries to turn the damage done by one extra t
 
 The **Climate Impact Lab** takes a different approach, using data from real-world observations instead of the standard IAM framework. Based on this model, some research puts the SCC at $185 per tonne, roughly triple the figure recommended before. That lines up closely with the Resources for the Future estimate of the "right" carbon price mentioned above.
 
+## The hidden health dividend
+
+Most climate economics weighs today's costs against climate damage avoided decades from now. A September 2026 UNEP assessment, *Hidden assets*, adds what that leaves out: cleaner air. Climate change and air pollution share the same main sources, above all burning fossil fuels, and air pollution killed an estimated 6.4 million people outdoors and about 2 million more indoors in 2025. The report tested 25 proven solutions, from clean cooking and methane controls to vehicle standards and diet change, and found that **every dollar invested returns around $15**, an internal rate of return of 60%. Even counting only market gains such as lower health spending and higher productivity, each dollar returns about $4, and those market gains exceed costs within ten years. Clean air makes up nearly 45% of the benefit even in 2100, so judging action on climate damage alone misses almost half the case. Each year of delay gives up more than $1.5 trillion. See the [Hidden assets source summary](../../sources/unep-hidden-assets-climate-clean-air-2026.md).
+
 ## Summary findings
 - Conventional GDP-based economics leaves out unpaid work and social capital, both essential to how economies function.
 - 68 carbon pricing initiatives were in place worldwide, with 3 more scheduled, together covering 23% of global emissions (World Bank, State and Trends of Carbon Pricing).
@@ -64,3 +69,4 @@ The **Climate Impact Lab** takes a different approach, using data from real-worl
 - European Commission, EU Emissions Trading System. https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en
 - Carbon Brief, Q&A on the social cost of carbon. https://www.carbonbrief.org/qa-social-cost-carbon/
 - Climate Impact Lab, social cost of carbon research. https://impactlab.org/research-area/social-cost/
+- United Nations Environment Programme, Hidden assets: The economic and health case for climate and clean air action, September 2026. https://wedocs.unep.org/handle/20.500.11822/49870

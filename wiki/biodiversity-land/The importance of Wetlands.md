@@ -2,10 +2,14 @@
 title: The importance of Wetlands
 category: biodiversity-land
 tags: ["#wetlands", "#nature", "#methane", "#biodiversity", "#eu-policy"]
-sources: ["EU Nature Restoration Law (2024)", "Kovács GM et al., Nature (2026), DOI: 10.1038/s41586-026-10760-9", "Phys.org / University of Copenhagen, 15 July 2026. https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html", "Department of Climate, Energy and the Environment, Climate Action Plan 2025, 15 April 2025. https://assets.gov.ie/static/documents/Climate_Action_Plan_2025_updated_cover.pdf"]
+sources: ["EU Nature Restoration Law (2024)", "Kovács GM et al., Nature (2026), DOI: 10.1038/s41586-026-10760-9", "Phys.org / University of Copenhagen, 15 July 2026. https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html", "Department of Climate, Energy and the Environment, Climate Action Plan 2025, 15 April 2025. https://assets.gov.ie/static/documents/Climate_Action_Plan_2025_updated_cover.pdf", "World Resources Institute, Gibbs et al., November 2026. https://www.wri.org/insights/soil-carbon-explained"]
 created: 2025-06-01
-updated: 2026-10-29
-summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of wetlands highly affected, over one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation"
+updated: 2026-11-22
+summary: "wetlands, peatlands, bogs, fens, marshes, mangroves, swamps, floodplains, carbon storage, salt marsh, rewetting, Ireland peatlands, Bord na Móna, EU Nature Restoration Law, biodiversity, flooding, water quality, methane, rising sea levels, Steart Marshes, Lough Neagh, solar on peatland, peatland PV, Germany, bird species, Wattmanufactur, triple win, drained peat, carbon emissions, Global Wetland Center Copenhagen, European Wetland Types map, 10m resolution, 38 countries, 5 billion tonnes CO2, one-fifth of wetlands highly affected, over one-fifth of peatlands degraded, 27-33% wetlands under 25 hectares fragmentation, WRI soil carbon 3.9 billion tonnes, peat drainage 80 percent, peat fires, Indonesia, 600 billion tonnes peat carbon, Portrane wetland rehydration"
+related:
+  - soil-carbon-emissions-wri-2026
+  - solar-on-peatland
+  - igbc-building-with-nature-case-studies-2026
 ---
 
 
@@ -37,6 +41,8 @@ A long running project at the Steart Marshes in Somerset, England, has measured 
 - Looking at all of the natural marshes in Britain together, they capture in the region of **46,500 tonnes of carbon a year**.
 
 Carbon capture from wetlands is modest compared with other climate actions, and it should not be treated as the main reason to protect them. But it is not small either.
+
+The flip side is what happens when wetlands are drained. Peatlands cover only 3% of the world's land but hold roughly **600 billion tonnes of carbon**, about a third of all the carbon in soils. A 2026 analysis by the World Resources Institute found that drained and burned peat and other carbon-rich soils produce about two-thirds of the 3.9 billion tonnes of greenhouse gases that disturbed soils release each year ([WRI on soil carbon](../sources/soil-carbon-emissions-wri-2026.md)). Around 80% of that comes from drainage, which lets oxygen in so the peat slowly rots, year after year, for as long as it stays dry. The rest comes from fire, which drained peat makes more likely. Rewetting can raise methane for a while, but it stops the much longer flow of CO2.
 
 ### Flood protection
 
@@ -141,3 +147,4 @@ Kovács is now working on a global version to improve worldwide estimates of wet
 - European Wetland Types map (2026): Kovács GM et al., *Nature*, DOI: [10.1038/s41586-026-10760-9](https://dx.doi.org/10.1038/s41586-026-10760-9), [Google Earth Engine viewer](https://ee-gmkovacs.projects.earthengine.app/view/european-wetland-types); [Phys.org press release](https://phys.org/news/2026-07-europe-critical-wetlands-climate-action.html)
 - Wetland and peatland condition figures: University of Copenhagen, 2026. https://globalwetlandcenter.ku.dk/news/2026/new-study-pinpoints-europes-most-critical-wetlands-for-climate-action/ ; University of Greifswald, 2026. https://www.uni-greifswald.de/en/university/information/current-news/details/n/new-study-involving-researchers-from-greifswald-identifies-europes-most-important-wetlands-for-climate-protection-284669/
 - Department of Climate, Energy and the Environment, Climate Action Plan 2025, 15 April 2025. https://assets.gov.ie/static/documents/Climate_Action_Plan_2025_updated_cover.pdf
+- World Resources Institute, Gibbs, Glen, Harris, Scafidi and Isik, "Soils Emit Massive Amounts of Greenhouse Gases. Here's What's Behind It", November 2026. https://www.wri.org/insights/soil-carbon-explained

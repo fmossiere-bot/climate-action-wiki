@@ -1,17 +1,20 @@
 ---
 title: Ireland Climate Adaptation
 category: ireland-hub
-tags:
-  - "#ireland"
-  - "#adaptation"
+tags: ["#ireland", "#adaptation"]
 sources:
   - Irish Times, Powerscourt hedges piece
   - Irish Independent, Liam Coates and Azmia Riaz, 29 January 2026. https://www.independent.ie/county/dublin/dublin-faces-complex-emissions-challenges-as-sea-rises-twice-as-fast-as-global-average/a/126667590.html
+  - Guardian, Miatta Mbriwa, 3 November 2026. https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-11-22
 summary: |-
   
-  Ireland's second statutory National Adaptation Framework (NAF), published in June 2024 by Minister Eamon Ryan, replaces the original 2018 framework. It sets the national strategy for reducing vulnerability to climate impacts such as flooding, drought, heatwaves and sea level rise, citing recent events like the Midleton floods and the 2023 fodder crisis. It requires 13 priority sectors, led by 7 government departments, to prepare Sectoral Adaptation Plans by Q3 2025, with Planning and Built Environment added as a new sector. It also introduces concepts of Just Resilience and stronger local authority requirements for climate-proofed development.Powerscourt hedges, box tree moth, Dublin Bay sea level rise 7-8mm per year, planned retreat, Voluntary Homeowners Relocation Scheme, East Coast Railway Infrastructure Protection Projects, DART line coastal flooding, Portrane Beach SeaBees, DCC DLRCC FCC SDCC, decarbonisation zones, Storm Bram
+  Ireland's second statutory National Adaptation Framework (NAF), published in June 2024 by Minister Eamon Ryan, replaces the original 2018 framework. It sets the national strategy for reducing vulnerability to climate impacts such as flooding, drought, heatwaves and sea level rise, citing recent events like the Midleton floods and the 2023 fodder crisis. It requires 13 priority sectors, led by 7 government departments, to prepare Sectoral Adaptation Plans by Q3 2025, with Planning and Built Environment added as a new sector. It also introduces concepts of Just Resilience and stronger local authority requirements for climate-proofed development.Powerscourt hedges, box tree moth, Dublin Bay sea level rise 7-8mm per year, planned retreat, Voluntary Homeowners Relocation Scheme, East Coast Railway Infrastructure Protection Projects, DART line coastal flooding, Portrane Beach SeaBees, DCC DLRCC FCC SDCC, decarbonisation zones, Storm Bram, Garden Climate Assessment Tool, drought-resistant gardening, RHS, silver birch, hydrangeas, lawns
+related:
+  - garden-climate-assessment-tool-guardian-2026
+  - Adaptation and Resilience
+  - dublin-sea-rise-emissions-2026
 ---
 # Climate Adaptation in Ireland
 
@@ -61,6 +64,7 @@ In Ireland, climate adaptation means a defined, legally required government stra
 - Sectoral Planning Guidelines for Climate Change Adaptation 2024: [https://assets.gov.ie/static/documents/sectoral-planning-guidelines-for-climate-change-adaptation-2024-0c865921-6232-42a1-ade.pdf](https://assets.gov.ie/static/documents/sectoral-planning-guidelines-for-climate-change-adaptation-2024-0c865921-6232-42a1-ade.pdf)
 - Climate Change Advisory Council, Fourth Climate Change Adaptation Scorecard Report (2024): [https://www.climatecouncil.ie/councilpublications/otherpublications/Final%20Adaptation%20Scorecard%20Assessment%20Report%202024.pdf](https://www.climatecouncil.ie/councilpublications/otherpublications/Final%20Adaptation%20Scorecard%20Assessment%20Report%202024.pdf)
 - Climate Change Advisory Council, Review of Statutory Sectoral Adaptation Plan Making (2025): [https://www.climatecouncil.ie/councilpublications/otherpublications/Sectoral%20Adaptation%20Plans%20review%20CCAC%20for%20web.pdf](https://www.climatecouncil.ie/councilpublications/otherpublications/Sectoral%20Adaptation%20Plans%20review%20CCAC%20for%20web.pdf)
+- Guardian, Miatta Mbriwa, 3 November 2026. https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening
 
 ## See Also
 
@@ -89,6 +93,13 @@ Powerscourt Estate have replaced 500m of box tree plants with dwarf Japanese yew
 Climate change has impacted on the fungal diseases and pests they find on the estate. “We were once reliant on very cold winters to kill the blight.”
 
 Powerscourt Estate has taken a number of “preventative measure” to avoid the arrival of box tree moths. Mr Slazenger stressed how the moths can “decimate plants overnight”.
+
+## Gardens in a Drier Climate: a UK Planting Tool
+<!-- tag: uk, individual-actions -->
+
+Powerscourt is not alone in rethinking what to plant. In the UK, where drought was still declared across most of England in late October 2026, a group of gardening and heritage bodies including the Royal Horticultural Society, the National Trust and English Heritage is building a free **Garden Climate Assessment Tool** ([Guardian, November 2026](../sources/garden-climate-assessment-tool-guardian-2026.md)). Gardeners enter a list of plants and a location, and the tool estimates how each plant will cope with the projected climate there, using data on up to 80,650 plant types from 289 UK gardens. Professional gardeners began testing it in November 2026, with a public release hoped for later.
+
+The advice emerging from it is to plan ahead rather than wait for plants to die: fewer thirsty classics such as lush lawns, hydrangeas and delphiniums, and caution with silver birch unless the ground stays moist. The tool does not yet account for soil type, and gardeners on chalk or clay will still need local advice. For many people this means letting go of a familiar look, which takes time and support.
 
 ## Dublin Bay: Sea Level Rise at Twice the Global Rate
 

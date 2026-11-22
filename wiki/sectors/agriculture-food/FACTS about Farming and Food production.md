@@ -3,8 +3,8 @@ title: FACTS about Farming and Food Production
 category: sectors
 tags: ["#agriculture", "#food", "#biodiversity", "#methane"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: farming greenhouse gas emissions, food supply chain emissions, freshwater use in agriculture, land use for agriculture, eutrophication, livestock biomass, wild mammal decline, poultry biomass, animal feed calorie conversion, grain to beef ratio, food waste statistics, fish farming, aquaculture, wild fish bycatch, farmed salmon feed ratio, wheat yield climate impact, coffee farming altitude
+updated: 2026-11-22
+summary: farming greenhouse gas emissions, food supply chain emissions, freshwater use in agriculture, land use for agriculture, eutrophication, livestock biomass, wild mammal decline, poultry biomass, animal feed calorie conversion, grain to beef ratio, food waste statistics, fish farming, aquaculture, wild fish bycatch, farmed salmon feed ratio, wheat yield climate impact, coffee farming altitude, microalgae fish feed, fishmeal and fish oil, rainbow trout, Nannochloropsis, Schizochytrium
 related:
   - Food Carbon FootPrint
   - About Food and Farming
@@ -47,6 +47,8 @@ Fish farming is often assumed to be the greener alternative to catching wild fis
 
 Switching to plant-based alternatives is not a simple fix either, because growing the substitute crops would need more land and could mean more deforestation. As Hayek put it, "you can't get away from impacts somewhere as long as you're eating animals. Farming animals requires more resources to raise and grow their bodies than you can get from eating them. That's a basic fact of biology."
 
+One possible way out is to feed farmed fish on algae instead of other fish. Roughly 100 million tonnes of farmed fish and crustaceans are harvested each year, and at least 20 million tonnes of wild-caught fish are ground into **fishmeal and fish oil** to feed them. In a study published in October 2026, researchers at the University of California Santa Cruz fed rainbow trout a diet made entirely of two marine microalgae for 84 days. The trout grew as well as fish on standard feed, with similar omega-3, protein and mineral levels, and the algae feed may even be slightly cheaper ([All-algae diet for farmed fish](../../sources/algae-fish-feed-trout-anthropocene-2026.md)). It is one trial on one species, and it does not touch fish farming's other problems, such as nutrient pollution that can starve nearby waters of oxygen.
+
 ## Sources
 
 - The Guardian, "The new normal: how Europe is being hit by a climate-driven drought crisis", 8 August 2022. https://www.theguardian.com/environment/2022/aug/08/the-new-normal-how-europe-is-being-hit-by-a-climate-driven-drought-crisis
@@ -54,3 +56,4 @@ Switching to plant-based alternatives is not a simple fix either, because growin
 - Our World in Data, food and greenhouse gas emissions. https://ourworldindata.org/food-ghg-emissions
 - National Geographic, "Feeding 9 Billion". https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/
 - New Scientist, "Why farming fish is more unsustainable than catching them in the wild". https://www.newscientist.com/article/2452261-why-farming-fish-is-more-unsustainable-than-catching-them-in-the-wild/
+- Anthropocene Magazine, Douglas Fox, "An all-algae diet could take wild fish out of fish farming", 20 November 2026. https://www.anthropocenemagazine.org/2026/11/if-humans-eat-eco-friendly-diets-why-cant-our-seafood-do-the-same/

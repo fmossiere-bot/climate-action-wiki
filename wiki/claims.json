@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-29",
+  "updated": "2026-11-22",
   "note": "Generated from wiki/myths/ by build_claims.py. Do not edit by hand.",
   "verdicts": {
     "false": {
@@ -96,6 +96,10 @@
         {
           "label": "J. Koomey, Koomey's Law of computing efficiency",
           "url": ""
+        },
+        {
+          "label": "The Climate Watch, TCW Report, 14 November 2026.",
+          "url": "https://theclimatewatch.com/un-takes-on-ai-climate-misinformation-as-cop31-fossil-fuel-tensions-rise/"
         }
       ],
       "wiki": ""
@@ -186,6 +190,10 @@
         {
           "label": "IEA, Global CCUS status",
           "url": ""
+        },
+        {
+          "label": "Project Drawdown, Jonathan Foley, October 2026.",
+          "url": "https://drawdown.org/insights/heres-why-assuming-massive-growth-in-carbon-removal-is-reckless-and-unwarranted"
         }
       ],
       "wiki": ""

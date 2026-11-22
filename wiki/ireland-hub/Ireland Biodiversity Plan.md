@@ -3,10 +3,13 @@ title: Ireland Biodiversity Plan
 category: ireland-hub
 tags: ["#ireland", "#biodiversity", "#nature", "#agriculture"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: Ireland's 4th National Biodiversity Action Plan 2023-2030, National Parks and Wildlife Service, NPWS, Wildlife Amendment Act 2023, peatland restoration and rewetting, Marine Protected Areas, invasive species, Japanese knotweed, rhododendron, nature-friendly farming, pesticide reduction, native bee species, pollinator corridors, industrial estates rewilding, Maynooth University, farm ponds, pollinators
+updated: 2026-11-22
+summary: Ireland's 4th National Biodiversity Action Plan 2023-2030, National Parks and Wildlife Service, NPWS, Wildlife Amendment Act 2023, peatland restoration and rewetting, Marine Protected Areas, invasive species, Japanese knotweed, rhododendron, nature-friendly farming, pesticide reduction, native bee species, pollinator corridors, industrial estates rewilding, Maynooth University, farm ponds, pollinators, Our Dúlra Agreement schools, Irish Schools Sustainability Network, Nature Restoration Plan 2027, Irish Green Building Council case studies, Portrane wetland, Seven Mills Clonburris, biodiversity net gain, social housing gardens
 related:
+  - our-durla-agreement-schools-nature-2026
+  - igbc-building-with-nature-case-studies-2026
   - Water - A Finite Resource We Cannot Afford to Ignore
+  - cop17-biodiversity-yerevan-2026
 ---
 
 # Ireland Biodiversity Plan
@@ -48,6 +51,18 @@ Two 2026 articles show how the plan's aims are playing out on individual farms a
 
 **Farm ponds and pollinators.** A new four-year research project is looking at an overlooked feature of Irish farmland, the humble pond, and how it might help struggling pollinators. Pollinator decline is serious enough that County Wicklow has set up Ireland's first dedicated Bee Sanctuary. The Ponds for Pollinators Project will look at how a pond's size, age and surrounding plants affect the number and variety of pollinators on working farms. It will also explore why some farmers choose to dig ponds and others do not.
 
+## Schools: the Our Dúlra Agreement
+
+In November 2026, Christopher O'Sullivan, Minister of State for Nature, Heritage and Biodiversity, launched **Our Dúlra Agreement**, described as a "COP for schools" ([Our Dúlra Agreement](../sources/our-durla-agreement-schools-nature-2026.md)). Modelled on the pledges countries make at UN conferences, it asks the bodies that run Irish schools (Education and Training Boards, patron bodies, school trusts and Education Support Centres) to help their schools turn tarmac and mown grass into places where wildlife can come back. Much of this work has so far rested on one or two committed teachers in each school, and the agreement aims to make it the whole system's job.
+
+The first signatories included 18 Education Support Centres from Donegal to West Cork. In autumn 2026, six centres (Limerick, Dublin West, Cork, Donegal, Laois and Waterford) began training school leaders to draw up a nature plan for their own grounds. The agreement grew out of the Irish Schools Sustainability Network, a group of volunteer teachers, and ties into Ireland's first national Nature Restoration Plan under the EU Nature Restoration Law, with the final plan due in September 2027.
+
+## Building with nature: ten Irish case studies
+
+The Irish Green Building Council has published ten Irish case studies showing how nature can be designed into buildings and infrastructure ([IGBC case studies](../sources/igbc-building-with-nature-case-studies-2026.md)). At the National Forensic Mental Health Services in Portrane, Co. Dublin, the project sent surface water into a nearby drained wetland instead of building an underground tank, restoring habitat and **saving more than €100,000**. At Seven Mills in Clonburris, Cairn Homes measured biodiversity net gain and grew native trees from local stock when Irish nurseries could not supply them. In social housing in Nenagh and Carrick-on-Suir, residents turned shared spaces into gardens for pollinators, which also brought neighbours together.
+
+The same five problems turned up across all ten projects: too few ecologists, nature added too late in design, budgets with no money for long-term care, residents wary of "untidy" meadows, and native plants that are hard to source at scale. The council's advice is to bring ecologists in from the start, plan and budget for maintenance, and explain the work to the people who live with it.
+
 ## Sources
 
 - National Parks and Wildlife Service (NPWS), Ireland's 4th National Biodiversity Action Plan 2023-2030. https://www.npws.ie/legislation/national-biodiversity-action-plan
@@ -58,3 +73,6 @@ Two 2026 articles show how the plan's aims are playing out on individual farms a
 - Irish Independent, "Ponds put under microscope as new study probes their role in supporting pollinators". https://m.independent.ie/regionals/wexford/business/farming/ponds-put-under-microscope-as-new-study-probes-their-role-in-supporting-pollinators/a65161652.html
 - actionforbiodiversity.ie. https://actionforbiodiversity.ie/
 - National Parks and Wildlife Service. https://www.npws.ie/
+- Dublin Gazette, Aishling Conway, 13 November 2026. https://dublingazette.com/dublinlocalmatters/minister-launches-cop-for-schools-as-education-leaders-pledge-to-bring-nature-back-to-school-grounds/
+- South East Radio, Siobhan Murphy, 16 November 2026. https://www.southeastradio.ie/news/wexford/wexford-schools-encouraged-to-bring-nature-back/
+- Irish Green Building Council, "The wetland that saved €100,000 and other lessons from building with nature", October 2026. https://www.igbc.ie/the-wetland-that-saved-e100000-and-other-lessons-from-building-with-nature/

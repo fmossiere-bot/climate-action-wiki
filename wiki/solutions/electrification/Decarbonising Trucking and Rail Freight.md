@@ -3,13 +3,14 @@ title: Decarbonising Trucking and Rail Freight
 category: solutions
 tags: ["#transport", "#ev", "#alternative-fuels", "#battery"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: medium and heavy duty trucks, battery electric trucks, BEV trucks, fuel cell electric trucks, FCEV, hydrogen trucks, electrofuels, rail electrification, battery trains, India rail electrification, California Advanced Clean Trucks, Advanced Clean Fleets, diesel particulate matter, environmental justice, graphene batteries, total cost of ownership, TCO, IDTechEx, TNO report, Flipturn
+updated: 2026-11-22
+summary: medium and heavy duty trucks, battery electric trucks, BEV trucks, fuel cell electric trucks, FCEV, hydrogen trucks, electrofuels, rail electrification, battery trains, India rail electrification, California Advanced Clean Trucks, Advanced Clean Fleets, diesel particulate matter, environmental justice, graphene batteries, total cost of ownership, TCO, IDTechEx, TNO report, Flipturn, diesel to electric trains, overhead lines, WBCSD, rail abatement cost, China rail expansion
 related:
   - Electrify Everything
   - EV Progress
   - The rise of the batteries
   - Decarbonising Aviation and Shipping
+  - rail-diesel-to-electric-climate-drive-wbcsd
 ---
 
 # Decarbonising Trucking and Rail Freight
@@ -19,6 +20,15 @@ related:
 Road freight, meaning medium and heavy-duty lorries, is one of the most polluting parts of transport. The sector is now in the early stages of switching to zero-emission vehicles. Some argue that long-haul trucking will run on hydrogen. But battery costs are falling and range is improving fast, so it looks more likely that both regional and long-haul trucking are getting ready to go electric, even though the most polluting long-haul routes are especially hard. Electrofuels (fuels made using electricity) add another twist: Amazon has tested running its delivery lorries on a new ultra-low-carbon electrofuel. The Global Drive to Zero initiative keeps a worldwide list of zero-emission medium and heavy-duty vehicle models, which tracks progress across manufacturers.
 
 The alternative to trucking altogether is rail. Rail is already the most electrified form of transport. India alone electrified enough railway, over 18,000 km between 2014 and 2020, to go round the world. Battery-powered trains are also emerging as a possibly cleaner and cheaper option on routes where electrifying the whole track does not pay.
+
+## Switching trains from diesel to electric
+
+Rail is the most electrified form of transport, yet diesel still supplies 54% of the energy the world's railways use, against 45% for electricity, according to the International Energy Agency. A guide by the World Business Council for Sustainable Development (WBCSD) estimates that replacing diesel trains with electric ones cuts emissions by **50 to 60%**, depending on how clean the local grid is. Rail as a whole produces about 2% of transport emissions ([Switching rail from diesel to electric](../../sources/rail-diesel-to-electric-climate-drive-wbcsd.md)).
+
+The numbers also work for the operator. Building overhead lines or battery systems causes 10 to 20% more CO2 up front, and electric trains cost 10 to 15% more to buy. But in use they emit up to 65% less, and they cost more than 40% less to run (2022 figures). The guide therefore puts the abatement cost at below minus $200 per tonne of CO2, meaning the switch saves money for each tonne avoided. The limits: battery trains are not suited to long distances, and fitting overhead lines to old diesel routes is expensive in tunnels and remote areas.
+
+<!-- tag: china -->
+Most new track is being built in China, which laid 80% of the more than 5,000 km of new rail built worldwide in the five years before the WBCSD guide was written.
 
 ## Why it matters
 
@@ -74,3 +84,4 @@ As regulation forces fleets to switch, managing charging is becoming a core skil
 - Allied Market Research, Electric Truck Market report. https://www.alliedmarketresearch.com/electric-truck-market-A06183
 - Automotive World, on the MAN Truck & Bus and McKinsey Center for Future Mobility report, 8 September 2026. https://www.automotiveworld.com/news/man-report-projects-15-35-bev-truck-share-in-eu-by-2030/
 - My Climate Journey podcast, Flipturn and the electrification of trucking. https://podcasts.apple.com/ie/podcast/my-climate-journey/id1462776122
+- The Climate Drive, "Switch from diesel to electric in rail transportation", explained by WBCSD. https://www.theclimatedrive.org/es/action-library/switch-from-diesel-to-electric-in-rail-transportation

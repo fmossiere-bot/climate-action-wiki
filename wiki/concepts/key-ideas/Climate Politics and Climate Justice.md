@@ -3,11 +3,12 @@ title: "Climate Politics and Climate Justice: Who Is Responsible, and Who Pays"
 category: concepts
 tags: ["#diplomacy", "#cop30", "#eu-policy", "#key-ideas", "#ireland"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: UNFCCC, Paris Agreement, COP27, COP28, loss and damage fund, Nationally Determined Contributions NDCs, CBDR-RC common but differentiated responsibilities, cumulative emissions since 1751, per capita emissions, fair shares, net-zero commitments, climate litigation, Montana youth case, Ecuador tribal land case, polluting elite, Stockholm Environment Institute Oxfam carbon inequality, 3.5% rule social tipping points, France energy efficiency housing rules, Sultan Ahmed Al-Jaber
+updated: 2026-11-22
+summary: UNFCCC, Paris Agreement, COP27, COP28, loss and damage fund, Nationally Determined Contributions NDCs, CBDR-RC common but differentiated responsibilities, cumulative emissions since 1751, per capita emissions, fair shares, net-zero commitments, climate litigation, Montana youth case, Ecuador tribal land case, polluting elite, Stockholm Environment Institute Oxfam carbon inequality, 3.5% rule social tipping points, France energy efficiency housing rules, Sultan Ahmed Al-Jaber, fossil fuel exporters, extraction-based accounting, Carbon Brief exported CO2 since 1850, Russia Saudi Arabia Australia, COP31, Make Polluters Pay
 related:
   - FACTS About Fossil Fuel (Oil and Gaz) Industry
   - Climate Change Isn't Fair
+  - co2-exporters-history-carbon-brief-guardian-2026
 ---
 
 # Climate Politics and Climate Justice: Who Is Responsible, and Who Pays
@@ -40,6 +41,8 @@ There are three common ways to share out responsibility for emissions: by a coun
 Looking at **emissions per person**, every high-income country emits more than its population's fair share, and every low-income country emits less. Most lower-middle-income countries emit below their fair share, and upper-middle-income countries are mixed. The United States emits more than three times its population's fair share. China emits well above its population share (29% of emissions against 19% of population). India emits well below its share (7% of emissions against 18% of population). Brazil emits just over half its population share (1.5% of emissions against 2.8% of population).
 
 The principle of **Common But Differentiated Responsibilities and Respective Capabilities (CBDR-RC)** was agreed at the 1992 Rio conference and is supported by the UNFCCC. It holds that the more industrialised a country is, the more it has contributed to climate change, and that emissions targets should reflect that history. Industrialised countries have produced 92% of the world's excess emissions, meaning emissions beyond a fair per-person share. The "loss and damage" debate has brought this principle into sharper focus, because some countries' losses are far greater than others'. Dr Saleemul Huq, a lead author of IPCC reports and a leading expert on climate adaptation, was a prominent voice for this argument. The sums involved have grown from an initial target of $100 billion a year in climate finance (a mix of grants and loans) towards calls for close to $6 trillion by 2030.
+
+There is a fourth way, which counts emissions where the fuel was **dug up** rather than where it was burned. A Carbon Brief analysis published during COP31 in November 2026 added up the CO2 from every country's coal, oil and gas exports since 1850. Russia came first with more than 70 gigatonnes, Saudi Arabia second with about 60, and Australia third with more than 25, just ahead of Venezuela. These countries look modest in ordinary rankings because their fuel is burned elsewhere. The US and China still carry more historical responsibility than any of them, because they burned their own fuel as well as importing large amounts. Saudi Arabia's energy ministry rejected the approach, saying the country accounts for about 1% of historical emissions within its borders and that buyers decide how oil is used. The extraction view matters most in arguments about who should pay for climate damage and who should stop opening new mines and wells. See the [CO2 exporters source summary](../../sources/co2-exporters-history-carbon-brief-guardian-2026.md).
 
 Ending poverty and cutting emissions are not simply at odds. Research by Jarmo Kikstra found that eradicating poverty, including providing the energy the world's poorest need for food, housing, cooling and heating, would raise global emissions by less than 1%.
 
@@ -112,3 +115,4 @@ Under the policy, properties must be rated for energy efficiency from A (best) t
 - IPCC AR6 Working Group III, Chapter 5. https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-5/
 - Science, Damon Centola research on the 25% tipping point. https://www.science.org/doi/10.1126/science.aas8827
 - The Irish Times, on France's new building emissions rules, 1 January 2024. https://www.irishtimes.com/world/europe/2024/01/01/its-a-nightmare-landlords-in-a-bind-as-france-imposes-tough-new-emissions-rules/
+- The Guardian, Fiona Harvey and Simon Evans, 17 November 2026. https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history

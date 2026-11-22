@@ -3,12 +3,14 @@ title: Greenwashing
 category: concepts
 tags: ["#key-ideas", "#greenwashing", "#eu-policy", "#ireland", "#fossil-fuels", "#plastic"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: greenwashing, Corporate Sustainability Reporting Directive, CSRD, Coca-Cola, Evian, Rainforest Alliance, Hersheys, Bud Light Climate Neutral, TotalEnergies, Sitka spruce, Irish schools, Alliance for Responsible Citizenship, Chris Wright, UK heatwave, EU anti-greenwashing rules, ESG
+updated: 2026-11-22
+summary: greenwashing, Corporate Sustainability Reporting Directive, CSRD, Coca-Cola, Evian, Rainforest Alliance, Hersheys, Bud Light Climate Neutral, TotalEnergies, Sitka spruce, Irish schools, Alliance for Responsible Citizenship, Chris Wright, UK heatwave, EU anti-greenwashing rules, ESG, RepRisk Greenwashing Report 2026, energy transition greenwashing, biodiversity, critical minerals mining, wind farms, banks and financial services, repeat offenders, sustainable additive bias, eco-friendly giveaways, packaging reduction
 related:
   - Greenwashing lawsuits on the rise
   - What is ESG?
   - IRELAND Land use, Soil and Forestry
+  - greenwashing-follows-energy-transition-reprisk-2026
+  - sustainable-additive-bias-anthropocene-2026
 ---
 
 # Greenwashing
@@ -45,6 +47,16 @@ A French court ruled that TotalEnergies misled consumers with claims that it wou
 
 In June 2026 the UK issued red heat warnings for three days in a row, and a wildfire was burning in Derbyshire. At the same time, a conference in London hosted speakers attacking UK climate policy. It was organised by the Alliance for Responsible Citizenship, a group backed by the owner of GB News and a number of fossil fuel companies. Delegates reportedly sweltered inside the Olympia venue in temperatures above **35C** while applauding Trump's energy secretary Chris Wright, a former fossil fuel executive, who called Britain's green transition a "tragic mistake." The goodie bags included fans printed with the slogan "Free speech never felt so cool". The people in the room were denying the very heat they were sitting in.
 
+## Greenwashing is following the energy transition (2026)
+
+Greenwashing used to be mostly about oil companies and plastic. The data company RepRisk, which tracks reports of corporate misconduct, found that greenwashing incidents rose by **112% between 2022 and 2026**, and that 1,594 companies were linked to greenwashing in 2026. A growing share now involves the industries building the energy transition: alternative energy, mining, metals, utilities and software.
+
+The reason is that low carbon is not the same as low impact. A wind farm can affect protected habitats, and mining battery minerals can strain local water and communities. For the first time in five years, ecosystems and biodiversity overtook climate as the environmental issue most often linked to greenwashing. Banks and financial firms remain the biggest group of companies linked to greenwashing, mostly through what they finance. Nearly one in four incidents now involves severe allegations, against roughly one in six in 2022, and three quarters involve a company accused before. See the [RepRisk greenwashing source summary](../../sources/greenwashing-follows-energy-transition-reprisk-2026.md).
+
+## Why "more" looks greener than "less"
+
+Greenwashing has a mirror image: real green choices that people fail to notice. Nine studies led by Linda Lemarié of Audencia Business School, with more than 2,900 online participants, found a **sustainable additive bias**. People rate a company as greener when it adds eco-friendly items, such as a big set of eco toiletries, than when it removes unnecessary ones, even though cutting back usually saves more waste. Reduction leaves nothing to see, so it gets less credit. This helps explain the flood of branded tote bags and bottles, and it is a useful question to ask of any green gift: would fewer items have been better? See the [additive bias source summary](../../sources/sustainable-additive-bias-anthropocene-2026.md).
+
 ## The EU anti-greenwashing rule
 <!-- tag: eu -->
 
@@ -59,3 +71,6 @@ EU rules that came into force at the start of 2023, and are being phased in grad
 - We Don't Have Time / France24, TotalEnergies greenwashing ruling, October 2025. https://www.france24.com/en/business/20251023-french-court-rules-totalenergies-misled-consumers-in-greenwashing-trial
 - The Guardian, Jonathan Freedland, 26 June 2026. [UK heatwave, June 2026 (source summary)](../../sources/uk-heatwave-june-2026-guardian.md)
 - The Coca-Cola Company, 3 October 2019. Breakthrough technology takes plastic from the ocean and uses it in a Coca-Cola bottle. https://investors.coca-colacompany.com/news-events/press-releases/detail/971/breakthrough-technology-takes-plastic-from-the-ocean-and
+- Sustainable Brands, Antonio Vizcaya Abdo, November 2026. https://sustainablebrands.com/read/greenwashing-is-following-the-energy-transition
+- RepRisk, Greenwashing Report 2026. https://www.reprisk.com/insights/reports/how-the-energy-transition-became-greenwashing-s-next-frontier
+- Anthropocene Magazine, Sarah DeWeerdt, October 2026. https://www.anthropocenemagazine.org/2026/10/less-is-more-so-why-does-more-feel-greener/

@@ -1,13 +1,16 @@
 ---
 title: "Ireland Reforestation on the Ground: Volunteers, Farms and Rewilding"
 category: ireland-hub
-tags:
-  - "#ireland"
-  - "#forest"
-  - biodiversity
+tags: ["#ireland", "#forest", "#biodiversity"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: "A companion piece to the Ireland forestry wiki page, this article follows three ground-level reforestation cases in Ireland: volunteers in County Wicklow planting native oak and cherry from local mother trees, Tibraden Farm's shift from subsidised Sitka spruce toward a mixed \"permanent forest\" model, and the 650-hectare Dunany Estate, where a third of the land has been left to rewild since 2014. It highlights two recurring barriers: Irish law treats land reclassified as forest as permanently changed, and land prices (around €40,000 per hectare) limit expansion. Based on a single ARTE Info video report, so figures are illustrative rather than verified statistics."
+updated: 2026-11-22
+summary: "A companion piece to the Ireland forestry wiki page, this article follows three ground-level reforestation cases in Ireland: volunteers in County Wicklow planting native oak and cherry from local mother trees, Tibraden Farm's shift from subsidised Sitka spruce toward a mixed \"permanent forest\" model, and the 650-hectare Dunany Estate, where a third of the land has been left to rewild since 2014. It highlights two recurring barriers: Irish law treats land reclassified as forest as permanently changed, and land prices (around €40,000 per hectare) limit expansion. Based on a single ARTE Info video report, so figures are illustrative rather than verified statistics. Updated November 2026 with Hometree's Wild Atlantic Rainforest Project: Irish temperate rainforest, less than 2% native woodland, 4,000 acres, 57,500-acre ten-year plan, restoration hubs, €14.7 million Immigrant Investor Programme match funding, €3.9 million target, West Cork, Ennistymon County Clare."
+related:
+  - hometree-rainforest-fundraiser-2026
+  - ireland-temperate-rainforest-southern-star-2026
+  - IRELAND Land use, Soil and Forestry
+  - sitka-spruce-greenwashing-ireland-2026
+  - Forests and Land - Our Most Important Carbon Sink
 ---
 This page looks at what reforestation means in practice in Ireland, through three cases:
 - A volunteer native woodland project in County Wicklow
@@ -51,6 +54,16 @@ Two barriers come up in all three cases. The first is the law. In Ireland, chang
 
 Behind Ireland's national forestry targets are individual decisions shaped by land law, the history of subsidies and the price of land. Volunteers plant native woodland by hand. A working farm is trying to move from pure commercial conifer to a more mixed, permanent forest. A private estate has rewilded a third of its land despite early doubts from its neighbours. All three run into the same limits: forest status is legally hard to reverse, and land is expensive. That slows reforestation down, however motivated the landowners and volunteers are.
 
+## 7. Landscape-Scale Restoration: Hometree and Ireland's Temperate Rainforest
+
+A fourth, larger effort is aimed at a habitat many people do not know Ireland has: **temperate rainforest**. It grows only where rain falls little and often, on more than 200 days a year, and Ireland's west coast is one of the few places where it can. Picture old oaks covered in moss, with ferns growing from their branches and lichens on every surface. It once covered much of the west. Today less than 2% of Ireland is native woodland, and only fragments of this rainforest remain ([Hometree](../sources/hometree-rainforest-fundraiser-2026.md)).
+
+The charity Hometree, based in Ennistymon, Co. Clare, runs the Wild Atlantic Rainforest Project to restore 4,000 acres in the west, as the first phase of a ten-year plan covering 57,500 acres. Half of the land will be bought by the charity and half restored with neighbouring farmers, who are paid for fencing and planting and get a financial return for restoring habitat. Hometree buys sites to serve as restoration hubs (four so far, with eight or nine planned) and works outwards from each one. Restoration can mean planting, letting woodland regrow by itself, clearing invasive species or rewetting bog ([Hometree](../sources/hometree-rainforest-fundraiser-2026.md)).
+
+The project shows one way past the land-price barrier described above. In summer 2026 Hometree secured access to €14.7 million through the government's Immigrant Investor Programme, on condition that it raised €3.9 million by 19 November 2026, including €1 million from the public ([Hometree](../sources/hometree-rainforest-fundraiser-2026.md)). Local voices backed the appeal. A West Cork grief and loss practitioner, interviewed by the Southern Star, argued that rewilding single gardens is a good start, but that real recovery needs work with farmers across whole landscapes, and that native woodland also helps people cope with loss ([Southern Star](../sources/ireland-temperate-rainforest-southern-star-2026.md)).
+
 ## Sources
 
 - ARTE Info, "Irlande : reboiser l'île d'émeraude" (video report), August 2026
+- Hometree, Rainforest Fundraiser, November 2026. https://www.hometree.ie/fundraiser
+- The Southern Star, Tony O'Shaughnessy, 16 November 2026. https://www.southernstar.ie/news/why-restoring-irelands-temperate-rainforests-matters-4381238

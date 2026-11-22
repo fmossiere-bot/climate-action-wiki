@@ -3,11 +3,14 @@ title: Paris Agreement - NDC - Where Are We 10 Years Later?
 category: legislation-policy
 tags: ["#cop30", "#diplomacy", "#adaptation", "#ireland"]
 created: 2026-06-01
-updated: 2026-10-28
-summary: Nationally Determined Contributions, NDCs, Paris Agreement 10th anniversary, COP30, emissions gap, global mutirao, AOSIS, Like-Minded Developing Countries, LMDCs, China NDC, India NDC, United States withdrawal, agriculture and food systems, blue NDC challenge, ocean climate action, Paris Performance Ranking, University of Liege, Degroof Petercam, Austria, Germany, Ireland adaptation ranking, 1.5C target
+updated: 2026-11-22
+summary: Nationally Determined Contributions, NDCs, Paris Agreement 10th anniversary, COP30, emissions gap, global mutirao, AOSIS, Like-Minded Developing Countries, LMDCs, China NDC, India NDC, United States withdrawal, agriculture and food systems, blue NDC challenge, ocean climate action, Paris Performance Ranking, University of Liege, Degroof Petercam, Austria, Germany, Ireland adaptation ranking, 1.5C target, 2026 NDC Synthesis Report, 127 new NDCs 154 Parties, 6 percent cut by 2035, Biennial Transparency Reports, National Adaptation Plans, USD 100 billion goal, USD 1.9 trillion climate finance
 related:
   - COP30
   - Emission Gap Report 2024 - UNEP
+  - unfccc-paris-progress-reports-2026
+  - emissions-gap-2026-five-lessons-decoder
+  - cop31-antalya-2026
 ---
 
 # Paris Agreement - NDC - Where Are We 10 Years Later?
@@ -46,6 +49,14 @@ Overall, the NDC picture reflects a political reality. Most countries accept the
 
 A separate study compares how 23 developed countries are performing against their Paris Agreement commitments. It analyses hundreds of measures to produce a single score covering CO2 emissions, adaptation, transparency and international cooperation. Austria ranks first overall. Germany ranks second despite average progress on cutting CO2, mainly thanks to its adaptation work, where it ranks first, just ahead of France. **Ireland ranks 16th out of the 23 countries**, and does particularly badly on adaptation. The study, which covers only wealthy countries, was carried out by the University of Liège with the fund manager Degroof Petercam (DPAM).
 
+## October 2026: the UN's progress reports before COP31
+
+A year after Belém, the UN climate secretariat published its yearly check-up ahead of [COP31 in Antalya](cop31-antalya-2026.md). Between 1 January 2024 and 31 August 2026, **127 new NDCs** were filed, covering 154 Parties and around 70% of global emissions. The plans are broader than ever: 98% of Parties now involve cities, regions, businesses or civil society in delivering them, up from 70% in earlier rounds, and 90% say the first global stocktake shaped their plan ([UNFCCC progress reports](../sources/unfccc-paris-progress-reports-2026.md)).
+
+The ambition gap has not closed. Current pledges would cut global emissions by around 6% by 2035 compared with 2019, or about 9.0% if every pledge were fully delivered ([UNFCCC progress reports](../sources/unfccc-paris-progress-reports-2026.md)). That is lower than the 10 to 12% estimated around COP30. The two reports count different sets of plans, so the figures are not directly comparable, but there is no sign of the gap narrowing. UNEP's Emissions Gap Report, which measures from 2025 rather than 2019, finds that fully delivered pledges would cut emissions by only 11 to 15% by 2035, against the 45% needed on its lowest-overshoot path ([Sustainability Decoder](../sources/emissions-gap-2026-five-lessons-decoder.md)).
+
+On delivery, 137 Parties have now filed transparency reports, covering about 85% of global emissions, and 61 Parties (about 66% of 2020 emissions) made progress towards their NDC targets between 2020 and 2022. On adaptation, 146 countries have started national adaptation planning and 81 developing countries have submitted a plan, but getting money to carry the plans out remains the main barrier ([UNFCCC progress reports](../sources/unfccc-paris-progress-reports-2026.md)).
+
 ## What are NDCs, in plain terms
 
 NDCs are the climate plans that countries draw up under the Paris Agreement, setting out how each will reduce its greenhouse gas emissions and adapt to the effects of climate change. They matter because they add up to the global effort to limit warming to well below 2°C, ideally 1.5°C. They have pushed countries to set more ambitious targets and take up cleaner technologies. Progress has been uneven, but there is evidence that NDCs are steering investment and policy towards sustainability. Much more is still needed to meet global goals and protect vulnerable communities and ecosystems.
@@ -57,6 +68,7 @@ NDCs are the climate plans that countries draw up under the Paris Agreement, set
 - The US NDC was effectively voided after Trump ordered withdrawal from the Paris Agreement. China and India, the world's first and third-largest emitters, submitted or confirmed pledges around the summit.
 - AOSIS pushed for a dedicated COP agenda item on NDC ambition. The LMDC group (China, India, Saudi Arabia) and the African group blocked annual reviews.
 - 93% of new NDCs address agriculture or food systems, and over 90% of NDCs from coastal and island countries include ocean-based action.
+- In October 2026, the UN counted 127 new NDCs covering about 70% of global emissions. Together they would cut 2035 emissions by around 6% below 2019, or 9.0% if fully implemented ([UNFCCC progress reports](../sources/unfccc-paris-progress-reports-2026.md)).
 - In a 23-country Paris Agreement performance ranking by the University of Liège and Degroof Petercam, Austria ranks first, Germany second and Ireland 16th, with particularly weak adaptation.
 
 ## Sources
@@ -64,3 +76,4 @@ NDCs are the climate plans that countries draw up under the Paris Agreement, set
 - Climate Watch, NDC Tracker. https://www.climatewatchdata.org/ndc-tracker
 - UNFCCC, "The direction of travel: improving every year, but we need to urgently pick up the pace". https://unfccc.int/news/the-direction-of-travel-improving-every-year-but-we-need-to-urgently-pick-up-the-pace-un-climate
 - DPAM, Paris Performance Ranking. https://www.dpaminvestments.com/retail/fr/en/paris-performance-ranking
+- UN Climate Change News, 27 October 2026. https://unfccc.int/news/un-climate-change-reports-show-paris-agreement-supporting-whole-of-economy-approaches-but-progress

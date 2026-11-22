@@ -2,10 +2,10 @@
 title: Santa Marta Conference, Building a Coalition to Phase Out Fossil Fuels (2026)
 category: solutions
 tags: ["#fossil-fuels", "#phaseout", "#diplomacy", "#coalition", "#cop30"]
-sources: ["raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md", "raw/articles/Oil nations on edge in the face of new climate coalition.md"]
+sources: ["raw/articles/'Historic breakthrough' Colombia climate talks end with hopes raised for fossil fuel phaseout.md", "raw/articles/Oil nations on edge in the face of new climate coalition.md", "DW, Natalie Muller, 16 November 2026. https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748"]
 created: 2026-05-29
-updated: 2026-10-28
-summary: "Santa Marta, TAFF, Transition Away From Fossil Fuels, roadmap, ~60 countries, more than 50% of global GDP, Almost half producers, Major absentees, France, Colombia, Netherlands, second conference, Tuvalu, co-hosted by Ireland, Bonn 2026 intersessional, COP31 Turkey, Iran war energy crisis, Simon Stiell, Africa negotiator concerns, adaptation finance tripling"
+updated: 2026-11-22
+summary: "Santa Marta, TAFF, Transition Away From Fossil Fuels, roadmap, ~60 countries, more than 50% of global GDP, Almost half producers, Major absentees, France, Colombia, Netherlands, second conference, Tuvalu, co-hosted by Ireland, Bonn 2026 intersessional, COP31 Turkey, Iran war energy crisis, Simon Stiell, Africa negotiator concerns, adaptation finance tripling, COP31 Antalya November 2026, national TAFF plans Germany France Netherlands, Finland roadmap, Brazil global roadmap 2028-2033, NewClimate Institute Chetna Hareesh Kumar, ECCO Alexandra Scott, OECD fossil fuel subsidies $920 billion, Urgewald new reserves"
 related:
   - COP30
   - Paris Agreement - NDC - where are we 10 years later?
@@ -53,7 +53,19 @@ The strongest pushback on TAFF came from **African negotiators**. Lead negotiato
 
 Outgoing COP30 President André Correa do Lago described the moment as a shift: *"We are moving from COPs focused on negotiations to COPs focused on implementation."* [COP31 will be held in Turkey](https://www.dw.com/en/turkey-to-host-cop31-after-australia-concedes/a-74814390) in November 2026, followed by the second TAFF conference in Tuvalu in early 2027 (co-hosted by Ireland).
 
+## November 2026 update: TAFF at COP31 in Antalya
+
+Six months after Santa Marta, the coalition arrived at [COP31 in Antalya](../../legislation-policy/cop31-antalya-2026.md) as a working group rather than a negotiating bloc. DW puts the number of countries that attended Santa Marta at 57. Analysts did not expect the coalition to shape the COP31 text directly. Chetna Hareesh Kumar of the NewClimate Institute called it "more of a long-term game": it could win more members at future summits if it proves inclusive and shows that leaving fossil fuels is feasible for very different countries ([DW, November 2026](../../sources/taff-coalition-cop31-dw-2026.md)).
+
+Alexandra Scott of the Italian think tank ECCO sees its value in practical know-how. The group is building a "cadre of knowledge" on how to draw up national plans and deal with obstacles such as financing new infrastructure, answering the question "how on earth do we even start to transition our whole economy off fossil fuels?" ([DW, November 2026](../../sources/taff-coalition-cop31-dw-2026.md)).
+
+<!-- tag: germany, france, netherlands, finland -->
+The first national plans are appearing. Since Santa Marta, Germany, France and the Netherlands have published plans to phase out fossil fuels, although they contain no new commitments. Finland presented its TAFF roadmap during the first week of COP31. Kumar expects more countries to publish just before the Tuvalu conference in 2027 ([DW, November 2026](../../sources/taff-coalition-cop31-dw-2026.md)).
+
+Brazil also delivered the global roadmap it promised at COP30. Launched on 3 November 2026, the nearly 200-page toolkit envisages a phased transition between 2028 and 2033, with measures tailored to each country, such as cutting subsidies, expanding renewables and reducing methane ([DW, November 2026](../../sources/taff-coalition-cop31-dw-2026.md); [We Don't Have Time](../../sources/cop31-implementation-wdht-2026.md)). The scale of the task is still large. Fossil fuel subsidies stand at around $920 billion (about €830 billion) a year according to the OECD, though falling, and most oil and gas companies, including QatarEnergy, Saudi Aramco and Gazprom, are still exploring or developing new reserves, according to Urgewald.
+
 ## Sources
 
 - The Guardian, Fiona Harvey and Jonathan Watts, 30 April 2026. Santa Marta outcomes
 - DW, Tim Schauenberg, 18 June 2026. https://www.dw.com/en/oil-nations-on-edge-in-the-face-of-new-climate-coalition/a-77607010
+- DW, Natalie Muller, 16 November 2026. https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748

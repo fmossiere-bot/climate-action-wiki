@@ -4,8 +4,8 @@ category: climate-science
 tags: ["#science", "#ocean", "#adaptation", "#key-ideas", "#coalition"]
 sources: ["Forbes, Ingmar Rentzhog, 9 July 2026. https://www.forbes.com/sites/we-dont-have-time/2026/07/09/why-a-record-hot-ocean-is-supercharging-the-el-nio-effect/"]
 created: 2026-07-13
-updated: 2026-10-28
-summary: ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-90% at 1.5C and over 99% at 2C, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment
+updated: 2026-11-22
+summary: ocean heat content, El Niño 2026, NOAA declaration, WMO outlook, Copernicus Marine 21C record, marine heatwaves 82% of ocean, Mediterranean marine heatwave, 12 Hiroshima bombs per second, Nature Communications deep ocean 40-80% extreme El Niños, Carlo Buontempo uncharted territory, fourth global coral bleaching, IPCC coral 70-90% at 1.5C and over 99% at 2C, Peru anchoveta collapse, High Seas Treaty January 2026, Ocean Observatories Initiative Trump reversal, ship-tracks sulphur 2020 rule, blue carbon, Daniel Swain atmospheric rivers, methane short-lived pollutants, clean energy 2-to-1 investment, record El Niño Niño3.4 September 2026, 4C December peak, strongest in a millennium, 2027 forecast 1.74C, WFP 49 million acute hunger, India monsoon deficit, Atlantic hurricanes suppressed Pacific cyclone record
 related:
   - amoc-collapse-carbon
   - amoc-monitoring-guardian-2026
@@ -38,6 +38,12 @@ The WMO outlook for the coming months:
 - **US winter:** storms tracking across the southern US, a drier Ohio and Tennessee valley, and a milder north
 
 The climate scientist Daniel Swain has written that California's winter of 2026–27 looks like earlier El Niño years that brought heavy flooding. He sees a real chance of an autumn tropical storm reaching the drought-hit Southwest, and of "atmospheric rivers" hitting the West Coast.
+
+### November 2026 update: a record-breaking El Niño
+
+The forecasts turned out to be conservative. In September 2026 the daily sea temperature anomaly in the "Niño3.4" region of the Pacific, the standard yardstick for El Niño, broke the record set in November 2015 and has stayed above it every day since. By 18 October it stood around 3.5°C above the 1996-2025 average. An average of 656 forecasts from 14 models now points to a peak of around **4°C in December**, more than 1°C above the previous record, and tree-ring and coral evidence suggests it could be the strongest El Niño in a millennium ([Carbon Brief](../sources/state-of-the-climate-2026-carbonbrief.md)).
+
+The predicted effects are showing up. The Atlantic hurricane season was suppressed while the Pacific saw a record number of tropical cyclones. India's monsoon ended with 12.6% less rain than normal, the driest in 11 years ([Carbon Brief](../sources/state-of-the-climate-2026-carbonbrief.md)). The World Food Programme warns the event could push 49 million more people into acute hunger ([Kite Insights](../sources/kite-insights-cop31-preview-2026.md)), and WHO has opened a graded emergency response to its health effects ([Lancet Countdown 2026](../sources/lancet-countdown-2026-who.md)). As expected, the biggest effect on global temperature comes next year: Carbon Brief projects 2027 at about 1.74°C above pre-industrial levels, with a 96% chance of being the warmest year on record.
 
 ## The deeper link: hotter ocean, stronger El Niños
 
@@ -149,3 +155,4 @@ Pickerell is plain about what is now locked in: "deep ocean warming and interior
 - Inside Climate News, on 2025 ocean heat records. https://insideclimatenews.org/news/09012026/ocean-warming-breaks-record-for-ninth-straight-year/
 - UN Environment Programme, Emissions Gap Report, 2025. https://www.unep.org/resources/emissions-gap-report-2025
 - IEA, World Energy Outlook, 2025
+- Carbon Brief, Zeke Hausfather, 3 November 2026. https://www.carbonbrief.org/state-of-the-climate-2026-likely-to-tie-with-2024-as-the-warmest-year-on-record
