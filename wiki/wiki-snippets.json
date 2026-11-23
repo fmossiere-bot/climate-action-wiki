@@ -3456,14 +3456,7 @@
     "label": "What COP31 decided: the outcomes of the Antalya climate talks",
     "summary": "COP31 outcomes Antalya Türkiye 9-22 November 2026, longest COP ever, Antalya Pact cover decision rejected, no consensus, Murat Kurum, Chris Bowen, dual presidency Türkiye Australia, transition away from fossil fuels UAE Consensus recalled in its entirety, Saudi Arabia Russia Arab Group, progressive coalition 130 countries, EU Panama Norway UK Vanuatu Marshall Islands Belize objections, Darragh O'Brien Ireland, carbon capture CCUS gigatonne scale 2.5 gigatonnes, 700 CCUS lobbyists, 35 by 35 electrification China Australia joint statement, just transition mechanism Belém-Antalya deferred to 2027, loss and damage fund $2.8bn requests $342m, tripling adaptation finance $120bn baseline 2019, NCQG $300bn, Adaptation Fund board, mitigation work programme blocked, 1.5C overshoot dialogue, Pacific Resilience Facility, Santa Marta TAFF Tuvalu Ireland 2027 roadmaps 25 countries, Colombia withdraws, Antalya AI Pledge nine countries, CAAD disinformation survey, COP32 Addis Ababa Ethiopia, Copenhagen The Hague precedent",
     "category": "legislation-policy",
-    "tags": [
-      "diplomacy",
-      "fossil-fuels",
-      "finance",
-      "adaptation",
-      "electrification",
-      "carbon-removal"
-    ],
+    "tags": [],
     "keywords": [
       "murat kurum",
       "chris bowen",
@@ -5811,7 +5804,7 @@
     "slug": "ai-data-centre-energy-crisis",
     "filename": "sectors/digital/ai-data-centre-energy-crisis.md",
     "label": "AI Data Centres and the Energy Crisis",
-    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth, PFAS forever chemicals, two-phase cooling, TFA trifluoroacetic acid, Meta RE100 exit, natural gas power purchase agreements, InfluenceMap AI fossil fuel arguments, UN Priorities for Action on AI and Climate Information Integrity, COP31, AI footprint disclosure energy water land",
+    "summary": "data centres, datacentres, datacenter, datacentre, AI energy demand, gas generators, National Grid, UK clean power 2030, carbon emissions underestimate, Ofgem, Foxglove, Carbon Brief, Ireland data centres, hidden datacentre tax, household electricity bills, Friends of the Earth, Beyond Fossil Fuels, renewable energy, Jevons paradox, fossil gas, grid congestion, AI infrastructure, data centre location, water cooling, offshore wind, power demand, Slough datacentre cluster, urban heat island, Cambridge research, Marinoni, waste heat recovery, 9C local heat increase, hyperscale, AI chips cooling, Water UK fatally flawed forecasts, 125 Affinity Water datacentres, 3 million litres per day, drought hierarchy, critical national infrastructure designation, Jon Chappel, Oliver Hayes Global Action Plan, House of Lords 5bn litre shortfall 2055, Wapseys Wood, Quest Park, ExxonMobil UK emissions comparison, NSIP nationally significant infrastructure project, Caroline Lucas, ClientEarth, PFAS forever chemicals, two-phase cooling, TFA trifluoroacetic acid, Meta RE100 exit, natural gas power purchase agreements, InfluenceMap AI fossil fuel arguments, UN Priorities for Action on AI and Climate Information Integrity, COP31, AI footprint disclosure energy water land, US hyperscale data centres 82 TWh, 1.8 percent of US electricity, 25.7 million tonnes CO2",
     "category": "sectors",
     "tags": [
       "ai",
@@ -11245,6 +11238,34 @@
       "reports",
       "adaptation",
       "https"
+    ]
+  },
+  {
+    "slug": "us-hyperscale-datacentres-electricity-newscientist-2026",
+    "filename": "sources/us-hyperscale-datacentres-electricity-newscientist-2026.md",
+    "label": "US hyperscale data centres use as much electricity as a whole state (New Scientist, Madeleine Cuff, November 2026)",
+    "summary": "hyperscale data centres, United States, electricity use, 403 data centres, 82 TWh, 99 TWh upper estimate, 1.8 percent of US electricity, Missouri Kentucky New Jersey, Indiana Michigan Washington, Texas, 54 percent fossil fuel, 25.7 million tonnes CO2, 67 gas power plants, Francesca Dominici Harvard, Alex de Vries-Gao, Yury Dvorkin Johns Hopkins, IEA estimates, transparency, private gas generation, public opposition 76 percent, water use, land use, Utah, AI, cloud computing",
+    "category": "sources",
+    "tags": [
+      "digital",
+      "ai",
+      "energy",
+      "us",
+      "fossil-fuels"
+    ],
+    "keywords": [
+      "source",
+      "study",
+      "francesca dominici",
+      "25.7 million tonnes of co2 a year",
+      "data",
+      "electricity",
+      "year",
+      "power",
+      "centres",
+      "sites",
+      "hyperscale",
+      "state"
     ]
   },
   {
