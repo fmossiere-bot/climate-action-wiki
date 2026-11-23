@@ -4,7 +4,7 @@ category: sources
 tags: ["#fossil-fuels", "#diplomacy", "#eu-policy", "#cop30"]
 sources: ["raw/articles/Oil nations on edge in the face of new climate coalition.md"]
 created: 2026-07-06
-updated: 2026-11-23
+updated: 2026-10-28
 summary: Bonn climate talks 2026, TAFF, Transition Away From Fossil Fuels coalition, Santa Marta follow-up, Colombia Netherlands, COP30 Belém, COP31 Turkey, André Correa do Lago, Simon Stiell, Iran war energy crisis, Saudi Arabia Iran opposition, Africa negotiators Antwi Boasiako Amoah, adaptation finance tripling, 2019 baseline versus 2025, Fatih Birol IEA, New Climate Institute report, oil gas dependence, fossil fuel phaseout, coalition of the willing
 related:
   - santa-marta-fossil-fuel-conference-2026
