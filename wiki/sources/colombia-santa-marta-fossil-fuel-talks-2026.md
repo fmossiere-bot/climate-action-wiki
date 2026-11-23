@@ -9,10 +9,11 @@ metadata:
   published: 2026-04-30
   ingested: 2026-05-29
 summary: "What the source covers, Key facts reported, Context provided, Wiki pages created or updated from this source, Original file, Published, Authors, ~60 countries, more than 50% of global GDP, Absentees, Almost half, roadmaps, Colombia, France, new scientific panel, Second conference, Tuvalu, Ireland"
-updated: 2026-10-28
+updated: 2026-11-23
 related:
   - santa-marta-fossil-fuel-conference-2026
   - COP30
+  - cop31-antalya-outcomes-2026
 ---
 
 # 'Historic breakthrough': Colombia climate talks, April 2026

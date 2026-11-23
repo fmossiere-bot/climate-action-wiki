@@ -1,6 +1,6 @@
 # Climate Action Wiki: Master Index
 
-Last updated: 2026-11-22
+Last updated: 2026-11-23
 
 This index lists all pages in the wiki, organised by category. Use it as the first stop when answering a query.
 
@@ -548,6 +548,7 @@ Funding the transition: investment, risk, green banking.
 | [[Why Reporting - Investors want companies to focus on ESG]] | Investor ESG demand: EY Global Institutional Investor Survey 2024, Callan 2024 ESG Survey |
 | [[Why Reporting is Important?]] | Case for sustainability reporting: KPMG "Big Shifts, Small Steps" N100-Ireland statistics |
 | [[cop17-outcomes-yerevan-2026]] | What COP17 decided (31 Oct 2026): first global review (22 of 23 targets off track), Yerevan Pathway, donor-list "signal interest" compromise, permanent nature-finance mechanism deferred to COP18 Quito 2028, $1.8bn announced, Cali Fund $10,565, subsidies text softened, High Seas Treaty and ICJ references stripped, Indigenous permanent body, nature credits, Yerevan mountains platform; Ireland's O'Sullivan for the EU |
+| [[cop31-antalya-outcomes-2026]] | What COP31 decided (Antalya, 9-22 Nov 2026): longest COP ever; Antalya Pact cover decision rejected by EU, UK, Norway, Panama, Vanuatu, Marshall Islands, Belize over missing fossil fuel wording; just transition mechanism and loss and damage adopted, mitigation work programme blocked; CCUS gigatonne aspiration, "35 by 35" electrification not adopted; adaptation finance tripling and $120bn left open; overshoot; 25 TAFF roadmaps, Tuvalu and Ireland lead Santa Marta process; COP32 Addis Ababa Nov 2027; Ireland's O'Brien spoke for the EU |
 
 ---
 
