@@ -128,6 +128,21 @@ related:
   - [slug-of-second-related-page]
 ---
 
+### The `updated:` field (read by the app)
+
+The web app uses `updated:` to decide which pages count as recently updated,
+so it must mean "the content changed", not "the file was touched".
+
+- **Change `updated:`** when a page's content changes in a way a reader would
+  notice: new facts or sections from an ingest, corrected figures, rewritten
+  explanations, a new or removed claim.
+- **Do not change `updated:`** for maintenance: formatting, em-dash or spelling
+  fixes, tag or paragraph-tag changes, `related:` or `summary:` edits, frontmatter
+  clean-up, link repairs, or adding a cover image.
+- `created:` never changes after a page is first written.
+- When a single operation does both (for example an ingest that also converts
+  tags), change `updated:` because the content changed.
+
 ### The `related:` field (read by the app, not by humans)
 
 The web app at wiki.the-uptake.com reads this field to show a "related articles" 

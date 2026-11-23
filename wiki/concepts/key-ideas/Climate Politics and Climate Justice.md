@@ -3,7 +3,7 @@ title: "Climate Politics and Climate Justice: Who Is Responsible, and Who Pays"
 category: concepts
 tags: ["#diplomacy", "#cop30", "#eu-policy", "#key-ideas", "#ireland"]
 created: 2026-06-01
-updated: 2026-11-23
+updated: 2026-11-22
 summary: UNFCCC, Paris Agreement, COP27, COP28, loss and damage fund, Nationally Determined Contributions NDCs, CBDR-RC common but differentiated responsibilities, cumulative emissions since 1751, per capita emissions, fair shares, net-zero commitments, climate litigation, Montana youth case, Ecuador tribal land case, polluting elite, Stockholm Environment Institute Oxfam carbon inequality, 3.5% rule social tipping points, France energy efficiency housing rules, Sultan Ahmed Al-Jaber, fossil fuel exporters, extraction-based accounting, Carbon Brief exported CO2 since 1850, Russia Saudi Arabia Australia, COP31, Make Polluters Pay
 related:
   - FACTS About Fossil Fuel (Oil and Gaz) Industry
