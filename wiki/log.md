@@ -2703,3 +2703,8 @@ All from `raw/myths/` — book-summary notes turned into Myth-template pages. No
 - Read, not used: `raw/papers/Datacentre-NS.pdf` (US data centre study, not about COP31; still to be ingested)
 - Created: `wiki/legislation-policy/cop31-antalya-outcomes-2026.md`
 - Updated (related: only): `wiki/sources/dw-oil-nations-taff-2026.md`, `wiki/sources/colombia-santa-marta-fossil-fuel-talks-2026.md`, `wiki/concepts/key-ideas/Climate Politics and Climate Justice.md`
+
+## [2026-11-23] ingest | Massive data centres collectively use as much electricity as an entire US state
+- Source: `raw/papers/Datacentre-NS.pdf`
+- Created: `wiki/sources/us-hyperscale-datacentres-electricity-newscientist-2026.md`
+- Updated: `wiki/sectors/digital/ai-data-centre-energy-crisis.md`: new November 2026 section on US hyperscale electricity use and emissions (tagged #us)

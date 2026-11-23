@@ -170,6 +170,7 @@ Summaries of every ingested source file.
 | [[aerogel-insulation-old-homes-newscientist-2026]] | New Scientist (Oct 2026): aerogels for hard-to-insulate homes; 8 million UK solid-wall homes; Thermulon (UK) lime plaster, 100 t/year in 2027; Keey Aerogel (France) €18m, Mulhouse plant 1,000-2,000 m³/year; cost is the barrier |
 | [[marginal-wells-methane-newscientist-2026]] | New Scientist (Nov 2026): US marginal wells give 5% of oil and gas output but 40% of supply-chain methane (58% of well-site); 10x more polluting per unit; MethaneSat, EDF preprint; Trump rollback |
 | [[antarctica-permafrost-co2-newscientist-2026]] | New Scientist (Nov 2026): Taylor Valley soil CO2 rose from 1.7 to 9.5 g/m²/day (2020-2025); up to 76.8 Mt CO2/year across ice-free Antarctica, about Chile's emissions; cause unclear |
+| [[us-hyperscale-datacentres-electricity-newscientist-2026]] | New Scientist / Nature Sustainability (Nov 2026): 403 US hyperscale data centres used ~82 TWh (1.8% of US electricity, up to 99 TWh), 54% from fossil fuels, ~25.7 Mt CO2 a year; 76% of Americans oppose a local data centre |
 
 ---
 

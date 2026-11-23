@@ -1,8 +1,36 @@
 ---
 title: "What COP31 decided: the outcomes of the Antalya climate talks"
 category: legislation-policy
-tags: ["#diplomacy", "#fossil-fuels", "#finance", "#adaptation", "#electrification", "#carbon-removal"]
-sources: ["Carbon Brief, DeBriefed, Daisy Dunne and Josh Gabbatiss, 20 November 2026. https://www.carbonbrief.org/debriefed-20-november-2026-deal-distant-fossil-fuel-fractions-coalitions-seek-progress", "Carbon Brief, Simon Evans, 22 November 2026. https://connect.carbonbrief.org/t/experts-is-there-a-precedent-for-events-at-cop31/216", "We Don't Have Time, COP31 Live Blog, 20 to 22 November 2026. https://app.wedonthavetime.org/posts/24d1a11a-a1df-4543-840d-0915a11a027d", "We Don't Have Time, November 2026. https://app.wedonthavetime.org/posts/bbcee0af-1265-4555-910e-e30f5517c99e", "The Guardian, Fiona Harvey, 22 November 2026. https://www.theguardian.com/environment/2026/nov/22/finance-fossil-fuels-overshoot-six-key-takeaways-cop31", "The Guardian (opinion), Bill Hare, 23 November 2026. https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement", "The Guardian (analysis), Graham Readfearn, 23 November 2026. https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone", "The Guardian, Fiona Harvey, 21 November 2026. https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve", "The Guardian, Graham Readfearn, 20 November 2026. https://www.theguardian.com/environment/2026/nov/20/pacific-cop31-summit-climate-devastation", "New Scientist, Manuela Callari, 17 November 2026 (carbon removal at COP31)", "New Scientist, Manuela Callari, 17 November 2026 (Antalya AI pledge)", "Climate Action Against Disinformation (CAAD), Türkiye and Australia COP31 survey by Synesis Agora and Norstat, November 2026", "Kite Insights, What to know ahead of UNFCCC COP31, November 2026. https://kiteinsights.com", "We Don't Have Time, Sarah Chabane, November 2026. https://www.wedonthavetime.org/events/cop31", "DW, Natalie Muller, 16 November 2026. https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748", "The Climate Watch, 14 November 2026. https://theclimatewatch.com/un-takes-on-ai-climate-misinformation-as-cop31-fossil-fuel-tensions-rise/", "UN Climate Change News, 27 October 2026. https://unfccc.int/news/un-climate-change-reports-show-paris-agreement-supporting-whole-of-economy-approaches-but-progress", "The Guardian, Fiona Harvey and Simon Evans, 17 November 2026. https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history", "Covering Climate Now, 12 November 2026. https://coveringclimatenow.org/from-us-story/afps-new-climate-litigation-desk-leads-the-way/", "The Guardian, Paul MacInnes, 17 November 2026. https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion", "DW, Jeannette Cwienk, 13 November 2026. https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673"]
+tags:
+  - "#diplomacy"
+  - "#fossil-fuels"
+  - "#finance"
+  - "#adaptation"
+  - "#electrification"
+  - "#carbon-removal"
+  - cop31
+sources:
+  - Carbon Brief, DeBriefed, Daisy Dunne and Josh Gabbatiss, 20 November 2026. https://www.carbonbrief.org/debriefed-20-november-2026-deal-distant-fossil-fuel-fractions-coalitions-seek-progress
+  - Carbon Brief, Simon Evans, 22 November 2026. https://connect.carbonbrief.org/t/experts-is-there-a-precedent-for-events-at-cop31/216
+  - We Don't Have Time, COP31 Live Blog, 20 to 22 November 2026. https://app.wedonthavetime.org/posts/24d1a11a-a1df-4543-840d-0915a11a027d
+  - We Don't Have Time, November 2026. https://app.wedonthavetime.org/posts/bbcee0af-1265-4555-910e-e30f5517c99e
+  - The Guardian, Fiona Harvey, 22 November 2026. https://www.theguardian.com/environment/2026/nov/22/finance-fossil-fuels-overshoot-six-key-takeaways-cop31
+  - The Guardian (opinion), Bill Hare, 23 November 2026. https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement
+  - The Guardian (analysis), Graham Readfearn, 23 November 2026. https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone
+  - The Guardian, Fiona Harvey, 21 November 2026. https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve
+  - The Guardian, Graham Readfearn, 20 November 2026. https://www.theguardian.com/environment/2026/nov/20/pacific-cop31-summit-climate-devastation
+  - New Scientist, Manuela Callari, 17 November 2026 (carbon removal at COP31)
+  - New Scientist, Manuela Callari, 17 November 2026 (Antalya AI pledge)
+  - Climate Action Against Disinformation (CAAD), Türkiye and Australia COP31 survey by Synesis Agora and Norstat, November 2026
+  - Kite Insights, What to know ahead of UNFCCC COP31, November 2026. https://kiteinsights.com
+  - We Don't Have Time, Sarah Chabane, November 2026. https://www.wedonthavetime.org/events/cop31
+  - DW, Natalie Muller, 16 November 2026. https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748
+  - The Climate Watch, 14 November 2026. https://theclimatewatch.com/un-takes-on-ai-climate-misinformation-as-cop31-fossil-fuel-tensions-rise/
+  - UN Climate Change News, 27 October 2026. https://unfccc.int/news/un-climate-change-reports-show-paris-agreement-supporting-whole-of-economy-approaches-but-progress
+  - The Guardian, Fiona Harvey and Simon Evans, 17 November 2026. https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history
+  - Covering Climate Now, 12 November 2026. https://coveringclimatenow.org/from-us-story/afps-new-climate-litigation-desk-leads-the-way/
+  - The Guardian, Paul MacInnes, 17 November 2026. https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion
+  - DW, Jeannette Cwienk, 13 November 2026. https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673
 created: 2026-11-23
 updated: 2026-11-23
 cover_image: ""
